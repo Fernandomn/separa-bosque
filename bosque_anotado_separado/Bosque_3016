@@ -1,0 +1,67 @@
+(FRASE CP583-4 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:pai:M_P::np-def: pais)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n-adj:jovem:M_S::np-def: jovem))))
+                        (,)
+                        (ADVL:advp (H:adv:depois:::: depois)
+                                   (A<arg:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (MV:v-inf:ouvir:3P::: ouvirem))
+                                       (ACC:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:notícia:F_S::np-def: notícia)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:acidente:M_S::np-def: acidente)
+                                             (N<:pp 
+                                               (H:prp:em:::: em+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:prop:Metro:M_S::: Metro)))))))))
+                        (,)
+                        (X:cu (CJT:fcl (ADVL:advp 
+                                         (H:adv:já:::: já))
+                                       (P:vp 
+                                         (AUX:v-fin:haver:IMPF_3P_IND::: haviam)
+                                         (MV:v-pcp:ir:M_S::: ido))
+                                       (SA:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:F_P::artd: as)
+                                           (H:n:urgência:F_P::np-def: urgências)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:hospital:M_S::np-def: hospital)
+                                               (N<:np 
+                                                 (H:prop:São_José:M_S::: São_José)))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:fcl (ADVL:advp 
+                                         (H:adv:depois:::: depois))
+                                       (P:vp 
+                                         (MV:v-fin:seguir:PS_3P_IND::nosubj: seguiram))
+                                       (SA:pp 
+                                         (H:prp:até:::: até)
+                                         (P<:pp 
+                                           (H:prp:a:::: a+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:entrada:F_S::np-def: entrada)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:prop:Metro:M_S::: Metro)
+                                                 (N<:pp 
+                                                   (H:prp:em:::: em+)
+                                                   (P<:np 
+                                                     (>N:art:o:M_S::artd: o)
+                                                     (H:prop:Martim_Moniz:M_S::: Martim_Moniz))))))))))
+                        (.)))

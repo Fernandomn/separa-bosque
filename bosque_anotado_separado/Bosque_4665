@@ -1,0 +1,46 @@
+(FRASE CP904-3 (STA:fcl (ACC:fcl (ADVL:pp 
+                                   (H:prp:com:: Com)
+                                   (P<:np 
+                                     (>N:pron-det:este:M_S::dem: este)
+                                     (H:n:tipo:M_S::np-def: tipo)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:modelo:M_S::np-idf: modelo)))))
+                                 (,)
+                                 (SUBJ:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:renovação:F_S::np-def: renovação)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_P::artd: as)
+                                       (>N:pron-det:várias:F_P::quant: várias)
+                                       (H:n:rede:F_P::anr_np-def: redes)))
+                                   (,)
+                                   (N<PRED:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:nível:M_S::np-def: nível)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:saneamento:M_S::np-def: saneamento)
+                                           (N<:adjp 
+                                             (H:adj:básico:M_S::: básico)))))))
+                                 (,)
+                                 (P:vp (AUX:v-fin:ser:FUT_3P_IND::: serão)
+                                       (MV:v-pcp:executar:F_P::anr_pass:icl-subst:passive: executadas))
+                                 (ADVL:pp 
+                                   (H:prp:sem:::: sem)
+                                   (P<:icl 
+                                     (P:vp 
+                                       (MV:v-inf:perturbar:::: perturbar))
+                                     (ACC:np 
+                                       (H:n:terceiro:M_P::np-idf: terceiros)))))
+                        (,)
+                        (P:vp (MV:v-fin:explicar:PS_3S_IND::: explicou))
+                        (SUBJ:np (H:prop:Martins_de_Oliveira:M_S::: Martins_de_Oliveira))
+                        (.)))

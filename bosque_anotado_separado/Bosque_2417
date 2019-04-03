@@ -1,0 +1,41 @@
+(FRASE CP458-3 (STA:fcl (ADVL:advp (H:adv:uma_vez:: Uma_vez))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:interacção:F_S::np-idf: interacção)
+                                        (N<:pp 
+                                          (H:prp:com:::: com)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:pron-det:outro:M_P::KOMP:diff:np-def: outros)))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:gestão:F_S::np-def: gestão)
+                                 (N<ARGO:pp 
+                                   (H:prp:de:::: de+)
+                                   (P<:np 
+                                     (>N:art:o:F_P::artd: as)
+                                     (>N:pron-det:nosso:F_P::: nossas)
+                                     (H:n:expressão:F_P::anr_np-def: expressões)
+                                     (N<:adjp 
+                                       (H:adj:facial:F_P::: faciais)))))
+                        (P:vp (MV:v-fin:representar:PR_3S_IND::: representa))
+                        (ACC:np (>N:art:um:M_S::arti: um)
+                                (H:n:capital:M_S::np-idf: capital)
+                                (N<:adjp 
+                                  (H:adj:simbólico:M_S::: simbólico))
+                                (N<:fcl (SUBJ:np 
+                                          (H:pron-indp:que:M_S::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:implicar:PR_3S_IND::fs-rel: implica))
+                                        (ACC:np 
+                                          (H:cu 
+                                            (CJT:np 
+                                              (>N:art:um:M_S::arti: um)
+                                              (H:n:domínio:M_S::np-idf: domínio))
+                                            (CO:conj-c:e:::co-acc: e)
+                                            (CJT:np 
+                                              (>N:art:um:M_S::arti: um)
+                                              (H:n:controle:M_S::np-idf: controle)))
+                                          (N<:adjp 
+                                            (>A:adv:socialmente:::: socialmente)
+                                            (H:v-pcp:construir:M_P::: construídos)))))
+                        (.)))

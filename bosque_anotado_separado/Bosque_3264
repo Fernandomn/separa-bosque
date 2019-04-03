@@ -1,0 +1,47 @@
+(FRASE CP625-4 (STA:fcl (PRED:icl::pcp: (P:vp 
+                                          (MV:v-pcp:vitimar:M_S::: Vitimado))
+                                        (PASS:pp 
+                                          (H:prp:por:::: por)
+                                          (P<:np 
+                                            (>N:art:um:M_S::arti: um)
+                                            (H:n:ataque:M_S::np-idf: ataque)
+                                            (N<:adjp 
+                                              (H:adj:cardíaco:M_S::: cardíaco)))))
+                        (,)
+                        (P:vp (MV:v-fin:morrer:PS_3S_IND::: morreu))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (>N:v-pcp:passar:M_S::: passado)
+                                        (H:n:dia:M_S::anr_np-idf: dia)
+                                        (N<:adjp::::date: 
+                                          (H:num:3:M_S::card: 3)
+                                          (A<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:julho:M_S::np-idf:prop: Julho))))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:prop:Nova_Iorque:F_S::: Nova_Iorque)))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:guitarrista:M_S::np-def: guitarrista)
+                                 (N<:np (H:prop:Johnny_Copeland:M_S::: Johnny_Copeland))
+                                 (,)
+                                 (N<PRED:adjp 
+                                   (H:num:um:M_S::card: um)
+                                   (A<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (>N:adj:último:M_P::NUM-ord: últimos)
+                                       (H:n:nome:M_P::anr_np-def:np-partitive2: nomes)
+                                       (N<:adjp 
+                                         (H:adj:carismático:M_P::: carismáticos))
+                                       (N<ARG:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:blues:M_S::np-def: blues)
+                                           (N<:adjp 
+                                             (H:adj:texano:M_S::: texano))))))))
+                        (.)))

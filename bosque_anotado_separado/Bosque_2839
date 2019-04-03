@@ -1,0 +1,55 @@
+(FRASE CP544-7 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (SUBJ:np (H:prop:Benjamin_Brafman:M_S::: Benjamin_Brafman)
+                                 (--)
+                                 (N<PRED:np 
+                                   (H:n:advogado:M_S::np-idf: advogado)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:prop:Jay_Cohen:M_S::: Jay_Cohen))))
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:cu 
+                                     (CJT:np 
+                                       (H:n:presidente:M_S::np-idf: presidente))
+                                     (CO:conj-c:e:::co-pred: e)
+                                     (CJT:np 
+                                       (H:n:proprietário:M_S::np-idf: proprietário)))
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:adjp 
+                                       (H:num:um:F_S::card: uma)
+                                       (A<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_P::artd: as)
+                                           (H:n:empresa:F_P::np-def:np-partitive2: empresas)
+                                           ({)
+                                           (APP:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:prop:World_Sports_Exchange:F_S::: World_Sports_Exchange))
+                                           (}))))))
+                                 (--))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:ter:PR_3S_IND::: tem))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:certeza:F_S::np-def: certeza)
+                                (N<ARG:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:fcl 
+                                    (SUB:conj-s:que:::: que)
+                                    (SUBJ:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:prop:Governo:M_S::: Governo)
+                                      (N<:adjp 
+                                        (H:adj:norte-americano:M_S::: norte-americano)))
+                                    (P:vp 
+                                      (MV:v-fin:ter:PR_3S_SUBJ::fs-subst: tenha))
+                                    (ACC:np 
+                                      (H:n:jurisdição:F_S::np-idf: jurisdição))
+                                    (ADVL:pp 
+                                      (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:pron-det:este:M_S::dem: este)
+                                        (H:n:caso:M_S::np-def: caso))))))
+                        (.)))

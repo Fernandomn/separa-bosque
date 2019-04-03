@@ -1,0 +1,52 @@
+(FRASE CP426-2 (STA:fcl (SUBJ:np (>N:art:um:M_S::arti: Um)
+                                 (H:n:incêndio:M_S::np-idf: incêndio)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (>N:adj:grande:F_P::: grandes)
+                                          (H:n:proporção:F_P::anr_np-idf: proporções))))
+                        (P:vp (MV:v-fin:deflagrar:PS_3S_IND::: deflagrou))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (,)
+                        (ADVL:pp (H:prp:cerca_de:::: cerca_de+)
+                                 (P<:np (>N:art:o:F_P::artd: as)
+                                        (H:n:20h00:F_P::anr_np-idf: 20h00)))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:escarpa:F_S::np-def: escarpa)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:prop:Serra_do_Pilar:F_S::: Serra_do_Pilar)
+                                            (,)
+                                            (N<PRED:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (H:prop:Vila_Nova_de_Gaia:F_S::: Vila_Nova_de_Gaia)))
+                                            (,)))))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:fábrica:F_S::np-idf: fábrica)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:estatueta:F_P::np-idf: estatuetas)))
+                                        (N<:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:localizar:F_S::: localizada))
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:margem:F_S::np-def: margem)
+                                              (N<:adjp 
+                                                (H:adj:esquerdo:F_S::: esquerda))
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:rio:M_S::np-def: rio)
+                                                  (N<:np 
+                                                    (H:prop:Douro:M_S::: Douro)))))))))
+                        (.)))

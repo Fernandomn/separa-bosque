@@ -1,0 +1,28 @@
+(FRASE CP29-3 (STA:fcl (SUBJ:np (>N:art:um:F_S::arti: Uma)
+                                (H:n:equipa:F_S::np-idf: equipa)
+                                (N<:pp (H:prp:de:: de+)
+                                       (P<:np 
+                                         (>N:pron-det:aquele:F_S::dem: aquela)
+                                         (H:n:organização:F_S::np-def: organização))))
+                       (P:vp (MV:v-fin:encontrar:PR_3S_IND::: encontra-))
+                       (ACC:np (H:pron-pers:se:F_3S_ACC::: se))
+                       (ADVL:pp (H:prp:desde:::: desde)
+                                (P<:np (H:n:sexta-feira:F_S::np-idf: sexta-feira)
+                                       (N<:v-pcp:passar:F_S::: passada)))
+                       (ADVL:pp (H:prp:em:::: em+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (H:n:região:F_S::np-def: região)))
+                       (ADVL:pp (H:prp:para:::: para)
+                                (P<:cu (CJT:icl 
+                                         (P:vp 
+                                           (MV:v-inf:examinar:::icl-fin: examinar))
+                                         (ACC:np 
+                                           (>N:art:o:F_P::artd: as)
+                                           (H:n:vítima:F_P::np-def: vítimas)))
+                                       (CO:conj-c:e:::co-inf: e)
+                                       (CJT:icl 
+                                         (P:vp 
+                                           (MV:v-inf:colher:::: colher))
+                                         (ACC:np 
+                                           (H:n:amostra:F_P::np-idf: amostras)))))
+                       (.)))

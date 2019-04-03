@@ -1,0 +1,62 @@
+(FRASE CP544-4 (STA:fcl (SUBJ:np (>N:art:o:F_P::artd: As)
+                                 (H:n:aposta:F_P::np-def: apostas)
+                                 (N<:pp (H:prp:sobre:: sobre)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:resultado:M_P::np-def: resultados)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:jogo:M_S::np-def: jogo)))))
+                                 (,)
+                                 (N<PRED:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:fazer:F_P::: feitas))
+                                   (PASS:cu 
+                                     (CJT:pp 
+                                       (H:prp:por:::: por)
+                                       (P<:np 
+                                         (H:n:telefone:M_S::np-idf: telefone)))
+                                     (CO:conj-c:ou:::co-pass: ou)
+                                     (CJT:pp 
+                                       (H:prp:por:::: por+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:prop:Internet:F_S::: Internet)))))
+                                 (,))
+                        (P:vp (MV:v-fin:custar:IMPF_3P_IND::: custavam))
+                        (ADVL:pp (H:prp:entre:::: entre)
+                                 (P<:np (>N:cu 
+                                          (CJT:np 
+                                            (H:num:dez:M_P::card: dez))
+                                          (CO:conj-c:e:::co-prenom: e)
+                                          (CJT:np 
+                                            (H:num:50:M_P::card: 50)))
+                                        (H:n:dólar:M_P::anr_np-count:anr_np-def: dólares)
+                                        ({)
+                                        (N<PRED:cu 
+                                          (PCJT:np 
+                                            (H:num:1.85000:MF_P::card: 1.85000))
+                                          (PCJT:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:adjp 
+                                              (H:num:9.25000:MF_P::card: 9.25000))))
+                                        (})
+                                        (--)
+                                        (N<PRED:np 
+                                          (H:n:valor:M_P::np-idf: valores)
+                                          (N<:fcl 
+                                            (ADVL:pp 
+                                              (H:prp:sobre:::: sobre)
+                                              (P<:np 
+                                                (H:pron-indp:o_qual:M_P::rel: os_quais)))
+                                            (SUBJ:np 
+                                              (>N:art:o:F_P::artd: as)
+                                              (H:n:empresa:F_P::np-def: empresas))
+                                            (P:vp 
+                                              (MV:v-fin:reter:IMPF_3P_IND::fs-rel: retinham))
+                                            (ACC:np 
+                                              (>N:num:dez:M_P::card: dez)
+                                              (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento))))))
+                        (.)))

@@ -1,0 +1,52 @@
+(FRASE CP859-1 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (>N:adj:futuro:M_P: futuros)
+                                 («)
+                                 (H:n:chip:M_P::anr_np-idf: chips)
+                                 (»)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (>N:num:256:M_P::card: 256)
+                                          (H:n:megabit:M_P::anr_np-count:anr_np-def: megabits))))
+                        (P:vp (AUX:v-fin:poder:FUT_3P_IND::: poderão)
+                              (AUX:v-inf:ser:::: ser)
+                              (MV:v-pcp:usar:M_P::anr_pass:passive: usados))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:aplicação:F_P::np-idf: aplicações)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:F_P::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:exigir:PR_3P_IND::fs-rel: exigem))
+                                          (ACC:np 
+                                            (>N:adj:grande:F_P::: grandes)
+                                            (H:n:quantidade:F_P::anr_np-idf: quantidades)
+                                            (N<ARG:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:memória:F_S::np-dequant:np-idf: memória)))))
+                                        (,)
+                                        (N<PRED:acl 
+                                          (COM:adv:como:::prp: como)
+                                          (SUBJ:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:processamento:M_S::np-def: processamento)
+                                            (N<ARGO:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:imagens:M_S::np-idf: imagens)))
+                                            (N<:cu 
+                                              (CJT:pp 
+                                                (H:prp:em:::: em)
+                                                (P<:np 
+                                                  (H:n:supercomputador:M_P::np-idf: supercomputadores)))
+                                              (CO:conj-c:e:::co-postnom: e)
+                                              (CJT:pp 
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:pron-det:outro:F_P::diff: outras)
+                                                  (H:n:tecnologia:F_P::anr_np-idf: tecnologias)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (H:n:ponta:F_S::np-idf: ponta))))))))))
+                        (.)))

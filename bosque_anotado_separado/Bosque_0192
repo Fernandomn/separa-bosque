@@ -1,0 +1,53 @@
+(FRASE CP34-1 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                (H:n:morador:M_P::np-def: moradores))
+                       (P:vp (AUX:v-fin:ser:PR_3P_IND: são)
+                             (MV:v-pcp:convidar:M_P::anr_pass:passive: convidados))
+                       (PIV:pp (H:prp:a:::: a)
+                               (P<:icl (P:vp 
+                                         (MV:v-inf:fazer:::: fazer))
+                                       (ADVL:advp 
+                                         (H:adv:desde_logo:::: desde_logo))
+                                       (ACC:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:separação:F_S::np-def: separação)
+                                         (N<ARGO:pp- 
+                                           (H:prp:de:::: de+)
+                                           (P<:np- 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:lixo:M_P::np-def: lixos)))
+                                         (--)
+                                         (N<PRED:np 
+                                           (H:n:condição:F_S::np-idf: condição)
+                                           (N<:adjp 
+                                             (H:adj:necessário:F_S::: necessária)
+                                             (A<:pp 
+                                               (H:prp:para:::: para)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:êxito:M_S::np-def: êxito)
+                                                 (N<ARG:pp 
+                                                   (H:prp:de:::: de+)
+                                                   (P<:np 
+                                                     (>N:art:o:M_S::artd: o)
+                                                     (H:n:projecto:M_S::np-def: projecto)))))))
+                                         (--)
+                                         (,)
+                                         (-N<:pp 
+                                           (-P<:np 
+                                             (N<:fcl 
+                                               (SUBJ:np 
+                                                 (H:pron-indp:que:M_P::rel: que))
+                                               (ADVL:advp 
+                                                 (H:adv:depois:::: depois))
+                                               (P:vp 
+                                                 (AUX:v-fin:ser:FUT_3P_IND::: serão)
+                                                 (MV:v-pcp:recolher:M_P::anr_pass:fs-rel:passive: recolhidos))
+                                               (PASS:pp 
+                                                 (H:prp:por:::: por)
+                                                 (P<:np 
+                                                   (H:n:viatura:F_P::np-idf: viaturas)
+                                                   (N<:icl::::pcp: 
+                                                     (P:vp 
+                                                       (MV:v-pcp:equipar:F_P::: equipadas))
+                                                     (ADVL:pp:a_preceito:::: a_preceito))))))))))
+                       (.)))

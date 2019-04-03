@@ -1,0 +1,52 @@
+(FRASE CP818-11 (UTT:np (CO:conj-c:e:: E)
+                        (>N:art:o:F_P::artd: as)
+                        (H:n:perda:F_P::np-def: perdas)
+                        (N<:pp (H:prp:de:::: de)
+                               (P<:np (H:n:rendimento:M_S::np-idf: rendimento)))
+                        (N<:pp (H:prp:a:::: a+)
+                               (P<:np (>N:art:o:M_S::artd: o)
+                                      (H:n:nível:M_S::np-def: nível)
+                                      (N<:adjp 
+                                        (H:adj:regional:M_S::: regional))))
+                        (,)
+                        (N<PRED:icl::::pcp: 
+                          (P:vp (MV:v-pcp:causar:F_P::: causadas))
+                          (PASS:pp (H:prp:por:::: por+)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:eliminação:F_S::np-def: eliminação)
+                                     (,)
+                                     (N<PRED:pp 
+                                       (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:F_P::artd: as)
+                                         (H:n:zona:F_P::np-def: zonas)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:caça:F_S::np-idf: caça)))))
+                                     (,)
+                                     (N<ARGO:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_P::artd: as)
+                                         (H:n:prática:F_P::np-def: práticas)
+                                         (N<:cu 
+                                           (CJT:adjp 
+                                             (H:adj:agrícola:F_P::: agrícolas))
+                                           (CO:conj-c:e:::co-postnom: e)
+                                           (CJT:adjp 
+                                             (H:adj:pastoril:F_P::: pastoris)))
+                                         (N<:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:considerar:F_P::: consideradas))
+                                           (OC:adjp 
+                                             (H:adj:incompatível:F_P::: incompatíveis)
+                                             (A<:pp 
+                                               (H:prp:com:::: com)
+                                               (P<:np 
+                                                 (>N:art:o:F_P::artd: as)
+                                                 (H:n:actividade:F_P::np-def: actividades)
+                                                 (N<:adjp 
+                                                   (H:adj:cinegético:F_P::: cinegéticas)))))))))))
+                        (?)))

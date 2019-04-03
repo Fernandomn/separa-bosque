@@ -1,0 +1,47 @@
+(FRASE CP381-2 (QUE:fcl (ADVL:advp (H:adv:não:: Não))
+                        (P:vp (MV:v-fin:ser:PS_3S_IND::nosubj: foi))
+                        (SC:np (H:n:verdade:F_S::np-idf: verdade))
+                        (,)
+                        (ADVL:advp (H:adv:por_exemplo:::: por_exemplo))
+                        (,)
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:M_P::artd: os)
+                                   (>N:pron-det:próprio:M_P::ident: próprios)
+                                   (H:n:livreiro:M_P::anr_np-def: livreiros))
+                                 (ACC:np 
+                                   (H:pron-pers:se:M_3P_ACC::refl: se))
+                                 (P:vp (MV:v-fin:manifestar:PS_3P_IND::fs-subst: manifestaram))
+                                 (ADVL:pp 
+                                   (H:prp:contra:::: contra)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:realização:F_S::np-def: realização)
+                                     (N<ARGO:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:cu 
+                                         (CJT:np 
+                                           (H:n:concerto:M_P::np-idf: concertos))
+                                         (CO:conj-c:e:::co-prparg: e)
+                                         (CJT:np 
+                                           (H:n:debate:M_P::np-idf: debates))))))
+                                 (,)
+                                 (ADVL:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:considerar:::: considerando))
+                                   (ACC:fcl 
+                                     (SUB:conj-s:que:::: que)
+                                     (SUBJ:np 
+                                       (H:pron-indp:isso:M_S::dem: isso))
+                                     (P:vp 
+                                       (MV:v-fin:ser:IMPF_3S_IND::fs-subst: era))
+                                     (SC:adjp 
+                                       (H:adj:desmobilizador:M_S::: desmobilizador)
+                                       (A<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:n:potencial:M_P::np-def: potenciais)
+                                           (N<:np 
+                                             (H:n:comprador:M_P::np-idf: compradores))))))))
+                        (?)))

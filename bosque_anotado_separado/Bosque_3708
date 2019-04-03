@@ -1,0 +1,33 @@
+(FRASE CP722-1 (STA:fcl (ADVL:pp:de_resto:: De_resto)
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:comerciante:M_P::np-def: comerciantes)
+                                 (N<:adjp 
+                                   (H:adj:espanhol:M_P::: espanhóis)))
+                        (P:vp (AUX:v-fin:parecer:PR_3P_IND::: parecem)
+                              (MV:v-inf:estar:::: estar))
+                        (SC:adjp (>A:adv:mais:_::KOMP:quant: mais)
+                                 (H:adj:atento:M_P::: atentos)
+                                 (A<:pp (H:prp:a:::: a+)
+                                        (P<:np 
+                                          (H:pron-det:o:M_S::: o)
+                                          (N<:fcl 
+                                            (SUBJ:np 
+                                              (H:pron-indp:que:M_S::rel: que))
+                                            (ACC-PASS:np 
+                                              (H:pron-pers:se:M_3S_ACC::: se))
+                                            (P:vp 
+                                              (MV:v-fin:passar:PR_3S_IND::fs-rel:se-passive: passa))
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:prop:Algarve:M_S::: Algarve))))))
+                                 (KOMP<:acl 
+                                   (COM:conj-s:do_que:::: do_que)
+                                   (SUBJ:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (H:n:colega:M_P::np-def: colegas)
+                                     (N<:adjp 
+                                       (H:adj:português:M_P::: portugueses)))))
+                        (.)))

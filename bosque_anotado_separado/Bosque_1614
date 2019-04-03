@@ -1,0 +1,59 @@
+(FRASE CP305-2 (STA:fcl (ADVL:pp (H:prp:em:: Em)
+                                 (P<:np (H:n:declaração:F_P::np-idf: declarações)
+                                        (N<:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Público:M_S::: PÚBLICO)))))
+                        (,)
+                        (SUBJ:np (H:prop:Joaquim_Correia:M_S::: Joaquim_Correia))
+                        (P:vp (MV:v-fin:afirmar:PR_3S_IND::: afirma))
+                        (ACC:icl (P:vp (MV:v-inf:manter:::icl-subst: manter))
+                                 (ACC:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (>N:pron-det:seu:F_S::si: sua)
+                                   (H:n:posição:F_S::anr_np-def: posição))
+                                 (,)
+                                 (ADVL/ADVL[-1]:pp 
+                                   (H:prp:apesar_de:::: apesar_de)
+                                   (P<:icl 
+                                     (P:vp 
+                                       (MV:v-inf:considerar:::icl-conc: considerar))
+                                     (OC:adjp 
+                                       (H:adj:positivo:F_S::: positiva))
+                                     (ACC:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:iniciativa:F_S::np-def: iniciativa)
+                                       (N<:icl::::pcp: 
+                                         (ADVL:advp 
+                                           (H:adv:agora:::: agora))
+                                         (P:vp 
+                                           (MV:v-pcp:tomar:F_S::: tomada))
+                                         (PASS:pp 
+                                           (H:prp:por:::: por+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:prop:IPPAR:M_S::: IPPAR))))
+                                       (,)
+                                       (N<PRED:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:F_S::rel: que))
+                                         (DAT:np 
+                                           (H:pron-pers:ele:M_3S_DAT::: lhe))
+                                         (P:vp 
+                                           (AUX:v-fin:ter:FUT_3S_IND::: terá)
+                                           (AUX:v-pcp:ser:::: sido)
+                                           (MV:v-pcp:comunicar:F_S::anr_pass:fs-rel:passive: comunicada))
+                                         (PASS:pp 
+                                           (H:prp:por:::: por+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (>N:pron-det:próprio:F_S::ident: própria)
+                                             (H:prop:Câmara_de_Leiria:F_S::: Câmara_de_Leiria)))
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (>N:v-pcp:passar:F_S::: passada)
+                                             (H:n:sexta-feira:F_S::anr_np-idf: sexta-feira))))))))
+                        (.)))

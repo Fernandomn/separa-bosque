@@ -1,0 +1,66 @@
+(FRASE CP275-10 (STA:fcl (P:vp (MV:v-fin:esperar:PR_3S_IND: Espera-))
+                         (SUBJ:np (H:pron-pers:se:MF_3SP_ACC::: se))
+                         (ACC:np- (>N:adv:ainda:::: ainda)
+                                  (>N:art:o:F_S::artd: a)
+                                  (H:n:aprovação:F_S::np-def: aprovação))
+                         (,)
+                         (ADVL:pp (H:prp:por_parte_de:::: por_parte_de+)
+                                  (P<:np 
+                                    (>N:art:o:S::artd: a)
+                                    (H:n:comissão:F_S::np-def:prop: Comissão)))
+                         (,)
+                         (-ACC:np (N<ARGO:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:S::artd: a)
+                                      (>N:adj:terceiro:F_S::NUM-ord: terceira)
+                                      (H:n:parte:F_S::anr_np-def: parte)
+                                      (N<ARG:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:plano:M_S::np-def:np-partitive2: plano)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:ajuda:F_S::np-idf: ajuda)
+                                              (N<ARGO:pp 
+                                                (H:prp:a:::: a+)
+                                                (P<:np 
+                                                  (>N:art:o:S::artd: a)
+                                                  (H:np 
+                                                    (H:n:companhia:F_S::anr_np-def: companhia)
+                                                    (N<:adjp 
+                                                      (H:adj:francês:F_S::: francesa))
+                                                    (N<:np 
+                                                      (H:prop:Air_France:F_S::: Air_France)))))))
+                                          (,)
+                                          (N<PRED:fcl 
+                                            (SUBJ:np 
+                                              (>N:pron-det:cujo:M_S::rel: cujo)
+                                              (H:n:montante:M_S::anr_np-idf: montante)
+                                              (N<:adjp 
+                                                (H:adj:global:M_S::: global)))
+                                            (P:vp 
+                                              (MV:v-fin:ser:PR_3S_IND::fs-rel: é))
+                                            (SC:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (>N:adjp 
+                                                  (>A:adv:cerca_de:::: cerca_de)
+                                                  (H:num:quatro:M_P::card: quatro))
+                                                (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                                (N<ARG:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:dólar:M_P::np-dequant:np-idf: dólares))))
+                                              ({)
+                                              (N<PRED:np 
+                                                (>N:np 
+                                                  (>N:adjp 
+                                                    (>A:adv:cerca_de:::: cerca_de)
+                                                    (H:num:605:M_P::card: 605))
+                                                  (H:n:mil:M_P::card:num: mil))
+                                                (H:n:conto:M_P::anr_np-count:anr_np-def: contos))
+                                              (}))))))))
+                         (.)))

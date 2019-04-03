@@ -1,0 +1,42 @@
+(FRASE CP82-1 (STA:fcl (ADVL:pp (H:prp:em_abono_de:: Em_abono_de+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (>N:pron-det:seu:F_S::si: sua)
+                                       (H:n:ideia:F_S::anr_np-def: ideia)))
+                       (,)
+                       (SUBJ:np (H:prop:Pfaff:MF_S::: Pfaff))
+                       (P:vp (MV:v-fin:citar:IMPF_3S_IND::: citava))
+                       (ACC:np (>N:num:dois:M_P::card: dois)
+                               (H:n:comentador:M_P::anr_np-count:anr_np-def: comentadores)
+                               (N<:adjp (H:adj:político:M_P::: políticos))
+                               (N<:np (H:n:conservador:M_P::np-idf: conservadores))
+                               (,)
+                               (APP:cu (CJT:np 
+                                         (H:prop:William_Kristol:M_S::: William_Kristol))
+                                       (CO:conj-c:e:::co-app: e)
+                                       (CJT:np 
+                                         (H:prop:Robert_Kagan:M_S::: Robert_Kagan)))
+                               (,)
+                               (N<PRED:fcl 
+                                 (SUBJ:np 
+                                   (H:pron-indp:que:M_P::rel: que))
+                                 (P:vp (MV:v-fin:teorizar:PS_3P_IND::fs-rel: teorizaram))
+                                 (PIV:pp 
+                                   (H:prp:sobre:::: sobre)
+                                   (P<:np 
+                                     (H:pron-det:o:M_S::dem: o)
+                                     (N<:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:M_S::rel: que))
+                                       (P:vp 
+                                         (AUX:v-fin:dever:PR_3S_COND::: deveria)
+                                         (MV:v-inf:ser:::fs-rel: ser))
+                                       (SC:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:política:F_S::np-def: política)
+                                         (N<:adjp 
+                                           (H:adj:externo:F_S::: externa))
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:prop:Bob_Dole:M_S::: Bob_Dole)))))))))
+                       (;)))

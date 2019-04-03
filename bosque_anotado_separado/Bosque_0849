@@ -1,0 +1,43 @@
+(FRASE CP161-2 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:pron-det:este:M_S::dem: este)
+                                        (H:n:estudo:M_S::np-def: estudo)))
+                        (P:vp (AUX:v-fin:ser:PR_3P_IND::: são)
+                              (MV:v-pcp:apontar:M_P::anr_pass:passive: apontados))
+                        (SC:acl (PRD:adv:como:::prp: como)
+                                (SC:np (>N:adj:principal:F_P::: principais)
+                                       (H:n:fonte:F_P::anr_np-idf: fontes)
+                                       (N<:adjp 
+                                         (H:adj:poluidor:M_P::: poluidores))))
+                        (SUBJ:cu (CJT:np 
+                                   (>N:art:o:F_P::artd: as)
+                                   (H:n:pecuária:F_P::np-def: pecuárias))
+                                 (,)
+                                 (CJT:np 
+                                   (H:n:matadouro:M_P::np-idf: matadouros))
+                                 (CO:conj-c:e:::co-subj: e)
+                                 (CJT:np 
+                                   (H:n:esgoto:M_P::np-idf: esgotos)
+                                   (N<:adjp 
+                                     (H:adj:doméstico:M_P::: domésticos))))
+                        (ADVL:icl::::ger: 
+                          (P:vp (AUX:v-ger:ser:::: sendo)
+                                (MV:v-pcp:observar:M_P::anr_pass:passive: observados))
+                          (SUBJ:np (>N:pron-det:vários:M_P::quant: vários)
+                                   (H:n:caso:M_P::anr_np-idf: casos)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:contaminação:F_S::np-idf: contaminação)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:água:F_P::np-idf: águas)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:cu 
+                                               (CJT:np 
+                                                 (H:n:fontanário:M_P::np-idf: fontanários))
+                                               (CO:conj-c:e:::co-prparg: e)
+                                               (CJT:np 
+                                                 (H:n:poço:M_P::np-idf: poços))))))))))
+                        (.)))

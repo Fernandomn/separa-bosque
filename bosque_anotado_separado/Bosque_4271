@@ -1,0 +1,99 @@
+(FRASE CP829-3 (STA:fcl (ADVL:advp (H:adv:paralelamente:: Paralelamente)
+                                   (A<:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:teste:M_P::np-def: testes)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:reabastecimento:M_S::np-idf: reabastecimento))))))
+                        (,)
+                        (SUBJ:np- (H:cu (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:McLaren-Peugeot:M_S::: McLaren-Peugeot)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:prop:Mika_Hakkinen:M_S::: Mika_Hakkinen))))
+                                        (CO:conj-c:e:::co-subj: e)
+                                        (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Sauber-Mercedes:M_S::: Sauber-Mercedes)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:prop:Karl_Wendlinger:M_S::: Karl_Wendlinger))))))
+                        (P:vp (MV:v-fin:ser:PS_3P_IND::: foram))
+                        (SC:np (>A:art:o:M_P::artd: os)
+                               (>A:adv:mais:_::KOMP:quant: mais)
+                               (H:adj:rápido:M_P::: rápidos)
+                               (A<:pp (H:prp:em:::: em)
+                                      (P<:np 
+                                        (H:n:pista:F_S::np-idf: pista))))
+                        (-SUBJ:np (,)
+                                  (N<PRED:icl::::pcp: 
+                                    (P:vp 
+                                      (MV:v-pcp:cronometrar:M_P::: cronometrados))
+                                    (ADVL:pp 
+                                      (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (>N:pron-det:seu:F_P::si: suas)
+                                        (H:n:volta:F_P::anr_np-def: voltas)
+                                        (N<:adjp 
+                                          (>A:adv:mais:_::KOMP:quant: mais)
+                                          (H:adj:rápido:F_P::: rápidas))))
+                                    (ADVL:pp 
+                                      (H:prp:em:::: em)
+                                      (P<:np 
+                                        (H:n:1m19,32s:M_P::np-idf: 1m19,32s)))))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:enquanto:_::ks:rel: enquanto))
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:prop:Lotus-Mugen-Honda:M_S::: Lotus-Mugen-Honda)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:prop:Pedro_Lamy:M_S::: Pedro_Lamy))))
+                                  (P:vp (MV:v-fin:ser:PS_3S_IND::: foi))
+                                  (SC:np 
+                                    (>A:art:o:M_S::artd: o)
+                                    (>A:adv:mais:_::KOMP:quant: mais)
+                                    (H:n-adj:lento:M_S::: lento))
+                                  (,)
+                                  (ADVL:icl::::ger: 
+                                    (P:vp 
+                                      (MV:v-ger:gastar:::: gastando))
+                                    (ACC:np 
+                                      (H:n:1m27,52s:M_P::np-idf: 1m27,52s)))
+                                  (,)
+                                  (ADVL:pp 
+                                    (P:np 
+                                      (H:pron-det:muito:M_S::quant: muito))
+                                    (H:prp:aquém_de:::: aquém_de+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:italiano:M_S::anr_np-idf: italiano)
+                                      (N<:np 
+                                        (H:prop:Alessandro_Zanardi:M_S::: Alessandro_Zanardi))
+                                      (,)
+                                      (N<PRED:np 
+                                        (H:n:piloto-ensaiador:M_S::np-idf: piloto-ensaiador)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:equipa:F_S::np-def: equipa))))
+                                      (,)
+                                      (N<PRED:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:M_S::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:gastar:PS_3S_IND::fs-rel: gastou))
+                                        (ACC:np 
+                                          (>N:adv:apenas:::: apenas)
+                                          (H:n:1m22,95s:M_P::anr_np-idf: 1m22,95s))))))
+                        (.)))

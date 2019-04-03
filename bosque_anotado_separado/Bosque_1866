@@ -1,0 +1,14 @@
+(FRASE CP355-11 (STA:fcl (CO:conj-c:mas:: Mas)
+                         (SUBJ:np (>N:art:o:M_S::artd: o)
+                                  (H:n:presidente:M_S::np-def:prop: Presidente))
+                         (P:vp (MV:v-fin:estar:PR_3S_IND::: está))
+                         (SC:icl::::pcp: 
+                           (P:vp (MV:v-pcp:cercar:M_S::: cercado))
+                           (PASS:pp (H:prp:por:::: por)
+                                    (P<:np 
+                                      (H:n:pedido:M_P::np-idf: pedidos)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:renúncia:F_S::np-idf: renúncia))))))
+                         (.)))

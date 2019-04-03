@@ -1,0 +1,70 @@
+(FRASE CP678-2 (STA:fcl (PRED:cu (CJT:adjp 
+                                   (H:adj:distante:M_S: Distante))
+                                 (,)
+                                 (CJT:pp 
+                                   (H:prp:com:::: com)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:pena:F_S::np-def: pena)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:num:15:M_P::card: 15)
+                                         (H:n:mês:M_P::anr_np-count:anr_np-def: meses)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:prisão:F_S::np-idf: prisão)
+                                             (N<:v-pcp:suspender:F_S::: suspensa)))))
+                                     (,)
+                                     (N<PRED:pp 
+                                       (H:prp:por:::: por+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:infracção:F_S::np-def: infracção)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:favorecimento:M_S::np-idf: favorecimento)
+                                             (N<:adjp 
+                                               (H:adj:pessoal:M_S::: pessoal))))))
+                                     (,))))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (>N:pron-det:seu:M_S::: seu)
+                                 (H:n:afilhado:M_S::anr_np-def: afilhado)
+                                 (N<:np (H:prop:José_Miguel_Noite:M_S::: José_Miguel_Noite)))
+                        (P:vp (MV:v-fin:completar:FUT_3S_IND::: completará))
+                        (ACC:np (>N:num:28:M_P::card: 28)
+                                (H:n:ano:M_P::anr_np-count:anr_np-def: anos))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (>N:adj:próximo:M_S::: próximo)
+                                        (H:n:dia:M_S::anr_np-def: dia)
+                                        (N<:adjp 
+                                          (H:num:24:M_S::card: 24))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:país:M_S::np-idf: país)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:prop:União_Europeia:F_S::: União_Europeia)
+                                            (N<:fcl 
+                                              (ADVL:advp 
+                                                (H:adv:onde:_::ks:rel: onde))
+                                              (P:vp 
+                                                (MV:v-fin:estudar:PR_3S_IND::fs-rel:nosubj: estuda))
+                                              (ADVL:acl 
+                                                (PRD:adv:como:::prp: como)
+                                                (SC:np 
+                                                  (H:n:bolseiro:M_S::np-idf: bolseiro)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (>N:art:um:F_S::arti: uma)
+                                                      (H:n:instituição:F_S::np-idf: instituição)
+                                                      (N<:adjp 
+                                                        (H:adj:madeirense:F_S::: madeirense)))))))))))
+                        (.)))

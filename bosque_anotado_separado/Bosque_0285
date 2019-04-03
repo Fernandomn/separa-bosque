@@ -1,0 +1,40 @@
+(FRASE CP50-5 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                (H:n:negociador:M_P::np-def: negociadores))
+                       (P:vp (MV:v-fin:usar:PS_3P_IND: usaram))
+                       (ACC:np (H:n:caneta:F_P::np-idf: canetas)
+                               (N<:pp (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:ponta:F_S::np-idf: ponta)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:feltro:M_S::np-idf: feltro))))))
+                       (ADVL:pp (H:prp:para:::: para)
+                                (P<:icl (P:vp 
+                                          (MV:v-inf:traçar:::icl-fin: traçar))
+                                        (ACC:np 
+                                          (H:n:linha:F_P::np-idf: linhas)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:fronteira:F_S::np-idf: fronteira))))
+                                        (OA:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:cartão:M_P::np-def: cartões)
+                                            (N<:v-pcp:plastificar:M_P::: plastificados)
+                                            (N<:pp 
+                                              (H:prp:com:::: com)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:np 
+                                                  (H:n:território:M_S::anr_np-def: território)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de+)
+                                                    (P<:np 
+                                                      (>N:art:o:S::artd: a)
+                                                      (H:prop:ex-Jugoslávia:F_S::: ex-Jugoslávia))))
+                                                (N<PRED:vp 
+                                                  (MV:v-pcp:imprimir:M_S::: impresso))))))))
+                       (.)))

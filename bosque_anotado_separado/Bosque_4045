@@ -1,0 +1,30 @@
+(FRASE CP788-6 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (,)
+                        (ADVL:pp:por_outro_lado:::: por_outro_lado)
+                        (,)
+                        (ADVL:advp (H:adv:não:::: não))
+                        (FOC:advp (H:adv:é:::foc: é))
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:desvalorização:F_S::np-def: desvalorização)
+                                 (N<ARGO:pp 
+                                   (H:prp:de:::: de+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:escudo:M_S::np-def: escudo))))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                              (MV:v-inf:resolver:::: resolver))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:problema:M_S::np-def: problema)
+                                (N<:pp:de_fundo:::: de_fundo)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:competitividade:F_S::np-idf: competitividade)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:indústria:F_S::np-def: indústria)
+                                             (N<:adjp 
+                                               (H:adj:português:F_S::: portuguesa)))))))
+                        (.)))

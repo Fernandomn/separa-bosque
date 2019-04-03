@@ -1,0 +1,76 @@
+(FRASE CP502-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (>N:pron-det:próprio:M_S::ident: próprio)
+                                 (H:n:professor:M_S::anr_np-def: professor)
+                                 (N<:np (H:prop:Cavaco:M_S: Cavaco))
+                                 (,)
+                                 (N<PRED:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (>N:adj:modesto:F_S::: modesta)
+                                     (H:n:fortuna:F_S::anr_np-idf: fortuna)))
+                                 (,)
+                                 (N<PRED:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:fartar:M_S::: farto))
+                                   (PIV:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:icl 
+                                       (ACC:np 
+                                         (H:pron-pers:nós:MF_1P_ACC::: nos))
+                                       (P:vp 
+                                         (MV:v-inf:aturar:::: aturar)))))
+                                 (,))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:mandar:PS_3S_IND::: mandou))
+                                (ACC:np (H:pron-indp:tudo:M_S::quant: tudo))
+                                (OA:pp (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:pron-det:aquele:M_S::dem: aquele)
+                                         (H:n:sítio:M_S::np-def: sítio)))
+                                (--)
+                                (ADVL:icl::::ger: 
+                                  (P:vp (MV:v-ger:aplicar:::: aplicando))
+                                  (ACC:np 
+                                    (>N:art:um:F_S::arti: uma)
+                                    (H:n:bofetada_sem_mão:F_S::np-idf: bofetada_sem_mão))
+                                  (PIV:pp 
+                                    (H:prp:a:::: a+)
+                                    (P<:np 
+                                      (H:pron-det:o:M_P::: os)
+                                      (N<:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:M_P::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:viver:PR_3P_IND::fs-rel: vivem))
+                                        (PIV:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:politiquice:F_S::np-def: politiquice)))))))
+                                (--))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:retomar:FUT_3S_IND::nosubj: retomará))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:carreira:F_S::np-def: carreira)
+                                        (N<:adjp 
+                                          (H:adj:profissional:F_S::: profissional)))
+                                (ADVL:cu 
+                                  (CJT:icl::::ger: 
+                                    (P:vp 
+                                      (MV:v-ger:ganhar:::: ganhando))
+                                    (ACC:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:dobro:M_S::np-def:numfract: dobro)))
+                                  (,)
+                                  (CJT:icl::::ger: 
+                                    (P:vp 
+                                      (MV:v-ger:chatear:::hyfen: chateando-))
+                                    (ACC:np 
+                                      (H:pron-pers:se:M_3S_ACC::refl: se))
+                                    (ADVL:pp 
+                                      (H:prp:por:::: por+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:metade:F_S::np-def:numfract: metade)))))))
+                        (.)))

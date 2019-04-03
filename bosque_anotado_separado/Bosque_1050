@@ -1,0 +1,30 @@
+(FRASE CP196-5 (STA:fcl (SUBJ:np (H:prop:Ivanisevic:M_S: Ivanisevic))
+                        (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                              (MV:v-inf:defrontar:::: defrontar))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (>N:adj:segundo:F_S::NUM-ord: segunda)
+                                        (H:n:ronda:F_S::anr_np-def: ronda)))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n-adj:norte-americano:M_S::np-def: norte-americano)
+                                (N<:np (H:prop:John_McEnroe:M_S::: John_McEnroe)
+                                       (,)
+                                       (N<PRED:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:M_S::rel: que))
+                                         (P:vp 
+                                           (MV:v-fin:eliminar:PS_3S_IND::fs-rel: eliminou))
+                                         (ACC:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n-adj:sueco:M_S::np-def: sueco)
+                                           (N<:np 
+                                             (H:prop:Niklas_Kulti:M_S::: Niklas_Kulti)))
+                                         ({)
+                                         (ADVL:cu 
+                                           (CJT:np 
+                                             (H:n:6-1:M_P::card: 6-1))
+                                           (CO:conj-c:e:::co-advl: e)
+                                           (CJT:np 
+                                             (H:n:6-4:M_P::card: 6-4)))
+                                         (}))))
+                        (.)))

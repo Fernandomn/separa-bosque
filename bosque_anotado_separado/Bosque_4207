@@ -1,0 +1,64 @@
+(FRASE CP816-4 (STA:fcl (SUBJ:np (H:prop:Portugal:M_S: Portugal))
+                        (,)
+                        (ADVL:advp (H:adv:através:::: através)
+                                   (A<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:cu 
+                                       (CJT:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:prop:IPACA:M_S::: IPACA))
+                                       (,)
+                                       (CJT:np 
+                                         (H:prop:RTP:F_S::: RTP))
+                                       (CO:conj-c:e:::co-prparg: e)
+                                       (CJT:np 
+                                         (>N:pron-det:vários:M_P::quant: vários)
+                                         (>N:pron-det:outro:M_P::KOMP:diff: outros)
+                                         (H:n:organismo:M_P::anr_np-idf: organismos)
+                                         (N<:cu 
+                                           (CJT:adjp 
+                                             (H:adj:público:M_P::: públicos))
+                                           (CO:conj-c:e:::co-postnom: e)
+                                           (CJT:adjp 
+                                             (H:adj:privado:M_P::: privados)))))))
+                        (,)
+                        (P:vp (MV:v-fin:assegurar:PR_3S_IND::: assegura))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:grosso:M_S::np-def: grosso)
+                                (N<ARG:pp 
+                                  (H:prp:de:::: de+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:financiamento:M_S::np-def:np-partitive1: financiamento))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:caber:::: cabendo))
+                          (SUBJ:np (>N:art:o:F_S::artd: a)
+                                   (H:n:parte:F_S::np-def: parte)
+                                   (N<:adjp 
+                                     (H:adj:restante:F_S::: restante)))
+                          (PIV:cu (CJT:pp 
+                                    (H:prp:a:::: a+)
+                                    (P<:cu 
+                                      (CJT:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:prop:Brasil:M_S::: Brasil))
+                                      (CO:conj-c:e:::co-prparg: e)
+                                      (CJT:np 
+                                        (H:prop:Cabo_Verde:M_S::: Cabo_Verde))))
+                                  (,)
+                                  (CO:conj-c:e:::co-piv: e)
+                                  (CJT:pp 
+                                    (>P:adv:ainda:::: ainda)
+                                    (H:prp:a:::: a)
+                                    (P<:np 
+                                      (H:n:entidade:F_P::np-idf: entidades)
+                                      (N<:icl::::pcp: 
+                                        (P:vp 
+                                          (MV:v-pcp:ligar:F_P::: ligadas))
+                                        (PIV:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:prop:União_Europeia:F_S::: União_Europeia))))))))
+                        (.)))

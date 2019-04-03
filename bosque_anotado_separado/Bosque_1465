@@ -1,0 +1,46 @@
+(FRASE CP274-12 (STA:fcl (ADVL:np (>N:num:quatro:M_P::card: Quatro)
+                                  (H:n:dia:M_P::anr_np-count:anr_np-def: dias)
+                                  (N<:advp 
+                                    (>A:adv:mais:quant: mais)
+                                    (H:adv:tarde:::: tarde)))
+                         (,)
+                         (SUBJ:np (>N:art:o:M_S::artd: o)
+                                  (H:prop:Ministério_Público:M_S::: Ministério_Público))
+                         (X:cu (CJT:x::::predicate: 
+                                 (P:vp (MV:v-fin:detectar:PS_3S_IND::: detectou))
+                                 (ACC:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:erro:M_S::np-def: erro)))
+                               (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                               (CJT:x::::predicate: 
+                                 (P:vp (MV:v-fin:ordenar:PS_3S_IND::nosubj: ordenou))
+                                 (ACC:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:transferência:F_S::np-def: transferência)
+                                   (N<ARGO:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:processo:M_S::np-def: processo)))
+                                   (N<:pp 
+                                     (H:prp:para:::: para)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:foro:M_S::np-def: foro)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Tribunal_de_Menores:M_S::: Tribunal_de_Menores)
+                                           (,)
+                                           (N<PRED:fcl 
+                                             (PIV:pp 
+                                               (H:prp:a:::: a)
+                                               (P<:np 
+                                                 (H:pron-indp:quem:M_S::rel: quem)))
+                                             (P:vp 
+                                               (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                               (MV:v-pcp:entregar:M_S::anr_pass:fs-rel:nosubj:passive: entregue))
+                                             (ADVL:advp 
+                                               (H:adv:ontem:::: ontem))))))))))
+                         (.)))

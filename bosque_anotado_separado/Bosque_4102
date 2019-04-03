@@ -1,0 +1,49 @@
+(FRASE CP801-3 (STA:fcl (ADVL:fcl (SUB:conj-s:se:: Se)
+                                  (P:vp (MV:v-fin:pegar:FUT_1P_SUBJ::nosubj: pegarmos))
+                                  (ADVL:pp 
+                                    (H:prp:no_caso_de:::: no_caso_de)
+                                    (P<:np 
+                                      (H:prop:África:F_S::: África))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (>N:adj:grande:F_S::: grande)
+                                 (H:n:quantidade:F_S::anr_np-def: quantidade)
+                                 (N<ARG:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (H:n:gente:F_S::np-dequant:np-idf: gente)))
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:F_S::rel: que))
+                                   (ADVL:advp 
+                                     (H:adv:ali:::: ali))
+                                   (P:vp 
+                                     (MV:v-fin:morrer:PR_3S_IND::fs-rel: morre))
+                                   (PIV:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:fome:F_S::np-idf: fome)))))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:resultar:PR_3S_IND::: resulta))
+                        (PIV:cu (CJT:cu (CJT:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:problema:M_S::np-def: problema)
+                                            (N<:adjp 
+                                              (H:adj:ambiental:M_S::: ambiental))))
+                                        (CO:conj-c:ou:::co-piv: ou)
+                                        (CJT:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:art:um:F_S::arti: uma)
+                                            (H:n:agricultura:F_S::np-idf: agricultura)
+                                            (N<:adjp 
+                                              (H:adj:subdesenvolvido:F_S::: subdesenvolvida)))))
+                                (,)
+                                (CO:conj-c:mas:::: mas)
+                                (CJT:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:governo:M_P::np-def: governos))))
+                        (.)))

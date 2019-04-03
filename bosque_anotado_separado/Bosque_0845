@@ -1,0 +1,64 @@
+(FRASE CP160-2 (STA:fcl (ADVL:pp (H:prp:até:: Até)
+                                 (P<:adjp::::date: 
+                                   (H:num:24:M_S::card: 24)
+                                   (A<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:outubro:M_S::np-idf:prop: Outubro)))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:prop:Nova_Filarmonia:F_S::: Nova_Filarmonia)
+                                 (--)
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:F_S::rel: que))
+                                   (ADVL:advp 
+                                     (H:adv:actualmente:::: actualmente))
+                                   (P:vp 
+                                     (AUX:v-fin:ser:PR_3S_IND::: é)
+                                     (MV:v-pcp:compor:F_S::anr_pass:fs-rel:passive: composta))
+                                   (PASS:pp 
+                                     (H:prp:por:::: por)
+                                     (P<:np 
+                                       (>N:num:35:M_P::card: 35)
+                                       (H:n:músico:M_P::anr_np-count:anr_np-def: músicos))))
+                                 (--))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:estar:FUT_3S_IND::: estará))
+                                (SA:pp (H:prp:em:::: em)
+                                       (P<:cu 
+                                         (CJT:np 
+                                           (H:prop:Covilhã:F_S::: Covilhã)))
+                                       (,)
+                                       (CJT:np 
+                                         (H:prop:Leiria:MF_S::: Leiria))
+                                       (,)
+                                       (CJT:np 
+                                         (H:prop:Paio_Pires:M_S::: Paio_Pires))
+                                       (,)
+                                       (CJT:np 
+                                         (H:prop:Lisboa:F_S::: Lisboa))
+                                       (,)
+                                       (CJT:np 
+                                         (H:prop:Coimbra:F_S::: Coimbra))
+                                       (,)
+                                       (CJT:np 
+                                         (H:prop:Valença:MF_S::: Valença))
+                                       (,)))
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:voltar:PR_3S_IND::nosubj: volta))
+                                (SA:pp (H:prp:a:::: a)
+                                       (P<:np 
+                                         (H:prop:Vila_Real:F_S::: Vila_Real))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (,)
+                                (ADVL:advp 
+                                  (H:adv:finalmente:::: finalmente))
+                                (,)
+                                (P:vp (MV:v-fin:tocar:PR_3S_IND::nosubj: toca))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em)
+                                  (P<:np 
+                                    (H:prop:Matosinhos:MF_S::: Matosinhos)))))
+                        (.)))

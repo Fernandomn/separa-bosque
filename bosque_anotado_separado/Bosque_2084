@@ -1,0 +1,75 @@
+(FRASE CP399-1 (STA:fcl (ADVL:pp (H:prp:com:: Com)
+                                 (P<:np (H:n:participação:F_S::np-idf: participação)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:elemento:M_P::np-idf: elementos)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:grupo:M_S::np-def: grupo)))
+                                            (,)
+                                            (APP:np 
+                                              (>N:pp 
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:pron-det:este:M_S::dem: este)
+                                                  (H:n:caso:M_S::np-def: caso)))
+                                              (H:prop:Tó_Pereira:M_S::: Tó_Pereira))
+                                            (,)))))
+                        (P:vp (AUX:v-fin:ser:FUT_3S_IND::: será)
+                              (MV:v-pcp:lançar:M_S::anr_pass:passive: lançado))
+                        (PASS:pp (H:prp:por:::: por+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Tribal:F_S::: Tribal)))
+                        (SUBJ:np (>N:art:um:M_S::arti: um)
+                                 (H:n:CD:M_S::np-idf: CD)
+                                 (N<:pp (>P:adv:só:::: só)
+                                        (H:prp:com:::: com)
+                                        (P<:np 
+                                          (H:n:trabalho:M_P::np-idf: trabalhos)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:prop:Kaos:F_S::: Kaos)))
+                                          ({)
+                                          (N<PRED:fcl 
+                                            (SUBJ:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:tema:M_P::np-def: temas)
+                                              (N<:v-pcp:incluir:M_P::: incluídos))
+                                            (P:vp 
+                                              (AUX:v-fin:dever:FUT_3P_IND::: deverão)
+                                              (MV:v-inf:repartir:_::hyfen:se-passive: repartir-))
+                                            (ACC-PASS:np 
+                                              (H:pron-pers:se:M_3P_ACC::refl: se))
+                                            (ADVL:pp 
+                                              (H:prp:entre:::: entre)
+                                              (P<:cu 
+                                                (CJT:np 
+                                                  (>N:art:o:M_P::artd: os)
+                                                  (>N:adj:primeiro:M_P::NUM-ord: primeiros)
+                                                  (H:n:lançamento:M_P::anr_np-def: lançamentos))
+                                                (CO:conj-c:e:::co-prparg: e)
+                                                (CJT:np::::Eg: 
+                                                  (>N:art:o:M_P::artd: os)
+                                                  (>N:adv:mais:_::KOMP:quant: mais)
+                                                  (H:adj:recente:M_P::Eg:anr_np-def: recentes)))))
+                                          (})
+                                          (N<:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:misturar:M_P::: misturados))
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:um:F_S::arti: uma)
+                                                («)
+                                                (H:n:megamix:M_S::DERP:anr_np-idf: megamix)
+                                                (»)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:prop:Tó_Pereira:M_S::: Tó_Pereira)))))))))
+                        (.)))

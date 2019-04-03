@@ -1,0 +1,75 @@
+(FRASE CP776-2 (STA:fcl («)
+                        (ADVL:pp (H:prp:ao_longo_de:: Ao_longo_de)
+                                 (P<:np (>N:adjp 
+                                          (>A:adv:quase:::quant: quase)
+                                          (H:num:200:M_P::card: 200))
+                                        (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:história:F_S::np-def: história)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Teatro_Nacional_de_São_Carlos:M_S::: Teatro_Nacional_de_São_Carlos))))
+                        (P:vp (MV:v-fin:acompanhar:PS_3S_IND::: acompanhou))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:vida:F_S::np-def: vida)
+                                (N<:adjp 
+                                  (H:adj:cultural:F_S::: cultural))
+                                (N<:np (H:n:portuguesa:F_S::np-idf: portuguesa)))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:ser:::: sendo))
+                          (SC:adjp (H:adj:imperioso:M_S::: imperioso))
+                          (SUBJ:icl (P:vp 
+                                      (MV:v-inf:criar:::icl-subst: criar))
+                                    (ACC:np 
+                                      (H:n:condição:F_P::np-idf: condições)
+                                      (N<ARGO:fcl 
+                                        (H:prp:para:::: para)
+                                        (P<:fcl 
+                                          (SUB:conj-s:que:::: que)
+                                          (,)
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (>N:adj:novo:M_S::: novo)
+                                              (H:n:renascimento:M_S::anr_np-def: renascimento)
+                                              (N<:fcl 
+                                                (ACC:np 
+                                                  (H:pron-indp:que:M_S::rel: que))
+                                                (SUBJ:np 
+                                                  (H:prop:Portugal:M_S::: Portugal))
+                                                (P:vp 
+                                                  (MV:v-fin:atravessar:PR_3S_IND::fs-rel: atravessa)))))
+                                          (,)
+                                          (SUBJ:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (H:n:estrutura:F_P::np-def: estruturas)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:área:F_S::np-def: área)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:n:cultura:F_S::np-def: cultura))))))
+                                          (ACC-PASS:np 
+                                            (H:pron-pers:se:F_3P_ACC::: se))
+                                          (P:vp 
+                                            (MV:v-fin:adequar:PR_3P_SUBJ::fs-subst:se-passive: adequem))
+                                          (PIV:pp 
+                                            (H:prp:a:::: a+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (>N:v-pcp:acrescer:M_S::: acrescido)
+                                              (H:n:dinamismo:M_S::anr_np-idf: dinamismo)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:sociedade:F_S::np-def: sociedade))))))))))
+                        (.)))

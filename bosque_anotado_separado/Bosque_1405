@@ -1,0 +1,62 @@
+(FRASE CP263-8 (UTT:acl (SUBJ:np (>N:art:um:F_S::arti: Uma)
+                                 (>N:adj:bom:F_S: boa)
+                                 (H:n:série:F_S::anr_np-idf: série)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:televisão:F_S::np-idf: televisão))))
+                        (;)
+                        (SC:np (H:pron-det:o:F_S::dem: a)
+                               (N<:fcl (ACC:np 
+                                         (H:pron-indp:que:M_S::rel: que))
+                                       (SUBJ:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:prop:RTP:F_S::: RTP))
+                                       (X:cu 
+                                         (CJT:x::::predicate: 
+                                           (P:vp 
+                                             (MV:v-fin:estrear:PS_3S_IND::: estreou))
+                                           (ADVL:advp 
+                                             (H:adv:ontem:::: ontem)
+                                             (A<:pp 
+                                               (H:prp:a:::: a+)
+                                               (P<:np 
+                                                 (>N:art:o:S::artd: a)
+                                                 (H:n:noite:F_S::np-def: noite))))
+                                           (,)
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:S::artd: a)
+                                               (H:prop:TV2:F_S::: TV2)))
+                                           (,))
+                                         (CO:conj-c:e:::co-advl: e)
+                                         (CJT:x::::predicate: 
+                                           (PIV:pp 
+                                             (H:prp:a:::: a+)
+                                             (P<:np 
+                                               (>N:art:o:S::artd: a)
+                                               (H:pron-det:qual:F_S::np-def:rel: qual)))
+                                           (ADVL:np- 
+                                             (H:pron-indp:nada:M_S::quant: nada))
+                                           (P:vp 
+                                             (MV:v-fin:ligar:PS_3S_IND::nosubj: ligou))
+                                           (--)
+                                           (-ADVL:np 
+                                             (N<PRED:advp 
+                                               (>A:adv:pouco:::quant: pouco)
+                                               (H:adv:mais:_::KOMP:quant: mais)
+                                               (KOMP<:fcl 
+                                                 (COM:conj-s:do_que:::: do_que)
+                                                 (ACC:np 
+                                                   («)
+                                                   (>N:adj:primeiro:M_S::NUM-ord: primeiro)
+                                                   (H:n:episódio:M_S::anr_np-idf: episódio)
+                                                   (»))
+                                                 (P:vp 
+                                                   (MV:v-fin:escrever:PS_3S_IND::nosubj: escreveu))
+                                                 (ADVL:pp 
+                                                   (H:prp:em:::: em+)
+                                                   (P<:np 
+                                                     (>N:art:o:S::artd: a)
+                                                     (H:n:apresentação:F_S::np-def: apresentação))))))))))
+                        (.)))

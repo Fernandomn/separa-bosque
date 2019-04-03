@@ -1,0 +1,55 @@
+(FRASE CP321-4 (STA:fcl (PRED:icl::pcp: (P:vp 
+                                          (MV:v-pcp:chefiar:F_S::: Chefiada))
+                                        (PASS:pp 
+                                          (H:prp:por:::: por+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:escritora:F_S::np-def: escritora)
+                                            (N<:np 
+                                              (H:prop:Isabel_Alçada:M_S::: Isabel_Alçada)))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:equipa:F_S::np-def: equipa)
+                                 (,)
+                                 (N<PRED:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:constituir:F_S::: constituída))
+                                   (PASS:pp 
+                                     (H:prp:por:::: por)
+                                     (P<:np 
+                                       (H:n:representante:MF_P::np-idf: representantes)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:n:ministério:M_P::np-def: ministérios)
+                                           (N<:cu 
+                                             (CJT:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:prop:Cultura:F_S::: Cultura)))
+                                             (CO:conj-c:e:::co-postnom: e)
+                                             (CJT:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:prop:Educação:F_S::: Educação))))))))))
+                        (,)
+                        (P:vp (MV:v-fin:ter:PR_3S_IND::: tem))
+                        (ACC:np (>N:num:três:M_P::card: três)
+                                (H:n:mês:M_P::anr_np-count:anr_np-def: meses))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:cu (CJT:icl 
+                                          (P:vp 
+                                            (MV:v-inf:analisar:::icl-fin: analisar))
+                                          (ACC:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:situação:F_S::np-def: situação)))
+                                        (CO:conj-c:e:::co-prparg: e)
+                                        (CJT:icl 
+                                          (P:vp 
+                                            (MV:v-inf:fazer:::: fazer))
+                                          (ACC:np 
+                                            (H:n:proposta:F_P::np-idf: propostas)))))
+                        (.)))

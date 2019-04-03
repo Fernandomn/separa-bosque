@@ -1,0 +1,53 @@
+(FRASE CP1003-2 (UTT:np («)
+                        (H:prop:Força_4:F_S: Força_4)
+                        (»)
+                        (,)
+                        (N<PRED:np (>N:art:um:F_S::arti: uma)
+                                   (H:n:placa:F_S::np-idf: placa)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:mármore:M_S::np-idf: mármore)))
+                                   (N<:icl::::pcp: 
+                                     (P:vp 
+                                       (MV:v-pcp:dispor:F_S::: disposta))
+                                     (SA:pp 
+                                       (H:prp:sobre:::: sobre)
+                                       (P<:np 
+                                         (>N:art:um:M_S::arti: um)
+                                         (H:n:soclo:M_S::np-idf: soclo)))))
+                        (,)
+                        (N<PRED:fcl (ADVL:advp 
+                                      (H:adv:onde:_::ks:rel: onde))
+                                    (SUBJ:np 
+                                      (H:n:efeito:M_P::np-idf: efeitos)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:ondulação:F_S::np-idf: ondulação))))
+                                    (P:vp 
+                                      (MV:v-fin:criar:PR_3P_IND::fs-rel: criam))
+                                    (ACC:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:ilusão:F_S::np-def: ilusão)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:passagem:F_S::np-def: passagem)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:vento:M_S::np-def: vento)))
+                                          (N<:pp 
+                                            (H:prp:sobre:::: sobre)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:superfície:F_S::np-def: superfície)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:mar:M_S::np-def: mar)))))))))
+                        (.)))

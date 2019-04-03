@@ -1,0 +1,50 @@
+(FRASE CP522-3 (STA:fcl (ADVL:advp (H:adv:hoje:: Hoje))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:pelotão:M_S::np-def: pelotão))
+                        (P:vp (MV:v-fin:ter:PR_3S_IND::: tem))
+                        (ACC:np- (>N:adjp 
+                                   (>A:adv:mais:::: mais)
+                                   (H:num:um:F_S::card: uma))
+                                 (H:n:etapa:F_S::anr_np-count:anr_np-def: etapa))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (>N:adj:difícil:M_S::: difícil)
+                                        (H:n:traçado:M_S::anr_np-def: traçado)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:prop:Pirenéus:M_P::: Pirenéus)))))
+                        (-ACC:np (,)
+                                 (N<PRED:pp 
+                                   (H:prp:com:::: com)
+                                   (P<:cu 
+                                     (CJT:np 
+                                       (H:n:início:M_S::np-idf: início)
+                                       (N<:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (H:prop:Naut_Aran:M_S::: Naut_Aran))))
+                                     (CO:conj-c:e:::co-prparg: e)
+                                     (CJT:np 
+                                       (H:n:final:M_S::np-idf: final)
+                                       (N<:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (H:prop:Luz_Ardiden:F_S::: Luz_Ardiden)
+                                           (,)
+                                           (N<PRED:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:parte:F_S::np-def: parte)
+                                               (N<:adjp 
+                                                 (H:adj:francês:F_S::: francesa))))))
+                                       (,)
+                                       (N<PRED:pp 
+                                         (H:prp:após:::: após)
+                                         (P<:np 
+                                           (>N:num:179:M_P::card: 179)
+                                           (H:n:km:M_P::anr_np-count:anr_np-def: km)))))))
+                        (.)))

@@ -1,0 +1,63 @@
+(FRASE CP19-1 (STA:fcl (ADVL:pp (H:prp:durante:: Durante)
+                                (P<:np (>N:art:o:F_S::artd: a)
+                                       (H:n:análise:F_S::np-def: análise)
+                                       (N<ARGO:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:relatório:M_S::np-def: relatório)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:actividade:F_P::np-idf: actividades)
+                                               (N<:v-pcp:passar:F_P::: passadas)))))))
+                       (,)
+                       (P:vp (AUX:v-fin:ser:PS_3P_IND::: foram)
+                             (MV:v-pcp:identificar:F_P::: identificadas))
+                       (SC:acl (PRD:adv:como:::prp: como)
+                               (SC:np (>N:adj:principal:F_P::: principais)
+                                      (H:n:insuficiência:F_P::anr_np-idf: insuficiências)))
+                       (SUBJ:cu (CJT:np (>N:art:o:F_S::artd: a)
+                                        (H:n:ausência:F_S::np-def: ausência)
+                                        (N<ARG:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:art:um:F_S::arti: uma)
+                                            (H:n:orientação:F_S::np-idf: orientação)
+                                            (N<:adjp 
+                                              (H:adj:nacional:F_S::: nacional))))
+                                        (N<:advp 
+                                          (H:adv:junto:::: junto)
+                                          (A<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:quadro:M_P::np-def: quadros)
+                                              (N<:adjp 
+                                                (H:adj:técnico:M_P::: técnicos))))))
+                                (,)
+                                (CO:conj-c:e:::co-subj: e)
+                                (CJT:np (H:cu 
+                                          (CJT:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (>N:adj:fraco:M_S::: fraco)
+                                            (H:n:recrutamento:M_S::anr_np-def: recrutamento))
+                                          (CO:conj-c:e:::co-subj: e)
+                                          (CJT:np 
+                                            (>N:pron-det:pouco:F_S::quant: pouca)
+                                            (H:n:contribuição:F_S::anr_np-def:anr_np-mass: contribuição)))
+                                        (N<:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:n:área:F_S::np-def: área)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:cu 
+                                                (CJT:np 
+                                                  (>N:art:o:S::artd: a)
+                                                  (H:n:ciência:F_S::np-def:prop: Ciência))
+                                                (CO:conj-c:e:::co-prparg: e)
+                                                (CJT:np 
+                                                  (H:n:tecnologia:F_S::np-idf:prop: Tecnologia))))))))
+                       (.)))

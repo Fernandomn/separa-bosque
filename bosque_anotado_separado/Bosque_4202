@@ -1,0 +1,60 @@
+(FRASE CP815-5 (STA:fcl (SUBJ:cu (CJT:np 
+                                   (>N:art:o:F_S::artd: A)
+                                   (H:n:troca:F_S::np-def: troca)
+                                   (N<ARGO:pp 
+                                     (H:prp:de:: de)
+                                     (P<:np 
+                                       (H:n:experiência:F_P::np-idf: experiências)
+                                       (N<:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (>N:pron-det:outro:M_P::KOMP:diff: outros)
+                                           (H:n:grupo:M_P::anr_np-idf: grupos))))))
+                                 (,)
+                                 (CJT:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:produção:F_S::np-def: produção)
+                                   (N<ARGO:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:espectáculo:M_P::np-idf: espectáculos))))
+                                 (,)
+                                 (CJT:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:organização:F_S::np-def: organização)
+                                   (N<:cu 
+                                     (CJT:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:debate:M_P::np-idf: debates)))
+                                     (CO:conj-c:e:::co-postnom: e)
+                                     (CJT:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:atelier:M_P::np-idf: ateliers)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:formação:F_S::np-idf: formação))))))))
+                        (P:vp (MV:v-fin:contar:PR_3P_IND::hyfen:se-passive: contam-))
+                        (ACC-PASS:np (H:pron-pers:se:F_3P_ACC::: se))
+                        (ADVL:pp (H:prp:entre:::: entre)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:n:objectivo:M_P::np-def: objectivos)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:grupo:M_S::np-def: grupo)
+                                            (,)
+                                            (N<PRED:icl::::pcp: 
+                                              (P:vp 
+                                                (MV:v-pcp:fundar:M_S::: fundado))
+                                              (PASS:pp 
+                                                (H:prp:por:::: por)
+                                                (P<:np 
+                                                  (>N:num:quatro:M_P::card: quatro)
+                                                  (H:n:actor:M_P::anr_np-count:anr_np-def: actores)
+                                                  (N<:adjp 
+                                                    (H:adj:profissional:M_P::: profissionais)))))))))
+                        (.)))

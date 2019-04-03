@@ -1,0 +1,40 @@
+(FRASE CP527-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n-adj:jovem:M_S::np-def: jovem)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (H:prop:Amarante:MF_S::: Amarante)))
+                                 (,)
+                                 (N<PRED:np 
+                                   (>N:num:21:M_P::card: 21)
+                                   (H:n:ano:M_P::anr_np-count:anr_np-def: anos)
+                                   (N<:icl::::pcp: 
+                                     (P:vp 
+                                       (MV:v-pcp:fazer:M_P::: feitos))
+                                     (ADVL:pp 
+                                       (H:prp:em:::: em)
+                                       (P<:np 
+                                         (H:n:julho:M_S::np-idf:prop: Julho)))))
+                                 (,))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:custar:PS_3S_IND::: custou))
+                                (PIV:pp (H:prp:a:::: a+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Benfica:M_S::: Benfica)))
+                                (SA:np (>N:np 
+                                         (>N:adjp 
+                                           (>A:adv:cerca_de:::: cerca_de)
+                                           (H:num:600:M_P::card: 600))
+                                         (H:n:mil:M_P::card:num: mil))
+                                       (H:n:conto:M_P::anr_np-count:anr_np-def: contos)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:demorar:PS_3S_IND::nosubj: demorou))
+                                (ADVL:pp 
+                                  (H:prp:a:::: a)
+                                  (P<:icl 
+                                    (P:vp 
+                                      (MV:v-inf:mostrar:::: mostrar))
+                                    (ACC:np 
+                                      (H:n:serviço:M_S::np-idf: serviço))))))
+                        (.)))

@@ -1,0 +1,63 @@
+(FRASE CP972-4 (STA:fcl (ADVL:adjp (H:num:1980:M_S::card: 1980))
+                        (--)
+                        (ADVL:pp (H:prp:por_iniciativa_de:: Por_iniciativa_de)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:bolseiro:M_S::np-idf: bolseiro)
+                                        (N<:adjp 
+                                          (H:adj:alemão:M_S::: alemão))
+                                        (,)
+                                        (APP:np 
+                                          (H:prop:Michael_Weber:M_S::: Michael_Weber))
+                                        ({)
+                                        (N<PRED:np 
+                                          (>N:adv:hoje:::: hoje)
+                                          (H:n:docente:M_S::anr_np-idf: docente)
+                                          (N<:v-pcp:convidar:M_S::: convidado)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:prop:ICBAS:M_S::: ICBAS))))
+                                        (})))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:rotário:M_P::np-def: rotários)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Porto:M_S::: Porto))))
+                        (P:vp (MV:v-fin:ponderar:PR_3P_IND::: ponderam))
+                        (ACC:np (>N:num:dois:F_P::card: duas)
+                                (H:n:ideia:F_P::anr_np-count:anr_np-def: ideias)
+                                (;)
+                                (APP:cu (CJT:icl 
+                                          (P:vp 
+                                            (MV:v-inf:reconstruir:::: reconstruir))
+                                          (ACC:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (>N:adj:velho:M_S::: velho)
+                                            (H:n:aquário:M_S::anr_np-def: aquário)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:prop:Foz:F_S::: Foz)))))
+                                        (,)
+                                        (CO:conj-c:ou:::co-inf: ou)
+                                        (CJT:icl 
+                                          (P:vp 
+                                            (MV:v-inf:construir:::: construir))
+                                          (,)
+                                          (ADVL:pp:de_raiz:::: de_raiz)
+                                          (,)
+                                          (ACC:np 
+                                            (>N:art:um:M_S::arti: um)
+                                            (>N:adj:novo:M_S::: novo)
+                                            (H:n:aquário:M_S::anr_np-idf: aquário))
+                                          (,)
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:prop:Porto:M_S::: Porto))))))
+                        (.)))

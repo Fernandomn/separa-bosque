@@ -1,0 +1,34 @@
+(FRASE CP219-5 (STA:fcl (SUBJ:np (>N:art:um:F_S::arti: Uma)
+                                 (H:n:exposição:F_S::np-idf: exposição)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (H:n:fotografia:F_P::np-idf: fotografias)))
+                                 (,)
+                                 (N<PRED:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:conceber:F_S::: concebida))
+                                   (ADVL:pp 
+                                     (H:pp:em_conjunto:::: em_conjunto)
+                                     (N<:pp 
+                                       (H:prp:com:::: com)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:livro:M_S::np-def: livro)
+                                         («)
+                                         (N<:np 
+                                           (H:prop:Magnum-Cinema:M_S::: Magnum-Cinema))
+                                         (»))))))
+                        (,)
+                        (P:vp (AUX:v-fin:poder:FUT_3S_IND::: poderá)
+                              (AUX:v-inf:ser:::: ser)
+                              (MV:v-pcp:ver:F_S::anr_pass:passive: vista))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:fevereiro:M_S::np-idf:prop: Fevereiro)))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:prop:Lisboa:F_S::: Lisboa)))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:prop:Culturgest:F_S::: Culturgest)))
+                        (.)))

@@ -1,0 +1,34 @@
+(FRASE CP446-1 (STA:fcl (SUBJ:np (H:prop:Folha:M_S: Folha))
+                        (P:vp (MV:v-fin:marcar:PS_3S_IND::: marcou))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:prop:Chaves:MF_S::: Chaves)))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (>N:pron-det:seu:M_S::si: seu)
+                                (>N:adj:segundo:M_S::NUM-ord: segundo)
+                                (H:n:golo:M_S::anr_np-def: golo)
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:campeonato:M_S::np-def: campeonato)))
+                                (,)
+                                (N<PRED:fcl 
+                                  (SUBJ:np 
+                                    (H:pron-indp:que:M_S::rel: que))
+                                  (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                        (MV:v-pcp:considerar:M_S::anr_pass:fs-rel:passive: considerado))
+                                  (PASS:pp 
+                                    (H:prp:por:::: por+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:prop:Público:M_S::: PÚBLICO)))
+                                  (SC:acl 
+                                    (PRD:adv:como:::prp: como)
+                                    (SC:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n-adj:bom:M_S::KOMP:SUP:np-def: melhor)
+                                      (KOMP<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:pron-det:este:F_S::dem: esta)
+                                          (H:n:jornada:F_S::np-def: jornada)))))))
+                        (.)))

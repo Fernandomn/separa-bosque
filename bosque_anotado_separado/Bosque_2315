@@ -1,0 +1,31 @@
+(FRASE CP441-4 (STA:fcl (ADVL:advp (H:adv:também:: Também))
+                        (SUBJ:np (H:pron-pers:se:MF_3SP_ACC::: se))
+                        (P:vp (MV:v-fin:prever:PR_3S_IND::: prevê))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:criação:F_S::np-def: criação)
+                                (N<ARGO:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:np 
+                                    (>N:art:um:F_S::arti: uma)
+                                    (H:n:moeda:F_S::np-idf: moeda)
+                                    (N<:adjp 
+                                      (H:adj:único:F_S::: única)))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:embora:::: embora)
+                                  (,)
+                                  (SUBJ:fcl 
+                                    (SUBJ:np 
+                                      (H:pron-indp:quem:MF_S::rel: quem))
+                                    (ACC:np 
+                                      (H:pron-pers:ele:M_3S_ACC::: o))
+                                    (P:vp 
+                                      (MV:v-fin:desejar:PR_3S_SUBJ::fs-rel:fs-subst: deseje)))
+                                  (,)
+                                  (P:vp (AUX:v-fin:poder:PR_3S_SUBJ::: possa)
+                                        (MV:v-inf:ter:::fs-conc: ter))
+                                  (ACC:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (>N:pron-det:seu:F_S::: sua)
+                                    (>N:adj:próprio:F_S::: própria)
+                                    (H:n:divisa:F_S::anr_np-def: divisa)))
+                        (.)))

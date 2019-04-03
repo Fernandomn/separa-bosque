@@ -1,0 +1,37 @@
+(FRASE CP683-1 (STA:fcl (SUBJ:np (>N:pron-det:este:M_P::dem: Estes)
+                                 (>N:num:três:M_P::card: três)
+                                 (H:n:item:M_P::anr_np-count:anr_np-def: items))
+                        (P:vp (AUX:v-fin:ser:PS_3P_IND: foram)
+                              (MV:v-pcp:considerar:M_P::anr_pass:passive: considerados))
+                        (PASS:cu (CJT:pp 
+                                   (H:prp:por:::: por+)
+                                   (P<:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (H:n:aluno:M_P::np-def: alunos)))
+                                 (--)
+                                 (CO:conj-c:e:::co-pass: e)
+                                 (CJT:pp 
+                                   (>P:adv:até:::: até)
+                                   (H:prp:por:::: por)
+                                   (P<:np 
+                                     (H:n:professor:M_P::np-idf: professores)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:ensino:M_S::np-def: ensino)
+                                         (N<:adjp 
+                                           (H:adj:secundário:M_S::: secundário))))))
+                                 (--))
+                        (SC:acl (PRD:adv:como:::prp: como)
+                                (SC:np (H:pron-det:o:M_P::dem: os)
+                                       (N<:adjp 
+                                         (>A:adv:mais:_::KOMP:quant: mais)
+                                         (H:adj:polémico:M_P::: polémicos)
+                                         (KOMP<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                             (H:n:chamada:F_S::anr_np-def: chamada))))))
+                        (.)))

@@ -1,0 +1,121 @@
+(FRASE CP200-1 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (>N:pron-det:outro:M_P::diff: outros)
+                                 (H:n:operador:M_P::anr_np-def: operadores))
+                        (P:vp (MV:v-fin:ser:PR_3P_IND: são))
+                        (SC:cu (CJT:np (>N:art:o:M_P::artd: os)
+                                       (H:np 
+                                         (H:n:membro:M_P::anr_np-def: membros)
+                                         (N<:adjp 
+                                           (H:adj:negociador:M_P::anr_np-idf: negociadores)))
+                                       ({)
+                                       (N<:fcl 
+                                         (P:vp 
+                                           (MV:v-fin:intervir:PR_3P_IND::nosubj: intervêm))
+                                         (PIV:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:S::artd: a)
+                                             (H:n:negociação:F_S::np-def: negociação)
+                                             (N</ADVL[-2]:pp 
+                                               (H:prp:em:::: em)
+                                               (P<:np 
+                                                 (H:n:bolsa:F_S::np-idf: bolsa)))))
+                                         (,)
+                                         (ADVL:icl::::ger: 
+                                           (P:vp 
+                                             (MV:v-ger:introduzir:::: introduzindo))
+                                           (ADVL:advp 
+                                             (H:adv:directamente:::: directamente))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:sistema:M_S::np-def: sistema)))
+                                           (ACC:np 
+                                             (H:n:oferta:F_P::np-idf: ofertas)
+                                             (N<:cu 
+                                               (CJT:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:compra:F_S::np-idf: compra)))
+                                               (CO:conj-c:ou:::co-postnom: ou)
+                                               (CJT:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:venda:F_S::np-idf: venda)))))))
+                                       (}))
+                               (CO:conj-c:e:::co-sc: e)
+                               (CJT:np (>N:art:o:M_P::artd: os)
+                                       (H:n:membro:M_P::np-def: membros)
+                                       (N<:adjp 
+                                         (H:adj:compensador:M_P::: compensadores))
+                                       (,)
+                                       (N<PRED:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:M_P::rel: que))
+                                         (ADVL:pp 
+                                           (H:prp:além_de:::: além_de+)
+                                           (P<:np 
+                                             (>N:art:o:P::artd: as)
+                                             (H:n:função:F_P::np-def: funções)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_P::artd: os)
+                                                 (H:adj:anterior:M_P::np-def: anteriores)))))
+                                         (,)
+                                         (P:vp 
+                                           (MV:v-fin:participar:PR_3P_IND::fs-rel: participam))
+                                         (,)
+                                         (ADVL:advp 
+                                           (H:adv:designadamente:::: designadamente))
+                                         (,)
+                                         (PIV:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:procedimento:M_P::np-def: procedimentos)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:liquidação:F_S::np-idf: liquidação)
+                                                 (N<ARGO:pp 
+                                                   (H:prp:de:::: de)
+                                                   (P<:np 
+                                                     (H:n:contrato:M_P::np-idf: contratos)
+                                                     (N<:cu 
+                                                       (CJT:pp 
+                                                         (H:prp:em:::: em+)
+                                                         (P<:np 
+                                                           (>N:art:o:P::artd: as)
+                                                           (H:n:data:F_P::np-def: datas)
+                                                           (N<:pp 
+                                                             (H:prp:de:::: de)
+                                                             (P<:np 
+                                                               (H:n:vencimento:M_S::np-idf: vencimento)))))
+                                                       (CO:conj-c:e:::: e)
+                                                       (CJT:pp 
+                                                         (H:prp:em:::: em+)
+                                                         (P<:np 
+                                                           (>N:art:o:M_S::artd: o)
+                                                           (H:n:processo:M_S::np-def: processo)
+                                                           (N<:pp 
+                                                             (H:prp:de:::: de)
+                                                             (P<:np 
+                                                               (H:cu 
+                                                                 (CJT:np 
+                                                                   (H:n:constituição:F_S::np-idf: constituição))
+                                                                 (,)
+                                                                 (CJT:np 
+                                                                   (H:n:substituição:F_S::np-idf: substituição))
+                                                                 (,)
+                                                                 (CJT:np 
+                                                                   (H:n:redução:F_S::np-idf: redução))
+                                                                 (CO:conj-c:e:::co-prparg: e)
+                                                                 (CJT:np 
+                                                                   (H:n:libertação:F_S::np-idf: libertação)))
+                                                               (N<ARGO:pp 
+                                                                 (H:prp:de:::: de)
+                                                                 (P<:np 
+                                                                   (H:n:garantia:F_P::np-idf: garantias)))))))))))))))))
+                        (.)))

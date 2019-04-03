@@ -1,0 +1,110 @@
+(FRASE CP292-3 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:gestor:M_P::np-def: gestores)
+                                 (N<:pp:de_topo:: de_topo)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:P::artd: as)
+                                          (H:n:empresa:F_P::np-def: empresas)
+                                          (N<:adjp 
+                                            (H:adj:japonês:F_P::: japonesas)))))
+                        (P:vp (AUX:v-fin:estar:PR_3P_IND::: estão)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:aceitar:::: aceitar))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:corte:M_S::np-def: corte)
+                                (N<ARGO:pp 
+                                  (H:prp:de:::: de+)
+                                  (P<:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (>N:pron-det:seu:M_P::: seus)
+                                    (H:n:salário:M_P::anr_np-def: salários))))
+                        (,)
+                        (ADVL:pp (H:prp:em_face_de:::: em_face_de+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (>N:adj:súbito:F_S::: súbita)
+                                        (H:n:recessão:F_S::anr_np-def: recessão)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:F_S::rel: que))
+                                          (ACC:np 
+                                            (H:pron-pers:se:F_3S_ACC::refl: se))
+                                          (P:vp 
+                                            (MV:v-fin:abater:PS_3S_IND::fs-rel: abateu))
+                                          (ADVL:pp 
+                                            (H:prp:sobre:::: sobre)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:economia:F_S::np-def: economia)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:país:M_S::np-def: país))))))))
+                        (,)
+                        (ADVL:cu (CJT:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:impor:::: impondo-))
+                                   (ACC:np 
+                                     (H:pron-pers:se:M_3S_ACC::refl: se))
+                                   (SUBJ:np 
+                                     (>N:art:um:M_S::arti: um)
+                                     (H:n:teste:M_S::np-idf: teste)
+                                     (N<:adjp 
+                                       (H:adj:prático:M_S::: prático))
+                                     (N<:pp 
+                                       (H:prp:quanto_a:::: quanto_a+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:n:solidariedade:F_S::np-def: solidariedade)
+                                         (N<:fcl 
+                                           (SUBJ:np 
+                                             (H:pron-indp:que:F_S::rel: que))
+                                           (P:vp 
+                                             (MV:v-fin:caracterizar:PR_3S_IND::fs-rel: caracteriza))
+                                           (ACC:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:imagem:F_S::np-def: imagem)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:P::artd: as)
+                                                 (H:n:empresa:F_P::np-def: empresas)
+                                                 (N<:adjp 
+                                                   (H:adj:japonês:F_P::: japonesas))))
+                                             (N<:pp 
+                                               (H:prp:em:::: em+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:exterior:M_S::np-def: exterior)))))))))
+                                 (,)
+                                 (CO:conj-c:e:::co-inf: e)
+                                 (CJT:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:tentar:::: tentando))
+                                   (ACC:icl 
+                                     (P:vp 
+                                       (MV:v-inf:contribuir:::icl-subst: contribuir))
+                                     (ADVL:advp 
+                                       (H:adv:desta_forma:::: desta_forma))
+                                     (,)
+                                     (ADVL:pp 
+                                       (H:prp:para:::: para)
+                                       (P<:fcl 
+                                         (SUB:conj-s:que:::: que)
+                                         (SUBJ:np 
+                                           (>N:art:o:F_P::artd: as)
+                                           (H:n:firma:F_P::np-def: firmas)
+                                           (N<:fcl 
+                                             (ACC:np 
+                                               (H:pron-indp:que:F_P::rel: que))
+                                             (P:vp 
+                                               (MV:v-fin:administrar:PR_3P_IND::fs-rel: administram))))
+                                         (P:vp 
+                                           (AUX:v-fin:poder:PR_3P_SUBJ::: possam)
+                                           (MV:v-inf:suportar:_::fs-fin:fs-subst: suportar))
+                                         (ACC:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:crise:F_S::np-def: crise)
+                                           (N<:adjp 
+                                             (H:adj:actual:F_S::: actual))))))))
+                        (.)))

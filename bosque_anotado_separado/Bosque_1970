@@ -1,0 +1,84 @@
+(FRASE CP378-3 (STA:fcl (ADVL:np (H:n:momento:M_P::np-idf: Momentos)
+                                 (N<:advp 
+                                   (H:adv:antes:: antes)
+                                   (A<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:pron-det:este:M_S::dem:nil: este)
+                                       (H:n:verificação:F_S::np-def: verificação)))))
+                        (,)
+                        (SUBJ:np (H:prop:Albino_Esteves:M_S::: Albino_Esteves)
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:professor:M_S::np-idf: professor)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:prop:Secundária_de_Clara_de_Resende:F_S::: Secundária_de_Clara_de_Resende))))
+                                 (,))
+                        (P:vp (MV:v-fin:enunciar:IMPF_3S_IND::: enunciava))
+                        (ACC:np (H:n:medida:F_P::np-idf: medidas)
+                                (N<:adjp 
+                                  (H:adj:preventivo:F_P::: preventivas))
+                                (N<:pp (H:prp:para:::: para)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:indisciplina:F_S::np-def: indisciplina)
+                                         (N<:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:escola:F_S::np-def: escola)))))
+                                (;)
+                                (APP:cu (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:olhar:M_S::np-def: olhar)
+                                          (N<:adjp 
+                                            (H:adj:reprovador:M_S::: reprovador))
+                                          (N<ARGS:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:professor:M_S::np-def: professor))))
+                                        (,)
+                                        (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:silêncio:M_S::np-def: silêncio)
+                                          (N<:adjp 
+                                            (H:adj:táctico:M_S::: táctico)))
+                                        (,)
+                                        (CJT:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:sobrevalorização:F_S::np-def: sobrevalorização)
+                                          (N<ARGO:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (>N:adj:pequeno:M_P::: pequenos)
+                                              (H:n:sucesso:M_P::anr_np-def: sucessos)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_P::artd: os)
+                                                  (H:n:aluno:M_P::np-def: alunos)
+                                                  (N<:adjp 
+                                                    (>A:adv:mais:_::KOMP:quant: mais)
+                                                    (H:adj:fraco:M_P::: fracos)))))))
+                                        (CO:conj-c:e:::co-app: e)
+                                        (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:acompanhamento:M_S::np-def: acompanhamento)
+                                          (N<:adjp 
+                                            (H:adj:discreto:M_S::: discreto))
+                                          (N<ARGO:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_P::artd: as)
+                                              (H:n:crise:F_P::np-def: crises)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_P::artd: os)
+                                                  (H:n:aluno:M_P::np-def: alunos))))))))
+                        (.)))

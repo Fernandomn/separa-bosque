@@ -1,0 +1,82 @@
+(FRASE CP375-4 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:n:veleiro:M_P::np-def: veleiros)))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_P::artd: as)
+                                 (H:n:opção:F_P::np-def: opções))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                        (SC:np (H:pron-det:tanto:F_P::KOMP:quant: tantas))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp- (AUX:v-ger:ser:::: sendo))
+                          (SUBJ:np (>N:art:o:F_S::artd: a)
+                                   (>N:adj:principal:F_S::SUP: principal)
+                                   (H:n:novidade:F_S::anr_np-def: novidade))
+                          (-P:vp (MV:v-pcp:representar:F_S::: representada))
+                          (PASS:pp (H:prp:por:::: por+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:prop:Jeanneau_24:M_S::: Jeanneau_24)
+                                     (,)
+                                     (N<PRED:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:num:24:M_P::card: 24)
+                                         (H:n:pé:M_P::anr_np-count:anr_np-def: pés)))
+                                     (,)
+                                     (N<PRED:fcl 
+                                       (ACC:np 
+                                         (H:pron-indp:que:M_S::rel: que))
+                                       (SUBJ:np 
+                                         (H:pron-pers:se:MF_3SP_ACC::: se))
+                                       (P:vp 
+                                         (MV:v-fin:pretender:PR_3S_IND::fs-rel: pretende))
+                                       (ACC:icl 
+                                         (P:vp 
+                                           (MV:v-inf:organizar:::icl-subst: organizar))
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em)
+                                           (P<:np 
+                                             (H:n:classe:F_S::np-idf: classe)
+                                             (N<:adjp 
+                                               (H:adj:nacional:F_S::: nacional))))
+                                         (ADVL:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:np 
+                                             (>N:adj:futuro:M_P::: futuros)
+                                             (H:n:campeonato:M_P::anr_np-idf: campeonatos)))))
+                                     (,))))
+                        (ADVL:pp (H:prp:além_de:::: além_de+)
+                                 (P<:cu (CJT:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (>N:cu 
+                                            (CJT:adjp 
+                                              (H:adj:popular:M_P::: populares))
+                                            (CO:conj-c:e:::co-prenom: e)
+                                            (CJT:adjp 
+                                              (H:adj:prático:M_P::: práticos)))
+                                          (H:n:veleiro:M_P::anr_np-idf: veleiros)
+                                          (N<:np 
+                                            (H:prop:McGregor:M_P::: McGregor)))
+                                        (CO:conj-c:e:::co-prparg: e)
+                                        (CJT:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (>N:v-pcp:conhecer:M_P::: conhecidos)
+                                            (H:prop:GibSea:M_P::: GibSea)
+                                            (,)
+                                            (N<PRED:np 
+                                              (H:n:barco:M_P::np-idf: barcos)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:cruzeiro:M_S::np-idf: cruzeiro)))
+                                              (N<:cu 
+                                                (CJT:adjp 
+                                                  (H:adj:seguro:M_P::: seguros))
+                                                (CO:conj-c:e:::co-postnom: e)
+                                                (CJT:adjp 
+                                                  (H:adj:confortável:M_P::: confortáveis))))))))
+                        (.)))

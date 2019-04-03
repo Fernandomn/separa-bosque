@@ -1,0 +1,43 @@
+(FRASE CP132-2 (UTT:icl (SUBJ:np (H:n:homem:M_P::np-idf: Homens))
+                        (P:vp (MV:v-pcp:ensopar:M_P: ensopados))
+                        (ADVL:pp (H:prp:de:::: de+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:n:cabeça:F_S::np-def: cabeça)
+                                        (N<:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:pé:M_P::np-def: pés)))))
+                        (ADVL:pp (H:prp:por:::: por)
+                                 (P<:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:chuva:F_S::np-idf: chuva)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:petróleo:M_S::np-idf: petróleo)))))
+                        (,)
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (H:cu 
+                                          (CJT:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (H:n:chama:F_P::np-def: chamas))
+                                          (CO:conj-c:e:::co-prparg: e)
+                                          (CJT:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:fumo:M_S::np-def: fumo)))
+                                        (N<:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:deixar:M_P::: deixados))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:np 
+                                              (>N:art:o:P::artd: as)
+                                              (H:n:tropa:F_P::np-def: tropas)
+                                              (N<:adjp 
+                                                (H:adj:iraquiano:F_P::: iraquianas)))))
+                                        (N<:pp 
+                                          (H:prp:como:::: como)
+                                          (P<:np 
+                                            (H:n:cenário:M_S::np-idf: cenário)
+                                            (N<:pp:de_fundo:::: de_fundo)))))
+                        (.)))

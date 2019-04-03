@@ -1,0 +1,85 @@
+(FRASE CP365-5 (UTT:np (H:n:atraso:M_P::np-idf: Atrasos)
+                       (N<:fcl (SUBJ:np (H:pron-indp:que:M_P::rel: que))
+                               (,)
+                               (ADVL:pp (H:prp:segundo:: segundo)
+                                        (P<:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:informação:F_P::np-def: informações)
+                                          (N<:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:recolher:F_P::: recolhidas))
+                                            (ADVL:advp 
+                                              (H:adv:junto:::: junto)
+                                              (A<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_P::artd: os)
+                                                  (H:n:balcão:M_P::np-def: balcões)
+                                                  (N<:cu 
+                                                    (CJT:pp 
+                                                      (H:prp:de:::: de+)
+                                                      (P<:np 
+                                                        (>N:art:o:F_S::artd: a)
+                                                        (H:prop:TAP:F_S::: TAP)))
+                                                    (CO:conj-c:e:::co-postnom: e)
+                                                    (CJT:pp 
+                                                      (H:prp:de:::: de+)
+                                                      (P<:np 
+                                                        (>N:art:o:F_S::artd: a)
+                                                        (H:prop:ANA:F_S::: ANA))))))))))
+                               (,)
+                               (ADVL:advp 
+                                 (H:adv:não:::: não))
+                               (ACC:np (H:pron-pers:se:M_3P_ACC::refl: se))
+                               (P:vp (MV:v-fin:dever:IMPF_3P_IND::fs-rel: deviam))
+                               (PIV:cu (CJT:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:greve:F_S::np-def: greve)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_P::artd: os)
+                                               (H:n:piloto:M_P::np-def: pilotos)))))
+                                       (,)
+                                       (CO:conj-c:mas:::co-piv: mas)
+                                       (CJT:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (>N:v-pcp:elevar:M_S::: elevado)
+                                           (H:n:volume:M_S::anr_np-idf: volume)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:tráfego:M_S::np-idf: tráfego)))))
+                                       (CO:conj-c:e:::co-piv: e)
+                                       (CJT:pp 
+                                         (H:prp:a:::: a)
+                                         (P<:np 
+                                           (>N:art:um:M_S::arti: um)
+                                           (H:n:elemento:M_S::np-idf: elemento)
+                                           (N<:fcl 
+                                             (SUBJ:np 
+                                               (H:pron-indp:que:M_S::rel: que))
+                                             (P:vp 
+                                               (MV:v-fin:ter:PR_3S_IND::fs-rel: tem))
+                                             (ACC:np 
+                                               (>N:pron-det:muito:M_S::KOMP:quant: mais)
+                                               (H:n:poder:M_S::anr_np-idf:anr_np-mass: poder)
+                                               (N<:pp 
+                                                 (H:prp:sobre:::: sobre)
+                                                 (P<:np 
+                                                   (>N:art:o:M_P::artd: os)
+                                                   (H:n:céu:M_P::np-def: céus)))
+                                               (KOMP<:acl 
+                                                 (COM:conj-s:que:::: que)
+                                                 (SUBJ:np 
+                                                   (>N:art:o:M_P::artd: os)
+                                                   (H:n:piloto:M_P::np-def: pilotos)))))
+                                           (;)
+                                           (APP:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:nevoeiro:M_S::np-def: nevoeiro))))))
+                       (.)))

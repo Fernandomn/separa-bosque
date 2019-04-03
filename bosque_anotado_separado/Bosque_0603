@@ -1,0 +1,73 @@
+(FRASE CP119-1 (STA:fcl (ADVL:pp (H:prp:a:: A)
+                                 (P<:np (H:n:norte:M_S::np-idf: norte)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Porto_Dinheiro:M_S::: Porto_Dinheiro)))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:prop:Lourinhã:F_S::: Lourinhã)))
+                        (,)
+                        (SUBJ:np (H:n:elemento:M_P::np-idf: elementos)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:S::artd: a)
+                                          (H:prop:Guarda_Fiscal:F_S::: Guarda_Fiscal))))
+                        (P:vp (MV:v-fin:apreender:PS_3P_IND::: apreenderam))
+                        (,)
+                        (ADVL:pp (H:prp:cerca_de:::: cerca_de+)
+                                 (P<:advp 
+                                   (>A:art:o:P::artd: as)
+                                   (H:adv:4h30:::: 4h30)
+                                   (A<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:adv:ontem:::: ontem))))
+                        (,)
+                        (ACC:np (>N:art:um:F_S::arti: uma)
+                                (H:n:traineira:F_S::np-idf: traineira)
+                                ({)
+                                (N<PRED:icl::::pcp: 
+                                  (ADVL:advp 
+                                    (H:adv:presumivelmente:::: presumivelmente))
+                                  (P:vp (MV:v-pcp:registar:F_S::: registada))
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:porto:M_S::np-def: porto)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Peniche:M_S::: Peniche))))))
+                                (})
+                                (N<:fcl (SUBJ:np 
+                                          (H:pron-indp:que:F_S::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:transportar:IMPF_3S_IND::fs-rel: transportava))
+                                        (ACC:np 
+                                          (>N:num:138:F_P::card: 138)
+                                          (H:n:caixa:F_P::anr_np-count:anr_np-def: caixas)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:tabaco:M_S::np-idf:np-partvag: tabaco)
+                                              (N<:adjp 
+                                                (H:adj:americano:M_S::: americano))))
+                                          (,)
+                                          (N<PRED:pp 
+                                            (H:prp:com:::: com)
+                                            (P<:np 
+                                              (H:n:valor:M_S::np-idf: valor)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:S::artd: a)
+                                                  (H:n:ordem:F_S::np-def: ordem)
+                                                  (N<ARG:pp 
+                                                    (H:prp:de:::: de+)
+                                                    (P<:np 
+                                                      (>N:art:o:M_P::artd: os)
+                                                      (>N:num:22.500:M_P::card: 22.500)
+                                                      (H:n:conto:M_P::anr_np-count:anr_np-def: contos))))))))))
+                        (.)))

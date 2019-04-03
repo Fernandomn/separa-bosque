@@ -1,0 +1,63 @@
+(FRASE CP241-3 (STA:fcl (P:vp (MV:v-fin:compor:PR_3P_IND: Compõem))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:grupo:M_S::np-def: grupo))
+                        (SUBJ:np (>N:num:seis:M_P::card: seis)
+                                 (H:n:músico:M_P::anr_np-count:anr_np-def: músicos)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (>N:v-pcp:reconhecer:F_S::: reconhecida)
+                                          (H:n:craveira:F_S::anr_np-idf: craveira)))
+                                 (;)
+                                 (APP:cu 
+                                   (CJT:np 
+                                     (H:prop:Toni:M_S::: Toni)
+                                     ({)
+                                     (N<PRED:np 
+                                       (H:n:violão:M_S::np-idf: violão))
+                                     (}))
+                                   (,)
+                                   (CJT:np 
+                                     (H:prop:César_Faria:M_S::: César_Faria)
+                                     ({)
+                                     (N<PRED:np 
+                                       (H:n:violino:M_S::np-idf: violino))
+                                     (}))
+                                   (,)
+                                   (CJT:np 
+                                     (H:prop:Jorge_Filho:M_S::: Jorge_Filho)
+                                     ({)
+                                     (N<PRED:np 
+                                       (H:n:cavaquinho:M_S::np-idf: cavaquinho))
+                                     (}))
+                                   (,)
+                                   (CJT:np 
+                                     (H:prop:Ronaldo:M_S::: Ronaldo)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:Bandolim:M_S::np-def: Bandolim)))
+                                     ({)
+                                     (N<PRED:np 
+                                       (H:n:bandolim:M_S::np-idf: bandolim))
+                                     (}))
+                                   (,)
+                                   (CJT:np 
+                                     (H:prop:Cristóvão_Bastos:M_S::: Cristóvão_Bastos)
+                                     ({)
+                                     (N<PRED:np 
+                                       (H:n:piano:M_S::np-idf: piano))
+                                     (}))
+                                   (CO:conj-c:e:::co-postnom: e)
+                                   (CJT:np 
+                                     (H:prop:Jorginho:M_S::: Jorginho)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:Pandeiro:M_S::np-def: Pandeiro)))
+                                     ({)
+                                     (N<PRED:np 
+                                       (H:n:flauta:F_S::np-idf: flauta))
+                                     (}))))
+                        (.)))

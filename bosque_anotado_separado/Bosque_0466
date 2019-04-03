@@ -1,0 +1,37 @@
+(FRASE CP86-6 (STA:fcl (ADVL:advp (H:adv:agora:kc: Agora))
+                       (,)
+                       (ADVL:advp (H:adv:porém:::kc: porém))
+                       (,)
+                       (SUBJ:np (H:pron-indp:tudo:M_S::quant: tudo))
+                       (P:vp (MV:v-fin:esbarrar:PS_3S_IND::: esbarrou))
+                       (SA:pp (H:prp:em:::: em+)
+                              (P<:np (>N:art:um:M_S::arti: um)
+                                     (H:n:muro:M_S::np-idf: muro)
+                                     (N<:cu 
+                                       (CJT:fcl 
+                                         (ACC:icl- 
+                                           (SUBJ:np 
+                                             (H:pron-indp:que:M_S::rel: que)))
+                                         (SUBJ:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:empresa:F_S::np-def: empresa))
+                                         (P:vp 
+                                           (MV:v-fin:dizer:PR_3S_IND::fs-rel: diz))
+                                         (-ACC:icl 
+                                           (P:vp 
+                                             (MV:v-inf:ser:::: ser))
+                                           (SC:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:solução:F_S::np-def: solução))))
+                                       (CO:conj-c:mas:::co-vfin: mas)
+                                       (CJT:fcl 
+                                         (ACC:np 
+                                           (H:pron-indp:que:M_S::: que))
+                                         (SUBJ:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:vizinho:M_S::np-def: vizinho))
+                                         (ADVL:advp 
+                                           (H:adv:não:::: não))
+                                         (P:vp 
+                                           (MV:v-fin:aceitar:PR_3S_IND::: aceita))))))
+                       (.)))

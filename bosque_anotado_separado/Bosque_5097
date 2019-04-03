@@ -1,0 +1,29 @@
+(FRASE CP993-5 (STA:fcl (SUBJ:np (>N:pron-det:este:M_S::dem: Este)
+                                 (H:n:valor:M_S::np-def: valor))
+                        (P:vp (MV:v-fin:reflectir:PR_3S_IND: reflecte))
+                        (ACC:np (>N:art:um:M_S::arti: um)
+                                (H:n:agravamento:M_S::np-idf: agravamento)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:num:6,5:M_P::card: 6,5)
+                                         (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))
+                                (N<:pp (H:prp:face_a:::: face_a+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (>N:num:15,2:M_P::card: 15,2)
+                                         (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                         (N<ARG:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:conto:M_P::np-dequant:np-idf: contos)))
+                                         (N<ARG:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:resultado:M_P::np-idf: resultados)
+                                             (N<:adjp 
+                                               (H:adj:negativo:M_P::: negativos))))
+                                         (N<:pp 
+                                           (H:prp:em:::: em)
+                                           (P<:adjp 
+                                             (H:num:1993:M_S::card: 1993))))))
+                        (.)))

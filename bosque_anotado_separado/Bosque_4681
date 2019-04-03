@@ -1,0 +1,53 @@
+(FRASE CP908-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:grupo:M_S::np-def: grupo))
+                        (ADVL:advp (H:adv:também:: também))
+                        (P:vp (MV:v-fin:recomendar:PR_3S_IND::: recomenda))
+                        (ADVL:advp (H:adv:fortemente:::: fortemente))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:eliminação:F_S::np-def: eliminação)
+                                (N<ARGO:pp 
+                                  (H:prp:de:::: de+)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:bactéria:F_S::np-def: bactéria)))
+                                (N<:pp (H:prp:em:::: em)
+                                       (P<:np 
+                                         (H:n-adj:doente:M_P::: doentes)
+                                         (N<:pp 
+                                           (H:prp:com:::: com)
+                                           (P<:np 
+                                             (>N:art:um:M_S::arti: um)
+                                             (H:n:tumor:M_S::np-idf: tumor)
+                                             (N<:adjp 
+                                               (H:adj:raro:M_S::: raro))
+                                             (N<:icl::::pcp: 
+                                               (P:vp 
+                                                 (MV:v-pcp:chamar:M_S::: chamado))
+                                               (SC:np 
+                                                 (H:n:linfoma_de_MALT:M_S::np-idf: linfoma_de_MALT)
+                                                 ({)
+                                                 (APP:np 
+                                                   (H:n:Tecido_Linfóide_Associado_à_Mucosa:M_S::np-idf: Tecido_Linfóide_Associado_à_Mucosa))
+                                                 (})))))))
+                                (,)
+                                (N<PRED:fcl 
+                                  (ADVL:advp 
+                                    (H:adv:quando:_::ks:rel: quando))
+                                  (ADVL:advp 
+                                    (H:adv:ainda:::: ainda))
+                                  (P:vp (MV:v-fin:estar:PR_3S_IND::fs-rel:nosubj: está))
+                                  (SA:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:um:F_S::arti: uma)
+                                      (H:n:fase:F_S::np-idf: fase)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (>N:adj:baixo:M_S::: baixo)
+                                          (H:n:grau:M_S::anr_np-idf: grau)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:malignidade:F_S::np-idf: malignidade)))))))))
+                        (.)))

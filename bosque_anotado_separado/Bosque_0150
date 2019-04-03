@@ -1,0 +1,46 @@
+(FRASE CP27-1 (STA:fcl (ADVL:pp (H:prp:a_bordo:: A_bordo)
+                                (P<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:veleiro:M_S::np-def: veleiro)
+                                         (N<:adjp 
+                                           (H:adj:polaco:M_S::: polaco))
+                                         (N<:np 
+                                           (H:prop:Dar_Mlodziezy:M_S::: Dar_Mlodziezy))
+                                         (,)
+                                         (N<PRED:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:patrocinar:M_S::: patrocinado))
+                                           (PASS:pp 
+                                             (H:prp:por:::: por+)
+                                             (P<:np 
+                                               (>N:art:o:S::artd: a)
+                                               (H:prop:Cutty_Sark:F_S::: Cutty_Sark)))))))
+                       (,)
+                       (SUBJ:cu (CJT:np (>N:art:o:M_P::artd: os)
+                                        (H:n:tripulante:M_P::np-def: tripulantes))
+                                (CO:conj-c:e:::co-subj: e)
+                                (CJT:np (H:n:passageiro:M_P::np-idf: passageiros)))
+                       (P:vp (AUX:v-fin:ter:PS_3P_IND::: tiveram)
+                             (PRT-AUX:conj-s:que:::: que)
+                             (MV:v-inf:esperar:::: esperar))
+                       (ADVL:pp (H:prp:até:::: até)
+                                (P<:pp (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:P::artd: as)
+                                         (>N:num:13:F_P::card: 13)
+                                         (H:n:hora:F_P::anr_np-count:anr_np-def: horas)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:adv:ontem:::: ontem)))))
+                       (ADVL:pp (H:prp:para:::: para)
+                                (,)
+                                (P<:icl (ADVL:advp 
+                                          (H:adv:finalmente:::: finalmente))
+                                        (,)
+                                        (P:vp 
+                                          (MV:v-inf:pisar:3P::icl-fin: pisarem))
+                                        (ACC:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:cais:M_S::np-def: cais))))
+                       (.)))

@@ -1,0 +1,60 @@
+(FRASE CP962-1 (STA:fcl (ADVL:cu (CJT:advp 
+                                   (>A:adv:só:: Só)
+                                   (H:adv:recentemente:::: recentemente))
+                                 (CO:conj-c:e:::co-advl: e)
+                                 (CJT:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:forma:F_S::np-idf: forma)
+                                     (N<:adjp 
+                                       (H:adj:restritivo:F_S::: restritiva)))))
+                        (,)
+                        (SUBJ:np (>N:pron-det:algum:M_P::quant: alguns)
+                                 (H:n:tribunal:M_P::anr_np-idf: tribunais))
+                        (P:vp (AUX:v-fin:começar:PS_3P_IND::: começaram)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:considerar:::: considerar))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:M_P::artd: os)
+                                   (H:n:processo:M_P::np-def: processos)
+                                   (N<:pp 
+                                     (H:prp:contra:::: contra)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:jornalista:M_P::np-def: jornalistas))))
+                                 (P:vp (AUX:v-fin:dever:PR_3P_IND::: devem)
+                                       (AUX:v-inf:ser:::: ser)
+                                       (MV:v-pcp:suspender:M_P::anr_pass:icl-subst:passive: suspensos)
+                                       (ADVL:pp 
+                                         (H:prp:até:::: até)
+                                         (P<:fcl 
+                                           (SUB:conj-s:que:::: que)
+                                           (P:vp 
+                                             (MV:v-fin:estar:PR_3P_SUBJ::fs-subst: estejam))
+                                           (SC:v-pcp:decidir:M_P::: decididos)
+                                           (SUBJ:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:processo:M_P::np-def: processos)
+                                             (N<:pp 
+                                               (H:prp:contra:::: contra)
+                                               (P<:np 
+                                                 (H:pron-det:aquele:M_P::dem: aqueles)
+                                                 (N<PRED:fcl 
+                                                   (PIV:pp- 
+                                                     (P<:np- 
+                                                       (,)
+                                                       (APP:np 
+                                                         (>N:adv:geralmente:::: geralmente)
+                                                         (H:n:figura:F_P::anr_np-idf: figuras)
+                                                         (N<:adjp 
+                                                           (H:adj:público:F_P::: públicas)))
+                                                       (,)))
+                                                   (-PIV:pp 
+                                                     (H:prp:de:::: de)
+                                                     (-P<:np 
+                                                       (H:pron-indp:quem:F_P::rel: quem)))
+                                                   (P:vp 
+                                                     (MV:v-fin:falar:PS_3P_IND::fs-rel:nosubj: falaram))))))))))
+                        (.)))

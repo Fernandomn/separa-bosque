@@ -1,0 +1,52 @@
+(FRASE CP210-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:presidente:M_S::np-def: presidente)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (N<:art:o:F_S::: a)
+                                          (H:prop:Câmara_de_Esposende:F_S::anr_np-def: Câmara_de_Esposende)))
+                                 (,)
+                                 (APP:np 
+                                   (H:prop:Alberto_Figueiredo:M_S::: Alberto_Figueiredo))
+                                 (,))
+                        (P:vp (MV:v-fin:anunciar:PS_3S_IND::: anunciou))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (,)
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                                       (MV:v-inf:pedir:_::icl-subst:nosubj: pedir))
+                                 (PIV:pp 
+                                   (H:prp:a:::: a+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:ministro:M_S::np-def: ministro)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (N<:art:o:F_P::: as)
+                                         (H:prop:Finanças:F_P::anr_np-def: Finanças)))))
+                                 (ACC:np 
+                                   (>N:art:um:M_S::arti: um)
+                                   (H:n:inquérito:M_S::np-idf: inquérito)
+                                   (N<:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:np 
+                                       (>N:pron-det:todo_o:M_P::quant: todos_os)
+                                       (H:n:fundo:M_P::anr_np-def: fundos)
+                                       (N<:adjp 
+                                         (H:adj:comunitário:M_P::: comunitários))
+                                       (N<:fcl 
+                                         (ACC:np 
+                                           (H:pron-indp:que:M_S::rel: que))
+                                         (SUBJ:np 
+                                           (>N:art:o:F_P::artd: as)
+                                           (>N:pron-det:seu:F_P::: suas)
+                                           (H:n:empresa:F_P::anr_np-def: empresas))
+                                         (P:vp 
+                                           (MV:v-fin:receber:PS_3P_IND::fs-rel: receberam))
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (>N:adj:último:M_P::NUM-ord: últimos)
+                                             (H:n:ano:M_P::anr_np-def: anos))))))))
+                        (.)))

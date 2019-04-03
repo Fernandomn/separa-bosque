@@ -1,0 +1,40 @@
+(FRASE CP805-1 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:teoria:F_S::np-def: teoria))
+                        (P:vp (MV:v-fin:dizer:PR_3S_IND: diz))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (P:vp (MV:v-fin:ser:PR_3S_IND::fs-subst: é))
+                                 (SC:adjp 
+                                   (H:adj:necessário:F_S::: necessária))
+                                 (SUBJ:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:existência:F_S::np-def: existência)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:art:um:F_S::arti: uma)
+                                       (>N:pron-det:certo:F_S::quant: certa)
+                                       (H:n:distância:F_S::anr_np-idf: distância)
+                                       (N<:pp 
+                                         (H:prp:entre:::: entre)
+                                         (P<:cu 
+                                           (CJT:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             («)
+                                             (H:n:charme:M_S::anr_np-idf: charme)
+                                             (»))
+                                           (CO:conj-c:e:::co-prparg: e)
+                                           (CJT:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             («)
+                                             (H:n:anticharme:M_S::DERP:anr_np-idf: anticharme)
+                                             (»)))))))
+                                 (ADVL:pp 
+                                   (H:prp:para:::: para)
+                                   (P<:icl 
+                                     (SUBJ:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Psi:M_S::: Psi))
+                                     (P:vp 
+                                       (AUX:v-inf:ser:3S::: ser)
+                                       (MV:v-pcp:produzir:M_S::anr_pass:icl-fin:passive: produzido)))))
+                        (.)))

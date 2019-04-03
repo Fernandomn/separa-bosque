@@ -1,0 +1,55 @@
+(FRASE CP299-2 (STA:fcl (P:vp (MV:v-fin:registar:PR_3S_IND::nosubj: Regista))
+                        (ADVL:advp (H:adv:ainda:: ainda))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:n:terra:F_S::np-def: terra)))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:existência:F_S::np-def: existência)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np- 
+                                         (>N:art:um:F_S::arti: uma)
+                                         (H:n:praça:F_S::np-idf: praça)))
+                                (N<:pp (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:ano:M_P::np-def: anos)
+                                         (N<:adjp 
+                                           (H:num:20:M_P::card: 20)))
+                                       (-P<:np 
+                                         (N<:pp 
+                                           (H:prp:com:::: com)
+                                           (P<:np 
+                                             (H:n:capacidade:F_S::np-idf: capacidade)
+                                             (N<:pp 
+                                               (H:prp:para:::: para)
+                                               (P<:np 
+                                                 (>N:num:3400:M_P::card: 3400)
+                                                 (H:n:espectador:M_P::anr_np-count:anr_np-def: espectadores)))))
+                                         (,)
+                                         (N<PRED:fcl 
+                                           (ACC:icl- 
+                                             (SUBJ:np 
+                                               (H:pron-indp:que:F_S::rel: que)))
+                                           (P:vp 
+                                             (MV:v-fin:julgar:PR_1P_IND::fs-rel:nosubj: julgamos))
+                                           (-ACC:icl 
+                                             (P:vp 
+                                               (AUX:v-inf:ter:::: ter)
+                                               (MV:v-pcp:ser:::: sido))
+                                             (SC:np 
+                                               (H:pron-det:o:F_S::dem: a)
+                                               (N<:fcl 
+                                                 (SUBJ:np 
+                                                   (H:pron-indp:que:F_S::rel: que))
+                                                 (P:vp 
+                                                   (MV:v-fin:existir:PS_3S_IND::fs-rel: existiu))
+                                                 (ADVL:pp 
+                                                   (H:prp:até:::: até)
+                                                   (P<:pp 
+                                                     (H:prp:há:::: há)
+                                                     (P<:np 
+                                                       (>N:adjp 
+                                                         (>A:adv:cerca_de:::: cerca_de)
+                                                         (H:num:20:M_P::card: 20))
+                                                       (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))))))))))
+                        (.)))

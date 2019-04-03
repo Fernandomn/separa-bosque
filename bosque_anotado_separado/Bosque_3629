@@ -1,0 +1,28 @@
+(FRASE CP707-2 (STA:fcl (SUBJ:np (H:n:estudo:M_P::np-idf: Estudos)
+                                 (N<:adjp 
+                                   (H:adj:recente:M_P: recentes)))
+                        (P:vp (MV:v-fin:revelar:PS_3P_IND::: revelaram))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (H:n:metade:F_S::np-idf:numfract: metade)
+                                   (N<ARG:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:aluno:M_P::np-def:np-partitive2: alunos)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (>N:adj:quarto:F_S::NUM-ord: quarta)
+                                           (H:n:classe:F_S::anr_np-def: classe))))))
+                                 (ADVL:advp 
+                                   (H:adv:não:::: não))
+                                 (P:vp (AUX:v-fin:estar:IMPF_3P_IND::: estavam)
+                                       (PRT-AUX:prp:a:::: a)
+                                       (MV:v-inf:receber:::icl-subst: receber))
+                                 (ACC:np 
+                                   (H:prop:TPC:M_S::: TPC)
+                                   (N<:adjp 
+                                     (H:adj:compulsivo:M_S::: compulsivo))))
+                        (.)))

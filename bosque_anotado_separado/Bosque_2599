@@ -1,0 +1,56 @@
+(FRASE CP495-4 (STA:fcl (SUBJ:np (>N:pron-det:todo_o:M_P::quant: Todos_os)
+                                 (H:n:elemento:M_P::anr_np-def: elementos)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (>N:art:um:M_S::arti: um)
+                                          (H:n:grupo:M_S::np-idf: grupo)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:animal:M_P::np-idf: animais)))
+                                          (N<:fcl 
+                                            (SUBJ:np 
+                                              (H:pron-indp:que:M_S::rel: que))
+                                            (ADVL:advp 
+                                              (H:adv:não:::: não))
+                                            (P:vp 
+                                              (AUX:v-fin:ter:IMPF_3S_IND::: tinha)
+                                              (AUX:v-pcp:ser:::: sido)
+                                              (MV:v-pcp:vacinar:M_S::anr_pass:fs-rel:passive: vacinado))
+                                            (ADVL:pp 
+                                              (H:prp:com:::: com)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:prop:HIV2:M_S::: HIV2)))))))
+                        (P:vp (MV:v-fin:morrer:PS_3P_IND::: morreram))
+                        (PIV:pp (H:prp:de:::: de+)
+                                (P<:np (>N:art:o:F_S::artd: a)
+                                       (H:n:sida:F_S::np-def: sida)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:n:macaco:M_P::np-def: macacos)))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:n:mês:M_P::np-def: meses)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_P::rel: que))
+                                          (ACC:np 
+                                            (H:pron-pers:se:M_3P_ACC::refl: se))
+                                          (P:vp 
+                                            (MV:v-fin:seguir:PS_3P_IND::fs-rel: seguiram))
+                                          (PIV:pp 
+                                            (H:prp:a:::: a+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (>N:pron-det:seu:F_S::si: sua)
+                                              (H:n:infecção:F_S::anr_np-def: infecção)
+                                              (N<:pp 
+                                                (H:prp:por:::: por+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:prop:SIV:M_S::: SIV))))))))
+                        (.)))

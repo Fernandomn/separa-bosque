@@ -1,0 +1,59 @@
+(FRASE CP673-1 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:Oliva:F_S: Oliva))
+                        (P:vp (MV:v-fin:informar:PR_3S_IND::: informa))
+                        (ACC:np (>N:art:o:M_P::artd: os)
+                                (H:n:obrigacionista:M_P::np-def: obrigacionistas)
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:emissão:F_S::np-def: emissão)
+                                         (N<:np 
+                                           (H:prop:Oliva/89:F_S::: Oliva/89)))))
+                        (PIV:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:valor:M_S::np-def: valor)
+                                   (N<:adjp 
+                                     (H:adj:líquido:M_S::: líquido))
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:juro:M_S::np-def: juro)))
+                                   (N<:pp 
+                                     (H:prp:por:::: por)
+                                     (P<:np 
+                                       (H:n:obrigação:F_S::np-idf: obrigação))))
+                                 (X:cu (CJT:x::::predicate: 
+                                         (P:vp 
+                                           (MV:v-fin:ser:PR_3S_IND::: é))
+                                         (SC:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (>N:num:34:M_P::card: 34)
+                                             (H:n:escudo:M_P::anr_np-count:anr_np-def: escudos))))
+                                       (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                       (CJT:x::::predicate: 
+                                         (P:vp 
+                                           (MV:v-fin:estar:PR_3S_IND::nosubj: está))
+                                         (SC:adjp 
+                                           (H:adj:disponível:M_S::: disponível))
+                                         (ADVL:pp 
+                                           (H:prp:a_partir_de:::: a_partir_de)
+                                           (P<:adjp::::date: 
+                                             (H:num:20:M_S::card: 20)
+                                             (A<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:junho:M_S::np-idf:prop: Junho)))))
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:pron-det:a:F_S::: a)
+                                             (H:n:sede:F_S::anr_np-idf: sede)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:n:empresa:F_S::np-def: empresa))))))))
+                        (.)))

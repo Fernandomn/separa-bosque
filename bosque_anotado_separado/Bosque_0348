@@ -1,0 +1,68 @@
+(FRASE CP63-4 (STA:fcl (ADVL:pp (H:prp:em_relação_a:: Em_relação_a+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:prop:Iraque:M_S::: Iraque)))
+                       (,)
+                       (SUBJ:np (H:prop:Valeri_Progrebenkov:M_S::: Valeri_Progrebenkov)
+                                (,)
+                                (N<PRED:np 
+                                  (H:n:porta-voz:M_S::np-idf: porta-voz)
+                                  (N<:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:S::artd: a)
+                                      (H:n:sociedade:F_S::np-def: sociedade)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Estado_Rosvooroujenie:M_S::: Estado_Rosvooroujenie)))
+                                      (,)
+                                      (N<PRED/N<PRED[-3]:adjp 
+                                        (H:adj:responsável:MF_S::: responsável)
+                                        (A<:pp 
+                                          (H:prp:por:::: por+)
+                                          (P<:np 
+                                            (>N:art:o:P::artd: as)
+                                            (H:n:exportação:F_P::np-def: exportações)
+                                            (N<:adjp 
+                                              (H:adj:militar:F_P::: militares)))))))))
+                       (,)
+                       (P:vp (MV:v-fin:desmentir:PS_3S_IND::: desmentiu))
+                       (ACC:np (>N:art:o:F_S::artd: a)
+                               (H:n:existência:F_S::np-def: existência)
+                               (N<:pp (H:prp:de:::: de)
+                                      (P<:np 
+                                        (>N:art:um:F_S::arti: uma)
+                                        (H:n:encomenda:F_S::np-idf: encomenda)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:num:4000:M_P::card: 4000)
+                                            (H:n:carro:M_P::anr_np-count:anr_np-def: carros)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:combate:M_S::np-idf: combate)))
+                                            (N<:adjp 
+                                              (H:adj:russo:M_P::: russos)))))))
+                       (,)
+                       (ADVL:pp (H:prp:como:::: como)
+                                (P<:fcl (P:vp 
+                                          (MV:v-fin:afirmar:MQP_3S_IND::: afirmara))
+                                        (SUBJ:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:genro:M_S::np-def: genro)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:prop:Saddam_Hussein:M_S::: Saddam_Hussein)))
+                                          (N<:fcl 
+                                            (SUBJ:np 
+                                              (H:pron-indp:que:M_S::rel: que))
+                                            (P:vp 
+                                              (MV:v-fin:desertar:PS_3S_IND::fs-rel: desertou))
+                                            (ADVL:pp 
+                                              (H:prp:para:::: para)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:prop:Jordânia:F_S::: Jordânia)))))))
+                       (.)))

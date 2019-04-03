@@ -1,0 +1,32 @@
+(FRASE CP950-4 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:administração:F_S::np-def: administração)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:fábrica:F_S::np-def: fábrica))))
+                        (ADVL:advp (H:adv:já:::: já))
+                        (P:vp (MV:v-fin:fazer:PS_3S_IND::: fez))
+                        (ACC:icl (ADVL:advp 
+                                   (H:adv:no_entanto:::kc: no_entanto))
+                                 (P:vp (MV:v-inf:saber:::icl-subst: saber))
+                                 (ACC:fcl 
+                                   (SUB:conj-s:que:::: que)
+                                   (P:vp 
+                                     (MV:v-fin:ser:PR_3S_IND::fs-subst: é))
+                                   (SC:np 
+                                     (>N:pron-det:seu:F_S::: sua)
+                                     (H:n:intenção:F_S::anr_np-def: intenção))
+                                   (SUBJ:icl 
+                                     (P:vp 
+                                       (MV:v-inf:reduzir:::icl-subst: reduzir))
+                                     (ACC:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:produção:F_S::np-def: produção)
+                                       (N<:adjp 
+                                         (H:adj:diário:F_S::: diária)))
+                                     (OA:pp 
+                                       (H:prp:para:::: para)
+                                       (P<:np 
+                                         (>N:num:110:F_P::card: 110)
+                                         (H:n:unidade:F_P::anr_np-count:anr_np-def: unidades))))))
+                        (.)))

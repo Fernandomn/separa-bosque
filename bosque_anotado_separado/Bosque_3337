@@ -1,0 +1,48 @@
+(FRASE CP642-4 (UTT:cu (CJT:np (>N:np (>N:adjp 
+                                        (>A:adv:mais_de:quant: mais_de)
+                                        (H:num:300:F_P::card: 300))
+                                      (H:n:mil:F_P::card:num: mil))
+                               (H:n:cópia:F_P::anr_np-count:anr_np-def: cópias)
+                               (N<:icl::::pcp: 
+                                 (P:vp (MV:v-pcp:vender:F_P::: vendidas))
+                                 (ADVL:pp 
+                                   (H:prp:desde:::: desde)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:prop:Natal:M_S::: Natal)))))
+                       (,)
+                       (CJT:np («)
+                               (H:n:show:M_P::anr_np-idf: shows)
+                               (»)
+                               (N<:icl::::pcp: 
+                                 (ADVL:advp 
+                                   (H:adv:continuamente:::: continuamente))
+                                 (P:vp (MV:v-pcp:esgotar:M_P::: esgotados))
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:prop:Canecão:M_S::: Canecão)
+                                     (,)
+                                     (N<PRED:fcl 
+                                       (ADVL:advp 
+                                         (H:adv:por_onde:::rel: por_onde))
+                                       (P:vp 
+                                         (MV:v-fin:passar:MQP_3P_IND::fs-rel: passaram))
+                                       (ADVL:advp 
+                                         (H:adv:já:::: já))
+                                       (SUBJ:np 
+                                         (>N:np 
+                                           (>N:adjp 
+                                             (>A:adv:cerca_de:::: cerca_de)
+                                             (H:num:50:F_P::card: 50))
+                                           (H:n:mil:F_P::card:num: mil))
+                                         (H:n:pessoa:F_P::anr_np-count:anr_np-def: pessoas)))
+                                     (,)))))
+                       (CJT:np (H:n:recepção:F_S::np-idf: recepção)
+                               (N<:adjp (H:adj:caloroso:F_S::: calorosa))
+                               (N<:pp (H:prp:por_parte_de:::: por_parte_de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:público:M_S::anr_np-idf: público))))
+                       (.)))

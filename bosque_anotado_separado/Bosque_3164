@@ -1,0 +1,35 @@
+(FRASE CP607-2 (STA:fcl (SUBJ:np (>N:pron-det:esse:F_S::dem: Essa)
+                                 (>N:pron-det:mesmo:F_S::KOMP:diff: mesma)
+                                 (H:n:colectânea:F_S::anr_np-def: colectânea))
+                        (P:vp (MV:v-fin:dar:PS_3S_IND: deu))
+                        (ADVL:advp (>A:adv:mais:_::KOMP:quant: mais)
+                                   (H:adv:recentemente:::: recentemente))
+                        (ACC:np (H:n:origem:F_S::np-idf: origem))
+                        (PIV:pp (H:prp:a:::: a)
+                                (P<:np (>N:num:um:M_S::card: um)
+                                       (H:n:reedição:F_S::anr_np-count:anr_np-def: reedição)
+                                       (N<:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (>N:num:dois:M_P::card: dois)
+                                           (H:n:CD:M_S::anr_np-count:anr_np-def: CD)
+                                           (N<:adjp 
+                                             (H:adj:duplo:M_P::: duplos))
+                                           (,)
+                                           (N<PRED:fcl 
+                                             (SUBJ:np 
+                                               (H:pron-indp:que:M_P::rel: que))
+                                             (ACC:np 
+                                               (H:pron-pers:se:M_3P_ACC::coll:refl: se))
+                                             (P:vp 
+                                               (MV:v-fin:encontrar:PR_3P_IND::fs-rel: encontram))
+                                             (OC:icl::::pcp: 
+                                               (P:vp 
+                                                 (MV:v-pcp:esgotar:M_P::: esgotados))
+                                               (ADVL:pp 
+                                                 (H:prp:em:::: em+)
+                                                 (P<:np 
+                                                   (>N:art:o:M_S::artd: o)
+                                                   (>N:pron-det:nosso:M_S::: nosso)
+                                                   (H:n:mercado:M_S::anr_np-def: mercado)))))))))
+                        (.)))

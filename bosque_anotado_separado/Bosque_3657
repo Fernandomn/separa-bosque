@@ -1,0 +1,41 @@
+(FRASE CP714-1 (STA:fcl (PRED:cu (CJT:pp 
+                                   (H:prp:de:: De+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:alto:M_S::np-def: alto)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:art:um:F_S::arti: uma)
+                                         (H:n:varanda:F_S::np-idf: varanda)))))
+                                 (,)
+                                 (CJT:np 
+                                   (H:n:microfone:M_S::np-idf: microfone)
+                                   (N<:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:mão:F_S::np-def: mão))))
+                                 (,))
+                        (SUBJ:np (H:pron-pers:ele:M_3S_NOM::: ele))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:atordoar:PR_3S_IND::: atordoa))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:praça:F_S::np-def: praça)))
+                              (,)
+                              (CJT:v-fin:vibrar:PR_3S_IND::nosubj: vibra)
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:fazer:PR_3S_IND::nosubj: faz))
+                                (ACC:icl 
+                                  (P:vp (MV:v-inf:vibrar:::icl-subst: vibrar))
+                                  (SUBJ:np 
+                                    (H:pron-det:todo_o:M_P::quant: todos_os)
+                                    (N<:fcl 
+                                      (SUBJ:np 
+                                        (H:pron-indp:que:M_P::rel: que))
+                                      (ACC:np 
+                                        (H:pron-pers:ele:M_3S_ACC::: o))
+                                      (P:vp 
+                                        (MV:v-fin:escutar:PR_3P_IND::fs-rel: escutam)))))))
+                        (.)))

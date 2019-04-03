@@ -1,0 +1,42 @@
+(FRASE CP207-12 (UTT:np (H:n:passo:M_S::np-idf: Passo)
+                        (N<:adjp (H:num:5:M_S::card: 5))
+                        (;)
+                        (N<PRED:cu (CJT:fcl 
+                                     (P:vp 
+                                       (MV:v-fin:pegar:PR_3S_SUBJ::nosubj: pegue))
+                                     (PIV:pp 
+                                       (H:prp:em:: em+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (>N:adj:novo:F_S::: nova)
+                                         (H:n:cadeia:F_S::anr_np-def: cadeia))))
+                                   (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                   (CJT:fcl 
+                                     (P:vp 
+                                       (MV:v-fin:tentar:PR_3S_SUBJ::nosubj: tente))
+                                     (ACC:icl 
+                                       (P:vp 
+                                         (MV:v-inf:construir:::icl-subst: construir))
+                                       (ACC:np 
+                                         (>N:cu 
+                                           (CJT:adjp 
+                                             (H:num:um:F_S::card: uma))
+                                           (CO:conj-c:ou:::co-prenom: ou)
+                                           (CJT:np 
+                                             (H:pron-det:várias:F_P::quant: várias)))
+                                         (H:n:palavra:F_P::anr_np-count:anr_np-def: palavras)
+                                         (N<:pp 
+                                           (H:prp:com:::: com)
+                                           (P<:np 
+                                             (H:n:sentido:M_S::np-idf: sentido)))))
+                                     (ADVL:icl::::ger: 
+                                       (P:vp 
+                                         (MV:v-ger:introduzir:::: introduzindo))
+                                       (ACC:np 
+                                         (H:n:vogal:M_P::np-idf: vogais))
+                                       (ADVL:fcl 
+                                         (ADVL:advp 
+                                           (H:adv:onde:_::ks:rel: onde))
+                                         (P:vp 
+                                           (MV:v-fin:querer:FUT_3S_SUBJ::nosubj: quiser))))))
+                        (.)))

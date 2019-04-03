@@ -1,0 +1,74 @@
+(FRASE CP436-2 (STA:fcl (ADVL:pp (H:prp:por_causa_de:: Por_causa_de+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        («)
+                                        (H:n:perigo:M_S::anr_np-idf: perigo)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:morte:F_S::np-idf: morte)))
+                                        (»)
+                                        (N<:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:representar:M_S::: representado))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:pala:F_S::np-def: pala)
+                                              (N<:fcl 
+                                                (SUBJ:np 
+                                                  (H:pron-indp:que:F_S::rel: que))
+                                                (X:cu 
+                                                  (CJT:x::::predicate: 
+                                                    (P:vp 
+                                                      (MV:v-fin:ameaçar:PR_3S_IND::fs-rel: ameaça))
+                                                    (ACC:fcl 
+                                                      (SUB:conj-s:que:::: que)
+                                                      (P:vp 
+                                                        (MV:v-fin:cair:PR_3S_IND::fs-subst:nosubj: cai))))
+                                                  (CO:conj-c:mas:::co-vfin: mas)
+                                                  (CJT:x::::predicate: 
+                                                    (ADVL:advp 
+                                                      (H:adv:não:::: não))
+                                                    (P:vp 
+                                                      (MV:v-fin:cair:PR_3S_IND::nosubj: cai))))))))))
+                        (,)
+                        (SUBJ:np (>N:pron-det:algum:M_P::quant: alguns)
+                                 (H:n:milhar:M_P::anr_np-idf:card:num: milhares)
+                                 (N<ARG:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (H:n:pessoa:F_P::np-dequant:np-idf: pessoas))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:pagar:PS_3P_IND::: pagaram))
+                                (ADVL:pp 
+                                  (H:prp:para:::: para)
+                                  (P<:icl 
+                                    (P:vp 
+                                      (MV:v-inf:assistir:::icl-fin: assistir))
+                                    (PIV:pp 
+                                      (H:prp:a:::: a+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:concerto:M_S::np-def: concerto)))
+                                    (ADVL:pp 
+                                      (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:um:M_S::arti: um)
+                                        (H:n:local:M_S::np-idf: local))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:acabar:PS_3P_IND::nosubj: acabaram))
+                                (PIV:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (H:pron-det:outro:M_S::diff: outro)))
+                                (,)
+                                (ADVL:pp 
+                                  (H:prp:por:::: por)
+                                  (P<:np 
+                                    (H:n:falta:F_S::np-idf: falta)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:espaço:M_S::np-idf: espaço)))))))
+                        (.)))

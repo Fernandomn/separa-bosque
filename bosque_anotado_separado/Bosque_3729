@@ -1,0 +1,28 @@
+(FRASE CP725-4 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:fazer:PR_3S_IND::: faz))
+                        (ACC:np (H:n:sentido:M_S::np-idf: sentido))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (>N:pron-det:meu:M_S::: meu)
+                                        (H:v-inf:entender:::n: entender)))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:quadro:M_S::np-def: quadro)
+                                        (N<:adjp 
+                                          (H:adj:actual:M_S::: actual))
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:democracia:F_S::np-def: democracia)
+                                            (N<:adjp 
+                                              (H:adj:português:F_S::: portuguesa))))))
+                        (,)
+                        (SUBJ:icl (P:vp (MV:v-inf:fazer:::icl-subst: fazer))
+                                  (ACC:np 
+                                    (H:pron-indp:isso:M_S::dem: isso))
+                                  (ADVL:advp 
+                                    (H:adv:hoje:::: hoje)))
+                        (.)))

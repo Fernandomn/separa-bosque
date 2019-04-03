@@ -1,0 +1,35 @@
+(FRASE CP918-2 (STA:cu (CJT:fcl (ADVL:pp:em_princípio:: Em_princípio)
+                                (P:vp (MV:v-fin:chegar:PS_3S_IND::nosubj: chegou))
+                                (PIV:icl 
+                                  (P:vp (MV:v-inf:pensar:_::hyfen:icl-subst: pensar-))
+                                  (SUBJ:np 
+                                    (H:pron-pers:se:MF_3SP_ACC::: se))
+                                  (ACC:icl 
+                                    (P:vp 
+                                      (MV:v-inf:instalar:::icl-subst: instalar))
+                                    (ACC:np 
+                                      (>N:art:um:M_S::arti: um)
+                                      (H:n:jornal:M_S::np-idf: jornal)
+                                      (N<:adjp 
+                                        (H:adj:eletrônico:M_S::: electrónico))))))
+                       (,)
+                       (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                       (CJT:fcl (SUBJ:np 
+                                  (H:pron-indp:isso:M_S::dem: isso))
+                                (P:vp (MV:v-fin:implicar:IMPF_3S_IND::: implicava))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:compra:F_S::np-def: compra)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:um:M_S::arti: um)
+                                            (H:n:computador:M_S::np-idf: computador)
+                                            (N<:adjp 
+                                              (>A:adj:demasiado:M_S::: demasiado)
+                                              (H:adj:caro:M_S::: caro)
+                                              (A<:pp 
+                                                (H:prp:para:::: para)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:município:M_S::np-def: município))))))))
+                       (.)))

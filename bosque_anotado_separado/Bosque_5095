@@ -1,0 +1,43 @@
+(FRASE CP993-3 (STA:fcl (ADVL:advp (H:adv:no_que_se_refere:: No_que_se_refere)
+                                   (A<:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:np 
+                                       (H:n:resultado:M_P::np-idf: resultados)
+                                       (N<:adjp 
+                                         (H:adj:corrente:M_P::: correntes)))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_P::artd: as)
+                                 (H:n:estimativa:F_P::np-def: estimativas))
+                        (P:vp (MV:v-fin:apontar:IMPF_3P_IND::: apontavam))
+                        (PIV:pp (H:prp:para:::: para)
+                                (P<:np (>N:art:um:M_S::arti: um)
+                                       (H:n:valor:M_S::np-idf: valor)
+                                       (N<:adjp 
+                                         (H:adj:negativo:M_S::: negativo))
+                                       (N<ARGO:cu 
+                                         (CJT:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (>N:num:2,6:M_P::card: 2,6)
+                                             (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                             (N<ARG:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:conto:M_P::np-dequant:np-idf: contos)))))
+                                         (,)
+                                         (CO:conj-c:mas:::co-postnom: mas)
+                                         (CJT:fcl 
+                                           (SUBJ:np 
+                                             (H:pron-indp:que:M_S::rel: que))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:realidade:F_S::np-def: realidade)))
+                                           (P:vp 
+                                             (MV:v-fin:ultrapassar:PS_3S_IND::: ultrapassou))
+                                           (ACC:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (>N:num:seis:M_P::card: seis)
+                                             (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões))))))
+                        (.)))

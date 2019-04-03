@@ -1,0 +1,49 @@
+(FRASE CP950-5 (STA:fcl (ADVL:advp (H:adv:entretanto:kc: Entretanto))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:trabalhador:M_P::np-def: trabalhadores)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:fábrica:F_S::np-def: fábrica)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:prop:Setúbal:MF_S::: Setúbal))))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:realizar:PS_3P_IND::: realizaram))
+                                (ACC:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:greve:F_S::np-idf: greve))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:quinta-feira:F_S::np-def: quinta-feira)
+                                    (N<:v-pcp:passar:F_S::: passada))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:marcar:PS_3P_IND::nosubj: marcaram))
+                                (ACC:np- 
+                                  (>N:adj:novo:F_S::: nova)
+                                  (H:n:paralisação:F_S::anr_np-idf: paralisação))
+                                (ADVL:pp 
+                                  (H:prp:para:::: para)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (>N:adj:próximo:F_S::: próxima)
+                                    (H:n:segunda-feira:F_S::anr_np-def: segunda-feira)))
+                                (-ACC:np 
+                                  (,)
+                                  (N<PRED:fcl 
+                                    (SUBJ:np 
+                                      (H:pron-indp:que:F_S::rel: que))
+                                    (P:vp 
+                                      (MV:v-fin:incluir:FUT_3S_IND::fs-rel: incluirá))
+                                    (ACC:np 
+                                      (>N:art:um:F_S::arti: uma)
+                                      (H:n:marcha:F_S::np-idf: marcha)
+                                      (N<:pp 
+                                        (H:prp:sobre:::: sobre)
+                                        (P<:np 
+                                          (H:prop:Lisboa:F_S::: Lisboa))))))))
+                        (.)))

@@ -1,0 +1,53 @@
+(FRASE CP680-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: Os)
+                                 (>N:advp 
+                                   (>A:adv:pouco:quant: pouco)
+                                   (H:adv:mais_de:::quant: mais_de))
+                                 (>N:num:3,3:M_P::card: 3,3)
+                                 (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                 (N<ARG:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (H:n:conto:M_P::np-dequant:np-idf: contos)))
+                                 (N<:fcl 
+                                   (ACC:np 
+                                     (H:pron-indp:que:M_P::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:gerir:IMPF_3P_IND::fs-rel:nosubj: geriam))
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:final:M_S::np-def: final)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:ano:M_S::np-def: ano)
+                                           (N<:v-pcp:passar:M_S::: passado)))))))
+                        (P:vp (MV:v-fin:passar:PS_3P_IND::: passaram))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:final:M_S::np-def: final)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np::::date: 
+                                            (H:n:junho:M_S::anr_np-idf:prop: Junho)))))
+                        (PIV:pp (H:prp:a:::: a)
+                                (P<:np (>N:num:21:M_P::card: 21)
+                                       (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                       (N<ARG:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:conto:M_P::np-dequant:np-idf: contos)))
+                                       (N<PRED:np 
+                                         (,)
+                                         (>N:adv:ou_seja:::kc: ou_seja)
+                                         (,)
+                                         (>N:art:um:M_S::arti: um)
+                                         (H:n:crescimento:M_S::np-idf: crescimento)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (>N:num:536:M_P::card: 536)
+                                             (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento))))))
+                        (.)))

@@ -1,0 +1,30 @@
+(FRASE CP631-11 (STA:fcl (SUB:conj-s:porque:: Porque)
+                         (SUBJ:np (H:pron-indp:toda_a_gente:F_S::: toda_a_gente))
+                         (P:vp (MV:v-fin:ir:IMPF_3S_IND::fs-cause: ia))
+                         (SA:pp (H:prp:para:::: para)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:n:aeroporto:M_S::np-def: aeroporto)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:prop:Madrid:MF_S::: Madrid)))))
+                         (ADVL:pp (H:prp:a:::: a+)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:espera:F_S::np-def: espera)
+                                    (N<ARGO:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (H:pron-pers:ele:M_3S_PIV::: ele)))))
+                         (,)
+                         (ADVL:fcl (P:vp 
+                                     (MV:v-fin:ser:IMPF_3S_IND::nosubj: era))
+                                   (SC:np 
+                                     (H:pron-det:o:M_S::dem: o)
+                                     (N<:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:M_S::rel: que))
+                                       (P:vp 
+                                         (MV:v-fin:estar:IMPF_3S_IND::fs-rel: estava))
+                                       (SC:v-pcp:prever:M_S::: previsto))))
+                         (.)))

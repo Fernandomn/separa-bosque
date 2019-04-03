@@ -1,0 +1,48 @@
+(FRASE CP499-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (>N:adj:sétimo:F_S::NUM-ord: sétima)
+                                 (H:n:jornada:F_S::anr_np-def: jornada)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:campeonato:M_S::np-def: campeonato)
+                                          (N<:adjp 
+                                            (H:adj:inglês:M_S::: inglês))
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:futebol:M_S::np-idf: futebol))))))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:trazer:PS_3S_IND::: trouxe))
+                        (ACC:np (H:n:alteração:F_P::np-idf: alterações)
+                                (N<:pp (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:topo:M_S::np-def: topo)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:classificação:F_S::np-def: classificação))))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:já_que:::: já_que)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (>N:num:três:M_P::card: três)
+                                    (H:n-adj:primeiro:M_P::NUM-ord:anr_np-count:anr_np-def: primeiros))
+                                  (X:cu (CJT:x::::predicate: 
+                                          (P:vp 
+                                            (MV:v-fin:vencer:PS_3P_IND::: venceram))
+                                          (ACC:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (>N:pron-det:seu:M_P::si: seus)
+                                            (H:n:jogo:M_P::anr_np-def: jogos)))
+                                        (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                        (CJT:x::::predicate: 
+                                          (P:vp 
+                                            (MV:v-fin:manter:PR_3P_IND::nosubj: mantêm))
+                                          (ACC:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (H:n:posição:F_P::np-def: posições)
+                                            (N<:adjp 
+                                              (H:adj:relativo:F_P::: relativas))))))
+                        (.)))

@@ -1,0 +1,42 @@
+(FRASE CP646-4 (STA:fcl (ADVL:advp (H:adv:actualmente:DERS: Actualmente))
+                        (,)
+                        (ADVL:pp (H:pp:de_acordo:::: de_acordo)
+                                 (N<:pp (H:prp:com:::: com)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:lei:F_S::np-def: lei)
+                                          (N<:adjp 
+                                            (H:adj:vigente:F_S::: vigente)))))
+                        (,)
+                        (X:cu (CJT:fcl (SUBJ:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:prop:SCML:F_S::: SCML))
+                                       (P:vp 
+                                         (MV:v-fin:receber:PR_3S_IND::: recebe))
+                                       (ACC:np 
+                                         (>N:art:um:M_S::arti: um)
+                                         (H:n-adj:terço:M_S::NUM-ord:np-idf: terço)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:lucro:M_P::np-def: lucros)
+                                             (N<:adjp 
+                                               (H:adj:líquido:M_P::: líquidos))
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:n:lotaria:F_S::np-def: lotaria)))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:fcl (SUBJ:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:estado:M_S::np-def:prop: Estado))
+                                       (P:vp 
+                                         (MV:v-fin:ficar:PR_3S_IND::: fica))
+                                       (SC:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (>N:num:dois:M_P::card: dois)
+                                           (H:n-adj:terço:M_P::NUM-ord:anr_np-count:anr_np-def: terços)))))
+                        (.)))

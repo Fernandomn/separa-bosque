@@ -1,0 +1,43 @@
+(FRASE CP54-6 (STA:fcl (SUBJ:np («)
+                                (H:prop:Os_Padrões_Recentes_da_Fecundidade_em_Portugal:M_S: Os_Padrões_Recentes_da_Fecundidade_em_Portugal)
+                                (»)
+                                (,)
+                                (N<PRED:np 
+                                  (H:n:estudo:M_S::np-idf: estudo)
+                                  (N<:fcl 
+                                    (SUBJ:np 
+                                      (H:pron-indp:que:M_S::rel: que))
+                                    (P:vp 
+                                      (AUX:v-fin:ser:FUT_3S_IND::: será)
+                                      (MV:v-pcp:lançar:M_S::anr_pass:fs-rel:passive: lançado))
+                                    (ADVL:pp 
+                                      (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:o:S::artd: a)
+                                        (>N:adj:próximo:F_S::: próxima)
+                                        (H:n:semana:F_S::anr_np-def: semana)))))
+                                (,))
+                       (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                             (MV:v-pcp:elaborar:M_S::anr_pass:passive: elaborado))
+                       (PASS:cu (CJT:pp (H:prp:por:::: por+)
+                                        (P<:np 
+                                          (>N:art:o:P::artd: as)
+                                          (H:n:socióloga:F_P::np-def: sociólogas)
+                                          (N<:cu 
+                                            (CJT:np 
+                                              (H:prop:Ana_Nunes_de_Almeida:F_S::: Ana_Nunes_de_Almeida))
+                                            (CO:conj-c:e:::co-postnom: e)
+                                            (CJT:np 
+                                              (H:prop:Cristina_Ferreira:F_S::: Cristina_Ferreira)))))
+                                (CO:conj-c:e:::co-pass: e)
+                                (CJT:pp (H:prp:por:::: por+)
+                                        (P<:np 
+                                          (>N:art:o:P::artd: as)
+                                          (H:n:geógrafa:F_P::np-def: geógrafas)
+                                          (N<:cu 
+                                            (CJT:np 
+                                              (H:prop:Filipa_Ferrão:F_S::: Filipa_Ferrão))
+                                            (CO:conj-c:e:::co-postnom: e)
+                                            (CJT:np 
+                                              (H:prop:Isabel_Margarida_André:F_S::: Isabel_Margarida_André))))))
+                       (.)))

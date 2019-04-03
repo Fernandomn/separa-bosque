@@ -1,0 +1,108 @@
+(FRASE CP512-2 (STA:fcl (ADVL:pp (H:prp:em:: Em)
+                                 (P<:np (H:n:declaração:F_P::np-idf: declarações)
+                                        (N<:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Público:M_S::: PÚBLICO)))))
+                        (,)
+                        (SUBJ:np (H:prop:Francisco_Costa:M_S::: Francisco_Costa)
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:membro:M_S::np-idf: membro)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:comissão:F_S::np-def: comissão)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:ligação:F_S::np-idf: ligação)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:hospital:M_S::np-def:prop: Hospital)))))
+                                       (,)
+                                       (N<PRED:np 
+                                         (>N:art:um:M_S::arti: um)
+                                         (H:n:órgão:M_S::np-idf: órgão)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:contacto:M_S::np-idf: contacto)
+                                             (N<:pp 
+                                               (H:prp:entre:::: entre)
+                                               (P<:cu 
+                                                 (CJT:np 
+                                                   (>N:art:o:M_P::artd: os)
+                                                   (H:n:hospital:M_P::np-def: hospitais))
+                                                 (CO:conj-c:e:::co-prparg: e)
+                                                 (CJT:np 
+                                                   (>N:art:o:F_P::artd: as)
+                                                   (H:prop:Testemunhas_de_Jeová:F_P::: Testemunhas_de_Jeová)))))))
+                                       (,)))))
+                        (P:vp (MV:v-fin:dizer:PS_3S_IND::: disse))
+                        (ACC:icl (P:vp (MV:v-inf:conhecer:::icl-subst: conhecer))
+                                 (ACC:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:documento:M_S::np-def: documento)
+                                   (,)
+                                   (N<PRED:fcl 
+                                     (SUBJ:np 
+                                       (H:pron-indp:que:M_S::rel: que))
+                                     (,)
+                                     (ADVL:pp 
+                                       (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:essencial:M_S::np-def: essencial)))
+                                     (,)
+                                     (P:vp 
+                                       (MV:v-fin:reiterar:PR_3S_IND::fs-rel: reitera))
+                                     (ACC:np 
+                                       (>N:art:um:F_S::arti: uma)
+                                       (H:n:prática:F_S::np-idf: prática)
+                                       (N<:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:utilizar:F_S::: utilizada))
+                                         (ADVL:advp 
+                                           (H:adv:anteriormente:::: anteriormente))
+                                         (PASS:pp 
+                                           (H:prp:por:::: por+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:direcção:F_S::np-def: direcção)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:hospital:M_S::np-def: hospital))))))
+                                       (,)
+                                       (N<PRED:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:excepção:F_S::np-def: excepção)
+                                           (N<:pp 
+                                             (H:pp:de:::: de+)
+                                             (P<:np 
+                                               (H:pron-det:o:M_S::: o)
+                                               (N<:fcl 
+                                                 (SUBJ:np 
+                                                   (H:pron-indp:que:M_S::rel: que))
+                                                 (ACC:np 
+                                                   (H:pron-pers:se:M_3S_ACC::: se))
+                                                 (P:vp 
+                                                   (MV:v-fin:passar:IMPF_3S_IND::fs-rel: passava))
+                                                 (PIV:pp 
+                                                   (H:prp:com:::: com)
+                                                   (P<:np 
+                                                     (>N:art:o:M_S::artd: o)
+                                                     (H:n:tratamento:M_S::np-def: tratamento)
+                                                     (N<:pp 
+                                                       (H:prp:de:::: de)
+                                                       (P<:np 
+                                                         (H:n:criança:F_P::np-idf: crianças))))))))))))))
+                        (.)))

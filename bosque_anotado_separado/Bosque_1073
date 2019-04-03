@@ -1,0 +1,79 @@
+(FRASE CP200-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:futuro:M_S::np-def: futuro)
+                                 (N<:pp (H:prp:sobre:: sobre)
+                                        (P<:np 
+                                          (H:prop:OT-10:M_S::: OT-10)
+                                          ({)
+                                          (N<PRED:np 
+                                            (>N:art:um:F_S::arti: uma)
+                                            (H:n:taxa:F_S::np-idf: taxa)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:juro:M_S::np-idf: juro)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (>N:adj:longo:M_S::: longo)
+                                                    (H:n:prazo:M_S::anr_np-idf: prazo))))))
+                                          (}))))
+                        (P:vp (MV:v-fin:contar:PR_3S_IND::: conta))
+                        (,)
+                        (ADVL:pp (H:prp:a:::: a+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:n:partida:F_S::np-def: partida)))
+                        (,)
+                        (PIV:pp (H:prp:com:::: com)
+                                (P<:adjp 
+                                  (>N:num:nove:M_P::card: nove)
+                                  («)
+                                  (H:n:market_makers:M_S::anr_np-count:anr_np-idf: market_makers)
+                                  (»)
+                                  (,)
+                                  (N<:advp 
+                                    (>A:adv:significativamente:::: significativamente)
+                                    (H:adv:mais:_::KOMP:quant: mais)
+                                    (KOMP<:acl 
+                                      (COM:conj-s:do_que:::: do_que)
+                                      (SUBJ:np::::Eg: 
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:num:cinco:M_P::Eg:card:np-def: cinco)
+                                        (A<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_P::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:cumprir:FUT_3P_IND::: cumprirão))
+                                          (ACC:np 
+                                            (>N:adj:indêntico:F_S::: indêntica)
+                                            (H:n:função:F_S::anr_np-idf: função)
+                                            (N<:pp 
+                                              (H:prp:para:::: para)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:futuro:M_S::np-def: futuro)
+                                                (N<:pp 
+                                                  (H:prp:sobre:::: sobre)
+                                                  (P<:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (H:prop:PSI-20:M_S::: PSI-20)
+                                                    ({)
+                                                    (N<PRED:np 
+                                                      (>N:art:um:M_S::arti: um)
+                                                      (H:n:índice:M_S::np-idf: índice)
+                                                      (N<:adjp 
+                                                        (H:adj:bolsista:M_S::: bolsista))
+                                                      (N<:icl::::pcp: 
+                                                        (P:vp 
+                                                          (MV:v-pcp:calcular:M_S::: calculado))
+                                                        (ADVL:pp 
+                                                          (H:prp:para:::: para)
+                                                          (P<:np 
+                                                            (>N:art:um:F_S::arti: uma)
+                                                            (H:n:carteira:F_S::np-idf: carteira)
+                                                            (N<:pp 
+                                                              (H:prp:de:::: de)
+                                                              (P<:np 
+                                                                (>N:num:20:M_P::card: 20)
+                                                                (H:n:título:M_P::anr_np-count:anr_np-def: títulos)))))))
+                                                    (}))))))))))))
+                        (.)))

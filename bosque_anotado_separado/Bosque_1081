@@ -1,0 +1,30 @@
+(FRASE CP202-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:presidente:M_S::np-def: presidente)
+                                 (N<:adjp 
+                                   (H:adj:cessante:M_S: cessante))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:S::artd: a)
+                                          (H:n:comissão:F_S::np-def: comissão)
+                                          (N<:adjp 
+                                            (H:adj:senatorial:F_S::: senatorial))
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:serviço:M_P::np-idf: serviços)
+                                              (N<:adjp 
+                                                (H:adj:secreto:M_P::: secretos))))))
+                                 (,)
+                                 (APP:np 
+                                   (H:prop:Dennis_DeConcini:M_S::: Dennis_DeConcini))
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:democrata:M_S::np-idf: democrata)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Arizona:M_S::: Arizona)))))
+                        (,)
+                        (P:vp (MV:v-fin:afirmar:PS_3S_IND::: afirmou))
+                        (;)))

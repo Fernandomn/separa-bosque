@@ -1,0 +1,44 @@
+(FRASE CP908-2 (STA:fcl (FOC:advp (H:adv:é_que:foc: É_que))
+                        (SUBJ:np (H:pron-pers:se:MF_3SP_ACC::: se))
+                        (P:vp (MV:v-fin:recear:PR_3S_IND::: receia))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:escolha:F_S::np-def: escolha)
+                                   (N<ARGO:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:art:um:M_S::arti: um)
+                                       (H:n:tratamento:M_S::np-idf: tratamento)
+                                       (N<:cu 
+                                         (CJT:adjp 
+                                           (H:adj:incorrecto:M_S::DERP: incorrecto))
+                                         (CO:conj-c:e:::co-postnom: e)
+                                         (CJT:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:disseminar:M_S::: disseminado))
+                                           (ADVL:pp 
+                                             (H:prp:a:::: a+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:escala:F_S::np-def: escala)
+                                               (N<:adjp 
+                                                 (H:adj:planetário:F_S::: planetária)))))))))
+                                 (P:vp (MV:v-fin:fazer:PR_3S_SUBJ::fs-subst: faça))
+                                 (ACC:icl 
+                                   (P:vp 
+                                     (MV:v-inf:aumentar:::icl-subst: aumentar))
+                                   (ACC:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:resistência:F_S::np-def: resistência)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:bactéria:F_S::np-def: bactéria)))
+                                     (N<:pp 
+                                       (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:antibiótico:M_P::np-def: antibióticos))))))
+                        (.)))

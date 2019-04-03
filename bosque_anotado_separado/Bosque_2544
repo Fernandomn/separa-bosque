@@ -1,0 +1,38 @@
+(FRASE CP482-5 (STA:fcl (SUBJ:np (>N:art:um:M_S::arti: Um)
+                                 (H:n:exemplo:M_S::np-idf: exemplo)
+                                 (N<:adjp 
+                                   (H:adj:recente:M_S: recente))
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:fcl 
+                                          (ADVL:advp 
+                                            (H:adv:como:::interr: como))
+                                          (SUBJ:np 
+                                            (H:pron-pers:se:MF_3SP_ACC::: se))
+                                          (P:vp 
+                                            (AUX:v-fin:poder:PR_3S_IND::: pode)
+                                            (MV:v-inf:confundir:::fs-subst: confundir))
+                                          (ACC:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:opinião_pública:F_S::np-def: opinião_pública)))))
+                        (P:vp (MV:v-fin:ocorrer:PS_3S_IND::: ocorreu))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:programa:M_S::np-def: programa)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:TV:F_S::np-idf: TV)
+                                            (N<:np 
+                                              (H:prop:Falar_Claro:M_S::: Falar_Claro))))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (>N:v-pcp:passar:M_S::: passado)
+                                        (H:n:dia:M_S::anr_np-idf: dia)
+                                        (N<:adjp::::date: 
+                                          (H:num:22:M_S::card: 22)
+                                          (A<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:junho:M_S::np-idf:prop: Junho))))))
+                        (.)))

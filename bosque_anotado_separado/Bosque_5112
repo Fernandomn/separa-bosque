@@ -1,0 +1,27 @@
+(FRASE CP995-5 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (SUBJ:np (H:n:quinta-feira:F_S::np-idf: quinta-feira))
+                        (P:vp (MV:v-fin:ser:IMPF_3S_IND::: era))
+                        (,)
+                        (ADVL:advp (H:adv:decididamente:::: decididamente))
+                        (,)
+                        (SC:np (>N:num:um:M_S::card: um)
+                               (H:n:dia:M_S::anr_np-count:anr_np-def: dia)
+                               (N<:adjp (H:adj:mau:M_S::: mau)))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:apanhar:::icl-fin: apanhar))
+                                   (ACC:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:classe:F_S::np-def: classe)
+                                     (N<:adjp 
+                                       (H:adj:político:F_S::: política)))
+                                   (OA:pp 
+                                     (H:prp:em:::: em)
+                                     (P<:np 
+                                       (H:n:calções:M_P::np-idf: calções)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:banho:M_S::np-idf: banho)))))))
+                        (;)))

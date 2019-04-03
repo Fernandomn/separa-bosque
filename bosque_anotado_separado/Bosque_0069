@@ -1,0 +1,33 @@
+(FRASE CP13-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                (H:prop:Benfica:M_S: Benfica))
+                       (P:vp- (AUX:v-fin:voltar:PS_3S_IND::: voltou))
+                       (ADVL:advp (H:adv:ontem:::: ontem))
+                       (-P:vp (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:vencer:::: vencer))
+                       (ACC:np (>N:art:o:M_S::artd: o)
+                               (H:prop:Lokomotiv_de_Moscovo:M_S::: Lokomotiv_de_Moscovo))
+                       (ADVL:pp (H:prp:por:::: por+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (H:n:diferença:F_S::np-def: diferença)
+                                       (N<:adjp 
+                                         (H:adj:pequeno:F_S::: mínima))
+                                       ({)
+                                       (APP:adjp 
+                                         (H:num:3-2:F_S::card: 3-2))
+                                       (})))
+                       (,)
+                       (ADVL:icl::::ger: 
+                         (P:vp (MV:v-ger:passar:::: passando))
+                         (PIV:pp (H:prp:a:::: a+)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:n:quartos-de-final:M_P::np-def: quartos-de-final)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:prop:Taça_das_Taças:F_S::: Taça_das_Taças)
+                                            (N<:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (H:n:futebol:M_S::np-idf: futebol))))))))
+                       (.)))

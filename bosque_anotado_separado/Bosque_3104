@@ -1,0 +1,96 @@
+(FRASE CP598-3 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:entidade:F_S::np-def: entidade)
+                                 (N<:adjp 
+                                   (H:adj:patronal:F_S: patronal))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:prop:Guial:F_S::: Guial)
+                                          (,)
+                                          (APP:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:empresa:F_S::np-def: empresa)
+                                            (N<:adjp 
+                                              (H:adj:têxtil:F_S::: têxtil))
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:prop:Barcelos:MF_S::: Barcelos)))
+                                            (N<:fcl 
+                                              (SUBJ:np 
+                                                (>N:pron-det:cujo:M_P::rel: cujos)
+                                                (H:n:trabalhador:M_P::anr_np-idf: trabalhadores))
+                                              (ACC:np 
+                                                (H:pron-pers:se:M_3P_ACC::refl: se))
+                                              (P:vp 
+                                                (MV:v-fin:manter:PR_3P_IND::fs-rel: mantêm))
+                                              (OC:pp 
+                                                (H:prp:em:::: em)
+                                                (P<:np 
+                                                  (H:n:greve:F_S::np-idf: greve)))
+                                              (ADVL:pp 
+                                                (H:prp:desde:::: desde)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (>N:v-pcp:passar:F_S::: passada)
+                                                  (H:n:quinta-feira:F_S::anr_np-idf: quinta-feira)))))
+                                          (,))))
+                        (P:vp (MV:v-fin:requerer:PS_3S_IND::: requereu))
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:prop:Tribunal_Judicial:M_S::: Tribunal_Judicial)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:prop:Barcelos:MF_S::: Barcelos)))))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:ilegalidade:F_S::np-def: ilegalidade)
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:medida:F_S::np-def: medida)
+                                         (N<:cu 
+                                           (CJT:icl::::pcp: 
+                                             (P:vp 
+                                               (MV:v-pcp:tomar:F_S::: tomada))
+                                             (ADVL:advp 
+                                               (H:adv:recentemente:::: recentemente))
+                                             (PASS:pp 
+                                               (H:prp:por:::: por+)
+                                               (P<:np 
+                                                 (>N:art:o:M_P::artd: os)
+                                                 (H:n:trabalhador:M_P::np-def: trabalhadores))))
+                                           (CO:conj-c:e:::co-vfin: e)
+                                           (CJT:fcl 
+                                             (SUBJ:np 
+                                               (H:pron-indp:que:F_S::rel: que))
+                                             (P:vp 
+                                               (MV:v-fin:consistir:PS_3S_IND::: consistiu))
+                                             (PIV:pp 
+                                               (H:prp:em:::: em+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:impedimento:M_S::np-def: impedimento)
+                                                 (N<ARGO:pp 
+                                                   (H:prp:de:::: de+)
+                                                   (P<:np 
+                                                     (>N:art:o:F_S::artd: a)
+                                                     (H:n:saída:F_S::np-def: saída)
+                                                     (N<ARGS:pp 
+                                                       (H:prp:de:::: de)
+                                                       (P<:np 
+                                                         (>N:num:quatro:F_P::card: quatro)
+                                                         (H:n:carrinha:F_P::anr_np-count:anr_np-def: carrinhas)
+                                                         (N<:pp 
+                                                           (H:prp:de:::: de+)
+                                                           (P<:np 
+                                                             (>N:art:o:F_S::artd: a)
+                                                             (H:n:companhia:F_S::np-def: companhia)))
+                                                         (N<:icl::::pcp: 
+                                                           (P:vp 
+                                                             (MV:v-pcp:carregar:F_P::: carregadas))
+                                                           (PIV:pp 
+                                                             (H:prp:de:::: de)
+                                                             (P<:np 
+                                                               (H:n:mercadoria:F_S::np-idf: mercadoria)))))))))))))))
+                        (.)))

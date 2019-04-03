@@ -1,0 +1,36 @@
+(FRASE CP857-7 (STA:fcl (ADVL:np (>N:art:o:F_S::artd: a)
+                                 (>N:adj:grande:F_S::KOMP: maior)
+                                 (H:n:parte:F_S::anr_np-def: parte)
+                                 (KOMP<:pp 
+                                   (H:prp:de:: de+)
+                                   (P<:np 
+                                     (>N:art:o:F_P::artd: as)
+                                     (H:n:vez:F_P::np-def: vezes))))
+                        (P:vp (MV:v-fin:consumir:PR_3P_IND::nosubj: consomem))
+                        (ACC:np (H:n:coisa:F_P::np-idf: coisas)
+                                (N<:adjp 
+                                  (H:adj:inacreditável:F_P::: inacreditáveis))
+                                (,)
+                                (N<PRED:acl 
+                                  (COM:adv:como:::rel: como)
+                                  (SUBJ:cu 
+                                    (CJT:np 
+                                      (H:n:pó:M_S::np-idf: pó)
+                                      (N<:icl::::pcp: 
+                                        (P:vp 
+                                          (MV:v-pcp:fazer:M_S::: feito))
+                                        (PIV:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:lâmpada:F_P::np-idf: lâmpadas)
+                                            (N<:adjp 
+                                              (H:adj:fluorescente:F_P::: fluorescentes))))))
+                                    (,)
+                                    (CJT:np 
+                                      (H:n:talco:M_S::np-idf: talco))
+                                    (,)
+                                    (CJT:np 
+                                      (H:n:açúcar:M_S::np-idf: açúcar))
+                                    (CO:conj-c:ou:::: ou)
+                                    (CJT:v-pcp:comprimir:M_P::: comprimidos))))
+                        (;)))

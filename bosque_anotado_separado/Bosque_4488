@@ -1,0 +1,21 @@
+(FRASE CP876-4 (STA:fcl (SUBJ:np (>N:pron-det:algum:M_P::quant: Alguns)
+                                 (H:n:prazo:M_P::anr_np-idf: prazos))
+                        (P:vp (MV:v-fin:estar:PR_3P_IND: estão))
+                        (,)
+                        (ADVL:pp (H:prp:segundo:::: segundo)
+                                 (P<:np (H:prop:Sérgio_Figueira:M_S::: Sérgio_Figueira)))
+                        (,)
+                        (SA:pp (H:prp:a:::: a)
+                               (P<:np (>N:pron-det:pouco:M_P::quant: poucos)
+                                      (H:n:dia:M_P::anr_np-idf: dias)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:icl 
+                                          (P:vp 
+                                            (MV:v-inf:chegar:::: chegar))
+                                          (SA:pp 
+                                            (H:prp:a:::: a+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:limite:M_S::np-def: limite)))))))
+                        (.)))

@@ -1,0 +1,22 @@
+(FRASE CP772-2 (UTT:sq (UTT:np (H:n:P.:F_S::np-idf: P.))
+                       (--)
+                       (STA:fcl (SUBJ:np 
+                                  (H:pron-indp:o_que:M_S::rel: O_que))
+                                (P:vp (AUX:v-fin:ir:PR_3S_COND: iria)
+                                      (MV:v-inf:tornar:::: tornar))
+                                (ACC:np (>N:art:o:M_S::artd: o)
+                                        (H:n:ensino:M_S::np-def: ensino)
+                                        (N<:adjp 
+                                          (H:adj:superior:M_S::: superior)))
+                                (OC:np (>N:art:um:M_S::arti: um)
+                                       (H:n:ensino:M_S::np-idf: ensino)
+                                       (N<:adjp 
+                                         (>A:adv:mais:_::KOMP:quant: mais)
+                                         (H:adj:elitista:M_S::: elitista))
+                                       (,)
+                                       (N<PRED:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:n-adj:rico:M_P::np-def: ricos))))
+                                (.))))

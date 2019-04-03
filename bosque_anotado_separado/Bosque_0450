@@ -1,0 +1,18 @@
+(FRASE CP84-1 (UTT:np (H:n:atentado:M_P::np-idf: Atentados)
+                      (N<:adjp (H:adj:suicida:M_P: suicidas))
+                      (N<:pp (H:prp:de:::: de+)
+                             (P<:np (>N:art:o:M_S::artd: o)
+                                    (H:n:grupo:M_S::np-def: grupo)
+                                    (N<:np 
+                                      (H:prop:Hamas:M_S::: Hamas))))
+                      (N<:pp (H:prp:em:::: em)
+                             (P<:np (H:prop:Israel:M_S::: Israel)))
+                      (;)
+                      (N<PRED:cu (CJT:np 
+                                   (>N:num:25:M_P::card: 25)
+                                   (H:n-adj:morto:M_P::anr_np-count:anr_np-def: mortos))
+                                 (CO:conj-c:e:::: e)
+                                 (CJT:np 
+                                   (>N:num:80:M_P::card: 80)
+                                   (H:v-pcp:ferir:M_P::n: feridos)))
+                      (.)))

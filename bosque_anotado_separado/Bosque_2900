@@ -1,0 +1,48 @@
+(FRASE CP559-2 (STA:fcl (P:vp (MV:v-fin:aguentar:PR_1S_IND::nosubj: Aguento))
+                        (,)
+                        (PRED:pp (H:prp:com:: com)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:estoicismo:M_S::np-idf: estoicismo)
+                                        (N<:fcl 
+                                          (ACC:np 
+                                            (H:pron-indp:que:M_S::rel: que))
+                                          (SUBJ:np 
+                                            (H:pron-pers:eu:M_1S_NOM::: eu)
+                                            (N<:np 
+                                              (H:pron-det:próprio:M_S::ident: próprio)))
+                                          (P:vp 
+                                            (MV:v-fin:admirar:PR_1S_IND::fs-rel: admiro)))))
+                        (,)
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:inundação:F_S::np-def: inundação)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:lugar-comum:M_P::np-idf: lugares-comuns)))
+                                (,)
+                                (N<PRED:adjp 
+                                  (H:adj:comparável:F_S::: comparável)
+                                  (A<:pp 
+                                    (H:prp:a:::: a+)
+                                    (P<:np 
+                                      (H:pron-det:a:F_S::dem: a)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:água:F_P::np-def: águas)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:prop:Tejo:M_S::: Tejo))))))))
+                                (,)
+                                (N<PRED:adjp 
+                                  (>A:adv:porém:::kc: porém)
+                                  (>A:adv:menos:_::KOMP:quant: menos)
+                                  (H:adj:benéfico:F_S::: benéfica)
+                                  (A<:pp 
+                                    (H:prp:para:::: para)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:agricultura:F_S::np-def: agricultura)))))
+                        (.)))

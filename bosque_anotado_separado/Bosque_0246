@@ -1,0 +1,65 @@
+(FRASE CP43-3 (STA:fcl (ADVL:pp (H:prp:em:: Em)
+                                (P<:np::::date: 
+                                  (H:n:janeiro:M_S::anr_np-idf:prop: Janeiro)
+                                  (N<:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:adjp 
+                                      (H:num:1994:M_S::card: 1994)))))
+                       (,)
+                       (P:vp (MV:v-fin:noticiar:IMPF_3S_IND::: noticiava-))
+                       (SUBJ:np (H:pron-pers:se:MF_3SP_ACC::: se))
+                       (ACC:np (>N:art:o:F_S::artd: a)
+                               (H:n:introdução:F_S::np-def: introdução)
+                               (N<:pp (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:o:S::artd: a)
+                                        (H:prop:Alemanha:F_S::: Alemanha)))
+                               (N<ARGO:pp 
+                                 (H:prp:de:::: de)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:supercomputador:M_S::np-idf: supercomputador)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_S::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:registar:PR_3S_IND::fs-rel: regista))
+                                          (ACC:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (H:n:impressão:F_P::np-def: impressões)
+                                            (N<:adjp 
+                                              (H:adj:digital:F_P::: digitais))
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (H:n:candidato:M_P::np-def: candidatos)
+                                                (N<:pp 
+                                                  (H:prp:a:::: a)
+                                                  (P<:np 
+                                                    (H:n:asilo:M_S::np-idf: asilo)
+                                                    (N<:adjp 
+                                                      (H:adj:político:M_S::: político)))))))
+                                          (,)
+                                          (ADVL:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:icl 
+                                              (P:vp 
+                                                (MV:v-inf:tentar:::icl-fin: tentar))
+                                              (ACC:icl 
+                                                (P:vp 
+                                                  (MV:v-inf:detectar:::icl-subst: detectar))
+                                                (ACC:np 
+                                                  (H:n:fraude:F_P::np-idf: fraudes)
+                                                  (N<:pp 
+                                                    (H:prp:em:::: em+)
+                                                    (P<:np 
+                                                      (>N:art:o:M_P::artd: os)
+                                                      (H:n:subsídio:M_P::np-def: subsídios)
+                                                      (N<:pp 
+                                                        (H:prp:de:::: de+)
+                                                        (P<:np 
+                                                          (>N:art:o:S::artd: a)
+                                                          (H:n:segurança:F_S::np-def: segurança)
+                                                          (N<:adjp 
+                                                            (H:adj:social:F_S::: social))))))))))))))
+                       (.)))

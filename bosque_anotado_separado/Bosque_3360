@@ -1,0 +1,51 @@
+(FRASE CP645-8 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:embarcação:F_S::np-def: embarcação)
+                                 (,)
+                                 (N<PRED:pp 
+                                   (H:prp:de:: de)
+                                   (P<:cu 
+                                     (CJT:np 
+                                       (>N:num:30:M_P::card: 30)
+                                       (H:n:lugar:M_P::anr_np-count:anr_np-def: lugares))
+                                     (CO:conj-c:e:::co-prparg: e)
+                                     (CJT:np 
+                                       (>N:num:14:M_P::card: 14)
+                                       (H:n:metro:M_P::anr_np-count:anr_np-def: metros)
+                                       (N<:pp:de_comprimento:::: de_comprimento))))
+                                 (,))
+                        (P:vp (MV:v-fin:destinar:PR_3S_IND::hyfen: destina-))
+                        (ACC:np (H:pron-pers:se:F_3S_ACC::: se))
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:n:tráfego:M_S::np-def: tráfego)
+                                       (N<:pp 
+                                         (H:prp:entre:::: entre)
+                                         (P<:np 
+                                           (>N:art:o:F_P::artd: as)
+                                           (H:n:ilha:F_P::np-def: ilhas)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:grupo:M_S::np-def: grupo)
+                                               (N<:adjp 
+                                                 (H:adj:central:M_S::: central))
+                                               (N<:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:M_S::artd: o)
+                                                   (H:n:arquipélago:M_S::np-def: arquipélago)))))))))
+                        (,)
+                        (PRED:icl::::ger: 
+                          (P:vp (MV:v-ger:viajar:::: viajando))
+                          (ADVL:pp (>P:adv:prioritariamente:::: prioritariamente)
+                                   (H:prp:entre:::: entre)
+                                   (P<:cu 
+                                     (CJT:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:prop:Graciosa:F_S::: Graciosa))
+                                     (CO:conj-c:e:::co-prparg: e)
+                                     (CJT:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:prop:Terceira:F_S::: Terceira)))))
+                        (.)))

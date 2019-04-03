@@ -1,0 +1,87 @@
+(FRASE CP243-20 (UTT:np (>N:art:um:M_S::arti: Um)
+                        (H:n:aviso:M_S::np-idf: aviso)
+                        (N<:adjp (H:adj:fugaz:M_S: fugaz))
+                        (N<:pp (H:prp:em:::: em+)
+                               (P<:np (>N:art:o:M_S::artd: o)
+                                      (>N:adj:grande:M_S::: grande)
+                                      (H:n:mercado:M_S::anr_np-def: mercado)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:P::artd: as)
+                                          (H:n:ave:F_P::np-def: aves)))))
+                        (,)
+                        (N<:cu (CJT:fcl (ADVL:advp 
+                                          (H:adv:quando:::ks: quando))
+                                        (SUBJ:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:indiferença:F_S::np-def: indiferença)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:S::artd: a)
+                                              (H:n:multidão:F_S::np-def: multidão))))
+                                        (DAT:np 
+                                          (H:pron-pers:ela:F_3S_DAT::: lhe))
+                                        (P:vp 
+                                          (MV:v-fin:permitir:IMPF_3S_IND::: permitia))
+                                        (ACC:icl 
+                                          (P:vp 
+                                            (MV:v-inf:observar:::icl-subst: observar))
+                                          (ADVL:pp 
+                                            (H:prp:com:::: com)
+                                            (P<:np 
+                                              (H:n:tranquilidade:F_S::np-idf: tranquilidade)))
+                                          (ACC:np 
+                                            (>N:art:um:M_S::arti: um)
+                                            (H:n:peixinho:M_S::np-idf: peixinho)
+                                            (N<:icl::::pcp: 
+                                              (P:vp 
+                                                (MV:v-pcp:circunscrever:M_S::: circunscrito))
+                                              (ADVL:pp 
+                                                (H:prp:a:::: a+)
+                                                (P<:np 
+                                                  (>N:art:o:S::artd: a)
+                                                  (H:n:água:F_S::np-def: água)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (>N:art:um:F_S::arti: uma)
+                                                      (H:n:garrafa:F_S::np-idf: garrafa)))))))))
+                               (CO:conj-c:e:::co-vfin: e)
+                               (CJT:fcl (SUBJ:np 
+                                          (>N:adv:já:::: já)
+                                          (H:pron-indp:ninguém:M_S::: ninguém))
+                                        (P:vp 
+                                          (MV:v-fin:ser:IMPF_3S_IND::: era))
+                                        (SC:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:atrair:M_S::: atraído))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (>N:pron-det:seu:M_S::: seu)
+                                              (H:n:perfume:M_S::anr_np-def: perfume)
+                                              (,)
+                                              (N<PRED:fcl 
+                                                (SUBJ:np 
+                                                  (H:pron-indp:que:M_S::rel: que))
+                                                (ADVL:advp 
+                                                  (>A:adv:ainda:::: ainda)
+                                                  (H:adv:então:::kc: então))
+                                                (ACC:np 
+                                                  (H:pron-pers:se:M_3S_ACC::refl: se))
+                                                (P:vp 
+                                                  (MV:v-fin:evaporar:IMPF_3S_IND::fs-rel: evaporava))
+                                                (ADVL:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:S::artd: a)
+                                                    (H:n:carne:F_S::np-def: carne)
+                                                    (N<:cu 
+                                                      (CJT:v-pcp:rosar:F_S::: rosada)
+                                                      (CO:conj-c:e:::co-postnom: e)
+                                                      (CJT:adjp 
+                                                        (H:adj:abundante:F_S::: abundante)))))))))))
+                        (.)))

@@ -1,0 +1,60 @@
+(FRASE CP603-1 (STA:fcl (ADVL:pp (H:prp:sem:: Sem)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:entrar:::: entrar))
+                                   (SA:pp 
+                                     (H:prp:em:::: em)
+                                     (P<:np 
+                                       (H:n:pormenor:M_P::np-idf: pormenores)))))
+                        (,)
+                        (P:vp (AUX:v-fin:dever:PR_1S_IND::: devo)
+                              (MV:v-inf:recordar:::nosubj: recordar))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:F_P::artd: as)
+                                   (H:n:empresa:F_P::np-def: empresas)
+                                   (N<:adjp 
+                                     (H:adj:português:F_P::: portuguesas))
+                                   (N<:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (MV:v-inf:trabalhar:3S::: trabalhar))
+                                       (ADVL:pp 
+                                         (H:prp:em:::: em+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:prop:Guiné-Bissau:F_S::: Guiné-Bissau))))))
+                                 (P:vp (MV:v-fin:rondar:PR_3P_IND::fs-subst: rondam))
+                                 (ACC:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (>N:adj:meio:F_S::: meia)
+                                   (H:n:centena:F_S::anr_np-def:card:num: centena)
+                                   (,)
+                                   (N<PRED:fcl 
+                                     (SUBJ:adjp 
+                                       (>A:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:adjp 
+                                           (H:pron-indp:o_qual:F_P::rel: as_quais)))
+                                       (H:num:seis:F_P::card: seis))
+                                     (P:vp 
+                                       (MV:v-fin:ultrapassar:PR_3P_IND::fs-rel: ultrapassam))
+                                     (,)
+                                     (ADVL:pp 
+                                       (H:prp:em:::: em)
+                                       (P<:cu 
+                                         (CJT:np 
+                                           (H:n:investimento:M_P::np-idf: investimentos))
+                                         (CO:conj-c:e:::co-prparg: e)
+                                         (CJT:np 
+                                           (H:n:responsabilidade:F_P::np-idf: responsabilidades))))
+                                     (,)
+                                     (ACC:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:milhão:M_S::card:np-def:num: milhão)
+                                       (N<ARG:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:conto:M_P::np-dequant:np-idf: contos)))))))
+                        (.)))

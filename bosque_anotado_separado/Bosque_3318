@@ -1,0 +1,91 @@
+(FRASE CP638-4 (STA:fcl (ADVL:icl::ger: (P:vp 
+                                          (MV:v-ger:ser:::: Sendo))
+                                        (SUBJ:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:fotografia:F_S::np-def: fotografia))
+                                        (SC:np 
+                                          (>N:art:um:M_S::arti: um)
+                                          (H:n:lugar:M_S::np-idf: lugar)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:registo:M_S::np-idf: registo)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_P::artd: os)
+                                                  (H:n:corpo:M_P::np-def: corpos)))))))
+                        (,)
+                        (P:vp (MV:v-fin:parecer:PR_3S_IND::: parece))
+                        (SUBJ:fcl (SUB:conj-s:que:::: que)
+                                  (,)
+                                  (ADVL:np 
+                                    (>N:pron-det:este:M_S::dem: este)
+                                    (H:n:ano:M_S::np-def: ano))
+                                  (,)
+                                  (ADVL:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:conjunto:M_S::np-def: conjunto)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:exposição:F_P::np-idf: exposições)))))
+                                  (ACC-PASS:np 
+                                    (H:pron-pers:se:F_3S_ACC::refl: se))
+                                  (P:vp (MV:v-fin:desprender:PR_3S_IND::fs-subst:se-passive: desprende))
+                                  (SUBJ:adjp 
+                                    (>N:adjp- 
+                                      (>A:adv:mais:_::KOMP:quant: mais)
+                                      (H:num:um:F_S::card: uma))
+                                    (H:n:atitude:F_S::anr_np-count:anr_np-def: atitude)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:registo:M_S::np-idf: registo)))
+                                    (,)
+                                    (APP:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:participação:F_S::np-def: participação)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:fotógrafo:M_S::np-def: fotógrafo)
+                                          (N<:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (H:cu 
+                                                (CJT:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:construção:F_S::np-def: construção))
+                                                (CO:conj-c:e:::co-prparg: e)
+                                                (CJT:np 
+                                                  (H:n:selecção:F_S::np-idf: selecção)))
+                                              (N<ARGO:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:imagem:F_S::np-def: imagem))))))))
+                                    (->N:adjp 
+                                      (KOMP<:acl 
+                                        (COM:conj-s:do_que:::: do_que)
+                                        (SC:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:afirmação:F_S::np-def: afirmação)
+                                          (N<ARGO:cu 
+                                            (CJT:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_P::artd: as)
+                                                (>N:pron-det:próprio:F_P::ident: próprias)
+                                                (H:n:imagem:F_P::anr_np-def: imagens)))
+                                            (,)
+                                            (CJT:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (>N:pron-det:seu:M_S::: seu)
+                                                (H:n:corpo:M_S::anr_np-def: corpo)))))))))
+                        (.)))

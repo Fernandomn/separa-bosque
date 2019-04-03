@@ -1,0 +1,45 @@
+(FRASE CP976-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 («)
+                                 (H:n:caso:M_S::anr_np-idf: caso)
+                                 (N<:np (H:prop:Quilengues:M_S: Quilengues))
+                                 (»)
+                                 (,)
+                                 (N<PRED:fcl 
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em)
+                                     (P<:np 
+                                       (H:pron-indp:que:M_S::rel: que)))
+                                   (P:vp 
+                                     (MV:v-fin:morrer:PS_3P_IND::fs-rel: morreram))
+                                   (SUBJ:cu 
+                                     (CJT:np 
+                                       (>N:num:três:M_P::card: três)
+                                       (H:n:turista:M_P::anr_np-count:anr_np-def: turistas)
+                                       (N<:adjp 
+                                         (H:adj:britânico:M_P::: britânicos)))
+                                     (CO:conj-c:e:::co-subj: e)
+                                     (CJT:np 
+                                       (>N:art:um:M_S::arti: um)
+                                       (H:n:neo-zelandês:M_S::np-idf: neo-zelandês)))))
+                        (,)
+                        (P:vp (MV:v-fin:ser:PS_3S_IND::: foi))
+                        (SC:adjp (H:num:um:M_S::card: um)
+                                 (A<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:assunto:M_P::np-def:np-partitive2: assuntos)
+                                          (N<:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (H:n:discussão:F_S::np-idf: discussão))))))
+                        (,)
+                        (ADVL:icl (P:vp (MV:v-pcp:dar:F_S::: dada))
+                                  (SUBJ:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:contradição:F_S::np-def: contradição)
+                                    (N<:pp 
+                                      (H:prp:entre:::: entre)
+                                      (P<:np 
+                                        (>N:art:o:F_P::artd: as)
+                                        (H:n:parte:F_P::np-def: partes)))))
+                        (.)))

@@ -1,0 +1,62 @@
+(FRASE CP66-8 (STA:fcl (SUBJ:np (>N:art:o:F_P::artd: as)
+                                (H:n:imagem:F_P::np-def: imagens))
+                       (P:vp (AUX:v-fin:ser:PR_3P_IND: são)
+                             (MV:v-pcp:criar:F_P::anr_pass:passive: criadas))
+                       (ADVL:cu (CJT:pp (H:prp:a_partir_de:::: a_partir_de)
+                                        (P<:np 
+                                          (H:n:retrato:M_P::np-idf: retratos)
+                                          ({)
+                                          (N<PRED:np 
+                                            (H:n:photomaton:M_S::np-idf: photomaton)
+                                            (N<:adjp 
+                                              (H:adj:familiar:M_S::: familiar)))
+                                          (})))
+                                (,)
+                                (CJT:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:imagem:F_P::np-idf: imagens)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:barco:M_P::np-idf: barcos)))))
+                                (,))
+                       (ADVL:icl::::ger: 
+                         (P:vp (MV:v-ger:recriar:::: recriando-))
+                         (SUBJ:np (H:pron-pers:se:MF_3SP_ACC::: se))
+                         (ADVL:pp (H:prp:em:::: em)
+                                  (P<:adjp 
+                                    (>N:pron-det:cada:M_S::quant: cada)
+                                    (H:num:um:F_S::anr_np-def:card: uma)))
+                         (ACC:np (>N:num:um:M_S::card: um)
+                                 (H:n:clima:M_S::anr_np-count:anr_np-def: clima)
+                                 (N<:cu (CJT:adjp 
+                                          (H:adj:aquático:M_S::: aquático))
+                                        (,)
+                                        (CJT:adjp 
+                                          (H:adj:primordial:M_S::: primordial))
+                                        (,)
+                                        (CO:conj-c:mas:::co-advl: mas)
+                                        (CJT:pp 
+                                          (H:prp:sem:::: sem)
+                                          (P<:fcl 
+                                            (SUB:conj-s:que:::: que)
+                                            (SUBJ:np 
+                                              (>N:pron-det:esse:M_S::dem: esse)
+                                              (H:n:efeito:M_S::np-def: efeito))
+                                            (ACC-PASS:np 
+                                              (H:pron-pers:se:M_3S_ACC::: se))
+                                            (P:vp 
+                                              (MV:v-fin:compatibilizar:PR_3S_SUBJ::fs-subst:se-passive: compatibilize))
+                                            (ADVL:pp 
+                                              (H:prp:com:::: com)
+                                              (P<:np 
+                                                (>N:art:um:F_S::arti: uma)
+                                                (H:n:leitura:F_S::np-idf: leitura)
+                                                (N<:adjp 
+                                                  (H:adj:imediatista:F_S::: imediatista))
+                                                (N<ARGO:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:S::artd: a)
+                                                    (H:n:imagem:F_S::np-def: imagem))))))))))
+                       (--)))

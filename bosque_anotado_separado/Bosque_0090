@@ -1,0 +1,51 @@
+(FRASE CP17-4 (STA:fcl (ADVL:pp:por_outro_lado:: Por_outro_lado)
+                       (,)
+                       (SUBJ:np (>N:art:o:F_S::artd: a)
+                                (H:n:expulsão:F_S::np-def: expulsão)
+                                (N<ARGO:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:np 
+                                    (H:prop:Kasparov:M_S::: Kasparov)
+                                    (,)
+                                    (N<PRED:np 
+                                      (H:n:detentor:M_S::np-idf: detentor)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:título:M_S::np-def: título)
+                                          (N<:adjp 
+                                            (H:adj:mundial:M_S::: mundial))))
+                                      (N<:pp 
+                                        (H:prp:desde:::: desde)
+                                        (P<:adjp 
+                                          (H:num:1985:M_S::card: 1985))))
+                                    (,))))
+                       (P:vp (MV:v-fin:criar:FUT_3S_IND::: criará))
+                       (ACC:np (H:n:dificuldade:F_P::np-idf: dificuldades))
+                       (PIV:pp (H:prp:a:::: a+)
+                               (P<:np (>N:art:o:S::artd: a)
+                                      (H:prop:FIDE:F_S::: FIDE)))
+                       (ADVL:pp (H:prp:para:::: para)
+                                (P<:icl (P:vp 
+                                          (MV:v-inf:convencer:::nosubj: convencer))
+                                        (ACC:np 
+                                          (H:prop:Manchester:F_S::: Manchester))
+                                        (PIV:pp 
+                                          (H:prp:a:::: a)
+                                          (P<:icl 
+                                            (P:vp 
+                                              (MV:v-inf:acolher:::: acolher))
+                                            (ACC:np 
+                                              (>N:art:um:F_S::arti: uma)
+                                              (>N:adj:falso:F_S::: falsa)
+                                              (H:n:final:F_S::anr_np-idf: final)
+                                              (N<:pp 
+                                                (H:prp:entre:::: entre)
+                                                (P<:cu 
+                                                  (CJT:np 
+                                                    (H:prop:Karpov:M_S::: Karpov))
+                                                  (CO:conj-c:e:::co-prparg: e)
+                                                  (CJT:np 
+                                                    (H:prop:Timman:M_S::: Timman)))))))))
+                       (.)))

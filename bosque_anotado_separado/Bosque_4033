@@ -1,0 +1,106 @@
+(FRASE CP785-3 (STA:fcl (SUBJ:cu (CJT:np 
+                                   (>N:art:o:F_S::artd: A)
+                                   (H:n:emergência:F_S::np-def: emergência)
+                                   (N<:pp 
+                                     (H:prp:de:: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:sida:F_S::np-def: sida)
+                                       (,)
+                                       (N<:fcl 
+                                         (SC:icl::::pcp:- 
+                                           (PIV:pp 
+                                             (H:prp:a:::: a+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:pron-det:qual:F_S::np-def:rel: qual))))
+                                         (P:vp 
+                                           (MV:v-fin:estar:PR_3S_IND::fs-rel: está))
+                                         (-SC:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:associar:F_S::: associada)))
+                                         (SUBJ:np 
+                                           (>N:art:um:F_S::arti: uma)
+                                           (H:n:série:F_S::np-idf: série)
+                                           (N<ARG:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:infecção:F_P::np-dequant:np-idf: infecções)
+                                               (N<:adjp 
+                                                 (H:adj:oportunista:F_P::: oportunistas)))))))))
+                                 (,)
+                                 (CJT:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:problema:M_S::np-def: problema)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:hepatite_C:F_S::np-def: hepatite_C)
+                                       ({)
+                                       (N<PRED:cu 
+                                         (CJT:icl::::pcp: 
+                                           (ADVL:advp 
+                                             (H:adv:recentemente:::: recentemente))
+                                           (P:vp 
+                                             (MV:v-pcp:identificar:F_S::: identificada)))
+                                         (CO:conj-c:e:::co-pred: e)
+                                         (CJT:pp 
+                                           (>P:adv:ainda:::: ainda)
+                                           (H:prp:sem:::: sem)
+                                           (P<:cu 
+                                             (CJT:np 
+                                               (H:n:cura:F_S::np-idf: cura))
+                                             (CO:conj-c:nem:::co-prparg: nem)
+                                             (CJT:np 
+                                               (H:n:tratamento:M_S::np-idf: tratamento)))))
+                                       (}))))
+                                 (CO:conj-c:e:::co-subj: e)
+                                 (CJT:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:recrudescimento:M_S::np-def: recrudescimento)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:papeira:F_S::np-def: papeira)
+                                       ({)
+                                       (N<PRED:np 
+                                         (>N:np 
+                                           (>N:adjp 
+                                             (>A:adv:mais_de:::quant: mais_de)
+                                             (H:num:onze:F_P::card: onze))
+                                           (H:n:mil:F_P::card:num: mil))
+                                         (H:n:notificação:F_P::anr_np-count:anr_np-def: notificações)
+                                         (N<:pp 
+                                           (H:prp:durante:::: durante)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:ano:M_S::np-def: ano)
+                                             (N<:v-pcp:passar:M_S::: passado))))
+                                       (})))))
+                        (P:vp (MV:v-fin:constituir:PR_3P_IND::: constituem))
+                        (ACC:np (H:pron-det:outro:F_P::KOMP:diff: outras)
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_P::artd: as)
+                                         (H:n:faceta:F_P::np-def:np-partitive2: facetas)
+                                         (N<:adjp 
+                                           (>A:adv:mais:_::KOMP:quant: mais)
+                                           (H:adj:negativo:F_P::: negativas)
+                                           (KOMP<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:situação:F_S::np-def: situação)
+                                               (N<:adjp 
+                                                 (H:adj:português:F_S::: portuguesa))))))))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:matéria:F_S::np-idf: matéria)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:doença:F_P::np-idf: doenças)
+                                            (N<:adjp 
+                                              (H:adj:transmissível:F_P::: transmissíveis))))))
+                        (.)))

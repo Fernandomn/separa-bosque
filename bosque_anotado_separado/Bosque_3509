@@ -1,0 +1,29 @@
+(FRASE CP679-4 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:índice:M_S::np-def: índice)
+                                 (N<:np (H:prop:FTSE-100:M_S: FTSE-100))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:prop:Bolsa_de_Londres:F_S::: Bolsa_de_Londres))))
+                        (P:vp (MV:v-fin:subir:PS_3S_IND::: subiu))
+                        (ADVL:np (>N:num:0,92:M_P::card: 0,92)
+                                 (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:enquanto:::rel: enquanto))
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:prop:CAC-40:M_S::: CAC-40)
+                                    (,)
+                                    (N<PRED:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:prop:Paris:MF_S::: Paris)))
+                                    (,))
+                                  (P:vp (MV:v-fin:valorizar:PS_3S_IND::hyfen:se-passive: valorizou-))
+                                  (ACC-PASS:np 
+                                    (H:pron-pers:se:M_3S_ACC::refl: se))
+                                  (ADVL:np 
+                                    (>N:num:1,43:M_P::card: 1,43)
+                                    (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))
+                        (.)))

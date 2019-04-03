@@ -1,0 +1,80 @@
+(FRASE CP949-5 (STA:fcl (PRED:pp (H:prp:com:: Com)
+                                 (P<:np (H:n:sede:F_S::np-idf: sede)
+                                        (N<:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:prop:Mountain_View:M_S::: Mountain_View)
+                                            (,)
+                                            (N<PRED:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:prop:Califórnia:F_S::: Califórnia)))))))
+                        (,)
+                        (X:cu (CJT:x::::predicate: 
+                                (SUBJ:np 
+                                  (>N:art:o:F_S::artd: a)
+                                  (>N:pron-det:seu:F_S::: sua)
+                                  (H:n:presença:F_S::anr_np-def: presença)
+                                  (N<:pp 
+                                    (H:prp:em:::: em)
+                                    (P<:np 
+                                      (H:cu 
+                                        (CJT:np 
+                                          (H:n:feira:F_P::np-idf: feiras))
+                                        (CO:conj-c:ou:::co-prparg: ou)
+                                        (CJT:np 
+                                          (H:n:conferência:F_P::np-idf: conferências)))
+                                      (N<:adjp 
+                                        (H:adj:internacional:F_P::: internacionais)))))
+                                (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                                (SC:adjp 
+                                  (H:adj:usual:F_S::: usual)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (,)
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:prop:Siggraph:M_S::: Siggraph)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:pron-det:este:M_S::dem: este)
+                                        (H:n:ano:M_S::np-def: ano)))
+                                    ({)
+                                    (APP:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (>N:adj:21ª:F_S::NUM-ord: 21ª)
+                                      (H:n:edição:F_S::anr_np-def: edição)
+                                      (N<ARGO:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (>N:adj:grande:M_S::KOMP: maior)
+                                          (H:n:certame:M_S::anr_np-def: certame)
+                                          (N<:adjp 
+                                            (H:adj:actual:M_S::: actual))
+                                          (N<ARGO:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:informática:F_S::np-idf: informática)))
+                                          (,)
+                                          (N<PRED:pp 
+                                            (H:prp:com:::: com)
+                                            (P<:np 
+                                              (>N:num:25:MF_P::card: 25)
+                                              (>N:n:mil:MF_P::card:num: mil)
+                                              (H:n:visitante:MF_P::anr_np-count:anr_np-def: visitantes))))))
+                                    (})))
+                                (,)
+                                (P:vp (MV:v-fin:ser:PS_3S_IND::nosubj: foi))
+                                (SC:np (>N:art:o:M_S::artd: o)
+                                       (H:n:expositor:M_S::np-def: expositor)
+                                       (N<:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (>N:pron-det:muito:M_S::KOMP:quant: mais)
+                                           (H:n:espaço:M_S::anr_np-idf:anr_np-mass: espaço))))))
+                        (.)))

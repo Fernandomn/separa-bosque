@@ -1,0 +1,33 @@
+(FRASE CP729-2 (STA:fcl («)
+                        (ADVL:np (>N:num:um:M_S::card: Um)
+                                 (H:n:dia:M_S::anr_np-count:anr_np-def: dia))
+                        (,)
+                        (SUBJ:cu (CJT:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:prop:Humberto_Madeira:M_S: Humberto_Madeira))
+                                 (,)
+                                 (CJT:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:prop:Raul_Solnado:M_S::: Raul_Solnado))
+                                 (CO:conj-c:e:::co-subj: e)
+                                 (CJT:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (>N:pron-det:meu:M_S::: meu)
+                                   (H:n:pai:M_S::anr_np-def: pai)))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:ir:IMPF_3P_IND::nosubj: iam))
+                                (PIV:pp (H:prp:em:::: em)
+                                        (P<:np 
+                                          (H:n:viagem:F_S::np-idf: viagem))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:passar:PS_3P_IND::nosubj: passaram))
+                                (SA:pp (H:prp:por:::: por+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:pinhal:M_S::np-def: pinhal)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:prop:Leiria:MF_S::: Leiria)))))))
+                        (.)))

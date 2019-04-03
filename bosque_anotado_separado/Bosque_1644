@@ -1,0 +1,44 @@
+(FRASE CP313-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:Food_and_Drug_Administration:F_S: Food_and_Drug_Administration)
+                                 ({)
+                                 (APP:np 
+                                   (H:prop:FDA:F_S::: FDA))
+                                 (})
+                                 (--)
+                                 (N<PRED:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:agência:F_S::np-def: agência)
+                                   (N<:adjp 
+                                     (H:adj:americano:F_S::: americana))
+                                   (N<:fcl 
+                                     (SUBJ:np 
+                                       (H:pron-indp:que:F_S::rel: que))
+                                     (P:vp 
+                                       (MV:v-fin:fiscalizar:PR_3S_IND::fs-rel: fiscaliza))
+                                     (ACC:cu 
+                                       (CJT:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:medicamento:M_P::np-def: medicamentos))
+                                       (CO:conj-c:e:::co-acc: e)
+                                       (CJT:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:alimento:M_P::np-def: alimentos)))))
+                                 (--))
+                        (P:vp (AUX:v-fin:poder:PR_3S_IND::: pode)
+                              (AUX:v-inf:passar:::: passar)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:regulamentar:::: regulamentar))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:tabaco:M_S::np-def: tabaco))
+                        (,)
+                        (ADVL:pp (H:prp:em_virtude_de:::: em_virtude_de+)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:n:efeito:M_P::anr_np-idf: efeitos)
+                                        (N<:adjp 
+                                          (H:adj:biológico:M_P::: biológicos))
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:pron-det:este:F_S::dem: esta)
+                                            (H:n:substância:F_S::np-def: substância)))))
+                        (.)))

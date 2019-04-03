@@ -1,0 +1,42 @@
+(FRASE CP293-13 (STA:fcl (ACC:fcl (ADVL:pp 
+                                    (H:prp:a_partir_de:: A_partir_de)
+                                    (P<:np 
+                                      (H:n:meio:M_S::np-idf: meio)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:S::artd: a)
+                                          (H:n:corrida:F_S::np-def: corrida)))))
+                                  (,)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:motor:M_S::np-def: motor))
+                                  (X:cu (CJT:x::::predicate: 
+                                          (P:vp 
+                                            (AUX:v-fin:começar:PS_3S_IND::: começou)
+                                            (PRT-AUX:prp:a:::: a)
+                                            (MV:v-inf:perder:::: perder))
+                                          (ACC:np 
+                                            (H:n:potência:F_S::np-idf: potência)))
+                                        (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                        (CJT:x::::predicate: 
+                                          (P:vp 
+                                            (MV:v-fin:partir:PS_3S_IND::nosubj: partiu))
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:S::artd: a)
+                                              (>N:adj:último:F_S::NUM-ord: última)
+                                              (H:n:volta:F_S::anr_np-def: volta)))
+                                          (,)
+                                          (ADVL:pp 
+                                            (>P:adv:já:::: já)
+                                            (H:prp:perto_de:::: perto_de+)
+                                            (P<:np 
+                                              (>N:art:o:S::artd: a)
+                                              (H:n:meta:F_S::np-def: meta))))))
+                         (»)
+                         (,)
+                         (P:vp (MV:v-fin:contar:PS_3S_IND::: contou))
+                         (SUBJ:np (H:prop:Chaves:M_S::: Chaves))
+                         (.)))

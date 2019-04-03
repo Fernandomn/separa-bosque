@@ -1,0 +1,32 @@
+(FRASE CP380-1 (STA:fcl («)
+                        (P:vp (MV:v-fin:ganhar:PR_1S_IND::nosubj: Ganho))
+                        (PIV:pp (H:prp:a:: a)
+                                (P<:np (H:prop:Jorge_de_Brito:M_S::: Jorge_de_Brito)))
+                        (ADVL:fcl (COM:adv:como:::: como)
+                                  (P:vp (MV:v-fin:ganhar:PR_1S_IND::nosubj: ganho))
+                                  (PIV:pp 
+                                    (H:prp:a:::: a+)
+                                    (P<:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (>N:pron-det:outro:M_P::KOMP:diff: outros)
+                                      (H:n:concorrente:M_P::anr_np-def: concorrentes))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:porque:::: porque)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (H:n:sócio:M_P::np-def: sócios)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:prop:Benfica:M_S::: Benfica))))
+                                  (P:vp (AUX:v-fin:ir:PR_3P_IND::: vão)
+                                        (MV:v-inf:votar:::fs-cause: votar))
+                                  (ADVL:advp 
+                                    (H:adv:mais:_::KOMP:quant: mais))
+                                  (PIV:pp 
+                                    (H:prp:em:::: em)
+                                    (P<:np 
+                                      (H:pron-pers:eu:MF_1S_PIV::: mim))))
+                        (.)
+                        (»)))

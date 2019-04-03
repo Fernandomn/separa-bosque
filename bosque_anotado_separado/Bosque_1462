@@ -1,0 +1,29 @@
+(FRASE CP274-9 (STA:fcl (SUBJ:np (>N:art:o:F_P::artd: As)
+                                 (H:n:autoridade:F_P::np-def: autoridades))
+                        (P:vp (MV:v-fin:verificar:PS_3P_IND: verificaram))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:prop:Manuel_António:M_S::: Manuel_António))
+                                 (P:vp (MV:v-fin:ter:IMPF_3S_IND::fs-subst: tinha))
+                                 (ACC:np 
+                                   (>N:num:dois:M_P::card: dois)
+                                   (H:n:passaporte:M_P::anr_np-count:anr_np-def: passaportes)
+                                   (;)
+                                   (N<PRED:cu 
+                                     (CJT:adjp 
+                                       (H:num:um:M_S::card: um)
+                                       (A<:adjp 
+                                         (H:adj:angolano:M_S::: angolano))
+                                       (,)
+                                       (A<PRED:adjp 
+                                         (H:adj:verdadeiro:M_S::: verdadeiro)))
+                                     (;)
+                                     (CO:conj-c:e:::co-pred: e)
+                                     (CJT:adjp 
+                                       (>A:pron-det:outro:M_S::diff: outro)
+                                       (H:adj:português:M_S::: português)
+                                       (,)
+                                       (A<PRED:adjp 
+                                         (H:v-pcp:falsificar:M_S::: falsificado))))))
+                        (.)))

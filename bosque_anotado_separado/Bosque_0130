@@ -1,0 +1,43 @@
+(FRASE CP24-3 (STA:fcl (ADVL:advp (H:adv:ontem:: Ontem))
+                       (,)
+                       (P:vp (AUX:v-fin:começar:PS_3S_IND::: começou)
+                             (PRT-AUX:prp:a:::: a)
+                             (MV:v-inf:chegar:::: chegar))
+                       (SA:pp (H:prp:a:::: a+)
+                              (P<:np (>N:art:o:P::artd: as)
+                                     (H:n:direção-geral:F_P::np-def: direcções-gerais)))
+                       ({)
+                       (ADVL:advp (H:adv:através:::: através)
+                                  (A<:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:np 
+                                      (>N:art:um:F_S::arti: uma)
+                                      (H:n:circular:F_S::np-idf: circular))))
+                       (})
+                       (SUBJ:np (>N:art:o:F_S::artd: a)
+                                (H:n:informação:F_S::np-def: informação)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:fcl 
+                                         (SUB:conj-s:que:::: que)
+                                         (SUBJ:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:dia:M_S::np-def: dia)
+                                           (N<:adjp 
+                                             (H:num:23:M_S::card: 23)))
+                                         (P:vp 
+                                           (MV:v-fin:ser:FUT_3S_IND::: será))
+                                         (SC:np 
+                                           (>N:num:um:M_S::card: um)
+                                           (H:n:dia:M_S::anr_np-count:anr_np-def: dia)
+                                           («)
+                                           (N<:adjp 
+                                             (H:adj:normal:M_S::: normal))
+                                           (»)
+                                           (N<:pp 
+                                             (H:prp:para:::: para)
+                                             (P<:np 
+                                               (>N:art:o:M_P::artd: os)
+                                               (H:n:funcionário:M_P::np-def: funcionários)
+                                               (N<:adjp 
+                                                 (H:adj:público:M_P::: públicos))))))))
+                       (.)))

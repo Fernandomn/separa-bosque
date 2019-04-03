@@ -1,0 +1,64 @@
+(FRASE CP532-7 (STA:fcl (ADVL:pp (H:prp:desde_há:: Desde_há)
+                                 (P<:np (>N:pron-det:pouco:M_P::quant: poucos)
+                                        (H:n:ano:M_P::anr_np-idf: anos)))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (>N:pron-det:ambos:M_P::quant: ambos)
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:n:país:M_P::np-def: países)))
+                        (P:vp (MV:v-fin:optar:PS_3S_IND::hyfen: optou-))
+                        (SUBJ:np (H:pron-pers:se:MF_3SP_ACC::: se))
+                        (PIV:pp (H:prp:por:::: por+)
+                                (P<:np (>N:art:o:F_S::artd: a)
+                                       (H:n:possibilidade:F_S::np-def: possibilidade)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:icl 
+                                           (SUBJ:np 
+                                             (>N:pron-det:cada:F_S::quant: cada)
+                                             (H:n:pessoa:F_S::anr_np-def: pessoa))
+                                           (P:vp 
+                                             (MV:v-inf:indicar:3S::: indicar))
+                                           (,)
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:declaração:F_S::np-def: declaração)
+                                               (N<ARGO:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:rendimento:M_P::np-idf: rendimentos)))))
+                                           (,)
+                                           (ACC:np 
+                                             (>N:pron-det:qual:M_S::interr: qual)
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:fim:M_S::np-def: fim)
+                                             (N<:fcl 
+                                               (ACC:icl- 
+                                                 (ACC:np 
+                                                   (H:pron-indp:que:M_S::rel: que)))
+                                               (P:vp 
+                                                 (MV:v-fin:pretender:PR_3S_IND::fs-rel:nosubj: pretende))
+                                               (-ACC:icl 
+                                                 (P:vp 
+                                                   (MV:v-inf:dar:::: dar))
+                                                 (PIV:np 
+                                                   (>N:pron-det:aquele:F_S::dem: aquela)
+                                                   (H:n:percentagem:F_S::np-def: percentagem)
+                                                   (--)
+                                                   (APP:cu 
+                                                     (CJT:adjp 
+                                                       (H:num:0,8:M_P::card: 0,8)
+                                                       (A<:pp 
+                                                         (H:prp:em:::: em)
+                                                         (P<:np 
+                                                           (H:prop:Espanha:F_S::: Espanha))))
+                                                     (,)
+                                                     (CJT:adjp 
+                                                       (H:num:0,523:M_P::card: 0,523)
+                                                       (A<:pp 
+                                                         (H:prp:em:::: em)
+                                                         (P<:np 
+                                                           (H:prop:Itália:F_S::: Itália)))))))))))))
+                        (.)))

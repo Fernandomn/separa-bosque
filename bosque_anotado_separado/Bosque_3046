@@ -1,0 +1,61 @@
+(FRASE CP587-1 (STA:fcl (SUBJ:np (H:prop:Vítor_Mendes:M_S: Vítor_Mendes)
+                                 (,)
+                                 (N<PRED:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (>N:num:40:M_P::card: 40)
+                                     (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))
+                                 (,)
+                                 (N<PRED:cu 
+                                   (CJT:np 
+                                     (H:n:licenciado:M_S::np-idf: licenciado)
+                                     (N<:pp 
+                                       (H:prp:em:::: em)
+                                       (P<:adjp 
+                                         (H:adj:direito:M_S::: direito))))
+                                   (CO:conj-c:e:::co-pred: e)
+                                   (CJT:np 
+                                     (>N:adj:antigo:M_S::: antigo)
+                                     (H:n:recordista:M_S::anr_np-idf: recordista)
+                                     (N<:adjp 
+                                       (H:adj:nacional:M_S::: nacional))
+                                     ({)
+                                     (N<PRED:adjp 
+                                       (H:num:2,15m:M_P::card: 2,15m))
+                                     (})
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:salto:M_S::np-def: salto)
+                                         (N<:adjp 
+                                           (H:adj:em:M_S::: em))))))
+                                 (,))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                                (ADVL:pp 
+                                  (H:prp:desde:::: desde)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:ano:M_S::np-def: ano)
+                                    (N<:v-pcp:passar:M_S::: passado)))
+                                (SC:np (>N:art:o:M_S::artd: o)
+                                       (H:n:director_da_secção_de_atletismo_do_Sporting:M_S::np-def: director_da_secção_de_atletismo_do_Sporting)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                      (MV:v-pcp:confirmar:M_S::anr_pass:nosubj:passive: confirmado))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (>N:pron-det:seu:F_P::si: suas)
+                                    (H:n:função:F_P::anr_np-def: funções)))
+                                (PASS:pp 
+                                  (>P:adv:já:::: já)
+                                  (H:prp:por:::: por+)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (>N:adj:novo:F_S::: nova)
+                                    (H:n:direcção:F_S::anr_np-def: direcção)))))
+                        (.)))

@@ -1,0 +1,53 @@
+(FRASE CP582-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:prop:Ministério_da_Saúde:M_S: Ministério_da_Saúde))
+                        (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                              (MV:v-inf:lançar:::: lançar))
+                        (ADVL:pp (H:prp:até:::: até)
+                                 (P<:pp (H:prp:a:::: a+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:final:M_S::np-def: final)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:maio:M_S::np-idf:prop: Maio))))))
+                        (ACC:np (>N:num:15:F_P::card: 15)
+                                (>N:adj:novo:F_P::: novas)
+                                (H:n:experiência:F_P::anr_np-count:anr_np-def: experiências)
+                                (N<:pp (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:área:F_S::np-def: área)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:centro:M_P::np-def: centros)
+                                             (N<:adjp 
+                                               (H:adj:local:M_P::: locais))
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:saúde:F_S::np-idf: saúde))))))))
+                        (,)
+                        (ADVL:pp (H:prp:de_modo_a:::: de_modo_a)
+                                 (P<:icl 
+                                   («)
+                                   (P:vp 
+                                     (MV:v-inf:melhorar:::: melhorar))
+                                   (ACC:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:acessibilidade:F_S::np-def: acessibilidade)
+                                     (»)
+                                     (N<:pp 
+                                       (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:cuidado:M_P::np-def: cuidados)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:saúde:F_S::np-idf: saúde)
+                                             (N<:adjp 
+                                               (H:adj:primário:M_P::: primários)))))))))
+                        (.)))

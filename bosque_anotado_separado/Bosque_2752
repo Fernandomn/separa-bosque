@@ -1,0 +1,116 @@
+(FRASE CP526-4 (STA:fcl (ADVL:pp (H:prp:ao_contrário_de:: Ao_contrário_de+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:processamento:M_S::anr_np-idf: processamento)
+                                        (N<:adjp 
+                                          (H:adj:vectorial:M_S::: vectorial))
+                                        (,)
+                                        (N<PRED:cu 
+                                          (CJT:fcl 
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (H:pron-indp:que:M_S::rel: que)))
+                                            (SUBJ:np 
+                                              (>N:pron-det:vários:M_P::quant: vários)
+                                              (H:n:processador:M_P::anr_np-idf: processadores))
+                                            (P:vp 
+                                              (MV:v-fin:utilizar:PR_3P_IND::: utilizam))
+                                            (ACC:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (>N:pron-det:mesmo:F_S::KOMP:diff: mesma)
+                                              (H:n:memória:F_S::anr_np-def: memória)))
+                                          (--)
+                                          (CO:conj-c:e:::co-advl: e)
+                                          (CJT:fcl 
+                                            (ADVL:advp 
+                                              (H:adv:onde:::rel: onde))
+                                            (,)
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:opinião:F_S::np-def: opinião)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:prop:Heitor_Pina:M_S::: Heitor_Pina)))))
+                                            (,)
+                                            (ADVL:advp 
+                                              (H:adv:apenas:::rel: apenas))
+                                            (P:vp 
+                                              (AUX:v-fin:poder:FUT_3P_IND::: poderão)
+                                              (MV:v-inf:existir:::: existir))
+                                            (SUBJ:np 
+                                              (H:n:progresso:M_P::np-idf: progressos)
+                                              (N<:adjp 
+                                                (H:adj:marginal:M_P::: marginais))))
+                                          (--))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_P::artd: as)
+                                 (H:n:máquina:F_P::np-def: máquinas)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:processamento:M_S::np-idf: processamento)
+                                          (N<:adjp 
+                                            (H:adj:paralelo:M_S::: paralelo))))
+                                 (,)
+                                 (N<PRED:cu 
+                                   (CJT:icl::::pcp: 
+                                     (P:vp 
+                                       (MV:v-pcp:surgir:F_P::: surgidas))
+                                     (ADVL:pp 
+                                       (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:ano:M_P::np-def: anos)
+                                         (N<:adjp 
+                                           (H:num:60:M_P::card: 60)))))
+                                   (CO:conj-c:e:::co-pred: e)
+                                   (CJT:icl::::pcp: 
+                                     (P:vp 
+                                       (MV:v-pcp:generalizar:F_P::: generalizadas))
+                                     (ADVL:pp 
+                                       (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:final:M_S::np-def: final)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:década:F_S::np-def: década)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:adjp 
+                                                 (H:num:80:F_S::card: 80)))))))))
+                                 (,))
+                        (P:vp (MV:v-fin:ter:PR_3P_IND::: têm))
+                        (ACC:np (>N:art:um:F_S::arti: uma)
+                                (H:n:memória:F_S::np-idf: memória)
+                                (N<:icl::::pcp: 
+                                  (P:vp (MV:v-pcp:dedicar:F_S::: dedicada))
+                                  (ADVL:pp 
+                                    (H:prp:para:::: para)
+                                    (P<:np 
+                                      (>N:pron-det:cada:M_S::quant: cada)
+                                      (H:n:processador:M_S::anr_np-def: processador)))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:acabar:::: acabando))
+                          (PIV:pp (H:prp:com:::: com)
+                                  (P<:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    («)
+                                    (H:n:engarrafamento:M_P::anr_np-idf: engarrafamentos)
+                                    (»)
+                                    (N<:pp 
+                                      (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:o:S::artd: a)
+                                        (H:n:partilha:F_S::np-def: partilha)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:memória:F_S::np-def: memória))))))))
+                        (.)))

@@ -1,0 +1,35 @@
+(FRASE CP993-6 (STA:fcl (SUBJ:np (>N:art:o:F_P::artd: As)
+                                 (H:n:venda:F_P::np-def: vendas)
+                                 (N<:v-pcp:consolidar:F_P: consolidadas))
+                        (P:vp (MV:v-fin:ser:PS_3P_IND::: foram))
+                        (SC:pp- (H:prp:de:::: de)
+                                (P<:np- (>N:num:26,7:M_P::card: 26,7)
+                                        (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                        (N<ARG:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:conto:M_P::np-dequant:np-idf: contos)))))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:adjp 
+                                   (H:num:1994:M_S::card: 1994)))
+                        (-SC:pp (-P<:np (,)
+                                        (N<PRED:np 
+                                          (>N:adjp- 
+                                            (H:pron-det:pouco:M_P::KOMP:quant: menos))
+                                          (>N:num:1,2:M_P::card: 1,2)
+                                          (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                          (N<ARG:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:conto:M_P::np-dequant:np-idf: contos)))
+                                          (->N:adjp 
+                                            (KOMP<:acl 
+                                              (COM:conj-s:do_que:::: do_que)
+                                              (ADVL:pp 
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:ano:M_S::np-def: ano)
+                                                  (N<:adjp 
+                                                    (H:adj:anterior:M_S::: anterior)))))))))
+                        (.)))

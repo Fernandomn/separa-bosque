@@ -1,0 +1,45 @@
+(FRASE CP481-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:prop:Banco_Nacional_Ultramarino:M_S: Banco_Nacional_Ultramarino)
+                                 ({)
+                                 (APP:np 
+                                   (H:prop:BNU:M_S::: BNU))
+                                 (}))
+                        (P:vp (AUX:v-fin:ter:IMPF_3S_IND::: tinha)
+                              (MV:v-pcp:aprovar:::: aprovado))
+                        (ADVL:pp (H:prp:até:::: até)
+                                 (P<:np::::date: 
+                                   (H:n:dezembro:M_S::anr_np-idf:prop: Dezembro)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:num:1991:M_S::card: 1991)))))
+                        (ACC:np (>N:adjp 
+                                  (>A:adv:cerca_de:::: cerca_de)
+                                  (H:num:seis:M_P::card: seis))
+                                (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                (N<ARG:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:np 
+                                    (H:n:conto:M_P::np-dequant:np-idf: contos)))
+                                (N<ARG:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:np 
+                                    (H:n:financiamento:M_P::np-idf: financiamentos)
+                                    (N<:pp 
+                                      (H:prp:para:::: para)
+                                      (P<:np 
+                                        (H:n:linha:F_P::np-idf: linhas)
+                                        (N<:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:dedicar:F_P::: dedicadas))
+                                          (PIV:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:np 
+                                              (>N:cu 
+                                                (CJT:adjp 
+                                                  (H:adj:pequeno:F_P::: pequenas))
+                                                (CO:conj-c:e:::co-prenom: e)
+                                                (CJT:adjp 
+                                                  (H:adj:médio:F_P::: médias)))
+                                              (H:n:empresa:F_P::anr_np-idf: empresas)))))))))
+                        (.)))

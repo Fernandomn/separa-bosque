@@ -1,0 +1,101 @@
+(FRASE CP357-4 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:violoncelo:M_S::np-def: violoncelo))
+                        (P:vp- (AUX:v-fin:ser:PR_3S_IND: é))
+                        (ADVL:advp (H:adv:desde_logo:::: desde_logo))
+                        (-P:vp (MV:v-pcp:ver:M_S::anr_pass:passive: visto))
+                        (SC:cu (CJT:acl (PRD:adv:como:::prp: como)
+                                        (SC:np 
+                                          (H:n:objecto:M_S::np-idf: objecto)))
+                               (,)
+                               (CJT:acl (ADVL:advp 
+                                          (>A:adv:não:::: não)
+                                          (H:adv:só:::: só))
+                                        (PRD:adv:como:::prp: como)
+                                        (SC:np 
+                                          (H:n:instrumento:M_S::np-idf: instrumento)
+                                          ({)
+                                          (N<PRED:adjp 
+                                            (H:adj:musical:M_S::: musical))
+                                          (}))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:pois:::: pois)
+                                  (ADVL:cu 
+                                    (CJT:adjp 
+                                      (H:adj:metafórico:F_S::Em:mente: metafórica))
+                                    (CO:conj-c:ou:::co-advl: ou)
+                                    (CJT:advp 
+                                      (H:adv:diaforicamente:::: diaforicamente)))
+                                  (,)
+                                  (ADVL:cu 
+                                    (CJT:adjp 
+                                      (H:adj:directo:F_S::Em:mente: directa))
+                                    (CO:conj-c:ou:::co-advl: ou)
+                                    (CJT:advp 
+                                      (H:adv:indirectamente:::: indirectamente)))
+                                  (,)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:poeta:M_S::np-def: poeta))
+                                  (P:vp (MV:v-fin:apontar:PR_3S_IND::: aponta))
+                                  (ACC:cu 
+                                    (CJT:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (>N:pron-det:seu:M_P::si: seus)
+                                      (H:n:arco:M_P::anr_np-def: arcos))
+                                    (,)
+                                    (CJT:np 
+                                      (>N:art:o:F_P::artd: as)
+                                      (>N:pron-det:seu:F_P::: suas)
+                                      (H:n:corda:F_P::anr_np-def: cordas))
+                                    (,)
+                                    (CJT:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (>N:pron-det:seu:M_P::: seus)
+                                      (H:n:nível:M_P::anr_np-def: níveis)
+                                      (N<:cu 
+                                        (CJT:adjp 
+                                          (H:adj:exterior:M_P::: exteriores))
+                                        (CO:conj-c:e:::co-acc: e)
+                                        (CJT:adjp 
+                                          (H:adj:alto:M_P::: altos)))
+                                      ({)
+                                      (APP:fcl 
+                                        (SUBJ:cu 
+                                          (CJT:np 
+                                            (H:n:ponte:F_P::np-idf: pontes))
+                                          (,)
+                                          (CJT:np 
+                                            (H:n:mastro:M_P::np-idf: mastros))
+                                          (,)
+                                          (CJT:np 
+                                            (H:n:balaústre:M_P::np-idf: balaústres))
+                                          (,)
+                                          (CJT:np 
+                                            (H:n:astro:M_P::np-idf: astros)))
+                                        (,)
+                                        (P:vp 
+                                          (MV:v-fin:esvoaçar:PR_3P_IND::fs-subst: esvoaçam))
+                                        (})))
+                                    (CO:conj-c:e:::co-acc: e)
+                                    (CJT:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (>N:pron-det:seu:M_P::: seus)
+                                      (H:n:nível:M_P::anr_np-def: níveis)
+                                      (N<:cu 
+                                        (CJT:adjp 
+                                          (H:adj:interior:M_P::: interiores))
+                                        (CO:conj-c:e:::co-postnom: e)
+                                        (CJT:adjp 
+                                          (H:adj:baixo:M_P::: baixos)))
+                                      ({)
+                                      (APP:np 
+                                        (H:cu 
+                                          (CJT:np 
+                                            (H:n:sorvedouro:M_S::np-idf: sorvedouro))
+                                          (,)
+                                          (CJT:np 
+                                            (H:n:funda:F_P::np-idf: fundas)))
+                                        (,)
+                                        (N<:pp:por_baixo:::: por_baixo))
+                                      (}))))
+                        (;)))

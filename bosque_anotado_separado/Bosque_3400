@@ -1,0 +1,102 @@
+(FRASE CP653-1 (STA:fcl (PRED:icl::pcp: (P:vp 
+                                          (MV:v-pcp:enquadrar:F_S::: Enquadrada))
+                                        (SA:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np- 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:local:M_S::np-def: local)
+                                            (N<:icl::::pcp: 
+                                              (ADVL:advp 
+                                                (H:adv:mais:::: mais))
+                                              (P:vp 
+                                                (MV:v-pcp:terciarizar:M_S::: terciarizado))))
+                                          (-P<:np 
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:capital:F_S::np-def: capital))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:exposição:F_S::np-def: exposição)
+                                 (N<:np (H:prop:Habitação_Lisboa_/_92:F_S::: Habitação_Lisboa_/_92))
+                                 (,)
+                                 (N<PRED:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:organizar:F_S::: organizada))
+                                   (PASS:pp 
+                                     (H:prp:por:::: por+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:autarquia:F_S::np-def: autarquia)))
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Terreiro_do_Paço:M_S::: Terreiro_do_Paço))))
+                                 (,))
+                        (P:vp (MV:v-fin:pretender:PR_3S_IND::: pretende))
+                        (,)
+                        (ADVL:pp (H:prp:durante:::: durante)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:semana:F_S::np-def: semana)
+                                        (N<:cu 
+                                          (PCJT:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:num:16:M_S::: 16)))
+                                          (PCJT:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:adjp 
+                                              (H:num:23:M_S::: 23))))))
+                        (,)
+                        (ACC:cu (CO:advp 
+                                  (A<:adv:não:::: não)
+                                  (H:adv:só:::: só))
+                                (CJT:icl 
+                                  (P:vp (MV:v-inf:lançar:::: lançar))
+                                  (ACC:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:debate:M_S::np-def: debate)
+                                    (N<:pp 
+                                      (H:prp:sobre:::: sobre)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:n:problema:M_P::np-def: problemas)
+                                        (N<:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:sector:M_S::np-def: sector)))))))
+                                (CO:advp 
+                                  (H:adv:como:::: como))
+                                (CJT:icl 
+                                  (P:vp (MV:v-inf:relembrar:::: relembrar))
+                                  (ACC:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:fuga:F_S::np-def: fuga)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np- 
+                                        (H:n:habitante:MF_P::anr_np-idf: habitantes)))
+                                    (N<:pp 
+                                      (H:prp:para_fora_de:::: para_fora_de+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:cidade:F_S::anr_np-idf: cidade))
+                                      (-P<:np 
+                                        (,)
+                                        (N<PRED:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:substituir:M_P::: substituídos))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:cu 
+                                              (CJT:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (H:n:serviço:M_P::np-def: serviços))
+                                              (CO:conj-c:e:::co-prparg: e)
+                                              (CJT:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:comércio:M_S::np-def: comércio))))))))))
+                        (.)))

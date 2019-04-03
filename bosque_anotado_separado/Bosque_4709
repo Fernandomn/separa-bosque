@@ -1,0 +1,61 @@
+(FRASE CP914-3 (STA:cu («)
+                       (CJT:fcl (P:vp (MV:v-fin:pensar:PR_1S_IND::nosubj: Penso))
+                                (ACC:fcl 
+                                  (SUB:conj-s:que:: que)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:prop:Benfica:M_S::: Benfica))
+                                  (X:cu (CJT:x::::predicate: 
+                                          (P:vp 
+                                            (MV:v-fin:ter:PR_3S_IND::fs-subst: tem))
+                                          (ACC:np 
+                                            (>N:pron-det:muito:M_P::quant: muitos)
+                                            (H:n:talento:M_P::anr_np-idf: talentos)))
+                                        (,)
+                                        (CJT:x::::predicate: 
+                                          (P:vp 
+                                            (MV:v-fin:ter:PR_3S_IND::fs-subst:nosubj: tem))
+                                          (ACC:np 
+                                            (>N:adj:belíssimo:M_P::: belíssimos)
+                                            (H:n:jogador:M_P::anr_np-idf: jogadores))))))
+                       (,)
+                       (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                       (CJT:fcl (P:vp (MV:v-fin:pensar:PR_1S_IND::nosubj: penso))
+                                (ADVL:advp 
+                                  (H:adv:também:::: também))
+                                (ACC:fcl 
+                                  (SUB:conj-s:que:::: que)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:prop:FC_Porto:M_S::: FC_Porto))
+                                  (,)
+                                  (ADVL:pp 
+                                    (H:prp:por:::: por+)
+                                    (P<:np 
+                                      (H:pron-det:o:M_S::: o)
+                                      (N<:fcl 
+                                        (ACC:np 
+                                          (H:pron-indp:que:M_S::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:ver:PS_1S_IND::fs-rel:nosubj: vi))
+                                        (ADVL:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:quarta-feira:F_S::np-def: quarta-feira))))))
+                                  (,)
+                                  (P:vp (MV:v-fin:ser:PR_3S_IND::fs-subst: é))
+                                  (SC:adjp 
+                                    (>A:adv:mais:_::KOMP:quant: mais)
+                                    (H:adj:agressivo:M_S::: agressivo)
+                                    (A<:pp 
+                                      (H:prp:sobre:::: sobre)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:bola:F_S::np-def: bola)))
+                                    (KOMP<:acl 
+                                      (COM:conj-s:do_que:::: do_que)
+                                      (SUBJ:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:prop:Benfica:M_S::: Benfica))))))
+                       (.)))

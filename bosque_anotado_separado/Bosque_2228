@@ -1,0 +1,72 @@
+(FRASE CP425-2 (STA:fcl (SUBJ:np (>N:art:um:M_S::arti: Um)
+                                 (H:n-adj:responsável:M_S::np-idf: responsável)
+                                 (N<:adjp 
+                                   (H:adj:indiano:M_S: indiano))
+                                 (N<:pp (H:prp:por:::: por+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:projecto:M_S::np-def: projecto)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:fabrico:M_S::np-idf: fabrico)
+                                              (N<ARGO:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:míssil:M_P::np-idf: mísseis)))))))
+                                 (,)
+                                 (APP:np 
+                                   (H:prop:Abdul_Kalam:M_S::: Abdul_Kalam))
+                                 (,))
+                        (P:vp (MV:v-fin:dizer:PS_3S_IND::: disse))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:prop:Agni:M_S::: Agni)
+                                   ({)
+                                   (N<PRED:np 
+                                     (H:prop:Fogo:M_S::: Fogo))
+                                   (})
+                                   (--)
+                                   (N<PRED:np 
+                                     (>N:art:um:M_S::arti: um)
+                                     (H:n:engenho:M_S::np-idf: engenho)
+                                     (N<:pp 
+                                       (H:prp:com:::: com)
+                                       (P<:np 
+                                         (H:n:capacidade:F_S::np-idf: capacidade)
+                                         (N<:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:icl 
+                                             (P:vp 
+                                               (MV:v-inf:transportar:::icl-fin: transportar))
+                                             (ACC:np 
+                                               (>N:art:um:F_S::arti: uma)
+                                               (H:n:carga:F_S::np-idf: carga)
+                                               (N<:adjp 
+                                                 (H:adj:nuclear:F_S::: nuclear)))
+                                             (ADVL:pp 
+                                               (H:prp:a:::: a)
+                                               (P<:np 
+                                                 (>N:art:um:F_S::arti: uma)
+                                                 (H:n:distância:F_S::np-idf: distância)
+                                                 (N<:pp 
+                                                   (H:prp:de:::: de)
+                                                   (P<:np 
+                                                     (>N:num:1500:M_P::card: 1500)
+                                                     (H:n:metro:M_P::anr_np-idf: metros))))))))))
+                                   (--))
+                                 (P:vp (MV:v-fin:estar:PR_3S_IND::fs-subst: está))
+                                 (SC:adjp 
+                                   (H:adj:pronto:M_S::: pronto)
+                                   (A<arg:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (AUX:v-inf:ser:::: ser)
+                                         (MV:v-pcp:produzir:M_S::anr_pass:passive: produzido))
+                                       (ADVL:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (H:n:série:F_S::np-idf: série)))))))
+                        (.)))

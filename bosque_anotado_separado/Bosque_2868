@@ -1,0 +1,52 @@
+(FRASE CP550-7 (STA:fcl (ADVL:pp (H:pp:de_acordo:: De_acordo)
+                                 (N<:pp (H:prp:com:::: com)
+                                        (P<:np 
+                                          (H:prop:Manuel_Cunha:M_S::: Manuel_Cunha)
+                                          (,)
+                                          (APP:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (>N:adj:actual:M_S::: actual)
+                                            (H:n:presidente:M_S::anr_np-def: presidente)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (N<:art:o:F_S::: a)
+                                                (H:prop:Junta_de_Freguesia:F_S::anr_np-def: Junta_de_Freguesia))))
+                                          (,))))
+                        (ADVL:pp (H:prp:durante:::: durante)
+                                 (P<:np (>N:art:o:F_P::artd: as)
+                                        (H:n:obra:F_P::np-def: obras)))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:empresa:F_S::np-def: empresa)
+                                 (N<:adjp 
+                                   (H:adj:responsável:F_S::: responsável)))
+                        (P:vp (MV:v-fin:necessitar:PS_3S_IND::: necessitou))
+                        (PIV:pp (H:prp:de:::: de)
+                                (P<:icl (P:vp 
+                                          (MV:v-inf:retirar:::: retirar))
+                                        (ACC:np 
+                                          (H:n:saibro:M_S::np-idf: saibro))
+                                        (SA:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:zona:F_S::np-def: zona)
+                                            (N<:fcl 
+                                              (ADVL:advp 
+                                                (H:adv:onde:_::ks:rel: onde))
+                                              (SUBJ:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:muro:M_S::np-def: muro))
+                                              (ACC:np 
+                                                (H:pron-pers:se:M_3S_ACC::: se))
+                                              (P:vp 
+                                                (MV:v-fin:encontrar:IMPF_3S_IND::fs-rel: encontrava)))))))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:efectuar:::icl-fin: efectuar))
+                                   (ACC:np 
+                                     (>N:art:um:M_S::arti: um)
+                                     (H:n:aterro:M_S::np-idf: aterro))))
+                        (.)))

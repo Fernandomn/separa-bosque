@@ -1,0 +1,29 @@
+(FRASE CP325-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:professor:M_S::np-def: professor)
+                                 (N<:np (H:prop:Marcelo_Rebelo_de_Sousa:M_S: Marcelo_Rebelo_de_Sousa)))
+                        (,)
+                        (ADVL:pp (H:prp:a:::: a+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:icl 
+                                          (P:vp 
+                                            (MV:v-inf:exigir:3S::icl-temp: exigir))
+                                          (ACC:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:referendo:M_S::np-def: referendo)
+                                            (N<:adjp 
+                                              (H:adj:nacional:M_S::: nacional))))))
+                        (,)
+                        (P:vp (AUX:v-fin:estar:PR_3S_IND::: está)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:facilitar:::: facilitar))
+                        (ADVL:adjp (H:adj:imenso:M_S::: imenso))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:resolução:F_S::np-def: resolução)
+                                (N<ARGO:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:np 
+                                    (>N:adjp 
+                                      (>A:adv:tão:_::dem:quant: tão)
+                                      (H:adj:momentoso:M_S::: momentoso))
+                                    (H:n:problema:M_S::anr_np-idf: problema))))
+                        (.)))

@@ -1,0 +1,35 @@
+(FRASE CP626-1 (STA:fcl (SUBJ:np- (>N:art:o:F_S::artd: A)
+                                  (>N:adj:grande:F_S::KOMP: maior)
+                                  (H:n:área:F_S::anr_np-def: área)
+                                  (N<:v-pcp:queimar:F_S: queimada))
+                        (P:vp (MV:v-fin:verificar:PS_3S_IND::hyfen:se-passive: verificou-))
+                        (ACC-PASS:np (H:pron-pers:se:F_3S_ACC::refl: se))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:distrito:M_S::np-def: distrito)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Santarém:MF_S::: Santarém)))))
+                        (-SUBJ:np (,)
+                                  (N<PRED:pp 
+                                    (H:prp:com:::: com)
+                                    (P<:np 
+                                      (>N:np 
+                                        (>A:num:oito:M_P::card: oito)
+                                        (H:n:mil:M_P::card:num: mil))
+                                      (H:n:hectare:M_P::anr_np-count:anr_np-def: hectares))))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:enquanto:_::ks:rel: enquanto))
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em)
+                                    (P<:np 
+                                      (H:prop:Bragança:MF_S::: Bragança)))
+                                  (P:vp (MV:v-fin:arder:PS_3P_IND::: arderam))
+                                  (SUBJ:np 
+                                    (>N:adjp 
+                                      (>A:adv:apenas:::: apenas)
+                                      (H:num:64:M_P::card: 64))
+                                    (H:n:hectare:M_P::anr_np-count:anr_np-def: hectares)))
+                        (.)))

@@ -1,0 +1,45 @@
+(FRASE CP978-5 (STA:fcl (ADVL:advp (H:adv:paralelamente:: Paralelamente))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:controlo:M_S::np-def: controlo)
+                                 (N<:pp (H:prp:sobre:::: sobre)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:órgão:M_P::np-def: órgãos)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:informação:F_S::np-idf: informação))))))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:adjp (>A:pp- 
+                                   (H:prp:de:::: de)
+                                   (P<:np- 
+                                     (>N:pron-det:tal:F_S::diff: tal)
+                                     (H:n:ordem:F_S::anr_np-idf: ordem)))
+                                 (H:v-pcp:apertar:F_S::: apertada)
+                                 (->A:pp 
+                                   (-P<:np 
+                                     (KOMP<:fcl 
+                                       (SUB:conj-s:que:::: que)
+                                       (ADVL:advp 
+                                         (H:adv:só:::: só))
+                                       (P:vp 
+                                         (MV:v-fin:vir:PR_3S_IND::: vem))
+                                       (SA:pp 
+                                         (H:prp:a:::: a)
+                                         (P<:adjp 
+                                           (H:adj:público:M_S::: público)))
+                                       (SUBJ:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:verdade:F_S::np-def: verdade)
+                                         (N<:adjp 
+                                           (H:adj:oficial:F_S::: oficial))
+                                         (,)
+                                         (APP:np 
+                                           (H:pron-det:a:F_S::dem: a)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:prop:Big_Brother:M_S::: Big_Brother)))))))))
+                        (.)))

@@ -1,0 +1,38 @@
+(FRASE CP378-1 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:heterogeneidade:F_S::np-def: heterogeneidade)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:aluno:M_P::np-def: alunos)
+                                          (N<:fcl 
+                                            (SUBJ:np 
+                                              (H:pron-indp:que:M_P::rel: que))
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (H:n:dia:M_P::np-def: dias)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:adv:hoje:::: hoje))))
+                                            (P:vp 
+                                              (MV:v-fin:chegar:PR_3P_IND::fs-rel: chegam))
+                                            (SA:pp 
+                                              (H:prp:a:::: a+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:escola:F_S::np-def: escola)))))))
+                        (P:vp (MV:v-fin:determinar:PR_3S_IND::: determina))
+                        (ACC:cu (CJT:np (>N:pron-det:diferentes:M_P::quant: diferentes)
+                                        (H:n:atitude:F_P::anr_np-idf: atitudes))
+                                (CO:conj-c:e:::co-acc: e)
+                                (,)
+                                (CJT:np (>N:adv:obviamente:::: obviamente)
+                                        (,)
+                                        (>N:pron-det:diferentes:M_P::quant: diferentes)
+                                        (H:n:tipo:M_P::anr_np-idf: tipos)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:indisciplina:F_P::np-idf: indisciplinas)))))
+                        (.)))

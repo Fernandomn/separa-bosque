@@ -1,0 +1,54 @@
+(FRASE CP253-2 (STA:fcl (SUBJ:np (>N:pron-det:o:F_P::artd: As)
+                                 (H:n:sondagem:F_P::np-def: sondagens)
+                                 (N<:pp (H:prp:a:: a+)
+                                        (P<:np 
+                                          (>N:pron-det:o:F_S::artd: a)
+                                          (H:n:opinião_pública:F_S::np-def: opinião_pública))))
+                        (P:vp (MV:v-fin:indicar:PR_3P_IND::: indicam))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:pron-det:o:M_S::artd: o)
+                                   (H:prop:ANC:M_S::: ANC)
+                                   (,)
+                                   (N<PRED:pp 
+                                     (H:prp:sob:::: sob)
+                                     (P<:np 
+                                       (>N:pron-det:o:F_S::artd: a)
+                                       (H:n:liderança:F_S::np-def: liderança)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:prop:Nelson_Mandela:M_S::: Nelson_Mandela)))))
+                                   (,))
+                                 (P:vp (AUX:v-fin:poder:FUT_3S_IND::: poderá)
+                                       (MV:v-inf:conseguir:::icl-subst: conseguir))
+                                 (PIV:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (>N:adjp 
+                                       (H:num:58:M_P::card: 58)
+                                       (A<:pp 
+                                         (H:prp:a:::: a)
+                                         (P<:adjp 
+                                           (H:num:60:M_P::card: 60))))
+                                     (H:n:por_cento:M_P::anr_np-idf: por_cento)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:pron-det:o:M_P::artd: os)
+                                         (H:n:voto:M_P::np-def: votos)))))
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em+)
+                                   (P<:np 
+                                     (>N:pron-det:o:F_P::artd: as)
+                                     (H:n:eleição:F_P::np-def: eleições)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np::::date: 
+                                         (H:n:abril:M_S::anr_np-idf:prop: Abril)))
+                                     (N<:pp 
+                                       (H:prp:para:::: para)
+                                       (P<:np 
+                                         (>N:pron-det:o:F_S::artd: a)
+                                         (H:prop:Constituinte:F_S::: Constituinte))))))
+                        (.)))

@@ -1,0 +1,61 @@
+(FRASE CP889-1 (STA:fcl (ADVL:pp (H:prp:em:: Em)
+                                 (P<:np (H:prop:Paris:M_S::: Paris)))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:bolsa:F_S::np-def: bolsa))
+                        (ADVL:advp (H:adv:também:::: também))
+                        (P:vp (MV:v-fin:registar:PS_3S_IND::: registou))
+                        (ACC:np (>N:pron-det:algum:M_P::quant: alguns)
+                                (H:n:ganho:M_P::anr_np-idf: ganhos))
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:abertura:F_S::np-def: abertura)
+                                        (N<:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:n:alta:F_S::np-idf: alta)))
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Dow_Jones:M_S::: Dow_Jones)))))
+                        (,)
+                        (ADVL:pp (H:prp:apesar_de:::: apesar_de)
+                                 (P<:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:sessão:F_S::np-idf: sessão)
+                                        (N<:adjp 
+                                          (H:adj:calmo:F_S::: calma))
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:F_S::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:resultar:PS_3S_IND::fs-rel: resultou))
+                                          (PIV:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:um:M_S::arti: um)
+                                              (H:n:aumento:M_S::np-idf: aumento)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (>N:num:0,56:M_P::card: 0,56)
+                                                  (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))
+                                              (,)
+                                              (N<PRED:pp 
+                                                (H:prp:com:::: com)
+                                                (P<:acl 
+                                                  (SUBJ:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (H:prop:CAC_40:M_S::: CAC_40))
+                                                  (SA:pp 
+                                                    (H:prp:a:::: a)
+                                                    (P<:icl 
+                                                      (P:vp 
+                                                        (MV:v-inf:encerrar:::: encerrar))
+                                                      (ADVL:pp 
+                                                        (H:prp:em:::: em+)
+                                                        (P<:np 
+                                                          (>N:art:o:M_P::artd: os)
+                                                          (>N:num:2940,89:M_P::card: 2940,89)
+                                                          (H:n:ponto:M_P::anr_np-count:anr_np-def: pontos))))))))))))
+                        (.)))

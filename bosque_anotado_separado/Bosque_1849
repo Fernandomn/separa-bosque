@@ -1,0 +1,70 @@
+(FRASE CP353-3 (STA:cu (CJT:fcl (SUBJ:cu 
+                                  (CJT:adjp 
+                                    (H:num:um:M_S::card: Um))
+                                  (CO:conj-c:e:co-subj: e)
+                                  (CJT:np 
+                                    (H:pron-det:outro:M_S::diff: outro)))
+                                (P:vp (MV:v-fin:dizer:PR_3P_IND::: dizem))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (>N:pron-det:mesmo:F_S::: mesma)
+                                        (H:n:coisa:F_S::anr_np-def: coisa))
+                                (,)
+                                (ADVL:fcl 
+                                  (ADVL:advp 
+                                    (H:adv:não:::: não))
+                                  (P:vp (MV:v-fin:haver:PR_3S_IND::nofsubj: há))
+                                  (ACC:np 
+                                    (>N:pron-det:qualquer:M_S::quant: qualquer)
+                                    (H:n:problema:M_S::anr_np-idf: problema)
+                                    (N<:adjp 
+                                      (H:adj:jurídico:M_S::: jurídico)))
+                                  (ADVL:pp 
+                                    (H:prp:quanto_a:::: quanto_a)
+                                    (P<:np 
+                                      (H:pron-indp:isso:M_S::dem: isso)))))
+                       (,)
+                       (CJT:fcl (SUBJ:np 
+                                  (>N:art:o:F_S::artd: a)
+                                  (>N:adj:único:F_S::: única)
+                                  (H:n:diferença:F_S::anr_np-def: diferença))
+                                (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                                (SC:fcl (SUB:conj-s:que:::: que)
+                                        (,)
+                                        (X:cu 
+                                          (CJT:fcl 
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n-adj:primeiro:M_S::NUM-ord:np-def: primeiro)))
+                                            (,)
+                                            (SUBJ:np 
+                                              (H:pron-pers:ele:M_3S_NOM::: ele))
+                                            (P:vp 
+                                              (MV:v-fin:deixar:PR_3S_IND::fs-subst: deixa))
+                                            (ACC:np 
+                                              (>N:art:um:F_S::arti: uma)
+                                              (>N:v-pcp:determinar:F_S::: determinada)
+                                              (H:n:soma:F_S::anr_np-idf: soma))
+                                            (PIV:pp 
+                                              (H:prp:a:::: a)
+                                              (P<:np 
+                                                (H:prop:Fanny:F_S::: Fanny))))
+                                          (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                          (,)
+                                          (CJT:fcl 
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n-adj:segundo:M_S::NUM-ord:np-def: segundo)))
+                                            (,)
+                                            (SUBJ:np 
+                                              (>N:pron-det:esse:F_S::dem: essa)
+                                              (H:n:soma:F_S::np-def: soma))
+                                            (P:vp 
+                                              (MV:v-fin:ser:PR_3S_IND::: é))
+                                            (SC:adjp 
+                                              (>A:adv:um_pouco:::quant: um_pouco)
+                                              (H:adj:pequeno:F_S::KOMP: menor))))))
+                       (.)))

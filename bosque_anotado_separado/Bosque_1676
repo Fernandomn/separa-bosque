@@ -1,0 +1,27 @@
+(FRASE CP318-4 (STA:fcl (ADVL:pp (H:prp:em:: Em)
+                                 (P<:np (>N:pron-det:cada:F_S::quant: cada)
+                                        (H:n:volta:F_S::anr_np-def: volta)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:pron-det:este:F_S::dem: esta)
+                                            (H:n:roda:F_S::np-def: roda)))))
+                        (X:cu (CJT:fcl (P:vp 
+                                         (MV:v-fin:avançar:PR_3S_IND::hyfen: avança-))
+                                       (SUBJ:np 
+                                         (H:pron-pers:se:MF_3SP_ACC::: se))
+                                       (SA:np 
+                                         (>N:num:10:M_P::card: 10)
+                                         (H:n:centímetro:M_P::anr_np-count:anr_np-def: centímetros)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:fcl (P:vp 
+                                         (AUX:v-fin:ser:PR_3P_IND::: são)
+                                         (MV:v-pcp:trucidar:F_P::anr_pass:passive: trucidadas))
+                                       (SUBJ:np 
+                                         (>N:num:cinco:F_P::card: cinco)
+                                         (H:n:tonelada:F_P::anr_np-count:anr_np-def: toneladas)
+                                         (N<ARG:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:rocha:F_S::np-idf:np-partitive1: rocha))))))
+                        (.)))

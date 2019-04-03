@@ -1,0 +1,74 @@
+(FRASE CP491-2 (STA:fcl (PRED:icl::pcp: (P:vp 
+                                          (MV:v-pcp:distribuir:M_P::: Distribuídos))
+                                        (PIV:pp 
+                                          (H:prp:por:::: por)
+                                          (P<:np 
+                                            (>N:pron-det:vários:M_P::quant: vários)
+                                            (H:n:escalão:M_P::anr_np-idf: escalões)))
+                                        (ADVL:pp 
+                                          (H:prp:segundo:::: segundo)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:idade:F_S::np-def: idade))))
+                        (,)
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:M_P::artd: os)
+                                       (H:n:concorrente:M_P::np-def: concorrentes)))
+                        (P:vp (MV:v-fin:bastar:PR_3S_IND::: basta))
+                        (SUBJ:icl (P:vp (MV:v-inf:pertencer:::icl-subst: pertencer))
+                                  (SA:pp 
+                                    (H:prp:a:::: a+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:universo:M_S::np-def: universo)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (>N:np 
+                                            (>N:adjp 
+                                              (>A:adv:cerca_de:::: cerca_de)
+                                              (H:num:30:M_P::card: 30))
+                                            (H:n:mil:M_P::card:num: mil))
+                                          (H:n:reformado:M_P::anr_np-count:anr_np-def: reformados)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:município:M_S::np-def: município))))))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (AUX:v-ger:poder:::: podendo)
+                                (MV:v-inf:inscrever:::hyfen: inscrever-))
+                          (ACC:np (H:pron-pers:se:M_3P_ACC::: se))
+                          (ADVL:pp (H:prp:em:::: em+)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:altura:F_S::np-def: altura)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:baile:M_S::np-def: baile)
+                                         (,)
+                                         (N<PRED:pp 
+                                           (H:prp:a:::: a)
+                                           (P<:icl 
+                                             (P:vp 
+                                               (MV:v-inf:divulgar:::: divulgar))
+                                             (ADVL:advp 
+                                               (H:adv:brevemente:::: brevemente))
+                                             (PASS:pp 
+                                               (H:prp:por:::: por)
+                                               (P<:cu 
+                                                 (CJT:np 
+                                                   (>N:pron-det:todo:M_P::quant: todos)
+                                                   (>N:art:o:F_P::artd: as)
+                                                   (H:n:associação:F_P::np-def: associações))
+                                                 (CO:conj-c:e:::co-prparg: e)
+                                                 (CJT:np 
+                                                   (H:n:grupo:M_P::np-idf: grupos)
+                                                   (N<:pp 
+                                                     (H:prp:de:::: de)
+                                                     (P<:np 
+                                                       (H:n-adj:idoso:M_P::: idosos)))))))))))))
+                        (.)))

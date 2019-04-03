@@ -1,0 +1,43 @@
+(FRASE CP170-9 (STA:cu (CJT:fcl (SUBJ:np 
+                                  (>N:art:o:M_S::artd: O)
+                                  (H:n:filme:M_S::np-def: filme))
+                                (P:vp (MV:v-fin:ir:PS_3S_IND: foi))
+                                (SC:np (>N:art:um:M_S::arti: um)
+                                       (H:n:êxito:M_S::np-idf: êxito)))
+                       (CO:conj-c:e:::: e)
+                       (CJT:fcl (SUBJ:np 
+                                  (H:prop:DeMille:M_S::: DeMille))
+                                (ADVL:pp 
+                                  (H:prp:até:::: até)
+                                  (P<:pp 
+                                    (H:prp:a:::: a+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:fim:M_S::np-def: fim)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:S::artd: a)
+                                          (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                          (>N:adj:grande:F_S::: grande)
+                                          (H:n:guerra:F_S::anr_np-def: guerra))))))
+                                (P:cu (CJT:v-fin:dirigir:PS_3S_IND::: dirigiu)
+                                      (CO:conj-c:e:::co-vfin: e)
+                                      (CJT:v-fin:supervisar:PS_3S_IND::nosubj: supervisou))
+                                (ACC:np (H:pron-det:mais:MF_SP::quant: mais)
+                                        (KOMP<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:metade:F_S::np-idf:numfract: metade)
+                                            (N<ARG:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (H:n:filme:M_P::np-def:np-partitive2: filmes)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:S::artd: a)
+                                                    (>N:pron-det:seu:F_S::: sua)
+                                                    (H:n:carreira:F_S::anr_np-def: carreira)))))))))
+                       (.)))

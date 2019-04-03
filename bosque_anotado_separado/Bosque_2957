@@ -1,0 +1,79 @@
+(FRASE CP569-4 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:categoria:F_S::np-def: categoria)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:num:250:M_P::card: 250)
+                                            (H:n:cc:M_S::anr_np-count:anr_np-def: cc)))))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:japonês:M_S::np-def: japonês)
+                                 (N<:np (H:prop:Tetsuya_Harada:M_S::: Tetsuya_Harada))
+                                 (,)
+                                 (N<PRED:pp 
+                                   (H:prp:de:::: de+)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:prop:Yamaha:F_S::: Yamaha)))
+                                 (,))
+                        (P:vp (MV:v-fin:alcançar:PS_3S_IND::: alcançou))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (>N:pron-det:seu:F_S::si: sua)
+                                (>N:adj:terceiro:F_S::NUM-ord: terceira)
+                                (H:n:vitória:F_S::anr_np-def: vitória)
+                                (N<:pp (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         («)
+                                         (H:prop:Mundial:M_S::: Mundial)
+                                         (»))))
+                        (--)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:só:::: só))
+                                  (P:vp (MV:v-fin:perder:PS_3S_IND::nosubj: perdeu))
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:prop:Malásia:F_S::: Malásia))))
+                        (--)
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:bater:::: batendo))
+                          (ADVL:pp (H:prp:por:::: por)
+                                   (P<:np 
+                                     (>N:adjp 
+                                       (>A:adv:mais_de:::quant: mais_de)
+                                       (H:num:quatro:M_P::card: quatro))
+                                     (H:n:segundo:M_P::anr_np-count:anr_np-def: segundos)))
+                          (ACC:np (H:cu (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n-adj:italiano:M_S::np-def: italiano)
+                                          (N<:np 
+                                            (H:prop:Massimiliano_Biaggi:M_S::: Massimiliano_Biaggi))
+                                          ({)
+                                          (N<PRED:np 
+                                            (H:prop:Honda:F_S::: Honda))
+                                          (}))
+                                        (CO:conj-c:e:::co-acc: e)
+                                        (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:francês:M_S::np-def: francês)
+                                          (N<:np 
+                                            (H:prop:Jean-Philippe_Ruggia:M_S::: Jean-Philippe_Ruggia))
+                                          ({)
+                                          (N<PRED:np 
+                                            (H:prop:Aprilia:F_S::: Aprilia))
+                                          (})))
+                                  (N<PRED:np 
+                                    (,)
+                                    (>N:adv:respectivamente:::: respectivamente)
+                                    (,)
+                                    (>N:cu 
+                                      (CJT:adjp 
+                                        (H:adj:segundo:M_S::NUM-ord: segundo))
+                                      (CO:conj-c:e:::co-prenom: e)
+                                      (CJT:adjp 
+                                        (H:adj:terceiro:M_S::NUM-ord: terceiro)))
+                                    (H:v-pcp:classificar:M_P::: classificados))))
+                        (.)))

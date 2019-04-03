@@ -1,0 +1,47 @@
+(FRASE CP432-3 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (>N:num:quatro:M_P::card: quatro)
+                                 (H:n:reactor:M_P::anr_np-count:anr_np-def: reactores)
+                                 (N<:pp (>P:adv:ainda:: ainda)
+                                        (H:prp:em:::: em)
+                                        (P<:np 
+                                          (H:n:funcionamento:M_S::np-idf: funcionamento)))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:central:F_S::np-def: central)))
+                                 (,)
+                                 (N<PRED:np 
+                                   (>N:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:num:440:M_P::card: 440)
+                                       (H:n:megawatts:M_P::anr_np-count:anr_np-def: megawatts)))
+                                   (H:pron-indp:cada_um:M_S::: cada_um))
+                                 (,))
+                        (PAUX:v-fin:ser:PS_3P_IND::nosubj: foram)
+                        (AUX<:cu (CJT:icl 
+                                   (PMV:v-pcp:construir:M_P::: construídos)
+                                   (ADVL:pp 
+                                     (H:prp:entre:::: entre)
+                                     (P<:cu 
+                                       (CJT:np 
+                                         (H:num:1974:M_S::: 1974))
+                                       (CO:conj-c:e:::co-prparg: e)
+                                       (CJT:adjp 
+                                         (H:num:1975:M_S::: 1975)))))
+                                 (CO:conj-c:e:::co-pcv: e)
+                                 (CJT:icl 
+                                   (PMV:v-pcp:inspeccionar:M_P::: inspeccionados)
+                                   (ADVL:advp 
+                                     (H:adv:recentemente:::: recentemente))
+                                   (PASS:pp 
+                                     (H:prp:por:::: por)
+                                     (P<:np 
+                                       (>N:art:um:F_S::arti: uma)
+                                       (H:n:missão:F_S::np-idf: missão)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:prop:Agência_Internacional_da_Energia_Atómica:F_S::: Agência_Internacional_da_Energia_Atómica)))))))
+                        (.)))

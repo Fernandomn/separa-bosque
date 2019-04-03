@@ -1,0 +1,58 @@
+(FRASE CP610-3 (STA:fcl (SUBJ:cu (CJT:np 
+                                   (>N:art:o:F_S::artd: A)
+                                   (H:n:falta:F_S::np-def: falta)
+                                   (N<:pp 
+                                     (H:prp:de:: de)
+                                     (P<:np 
+                                       (H:n:profundidade:F_S::np-idf: profundidade)
+                                       (N<:adjp 
+                                         (H:adj:atacante:F_S::: atacante)))))
+                                 (,)
+                                 (CJT:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:azelhice:F_S::np-def: azelhice)
+                                   (N<:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:remate:M_S::np-def: remate)))
+                                   (--)
+                                   (N<PRED:np 
+                                     (H:n:aspecto:M_S::np-idf: aspecto)
+                                     (N<:fcl 
+                                       (ADVL:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (H:pron-indp:que:M_S::rel: que)))
+                                       (SUBJ:np 
+                                         (>N:adv:apenas:::: apenas)
+                                         (H:prop:Juskoviak:M_S::: Juskoviak))
+                                       (P:vp 
+                                         (MV:v-fin:estar:PS_3S_IND::fs-rel: esteve))
+                                       (SC:adjp 
+                                         (H:adj:diferente:M_S::: diferente)
+                                         (A<:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:adjp 
+                                             (H:adj:bom:M_S::KOMP: melhor))))))
+                                   (--)))
+                        (P:vp (MV:v-fin:ser:PS_3S_IND::: foram))
+                        (SC:np (H:n:razão:F_P::np-idf: razões)
+                               (N<:pp (H:prp:para:::: para)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n-adj:nulo:M_S::np-def: nulo)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_S::rel: que))
+                                          (ACC-PASS:np 
+                                            (H:pron-pers:se:M_3S_ACC::: se))
+                                          (P:vp 
+                                            (MV:v-fin:verificar:IMPF_3S_IND::fs-rel:se-passive: verificava))
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                              (H:n:parte:F_S::anr_np-def: parte)))))))
+                        (.)))

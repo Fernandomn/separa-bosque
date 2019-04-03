@@ -1,0 +1,40 @@
+(FRASE CP925-2 (QUE:fcl (CO:conj-c:e:: E)
+                        (SUBJ:np (>N:pron-det:que:M_P::interr: que)
+                                 (H:n:efeito:M_P::anr_np-idf: efeitos))
+                        (ACC-PASS:np (H:pron-pers:se:M_3P_ACC::: se))
+                        (P:vp (AUX:v-fin:poder:PR_3P_IND::: podem)
+                              (MV:v-inf:esperar:::se-passive: esperar))
+                        (PIV:pp (H:prp:de:::: de+)
+                                (P<:np (>N:art:o:F_S::artd: a)
+                                       (H:n:aplicação:F_S::np-def: aplicação)
+                                       (N<ARGO:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:pena:F_S::np-def: pena)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:prisão:F_S::np-idf: prisão)))))
+                                       (N<:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (H:pron-det:aquele:M_P::dem: aqueles)
+                                           (N<:fcl 
+                                             (SUBJ:np 
+                                               (H:pron-indp:que:M_P::rel: que))
+                                             (P:vp 
+                                               (MV:v-fin:cometer:PS_3P_IND::fs-rel: cometeram))
+                                             (ACC:np 
+                                               (H:n:delito:M_P::np-idf: delitos))
+                                             (ADVL:pp 
+                                               (H:prp:por:::: por+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:n:exigência:F_S::np-def: exigência)
+                                                 (N<ARGO:pp 
+                                                   (H:prp:de:::: de+)
+                                                   (P<:np 
+                                                     (>N:art:o:F_S::artd: a)
+                                                     (H:n:toxicodependência:F_S::np-def: toxicodependência))))))))))
+                        (?)))

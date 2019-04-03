@@ -1,0 +1,65 @@
+(FRASE CP977-2 (STA:fcl (SUBJ:np (>N:num:dois:F_P::card: Duas)
+                                 (H:n:organização:F_P::anr_np-count:anr_np-def: organizações)
+                                 (N<:adjp 
+                                   (H:adj:francês:F_P: francesas))
+                                 (,)
+                                 (APP:cu 
+                                   (CJT:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:prop:Associação_Força_Operária_Consumidores:F_S::: Associação_Força_Operária_Consumidores)
+                                     ({)
+                                     (APP:np 
+                                       (H:prop:AFOC:F_S::: AFOC)
+                                       (,)
+                                       (N<PRED:np 
+                                         (H:prop:Altos_Alpes:M_P::: Altos_Alpes)))
+                                     (}))
+                                   (CO:conj-c:e:::co-app: e)
+                                   (CJT:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:prop:União_Departamental_das_Associações_Familiares:F_S::: União_Departamental_das_Associações_Familiares)
+                                     ({)
+                                     (APP:np 
+                                       (H:prop:UDAF:F_S::: UDAF))
+                                     (})))
+                                 (,))
+                        (P:vp (MV:v-fin:assinar:PS_3P_IND::: assinaram))
+                        (ACC:np (>N:art:um:M_S::arti: um)
+                                (H:n:acordo:M_S::np-idf: acordo)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:cooperação:F_S::np-idf: cooperação)
+                                         (N<:pp 
+                                           (H:prp:com:::: com)
+                                           (P<:np 
+                                             (H:n:associação:F_P::np-idf: associações)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:consumidor:M_P::np-idf: consumidores)))
+                                             (N<:adjp 
+                                               (H:adj:italiano:F_P::: italianas))))))
+                                (N<:fcl (SUBJ:np 
+                                          (H:pron-indp:que:M_S::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:levar:PS_3S_IND::fs-rel: levou))
+                                        (PIV:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:criação:F_S::np-def: criação)
+                                            (N<ARGO:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (>N:art:um:F_S::arti: uma)
+                                                (H:n:estrutura:F_S::np-idf: estrutura)
+                                                (N<:adjp 
+                                                  (H:adj:franco-italiana:F_S::anr_np-idf: franco-italiana))
+                                                (N<:icl::::pcp: 
+                                                  (P:vp 
+                                                    (MV:v-pcp:denominar:F_S::: denominada))
+                                                  («)
+                                                  (SC:np 
+                                                    (H:prop:Consumidores_sem_Fronteiras:M_P::: Consumidores_sem_Fronteiras))
+                                                  (»))))))))
+                        (.)))

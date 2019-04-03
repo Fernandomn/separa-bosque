@@ -1,0 +1,43 @@
+(FRASE CP412-5 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:produto:M_P::np-def: produtos)
+                                 (N<:v-pcp:fabricar:M_P: fabricados))
+                        (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                        (,)
+                        (ADVL:advp (H:adv:fundamentalmente:::: fundamentalmente))
+                        (,)
+                        (SC:cu (CJT:np (>N:art:o:M_S::artd: o)
+                                       (H:n:papel:M_S::np-def: papel)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:cópia:F_S::np-idf: cópia))))
+                               (,)
+                               (CJT:np (>N:art:o:M_S::artd: o)
+                                       (H:n:papel:M_S::np-def: papel)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:impressão:F_S::np-idf: impressão)
+                                           («)
+                                           (N<:np 
+                                             (H:n:offset:M_S::np-idf: offset))
+                                           (»))))
+                               (CO:conj-c:e:::co-sc: e)
+                               (CJT:np (>N:art:o:M_P::artd: os)
+                                       (H:n:papel:M_P::np-def: papéis)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:computador:M_S::np-idf: computador)))
+                                       (N<:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:M_P::rel: que))
+                                         (P:vp 
+                                           (MV:v-fin:representar:PR_3P_IND::fs-rel: representam))
+                                         (ACC:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:n:mercado:M_P::np-def: mercados)
+                                           (N<:adjp 
+                                             (>A:adv:mais:_::KOMP:quant: mais)
+                                             (H:adj:promissor:M_P::: promissores))))))
+                        (.)))

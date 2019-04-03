@@ -1,0 +1,77 @@
+(FRASE CP200-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:contrato:M_S::np-def: contrato)
+                                 (N<:pp (H:prp:sobre:: sobre)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:prop:Lisbor:F_S::: Lisbor)))
+                                 (N<:pp (H:prp:a:::: a)
+                                        (P<:np 
+                                          (>N:num:três:M_P::card: três)
+                                          (H:n:mês:M_P::anr_np-count:anr_np-def: meses)))
+                                 ({)
+                                 (N<PRED:np 
+                                   (H:n:taxa:F_S::np-idf: taxa)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:juro:M_S::np-idf: juro)))
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:adj:curto:M_S::: curto)
+                                       (H:n:prazo:M_S::anr_np-idf: prazo)))
+                                   (,)
+                                   (N<:adjp 
+                                     (H:adj:correspondente:F_S::: correspondente)
+                                     (A<:pp 
+                                       (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:n:média:F_S::np-def: média)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:P::artd: as)
+                                             (H:n:taxa:F_P::np-def: taxas)
+                                             (N<:icl::::pcp: 
+                                               (P:vp 
+                                                 (MV:v-pcp:praticar:F_P::: praticadas))
+                                               (ADVL:pp::::postmod: 
+                                                 (H:prp:em:::: em+)
+                                                 (P<:np 
+                                                   (>N:art:o:M_S::artd: o)
+                                                   (H:n:mercado:M_S::np-def: mercado)
+                                                   (N<:adjp 
+                                                     (H:adj:monetário:M_S::: monetário))
+                                                   (N<:adjp 
+                                                     (H:adj:interbancário:M_S::: interbancário)))))))))))
+                                 (}))
+                        (X:cu (CJT:x::::predicate: 
+                                (ADVL:advp 
+                                  (H:adv:só:::: só))
+                                (P:vp (AUX:v-fin:começar:FUT_3S_IND::: começará)
+                                      (PRT-AUX:prp:a:::: a)
+                                      (AUX:v-inf:ser:::: ser)
+                                      (MV:v-pcp:negociar:M_S::anr_pass:passive: negociado))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:início:M_S::np-def: início))
+                                  (N<:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:np 
+                                      (H:n:julho:M_S::np-idf:prop: Julho)))))
+                              (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                              (CJT:x::::predicate: 
+                                (ADVL:advp 
+                                  (H:adv:já:::: já))
+                                (P:vp (MV:v-fin:ter:PR_3S_IND::nosubj: tem))
+                                (OC:icl::::pcp: 
+                                  (P:vp (MV:v-pcp:garantir:M_P::: garantidos))
+                                  (SUBJ:np 
+                                    (>N:num:seis:M_P::card: seis)
+                                    («)
+                                    (H:n:market_makers:M_S::anr_np-count:anr_np-idf: market_makers)
+                                    (»)))))
+                        (.)))

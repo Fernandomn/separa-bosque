@@ -1,0 +1,65 @@
+(FRASE CP826-1 (STA:fcl (PRED:icl::ger: (P:vp 
+                                          (AUX:v-ger:voltar:::: Voltando)
+                                          (PRT-AUX:prp:a:::: a)
+                                          (MV:v-inf:mostrar:::hyfen: mostrar-))
+                                        (ACC:np 
+                                          (H:pron-pers:se:M_3S_ACC::refl: se))
+                                        (OC:pp 
+                                          (>P:adv:particularmente:::quant: particularmente)
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:vontade:F_S::np-def: vontade)))
+                                        (ADVL:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:n:condição:F_P::np-idf: condições)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (>N:pron-det:pouco:F_S::quant: pouca)
+                                                (H:n:aderência:F_S::anr_np-idf:anr_np-mass: aderência))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:brasileiro:M_S::np-def: brasileiro)
+                                 (N<:np (H:prop:Ayrton_Senna:M_S::: Ayrton_Senna))
+                                 ({)
+                                 (N<PRED:np 
+                                   (H:prop:McLaren/Ford:F_S::: McLaren/Ford))
+                                 (}))
+                        (P:vp (MV:v-fin:conseguir:PS_3S_IND::: conseguiu))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (>N:adj:bom:M_S::KOMP:SUP: melhor)
+                                (H:n:tempo:M_S::anr_np-def: tempo))
+                        (OA:pp (H:prp:em:::: em+)
+                               (P<:np (>N:art:o:F_S::artd: a)
+                                      (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                      (H:n:sessão:F_S::anr_np-def: sessão)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:qualificação:F_S::np-idf: qualificação)
+                                          (N<:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:prop:Grande_Prémio_da_Europa:M_S::: Grande_Prémio_da_Europa)
+                                              (N<:fcl 
+                                                (SUBJ:np 
+                                                  (H:pron-indp:que:M_S::rel: que))
+                                                (ADVL:advp 
+                                                  (H:adv:amanhã:::: amanhã))
+                                                (ACC-PASS:np 
+                                                  (H:pron-pers:se:M_3S_ACC::: se))
+                                                (P:vp 
+                                                  (MV:v-fin:disputar:PR_3S_IND::fs-rel:se-passive: disputa))
+                                                (ADVL:pp 
+                                                  (H:prp:em:::: em)
+                                                  (P<:np 
+                                                    (H:prop:Donington:MF_S::: Donington)
+                                                    ({)
+                                                    (N<PRED:np 
+                                                      (H:prop:Inglaterra:F_S::: Inglaterra))
+                                                    (}))))))))))
+                        (.)))

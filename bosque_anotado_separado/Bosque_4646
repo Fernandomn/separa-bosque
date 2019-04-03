@@ -1,0 +1,35 @@
+(FRASE CP901-5 (STA:fcl ({)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:número:M_S::np-def: número)
+                                 (N<:adjp 
+                                   (H:num:8:M_P::card: 8))
+                                 (,)
+                                 (N<PRED:np::date: 
+                                   (H:n:outubro:M_S::anr_np-idf:prop: Outubro)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:adjp 
+                                       (H:num:1961:M_S::card: 1961))))
+                                 (,)
+                                 (N<PRED:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:conhecer:M_S::: conhecido))
+                                   (SC:acl 
+                                     (PRD:adv:como:::rel: como)
+                                     («)
+                                     (SC:np 
+                                       (H:n:número:M_S::np-idf: número)
+                                       (N<:np 
+                                         (H:prop:Vostok:M_S::: Vostok)))
+                                     (»)))
+                                 (,))
+                        (P:vp (MV:v-fin:comemorar:PR_3S_IND::: comemora))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                (H:n:viagem:F_S::anr_np-def: viagem)
+                                (N<:v-pcp:tripular:F_S::: tripulada)
+                                (N<:pp (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:espaço:M_S::np-def: espaço))))
+                        (;)))

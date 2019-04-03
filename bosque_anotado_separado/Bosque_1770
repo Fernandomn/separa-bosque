@@ -1,0 +1,61 @@
+(FRASE CP340-3 (STA:fcl (P:vp (MV:v-fin:cheirar:PR_3S_IND::nosubj: Cheira))
+                        (PIV:pp (H:prp:a:: a)
+                                (P<:np (H:n:dinheiro:M_S::np-idf: dinheiro)))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:prop:Düsseldorf:M_S::: Düsseldorf)
+                                        (,)
+                                        (N<PRED:np 
+                                          (>N:art:um:F_S::arti: uma)
+                                          (H:n:cidade:F_S::np-idf: cidade)
+                                          (N<:fcl 
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (H:pron-indp:que:F_S::rel: que)))
+                                            (,)
+                                            (ADVL:cu 
+                                              (CJT:pp 
+                                                (>P:adv:mesmo:::quant: mesmo)
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:art:o:F_P::artd: as)
+                                                  (H:n:horas:F_P::np-def: horas)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (H:n:ponta:F_S::np-idf: ponta)))))
+                                              ({)
+                                              (CO:conj-c:e:::co-advl: e)
+                                              (CJT:pp 
+                                                (H:prp:apesar_de:::: apesar_de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:tráfico:M_S::np-def: tráfico)
+                                                  (N<:adjp 
+                                                    (H:adj:intenso:M_S::: intenso))))
+                                              (}))
+                                            (,)
+                                            (SUBJ:np 
+                                              (>N:art:o:F_P::artd: as)
+                                              (>N:adj:único:F_P::: únicas)
+                                              (H:n:bicha:F_P::anr_np-def: bichas))
+                                            (P:vp 
+                                              (MV:v-fin:ser:PR_3P_IND::fs-rel: são))
+                                            (SC:np 
+                                              (H:pron-det:a:F_P::dem: as)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_P::artd: os)
+                                                  (H:n:imigrante:M_P::np-def: imigrantes)
+                                                  (N<:adjp 
+                                                    (H:adj:turco:M_P::: turcos))
+                                                  (N<:advp 
+                                                    (H:adv:junto:::: junto)
+                                                    (A<:pp 
+                                                      (H:prp:a:::: a+)
+                                                      (P<:np 
+                                                        (>N:art:o:M_S::artd: o)
+                                                        (>N:pron-det:seu:M_S::: seu)
+                                                        (H:n:consulado:M_S::anr_np-def: consulado)))))))))))
+                        (.)))

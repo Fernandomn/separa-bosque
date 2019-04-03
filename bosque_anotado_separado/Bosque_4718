@@ -1,0 +1,32 @@
+(FRASE CP916-4 (STA:fcl (ADVL:pp (H:prp:em:: Em)
+                                 (P<:np::::date: 
+                                   (H:n:julho:M_S::anr_np-idf:prop: Julho)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (>N:adj:próximo:M_S::: próximo)
+                                       (H:n:ano:M_S::anr_np-def: ano)))))
+                        (,)
+                        (SUBJ:np (H:pron-det:muito:M_P::quant: muitos)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:telescópio:M_P::np-def:np-partitive2: telescópios)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:mundo:M_S::np-def: mundo)
+                                              (N<:adjp 
+                                                (H:adj:inteiro:M_S::: inteiro)))))))
+                        (P:vp (AUX:v-fin:ir:PR_3P_IND::: vão)
+                              (MV:v-inf:querer:::: querer))
+                        (ACC:icl (P:vp (MV:v-inf:assistir:::icl-subst: assistir))
+                                 (PIV:pp 
+                                   (H:prp:a:::: a+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (>N:pron-det:seu:M_S::si: seu)
+                                     (H:n:fim:M_S::anr_np-def: fim))))
+                        (.)))

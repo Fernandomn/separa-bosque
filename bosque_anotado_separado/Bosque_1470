@@ -1,0 +1,43 @@
+(FRASE CP275-5 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (>N:adj:último:M_S::NUM-ord: último)
+                                 (H:n:saldo:M_S::anr_np-def: saldo)
+                                 (N<:adjp 
+                                   (H:adj:recorde:M_S: recorde))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:comércio:M_S::np-def: comércio)
+                                          (N<:adjp 
+                                            (H:adj:externo:M_S::: externo)))))
+                        (P:vp (AUX:v-fin:haver:IMPF_3S_IND::: havia)
+                              (AUX:v-pcp:ser:M_S::: sido)
+                              (MV:v-pcp:atingir:M_S::anr_pass:passive: atingido))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:adjp 
+                                   (H:num:1993:M_S::card: 1993)))
+                        (,)
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:excedente:M_S::np-idf: excedente)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:np 
+                                              (>N:num:87:M_P::card: 87)
+                                              (>N:n:mil:M_P::card:num: mil)
+                                              (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                              (N<ARG:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:franco:M_P::np-dequant:np-idf: francos))))
+                                            ({)
+                                            (N<PRED:np 
+                                              (>N:num:2,6:M_P::card: 2,6)
+                                              (>N:n:mil:M_P::card:num: mil)
+                                              (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                              (N<ARG:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:conto:M_P::np-dequant:np-idf: contos))))
+                                            (})))))
+                        (.)))

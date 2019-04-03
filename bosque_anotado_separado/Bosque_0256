@@ -1,0 +1,47 @@
+(FRASE CP45-3 (STA:fcl (SUBJ:cu (CJT:np (H:prop:Eduardo_dos_Santos:M_S: Eduardo_dos_Santos)
+                                        (,)
+                                        (N<PRED:np 
+                                          (H:n:presidente:M_S::np-idf: presidente)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (N<:art:o:M_S::: o)
+                                              (H:prop:MPLA:M_S::anr_np-def: MPLA)))))
+                                (,)
+                                (CO:conj-c:e:::co-subj: e)
+                                (CJT:np (H:prop:Jonas_Savimbi:M_S::: Jonas_Savimbi)
+                                        (,)
+                                        (N<PRED:np 
+                                          (H:n:dirigente:M_S::np-idf: dirigente)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:S::artd: a)
+                                              (H:prop:Unita:F_S::: Unita))))))
+                       (,)
+                       (P:vp (MV:v-fin:encontrar:PR_3P_IND::: encontram-))
+                       (ACC:np (H:pron-pers:se:M_3P_ACC::coll:refl: se))
+                       (ADVL:pp (H:prp:em:::: em+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (H:n:cidade:F_S::np-def: cidade)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Bié:M_S::: Bié)))))
+                       (ADVL:pp (H:prp:em:::: em)
+                                (P<:np (H:n:actividade:F_P::np-idf: actividades)
+                                       (N<:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:ligar:F_P::: ligadas))
+                                         (PIV:pp 
+                                           (H:prp:a:::: a+)
+                                           (P<:np 
+                                             (>N:art:o:S::artd: a)
+                                             (H:n:campanha:F_S::np-def: campanha)
+                                             (N<:adjp 
+                                               (H:adj:eleitoral:F_S::: eleitoral))
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:setembro:M_S::prop: Setembro))))))))))

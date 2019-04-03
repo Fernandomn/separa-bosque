@@ -1,0 +1,55 @@
+(FRASE CP303-2 (UTT:cu (STA:fcl- (SUBJ:np 
+                                   (H:cu 
+                                     (CJT:np 
+                                       (>N:art:o:M_S::artd: O)
+                                       (H:n:actor:M_S::np-def: actor))
+                                     (CO:conj-c:e:co-subj: e)
+                                     (CJT:np 
+                                       (H:n:realizador:M_S::np-idf: realizador)))
+                                   (N<:adjp 
+                                     (H:adj:norte-americano:M_S::: norte-americano))
+                                   (N<:np 
+                                     (H:prop:Clint_Eastwood:M_S::: Clint_Eastwood))
+                                   (,)
+                                   (N<PRED:np 
+                                     (>N:num:63:M_P::card: 63)
+                                     (H:n:ano:M_P::anr_np-count:anr_np-def: anos))
+                                   (,)
+                                   (N<PRED:np 
+                                     (H:n:presidente_do_júri_do_Festival_de_Cannes:M_S::anr_np-count:np-idf: presidente_do_júri_do_Festival_de_Cannes))))
+                       ({)
+                       (CMD:icl (P:vp (MV:v-inf:ver:::: ver))
+                                (ACC:np (H:n:p.:F_S::anr_np-count:np-idf: p.)
+                                        (N<:adjp 
+                                          (H:num:28:F_S::card: 28))))
+                       (})
+                       (,)
+                       (-STA:fcl (P:vp (MV:v-fin:defender:PS_3S_IND::nosubj: defendeu))
+                                 (ADVL:advp 
+                                   (H:adv:ontem:::: ontem))
+                                 (ACC:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:entrada:F_S::np-def: entrada)
+                                   (N<ARGS:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:art:um:F_S::arti: uma)
+                                       (>N:adj:grande:F_S::KOMP: maior)
+                                       (H:n:variedade:F_S::anr_np-idf: variedade)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:filme:M_P::np-idf: filmes)
+                                           (N<:adjp 
+                                             (H:adj:estrangeiro:M_P::: estrangeiros))))))
+                                   (N<:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:mercado:M_S::np-def: mercado)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:prop:Estados_Unidos:M_P::: Estados_Unidos)))))))
+                       (.)))

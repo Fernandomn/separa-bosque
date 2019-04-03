@@ -1,0 +1,33 @@
+(FRASE CP891-3 (UTT:adjp (H:adj:patente:F_S: Patente)
+                         (A<:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:n:público:M_S::np-def: público)))
+                         (A<:pp (H:prp:até:::: até)
+                                (P<:pp (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (>N:adj:próximo:M_S::: próximo)
+                                         (H:n:dia:M_S::anr_np-def: dia)
+                                         (N<:adjp 
+                                           (H:num:26:M_S::card: 26)))))
+                         (,)
+                         (A<:cu (PCJT:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:np 
+                                    (H:n:segunda:F_S::np-idf: Segunda)))
+                                (PCJT:pp 
+                                  (H:prp:a:::: a)
+                                  (P<:np 
+                                    (H:n:domingo:M_S::np-idf: Domingo))))
+                         (,)
+                         (A<:cu (PCJT:pp 
+                                  (H:prp:de:::: de+)
+                                  (P<:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (H:n:14h00:F_P::np-def: 14h00)))
+                                (PCJT:pp 
+                                  (H:prp:a:::: a+)
+                                  (P<:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (H:n:19h00:F_P::np-def: 19h00))))
+                         (.)))

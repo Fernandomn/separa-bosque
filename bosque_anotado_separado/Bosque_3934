@@ -1,0 +1,63 @@
+(FRASE CP767-2 (STA:fcl (ADVL:pp (H:prp:durante:: Durante)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (>N:adj:último:M_S::NUM-ord: último)
+                                        (H:n:mês:M_S::anr_np-def: mês)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:ano:M_S::np-def: ano)
+                                            (N<:v-pcp:passar:M_S::: passado)))))
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:prop:Brigada_de_Trânsito:F_S::: Brigada_de_Trânsito))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:aplicar:PS_3S_IND::: aplicou))
+                                (ACC:np (>N:art:o:M_S::artd: o)
+                                        (H:n:teste:M_S::np-def: teste)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:alcoolémia:F_S::np-idf: alcoolémia))))
+                                (PIV:pp (H:prp:a:::: a)
+                                        (P<:np 
+                                          (>N:num:25.093:M_P::card: 25.093)
+                                          (H:n:condutor:M_P::anr_np-count:anr_np-def: condutores)))
+                                (,)
+                                (ADVL:pp 
+                                  (H:prp:em:::: em)
+                                  (P<:np 
+                                    (>N:pron-det:todo_o:M_S::quant: todo_o)
+                                    (H:n:continente:M_S::anr_np-def: continente))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:detectar:PS_3S_IND::nosubj: detectou))
+                                (ACC:adjp 
+                                  (H:num:1.578:M_P::card: 1.578)
+                                  (,)
+                                  (N<PRED:np 
+                                    (>N:adv:ou_seja:::kc: ou_seja)
+                                    (,)
+                                    (>N:num:6,2:M_P::card: 6,2)
+                                    (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:total:M_S::np-def: total))))
+                                  (,)
+                                  (N<PRED:fcl 
+                                    (SUBJ:np 
+                                      (H:pron-indp:que:M_P::rel: que))
+                                    (P:vp 
+                                      (MV:v-fin:conduzir:IMPF_3P_IND::fs-rel: conduziam))
+                                    (ADVL:pp 
+                                      (H:prp:sob:::: sob)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:efeito:M_S::np-def: efeito)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:álcool:M_S::np-def: álcool)))))))))
+                        (.)))

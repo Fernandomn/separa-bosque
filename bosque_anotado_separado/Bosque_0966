@@ -1,0 +1,27 @@
+(FRASE CP180-6 (STA:fcl (ADVL:advp (H:adv:por_exemplo:: por_exemplo))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (>N:adj:excelente:M_S::: excelente)
+                                 («)
+                                 (H:n:search_and_replace:M_S::anr_np-idf: search_and_replace)
+                                 (»))
+                        (P:vp (MV:v-fin:ter:PR_3S_IND::: tem))
+                        (ACC:np (H:n:característica:F_P::np-idf: características)
+                                (N<:fcl (SUBJ:np 
+                                          (H:pron-indp:que:F_P::rel: que))
+                                        (ADVL:advp 
+                                          (H:adv:só:::: só))
+                                        (P:vp 
+                                          (MV:v-fin:existir:IMPF_3P_IND::fs-rel: existiam))
+                                        (ADVL:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:n:versão:F_S::np-def: versão)
+                                            (N<:adjp 
+                                              (H:num:5.1:F_P::card: 5.1))
+                                            (N<:pp 
+                                              (H:prp:para:::: para)
+                                              (P<:np 
+                                                (H:prop:Mac:M_S::: Mac)))))))
+                        (.)))

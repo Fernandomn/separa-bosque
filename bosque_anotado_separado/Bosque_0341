@@ -1,0 +1,49 @@
+(FRASE CP62-2 (STA:cu (CJT:fcl (SUBJ:icl 
+                                 (P:vp (MV:v-inf:comprar:icl-subst: Comprar))
+                                 (ACC:np 
+                                   (>N:art:um:M_S::arti: um)
+                                   (H:n:CD:M_S::np-idf: CD)))
+                               (ADVL:advp 
+                                 (H:adv:não:::: não))
+                               (P:vp (MV:v-fin:estar:PR_3S_IND::: está))
+                               (SC/SA:pp 
+                                 (H:prp:a:::: a+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:alcance:M_S::np-def: alcance)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:pron-det:todo_o:F_P::quant: todas_as)
+                                            (H:n:pessoa:F_P::anr_np-def: pessoas)
+                                            (N<:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:F_P::rel: que))
+                                              (P:vp 
+                                                (MV:v-fin:comprar:IMPF_3P_IND::fs-rel: compravam))
+                                              (ACC:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (>N:pron-det:nosso:M_P::: nossos)
+                                                (H:n:disco:M_P::anr_np-def: discos))))))))
+                      (,)
+                      (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                      (CJT:fcl (P:vp (MV:v-fin:acreditar:PR_1P_IND::nosubj: acreditamos))
+                               (PIV:pp (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n-adj:jovem:M_P::np-def: jovens)))
+                               (,)
+                               (ADVL:fcl 
+                                 (SUB:conj-s:porque:::: porque)
+                                 (P:vp (MV:v-fin:ter:PR_1P_IND::fs-cause:nosubj: temos))
+                                 (ACC:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:certeza:F_S::np-def: certeza)
+                                   (N<:fcl 
+                                     (SUB:conj-s:que:::: que)
+                                     (P:vp 
+                                       (MV:v-fin:aderir:PR_3P_IND::nosubj: aderem))
+                                     (PIV:pp 
+                                       (H:prp:a:::: a)
+                                       (P<:np 
+                                         (H:pron-indp:isto:M_S::dem: isto)))))))
+                      (.)))

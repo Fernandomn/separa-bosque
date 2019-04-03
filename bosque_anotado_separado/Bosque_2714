@@ -1,0 +1,50 @@
+(FRASE CP518-7 (UTT:fcl (SUBJ:np (>N:art:o:F_P::artd: As)
+                                 (H:n:coisa:F_P::np-def: coisas)
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:F_P::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:ocorrer:PR_3P_IND::fs-rel: ocorrem))
+                                   (ADVL:pp 
+                                     (H:prp:ao_longo_de:: ao_longo_de+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:vida:F_S::anr_np-idf: vida))))
+                                 (N<:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:considerar:F_P::: consideradas))
+                                   (SC:acl 
+                                     (PRD:adv:como:::: como)
+                                     (SC:adjp 
+                                       (H:adj:desagradável:F_P::: desagradáveis)))))
+                        (P:vp- (AUX:v-fin:dever:PR_3P_IND::: devem))
+                        (ADVL:advp (H:adv:então:::kc: então))
+                        (-P:vp (AUX:v-inf:ser:::: ser)
+                               (MV:v-pcp:encarar:F_P::anr_pass:passive: encaradas))
+                        (SC:acl (PRD:adv:como:::rel: como)
+                                (SC:np (>N:art:um:M_S::arti: um)
+                                       (>N:adj:novo:M_S::: novo)
+                                       (H:n:passo:M_S::anr_np-idf: passo)
+                                       (N<:pp 
+                                         (H:prp:em:::: em+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:aprendizagem:F_S::np-def: aprendizagem)
+                                           (N<:adjp 
+                                             (H:adj:existencial:F_S::: existencial))))
+                                       (,)
+                                       (N<PRED:np 
+                                         (H:pron-indp:algo:M_S::quant: algo)
+                                         (N<:fcl 
+                                           (ADVL:pp 
+                                             (H:prp:por:::: por+)
+                                             (P<:np 
+                                               (H:pron-indp:o_qual:M_S::rel: o_qual)))
+                                           (P:vp 
+                                             (AUX:v-fin:ter:PR_1P_IND::: temos)
+                                             (PRT-AUX:prp:de:::: de)
+                                             (MV:v-inf:passar:_::fs-rel:nosubj: passar))
+                                           (ADVL:pp 
+                                             (H:prp:para:::: para)
+                                             (P<:v-inf:evoluir:::icl-fin: evoluir))))))
+                        (.)))

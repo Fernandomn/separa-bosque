@@ -1,0 +1,45 @@
+(FRASE CP936-4 (UTT:cu (CJT:np (H:n:fraude:F_P::np-idf: Fraudes))
+                       (,)
+                       (CJT:np (H:n:morte:F_P::np-idf: mortes)
+                               (N<:pp (H:prp:em:: em+)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:n:campo:M_P::np-def: campos)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:futebol:M_S::np-idf: futebol))))))
+                       (,)
+                       (CJT:np (H:n:árbitro:M_P::np-idf: árbitros)
+                               (N<:fcl (SUBJ:np 
+                                         (H:pron-indp:que:M_P::rel: que))
+                                       (P:vp 
+                                         (MV:v-fin:ser:PR_3P_IND::fs-rel: são))
+                                       (SC:adjp 
+                                         (H:adj:tendencioso:M_P::: tendenciosos)
+                                         (A<arg:pp 
+                                           (H:prp:a_favor_de:::: a_favor_de)
+                                           (P<:fcl::::Es: 
+                                             (SC:np 
+                                               (H:pron-indp:quem:MF_P::rel: quem))
+                                             (P:vp 
+                                               (MV:v-fin:querer:PR_3P_IND::fs-subst:nosubj: querem)))))))
+                       (CO:conj-c:e:::: e)
+                       (CJT:np (>N:pron-det:outro:F_P::KOMP:diff: outras)
+                               (H:n:coisa:F_P::anr_np-idf: coisas)
+                               (N<:adv:mais:_::KOMP:quant: mais)
+                               (N<:fcl (SUBJ:np 
+                                         (H:pron-indp:que:F_P::rel: que))
+                                       (ADVL:advp 
+                                         (H:adv:só:::: só))
+                                       (P:vp 
+                                         (MV:v-fin:trazer:PR_3P_IND::fs-rel: trazem))
+                                       (ACC:np 
+                                         (H:n:vergonha:F_S::np-idf: vergonha))
+                                       (PIV:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (>N:pron-det:nosso:M_S::: nosso)
+                                           (H:n:futebol:M_S::anr_np-def: futebol)))))
+                       (.)))

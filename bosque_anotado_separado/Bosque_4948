@@ -1,0 +1,64 @@
+(FRASE CP964-1 (STA:fcl (FOC:advp (H:adv:foram:foc: Foram))
+                        (SUBJ:np (>N:adjp 
+                                   (>A:adv:cerca_de:::: cerca_de)
+                                   (H:num:500:F_P::card: 500))
+                                 (>N:adj:jovem:F_P::: jovens)
+                                 (H:n:atleta:F_P::anr_np-count:anr_np-def: atletas)
+                                 (,)
+                                 (N<PRED:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:representar:::: representando))
+                                   (ACC:np 
+                                     (H:cu 
+                                       (CJT:np 
+                                         (H:n:escola:F_P::np-idf: escolas))
+                                       (CO:conj-c:e:::co-acc: e)
+                                       (CJT:np 
+                                         (H:n:clube:M_P::np-idf: clubes)))
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:pron-det:várias:F_P::quant: várias)
+                                         (H:n:região:F_P::anr_np-idf: regiões)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:país:M_S::np-def: país)))
+                                         (,)
+                                         (N<PRED:icl::::ger: 
+                                           (P:vp 
+                                             (MV:v-ger:incluir:::: incluindo))
+                                           (ACC:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:prop:ilha_da_Madeira:F_S::: ilha_da_Madeira)))
+                                         (,))))))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (P:vp (MV:v-fin:participar:PS_3P_IND::: participaram))
+                        (PIV:pp (H:prp:em:::: em+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:prop:III_Encontro_Nacional_de_Andebol_Feminino:M_S::: III_Encontro_Nacional_de_Andebol_Feminino)
+                                       (,)
+                                       (N<PRED:icl::::pcp: 
+                                         (ADVL:advp 
+                                           (H:adv:já:::: já))
+                                         (P:vp 
+                                           (MV:v-pcp:considerar:M_S::: considerado))
+                                         (SC:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n-adj:grande:M_S::KOMP:np-def: maior)
+                                           (KOMP<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:modalidade:F_S::np-def: modalidade)))))
+                                       (,)
+                                       (N<PRED:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:organizar:M_S::: organizado))
+                                         (PASS:pp 
+                                           (H:prp:por:::: por+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:prop:Associação_de_Andebol_de_Lisboa:F_S::: Associação_de_Andebol_de_Lisboa))))))
+                        (.)))

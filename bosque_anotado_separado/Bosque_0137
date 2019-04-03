@@ -1,0 +1,62 @@
+(FRASE CP25-4 (STA:fcl (ADVL:advp (H:adv:ou_seja:kc: Ou_seja))
+                       (,)
+                       (ADVL:pp (H:prp:em:::: em)
+                                (P<:np (>N:num:dez:M_P::card: dez)
+                                       (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))
+                       (,)
+                       (ADVL:advp (H:adv:nunca:::: nunca))
+                       (SUBJ:np (>N:art:o:F_S::artd: a)
+                                (H:prop:Lei_dos_Serviços_de_Informações:F_S::: Lei_dos_Serviços_de_Informações))
+                       (P:vp- (AUX:v-fin:ser:PS_3S_IND::: foi))
+                       (ADVL:advp (H:adv:integralmente:::: integralmente))
+                       (-P:vp (MV:v-pcp:cumprir:F_S::anr_pass:passive: cumprida))
+                       (,)
+                       (PRED:pp (H:prp:com:::: com)
+                                (P<:cu (CJT:np 
+                                         (>N:art:um:F_S::arti: uma)
+                                         (H:n:estrutura:F_S::np-idf: estrutura)
+                                         (N<:fcl 
+                                           (SUBJ:np 
+                                             (H:pron-indp:que:F_S::rel: que))
+                                           (P:vp 
+                                             (MV:v-fin:estar:IMPF_3S_IND::fs-rel: estava))
+                                           («)
+                                           (SA:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:papel:M_S::np-def: papel)))
+                                           (»))
+                                         (N<:pp 
+                                           (H:prp:sem:::: sem)
+                                           (P<:np 
+                                             (H:n:existência:F_S::np-idf: existência)
+                                             (N<:adjp 
+                                               (H:adj:prático:F_S::: prática))))
+                                         ({)
+                                         (APP:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:SIED:M_S::: SIED))
+                                         (}))
+                                       (CO:conj-c:e:::co-vfin: e)
+                                       (CJT:np 
+                                         (H:pron-det:outro:F_S::diff: outra)
+                                         (N<:fcl 
+                                           (SUBJ:np 
+                                             (H:pron-indp:que:F_S::rel: que))
+                                           (P:vp 
+                                             (MV:v-fin:assegurar:IMPF_3S_IND::fs-rel: assegurava))
+                                           (ACC:np 
+                                             (>N:art:o:F_P::artd: as)
+                                             (H:n:função:F_P::np-def: funções)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:S::artd: a)
+                                                 (H:adj:primeiro:F_S::NUM-ord:np-def: primeira)))))
+                                         ({)
+                                         (APP:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:prop:Dinfo:F_S::: Dinfo))
+                                         (}))))
+                       (.)))

@@ -1,0 +1,36 @@
+(FRASE CP910-3 (STA:fcl (ADVL:advp (H:adv:no_entanto:kc: No_entanto))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:partido:M_S::np-def: partido)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Chung:M_S::: Chung))))
+                        (ADVL:advp (H:adv:só:::: só))
+                        (P:vp (MV:v-fin:precisar:PR_3S_IND::: precisa))
+                        (PIV:pp (H:prp:de:::: de)
+                                (P<:np (>N:num:20:M_P::card: 20)
+                                       (H:n:lugar:M_P::anr_np-count:anr_np-def: lugares)))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:constituir:::icl-fin: constituir))
+                                   (ACC:np 
+                                     (>N:art:um:M_S::arti: um)
+                                     (H:n:bloco:M_S::np-idf: bloco)
+                                     (N<:adjp 
+                                       (H:adj:parlamentar:M_S::: parlamentar))
+                                     (N<:fcl 
+                                       (ADVL:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (H:pron-indp:o_qual:M_S::rel: o_qual)))
+                                       (ACC:np 
+                                         (H:pron-pers:se:M_3S_ACC::refl: se))
+                                       (P:vp 
+                                         (MV:v-fin:tornar:FUT_3S_IND::fs-rel: tornará))
+                                       (OC:adjp 
+                                         (H:adj:necessário:M_S::: necessário))
+                                       (SUBJ:icl 
+                                         (P:vp 
+                                           (MV:v-inf:negociar:::icl-subst: negociar)))))))
+                        (--)))

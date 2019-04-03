@@ -1,0 +1,81 @@
+(FRASE CP790-4 (UTT:cu (STA:fcl- (PRED:icl::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:marcar:F_S::: Marcada))
+                                   (ADVL:advp 
+                                     (H:adv:inicialmente:::: inicialmente))
+                                   (ADVL:pp 
+                                     (H:prp:para:::: para)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:fim:M_S::np-def: fim)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:presidência:F_S::np-def: presidência)
+                                           (N<:adjp 
+                                             (H:adj:português:F_S::: portuguesa))
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:F_P::artd: as)
+                                               (H:prop:Comunidades:F_P::: Comunidades)))))
+                                       (,)
+                                       (N<PRED:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np::::date: 
+                                           (H:n:junho:M_S::anr_np-idf:prop: Junho)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:num:1992:M_S::card: 1992)))))
+                                       (,))))
+                                 (PRED:icl::::pcp: 
+                                   (ADVL:advp 
+                                     (H:adv:depois:::: depois))
+                                   (P:vp 
+                                     (MV:v-pcp:anunciar:F_S::: anunciada))
+                                   (ADVL:pp 
+                                     (H:prp:para:::: para)
+                                     (P<:np::::date: 
+                                       (H:n:abril:M_S::anr_np-idf:prop: Abril)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:num:1994:M_S::card: 1994)))))
+                                   (,)
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Centro_Cultural_de_Belém:M_S::: Centro_Cultural_de_Belém)))))
+                       ({)
+                       (CMD:fcl (P:vp (MV:v-inf:ver:::: ver))
+                                (ACC:np (H:prop:Público:M_S::: PÚBLICO)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:10/2/1992:M_S::: 10/2/1992)))))
+                       (})
+                       (-STA:fcl (SUBJ:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:ópera:F_S::np-def: ópera))
+                                 (ADVL:advp 
+                                   (H:adv:só:::: só))
+                                 (P:vp (AUX:v-fin:poder:FUT_3S_IND::: poderá)
+                                       (AUX:v-inf:ser:::: ser)
+                                       (MV:v-pcp:apresentar:F_S::anr_pass:passive: apresentada))
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em)
+                                   (P<:np 
+                                     (H:cu 
+                                       (CJT:np 
+                                         (H:n:janeiro:M_S::np-idf:prop: Janeiro))
+                                       (/)
+                                       (CJT:np::::date: 
+                                         (H:n:fevereiro:M_S::anr_np-idf:prop: Fevereiro)))
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:adjp 
+                                         (H:num:1995:M_S::card: 1995))))))
+                       (.)))

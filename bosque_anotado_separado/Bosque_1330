@@ -1,0 +1,58 @@
+(FRASE CP247-2 (STA:fcl (ADVL:pp (H:prp:em:: em)
+                                 (P<:np (H:prop:Barcelos:M_S::: Barcelos)))
+                        (,)
+                        (SUBJ:np (>N:pron-det:o:M_S::artd: o)
+                                 (H:prop:Óquei:M_S::: Óquei))
+                        (P:vp (MV:v-fin:receber:PR_3S_IND::: recebe))
+                        (ACC:np (>N:pron-det:o:M_S::artd: o)
+                                (H:prop:Benfica:M_S::: Benfica))
+                        (,)
+                        (S<:np (H:n:partida:F_S::np-idf: partida)
+                               (N<:fcl (ACC:np 
+                                         (H:pron-indp:que:F_S::rel: que))
+                                       (P:vp 
+                                         (AUX:v-fin:poder:FUT_3S_IND::: poderá)
+                                         (MV:v-inf:servir:_::fs-rel:nosubj: servir))
+                                       (PIV:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:pron-det:o:M_P::artd: os)
+                                           (H:n:minhoto:M_P::np-def: minhotos)))
+                                       (ADVL:pp 
+                                         (H:prp:para:::: para)
+                                         (P<:icl 
+                                           (P:vp 
+                                             (MV:v-inf:recuperar:3P::icl-fin: recuperarem))
+                                           (ADVL:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (>N:pron-det:um:F_S::arti: uma)
+                                               (H:n:campanha:F_S::np-idf: campanha)
+                                               (N<:adjp 
+                                                 (H:adj:fraco:F_S::: fraca))
+                                               ({)
+                                               (N<PRED:cu 
+                                                 (CJT:np 
+                                                   (>N:num:três:F_P::card: três)
+                                                   (H:n:derrota:F_P::anr_np-count:anr_np-def: derrotas))
+                                                 (CO:conj-c:e:::co-pred: e)
+                                                 (CJT:np 
+                                                   (>N:pron-det:um:M_S::arti: um)
+                                                   (H:n:empate:M_S::np-idf: empate)))
+                                               (})))))))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:enquanto:::ks: enquanto))
+                                  (SUBJ:np 
+                                    (>N:pron-det:o:M_P::artd: os)
+                                    (H:n:benfiquista:M_P::DERS:np-def: benfiquistas))
+                                  (P:vp (MV:v-fin:tentar:FUT_3P_IND::: tentarão))
+                                  (ACC:icl 
+                                    (P:vp 
+                                      (MV:v-inf:manter:::icl-subst: manter))
+                                    (ACC:np 
+                                      (>N:pron-det:o:M_S::artd: o)
+                                      (H:n:percurso:M_S::np-def: percurso))
+                                    (OC:adjp 
+                                      (H:adj:vitorioso:M_S::: vitorioso))))
+                        (.)))

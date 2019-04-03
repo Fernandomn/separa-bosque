@@ -1,0 +1,87 @@
+(FRASE CP893-6 (STA:fcl (SUBJ:np (H:prop:Jorge_Petiz:M_S: Jorge_Petiz)
+                                 (,)
+                                 (N<PRED:pp 
+                                   (H:prp:em:::: em)
+                                   (P<:np 
+                                     (H:prop:Porsche_Carrera_RSR:M_S::: Porsche_Carrera_RSR)))
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:concorrente:M_S::np-idf: concorrente)
+                                   (N<:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Campeonato_Nacional_de_Velocidade:M_S::: Campeonato_Nacional_de_Velocidade)
+                                       ({)
+                                       (APP:np 
+                                         (H:prop:CNV:M_S::: CNV))
+                                       (})
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n-adj:clássico:M_P::: Clássicos))))))
+                                 (,))
+                        (P:vp (MV:v-fin:ser:PS_3S_IND::: foi))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (SC:np (>N:art:o:M_S::artd: o)
+                               (H:n:piloto:M_S::np-def: piloto)
+                               (N<:adjp (>A:adv:mais:_::KOMP:quant: mais)
+                                        (H:adj:rápido:M_S::: rápido)))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:conjunto:M_S::np-def: conjunto)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (>N:num:dois:F_P::card: duas)
+                                            (H:n:sessão:F_P::anr_np-count:anr_np-def: sessões)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:treino:M_P::np-idf: treinos)
+                                                (N<:pp 
+                                                  (H:prp:para:::: para)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:prop:Rampa_da_Arrábida:F_S::: Rampa_da_Arrábida)
+                                                    (,)
+                                                    (N<PRED:adjp 
+                                                      (H:adj:pontuável:F_S::: pontuável)
+                                                      (A<:pp 
+                                                        (H:prp:para:::: para)
+                                                        (P<:cu 
+                                                          (CJT:np 
+                                                            (>N:art:o:M_S::artd: o)
+                                                            (H:prop:Nacional:M_S::: Nacional))
+                                                          (CO:conj-c:e:::co-prparg: e)
+                                                          (CJT:np 
+                                                            (H:n:troféu:M_P::np-idf: troféus)
+                                                            (N<:cu 
+                                                              (CJT:adjp 
+                                                                (H:adj:monomarca:M_P::: monomarca))
+                                                              (CO:conj-c:e:::co-postnom: e)
+                                                              (CJT:np 
+                                                                («)
+                                                                (H:prop:Challenge:M_S::: Challenge)
+                                                                (»)
+                                                                (N<:np 
+                                                                  (H:prop:FIA:M_S::: FIA))
+                                                                (N<:pp 
+                                                                  (H:prp:de:::: de)
+                                                                  (P<:np 
+                                                                    (H:n:montanha:F_S::np-idf: Montanha)))
+                                                                (,)
+                                                                (APP:np 
+                                                                  (H:n:prova:F_S::np-idf: prova)
+                                                                  (N<:fcl 
+                                                                    (SUBJ:np 
+                                                                      (H:pron-indp:que:F_S::rel: que))
+                                                                    (ADVL:np 
+                                                                      (>N:pron-det:este:F_S::dem: esta)
+                                                                      (H:n:manhã:F_S::np-def: manhã))
+                                                                    (ACC-PASS:np 
+                                                                      (H:pron-pers:se:F_3S_ACC::: se))
+                                                                    (P:vp 
+                                                                      (MV:v-fin:disputar:PR_3S_IND::fs-rel:se-passive: disputa))))))))))))))))))
+                        (.)))

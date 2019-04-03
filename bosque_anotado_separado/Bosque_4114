@@ -1,0 +1,33 @@
+(FRASE CP803-2 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                        (SC:adjp (H:adj:escasso:F_P::: escassas))
+                        (SUBJ:np (>N:art:o:F_P::artd: as)
+                                 (H:n:informação:F_P::np-def: informações)
+                                 (N<:pp (H:prp:sobre:::: sobre)
+                                        (P<:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (>N:pron-det:várias:F_P::quant: várias)
+                                          (H:n:frente:F_P::anr_np-def: frentes)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:combate:M_S::np-idf: combate))))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:desconhecer:::hyfen: desconhecendo-))
+                          (SUBJ:np (H:pron-pers:se:MF_3SP_ACC::: se))
+                          (ACC:fcl (ADVL:advp 
+                                     (H:adv:até_que_ponto:::interr: até_que_ponto))
+                                   (SUBJ:np 
+                                     (>N:art:o:F_P::artd: as)
+                                     (H:n:força:F_P::np-def: forças)
+                                     (N<:adjp 
+                                       (H:adj:governamental:F_P::: governamentais)))
+                                   (P:vp 
+                                     (MV:v-fin:progredir:PR_3P_IND::fs-subst: progridem))
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:terreno:M_S::np-def: terreno)))))
+                        (.)))

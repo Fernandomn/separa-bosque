@@ -1,0 +1,84 @@
+(FRASE CP864-4 (STA:fcl (X:cu (CJT:fcl (SUBJ:np 
+                                         (>N:art:o:M_S::artd: O)
+                                         (H:n:volume:M_S::np-def: volume)
+                                         (N<:pp 
+                                           (H:prp:de:: de)
+                                           (P<:np 
+                                             (H:n:facturação:F_S::np-idf: facturação))))
+                                       (P:vp 
+                                         (MV:v-fin:ascender:PS_3S_IND::: ascendeu))
+                                       (SA:pp 
+                                         (H:prp:a:::: a)
+                                         (P<:np 
+                                           (>N:num:42:M_P::card: 42)
+                                           (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                           (N<ARG:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:conto:M_P::np-dequant:np-idf: contos))))))
+                              (,)
+                              (CJT:fcl (SUBJ:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:resultado:M_P::np-def: resultados)
+                                         (N<:adjp 
+                                           (H:adj:operacional:M_P::: operacionais))
+                                         (N<:v-pcp:consolidar:M_P::: consolidados))
+                                       (P:vp 
+                                         (MV:v-fin:ser:PS_3P_IND::: foram))
+                                       (SC:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (>N:num:1,1:M_P::card: 1,1)
+                                           (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                           (N<ARG:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:conto:M_P::np-dequant:np-idf: contos)))
+                                           ({)
+                                           (N<PRED:pp 
+                                             (H:prp:contra:::: contra)
+                                             (P<:np 
+                                               (>N:np 
+                                                 (>A:num:652,4:M_P::card: 652,4)
+                                                 (H:n:mil:M_P::card:num: mil))
+                                               (H:n:conto:M_P::anr_np-count:anr_np-def: contos)
+                                               (N<:icl::::pcp: 
+                                                 (P:vp 
+                                                   (MV:v-pcp:registar:M_P::: registados))
+                                                 (ADVL:pp 
+                                                   (H:prp:em:::: em)
+                                                   (P<:np 
+                                                     (H:num:1995:M_S::card: 1995))))))
+                                           (})))))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:enquanto:_::ks:rel: enquanto))
+                                  (SUBJ:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (H:n:resultado:M_P::np-def: resultados)
+                                    (N<:adjp 
+                                      (H:adj:corrente:M_P::: correntes)))
+                                  (P:vp (MV:v-fin:totalizar:PS_3P_IND::: totalizaram))
+                                  (ACC:np 
+                                    (>N:np 
+                                      (>A:num:342,4:M_P::card: 342,4)
+                                      (H:n:mil:M_P::card:num: mil))
+                                    (H:n:conto:M_P::anr_np-count:anr_np-def: contos)
+                                    ({)
+                                    (N<PRED:adjp 
+                                      (>N:adjp- 
+                                        (>A:adv:mais:_::KOMP:quant: mais)
+                                        (H:num:159,2:M_P::card: 159,2))
+                                      (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                      (->N:adjp 
+                                        (KOMP<:acl 
+                                          (COM:conj-s:do_que:::: do_que)
+                                          (SA:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:ano:M_S::np-def: ano)
+                                              (N<:adjp 
+                                                (H:adj:anterior:M_S::: anterior)))))))
+                                    (})))
+                        (.)))

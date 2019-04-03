@@ -1,0 +1,81 @@
+(FRASE CP432-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:movimento:M_S::np-def: movimento)
+                                 (N<:adjp 
+                                   (H:adj:ecologista:M_S: ecologista))
+                                 (N<:adjp 
+                                   (H:adj:búlgaro:M_S::: búlgaro))
+                                 (N<:np (H:prop:Ecoglasnost:M_S::: Ecoglasnost)))
+                        (P:vp (MV:v-fin:pedir:PS_3S_IND::: pediu))
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:M_P::artd: os)
+                                       (H:n:país:M_P::np-def: países)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:prop:CEE:F_S::: CEE)))))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:fornecer:::icl-fin: fornecer))
+                                   (ADVL:advp 
+                                     (H:adv:gratuitamente:::: gratuitamente))
+                                   (ACC:np 
+                                     (H:n:energia:F_S::np-idf: energia))
+                                   (PIV:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:prop:Bulgária:F_S::: Bulgária)))
+                                   (ADVL:pp 
+                                     (H:prp:com:::: com)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:objectivo:M_S::np-def: objectivo)
+                                       (N<ARGO:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:icl 
+                                           (P:vp 
+                                             (MV:v-inf:possibilitar:::: possibilitar))
+                                           (ACC:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:encerramento:M_S::np-def: encerramento)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:n:central:F_S::np-def: central)
+                                                 (N<:adjp 
+                                                   (H:adj:nuclear:F_S::: nuclear))
+                                                 (N<:pp 
+                                                   (H:prp:de:::: de)
+                                                   (P<:np 
+                                                     (H:prop:Kozlodoui:MF_S::: Kozlodoui)))
+                                                 (,)
+                                                 (N<PRED:cu 
+                                                   (CJT:icl::::pcp: 
+                                                     (P:vp 
+                                                       (MV:v-pcp:situar:F_S::: situada))
+                                                     (SA:pp 
+                                                       (H:prp:em:::: em+)
+                                                       (P<:np 
+                                                         (>N:art:o:M_S::artd: o)
+                                                         (H:prop:Danúbio:M_S::: Danúbio))))
+                                                   (CO:conj-c:e:::co-pred: e)
+                                                   (CJT:icl::::pcp: 
+                                                     (P:vp 
+                                                       (MV:v-pcp:considerar:F_S::: considerada))
+                                                     (SC:adjp 
+                                                       (H:adj:perigoso:F_S::: perigosa))
+                                                     (PASS:pp 
+                                                       (H:prp:por:::: por+)
+                                                       (P<:np 
+                                                         (>N:art:o:M_P::artd: os)
+                                                         (H:n:perito:M_P::np-def: peritos)
+                                                         (N<:cu 
+                                                           (CJT:adjp 
+                                                             (H:adj:búlgaro:M_P::: búlgaros))
+                                                           (CO:conj-c:e:::co-postnom: e)
+                                                           (CJT:adjp 
+                                                             (H:adj:internacional:M_P::: internacionais))))))))))))))))
+                        (.)))

@@ -1,0 +1,51 @@
+(FRASE CP550-4 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:muro:M_S::np-def: muro)
+                                 (N<:adjp 
+                                   (H:adj:contíguo:M_S: contíguo)
+                                   (A<:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:portal:M_S::np-def: portal))))
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:parte:F_S::np-idf: parte)
+                                   (N<ARG:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:estrutura:F_S::np-def:np-partitive2: estrutura)
+                                       (N<:adjp 
+                                         (H:adj:original:F_S::: original)))))
+                                 (,))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:v-pcp:desmantelar:M_S::anr_pass:passive: desmantelado))
+                        (ADVL:pp (H:prp:durante:::: durante)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:implantação:F_S::np-def: implantação)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (>N:adj:novo:F_S::: nova)
+                                            (H:n:via:F_S::anr_np-def: via)))
+                                        (,)
+                                        (N<PRED:np 
+                                          (H:n:obra:F_S::np-idf: obra)
+                                          (N<:fcl 
+                                            (SUBJ:np 
+                                              (H:pron-indp:que:F_S::rel: que))
+                                            (P:vp 
+                                              (MV:v-fin:estar:PS_3S_IND::fs-rel: esteve))
+                                            (SC:pp 
+                                              (H:prp:a_cargo_de:::: a_cargo_de+)
+                                              (P<:np 
+                                                (>N:art:o:F_P::artd: as)
+                                                (H:n:empresa:F_P::anr_np-idf: empresas)
+                                                (N<:cu 
+                                                  (CJT:np 
+                                                    (H:prop:Soares_da_Costa:M_S::: Soares_da_Costa))
+                                                  (CO:conj-c:e:::co-postnom: e)
+                                                  (CJT:np 
+                                                    (H:prop:Monte_&_Monte:M_S::: Monte_&_Monte)))))))))
+                        (.)))

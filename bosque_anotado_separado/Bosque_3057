@@ -1,0 +1,81 @@
+(FRASE CP588-5 (STA:fcl (PRED:np (H:n:europeísta:M_S::np-idf: Europeísta)
+                                 (N<:adjp 
+                                   (H:adj:convicto:M_S: convicto))
+                                 (,)
+                                 (N<PRED:fcl 
+                                   (ADVL:advp 
+                                     (H:adv:como:::rel: como))
+                                   (ADVL:pp:de_resto:::: de_resto)
+                                   (SC:np 
+                                     (H:pron-pers:ele:M_3S_ACC::: o))
+                                   (P:vp 
+                                     (MV:v-fin:ser:PR_3P_IND::fs-rel: são))
+                                   (SUBJ:np 
+                                     (>N:pron-det:todo_o:M_P::quant: todos_os)
+                                     (H:n:governo:M_P::anr_np-def: governos)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:pron-det:este:M_S::dem: este)
+                                         (>N:adj:pequeno:M_S::: pequeno)
+                                         (H:n:país:M_S::anr_np-def: país)
+                                         (,)
+                                         (N<PRED:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:dividir:M_S::: dividido))
+                                           (ADVL:pp 
+                                             (H:prp:a:::: a+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:meio:M_S::np-def: meio)))
+                                           (PASS:cu 
+                                             (CJT:pp 
+                                               (H:prp:por:::: por+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:n:língua:F_S::np-def: língua)))
+                                             (CO:conj-c:e:::co-pass: e)
+                                             (CJT:pp 
+                                               (H:prp:por:::: por+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:n:cultura:F_S::np-def: cultura))))
+                                           (,)
+                                           (ADVL:pp 
+                                             (H:prp:entre:::: entre)
+                                             (P<:cu 
+                                               (CJT:np 
+                                                 (>N:art:um:M_S::arti: um)
+                                                 (H:prop:Norte:M_S::: Norte)
+                                                 (N<:adjp 
+                                                   (H:adj:flamengo:M_S::: flamengo)))
+                                               (CO:conj-c:e:::co-prparg: e)
+                                               (CJT:np 
+                                                 (>N:art:um:M_S::arti: um)
+                                                 (H:prop:Sul:M_S::: Sul)
+                                                 (N<:adjp 
+                                                   (H:adj:francófono:M_S::: francófono)))))))))))
+                        (,)
+                        (SUBJ:np (H:prop:Tindemans:M_S::: Tindemans))
+                        (P:vp (MV:v-fin:defender:PR_3S_IND::: defende))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:grau:M_S::np-def: grau)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:união:F_S::np-idf: união)
+                                       (N<:adjp 
+                                         (H:adj:político:F_S::: política))))
+                                   (N<:icl::::pcp: 
+                                     (P:vp 
+                                       (MV:v-pcp:conseguir:M_S::: conseguido))
+                                     (ADVL:pp 
+                                       (H:prp:em:::: em)
+                                       (P<:np 
+                                         (H:prop:Maastricht:M_S::: Maastricht)))))
+                                 (P:vp (MV:v-fin:ser:PR_3S_IND::fs-subst: é))
+                                 (SC:adjp 
+                                   (H:adj:insuficiente:M_S::: insuficiente)))
+                        (.)))

@@ -1,0 +1,64 @@
+(FRASE CP832-2 (STA:fcl (SUBJ:np (H:pron-det:este:F_S::dem: Esta))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND: é))
+                        (SC:cu (CJT:adjp 
+                                 (>A:adv:bem:::quant: bem)
+                                 (H:adj:real:F_S::: real))
+                               (CO:conj-c:e:::co-sc: e)
+                               (CJT:np (>N:art:um:M_S::arti: um)
+                                       (H:n:exemplo:M_S::np-idf: exemplo)
+                                       (N<ARGO:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:fcl 
+                                           (SUB:conj-s:que:::: que)
+                                           (P:vp 
+                                             (AUX:v-fin:poder:PR_3S_IND::: pode)
+                                             (MV:v-inf:acontecer:_::fs-subst:nosubj: acontecer))
+                                           (PIV:pp 
+                                             (H:prp:a:::: a)
+                                             (P<:np 
+                                               (>N:pron-det:qualquer:F_S::quant: qualquer)
+                                               (H:n:mãe:F_S::anr_np-idf: mãe)
+                                               (N<:fcl 
+                                                 (SUBJ:np 
+                                                   (H:pron-indp:que:F_S::rel: que))
+                                                 (,)
+                                                 (ADVL:pp 
+                                                   (H:prp:a:::: a+)
+                                                   (P<:np 
+                                                     (>N:art:o:M_S::artd: o)
+                                                     (H:icl 
+                                                       (P:vp 
+                                                         (MV:v-inf:tirar:3S::icl-temp: tirar))
+                                                       (ACC:np 
+                                                         (>N:art:um:F_S::arti: uma)
+                                                         (H:n:ecografia:F_S::anr_np-def: ecografia)))))
+                                                 (,)
+                                                 (P:vp 
+                                                   (MV:v-fin:descobrir:PR_3S_IND::fs-rel: descobre))
+                                                 (ACC:fcl 
+                                                   (SUB:conj-s:que:::: que)
+                                                   (ADVL:advp 
+                                                     (H:adv:não:::: não))
+                                                   (P:vp 
+                                                     (MV:v-fin:ser:PR_3S_IND::fs-subst:nosubj: é))
+                                                   (SC:np 
+                                                     (>N:cu 
+                                                       (CJT:np 
+                                                         (H:num:um:M_S::card: um))
+                                                       (,)
+                                                       (CO:conj-c:mas:::co-prenom: mas)
+                                                       (CJT:adjp 
+                                                         (H:num:três:M_P::card: três)))
+                                                     (H:n:filho:M_P::anr_np-count:anr_np-def: filhos)
+                                                     (N<:fcl 
+                                                       (ACC:np 
+                                                         (H:pron-indp:que:M_P::rel: que))
+                                                       (P:vp 
+                                                         (AUX:v-fin:ir:PR_3S_IND::: vai)
+                                                         (MV:v-inf:dar:_::fs-rel:nosubj: dar))
+                                                       (PIV:pp 
+                                                         (H:prp:a:::: a+)
+                                                         (P<:np 
+                                                           (>N:art:o:F_S::artd: a)
+                                                           (H:n:luz:F_S::np-def: luz)))))))))))))
+                        (.)))

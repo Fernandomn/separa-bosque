@@ -1,0 +1,31 @@
+(FRASE CP545-1 (STA:fcl (ADVL:pp (H:prp:ao_longo_de:: Ao_longo_de+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:semana:F_S::anr_np-idf: semana)))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:prop:Banco_de_Portugal:M_S::: Banco_de_Portugal))
+                        (P:vp (MV:v-fin:ceder:PS_3S_IND::: cedeu))
+                        (ACC:np (H:n:liquidez:F_S::np-idf: liquidez)
+                                (N<:pp (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:um:M_S::arti: um)
+                                         (H:n:montante:M_S::np-idf: montante)
+                                         (N<:adjp 
+                                           (H:adj:alto:M_S::KOMP: superior)
+                                           (A<:pp 
+                                             (H:prp:a:::: a+)
+                                             (P<:np 
+                                               (H:pron-det:o:M_S::: o)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:F_S::artd: a)
+                                                   (H:n:semana:F_S::np-def: semana)
+                                                   (N<:adjp 
+                                                     (H:adj:anterior:F_S::: anterior))))))))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (AUX:v-ger:ter:::: tendo)
+                                (MV:v-pcp:manter:::: mantido))
+                          (ACC:np (>N:art:o:F_P::artd: as)
+                                  (H:n:taxa:F_P::np-def: taxas)))
+                        (.)))

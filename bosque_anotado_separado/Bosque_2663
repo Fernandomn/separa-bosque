@@ -1,0 +1,21 @@
+(FRASE CP506-5 (UTT:np (>N:pron-det:todo_o:F_S::quant: Toda_a)
+                       (H:n:comédia:F_S::anr_np-def: comédia)
+                       (N<:adjp (H:adj:humano:F_S: humana))
+                       (N<:pp (H:prp:em:::: em+)
+                              (P<:np (>N:art:um:F_S::arti: uma)
+                                     (H:n:dança:F_S::np-idf: dança)))
+                       (N<:pp (H:prp:à_beira_de:::: à_beira_de+)
+                              (P<:np (>N:art:o:M_S::artd: o)
+                                     (H:n:precipício:M_S::anr_np-idf: precipício)
+                                     (,)
+                                     (APP:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:guerra:F_S::np-def: guerra)
+                                       (N<:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:F_S::rel: que))
+                                         (ACC:np 
+                                           (H:pron-pers:se:F_3S_ACC::refl: se))
+                                         (P:vp 
+                                           (MV:v-fin:avizinhar:PR_3S_IND::fs-rel: avizinha))))))
+                       (.)))

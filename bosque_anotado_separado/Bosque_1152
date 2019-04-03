@@ -1,0 +1,84 @@
+(FRASE CP211-2 (STA:fcl (ADVL:advp (H:adv:no_entanto:kc: No_entanto))
+                        (,)
+                        (SUBJ:np (>N:pron-det:este:M_S::dem: este)
+                                 (H:n:especialista:M_S::np-def: especialista)
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:psiquiatra:M_S::np-idf: psiquiatra)
+                                   (N<:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Hospital_de_Santa_Maria:M_S::: Hospital_de_Santa_Maria))))
+                                 (,))
+                        (P:vp (MV:v-fin:considerar:PR_3S_IND::: considera))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 («)
+                                 (ADVL:advp 
+                                   (H:adv:não:::: não))
+                                 (P:vp (MV:v-fin:haver:PR_3S_IND::fs-subst:nofsubj: há))
+                                 (ACC:np 
+                                   (H:n:razão:F_P::np-idf: razões)
+                                   (N<:cu 
+                                     (CJT:adjp 
+                                       (H:adj:médico:F_P::: médicas))
+                                     (,)
+                                     (CJT:adjp 
+                                       (H:adj:cultural:F_P::: culturais))
+                                     (CO:conj-c:ou:::co-postnom: ou)
+                                     (CJT:adjp 
+                                       (H:adj:social:F_P::: sociais)))
+                                   (N<:fcl 
+                                     (SUBJ:np 
+                                       (H:pron-indp:que:M_S::rel: que))
+                                     (DAT:np 
+                                       (H:pron-pers:nós:MF_1P_ACC/DAT::refl: nos))
+                                     (P:vp 
+                                       (MV:v-fin:permitir:PR_3P_SUBJ::fs-rel: permitam))
+                                     (ACC:icl 
+                                       (P:vp 
+                                         (MV:v-inf:pensar:::icl-subst: pensar))
+                                       (ACC:fcl 
+                                         (SUB:conj-s:que:::: que)
+                                         (SUBJ:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:frequência:F_S::np-def: frequência)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:S::artd: a)
+                                               (H:n:depressão:F_S::np-def: depressão))))
+                                         (P:vp 
+                                           (MV:v-fin:ser:PR_3S_SUBJ::fs-subst: seja))
+                                         (SC:adjp 
+                                           (H:adj:diferente:F_S::: diferente)
+                                           (A<:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (>N:pron-det:nosso:M_S::: nosso)
+                                               (H:n:país:M_S::anr_np-def: país))))))))
+                                 (,)
+                                 (ADVL:pp 
+                                   (H:prp:por:::: por+)
+                                   (P<:np 
+                                     (H:pron-det:o:M_S::: o)
+                                     (N<:fcl 
+                                       (ACC:np 
+                                         (H:pron-indp:que:M_S::rel: que))
+                                       (SUBJ:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:dado:M_P::np-def: dados)
+                                         (N<:adjp 
+                                           (H:adj:internacional:M_P::: internacionas)))
+                                       (P:vp 
+                                         (AUX:v-fin:poder:PR_3P_IND::: podem)
+                                         (AUX:v-inf:ser:::: ser)
+                                         (MV:v-pcp:extrapolar:M_P::anr_pass:fs-rel:passive: extrapolados))
+                                       (ADVL:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (>N:pron-det:algum:F_S::quant: alguma)
+                                           (H:n:segurança:F_S::anr_np-idf: segurança))))))
+                                 (»))
+                        (.)))

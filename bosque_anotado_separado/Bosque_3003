@@ -1,0 +1,79 @@
+(FRASE CP581-3 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:pron-det:este:F_S::dem: esta)
+                                        (H:n:reflexão:F_S::np-def: reflexão)
+                                        (N<ARGO:pp 
+                                          (H:prp:sobre:::: sobre)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:futuro:M_S::np-def: futuro)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:economia:F_S::np-def: economia)
+                                                (N<:adjp 
+                                                  (H:adj:europeu:F_S::: europeia))
+                                                (N<:adjp 
+                                                  (>A:ec:pós-:::: pós-)
+                                                  (H:adj:GATT:F_S::: GATT))))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:professor:M_S::np-def: professor)
+                                 (N<:adjp 
+                                   (H:adj:alemão:M_S::: alemão)))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:adjp (H:adj:peremptório:M_S::: peremptório)
+                                 (A<arg:pp 
+                                   (H:prp:em:::: em)
+                                   (P<:icl 
+                                     (P:vp 
+                                       (MV:v-inf:afirmar:::: afirmar))
+                                     (ACC:fcl 
+                                       (SUB:conj-s:que:::: que)
+                                       («)
+                                       (SUBJ:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:salário:M_P::np-def: salários))
+                                       (P:vp 
+                                         (AUX:v-fin:ir:PR_3P_IND::: vão)
+                                         (MV:v-inf:descer:::icl-subst: descer))
+                                       (»)
+                                       (,)
+                                       (ADVL:pp 
+                                         (H:prp:em_função_de:::: em_função_de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           («)
+                                           (H:n:aumento:M_S::anr_np-idf: aumento)
+                                           (N<ARGO:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:competição:F_S::np-def: competição)
+                                               (N<ARGS:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:F_P::artd: as)
+                                                   (H:n:empresa:F_P::np-def: empresas)))))
+                                           (»)))
+                                       (,)
+                                       (ADVL:pp 
+                                         (H:pp:ao_mesmo_tempo:::: ao_mesmo_tempo)
+                                         (N<:fcl 
+                                           (SUB:conj-s:que:::: que)
+                                           («)
+                                           (SUBJ:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:desemprego:M_S::np-def: desemprego))
+                                           (ADVL:advp 
+                                             (H:adv:provavelmente:::: provavelmente))
+                                           (X:cu 
+                                             (CJT:x::::predicate: 
+                                               (P:vp 
+                                                 (MV:v-fin:crescer:FUT_3S_IND::: crescerá)))
+                                             (CO:conj-c:ou:::co-vfin: ou)
+                                             (CJT:x::::predicate: 
+                                               (P:vp 
+                                                 (MV:v-fin:estabilizar:FUT_3S_IND::nosubj: estabilizará))))
+                                           (»)))))))
+                        (.)))

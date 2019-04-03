@@ -1,0 +1,41 @@
+(FRASE CP262-1 (STA:fcl (SUBJ:np (>N:pron-det:cada:M_S::quant: Cada)
+                                 (H:n:dia:M_S: dia)
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:M_S::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:passar:PR_3S_IND::fs-rel: passa))))
+                        (P:vp (MV:v-fin:tornar:PR_3S_IND::: torna))
+                        (OC:adjp (>A:adv:mais:::quant: mais)
+                                 (H:adj:evidente:M_S::: evidente))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:voto:M_S::: voto)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:eleitor:M_P::: eleitores)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Entre_Douro_e_Minho:M_S::: Entre_Douro_e_Minho))))))
+                                 (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                                       (MV:v-inf:ser:::icl-subst: ser))
+                                 (SC:adjp 
+                                   (H:adj:decisivo:M_S::: decisivo)
+                                   (A<:pp 
+                                     (H:prp:para:::: para)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:resultado:M_S::: resultado)
+                                       (N<:adjp 
+                                         (H:adj:final:M_S::: final))
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:referendo:M_S::: referendo)))))))
+                        (.)))

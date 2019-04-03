@@ -1,0 +1,38 @@
+(FRASE CP908-4 (STA:fcl (SUBJ:np (>N:pron-det:vários:M_P::quant: Vários)
+                                 (H:n:estudo:M_P::anr_np-idf: estudos))
+                        (P:vp (AUX:v-fin:ter:PR_3P_IND: têm)
+                              (MV:v-pcp:mostrar:::: mostrado))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:pron-det:este:M_P::dem: estes)
+                                   (H:n:linfoma:M_P::np-def: linfomas))
+                                 (P:vp (MV:v-fin:regredir:PR_3P_IND::fs-subst: regridem))
+                                 (ADVL:advp 
+                                   (H:adv:depois:::: depois)
+                                   (A<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:tratamento:M_P::np-idf: tratamentos)
+                                       (N<:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:dirigir:M_P::: dirigidos))
+                                         (PIV:pp 
+                                           (H:prp:a:::: a+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:prop:HP:M_P::: HP)))))))
+                                 (,)
+                                 (S<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:o_que:M_S::rel: o_que))
+                                   (P:vp 
+                                     (MV:v-fin:sugerir:PR_3S_IND::: sugere))
+                                   (ACC:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:relação:F_S::np-idf: relação)
+                                     (N<ARGO:pp 
+                                       (H:prp:entre:::: entre)
+                                       (P<:adjp 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:num:dois:M_P::card:np-def: dois))))))
+                        (.)))

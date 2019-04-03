@@ -1,0 +1,45 @@
+(FRASE CP957-1 (UTT:sq (UTT:np (H:n:R.:F_S::np-idf: R.))
+                       (--)
+                       (STA:fcl (SUBJ:np 
+                                  (>N:art:o:M_S::artd: O)
+                                  (H:n:presidente:M_S::np-def:prop: Presidente))
+                                (P:vp (MV:v-fin:ter:PR_3S_IND: tem))
+                                (ACC:np (>N:art:um:M_S::arti: um)
+                                        (H:n:prazo:M_S::np-idf: prazo)
+                                        (N<:pp 
+                                          (H:prp:até:::: até)
+                                          (P<:np::::date: 
+                                            (H:n:março:M_S::anr_np-idf:prop: Março)))
+                                        (N<:pp 
+                                          (H:prp:para:::: para)
+                                          (P<:icl 
+                                            (ACC:np 
+                                              (H:pron-pers:ele:M_3S_ACC::: o))
+                                            (X:cu 
+                                              (CJT:v-inf:assinar:::icl-fin: assinar)
+                                              (CO:conj-c:e:::co-inf: e)
+                                              (CJT:x 
+                                                (P:vp 
+                                                  (MV:v-inf:apresentar:::: apresentar))
+                                                (PIV:pp 
+                                                  (H:prp:a:::: a+)
+                                                  (P<:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (H:prop:Congresso:M_S::: Congresso)))))
+                                            (,)
+                                            (OC:acl 
+                                              (PRD:adv:como:::prp: como)
+                                              (SUBJ:np 
+                                                (>N:art:um:M_S::arti: um)
+                                                (H:n:pacote:M_S::np-idf: pacote)
+                                                (N<:fcl 
+                                                  (SUBJ:np 
+                                                    (H:pron-indp:que:M_S::rel: que))
+                                                  (P:vp 
+                                                    (AUX:v-fin:dever:FUT_3S_IND::: deverá)
+                                                    (AUX:v-inf:ser:::: ser)
+                                                    (MV:cu 
+                                                      (CJT:v-pcp:aceitar:M_S::: aceite)
+                                                      (CO:conj-c:ou:::co-pcv: ou)
+                                                      (CJT:v-pcp:rejeitar:M_S::: rejeitado)))))))))
+                                (.))))

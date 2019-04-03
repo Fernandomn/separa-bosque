@@ -1,0 +1,55 @@
+(FRASE CP674-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (>N:adj:antigo:M_S: ANTIGO)
+                                 (H:n:chefe:M_S::anr_np-def: chefe)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:estado:M_S::np-idf:prop: Estado)))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Uruguai:M_S::: Uruguai)))
+                                 (,)
+                                 (APP:np 
+                                   (H:prop:Julio_Sanguinetti:M_S::: Julio_Sanguinetti))
+                                 (,))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:v-pcp:eleger:M_S::anr_pass:passive: eleito))
+                        (PIV:pp (H:prp:para:::: para)
+                                (P<:np (>N:art:o:F_S::artd: a)
+                                       (H:prop:Presidência_da_República:F_S::: Presidência_da_República)))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_P::artd: as)
+                                        (H:n:eleição:F_P::np-def: eleições)
+                                        (N<:adjp 
+                                          (H:adj:geral:F_P::: gerais))
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:domingo:M_S::np-idf: domingo)))))
+                        (,)
+                        (ADVL:pp (H:prp:segundo:::: segundo)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:projecção:F_S::np-def: projecção)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:art:um:M_S::arti: um)
+                                            (H:n:instituto:M_S::np-idf: instituto)
+                                            (N<:adjp 
+                                              (H:adj:privado:M_S::: privado))))
+                                        (N<:pp 
+                                          (H:prp:após:::: após)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:escrutínio:M_S::np-def: escrutínio)
+                                            (N<ARGO:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (>N:num:15:M_P::card: 15)
+                                                (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:M_P::artd: os)
+                                                    (H:n:voto:M_P::np-def: votos)))))))))
+                        (.)))

@@ -1,0 +1,47 @@
+(FRASE CP628-5 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (>N:num:oito:M_P::card: oitos)
+                                 (H:n:actor:M_P::anr_np-count:anr_np-def: actores)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Grupo_Teatro_Terapêutico:M_S::: Grupo_Teatro_Terapêutico)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:prop:Hospital_Júlio_de_Matos:M_S::: Hospital_Júlio_de_Matos))))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:entregar:PR_3P_IND::hyfen: entregam-))
+                                (ACC:np (H:pron-pers:se:M_3P_ACC::: se))
+                                (ADVL:pp 
+                                  (H:prp:com:::: com)
+                                  (P<:np 
+                                    (>N:pron-det:tal:F_S::KOMP:diff: tal)
+                                    (H:cu 
+                                      (CJT:np 
+                                        (H:n:verdade:F_S::np-idf: verdade))
+                                      (CO:conj-c:e:::co-prparg: e)
+                                      (CJT:np 
+                                        (H:n:liberdade:F_S::np-idf: liberdade))))))
+                              (,)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:falar:PR_3P_IND::: falam))
+                                (ADVL:advp 
+                                  (>A:adv:tão:_::dem:quant: tão)
+                                  (H:adv:desassombradamente:::: desassombradamente))
+                                (PIV:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:temas-tabu:M_P::np-idf: temas-tabus)))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:que:::: que)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (H:n:espectador:M_P::np-def: espectadores))
+                                  (ACC:np 
+                                    (H:pron-pers:se:M_3P_ACC::: se))
+                                  (P:vp (MV:v-fin:sentir:PR_3P_IND::fs-cons: sentem))
+                                  (OC:pp 
+                                    (H:prp:em:::: em)
+                                    (P<:np 
+                                      (H:n:desvantagem:F_S::np-idf: desvantagem))))
+                        (.)))

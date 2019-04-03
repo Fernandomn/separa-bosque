@@ -1,0 +1,51 @@
+(FRASE CP901-4 (STA:fcl (ADVL:pp (H:prp:ao_longo_de:: Ao_longo_de+)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (>N:adj:primeiro:M_P::NUM-ord: primeiros)
+                                        (>N:num:seis:M_P::card: seis)
+                                        (H:n:número:M_P::anr_np-count:anr_np-def: números)))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:projecto:M_S::np-def: projecto))
+                        (P:vp (AUX:v-fin:ir:PS_3S_IND::: foi)
+                              (MV:v-ger:ganhar:::: ganhando))
+                        (ACC:np (H:n:sentido:M_S::np-idf: sentido)
+                                (N<:cu- (CJT:pp- 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:revista:F_S::np-idf: revista)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:artista:MF_P::np-idf: artistas)))))
+                                        ({)
+                                        (CJT:pp 
+                                          (>P:adv:nunca:::: nunca)
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:revista:F_S::np-idf: revista)
+                                            (N<:adjp 
+                                              (H:adj:teórico:F_S::: teórica))))
+                                        (})
+                                        (-CJT:pp 
+                                          (-P<:cu 
+                                            (,)
+                                            (N<PRED:np 
+                                              (H:n:recolha:F_S::np-idf: recolha)
+                                              (N<:adjp 
+                                                (H:adj:sensível:F_S::: sensível))
+                                              (N<ARGO:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:cu 
+                                                  (CJT:np 
+                                                    (H:n:imagem:F_P::np-idf: imagens))
+                                                  (CO:conj-c:e:::co-prparg: e)
+                                                  (CJT:np 
+                                                    (H:n:texto:M_P::np-idf: textos)))))))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:de_tal_modo_que:::: de_tal_modo_que)
+                                  (P:vp (MV:v-fin:desenvolver:FUT_3S_IND::nosubj: desenvolverá))
+                                  (ADVL:pp:por_vezes:::: por_vezes)
+                                  (ACC:np 
+                                    (H:n:tema:M_P::np-idf: temas)
+                                    (N<:adjp 
+                                      (H:adj:específico:M_P::: específicos))))))

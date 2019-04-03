@@ -1,0 +1,43 @@
+(FRASE CP493-1 (STA:fcl (SUBJ:np (>N:art:o:F_P::artd: As)
+                                 (H:n:técnica:F_P::np-def: técnicas)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (H:n:terapia:F_S::np-idf: terapia)
+                                          (N<:adjp 
+                                            (H:adj:genético:F_S::: genética))
+                                          (--)
+                                          (N<PRED:icl::::pcp: 
+                                            (ADVL:advp 
+                                              (H:adv:também:::: também))
+                                            (P:vp 
+                                              (MV:v-pcp:chamar:F_S::: chamada))
+                                            («)
+                                            (SC:np 
+                                              (H:n:geneterapia:M_S::np-idf: geneterapia))
+                                            (»))
+                                          (--))))
+                        (P:vp (MV:v-fin:consistir:PR_3P_IND::: consistem))
+                        (,)
+                        (ADVL:pp (H:pp:em_termos:::: em_termos)
+                                 (N<:adjp 
+                                   (H:adj:genérico:M_P::: genéricos)))
+                        (,)
+                        (PIV:pp (H:prp:em:::: em)
+                                (P<:icl (P:vp 
+                                          (MV:v-inf:inserir:::: inserir))
+                                        (ACC:np 
+                                          (>N:art:um:M_S::arti: um)
+                                          (H:n:gene:M_S::np-idf: gene)
+                                          (N<:adjp 
+                                            (H:adj:terapêutico:M_S::: terapêutico)))
+                                        (OA:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (H:n:célula:F_P::np-def: células)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (>N:art:um:M_S::arti: um)
+                                                (H:n-adj:doente:M_S::np-idf: doente)))))))
+                        (.)))

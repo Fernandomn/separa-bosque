@@ -1,0 +1,76 @@
+(FRASE CP692-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:presidente:M_S::np-def:prop: Presidente)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (N<:art:o:F_S::: a)
+                                          (H:prop:Assembleia_da_República:F_S::anr_np-def: Assembleia_da_República))))
+                        (P:vp (MV:v-fin:solicitar:PS_3S_IND::: solicitou))
+                        (PIV:pp (H:prp:a:::: a)
+                                (P<:np (>N:pron-det:vários:M_P::quant: vários)
+                                       (H:n:jurista:M_P::anr_np-idf: juristas)
+                                       (N<:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:ligar:M_P::: ligados))
+                                         (PIV:pp 
+                                           (H:prp:a:::: a+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (>N:pron-det:seu:M_S::: seu)
+                                             (H:n:gabinete:M_S::anr_np-def: gabinete))))))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (ACC:np 
+                                   (H:pron-pers:se:M_3P_ACC::: se))
+                                 (P:vp (MV:v-fin:pronunciar:PR_3P_SUBJ::fs-subst:nosubj: pronunciem))
+                                 (ADVL:pp 
+                                   (H:prp:sobre:::: sobre)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:legalidade:F_S::np-def: legalidade)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:forma:F_S::np-def: forma)
+                                         (N<:fcl 
+                                           (ADVL:advp 
+                                             (H:adv:como:::rel: como))
+                                           (P:vp 
+                                             (AUX:v-fin:ter:PR_3S_IND::: tem)
+                                             (AUX:v-pcp:ser:::: sido)
+                                             (MV:v-pcp:descontar:F_S::anr_pass:fs-rel:passive: descontada))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:vencimento:M_S::np-def: vencimento)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:deputado:M_P::np-idf: deputados)
+                                                   (N<:pp 
+                                                     (H:prp:de:::: de+)
+                                                     (P<:np 
+                                                       (>N:art:o:M_S::artd: o)
+                                                       (H:prop:PSD:M_S::: PSD)))))))
+                                           (SUBJ:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:quantia:F_S::np-def: quantia)
+                                             (N<:adjp 
+                                               (H:adj:correspondente:F_S::: correspondente)
+                                               (A<:pp 
+                                                 (H:prp:a:::: a+)
+                                                 (P<:np 
+                                                   (>N:art:o:F_P::artd: as)
+                                                   (H:n:multa:F_P::np-def: multas)
+                                                   (N<:icl::::pcp: 
+                                                     (P:vp 
+                                                       (MV:v-pcp:aplicar:F_P::: aplicadas))
+                                                     (PASS:pp 
+                                                       (H:prp:por:::: por)
+                                                       (P<:np 
+                                                         (H:n:falta:F_P::np-idf: faltas)
+                                                         (N<:pp 
+                                                           (H:prp:de:::: de)
+                                                           (P<:np 
+                                                             (H:n:comparência:F_S::np-idf: comparência))))))))))))))))
+                        (.)))

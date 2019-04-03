@@ -1,0 +1,78 @@
+(FRASE CP242-7 (UTT:np (>N:pp (H:prp:em:: Em+)
+                              (P<:np (>N:art:o:M_P::artd: os)
+                                     (>N:pron-det:outro:M_P::diff: outros)
+                                     (H:n:jogo:M_P::anr_np-def: jogos)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         («)
+                                         (H:n:calcio:M_S::anr_np-idf: calcio)
+                                         (»)))))
+                       (,)
+                       (H:n:destaque:M_S::anr_np-idf: destaque)
+                       (N<:pp (H:prp:para:::: para)
+                              (P<:np (>N:adv:mais:::quant: mais)
+                                     (>N:num:um:F_S::card: uma)
+                                     (H:n:goleada:F_S::anr_np-count:anr_np-def: goleada)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:prop:Juventus:F_S::: Juventus)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:prop:Dimas:M_S::: Dimas)))))
+                                     ({)
+                                     (N<PRED:np 
+                                       (H:num:4-0:M_S::card: 4-0)
+                                       (N<:pp 
+                                         (H:prp:frente_a:::: frente_a+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Brescia:M_S::: Brescia))))
+                                     (})))
+                       (,)
+                       (N<:fcl (ADVL:advp 
+                                 (H:adv:enquanto:::ks: enquanto))
+                               (SUBJ:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Lazio:F_S::: Lazio)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Eriksson:M_S::: Eriksson))))
+                               (X:cu (CJT:x::::predicate: 
+                                       (P:vp 
+                                         (AUX:v-fin:parecer:PR_3S_IND::: parece)
+                                         (AUX:v-inf:ter:::: ter)
+                                         (MV:v-pcp:perder:::: perdido))
+                                       (ACC:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:veia:F_S::np-def: veia)
+                                         (N<:adjp 
+                                           (H:adj:goleadora:F_S::: goleadora))
+                                         (N<:icl 
+                                           (P:vp 
+                                             (MV:v-pcp:demonstrar:F_S::: demonstrada))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em)
+                                             (P<:np 
+                                               (H:prop:Guimarães:MF_S::: Guimarães))))))
+                                     (CO:conj-c:e:::co-vfin: e)
+                                     (CJT:x::::predicate: 
+                                       (P:vp 
+                                         (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                         (MV:v-pcp:derrotar:F_S::anr_pass:nosubj:passive: derrotada))
+                                       (PASS:pp 
+                                         (H:prp:por:::: por+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (>N:v-pcp:recém-promover:M_S::: recém-promovido)
+                                           (H:prop:Empoli:M_S::: Empoli)))
+                                       (,)
+                                       (ADVL:pp 
+                                         (H:prp:por:::: por)
+                                         (P<:adjp 
+                                           (H:num:1-0:M_P::card: 1-0))))))
+                       (.)))

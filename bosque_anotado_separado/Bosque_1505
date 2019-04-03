@@ -1,0 +1,16 @@
+(FRASE CP280-4 (UTT:np (H:n:reunião:F_S::np-idf: Reunião)
+                       (N<:adjp (H:adj:informal:F_S: informal))
+                       (N<:pp (H:prp:de:::: de+)
+                              (P<:np (>N:art:o:M_P::artd: os)
+                                     (H:n:ministro:M_P::np-def: ministros)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (N<:art:o:F_S::: a)
+                                         (H:prop:Agricultura:F_S::anr_np-def: Agricultura)))))
+                       (,)
+                       (N<PRED:pp (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:S::artd: a)
+                                    (H:prop:Curia:F_S::: Curia)))
+                       (.)))

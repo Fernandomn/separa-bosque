@@ -1,0 +1,72 @@
+(FRASE CP63-3 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                (H:prop:Rússia:F_S: Rússia)
+                                (,)
+                                (N<PRED:adjp 
+                                  (H:adj:insensível:F_S::: insensível)
+                                  (A<:pp 
+                                    (H:prp:a:::: a+)
+                                    (P<:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (H:n:protesto:M_P::np-def: protestos)
+                                      (N<:cu 
+                                        (CJT:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:prop:EUA:M_P::: EUA)))
+                                        (CO:conj-c:e:::co-postnom: e)
+                                        (CJT:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Israel:M_S::: Israel))))))))
+                       (,)
+                       (ADVL:advp (H:adv:já:::: já))
+                       (ACC:np (H:pron-pers:se:F_3S_ACC::obj:refl: se))
+                       (P:vp (AUX:v-fin:ter:IMPF_3S_IND::: tinha)
+                             (MV:v-pcp:comprometer:::: comprometido))
+                       (,)
+                       (ADVL:pp (H:prp:em:::: em+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:n:início:M_S::np-def: início)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:ano:M_S::np-def: ano)))))
+                       (,)
+                       (PIV:pp (H:prp:a:::: a)
+                               (P<:icl (P:vp 
+                                         (MV:v-inf:instalar:::: instalar))
+                                       (OA:pp 
+                                         (H:prp:em:::: em+)
+                                         (P<:np 
+                                           (>N:pron-det:aquele:M_S::dem: aquele)
+                                           (>N:pron-det:mesmo:M_S::diff: mesmo)
+                                           (H:n:local:M_S::anr_np-def: local)))
+                                       (ACC:np 
+                                         (>N:art:um:M_S::arti: um)
+                                         (H:n:reactor:M_S::np-idf: reactor)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (>N:num:1000:M_P::card: 1000)
+                                             (H:n:megawatt:M_P::anr_np-idf: megawatts))))
+                                       (,)
+                                       (ADVL:pp 
+                                         (H:prp:em:::: em+)
+                                         (P<:np 
+                                           (>N:art:um:M_S::arti: um)
+                                           (H:n:negócio:M_S::np-idf: negócio)
+                                           (N<:icl::::pcp: 
+                                             (P:vp 
+                                               (MV:v-pcp:avaliar:M_S::: avaliado))
+                                             (PIV:pp 
+                                               (H:prp:em:::: em)
+                                               (P<:np 
+                                                 (>N:n:mil:M_P::card:num: mil)
+                                                 (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                                 (N<ARG:pp 
+                                                   (H:prp:de:::: de)
+                                                   (P<:np 
+                                                     (H:n:dólar:M_P::np-dequant:np-idf: dólares))))))))))
+                       (.)))

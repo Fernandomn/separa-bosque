@@ -1,0 +1,40 @@
+(FRASE CP153-7 (STA:fcl («)
+                        (ADVL:fcl (SUB:conj-s:se:: Se)
+                                  (P:vp (MV:v-fin:querer:PR_3P_IND::fs-cond:nosubj: querem))
+                                  (ACC:icl 
+                                    (P:vp 
+                                      (MV:v-inf:prender:::icl-subst: prender))
+                                    (ACC:np 
+                                      (H:pron-indp:alguém:M_S::: alguém))))
+                        (,)
+                        (P:vp- (AUX:v-fin:ter:PR_3P_IND::: têm)
+                               (PRT-AUX:conj-s:que:::: que))
+                        (ACC:np (H:pron-pers:nós:M_1P_ACC::: nos))
+                        (-P:vp (MV:v-inf:prender:::nosubj: prender))
+                        (PIV:pp (H:prp:a:::: a)
+                                (P<:np (H:pron-det:todo:M_P::quant: todos)))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:porque:::: porque)
+                                  (FOC:advp 
+                                    (H:adv:fomos:::foc: fomos))
+                                  (SC:np 
+                                    (H:pron-pers:nós:M_1P_NOM::: nós)
+                                    (N<:np 
+                                      (H:pron-det:todo:M_P::quant: todos))
+                                    (N<:v-pcp:juntar:M_P::: juntos))
+                                  (FOC:advp 
+                                    (H:adv:que:::foc: que))
+                                  (P:cu (CJT:fcl 
+                                          (P:vp 
+                                            (MV:v-fin:cortar:PS_1P_IND::fs-cause:nosubj: cortámos))
+                                          (ACC:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:estrada:F_S::np-def: estrada)))
+                                        (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                        (CJT:fcl 
+                                          (P:vp 
+                                            (MV:v-fin:barricar:PS_1P_IND::fs-cause:nosubj: barricámos))
+                                          (ACC:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:empresa:F_S::np-def: empresa)))))
+                        (.)))

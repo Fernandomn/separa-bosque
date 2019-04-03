@@ -1,0 +1,33 @@
+(FRASE CP337-2 (UTT:np (>N:adj:terceiro:M_S::NUM-ord: Terceiro)
+                       (H:n:aniversário:M_S::anr_np-idf: aniversário)
+                       (N<:pp (H:prp:de:: de+)
+                              (P<:np (>N:art:o:F_S::artd: a)
+                                     (H:n:assinatura:F_S::np-def: assinatura)
+                                     (N<ARGO:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:prop:Tratado_de_Maastricht:M_S::: Tratado_de_Maastricht)))
+                                     (N<:pp 
+                                       (H:prp:por:::: por+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:ministro:M_P::np-def: ministros)
+                                         (N<:cu 
+                                           (CJT:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_P::artd: os)
+                                               (H:prop:Negócios_Estrangeiros:M_P::: Negócios_Estrangeiros)))
+                                           (CO:conj-c:e:::co-postnom: e)
+                                           (CJT:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:F_P::artd: as)
+                                               (H:prop:Finanças:F_P::: Finanças))))
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:prop:Comunidade_Europeia:F_S::: Comunidade_Europeia)))))))
+                       (.)))

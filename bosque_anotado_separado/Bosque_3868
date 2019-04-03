@@ -1,0 +1,39 @@
+(FRASE CP753-1 (STA:fcl (ADVL:pp (H:prp:a:: A+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:semelhança:F_S::np-def: semelhança)
+                                        (N<ARG:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:pron-det:muito:F_P::quant: muitas)
+                                            (>N:pron-det:outro:F_P::KOMP:diff: outras)
+                                            (H:n:igreja:F_P::anr_np-idf: igrejas)
+                                            (N<:adjp 
+                                              (H:adj:evangélico:F_P::: evangélicas))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:pagamento:M_S::np-def: pagamento)
+                                 (N<ARGO:pp 
+                                   (H:prp:de:::: de+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n-adj:dízimo:M_S::NUM-ord:np-def: dízimo)))
+                                 (N<:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:prop:Universal:F_S::: Universal))))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:advp (H:adv:mais:_::KOMP:quant: mais)
+                                 (KOMP<:acl 
+                                   (COM:conj-s:do_que:::: do_que)
+                                   (SUBJ:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:adopção:F_S::np-def: adopção)
+                                     (N<ARGO:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:art:um:F_S::arti: uma)
+                                         (H:n:prática:F_S::np-idf: prática)
+                                         (N<:adjp 
+                                           (H:adj:bíblico:F_S::: bíblica)))))))
+                        (.)))

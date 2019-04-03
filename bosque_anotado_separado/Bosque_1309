@@ -1,0 +1,57 @@
+(FRASE CP243-18 (UTT:np (>N:art:o:M_S::artd: O)
+                        (>N:pron-det:seu:M_S: seu)
+                        (H:n:vestido:M_S::anr_np-def: vestido)
+                        (N<:adjp (H:adj:escuro:M_S::: escuro))
+                        (N<:pp (H:prp:durante:::: durante)
+                               (P<:np (>N:art:o:M_S::artd: o)
+                                      (H:n:funeral:M_S::np-def: funeral)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Estaline:M_S::: Estaline)))
+                                      (,)
+                                      (N<:fcl 
+                                        (ADVL:advp 
+                                          (H:adv:quando:::rel: quando))
+                                        (,)
+                                        (ADVL:pp 
+                                          (H:prp:apesar_de:::: apesar_de+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:n:multidão:F_S::np-def: multidão)
+                                            (N<:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:F_S::rel: que))
+                                              (ACC:np 
+                                                (H:pron-pers:se:F_3S_ACC::refl: se))
+                                              (P:vp 
+                                                (MV:v-fin:apinhar:IMPF_3S_IND::fs-rel: apinhava))
+                                              (ADVL:pp 
+                                                (H:prp:ao_longo_de:::: ao_longo_de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_P::artd: os)
+                                                  (H:n:muro:M_P::np-def: muros))))))
+                                        (,)
+                                        (ACC:np- 
+                                          (N<:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:np 
+                                              (H:pron-pers:ela:F_3S_PIV::: ela))))
+                                        (P:vp 
+                                          (MV:v-fin:haver:IMPF_3S_IND::fs-rel:nofsubj: havia))
+                                        (-ACC:np 
+                                          (H:n:espaço:M_S::np-idf: espaço)
+                                          (,)
+                                          (N<:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:fcl 
+                                              (SUB:conj-s:que:::: que)
+                                              (SUBJ:np 
+                                                (H:pron-indp:ninguém:M_S::: ninguém))
+                                              (ADVL:advp 
+                                                (H:adv:sequer:::: sequer))
+                                              (DAT:np 
+                                                (H:pron-pers:ela:F_3S_DAT::: lhe))
+                                              (P:vp 
+                                                (MV:v-fin:tocar:IMPF_3S_SUBJ::fs-fin: tocasse))))))))
+                        (.)))

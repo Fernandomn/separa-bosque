@@ -1,0 +1,51 @@
+(FRASE CP400-2 (STA:fcl (SUBJ:np (>N:adv:já:: Já)
+                                 (>N:art:o:F_S::artd: a)
+                                 (H:n:exploração:F_S::np-def: exploração)
+                                 (N<ARGO:pp 
+                                   (H:prp:de:::: de+)
+                                   (P<:np 
+                                     (>N:art:o:F_P::artd: as)
+                                     (H:n:área:F_P::np-def: áreas)
+                                     (N<:adjp 
+                                       (H:adj:comercial:F_P::: comerciais))
+                                     (,)
+                                     (N<PRED:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:F_S::rel: que))
+                                       (ACC-PASS:np 
+                                         (H:pron-pers:se:F_3P_ACC::: se))
+                                       (P:vp 
+                                         (AUX:v-fin:ir:PR_3P_IND::: vão)
+                                         (MV:v-inf:distribuir:_::fs-rel:se-passive: distribuir))
+                                       (PIV:pp 
+                                         (H:prp:por:::: por)
+                                         (P<:np 
+                                           (>N:num:três:M_P::card: três)
+                                           (H:n:piso:M_P::anr_np-count:anr_np-def: pisos)
+                                           (--)
+                                           (APP:cu 
+                                             (CJT:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:rés-do-rés:M_S::np-def: rés-do-chão))
+                                             (,)
+                                             (CJT:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (>N:adj:primeiro:M_S::NUM-ord: primeiro)
+                                               (H:n:piso:M_S::anr_np-def: piso))
+                                             (CO:conj-c:e:::co-app: e)
+                                             (CJT:np 
+                                               (>N:art:um:M_S::arti: um)
+                                               («)
+                                               (H:n:mezzanino:M_S::DERS:anr_np-idf: mezzanino)
+                                               (»)))
+                                           (--)))))))
+                        (P:vp (MV:v-fin:estar:PR_3S_IND::: está))
+                        (SC:pp (>P:adv:ainda:::: ainda)
+                               (H:prp:por:::: por)
+                               (P<:v-inf:definir:::: definir))
+                        (PIV:pp (H:prp:a:::: a)
+                                (P<:np (H:pron-indp:quem:MF_SP::interr: quem)))
+                        (P:vp (AUX:v-fin:ir:FUT_3S_IND::: irá)
+                              (AUX:v-inf:ser:::: ser)
+                              (MV:v-pcp:atribuir:F_S::anr_pass:passive: atribuída))
+                        (.)))

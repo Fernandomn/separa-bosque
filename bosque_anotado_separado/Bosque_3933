@@ -1,0 +1,57 @@
+(FRASE CP767-1 (STA:cu (CJT:fcl (SUBJ:cu 
+                                  (CJT:np 
+                                    (>N:art:o:F_S::artd: A)
+                                    (H:n:faixa:F_S::np-def: faixa)
+                                    (N<:adjp 
+                                      (H:adj:etário:F_S: etária)))
+                                  (CO:conj-c:e:::co-subj: e)
+                                  (CJT:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (H:n:hora:F_P::np-def: horas)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:dia:M_S::np-def: dia)))
+                                    (N<:adjp 
+                                      (>A:adv:mais:_::KOMP:quant: mais)
+                                      (H:adj:perigoso:F_P::: perigosas))))
+                                (P:vp (MV:v-fin:coincidir:PR_3P_IND::: coincidem))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em)
+                                  (P<:np 
+                                    (>N:pron-det:todo_o:M_P::quant: todos_os)
+                                    (H:n:distrito:M_P::anr_np-def: distritos))))
+                       (,)
+                       (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                       (CJT:fcl (SUBJ:np 
+                                  (H:prop:Beja:F_S::: Beja))
+                                (P:vp (MV:v-fin:ser:PS_3S_IND::: foi))
+                                (SC:np (H:pron-det:o:M_S::dem: o)
+                                       (N<:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:M_S::rel: que))
+                                         (P:vp 
+                                           (MV:v-fin:registar:PS_3S_IND::fs-rel: registou))
+                                         (ACC:np- 
+                                           (>N:adj:pequeno:F_S::KOMP: menor)
+                                           (H:n:incidência:F_S::anr_np-idf: incidência)
+                                           (N<:pp- 
+                                             (H:prp:de:::: de)
+                                             (P<:np- 
+                                               (H:n:condutor:M_P::anr_np-idf: condutores)
+                                               (N<:v-pcp:alcoolizar:M_P::: alcoolizados))))
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em)
+                                           (P<:np 
+                                             (H:n:dezembro:M_S::np-idf:prop: Dezembro)))
+                                         (;)
+                                         (-ACC:np 
+                                           (-N<:pp 
+                                             (-P<:np 
+                                               (APP:np 
+                                                 (>N:adjp 
+                                                   (>A:adv:apenas:::: apenas)
+                                                   (H:num:2,4:M_P::card: 2,4))
+                                                 (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento))))))))
+                       (.)))

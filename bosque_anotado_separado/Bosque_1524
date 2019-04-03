@@ -1,0 +1,40 @@
+(FRASE CP284-3 (STA:fcl (SUBJ:np (>N:pron-det:todo_o:M_P::quant: Todos_os)
+                                 (H:n:partido:M_P::anr_np-def: partidos)
+                                 (N<:adjp 
+                                   (H:adj:político:M_P: políticos))
+                                 (N<:pp (H:prp:com:::: com)
+                                        (P<:np 
+                                          (H:n:assento:M_S::np-idf: assento)
+                                          (N<:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:S::artd: a)
+                                              (H:prop:Assembleia_Municipal_de_Leiria:F_S::: Assembleia_Municipal_de_Leiria))))))
+                        (P:vp (MV:v-fin:contestar:PR_3P_IND::: contestam))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:prop:Plano_Estratégico:M_S::: Plano_Estratégico)
+                                (N<:cu (CJT:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:eixo:M_S::np-def:prop: Eixo)
+                                           (N<:np 
+                                             (H:prp:de:::: de)
+                                             (P<:cu 
+                                               (CJT:np 
+                                                 (H:prop:Leiria:F_S::: Leiria))
+                                               (-)
+                                               (CJT:np 
+                                                 (H:prop:Marinha_Grande:F_S::: Marinha_Grande))))))
+                                       (CO:conj-c:e:::co-postnom: e)
+                                       (CJT:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Sistema_Urbano:M_S::: Sistema_Urbano)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:S::artd: a)
+                                               (H:prop:Alta_Estremadura:F_S::: Alta_Estremadura)))))))
+                        (.)))

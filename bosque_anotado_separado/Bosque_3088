@@ -1,0 +1,44 @@
+(FRASE CP595-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:prop:Rio_Ave:M_S: Rio_Ave)
+                                 (,)
+                                 (N<PRED:np 
+                                   (>N:pron-det:outro:F_S::KOMP:diff: outra)
+                                   (H:n:surpresa:F_S::anr_np-idf: surpresa))
+                                 (,))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                      (MV:v-pcp:derrotar:M_S::anr_pass:passive: derrotado))
+                                (ADVL:pp:em_casa:::: em_casa)
+                                (PASS:pp 
+                                  (H:prp:por:::: por+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:prop:Farense:M_S::: Farense))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:ter:PR_3S_IND::nosubj: tem))
+                                (ADVL:advp 
+                                  (H:adv:já:::: já))
+                                (ACC:np (>N:pron-det:muito:M_P::quant: muitos)
+                                        (H:n:candidato:M_P::anr_np-idf: candidatos))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (>N:pron-det:seu:F_P::si: suas)
+                                    (H:n:costa:F_P::anr_np-def: costas))
+                                  (N<:icl::::pcp: 
+                                    (P:vp 
+                                      (MV:v-pcp:dispor:M_P::: dispostos))
+                                    (PIV:pp 
+                                      (H:prp:a:::: a)
+                                      (P<:icl 
+                                        (P:vp 
+                                          (MV:v-inf:roubar:::hyfen: roubar-))
+                                        (DAT:np 
+                                          (H:pron-pers:ele:M_3S_DAT::: lhe))
+                                        (ACC:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (>N:adj:terceiro:M_S::NUM-ord: terceiro)
+                                          (H:n:lugar:M_S::anr_np-def: lugar))))))))
+                        (.)))

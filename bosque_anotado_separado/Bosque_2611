@@ -1,0 +1,23 @@
+(FRASE CP496-8 (STA:fcl (SUBJ:np (>N:adjp 
+                                   (>A:adv:mais_de:quant: Mais_de)
+                                   (H:num:um:M_S::card: um))
+                                 (H:n:milhão:M_S::anr_np-count:anr_np-def:card:num: milhão)
+                                 (N<ARG:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (H:n:conto:M_P::np-dequant:np-idf: contos))))
+                        (P:vp (MV:v-fin:dever:FUT_3S_IND::: deverá))
+                        (,)
+                        (ADVL:pp (H:prp:segundo:::: segundo)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Lusa:F_S::: Lusa)))
+                        (,)
+                        (P:vp (MV:v-fin:custar:FUT_3S_SUBJ::: custar))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:seguro:M_S::np-def: seguro)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:obra:F_P::np-def: obras)
+                                          (N<:v-pcp:expor:F_P::: expostas))))
+                        (.)))

@@ -1,0 +1,49 @@
+(FRASE CP44-1 (STA:fcl (ADVL:advp (H:adv:agora:kc: Agora))
+                       (,)
+                       (SUBJ:np (>N:art:o:F_S::artd: a)
+                                (H:n:polícia:F_S::np-def: polícia))
+                       (P:vp (MV:v-fin:inclinar:PR_3S_IND::: inclina-))
+                       (ACC:np (H:pron-pers:se:F_3S_ACC::refl: se))
+                       (PIV:pp (H:prp:para:::: para)
+                               (P<:fcl (SUB:conj-s:que:::: que)
+                                       (SUBJ:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:assassinato:M_S::np-def: assassinato))
+                                       (P:vp 
+                                         (AUX:v-fin:ter:PR_3S_SUBJ::: tenha)
+                                         (PRT-AUX:prp:a:::: a)
+                                         (MV:v-inf:ver:::fs-subst: ver))
+                                       (PIV:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:promoção:F_S::np-def: promoção)
+                                           (N<ARGO:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:prop:John_Gotti_Junior:M_S::: John_Gotti_Junior)))
+                                           (N<:pp 
+                                             (H:prp:a:::: a+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:cargo:M_S::np-def: cargo)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:chefe:M_S::np-idf: chefe)
+                                                   (N<:pp 
+                                                     (H:prp:de:::: de+)
+                                                     (P<:np 
+                                                       (>N:art:o:S::artd: a)
+                                                       (H:n:família:F_S::np-def: família)))))))
+                                           (N<:pp 
+                                             (H:prp:durante:::: durante)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:encarceramento:M_S::np-def: encarceramento)
+                                               (N<ARGO:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:M_S::artd: o)
+                                                   (H:n:pai:M_S::np-def: pai)))))))))
+                       (.)))

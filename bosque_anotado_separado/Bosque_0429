@@ -1,0 +1,55 @@
+(FRASE CP80-2 (STA:fcl (PRED:adjp (H:num:um:F_S::card: Uma)
+                                  (A<:pp 
+                                    (H:prp:de:: de+)
+                                    (P<:np 
+                                      (>N:art:o:P::artd: as)
+                                      (>N:adjp 
+                                        (>A:adv:mais:::quant: mais)
+                                        (H:adj:prometedor:F_P::: prometedoras))
+                                      (H:n:cantora:F_P::anr_np-def:np-partitive2: cantoras)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (>N:adj:último:M_P::NUM-ord: últimos)
+                                          (H:n:ano:M_P::anr_np-def: anos))))))
+                       (,)
+                       (SUBJ:np (H:prop:Cassandra:F_S::: Cassandra))
+                       (P:vp (MV:v-fin:usar:PR_3S_IND::: usa))
+                       (ACC:np (H:cu (CJT:np 
+                                       (>N:art:um:M_S::arti: um)
+                                       (H:n:grão:M_S::np-idf: grão)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:voz:F_S::np-idf: voz))))
+                                     (CO:conj-c:e:::co-acc: e)
+                                     (CJT:np 
+                                       (>N:art:um:M_S::arti: um)
+                                       (H:n:jeito:M_S::np-idf: jeito)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:cu 
+                                           (CJT:v-inf:desenhar:::: desenhar)
+                                           (CO:conj-c:e:::co-inf: e)
+                                           (CJT:icl 
+                                             (ACC:np 
+                                               (H:pron-pers:se:F_3S_ACC::refl: se))
+                                             (P:vp 
+                                               (MV:v-inf:apropriar:::: apropriar))
+                                             (PIV:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:verso:M_S::np-def: verso))))))))
+                               (N<:fcl (SUBJ:np 
+                                         (H:pron-indp:que:M_S::rel: que))
+                                       (P:vp 
+                                         (MV:v-fin:ter:PR_3S_IND::fs-rel: tem))
+                                       (ACC:np 
+                                         (H:n:raíz:F_P::np-idf: raízes))
+                                       (ADVL:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (H:prop:Carmen_McRae:F_S::: Carmen_McRae)))))
+                       (.)))

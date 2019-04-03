@@ -1,0 +1,27 @@
+(FRASE CP77-5 (STA:fcl (ADVL:pp:por_conseguinte:: Por_conseguinte)
+                       (,)
+                       (SUBJ:np (>N:art:um:M_S::arti: um)
+                                (>N:adj:novo:M_S::: novo)
+                                (H:n:aumento:M_S::anr_np-idf: aumento)
+                                (N<:adjp 
+                                  (H:adj:salarial:M_S::: salarial)))
+                       (,)
+                       (ADVL:pp (H:pp:de_acordo:::: de_acordo)
+                                (N<:pp (H:prp:com:::: com)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:ministra:F_S::np-def: ministra))))
+                       (,)
+                       (P:vp- (P:vp (MV:v-fin:ter:FUT_3S_IND::nosubj: terá)))
+                       (ADVL:advp (H:adv:necessariamente:::: necessariamente))
+                       (-P:vp (PRT-AUX:prp:de:::: de)
+                              (AUX:v-inf:ser:::: ser)
+                              (MV:v-pcp:acompanhar:M_S::anr_pass:passive: acompanhado))
+                       (ADVL:pp (H:prp:de:::: de)
+                                (P<:np (>N:art:um:M_S::arti: um)
+                                       (H:n:aumento:M_S::np-idf: aumento)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:produtividade:F_S::np-idf: produtividade)))))
+                       (.)))

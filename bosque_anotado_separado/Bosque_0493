@@ -1,0 +1,21 @@
+(FRASE CP91-2 (UTT:np (>N:art:um:F_S::arti: Uma)
+                      (H:np (H:n:proposta:F_S::np-idf: proposta)
+                            (N<:pp:de_lei:: de_lei))
+                      (N<:pp (H:prp:a:::: a)
+                             (P<:icl (P:vp 
+                                       (MV:v-inf:aprovar:::: aprovar))
+                                     (ADVL:pp 
+                                       (H:prp:por:::: por+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:prop:Assembleia_da_República:F_S::: Assembleia_da_República)))))
+                      (N<:fcl (SUBJ:np (H:pron-indp:que:F_S::rel: que))
+                              (P:vp (MV:v-fin:permitir:PR_3S_SUBJ::fs-rel: permita))
+                              (ACC:np (>N:art:o:F_S::artd: a)
+                                      (H:n:alteração:F_S::np-def: alteração)
+                                      (N<ARGO:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Código_de_Procedimento_Administrativo:M_S::: Código_de_Procedimento_Administrativo)))))
+                      (.)))

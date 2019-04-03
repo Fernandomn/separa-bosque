@@ -1,0 +1,32 @@
+(FRASE CP44-2 (STA:fcl (ADVL:pp (H:prp:segundo:ks: Segundo)
+                                (P<:np (H:n:fonte:F_P::np-idf: fontes)
+                                       (N<:adjp 
+                                         (H:adj:policial:F_P::: policiais))
+                                       (N<:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:citar:F_P::fs-conf: citadas))
+                                         (PASS:pp 
+                                           (H:prp:por:_::postmod: por+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             («)
+                                             (H:prop:New_York_Times:M_S::: New_York_Times)
+                                             (»))))))
+                       (,)
+                       (SUBJ:np (>N:art:o:M_S::artd: o)
+                                (H:n:atentado:M_S::np-def: atentado))
+                       (P:vp (AUX:v-fin:poder:PR_3S_COND::: poderia)
+                             (AUX:v-inf:ter:::: ter)
+                             (MV:v-pcp:partir:::: partido))
+                       (ADVL:pp (H:prp:de:::: de+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (>N:adj:velho:F_S::: velha)
+                                       (H:n:guarda:F_S::anr_np-def: guarda)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:clã:M_S::np-def: clã)
+                                           (N<:np 
+                                             (H:prop:Gambino:M_S::: Gambino))))))
+                       (.)))

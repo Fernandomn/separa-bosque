@@ -1,0 +1,55 @@
+(FRASE CP256-2 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:final:M_S::np-def: final)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:jogo:M_S::np-def: jogo)))))
+                        (,)
+                        (SUBJ:np (H:n:adepto:M_P::np-idf: adeptos)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Sporting:M_S::: Sporting))))
+                        (P:vp (MV:v-fin:lançar:PR_3P_IND::: lançam))
+                        (ACC:cu (CJT:np (H:n:garra:F_P::np-idf: garras))
+                                (CO:conj-c:e:::co-acc: e)
+                                (CJT:np (H:n:pedra:F_P::np-idf: pedras)))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:tribuna:F_S::np-def: tribuna)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:honra:F_S::np-idf: honra)))
+                                        (,)
+                                        (N<PRED:fcl 
+                                          (ADVL:advp 
+                                            (H:adv:onde:_::ks:rel: onde))
+                                          (P:vp 
+                                            (MV:v-fin:estar:IMPF_3P_IND::fs-rel: estavam))
+                                          (SUBJ:cu 
+                                            (CJT:np 
+                                              (H:prop:Manuela_Ferreira_Leite:F_S::: Manuela_Ferreira_Leite)
+                                              (,)
+                                              (N<PRED:np 
+                                                (H:n:ministra:F_S::np-idf: ministra)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:prop:Educação:F_S::: Educação)))))
+                                            (,)
+                                            (CO:conj-c:e:::co-subj: e)
+                                            (CJT:np 
+                                              (H:prop:Vítor_Vasques:M_S::: Vítor_Vasques)
+                                              (,)
+                                              (N<PRED:np 
+                                                (H:n:presidente:M_S::np-idf: presidente)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (N<:art:o:F_S::: a)
+                                                    (H:prop:FPF:F_S::anr_np-def:)))))))))
+                        (.)))

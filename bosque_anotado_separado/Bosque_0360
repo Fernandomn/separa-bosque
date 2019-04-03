@@ -1,0 +1,21 @@
+(FRASE CP66-3 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                (P<:np (>N:art:um:M_S::arti: um)
+                                       (H:n:beco:M_S::np-idf: beco)
+                                       (N<:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (H:n:carro:M_P::np-idf: carros)
+                                           (N<:v-pcp:estacionar:M_P::: estacionados)))))
+                       (,)
+                       (SUBJ:np (>N:art:um:F_S::arti: uma)
+                                (>N:adj:grande:F_S::: grande)
+                                (H:n:quantidade:F_S::anr_np-idf: quantidade)
+                                (N<ARG:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:np 
+                                    (>N:adj:pequeno:M_P::: pequenos)
+                                    (H:n:letreiro:M_P::anr_np-idf:np-dequant: letreiros))))
+                       (P:vp (MV:v-fin:anunciar:PR_3S_IND::: anuncia))
+                       (ACC:np (>N:art:um:M_S::arti: um)
+                               (H:n:vidente:M_S::np-idf: vidente))
+                       (;)))

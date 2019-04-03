@@ -1,0 +1,61 @@
+(FRASE CP716-2 (STA:fcl (PRED:icl::ger: (P:vp 
+                                          (MV:v-ger:alegar:::: Alegando))
+                                        (ACC:icl 
+                                          (P:vp 
+                                            (AUX:v-inf:ter:::: ter)
+                                            (MV:v-pcp:tomar:::icl-subst: tomado))
+                                          (ACC:np 
+                                            (H:n:conhecimento:M_S::np-idf: conhecimento)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:suspensão:F_S::np-def: suspensão))))
+                                          (ADVL:advp 
+                                            (H:adv:através:::: através)
+                                            (A<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:prop:Público:M_S::: PÚBLICO))))))
+                        (,)
+                        (SUBJ:np (H:prop:José_Saldanha:M_S::: José_Saldanha))
+                        (P:vp (MV:v-fin:dizer:PR_3S_IND::: diz))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 («)
+                                 (SUBJ:np 
+                                   (>N:art:o:F_P::artd: as)
+                                   (H:n:responsabilidade:F_P::np-def: responsabilidades))
+                                 (P:vp (AUX:v-fin:ter:PR_3P_IND::: têm)
+                                       (PRT-AUX:conj-s:que:::: que)
+                                       (AUX:v-inf:ser:::: ser)
+                                       (MV:v-pcp:assumir:F_P::anr_pass:icl-subst:passive: assumidas))
+                                 (PASS:pp 
+                                   (H:prp:por:::: por+)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:prop:DGA:F_S::: DGA)
+                                     (N<:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:F_S::rel: que))
+                                       (X:cu 
+                                         (CJT:x::::predicate: 
+                                           (P:vp 
+                                             (MV:v-fin:receber:PS_3S_IND::: recebeu))
+                                           (ACC:np 
+                                             (>N:pron-det:todo_o:M_P::quant: todos_os)
+                                             (H:n:documento:M_P::anr_np-def: documentos)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:n:operação:F_S::np-def: operação)))))
+                                         (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                         (CJT:x::::predicate: 
+                                           (P:vp 
+                                             (MV:v-fin:autorizar:PS_3S_IND::nosubj: autorizou))
+                                           (ACC:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:exportação:F_S::np-def: exportação)))))))
+                                 (»))
+                        (.)))

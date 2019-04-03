@@ -1,0 +1,105 @@
+(FRASE CP17-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                (H:prop:FIDE:F_S: FIDE)
+                                (,)
+                                (N<PRED:fcl 
+                                  (SUBJ:np 
+                                    (H:pron-indp:que:F_S::rel: que))
+                                  (P:vp (MV:v-fin:organizar:PR_3S_IND::fs-rel: organiza))
+                                  (ACC:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:competição:F_S::np-def: competição))
+                                  (ADVL:pp 
+                                    (H:prp:desde:::: desde)
+                                    (P<:np 
+                                      (H:num:1948:M_S::card: 1948))))
+                                (,))
+                       (X:cu (CJT:x::::predicate: 
+                               (P:vp (MV:v-fin:declarar:PS_3S_IND::: declarou))
+                               (ACC:icl (P:vp 
+                                          (MV:v-inf:estar:::icl-subst: estar))
+                                        (SC:adjp 
+                                          (H:adj:pronto:F_S::: pronta)
+                                          (A<arg:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:icl 
+                                              (P:vp 
+                                                (MV:v-inf:defender:::icl-fin: defender))
+                                              (ACC:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (>N:pron-det:meu:F_S::si: seus)
+                                                (H:n:direito:M_P::anr_np-def: direitos))
+                                              (ADVL:pp 
+                                                (H:prp:em:::: em)
+                                                (P<:np 
+                                                  (H:n:tribunal:M_S::np-idf: tribunal))))))))
+                             (,)
+                             (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                             (CJT:x::::predicate: 
+                               (P:vp (MV:v-fin:acusar:PS_3S_IND::nosubj: acusou))
+                               (ACC:cu (CJT:np 
+                                         (H:prop:Kasparov:M_S::: Kasparov))
+                                       (CO:conj-c:e:::co-acc: e)
+                                       (CJT:np 
+                                         (H:prop:Short:M_S::: Short)))
+                               (PIV:pp (H:prp:de:::: de)
+                                       (P<:icl 
+                                         (P:vp 
+                                           (MV:v-inf:privilegiar:3P::: privilegiarem))
+                                         (ACC:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (>N:pron-det:meu:M_P::si: seus)
+                                           (H:n:interesse:M_P::anr_np-def: interesses)
+                                           (N<:adjp 
+                                             (H:adj:económico:M_P::: económicos)))
+                                         (ADVL:pp 
+                                           (H:prp:a:::: a+)
+                                           (P<:icl 
+                                             (>N:art:o:M_S::artd: o)
+                                             (P:vp 
+                                               (MV:v-inf:tentar:3P::icl-temp: tentarem))
+                                             (ACC:icl 
+                                               (P:vp 
+                                                 (MV:v-inf:conseguir:::icl-subst: conseguir))
+                                               (ACC:np 
+                                                 (>N:art:um:F_S::arti: uma)
+                                                 (H:n:verba:F_S::anr_np-def: verba)
+                                                 (N<:cu 
+                                                   (CJT:adjp 
+                                                     (H:adj:superior:F_S::: superior)
+                                                     (A<:pp 
+                                                       (H:prp:a:::: a+)
+                                                       (P<:np 
+                                                         (>N:art:o:S::artd: a)
+                                                         (H:icl::::pcp: 
+                                                           (P:vp 
+                                                             (MV:v-pcp:oferecer:F_S::: oferecida))
+                                                           (PASS:pp 
+                                                             (H:prp:por:::: por+)
+                                                             (P<:np 
+                                                               (>N:art:o:S::artd: a)
+                                                               (H:n:cidade:F_S::np-def: cidade)
+                                                               (N<:pp 
+                                                                 (H:prp:de:::: de)
+                                                                 (P<:np 
+                                                                   (H:prop:Manchester:F_S::: Manchester)))))
+                                                           (ADVL:pp 
+                                                             (H:prp:para:::: para)
+                                                             (P<:icl 
+                                                               (P:vp 
+                                                                 (MV:v-inf:organizar:::icl-fin: organizar))
+                                                               (ACC:np 
+                                                                 (>N:art:o:F_S::artd: a)
+                                                                 (H:n:final:F_S::np-def: final))))))))
+                                                   (CO:conj-c:e:::co-postnom: e)
+                                                   (CJT:fcl 
+                                                     (SUBJ:np 
+                                                       (H:pron-indp:que:F_S::rel: que))
+                                                     (P:vp 
+                                                       (MV:v-fin:rondar:IMPF_3S_IND::: rondava))
+                                                     (ACC:np 
+                                                       (>N:art:o:M_P::artd: os)
+                                                       (>N:np 
+                                                         (>A:num:250:M_P::anr_np-def:card: 250)
+                                                         (H:n:mil:M_P::card:num: mil))
+                                                       (H:n:conto:M_P::anr_np-count:anr_np-def: contos))))))))))))
+                       (.)))

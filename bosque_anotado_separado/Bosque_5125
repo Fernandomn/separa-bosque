@@ -1,0 +1,29 @@
+(FRASE CP999-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:prop:Público:M_S: PÚBLICO))
+                        (P:vp (AUX:v-fin:ter:PR_3S_IND::: tem)
+                              (MV:v-pcp:dedicar:::: dedicado))
+                        (ACC:np (>N:adj:frequente:F_P::: frequentes)
+                                (H:n:notícia:F_P::anr_np-idf: notícias))
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:M_P::artd: os)
+                                       (H:n:benefício:M_P::np-def: benefícios)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:consumo:M_S::np-def: consumo)
+                                           (N<:v-pcp:moderar:M_S::: moderado)
+                                           (N<ARGO:cu 
+                                             (CJT:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:álcool:M_S::np-idf: álcool)
+                                                 (N<:pp:em_geral:::: em_geral)))
+                                             (CO:conj-c:e:::co-postnom: e)
+                                             (CJT:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:vinho:M_S::np-def: vinho)
+                                                 (N<:pp:em_particular:::: em_particular))))))))
+                        (.)))

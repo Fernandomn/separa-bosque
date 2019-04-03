@@ -1,0 +1,78 @@
+(FRASE CP120-7 (STA:cu (CJT:fcl (ADVL:pp 
+                                  (H:prp:em:: Em)
+                                  (P<:np 
+                                    (H:prop:Itália:F_S::: Itália)))
+                                (SUBJ:np 
+                                  (>N:art:o:M_P::artd: os)
+                                  (H:n:treinador:M_P::np-def: treinadores))
+                                (P:vp (MV:v-fin:recusar:PS_3P_IND::: recusaram))
+                                (ACC:np (>N:art:o:M_P::artd: os)
+                                        (H:n:jogo:M_P::np-def: jogos)
+                                        (N<:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:n:segunda-feira:F_S::np-def: segunda-feira)))
+                                        (,)
+                                        (N<PRED:fcl 
+                                          (ACC:icl- 
+                                            (ACC:np 
+                                              (H:pron-indp:que:M_P::: que)))
+                                          (SUBJ:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (H:n:televisão:F_P::np-def: televisões))
+                                          (P:vp 
+                                            (MV:v-fin:querer:IMPF_3P_IND::: queriam))
+                                          (-ACC:icl 
+                                            (P:vp 
+                                              (MV:v-inf:impôr:::: impôr))))))
+                       (,)
+                       (CJT:fcl (ADVL:pp 
+                                  (H:prp:em:::: em)
+                                  (P<:np 
+                                    (H:prop:Espanha:F_S::: Espanha)))
+                                (ADVL:advp 
+                                  (H:adv:também:::: também))
+                                (P:vp (MV:v-fin:haver:FUT_3S_IND::nofsubj: haverá))
+                                (ACC:np (H:n:jogo:M_P::np-idf: jogos)
+                                        (N<:x 
+                                          (X:pp 
+                                            (>P:adv:só:::: só)
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:sexta:F_S::np-idf: sexta)))
+                                          (X:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:np 
+                                              (H:n:domingo:M_S::np-idf: domingo))))))
+                       (,)
+                       (CO:conj-c:e:::co-advl: e)
+                       (CJT:fcl (ADVL:pp 
+                                  (H:prp:em:::: em)
+                                  (P<:np 
+                                    (H:n:lado:M_S::np-idf: lado)
+                                    (N<:np 
+                                      (H:pron-det:nenhum:M_S::quant: nenhum))))
+                                (SUBJ:np 
+                                  (H:pron-pers:se:MF_3SP_ACC::: se))
+                                (P:vp (MV:v-fin:ir:PS_3S_IND::: foi))
+                                (ADVL:adjp 
+                                  (>A:adv:tão:_::KOMP:quant: tão)
+                                  (H:adv:longe:::: longe)
+                                  (KOMP<:acl 
+                                    (COM:adv:como:::: como)
+                                    (ADVL:pp 
+                                      (H:prp:em:::: em)
+                                      (P<:np 
+                                        (H:prop:Portugal:M_S::: Portugal)))))
+                                (ADVL:icl::::ger: 
+                                  (P:vp (MV:v-ger:dividir:::: dividindo))
+                                  (ACC:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (H:n:jornada:F_P::np-def: jornadas))
+                                  (ADVL:pp 
+                                    (H:prp:por:::: por)
+                                    (P<:np 
+                                      (>N:num:quatro:M_P::card: quatro)
+                                      (H:n:dia:M_P::anr_np-count:anr_np-def: dias)))))
+                       (.)))

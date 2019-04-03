@@ -1,0 +1,24 @@
+(FRASE CP442-8 (STA:fcl (P:vp (MV:v-fin:passar:PS_3S_IND::nosubj: passou))
+                        (ACC:np (>N:art:o:F_P::artd: as)
+                                (H:n:caixa:F_P::np-def: caixas)
+                                (N<:adjp 
+                                  (H:adj:registador:M_P: registadores)))
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:trazer:::: trazendo))
+                          (OC:icl::::pcp: 
+                            (P:vp (MV:v-pcp:esconder:F_P::: escondidas))
+                            (ADVL:pp (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:bolso:M_P::np-def: bolsos))))
+                          (ACC:np (>N:num:12:F_P::card: 12)
+                                  (H:n:embalagem:F_P::anr_np-count:anr_np-def: embalagens)
+                                  (N<:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:np 
+                                      (>N:num:10:F_P::card: 10)
+                                      (H:n:lâmina:F_P::anr_np-count:anr_np-def: lâminas)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:v-inf:barbear:::: barbear))))))
+                        (.)))

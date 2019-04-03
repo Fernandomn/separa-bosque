@@ -1,0 +1,83 @@
+(FRASE CP362-4 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:situação:F_S::np-def: situação))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:melhorar:PS_3S_IND::: melhorou))
+                        (ADVL:pp (H:prp:após:::: após)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:aprovação:F_S::np-def: aprovação)
+                                        (N<:pp 
+                                          (H:prp:por:::: por+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:prop:AMS:F_S::: AMS)))
+                                        (,)
+                                        (N<PRED:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np::::date: 
+                                            (H:n:abril:M_S::anr_np-idf:prop: Abril)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:adjp 
+                                                (H:num:1994:M_S::card: 1994)))))
+                                        (,)))
+                        (ADVL:fcl (ADVL:conj-s:pois:::: pois)
+                                  (SUBJ:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (H:n:linha:F_P::np-def: linhas)
+                                    (N<:np 
+                                      (H:n:mestra:F_P::np-idf: mestras))
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:ordenamento:M_S::np-def: ordenamento)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:concelho:M_S::np-def: concelho))))))
+                                  (X:cu (CJT:x::::predicate: 
+                                          (ADVL:advp 
+                                            (H:adv:não:::: não))
+                                          (P:vp 
+                                            (AUX:v-fin:ser:PS_3P_IND::: foram)
+                                            (MV:v-pcp:enviar:F_P::anr_pass:passive: enviadas))
+                                          (ADVL:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:np 
+                                              (H:n:ratificação:F_S::np-idf: ratificação)
+                                              (N<:adjp 
+                                                (H:adj:governamental:F_S::: governamental))))
+                                          (,)
+                                          (ADVL:fcl 
+                                            (COM:adv:como:::ks: como)
+                                            (SUBJ:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:presidente:F_S::np-def: presidente))
+                                            (P:vp 
+                                              (MV:v-fin:anunciar:MQP_3S_IND::: anunciara))))
+                                        (,)
+                                        (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                                        (CJT:x::::predicate: 
+                                          (P:vp 
+                                            (AUX:v-fin:ter:FUT_3P_IND::: terão)
+                                            (MV:v-pcp:ficar:::nosubj: ficado))
+                                          («)
+                                          (SA:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (H:cu 
+                                                (CJT:np 
+                                                  (>N:art:o:F_P::artd: as)
+                                                  (H:n:gaveta:F_P::np-def: gavetas))
+                                                (CO:conj-c:ou:::co-prparg: ou)
+                                                (CJT:np 
+                                                  (H:n:prateleira:F_P::np-idf: prateleiras)))
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:câmara:F_S::np-def:prop: Câmara)))))
+                                          (»))))
+                        (.)))

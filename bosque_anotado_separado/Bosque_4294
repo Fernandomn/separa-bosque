@@ -1,0 +1,50 @@
+(FRASE CP832-9 (STA:fcl (ADVL:advp (H:adv:não:: Não))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::nosubj: é))
+                        (SC:np (H:n:caso:M_S::np-idf: caso)
+                               (N<:pp (H:prp:para:::: para)
+                                      (P<:np 
+                                        (H:pron-det:pouco:MF_SP::KOMP:quant: menos))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:pois:::: pois)
+                                  (P:vp (MV:v-fin:ser:PR_3P_IND::nosubj: são))
+                                  (SC:cu 
+                                    (CJT:np 
+                                      (H:n:gémeo:M_P::np-idf: gémeos))
+                                    (,)
+                                    (CO:conj-c:mas:::co-sc: mas)
+                                    (CJT:np 
+                                      (>N:pp 
+                                        (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:pron-det:este:M_S::dem: este)
+                                          (H:n:caso:M_S::np-def: caso)))
+                                      (,)
+                                      (>N:art:o:M_P::artd: os)
+                                      (>N:adj:chamado:M_P::: chamados)
+                                      (H:n:gémeos:M_P::anr_np-def: gémeos)
+                                      (N<:adjp 
+                                        (H:adj:falso:M_P::: falsos))
+                                      (,)
+                                      (APP:adjp 
+                                        (H:adj:dizigótico:M_P::DERS: dizigóticos)
+                                        (A<:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:linguagem:F_S::np-def: linguagem)
+                                            (N<:adjp 
+                                              (H:adj:técnico:F_S::: técnica)))))
+                                      (,)
+                                      (N<:pp 
+                                        (H:prp:por:::: por)
+                                        (P<:icl 
+                                          (P:vp 
+                                            (AUX:v-inf:ser:3P::: serem)
+                                            (MV:v-pcp:gerar:M_P::anr_pass:passive: gerados))
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (H:n:ovo:M_P::np-idf: óvulos)
+                                              (N<:adjp 
+                                                (H:adj:diferente:M_P::: diferentes)))))))))
+                        (.)))

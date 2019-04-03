@@ -1,0 +1,59 @@
+(FRASE CP933-6 (STA:fcl (P:vp (MV:v-fin:ser:PR_3S_IND: É))
+                        (SC:adjp (H:adj:preciso:M_S::: preciso))
+                        (SUBJ:np (>N:art:um:M_S::arti: um)
+                                 (>N:adj:meio:M_S::: meio)
+                                 (H:n:dia:M_S::anr_np-idf: dia)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:trabalho:M_S::np-idf: trabalho))))
+                        (PIV:pp (H:prp:a:::: a)
+                                (P<:np (>N:art:um:M_S::arti: um)
+                                       (H:n:operário:M_S::np-idf: operário)))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:ganhar:::icl-fin: ganhar))
+                                   (ACC:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (>N:adj:famoso:F_S::: famosa)
+                                     (H:n:nota:F_S::anr_np-def: nota)
+                                     (N<:adjp 
+                                       (H:adj:vermelho:F_S::: vermelha))
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:num:três:M_P::card: três)
+                                         (H:n:peso:M_P::anr_np-count:anr_np-def: pesos)))
+                                     (N<:pp 
+                                       (H:prp:com:::: com)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:efígie:F_S::np-def: efígie)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:prop:Che:M_S::: Che)))))
+                                     (N<:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:F_S::rel: que))
+                                       (DAT:np 
+                                         (H:pron-pers:ele:M_3S_DAT::: lhe))
+                                       (P:vp 
+                                         (MV:v-fin:permitir:FUT_3S_IND::fs-rel: permitirá))
+                                       (ACC:icl 
+                                         (P:vp 
+                                           (MV:v-inf:comprar:::icl-subst: comprar))
+                                         (ACC:np 
+                                           (>N:num:três:F_P::card: três)
+                                           (H:n:banana:F_P::anr_np-count:anr_np-def: bananas))
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:mercado:M_S::np-def: mercado)
+                                             (N<:adjp 
+                                               (H:adj:livre:M_S::: livre))
+                                             (N<:adjp 
+                                               (H:adj:camponês:M_S::: camponês)))))))))
+                        (.)))

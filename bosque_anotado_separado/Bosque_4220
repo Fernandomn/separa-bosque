@@ -1,0 +1,46 @@
+(FRASE CP818-10 (QUE:fcl (SUBJ:np (H:pron-indp:quem:MF_S::interr: Quem))
+                         (P:vp (AUX:v-fin:dever:PR_3S_IND: deve)
+                               (AUX:v-inf:ser:::: ser)
+                               (MV:v-pcp:responsabilizar:M_S::anr_pass:passive: responsabilizado))
+                         (PASS:pp (H:prp:por:::: por+)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:poluição:F_S::np-def: poluição)
+                                    (N<ARGO:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (>N:pron-det:nosso:M_P::: nossos)
+                                        (H:cu 
+                                          (CJT:np 
+                                            (H:n:campo:M_P::anr_np-def: campos))
+                                          (CO:conj-c:e:::co-prparg: e)
+                                          (CJT:np 
+                                            (H:n:água:F_P::np-idf: águas)))))
+                                    (,)
+                                    (N<PRED:icl::::pcp: 
+                                      (P:vp 
+                                        (MV:v-pcp:provocar:F_S::: provocada))
+                                      (PASS:pp 
+                                        (H:prp:por:::: por+)
+                                        (P<:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:tonelada:F_P::np-def: toneladas)
+                                          (N<ARG:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:chumbo:M_S::np-idf:np-partitive1: chumbo)))
+                                          (N<PRED:icl::::pcp: 
+                                            (ADVL:advp 
+                                              (H:adv:anualmente:::: anualmente))
+                                            (P:vp 
+                                              (MV:v-pcp:disseminar:F_P::: disseminadas))
+                                            (PASS:pp 
+                                              (H:prp:por:::: por)
+                                              (P<:np 
+                                                (H:n:milhar:M_P::card:np-idf:num: milhares)
+                                                (N<ARG:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:disparo:M_P::np-dequant:np-idf: disparos)))))))))))
+                         (?)))

@@ -1,0 +1,65 @@
+(FRASE CP309-1 (STA:fcl (ADVL:advp (H:adv:entretanto:kc: Entretanto))
+                        (,)
+                        (SUBJ:np (H:prop:Bernardo_Vasconcelos:M_S::: Bernardo_Vasconcelos)
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:médico:M_S::np-idf: médico)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Benfica:M_S::: Benfica)))))
+                        (,)
+                        (P:vp (MV:v-fin:confirmar:PS_3S_IND::: confirmou))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (,)
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em+)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:sequência:F_S::np-def: sequência)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:ocorrer:M_S::n: ocorrido))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (>N:adj:último:M_S::NUM-ord: último)
+                                               (H:cu 
+                                                 (CJT:np 
+                                                   (H:prop:Benfica:M_S::: Benfica))
+                                                 (-)
+                                                 (CJT:np 
+                                                   (H:prop:Sporting:M_S::: Sporting))))))))))
+                                 (,)
+                                 (SUBJ:np 
+                                   (H:prop:João_Pinto:M_S::: João_Pinto))
+                                 (P:vp (AUX:v-fin:ser:FUT_3S_IND::: será)
+                                       (MV:v-pcp:operar:M_S::anr_pass:icl-subst:passive: operado))
+                                 (,)
+                                 (ADVL:fcl 
+                                   (SUB:conj-s:embora:::: embora)
+                                   (ADVL:advp 
+                                     (>A:adv:ainda:::: ainda)
+                                     (H:adv:não:::: não))
+                                   (SUBJ:np 
+                                     (H:pron-pers:se:MF_3SP_ACC::: se))
+                                   (P:vp 
+                                     (MV:v-fin:conhecer:PR_3S_SUBJ::fs-conc:passive: conheça))
+                                   (ADVL:advp 
+                                     (H:adv:exactamente:::: exactamente))
+                                   (ACC:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:extensão:F_S::np-def: extensão)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:lesão:F_S::np-def: lesão))))))
+                        (.)))

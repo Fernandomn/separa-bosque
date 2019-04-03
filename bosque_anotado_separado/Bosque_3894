@@ -1,0 +1,49 @@
+(FRASE CP757-3 (STA:fcl (SUBJ:np (H:n:informação:F_P::np-idf: Informações)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Exército:M_S::: Exército))))
+                        (,)
+                        (ADVL:pp (H:pp:em_termos:::: em_termos)
+                                 (P<:adjp 
+                                   (H:adj:global:M_P::: globais)))
+                        (,)
+                        (P:vp (MV:v-fin:dar:PR_3P_IND::: dão))
+                        (ACC:np (H:n:conta:F_S::np-idf: conta)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:cu 
+                                           (CJT:np 
+                                             (>N:num:23:M_P::card: 23)
+                                             (H:n-adj:palestiniano:M_P::anr_np-count:anr_np-def: palestinianos)
+                                             (N<:adjp 
+                                               (H:adj:morto:M_P::: mortos)))
+                                           (CO:conj-c:e:::co-prparg: e)
+                                           (CJT:np 
+                                             (H:num:211:M_P::card: 211)
+                                             (N<:icl::::pcp: 
+                                               (P:vp 
+                                                 (MV:v-pcp:ferir:M_P::: feridos))
+                                               (PASS:pp 
+                                                 (H:prp:por:::: por)
+                                                 (P<:np 
+                                                   (H:n:soldado:M_P::np-idf: soldados))))))
+                                         (,)
+                                         (N<PRED:pp 
+                                           (H:prp:desde:::: desde)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:dia:M_S::np-def: dia)
+                                             (N<:adjp::::date: 
+                                               (H:num:1:M_S::card: 1)
+                                               (A<:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:janeiro:M_S::np-idf:prop: Janeiro))))))
+                                         (,)
+                                         (N<PRED:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:prop:Cisjordânia:F_S::: Cisjordânia))))))
+                        (.)))

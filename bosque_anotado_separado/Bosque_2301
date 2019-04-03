@@ -1,0 +1,53 @@
+(FRASE CP438-5 (STA:fcl (SUBJ:np (H:prop:Peixe:M_S: Peixe))
+                        (P:vp (AUX:v-fin:acabar:PS_3S_IND::: acabou)
+                              (PRT-AUX:prp:por:::: por)
+                              (MV:v-inf:ser:::: ser))
+                        (SC:np (>N:art:o:M_S::artd: o)
+                               (H:n:herói:M_S::np-def: herói)
+                               (N<:adjp (H:adj:sportinguista:M_S::: sportinguista)))
+                        (,)
+                        (ADVL:pp (H:prp:a:::: a+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:icl 
+                                          (P:vp 
+                                            (MV:v-inf:defender:::icl-temp: defender))
+                                          (,)
+                                          (ADVL:cu 
+                                            (CJT:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (>N:adj:último:M_S::NUM-ord: último)
+                                                (H:n:minuto:M_S::anr_np-def: minuto)))
+                                            (CO:conj-c:e:::co-advl: e)
+                                            (CJT:pp 
+                                              (H:prp:sobre:::: sobre)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:linha:F_S::np-def: linha)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:golo:M_S::np-idf: golo))))))
+                                          (,)
+                                          (ACC:np 
+                                            (>N:art:um:M_S::arti: um)
+                                            (H:n:remate:M_S::np-idf: remate)
+                                            (N<:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:M_S::rel: que))
+                                              (P:vp 
+                                                (MV:v-fin:dar:PR_3S_COND::fs-rel: daria))
+                                              (ACC:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:empate:M_S::np-def: empate))
+                                              (PIV:pp 
+                                                (H:prp:a:::: a+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:clube:M_S::np-def: clube)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (H:prop:Vila_do_Conde:F_S::: Vila_do_Conde))))))))))
+                        (.)))

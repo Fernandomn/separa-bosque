@@ -1,0 +1,56 @@
+(FRASE CP152-2 (STA:fcl (ADVL:pp (H:pp:de_acordo:: De_acordo)
+                                 (P<:pp (H:prp:com:::: com)
+                                        (P<:np 
+                                          (H:prop:Philippe_Moureaux:M_S::: Philippe_Moureaux)
+                                          (,)
+                                          (N<PRED:np 
+                                            (>N:ec:ex-:::: ex-)
+                                            (H:n:vice-primeiro-ministro:M_S::: vice-primeiro-ministro)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (>N:pron-det:mesmo:M_S::diff: mesmo)
+                                                (H:n:partido:M_S::anr_np-def: partido)))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (>N:pron-det:seu:F_S::: sua)
+                                 (H:n:morte:F_S::anr_np-def: morte))
+                        (P:vp (MV:v-fin:ocorrer:PS_3S_IND::: ocorreu))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:momento:M_S::np-def: momento)
+                                        (N<:fcl 
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (H:pron-indp:que:M_S::rel: que)))
+                                          (SUBJ:np 
+                                            (H:prop:Cools:M_S::: Cools))
+                                          (P:vp 
+                                            (MV:v-fin:estar:PR_3S_COND::fs-rel: estaria))
+                                          (SC:adjp 
+                                            (H:adj:prestes:M_S::: prestes)
+                                            (A<arg:pp 
+                                              (H:prp:a:::: a)
+                                              (P<:icl 
+                                                (P:vp 
+                                                  (MV:v-inf:revelar:::: revelar))
+                                                (ACC:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:pagamento:M_S::np-def: pagamento)
+                                                  (N<ARGO:pp 
+                                                    (H:prp:de:::: de+)
+                                                    (P<:np 
+                                                      (>N:art:o:P::artd: as)
+                                                      («)
+                                                      (H:n:luva:F_P::anr_np-idf: luvas)
+                                                      (»)))
+                                                  (N<:pp 
+                                                    (H:prp:por:::: por+)
+                                                    (P<:np 
+                                                      (>N:art:o:S::artd: a)
+                                                      (H:n:firma:F_S::np-def: firma)
+                                                      (N<:adjp 
+                                                        (H:adj:italiano:F_S::: italiana)))))))))))
+                        (.)))

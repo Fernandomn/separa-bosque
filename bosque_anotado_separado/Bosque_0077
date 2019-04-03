@@ -1,0 +1,82 @@
+(FRASE CP14-2 (STA:fcl (CO:conj-c:mas:: Mas)
+                       (P:vp (MV:v-fin:ser:PR_3S_IND::nosubj: é-))
+                       (SC:np (H:pron-pers:ele:M_3S_ACC::: o))
+                       (ADVL:advp (H:adv:apenas:::: apenas))
+                       (ADVL:fcl (SUB:conj-s:porque:::: porque)
+                                 (SUBJ:cu 
+                                   (CJT:np 
+                                     (>N:pron-det:este:M_S::dem: este)
+                                     (H:prop:Governo:M_S::: Governo))
+                                   (CO:conj-c:e:::co-subj: e)
+                                   (CJT:np 
+                                     (>N:pron-det:este:F_S::dem: esta)
+                                     (H:n:maioria:F_S::np-def: maioria)))
+                                 (,)
+                                 (P:vp (MV:v-fin:escolher:PS_3P_IND::: escolheram))
+                                 (,)
+                                 (ADVL:pp 
+                                   (H:prp:desde:::: desde)
+                                   (P<:np::::date: 
+                                     (H:n:agosto:M_S::anr_np-idf:prop: Agosto)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:ano:M_S::np-def: ano)
+                                         (N<:v-pcp:passar:M_S::: passado)))))
+                                 (,)
+                                 (ACC:cu 
+                                   (CJT:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:imigração:F_S::np-def: imigração))
+                                   (CO:conj-c:e:::co-acc: e)
+                                   (CJT:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:política:F_S::np-def: política)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:n:imigração:F_S::np-def: imigração)))))
+                                 (OC:acl 
+                                   (PRD:adv:como:::prp: como)
+                                   (SC:np 
+                                     (H:n:ponto:M_S::np-idf: ponto)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:clivagem:F_S::np-idf: clivagem)
+                                         (N<:adjp 
+                                           (H:adj:político:F_S::: política))
+                                         (N<:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:np 
+                                             (>N:art:o:F_P::artd: as)
+                                             (>N:adj:próximo:F_P::: próximas)
+                                             (H:n-adj:legislativo:F_P::anr_np-def: legislativas)
+                                             (,)
+                                             (N<PRED:icl 
+                                               (ADVL:advp 
+                                                 (H:adv:ontem:::: ontem)
+                                                 (A<:adv:mesmo:::quant: mesmo))
+                                               (P:vp 
+                                                 (MV:v-pcp:marcar:F_P::: marcadas))
+                                               (ADVL:pp 
+                                                 (H:prp:para:::: para)
+                                                 (P<:np::::date: 
+                                                   (H:n:março:M_S::anr_np-idf:prop: Março))
+                                                 (N<:pp 
+                                                   (H:prp:de:::: de)
+                                                   (P<:adjp 
+                                                     (H:num:1998:M_S::card: 1998))))
+                                               (,)
+                                               (ADVL:pp 
+                                                 (H:prp:em:::: em)
+                                                 (P<:adjp 
+                                                   (H:adj:simultâneo:M_S::: simultâneo)
+                                                   (A<:pp 
+                                                     (H:prp:com:::: com)
+                                                     (P<:np 
+                                                       (>N:art:o:F_P::artd: as)
+                                                       (H:n-adj:regional:F_P::np-def: regionais)))))))))))))
+                       (.)))

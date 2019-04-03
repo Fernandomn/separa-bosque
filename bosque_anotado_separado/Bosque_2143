@@ -1,0 +1,68 @@
+(FRASE CP410-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:cineasta:M_S::np-def: cineasta)
+                                 (N<:adjp 
+                                   (H:adj:americano:M_S: americano))
+                                 (N<:np (H:prop:Steven_Spielberg:M_S::: Steven_Spielberg)))
+                        (P:vp (MV:v-fin:apresentar:PS_3S_IND::: apresentou))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:quinta-feira:F_S::np-def: quinta-feira)))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:estreia:F_S::np-idf: estreia)
+                                        (N<:adjp 
+                                          (H:adj:mundial:F_S::: mundial))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:pátio:M_S::np-idf: pátio)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Liceu_Sophie_Charlotte:M_S::: Liceu_Sophie_Charlotte)
+                                            (,)
+                                            (N<PRED:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (H:prop:Berlim:M_S::: Berlim)))
+                                            (,)))))
+                        (ADVL:pp (H:prp:na_presença_de:::: na_presença_de)
+                                 (P<:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:plateia:F_S::np-idf: plateia)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:adj:jovem:M_P::: jovens)
+                                            (H:n:aluno:M_P::anr_np-idf: alunos)
+                                            (N<:cu 
+                                              (CJT:v-pcp:impressionar:M_P::: impressionados)
+                                              (CO:conj-c:e:::co-postnom: e)
+                                              (CJT:adjp 
+                                                (H:adj:atento:M_P::: atentos)))))))
+                        (,)
+                        (ACC:np (>N:art:um:M_S::arti: um)
+                                (H:n:documentário:M_S::np-idf: documentário)
+                                (N<:adjp 
+                                  (>A:adv:bastante:::quant: bastante)
+                                  (H:adj:emotivo:M_S::anr_np-mass: emotivo))
+                                (N<:pp (H:prp:sobre:::: sobre)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n-adj:sobrevivente:M_P::np-def: sobreviventes)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:holocausto:M_S::np-def: holocausto)))))
+                                (,)
+                                (APP:np (>N:art:um:M_S::arti: um)
+                                        (H:n:CD-Rom:M_S::np-idf: CD-Rom)
+                                        (,)
+                                        (N<PRED:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:intitular:M_S::: intitulado))
+                                          («)
+                                          (ACC:np 
+                                            (H:prop:O_Futuro_da_Educação:M_S::: O_Futuro_da_Educação))
+                                          (»))))
+                        (.)))

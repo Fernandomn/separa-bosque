@@ -1,0 +1,106 @@
+(FRASE CP396-1 (STA:fcl (SUBJ:np (H:cu (CJT:np 
+                                         (>N:art:o:F_S::artd: A)
+                                         (H:n:fase:F_S::np-def: fase)
+                                         (N<:adjp 
+                                           (H:adj:II:F_S::NUM-ord: II))
+                                         (N<:pp 
+                                           (H:prp:de:: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:terminal:M_S::np-def: terminal)
+                                             («)
+                                             (N<:np 
+                                               (H:n:multipurpose:M_S::np-idf: multipurpose))
+                                             (»))))
+                                       (,)
+                                       (CJT:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (>N:adj:novo:M_S::: novo)
+                                         (H:n:porto:M_S::anr_np-def: porto)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:pesca:F_S::np-idf: pesca)))
+                                         (N<:pp 
+                                           (H:prp:com:::: com)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (>N:adj:respectivo:F_S::: respectiva)
+                                             (H:n:lota:F_S::anr_np-def: lota))))
+                                       (,)
+                                       (CJT:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:sistema:M_S::np-def: sistema)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:cu 
+                                               (CJT:np 
+                                                 (H:n:comando:M_S::np-idf: comando))
+                                               (CO:conj-c:e:::co-prparg: e)
+                                               (CJT:np 
+                                                 (H:n:controlo:M_S::np-idf: controlo)))
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_P::artd: os)
+                                                 (H:n:terminal:M_P::np-def: terminais)
+                                                 (N<:cu 
+                                                   (CJT:adjp 
+                                                     (H:adj:petrolífero:M_S::: petrolífero))
+                                                   (CO:conj-c:e:::co-postnom: e)
+                                                   (CJT:adjp 
+                                                     (H:adj:petroquímico:M_S::: petroquímico))))))))
+                                       (,)
+                                       (CJT:np 
+                                         (>N:pron-det:diversos:M_P::quant: diversos)
+                                         (H:n:acesso:M_P::anr_np-idf: acessos)
+                                         (N<:adjp 
+                                           (H:adj:rodo-ferroviário:M_P::: rodo-ferroviários)))
+                                       (CO:conj-c:e:::co-subj: e)
+                                       (CJT:np 
+                                         (H:cu 
+                                           (CJT:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:beneficiação:F_S::np-def: beneficiação))
+                                           (CO:conj-c:e:::co-subj: e)
+                                           (CJT:np 
+                                             (H:n:tratamento:M_S::np-idf: tratamento)
+                                             (N<:adjp 
+                                               (H:adj:paisagístico:M_P::: paisagísticos))))
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:zona:F_S::np-def: zona)
+                                             (N<:adjp 
+                                               (H:adj:marginal:F_S::: marginal))
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:prop:Sines:MF_S::: Sines)))))))
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:investimento:M_P::np-idf: investimentos)
+                                   (N<:icl::::ger: 
+                                     (P:vp 
+                                       (MV:v-ger:rondar:::: rondando))
+                                     (ACC:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (>N:num:4,7:M_P::card: 4,7)
+                                       (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                       (N<ARG:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:conto:M_P::np-dequant:np-idf: contos))))))
+                                 (,))
+                        (P:vp (MV:v-fin:ser:PS_3P_IND::: foram))
+                        (SC:np (>N:art:o:F_P::artd: as)
+                               (H:n:infra-estrutura:F_P::np-def: infra-estruturas)
+                               (N<:fcl (ACC:np 
+                                         (H:pron-indp:que:F_P::rel: que))
+                                       (SUBJ:np 
+                                         (H:prop:Azevedo_Soares:M_S::: Azevedo_Soares))
+                                       (P:vp 
+                                         (MV:v-fin:inaugurar:PS_3S_IND::fs-rel: inaugurou))))
+                        (.)))

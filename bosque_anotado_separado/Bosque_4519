@@ -1,0 +1,55 @@
+(FRASE CP882-4 (STA:cu (CJT:fcl (PRED:cu 
+                                  (CJT:icl::pcp: 
+                                    (P:vp 
+                                      (MV:v-pcp:considerar:M_S::: Considerado))
+                                    (SC:v-pcp:culpar:M_S::: culpado))
+                                  (CO:conj-c:mas:::co-pred: mas)
+                                  (CJT:icl::::pcp: 
+                                    (P:vp 
+                                      (MV:v-pcp:absolver:M_S::: absolvido))
+                                    (PASS:pp 
+                                      (H:prp:por:::: por+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:justiça:F_S::np-def: justiça)
+                                        (N<:adjp 
+                                          (H:adj:militar:F_S::: militar))
+                                        (N<:np 
+                                          (H:n:italiana:F_S::np-idf: italiana))))))
+                                (,)
+                                (SUBJ:np 
+                                  (>N:art:o:M_S::artd: o)
+                                  (>N:ec:ex-:::: ex-)
+                                  (H:n:nazi:M_S::: nazi)
+                                  (N<:np 
+                                    (H:prop:Erich_Priebke:M_S::: Erich_Priebke)))
+                                (P:vp- (AUX:v-fin:ser:PS_3S_IND::: foi))
+                                (ADVL:advp 
+                                  (H:adv:de_novo:::: de_novo))
+                                (-P:vp (MV:v-pcp:prender:M_S::anr_pass:passive: preso)))
+                       (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                       (CJT:fcl (SUBJ:np 
+                                  (H:pron-indp:isso:M_S::dem: isso))
+                                (ADVL:advp 
+                                  (H:adv:não:::: não))
+                                (P:vp (MV:v-fin:lavar:PR_3S_IND::: lava))
+                                (ACC:np (>N:art:o:M_S::artd: o)
+                                        (H:n:sentimento:M_S::np-def: sentimento)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_S::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:cobrir:PS_3S_IND::fs-rel: cobriu))
+                                          (ACC:np 
+                                            (>N:art:um:F_S::arti: uma)
+                                            (H:n:maioria:F_S::np-idf: maioria)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:prop:Itália:F_S::: Itália)))))
+                                        (;)
+                                        (APP:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:vergonha:F_S::np-def: vergonha))))
+                       (.)))

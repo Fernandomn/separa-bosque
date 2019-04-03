@@ -1,0 +1,32 @@
+(FRASE CP788-2 (STA:fcl (FOC:advp (H:adv:é:foc: É))
+                        (ADVL:advp (H:adv:assim:::: assim))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (SUBJ:np (H:prop:Jorge_Seabra:M_S::: Jorge_Seabra)
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:gestor:M_S::np-idf: gestor)
+                                   (N<:adjp 
+                                     (H:adj:têxtil:M_S::: têxtil)))
+                                 (,))
+                        (P:vp (MV:v-fin:avaliar:PR_3S_IND::: avalia))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (>N:adj:recente:F_S::: recente)
+                                (H:n:desvalorização:F_S::anr_np-def: desvalorização)
+                                (N<ARGO:pp 
+                                  (H:prp:de:::: de+)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:moeda:F_S::np-def: moeda)
+                                    (N<:adjp 
+                                      (H:adj:português:F_S::: portuguesa))))
+                                (N<:fcl (ACC:np 
+                                          (H:pron-indp:que:F_S::rel: que))
+                                        (,)
+                                        (ADVL:advp 
+                                          (H:adv:no_entanto:::kc: no_entanto))
+                                        (,)
+                                        (P:vp 
+                                          (MV:v-fin:considerar:PS_3S_IND::fs-rel:nosubj: considerou))
+                                        (OC:adjp 
+                                          (H:adj:insuficiente:F_S::: insuficiente))))
+                        (.)))

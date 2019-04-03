@@ -1,0 +1,112 @@
+(FRASE CP958-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:trabalho:M_S::np-def: trabalho)
+                                 (N<:pp (H:prp:em:: em)
+                                        (P<:np 
+                                          (H:n:família:F_S::np-idf: família)))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:prop:Hestons:M_P::: Hestons)
+                                          (N<:cu 
+                                            (CJT:np 
+                                              (H:n:pai:M_S::np-idf: pai))
+                                            (CO:conj-c:e:::co-postnom: e)
+                                            (CJT:np 
+                                              (H:n:filho:M_S::np-idf: filho)))
+                                          ({)
+                                          (APP:cu 
+                                            (CJT:np 
+                                              (H:prop:Charlton:M_S::: Charlton)
+                                              (,)
+                                              (APP:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:intérprete:M_S::np-def: intérprete))
+                                              (,))
+                                            (CO:conj-c:e:::co-app: e)
+                                            (CJT:np 
+                                              (H:prop:Fraser:M_S::: Fraser)
+                                              (,)
+                                              (APP:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:realizador:M_S::np-def: realizador))))
+                                          (}))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:revelar:PS_3S_IND::hyfen: revelou-))
+                                (ACC:np (H:pron-pers:se:M_3S_ACC::obj: se))
+                                (OC:adjp 
+                                  (>A:adv:bastante:::quant: bastante)
+                                  (H:adj:interessante:M_S::anr_np-mass: interessante))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    («)
+                                    (H:prop:Ilha_do_Tesouro:F_S::: Ilha_do_Tesouro)
+                                    (»)
+                                    (N<:fcl 
+                                      (ACC:np 
+                                        (H:pron-indp:que:F_S::rel: que))
+                                      (ADVL:pp 
+                                        (H:prp:há:::: há)
+                                        (P<:np 
+                                          (H:pron-det:pouco:M_S::quant: pouco)))
+                                      (P:vp 
+                                        (MV:v-fin:ver:PS_1P_IND::fs-rel:nosubj: vimos))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:justificar:PR_3S_IND::nosubj: justifica))
+                                (ACC:np (>N:art:o:M_S::artd: o)
+                                        (H:n:interesse:M_S::np-def: interesse)
+                                        (N<ARGO:pp 
+                                          (H:prp:por:::: por+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:reincidência:F_S::np-def: reincidência)))
+                                        (,)
+                                        (N<PRED:pp 
+                                          (>P:adv:agora:::kc: agora)
+                                          (H:prp:à_volta_de:::: à_volta_de)
+                                          (P<:np 
+                                            (>N:pron-det:outro:F_S::KOMP:diff: outra)
+                                            (H:n:figura:F_S::anr_np-idf: figura)
+                                            (N<:adjp 
+                                              (H:adj:clássico:F_S::: clássica))
+                                            (;)
+                                            (APP:np 
+                                              (H:prop:Sherlock_Holmes:M_S::: Sherlock_Holmes)
+                                              (,)
+                                              (N<PRED:icl::::ger: 
+                                                (P:vp 
+                                                  (MV:v-ger:investigar:::: investigando))
+                                                (ACC:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:desaparição:F_S::np-def: desaparição)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (>N:art:um:M_S::arti: um)
+                                                      (H:n:militar:M_S::np-idf: militar)
+                                                      (N<:adjp 
+                                                        (H:adj:britânico:M_S::: britânico)))))
+                                                (,)
+                                                (S<:fcl 
+                                                  (SUBJ:np 
+                                                    (H:pron-indp:o_que:M_S::rel: o_que))
+                                                  (ACC:np 
+                                                    (H:pron-pers:ele:M_3S_ACC::: o))
+                                                  (P:vp 
+                                                    (MV:v-fin:levar:PR_3S_IND::: leva))
+                                                  (PIV:pp 
+                                                    (H:prp:a:::: a)
+                                                    (P<:np 
+                                                      (>N:art:um:F_S::arti: uma)
+                                                      (H:n:intriga:F_S::np-idf: intriga)
+                                                      (N<:pp 
+                                                        (H:prp:de:::: de)
+                                                        (P<:cu 
+                                                          (CJT:np 
+                                                            (H:n:cobiça:F_S::np-idf: cobiça))
+                                                          (CO:conj-c:e:::co-prparg: e)
+                                                          (CJT:np 
+                                                            (H:n:vingança:F_S::np-idf: vingança))))))))))))))
+                        (.)))

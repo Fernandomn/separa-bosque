@@ -1,0 +1,48 @@
+(FRASE CP715-2 (STA:fcl (ADVL:advp (H:adv:depois:: Depois))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:transição:F_S::np-def: transição)
+                                        (N<:pp 
+                                          (H:prp:para:::: para)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:ataque:M_S::np-def: ataque)))))
+                        (,)
+                        (SUBJ:cu (CJT:np 
+                                   (H:prop:Mário_Costa:M_S::: Mário_Costa))
+                                 (CO:conj-c:e:::co-subj: e)
+                                 (CJT:np 
+                                   (H:prop:Paulo_Faria:M_S::: Paulo_Faria)
+                                   ({)
+                                   (N<PRED:pp 
+                                     (H:pp 
+                                       (>P:adv:ainda:::: ainda)
+                                       (H:prp:em:::: em)
+                                       (P<:np 
+                                         (H:n:dúvida:F_S::np-idf: dúvida)))
+                                     (N<:pp 
+                                       (H:prp:devido_a:::: devido_a)
+                                       (P<:np 
+                                         (>N:art:um:F_S::arti: uma)
+                                         (H:n:lesão:F_S::np-idf: lesão))))
+                                   (})))
+                        (P:vp (MV:v-fin:sair:PR_3P_IND::: saem))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:dar:::icl-fin: dar))
+                                   (ACC:np 
+                                     (H:n:lugar:M_S::np-idf: lugar))
+                                   (PIV:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:atacante:M_P::np-def: atacantes)
+                                       (N<:cu 
+                                         (CJT:np 
+                                           (H:prop:Bolotskih:M_S::: Bolotskih))
+                                         (CO:conj-c:e:::co-postnom: e)
+                                         (CJT:np 
+                                           (H:prop:Dobrescu:M_S::: Dobrescu)))))))
+                        (.)))

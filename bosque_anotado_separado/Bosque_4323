@@ -1,0 +1,59 @@
+(FRASE CP838-2 (STA:fcl (PRED:cu (CJT:icl::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:comercializar:M_S::: Comercializado))
+                                   (ADVL:pp 
+                                     (H:prp:sob:::: sob)
+                                     (P<:np 
+                                       (>N:art:o:F_P::artd: as)
+                                       (H:n:designação:F_P::np-def: designações)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:cu 
+                                           (CJT:np 
+                                             («)
+                                             (H:prop:Midazolam:MF_S::: Midazolam)
+                                             (»)
+                                             ({)
+                                             (N<PRED:adjp 
+                                               (H:adj:injectável:MF_S::: injectável))
+                                             (}))
+                                           (CO:conj-c:ou:::co-prparg: ou)
+                                           (CJT:np 
+                                             («)
+                                             (H:prop:Dormicum:M_S::: Dormicum)
+                                             (»)
+                                             ({)
+                                             (N<PRED:np 
+                                               (H:n:ampola:F_P::np-idf: ampolas))
+                                             (})))))))
+                                 (CO:conj-c:e:::co-pred: e)
+                                 (CJT:pp 
+                                   (H:prp:à_venda_em:::: à_venda_em)
+                                   (P<:np 
+                                     (H:prop:Portugal:M_S::: Portugal))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 («)
+                                 (H:prop:Versed:M_S::: Versed)
+                                 (»))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:np (>N:art:um:M_S::arti: um)
+                               (H:n:sedativo:M_S::np-idf: sedativo)
+                               (N<:icl::::pcp: 
+                                 (P:vp (MV:v-pcp:utilizar:M_S::: utilizado))
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em)
+                                   (P<:np 
+                                     (>N:adj:pequeno:F_P::: pequenas)
+                                     (H:n:intervenção:F_P::anr_np-idf: intervenções)
+                                     (N<:adjp 
+                                       (H:adj:cirúrgico:F_P::: cirúrgicas))))
+                                 (,)
+                                 (ADVL:pp 
+                                   (>P:adv:nomeadamente:::: nomeadamente)
+                                   (H:prp:para:::: para)
+                                   (P<:np 
+                                     (H:n:anestesia:F_P::np-idf: anestesias)
+                                     (N<:adjp 
+                                       (H:adj:local:F_P::: locais))))))
+                        (.)))

@@ -1,0 +1,28 @@
+(FRASE CP191-4 (STA:fcl (SUBJ:np (>N:num:dois:M_P::card: Dois)
+                                 (H:n:empresário:M_P::anr_np-count:anr_np-def: empresários)
+                                 (,)
+                                 (N<PRED:cu 
+                                   (CJT:np 
+                                     (>N:art:um:M_S::arti: um)
+                                     (H:n:chinês:M_S::np-idf: chinês)
+                                     (N<:pp 
+                                       (H:prp:de:: de)
+                                       (P<:np 
+                                         (H:prop:Hong_Kong:M_S::: Hong_Kong))))
+                                   (CO:conj-c:e:::co-prparg: e)
+                                   (CJT:np 
+                                     (H:pron-det:outro:M_S::diff: outro)
+                                     (N<:adjp 
+                                       (H:adj:português:M_S::: português))))
+                                 (,))
+                        (P:vp (MV:v-fin:encontrar:PR_3P_IND::: encontram-))
+                        (ACC:np (H:pron-pers:se:M_3P_ACC::refl: se))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:falar:::icl-fin: falar))
+                                   (PIV:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:negócio:M_P::np-idf: negócios)))))
+                        (.)))

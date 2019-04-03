@@ -1,0 +1,105 @@
+(FRASE CP745-1 (STA:fcl (ADVL:pp (H:prp:após:: Após)
+                                 (P<:np (H:n:negociação:F_P::np-idf: negociações)
+                                        (N<:pp 
+                                          (H:prp:com:::: com)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (>N:adj:principal:M_S::SUP: principal)
+                                            (H:n:patrocinador:M_S::anr_np-def: patrocinador)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:equipa:F_S::np-def: equipa)))
+                                            (,)
+                                            (APP:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:prop:Shell:F_S::: Shell))
+                                            (,)))))
+                        (SUBJ:np (H:prop:Hardwick:MF_S::: Hardwick))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:entregar:PS_3S_IND::: entregou))
+                                (ACC:adjp 
+                                  (H:num:um:M_S::card: um)
+                                  (A<:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      («)
+                                      (H:n:wild_card:M_P::anr_np-idf:np-partitive2: wild_cards)
+                                      (»)
+                                      ({)
+                                      (N<PRED:np 
+                                        (H:n:convite:M_P::np-idf: convites))
+                                      (}))))
+                                (PIV:pp (H:prp:a:::: a)
+                                        (P<:np 
+                                          (H:prop:Felisberto_Teixeira:M_S::: Felisberto_Teixeira)
+                                          (,)
+                                          (N<PRED:fcl 
+                                            (SUBJ:np 
+                                              (H:pron-indp:que:M_S::rel: que))
+                                            (P:vp 
+                                              (MV:v-fin:contar:PR_3S_IND::fs-rel: conta))
+                                            (ADVL:advp 
+                                              (H:adv:também:::: também))
+                                            (PIV:pp 
+                                              (H:prp:com:::: com)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:apoio:M_S::np-def: apoio)
+                                                (N<ARGS:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:prop:Federação_Nacional_de_Motociclismo:F_S::: Federação_Nacional_de_Motociclismo)
+                                                    ({)
+                                                    (APP:np 
+                                                      (H:prop:FNM:F_S::: FNM))
+                                                    (})))))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:estar:PR_3S_IND::nosubj: está))
+                                (SC:adjp 
+                                  (H:adj:convicto:M_S::: convicto)
+                                  (A<:fcl 
+                                    (SUB:conj-s:que:::: que)
+                                    (SUBJ:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n-adj:português:M_S::np-def: português))
+                                    (P:vp 
+                                      (MV:v-fin:fazer:FUT_3S_IND::: fará))
+                                    (ACC:np 
+                                      (>N:adj:bom:M_S::: bom)
+                                      (H:n:trabalho:M_S::anr_np-idf: trabalho))))
+                                (,)
+                                (ADVL:icl::::ger: 
+                                  (P:vp (MV:v-ger:reconhecer:::: reconhecendo))
+                                  (,)
+                                  (ADVL:advp 
+                                    (H:adv:porém:::kc: porém))
+                                  (,)
+                                  (ACC:fcl 
+                                    (SUB:conj-s:que:::: que)
+                                    (SUBJ:cu 
+                                      (CJT:np 
+                                        (>N:pron-det:qualquer:F_S::quant: qualquer)
+                                        (H:n:estreia:F_S::anr_np-idf: estreia))
+                                      (,)
+                                      (CO:conj-c:e:::co-subj: e)
+                                      (CJT:np::::Eg: 
+                                        (>A:advp 
+                                          (>A:adv:muito:::quant: muito)
+                                          (H:adv:especialmente:::: especialmente))
+                                        (H:prp:em:::: em)
+                                        (P<:np 
+                                          (>N:num:500:M_P::card: 500)
+                                          (H:n:cc:M_S::anr_np-count:anr_np-def: cc))))
+                                    (,)
+                                    (P:vp 
+                                      (MV:v-fin:ser:PR_3S_IND::fs-subst: é))
+                                    (ADVL:advp 
+                                      (H:adv:sempre:::: sempre))
+                                    (SC:adjp 
+                                      (H:adj:difícil:F_S::: difícil))))))
+                        (.)))

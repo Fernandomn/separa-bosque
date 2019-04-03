@@ -1,0 +1,42 @@
+(FRASE CP708-5 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:momento:M_S::np-def: momento)
+                                        (N<:fcl 
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (H:pron-indp:que:M_S::rel: que)))
+                                          (P:vp 
+                                            (MV:v-fin:regressar:IMPF_3S_IND::fs-rel:nosubj: regressava))
+                                          (SA:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:np 
+                                              (H:n:casa:F_S::np-idf: casa))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:indivíduo:M_S::np-def: indivíduo))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:lançar:PS_3S_IND::hyfen: lançou-))
+                                (ACC:np (H:pron-pers:se:M_3S_ACC::: se))
+                                (PIV:pp (H:prp:sobre:::: sobre)
+                                        (P<:np 
+                                          (H:pron-pers:ele:F_3S_PIV::: ela))))
+                              (,)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:tapar:PS_3S_IND::hyfen:nosubj: tapou-))
+                                (DAT:np (H:pron-pers:ela:F_3S_DAT::: lhe))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:boca:F_S::np-def: boca)))
+                              (,)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:agredir:PS_3S_IND::hyfen:nosubj: agrediu-))
+                                (ACC:np (H:pron-pers:ela:F_3S_ACC::: a)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:atirar:PS_3S_IND::hyfen:nosubj: atirou-))
+                                (ACC:np (H:pron-pers:ela:F_3S_ACC::: a))
+                                (PIV:pp (H:prp:a:::: a+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:chão:M_S::np-def: chão)))))
+                        (.)))

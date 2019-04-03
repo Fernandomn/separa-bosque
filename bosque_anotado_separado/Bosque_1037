@@ -1,0 +1,37 @@
+(FRASE CP192-7 (STA:fcl (ADVL:advp (H:adv:só:: Só))
+                        (SUB:conj-s:que:::: que)
+                        (,)
+                        (ADVL:advp (H:adv:desta_feita:::: desta_feita))
+                        (,)
+                        (X:cu (CJT:fcl- (SUBJ:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:homem:M_S::np-def: homem))
+                                        (,)
+                                        (X:cu- 
+                                          (CJT:x::::predicate: 
+                                            (ADVL:pp 
+                                              (H:prp:em_vez_de:::: em_vez_de+)
+                                              (P<:np 
+                                                (>N:art:o:S::artd: a)
+                                                (H:n:barba:F_S::np-def: barba)))
+                                            (,)
+                                            (P:vp 
+                                              (MV:v-fin:ter:IMPF_3S_IND::: tinha))
+                                            (ACC:np 
+                                              (H:n:bigode:M_S::np-idf: bigode)))))
+                              (,)
+                              (CJT:fcl (SUBJ:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:boina:F_S::np-def: boina))
+                                       (P:vp 
+                                         (MV:v-fin:desaparecer:MQP_3S_IND::: desaparecera)))
+                              (-CJT:fcl (-X:cu 
+                                          (CO:conj-c:e:::co-vfin: e)
+                                          (CJT:x::::predicate: 
+                                            (P:vp 
+                                              (MV:v-fin:trazer:IMPF_3S_IND::nosubj: trazia))
+                                            (ACC:np 
+                                              (H:n:óculos:M_P::np-idf: óculos)
+                                              (N<:adjp 
+                                                (H:adj:escuros:M_P::: escuros)))))))
+                        (.)))

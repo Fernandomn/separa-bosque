@@ -1,0 +1,41 @@
+(FRASE CP791-1 (STA:fcl (SUBJ:np (H:prop:Vasco_Franco:M_S: Vasco_Franco)
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:vereador:M_S::np-idf: vereador)
+                                   (N<:adjp 
+                                     (H:adj:responsável:M_S::: responsável)
+                                     (A<:pp 
+                                       (H:prp:por:::: por+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:prop:PM:F_S::: PM)
+                                         (N<:adjp 
+                                           (H:adj:lisboeta:F_S::: lisboeta))))))
+                                 (,))
+                        (X:cu (CJT:v-fin:contestar:PR_3S_IND::: contesta)
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:salientar:PR_3S_IND::nosubj: salienta))
+                                (ACC:fcl 
+                                  (SUB:conj-s:que:::: que)
+                                  (SUBJ:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:acção:F_S::np-def: acção)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:polícia:F_S::np-def: polícia)
+                                        (N<:adjp 
+                                          (H:adj:alfacinha:F_S::: alfacinha)))))
+                                  (P:vp (MV:v-fin:ser:PR_3S_IND::fs-subst: é))
+                                  (SC:adjp 
+                                    (>A:adv:mais:_::KOMP:quant: mais)
+                                    (H:adj:importante:F_S::: importante)
+                                    (KOMP<:fcl 
+                                      (COM:conj-s:do_que:::: do_que)
+                                      (P:vp 
+                                        (MV:v-fin:parecer:PR_3S_IND::nosubj: parece))
+                                      (ADVL:advp 
+                                        (H:adv:à_primeira_vista:::: à_primeira_vista)))))))
+                        (.)))

@@ -1,0 +1,36 @@
+(FRASE CP753-4 (STA:fcl (ADVL:pp (H:prp:em:: Em)
+                                 (P<:np (H:prop:Portugal:M_S::: Portugal)))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:dinheiro:M_S::np-def: dinheiro)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n-adj:crente:M_P::np-def: crentes))))
+                        (P:vp (AUX:v-fin:ser:PR_3S_IND::: é)
+                              (MV:v-pcp:colocar:M_S::anr_pass:passive: colocado))
+                        (SA:pp (H:prp:em:::: em+)
+                               (P<:np (>N:art:um:M_S::arti: um)
+                                      (H:n:envelope:M_S::np-idf: envelope)
+                                      (,)
+                                      (N<PRED:fcl 
+                                        (ACC:np 
+                                          (H:pron-indp:que:M_S::rel: que))
+                                        (SUBJ:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:obreiro:M_P::np-def: obreiros)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:prop:IURD:F_S::: IURD)))
+                                          (,)
+                                          (N<PRED:adjp 
+                                            (>A:adv:sempre:::: sempre)
+                                            (H:adj:atento:M_P::: atentos))
+                                          (,))
+                                        (P:cu 
+                                          (CJT:v-fin:recolher:PR_3P_IND::: recolhem)
+                                          (CO:conj-c:e:::co-vfin: e)
+                                          (CJT:v-fin:controlar:PR_3P_IND::nosubj: controlam)))))
+                        (.)))

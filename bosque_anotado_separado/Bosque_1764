@@ -1,0 +1,95 @@
+(FRASE CP338-2 (STA:fcl (ADVL:fcl (SUB:conj-s:se:: Se)
+                                  (ADVL:advp 
+                                    (H:adv:não:::: não))
+                                  (P:vp (MV:v-fin:haver:FUT_3S_SUBJ::nofsubj: houver))
+                                  (,)
+                                  (ADVL:pp:de_facto:::: de_facto)
+                                  (,)
+                                  (ACC:np 
+                                    (>N:art:um:F_S::arti: uma)
+                                    (>N:adj:substancial:F_S::: substancial)
+                                    (H:n:alteração:F_S::anr_np-idf: alteração)
+                                    (N<:pp 
+                                      (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:conduta:F_S::np-def: conduta)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:centro:M_P::np-def: centros)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:saúde:F_S::np-idf: saúde)))
+                                            (N<:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:pron-det:este:F_S::dem: esta)
+                                                (H:n:área:F_S::np-def: área)))))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:saúde:F_S::np-def: saúde)
+                                 (N<:adjp 
+                                   (H:adj:escolar:F_S::: escolar)))
+                        (P:vp (AUX:v-fin:tender:FUT_3S_IND::: tenderá)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:ser:::: ser))
+                        (SC:np (H:pron-det:o:M_S::dem: o)
+                               (N<:fcl (SUBJ:np 
+                                         (H:pron-indp:que:M_S::rel: que))
+                                       (ADVL:advp 
+                                         (H:adv:já:::: já))
+                                       (P:vp 
+                                         (MV:v-fin:ser:PR_3S_IND::fs-rel: é))
+                                       (ADVL:pp 
+                                         (H:prp:fora_de:::: fora_de+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:n:concelho:M_P::anr_np-idf: concelhos)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:cu 
+                                               (CJT:np 
+                                                 (H:prop:Lisboa:F_S::: Lisboa))
+                                               (,)
+                                               (CJT:np 
+                                                 (H:prop:Coimbra:F_S::: Coimbra))
+                                               (CO:conj-c:e:::co-prparg: e)
+                                               (CJT:np 
+                                                 (H:prop:Porto:M_S::: Porto)))))))
+                               (;)
+                               (N<PRED:np 
+                                 (>N:art:o:F_S::artd: a)
+                                 (H:n:medicina:F_S::np-def: medicina)
+                                 (N<:adjp 
+                                   (H:adj:curativo:F_S::: curativa))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:urgência:F_P::np-def: urgências)
+                                          (N<:adjp 
+                                            (H:adj:hospitalar:F_P::: hospitalares))
+                                          (,)
+                                          (N<PRED:fcl 
+                                            (PIV:pp 
+                                              (H:prp:a:::: a)
+                                              (P<:np 
+                                                (H:pron-indp:que:F_P::rel: que)))
+                                            (SUBJ:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:pais:M_P::np-def: pais))
+                                            (P:vp 
+                                              (MV:v-fin:recorrer:PR_3P_IND::fs-rel: recorrem))
+                                            (ADVL:fcl 
+                                              (ADVL:advp 
+                                                (H:adv:quando:_::ks:rel: quando))
+                                              (SUBJ:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:filho:M_S::np-def: filho))
+                                              (P:vp 
+                                                (MV:v-fin:estar:PR_3S_IND::: está))
+                                              (SC:adjp 
+                                                (H:adj:doente:M_S::: doente))))))))
+                        (.)))

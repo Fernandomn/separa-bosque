@@ -1,0 +1,54 @@
+(FRASE CP140-5 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (,)
+                        (SUBJ:np (>N:art:um:M_S::arti: um)
+                                 (>N:adj:simples:M_S::: simples)
+                                 (H:n:salto:M_S::anr_np-idf: salto)
+                                 (N<:pp (H:prp:sobre:::: sobre)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:linha:F_S::np-def: linha)
+                                          (N<:fcl 
+                                            (SUBJ:np 
+                                              (H:pron-indp:que:F_S::rel: que))
+                                            (P:vp 
+                                              (MV:v-fin:dividir:PR_3S_IND::fs-rel: divide))
+                                            (ACC:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:prop:Parque_Natural_de_Montesinho:M_S::: Parque_Natural_de_Montesinho))
+                                            (PIV:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:prop:Reserva_Regional_de_Caça:F_S::: Reserva_Regional_de_Caça)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:S::artd: a)
+                                                    (H:prop:Serra_da_Culebra:F_S::: Serra_da_Culebra)
+                                                    (,)
+                                                    (N<PRED:pp 
+                                                      (H:prp:em:::: em+)
+                                                      (P<:np 
+                                                        (>N:art:o:S::artd: a)
+                                                        (H:n:região:F_S::np-def: região)
+                                                        (N<:adjp 
+                                                          (H:adj:espanhol:F_S::: espanhola))
+                                                        (N<:pp 
+                                                          (H:prp:de:::: de)
+                                                          (P<:np 
+                                                            (H:prop:Castilla_y_Léon:F_S::: Castilla_y_Léon)))))
+                                                    (,)))))))))
+                        (P:vp (AUX:v-fin:poder:PR_3S_IND::: pode)
+                              (MV:v-inf:significar:::: significar))
+                        (ACC:np (>N:art:um:M_S::arti: um)
+                                (H:n:passo:M_S::np-idf: passo)
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:n:vida:F_S::np-def: vida)
+                                         (N<:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:morte:F_S::np-def: morte))))))
+                        (.)))

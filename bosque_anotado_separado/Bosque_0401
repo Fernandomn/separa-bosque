@@ -1,0 +1,39 @@
+(FRASE CP73-1 (STA:fcl (CO:conj-c:mas:: Mas)
+                       (ADVL:pp (H:prp:além_de:::: além_de+)
+                                (P<:np (>N:art:o:P::artd: as)
+                                       (H:n:afinidade:F_P::np-def: afinidades)
+                                       (N<:adjp 
+                                         (H:adj:cultural:F_P::: culturais))
+                                       (,)
+                                       (N<PRED:cu 
+                                         (CJT:fcl 
+                                           (SC:adjp- 
+                                             (A<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (H:pron-indp:o_qual:M_P::rel: os_quais))))
+                                           (SUBJ:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:japonês:M_P::np-def: japoneses))
+                                           (P:vp 
+                                             (MV:v-fin:estar:PR_3P_IND::: estão))
+                                           (-SC:adjp 
+                                             (H:adj:ciente:M_P::: cientes)))
+                                         (,)
+                                         (CO:conj-c:mas:::co-vfin: mas)
+                                         (CJT:fcl 
+                                           (ACC:np 
+                                             (H:pron-indp:que:F_P::rel: que))
+                                           (SUBJ:np 
+                                             (>N:pron-det:muito:M_P::quant: muitos)
+                                             (H:n-adj:português:M_P::anr_np-idf: portugueses))
+                                           (P:vp 
+                                             (MV:v-fin:desconhecer:PR_3P_IND::: desconhecem)))
+                                         (,))))
+                       (P:vp (MV:v-fin:haver:PR_3S_IND::nofsubj: há))
+                       (ACC:np (>N:pron-det:outro:M_P::diff: outros)
+                               (H:n:ponto:M_P::anr_np-idf: pontos)
+                               (N<:pp (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:aproximação:F_S::np-idf: aproximação))))
+                       (.)))

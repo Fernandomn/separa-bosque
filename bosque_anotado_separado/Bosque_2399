@@ -1,0 +1,31 @@
+(FRASE CP455-3 (STA:fcl (ADVL:advp (H:adv:agora:kc: Agora))
+                        (P:vp (AUX:v-fin:poder:PR_3P_IND::: podem)
+                              (MV:v-inf:tratar:::nosubj: tratar))
+                        (ADVL:advp (H:adv:directamente:::: directamente))
+                        (,)
+                        (ADVL:cu (CJT:pp 
+                                   (H:prp:em:::: em)
+                                   (P<:np 
+                                     (H:n:contacto:M_S::np-idf: contacto)
+                                     (N<:adjp 
+                                       (H:adj:telefónico:M_S::: telefónico))))
+                                 (CO:conj-c:ou:::co-advl: ou)
+                                 (CJT:pp 
+                                   (H:prp:por:::: por)
+                                   (P<:np 
+                                     (H:n:fax:M_S::np-idf: fax))))
+                        (,)
+                        (PIV:pp (H:prp:com:::: com)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:n:centro:M_S::np-def: centro)
+                                       (N<:fcl 
+                                         (ADVL:advp 
+                                           (H:adv:onde:_::ks:rel: onde))
+                                         (P:vp 
+                                           (MV:v-fin:pretender:PR_3P_IND::fs-rel:nosubj: pretendem))
+                                         (ACC:icl 
+                                           (P:vp 
+                                             (MV:v-inf:passar:::icl-subst: passar))
+                                           (ACC:np 
+                                             (H:n:férias:F_P::np-idf: férias))))))
+                        (.)))

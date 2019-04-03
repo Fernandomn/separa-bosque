@@ -1,0 +1,113 @@
+(FRASE CP104-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:deputado:M_S::np-def: deputado)
+                                 (N<:np (H:n:social-democrata:M_S::np-idf: social-democrata))
+                                 (N<:np (H:prop:Carlos_Coelho:M_S: Carlos_Coelho)))
+                        (,)
+                        (ADVL:advp (H:adv:por_exemplo:::: por_exemplo))
+                        (,)
+                        (ADVL:pp (H:prp:até:::: até)
+                                 (P<:adv:já:::: já))
+                        (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                        (P:vp (MV:v-fin:dar:PS_3S_IND::: deu))
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:n:trabalho:M_S::np-def: trabalho)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:icl 
+                                           (P:vp 
+                                             (MV:v-inf:comparar:::: comparar))
+                                           (ACC:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (>N:num:dois:M_P::card: dois)
+                                             (H:n:documento:M_P::anr_np-count:anr_np-def: documentos))
+                                           (,)
+                                           (ADVL:pp 
+                                             (>P:adv:apenas:::: apenas)
+                                             (H:prp:para:::: para)
+                                             (P<:icl 
+                                               (P:vp 
+                                                 (MV:v-inf:provar:::icl-fin: provar))
+                                               (ACC:fcl 
+                                                 (SUB:conj-s:que:::: que)
+                                                 (P:vp 
+                                                   (MV:v-fin:haver:PR_3S_IND::fs-subst:nofsubj: há))
+                                                 (ACC:np 
+                                                   («)
+                                                   (>N:adj:inúmero:F_P::: inúmeras)
+                                                   (H:n:citação:F_P::anr_np-idf: citações)
+                                                   (N<:adjp 
+                                                     (H:adj:literal:F_P::: literais))
+                                                   (»)
+                                                   (N<:pp 
+                                                     (H:prp:de:::: de+)
+                                                     (P<:np 
+                                                       (>N:art:o:M_S::artd: o)
+                                                       (H:n:diploma:M_S::np-def: diploma))))
+                                                 (ADVL:pp 
+                                                   (H:prp:em:::: em+)
+                                                   (P<:np 
+                                                     (>N:art:o:M_S::artd: o)
+                                                     (H:n:articulado:M_S::np-def: articulado)
+                                                     (N<:pp 
+                                                       (H:prp:de:::: de+)
+                                                       (P<:np 
+                                                         (>N:art:o:M_S::artd: o)
+                                                         (H:n:pacto:M_S::np-def: pacto)
+                                                         (,)
+                                                         (N<PRED:fcl 
+                                                           (SUBJ:np 
+                                                             (H:pron-indp:que:M_S::rel: que))
+                                                           (ADVL:advp 
+                                                             (H:adv:assim:::kc: assim))
+                                                           (ACC:np 
+                                                             (H:pron-pers:se:M_3S_ACC::refl: se))
+                                                           (P:vp 
+                                                             (MV:v-fin:transformar:PR_3S_IND::fs-rel: transforma))
+                                                           («)
+                                                           (PIV:pp 
+                                                             (H:prp:em:::: em+)
+                                                             (P<:np 
+                                                               (>N:art:um:M_S::arti: um)
+                                                               (H:n:repositório:M_S::np-idf: repositório)
+                                                               (N<:pp 
+                                                                 (H:prp:de:::: de)
+                                                                 (P<:np 
+                                                                   (H:n:ideia:F_P::np-idf: ideias)
+                                                                   (N<:adjp 
+                                                                     (H:adj:global:F_P::: globais))))
+                                                               (,)
+                                                               (N<PRED:fcl 
+                                                                 (SUBJ:np 
+                                                                   (H:pron-indp:que:M_S::rel: que))
+                                                                 (ADVL:advp 
+                                                                   (H:adv:não:::: não))
+                                                                 (P:vp 
+                                                                   (MV:v-fin:acrescentar:PR_3S_IND::fs-rel: acrescenta))
+                                                                 (ACC:np 
+                                                                   (H:pron-indp:nada:M_S::quant: nada))
+                                                                 (ADVL:pp 
+                                                                   (H:prp:a:::: a+)
+                                                                   (P<:np 
+                                                                     (H:pron-det:o:M_S::: o)
+                                                                     (N<:fcl 
+                                                                       (ACC:np 
+                                                                         (H:pron-indp:que:M_S::rel: que))
+                                                                       (SUBJ:cu 
+                                                                         (CJT:np 
+                                                                           (>N:art:o:F_S::artd: a)
+                                                                           (H:n:lei:F_S::np-def: lei)
+                                                                           (N<:pp 
+                                                                             (H:prp:de:::: de)
+                                                                             (P<:np 
+                                                                               (H:n:base:F_P::np-idf: bases))))
+                                                                         (CO:conj-c:e:::co-subj: e)
+                                                                         (CJT:np 
+                                                                           (>N:art:o:F_S::artd: a)
+                                                                           (H:n:constituição:F_S::np-def:prop: Constituição)
+                                                                           (N<:adjp 
+                                                                             (H:adj:português:F_S::: portuguesa))))
+                                                                       (P:vp 
+                                                                         (MV:v-fin:preconizar:PR_3P_IND::fs-rel: preconizam))))))))
+                                                           (»)))))))))))))
+                        (.)))

@@ -1,0 +1,20 @@
+(FRASE CP938-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (>N:pron-det:outro:F_S::KOMP:diff: outra)
+                                 (H:n:rota:F_S::anr_np-def: rota))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND: é))
+                        (SA:pp (H:prp:por:::: por)
+                               (P<:np (H:n:barco:M_S::np-idf: barco)))
+                        (SC:pp (H:prp:para:::: para)
+                               (P<:np (H:n:porto:M_P::np-idf: portos)
+                                      (N<:acl 
+                                        (COM:adv:como:::rel: como)
+                                        (SUBJ:cu 
+                                          (CJT:np 
+                                            (H:prop:Southampton:MF_S::: Southampton))
+                                          (,)
+                                          (CJT:np 
+                                            (H:prop:Roterdão:M_S::: Roterdão))
+                                          (CO:conj-c:e:::: e)
+                                          (CJT:np 
+                                            (H:prop:Antuérpia:M_S::: Antuérpia))))))
+                        (.)))

@@ -1,0 +1,65 @@
+(FRASE CP747-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:tema:M_S::np-def: tema)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:água:F_S::np-def: água)))
+                                 (,)
+                                 (N<PRED:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:ligar:M_S::: ligado))
+                                   (PIV:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:oceano:M_P::np-def: oceanos))))
+                                 (N<:acl 
+                                   (PRD:adv:como:::rel: como)
+                                   (SUBJ:np 
+                                     (H:n:proposta:F_S::np-idf: proposta)
+                                     (N<:adjp 
+                                       (H:adj:genérico:F_S::: genérica))
+                                     (N<ARGS:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:prop:Expo-98:F_S::: Expo-98)))))
+                                 (,))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:permitir:PR_3S_IND::: permite))
+                                (ACC:icl 
+                                  (P:vp (MV:v-inf:abordar:::icl-subst: abordar))
+                                  (ACC:np 
+                                    (>N:pron-det:esse:M_S::dem: esse)
+                                    (H:n:elemento:M_S::np-def: elemento)
+                                    (N<:pp 
+                                      (H:prp:em:::: em)
+                                      (P<:np 
+                                        (>N:pron-det:todo_o:M_P::quant: todos_os)
+                                        (>N:pron-det:seu:M_P::: seus)
+                                        (H:n:estado:M_P::anr_np-def: estados)
+                                        (,)
+                                        (APP:cu 
+                                          (CJT:adjp 
+                                            (H:adj:liquído:M_S::: liquído))
+                                          (,)
+                                          (CJT:adjp 
+                                            (H:adj:físico:M_S::: físico))
+                                          (CO:conj-c:e:::co-app: e)
+                                          (CJT:adjp 
+                                            (H:adj:gasoso:M_S::: gasoso)))
+                                        (,))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (ADVL:advp 
+                                  (H:adv:obviamente:::: obviamente))
+                                (P:vp (MV:v-fin:relacionar:PR_3S_IND::hyfen:nosubj: relaciona-))
+                                (ACC:np (H:pron-pers:se:M_3S_ACC::: se))
+                                (PIV:pp (H:prp:com:::: com)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (>N:adj:próprio:M_S::: próprio)
+                                          (H:n:processo:M_S::anr_np-def: processo)
+                                          (N<:adjp 
+                                            (H:adj:fotográfico:M_S::: fotográfico))))))
+                        (.)))

@@ -1,0 +1,76 @@
+(FRASE CP221-2 (UTT:np (>N:art:um:F_S::arti: Uma)
+                       («)
+                       (>N:adj:autêntico:F_S: autêntica)
+                       (»)
+                       (H:n:big_band:M_S::anr_np-idf: big_band)
+                       (,)
+                       (N<PRED:icl::::pcp: 
+                         (P:vp (MV:v-pcp:constituir:F_S::: constituída))
+                         (PASS:pp (H:prp:por:::: por)
+                                  (P<:np 
+                                    (>N:num:16:M_P::card: 16)
+                                    (H:n:músico:M_P::anr_np-count:anr_np-def: músicos))))
+                       (,)
+                       (N<:pp (H:prp:com:::: com)
+                              (P<:np (H:pron-det:algum:M_P::quant: alguns)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:tema:M_P::np-def:np-partitive2: temas)
+                                         (N<:adjp 
+                                           (>A:adv:mais:::quant: mais)
+                                           (H:v-pcp:conhecer:M_P::: conhecidos)
+                                           (A<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:reportório:M_S::np-def: reportório)
+                                               («)
+                                               (N<:adjp 
+                                                 (H:adj:standard:M_S::: standard))
+                                               (»))))))))
+                       (N<:cu (CJT:icl::::pcp: 
+                                (P:vp (MV:v-pcp:liderar:F_S::: liderada))
+                                (PASS:pp 
+                                  (H:prp:por:::: por+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:trombonista:M_S::np-def: trombonista)
+                                    (N<:np 
+                                      (H:prop:Claus_Nymark:M_S::: Claus_Nymark)))))
+                              (CO:conj-c:e:::: e)
+                              (CJT:pp (H:prp:com:::: com)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:voz:F_S::np-def: voz)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Ana_Paula_Oliveira:F_S::: Ana_Paula_Oliveira))))))
+                       (;)
+                       (N<PRED:pp (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:prop:Speakeasy:M_S::: Speakeasy)
+                                    ({)
+                                    (N<PRED:np 
+                                      (H:prop:Cais_da_Rocha:M_S::: Cais_da_Rocha)
+                                      (N<:np 
+                                        (H:prop:Conde_d\:M_S::: Conde_d'Óbidos)))
+                                    (--)
+                                    (N<PRED:np 
+                                      (H:n:armazém:M_S::np-idf: Armazém)
+                                      (N<:adjp 
+                                        (H:num:115:M_P::card: 115)))
+                                    (})))
+                       (,)
+                       (N<PRED:pp (H:prp:a:::: a+)
+                                  (P<:np 
+                                    (>N:art:o:P::artd: as)
+                                    (H:np 
+                                      (CJT:np 
+                                        (H:n:23h:F_P::anr_np-def: 23h))
+                                      (CO:conj-c:e:::co-prparg: e)
+                                      (CJT:np 
+                                        (H:n:01h.:F_S::: 01h.)))))))

@@ -1,0 +1,55 @@
+(FRASE CP413-5 (STA:fcl (SUBJ:adjp (H:num:um:F_S::card: Uma)
+                                   (A<:pp 
+                                     (H:prp:de:: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_P::artd: as)
+                                       (H:n:rede:F_P::np-def:np-partitive2: redes)
+                                       (N<:adjp 
+                                         (H:adj:digital:F_P::: digitais))))
+                                   (,)
+                                   (A<:pp 
+                                     (H:prp:em:::: em)
+                                     (P<:np 
+                                       (H:n:fase:F_S::np-idf: fase)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:instalação:F_S::np-idf: instalação)))
+                                       (N<:pp 
+                                         (H:prp:entre:::: entre)
+                                         (P<:cu 
+                                           (CJT:np 
+                                             (H:num:1994:M_S::: 1994))
+                                           (CO:conj-c:e:::co-prparg: e)
+                                           (CJT:np 
+                                             (H:num:1997:M_S::: 1997)))))))
+                        (,)
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:custar:FUT_3S_IND::: custará))
+                                (SA:np (>N:num:150:M_P::card: 150)
+                                       (>N:n:mil:M_P::card:num: mil)
+                                       (H:n:conto:M_P::anr_np-count:anr_np-def: contos)))
+                              (,)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:ter:FUT_3S_IND::nosubj: terá))
+                                (ACC:np (>N:num:14:F_P::card: 14)
+                                        (H:n:estação:F_P::anr_np-count:anr_np-def: estações)
+                                        ({)
+                                        (N<PRED:cu 
+                                          (CJT:adjp 
+                                            (H:num:12:F_P::card: 12)
+                                            (A<:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:continente:M_S::np-def: continente))))
+                                          (CO:conj-c:e:::co-pred: e)
+                                          (CJT:adjp 
+                                            (H:num:dois:F_P::card: duas)
+                                            (A<:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:prop:Madeira:F_S::: Madeira)))))
+                                        (}))))
+                        (.)))

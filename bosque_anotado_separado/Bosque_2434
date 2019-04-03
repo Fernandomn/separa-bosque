@@ -1,0 +1,56 @@
+(FRASE CP460-7 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (>N:num:dois:M_P::card: dois)
+                                 (H:n:autor:M_P::anr_np-count:anr_np-def: autores)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (>N:art:um:M_S::arti: um)
+                                          (H:n:assalto:M_S::np-idf: assalto)
+                                          (N<:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:np 
+                                              (>N:art:um:F_S::arti: uma)
+                                              (H:n:bomba:F_S::np-idf: bomba)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:gasolina:F_S::np-idf: gasolina)))
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:prop:Cepsa:F_S::: Cepsa)))
+                                              (N<:pp 
+                                                (H:prp:em:::: em)
+                                                (P<:np 
+                                                  (H:prop:Vila_Franca_de_Xira:F_S::: Vila_Franca_de_Xira)))))
+                                          (,)
+                                          (N<PRED:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:ocorrer:M_S::: ocorrido))
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:madrugada:F_S::np-def: madrugada)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:adv:ontem:::: ontem)))))
+                                          (,))))
+                        (P:vp (AUX:v-fin:ser:PS_3P_IND::: foram)
+                              (MV:v-pcp:deter:M_P::anr_pass:passive: detidos))
+                        (ADVL:np (>N:adjp 
+                                   (>A:adv:cerca_de:::: cerca_de)
+                                   (H:num:um:F_S::card: uma))
+                                 (H:n:hora:F_S::anr_np-count:anr_np-def: hora)
+                                 (N<:adv:depois:::: depois))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Praça_de_Espanha:F_S::: Praça_de_Espanha)))
+                        (,)
+                        (ADVL:pp (H:prp:a:::: a+)
+                                 (P<:np (>N:art:o:F_P::artd: as)
+                                        (H:n:4h25:F_P::np-def: 4h25)))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:prop:Lisboa:F_S::: Lisboa)))
+                        (.)))

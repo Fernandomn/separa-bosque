@@ -1,0 +1,48 @@
+(FRASE CP834-1 (STA:fcl (SUBJ:np (>N:adv:também:: Também)
+                                 (>N:num:um:F_S::card: uma)
+                                 (H:n:residente:M_S::anr_np-count:anr_np-def: residente)
+                                 (N<:pp (H:prp:há:::: há)
+                                        (P<:np 
+                                          (>N:num:30:M_P::card: 30)
+                                          (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))
+                                 (N<:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:prop:Moinhos_da_Funcheira:M_P::: Moinhos_da_Funcheira)))
+                                 (,)
+                                 (APP:np 
+                                   (H:prop:Isabel_Martins_da_Silva:M_S::: Isabel_Martins_da_Silva))
+                                 (,))
+                        (P:vp (MV:v-fin:considerar:PR_3S_IND::: considera))
+                        (OC:adjp (H:adj:excessivo:M_S::: excessivo))
+                        (ACC:fcl (ACC:np 
+                                   (H:pron-indp:o_que:M_S::rel: o_que))
+                                 (P:vp (MV:v-fin:pagar:PS_3S_IND::fs-subst:nosubj: pagou))
+                                 (ADVL:pp- 
+                                   (H:prp:por:::: por+)
+                                   (P<:np- 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:ligação:F_S::np-def: ligação)
+                                     (N<ARGO:cu- 
+                                       (CJT:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:esgoto:M_P::np-idf: esgotos)
+                                           (,)
+                                           (APP:np 
+                                             (>N:num:181:M_P::card: 181)
+                                             (H:n:conto:M_P::anr_np-count:anr_np-def: contos)))))))
+                                 (-ADVL:pp 
+                                   (-P<:np 
+                                     (-N<:cu 
+                                       (,)
+                                       (CO:conj-c:e:::co-postnom: e)
+                                       (CJT:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:água:F_S::np-def: água)
+                                           (,)
+                                           (APP:adjp 
+                                             (H:num:81:M_P::card: 81))))))))
+                        (.)))

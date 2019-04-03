@@ -1,0 +1,39 @@
+(FRASE CP235-2 (STA:fcl (FOC:advp (H:adv:foi:foc: Foi))
+                        (ADVL:pp (H:prp:por_via_de:::: por_via_de+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:filho:M_S::np-def: filho)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Pedro_Anes:M_S::: Pedro_Anes)))
+                                        (,)
+                                        (N<PRED:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:pron-det:seu:M_S::: seu)
+                                            (H:n:nome:M_S::anr_np-def: nome)
+                                            (N<:np 
+                                              (H:prop:Gonçalo_Reimão:M_S::: Gonçalo_Reimão))))
+                                        (,)))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:prop:Campo_de_Vale_Formoso:M_S::: Campo_de_Vale_Formoso))
+                        (P:vp (AUX:v-fin:passar:PS_3S_IND::: passou)
+                              (PRT-AUX:prp:a:::: a)
+                              (AUX:v-inf:ser:::: ser)
+                              (MV:v-pcp:conhecer:M_S::anr_pass:passive: conhecido))
+                        (SC:acl (PRD:adv:como:::rel: como)
+                                (SC:np (H:cu 
+                                         (CJT:np 
+                                           (H:n:campo:M_S::np-idf: campo))
+                                         (,)
+                                         (CO:conj-c:ou:::co-fmc:co-vfin: ou)
+                                         (CJT:np 
+                                           (H:n:quinta:F_S::np-idf: quinta))
+                                         (,))
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Reimão:M_S::: Reimão)))))
+                        (;)))

@@ -1,0 +1,69 @@
+(FRASE CP274-11 (STA:fcl (PRED:icl::pcp: 
+                           (P:vp (MV:v-pcp:acusar:M_S::: Acusado))
+                           (PIV:pp (H:prp:de:::: de)
+                                   (P<:np 
+                                     (H:n:falsificação:F_S::np-idf: falsificação)
+                                     (N<ARGO:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:documento:M_P::np-idf: documentos))))))
+                         (,)
+                         (SUBJ:np (H:prop:Manuel_António:M_S::: Manuel_António))
+                         (P:vp (MV:v-fin:ver:PS_3S_IND::: viu))
+                         (ACC:np (>N:art:o:F_S::artd: a)
+                                 (H:n:detenção:F_S::np-def: detenção))
+                         (OC:icl::::pcp: 
+                           (P:vp (MV:v-pcp:confirmar:F_S::: confirmada))
+                           (PASS:pp (H:prp:por:::: por)
+                                    (P<:np 
+                                      (>N:art:um:M_S::arti: um)
+                                      (H:n:juiz:M_S::np-idf: juiz)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:instrução:F_S::np-idf: instrução)))
+                                      (,)
+                                      (N<PRED:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:M_S::: que))
+                                        (ADVL:advp 
+                                          (H:adv:não:::: não))
+                                        (P:vp 
+                                          (MV:v-fin:atender:PS_3S_IND::: atendeu))
+                                        (PIV:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:facto:M_S::np-def: facto)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:icl 
+                                                (SUBJ:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n-adj:jovem:M_S::np-def: jovem))
+                                                (P:vp 
+                                                  (MV:v-inf:ter:3S::: ter))
+                                                (ACC:np 
+                                                  (>N:adjp 
+                                                    (>A:adv:menos_de:::quant: menos_de)
+                                                    (H:num:16:M_P::card: 16))
+                                                  (H:n:ano:M_P::anr_np-count:anr_np-def: anos))
+                                                (,)
+                                                (ADVL:pp 
+                                                  (H:prp:em_função_de:::: em_função_de+)
+                                                  (P<:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (H:n:passaporte:M_S::np-def: passaporte)
+                                                    (N<:adjp 
+                                                      (H:adj:angolano:M_S::: angolano))
+                                                    (N<:fcl 
+                                                      (SC:adjp- 
+                                                        (>N:pp 
+                                                          (H:prp:de:::: de)
+                                                          (P<:np 
+                                                            (H:pron-indp:que:M_S::rel: que))))
+                                                      (P:vp 
+                                                        (MV:v-fin:ser:IMPF_3S_IND::fs-rel:nosubj: era))
+                                                      (-SC:adjp 
+                                                        (H:adj:portador:M_S::: portador)))))))))))))
+                         (.)))

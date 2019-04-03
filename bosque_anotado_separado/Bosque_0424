@@ -1,0 +1,35 @@
+(FRASE CP78-4 (STA:fcl (ADVL:advp (H:adv:não:: Não))
+                       (P:vp (MV:v-fin:haver:PR_3S_IND::nofsubj: há))
+                       (ADVL:pp (H:prp:por:::: por)
+                                (P<:np (H:pron-indp:isso:M_S::dem: isso)))
+                       (,)
+                       (ADVL:pp (H:prp:para_além_de:::: para_além_de+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (H:n:prossecução:F_S::np-def: prossecução)
+                                       (N<ARGO:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:P::artd: as)
+                                           (H:n:política:F_P::np-def: políticas)
+                                           (N<:fcl 
+                                             (SUBJ:np 
+                                               (H:pron-indp:que:F_P::rel: que))
+                                             (P:vp 
+                                               (MV:v-fin:privilegiar:PR_3P_IND::fs-rel: privilegiam))
+                                             (ACC:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:modelo:M_S::np-def: modelo)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:sociedade:F_S::np-idf: sociedade)
+                                                   (N<:v-pcp:escolher:M_S::: escolhido)))))))))
+                       (,)
+                       (ACC:np (H:n:solução:F_P::np-idf: soluções)
+                               (N<:adjp (H:adj:específico:F_P::: específicas))
+                               (N<:pp (H:prp:para:::: para)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (>N:pron-det:nosso:M_S::: nosso)
+                                        (H:n:país:M_S::anr_np-def: país))))
+                       (.)))

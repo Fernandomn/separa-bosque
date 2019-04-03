@@ -1,0 +1,65 @@
+(FRASE CP132-6 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:fotografia:F_S::np-def: fotografia))
+                        (P:vp (AUX:v-fin:ir:PS_3S_IND: foi)
+                              (MV:v-pcp:publicar:F_S::: publicada))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:n:imprensa:F_S::np-def: imprensa)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:pron-indp:todo_o_mundo:M_S::: todo_o_mundo)))))
+                        (ADVL:pp (H:prp:há:::: há)
+                                 (P<:np (>N:adjp 
+                                          (>A:adv:cerca_de:::: cerca_de)
+                                          (H:num:um:M_S::card: um))
+                                        (H:n:ano:M_S::anr_np-count:anr_np-def: ano)))
+                        (,)
+                        (ADVL:pp (H:prp:quando_de:::: quando_de+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:massacre:M_S::np-def: massacre)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Bentalha:MF_S::: Bentalha)))
+                                        (,)
+                                        (N<PRED:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:prop:Argélia:F_S::: Argélia)))
+                                        (,)
+                                        (N<PRED:fcl 
+                                          (ADVL:advp 
+                                            (H:adv:onde:_::ks:rel: onde))
+                                          (P:vp 
+                                            (MV:v-fin:morrer:PS_3P_IND::fs-rel: morreram))
+                                          (SUBJ:np 
+                                            (>N:adjp 
+                                              (>A:adv:cerca_de:::: cerca_de)
+                                              (H:num:dois:F_P::card: duas))
+                                            (H:n:centena:F_P::anr_np-count:anr_np-def:card:num: centenas)
+                                            (N<ARG:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:pessoa:F_P::np-dequant:np-idf: pessoas))))
+                                          (,)
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:S::artd: a)
+                                              (H:n:noite:F_S::np-def: noite)
+                                              (N<:cu 
+                                                (PCJT:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np::::Eg:date: 
+                                                    (H:num:22:M_S::card: 22)))
+                                                (PCJT:pp 
+                                                  (H:prp:para:::: para)
+                                                  (P<:adjp::::date: 
+                                                    (H:num:23:M_S::card: 23)
+                                                    (A<:pp 
+                                                      (H:prp:de:::: de)
+                                                      (P<:np 
+                                                        (H:n:setembro:M_S::np-idf:prop: Setembro)))))))))))
+                        (.)))

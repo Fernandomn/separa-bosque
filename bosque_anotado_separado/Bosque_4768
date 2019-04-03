@@ -1,0 +1,32 @@
+(FRASE CP928-1 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:prop:Dubai:M_S::: Dubai)))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_P::artd: as)
+                                 (H:n:vedeta:F_P::np-def: vedetas)
+                                 (N<:adjp 
+                                   (H:adj:candidato:F_P::: candidatas)
+                                   (A<arg:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (MV:v-inf:dividir:::: dividir))
+                                       (ACC:np 
+                                         (>N:art:um:M_S::arti: um)
+                                         (H:n:bolo:M_S::np-idf: bolo)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (>N:art:um:M_S::arti: um)
+                                             (H:n:milhão:M_S::card:np-idf:num: milhão)
+                                             (N<ARG:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:dólar:M_P::np-dequant:np-idf: dólares))))))))))
+                        (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                        (SC:cu (CJT:np (H:prop:Goran_Ivanisevic:M_S::: Goran_Ivanisevic))
+                               (,)
+                               (CJT:np (H:prop:Thomas_Muster:M_S::: Thomas_Muster))
+                               (CO:conj-c:e:::co-sc: e)
+                               (CJT:np (H:prop:Boris_Becker:M_S::: Boris_Becker)))
+                        (.)))

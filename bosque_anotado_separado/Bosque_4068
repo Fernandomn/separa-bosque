@@ -1,0 +1,65 @@
+(FRASE CP794-3 (STA:fcl (ADVL:advp (H:adv:entretanto:kc: Entretanto))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:prop:Estados_Unidos:M_P::: Estados_Unidos)))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n-adj:sobrevivente:M_P::np-def: sobreviventes)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (>N:adj:desastroso:M_S::: desastroso)
+                                          (H:n:ataque:M_S::anr_np-def: ataque)
+                                          (N<:adjp 
+                                            (H:adj:policial:M_S::: policial))
+                                          (N<:pp 
+                                            (H:prp:contra:::: contra)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:membro:M_P::np-def: membros)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:culto:M_S::np-def: culto)
+                                                  (N<:adjp 
+                                                    (H:adj:davidiano:M_S::: davidiano))))))
+                                          (,)
+                                          (APP:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            («)
+                                            (H:n:massacre:M_S::anr_np-idf: massacre)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:prop:Waco:MF_S::: Waco)))
+                                            (»))
+                                          (,)))
+                                 (N<:pp (>P:adv:juntamente:::: juntamente)
+                                        (H:prp:com:::: com)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:familiar:M_P::np-def: familiares)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_P::artd: as)
+                                              (H:n:vítima:F_P::np-def: vítimas)
+                                              (N<:adjp 
+                                                (H:adj:mortal:F_P::: mortais)))))))
+                        (,)
+                        (P:vp (AUX:v-fin:ir:PR_3P_IND::: vão)
+                              (MV:v-inf:processar:::: processar))
+                        (ACC:cu (CJT:np (>N:art:o:M_S::artd: o)
+                                        (H:n:presidente:M_S::np-def: presidente)
+                                        (N<:adjp 
+                                          (H:adj:norte-americano:M_S::: norte-americano))
+                                        (,)
+                                        (APP:np 
+                                          (H:prop:Bill_Clinton:M_S::: Bill_Clinton))
+                                        (,))
+                                (CO:conj-c:e:::co-acc: e)
+                                (CJT:np (>N:art:o:M_S::artd: o)
+                                        (H:prop:FBI:M_S::: FBI)))
+                        (.)))

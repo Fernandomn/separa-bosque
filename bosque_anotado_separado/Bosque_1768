@@ -1,0 +1,83 @@
+(FRASE CP340-1 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:pron-det:este:F_S::dem: esta)
+                                        (H:n:avenida:F_S::np-def: avenida)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:luxo:M_S::np-idf: luxo)))
+                                        (,)
+                                        (N<PRED:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:cortar:F_S::: cortada))
+                                          (ADVL:advp 
+                                            (H:adv:longitudinalmente:::: longitudinalmente))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por)
+                                            (P<:np 
+                                              (>N:art:um:M_S::arti: um)
+                                              (H:n:canal:M_S::np-idf: canal))))
+                                        (,)))
+                        (P:vp (MV:v-fin:perfilar:PR_3P_IND::hyfen: perfilam-))
+                        (ACC:np (H:pron-pers:se:M_3P_ACC::: se))
+                        (SUBJ:cu (CJT:np 
+                                   (,)
+                                   (>N:pp:de_um_lado:::: de_um_lado)
+                                   (,)
+                                   (>N:art:o:M_P::artd: os)
+                                   (H:n:banco:M_P::np-def: bancos)
+                                   ({)
+                                   (N<:fcl 
+                                     (SUBJ:np 
+                                       (>N:pp 
+                                         (H:prp:além_de:::: além_de+)
+                                         (P<:np::::Eg: 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:adj:alemão:M_P::Eg:anr_np-idf: alemães)))
+                                       (,)
+                                       (>N:adjp 
+                                         (>A:adv:cerca_de:::: cerca_de)
+                                         (H:num:cem:M_P::card: cem))
+                                       (H:n:banco:M_P::anr_np-count:anr_np-def: bancos)
+                                       (N<:adjp 
+                                         (H:adj:estrangeiro:M_P::: estrangeiros)))
+                                     (P:vp 
+                                       (MV:v-fin:operar:PR_3P_IND::: operam))
+                                     (ADVL:pp 
+                                       (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:capital:F_S::np-def: capital)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:prop:Vestefália:F_S::: Vestefália))))))
+                                   (}))
+                                 (;)
+                                 (CJT:np 
+                                   (>N:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:pron-det:outro:M_S::KOMP:diff:np-def: outro)))
+                                   (,)
+                                   (>N:art:o:M_P::artd: os)
+                                   (H:n:estabelecimento:M_P::np-def: estabelecimentos)
+                                   (N<:adjp 
+                                     (H:adj:comercial:M_P::: comerciais))
+                                   (--)
+                                   (APP:cu 
+                                     (CJT:np 
+                                       (H:prop:Cartier:F_S::: Cartier))
+                                     (,)
+                                     (CJT:np 
+                                       (H:prop:Armani:F_S::: Armani))
+                                     (,)
+                                     (CJT:np 
+                                       (H:prop:Gucci:F_S::: Gucci))
+                                     (,)
+                                     (CJT:np 
+                                       (H:prop:Van_Cleef:F_S::: Van_Cleef))
+                                     (,)
+                                     (CJT:advp 
+                                       (H:adv:etc.:M_S::: etc.)))))))

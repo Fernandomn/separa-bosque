@@ -1,0 +1,55 @@
+(FRASE CP6-4 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                               (H:n:balanço:M_S::np-def: balanço)
+                               (--)
+                               (N<PRED:fcl 
+                                 (PIV:pp 
+                                   (H:prp:a:: a)
+                                   (P<:np 
+                                     (H:pron-indp:que:M_S::rel: que)))
+                                 (SUBJ:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:prop:Público:M_S::: PÚBLICO))
+                                 (P:vp (MV:v-fin:ter:PS_3S_IND::fs-rel: teve))
+                                 (ACC:np 
+                                   (H:n:acesso:M_S::np-idf: acesso)))
+                               (--)
+                               (N<:icl::::pcp: 
+                                 (P:vp (MV:v-pcp:traçar:M_S::: traçado))
+                                 (PASS:pp 
+                                   (H:prp:por:::: por+)
+                                   (P<:np 
+                                     (>N:art:o:S::artd: a)
+                                     (H:n:comissão:F_S::np-def: comissão)))))
+                      (P:vp (MV:v-fin:revelar:PR_3S_IND::: revela))
+                      (ACC:fcl (SUB:conj-s:que:::: que)
+                               (SUBJ:np (>N:art:o:M_S::artd: o)
+                                        (H:n:número:M_S::np-def: número)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:pessoa:F_P::np-idf: pessoas)
+                                            (N<:icl::::pcp: 
+                                              (P:vp 
+                                                (MV:v-pcp:abranger:F_P::: abrangidas))
+                                              (PASS:pp 
+                                                (H:prp:por:::: por+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:prop:RMG:M_S::: RMG)))))))
+                               (P:vp (MV:v-fin:aumentar:PS_3S_IND::fs-subst: aumentou))
+                               (ADVL:np (>N:num:36:M_P::card: 36)
+                                        (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento))
+                               (ADVL:pp (H:prp:relativamente_a:::: relativamente_a)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (>N:adj:último:M_S::NUM-ord: último)
+                                          (H:n:balanço:M_S::anr_np-def: balanço)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:adjp::::date: 
+                                              (H:num:30:M_S::card: 30)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:março:M_S::np-idf:prop: Março))))))))
+                      (.)))

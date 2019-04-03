@@ -1,0 +1,34 @@
+(FRASE CP495-5 (STA:fcl («)
+                        (PRED:pp (H:prp:com:: Com)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (>N:pron-det:meu:M_P::: meus)
+                                        (H:n:colega:M_P::anr_np-def: colegas)))
+                        (,)
+                        (P:vp (MV:v-fin:tencionar:PR_1P_IND::nosubj: tencionamos))
+                        (ADVL:advp (H:adv:agora:::kc: agora))
+                        (ACC:icl (P:vp (MV:v-inf:tentar:::icl-subst: tentar))
+                                 (ACC:icl 
+                                   (P:vp 
+                                     (MV:v-inf:desenvolver:::icl-subst: desenvolver))
+                                   (ACC:np 
+                                     (H:n:vacina:F_P::np-idf: vacinas)
+                                     (N<:cu 
+                                       (CJT:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:destinar:F_P::: destinadas))
+                                         (PIV:pp 
+                                           (H:prp:a:::: a+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:ser_humano:M_S::np-def: ser_humano))))
+                                       (,)
+                                       (CO:conj-c:e:::co-postnom: e)
+                                       (CJT:pp 
+                                         (>A:pp:em_particular:::: em_particular)
+                                         (H:prp:contra:::: contra)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:vírus:M_S::np-def: vírus)
+                                           (N<:np 
+                                             (H:prop:HIV2:M_S::: HIV2))))))))
+                        (.)))

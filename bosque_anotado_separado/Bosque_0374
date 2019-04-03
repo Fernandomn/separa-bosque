@@ -1,0 +1,85 @@
+(FRASE CP69-5 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                (H:n:argelino:M_P::np-def: argelinos)
+                                (,)
+                                (N<PRED:fcl 
+                                  (SUBJ:np 
+                                    (H:pron-indp:que:M_P::rel: que))
+                                  (P:vp (MV:v-fin:desempenhar:PR_3P_IND::fs-rel: desempenham))
+                                  (ACC:np 
+                                    (>N:art:um:M_S::arti: um)
+                                    (H:n:papel:M_S::np-idf: papel)
+                                    (N<:adjp 
+                                      (H:adj:preponderante:M_S: preponderante)))
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:o:S::artd: a)
+                                      (H:n:equipa:F_S::np-def: equipa)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Josip_Skoblar:M_S::: Josip_Skoblar)))))))
+                       (,)
+                       (P:vp (MV:v-fin:chegar:PS_3P_IND::: chegaram))
+                       (ADVL:advp (H:adv:anteontem:::: anteontem)
+                                  (A<:pp 
+                                    (H:prp:a:::: a+)
+                                    (P<:np 
+                                      (>N:art:o:S::artd: a)
+                                      (H:n:noite:F_S::np-def: noite))))
+                       (SA:pp (H:prp:a:::: a)
+                              (P<:np (H:prop:Famalicão:MF_S::: Famalicão)))
+                       (,)
+                       (ADVL:np (>N:adv:quase:::quant: quase)
+                                (>N:num:um:F_S::card: uma)
+                                (H:n:semana:F_S::anr_np-count:anr_np-def: semana)
+                                (N<:advp 
+                                  (H:adv:depois:::: depois)
+                                  (A<arg:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:icl 
+                                      (SUBJ:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (>N:pron-det:seu:F_S::: sua)
+                                        (H:n:equipa:F_S::anr_np-def: equipa))
+                                      (P:vp 
+                                        (AUX:v-inf:ter:3S::: ter)
+                                        (AUX:v-pcp:ser:::: sido)
+                                        (MV:v-pcp:afastar:F_S::anr_pass:passive: afastada))
+                                      (SA:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:S::artd: a)
+                                          (H:n:luta:F_S::np-def: luta)
+                                          (N<ARGO:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:ceptro:M_S::np-def: ceptro)
+                                              (N<:adjp 
+                                                (H:adj:grande:M_S::: máximo))
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:futebol:M_S::np-def: futebol)
+                                                  (N<:adjp 
+                                                    (H:adj:africano:M_S::: africano))))))))))))
+                       (,)
+                       (ADVL:icl::::ger: 
+                         (P:vp- (AUX:v-ger:ter:::: tendo))
+                         (ADVL:advp (>A:adv:já:::: já)
+                                    (H:adv:ontem:::: ontem))
+                         (-P:vp (MV:v-pcp:treinar:::: treinado))
+                         (ADVL:pp (H:prp:com:::: com)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:resto:M_S::np-def: resto)
+                                    (N<ARG:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:plantel:M_S::np-def:np-partitive2: plantel)
+                                        (N<:np 
+                                          (H:n:famalicense:M_S::np-idf: famalicense)))))))
+                       (.)))

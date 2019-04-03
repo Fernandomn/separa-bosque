@@ -1,0 +1,45 @@
+(FRASE CP196-9 (STA:fcl (ADVL:pp:por_fim:: Por_fim)
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n-adj:jovem:M_S::np-def: jovem)
+                                 (N<:adjp 
+                                   (H:adj:holandês:M_S::: holandês))
+                                 (N<:np (H:prop:Richard_Krajicek:M_S::: Richard_Krajicek)))
+                        (P:vp (MV:v-fin:ter:PS_3S_IND::: teve))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:encontro:M_S::np-def: encontro)
+                                (N<:adjp 
+                                  (>A:adv:mais:::quant: mais)
+                                  (H:adj:fácil:M_S::: fácil)
+                                  (A<:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:pron-det:este:F_S::dem: esta)
+                                      (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                      (H:n:ronda:F_S::anr_np-def: ronda)))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:bater:::: batendo))
+                          (ACC:np (H:np (>N:art:o:M_S::artd: o)
+                                        (H:n:espanhol:M_S::np-def: espanhol)
+                                        (N<:np 
+                                          (H:prop:Emílio_Sanchez:M_S::: Emílio_Sanchez)))
+                                  ({)
+                                  (N<PRED:adjp 
+                                    (H:adj:especialista:M_S::: especialista)
+                                    (A<:pp 
+                                      (H:prp:em:::: em)
+                                      (P<:np 
+                                        (H:n:piso:M_P::np-idf: pisos)
+                                        (N<:adjp 
+                                          (>A:adv:mais:::quant: mais)
+                                          (H:adj:lento:M_P::: lentos)))))
+                                  (}))
+                          (ADVL:pp (H:prp:por:::: por)
+                                   (P<:cu 
+                                     (CJT:np 
+                                       (H:n:6-3:M_P::card: 6-3))
+                                     (CO:conj-c:e:::co-prparg: e)
+                                     (CJT:np 
+                                       (H:n:6-2:M_P::card: 6-2)))))
+                        (.)))

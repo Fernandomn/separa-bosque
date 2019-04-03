@@ -1,0 +1,45 @@
+(FRASE CP709-5 (STA:fcl (ADVL:pp (H:prp:para:: Para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:resolver:::icl-fin: resolver))
+                                   (ACC:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:problema:M_S::np-def: problema))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:director:M_S::np-def: director)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:instituição:F_S::np-def: instituição)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:ensino:M_S::np-idf: ensino)
+                                              (N<:adjp 
+                                                (H:adj:universitário:M_S::: universitário)))))))
+                        (P:vp- (AUX:v-fin:ir:PR_3S_IND::: vai))
+                        (ADVL:advp (H:adv:hoje:::: hoje))
+                        (-P:vp (MV:v-inf:reunir:::: reunir))
+                        (PIV:pp (H:prp:com:::: com)
+                                (P<:np (H:cu 
+                                         (CJT:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:presidente:M_S::np-def: presidente)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (N<:art:o:F_S::: a)
+                                               (H:prop:Câmara:F_S::anr_np-def: Câmara))))
+                                         (CO:conj-c:e:::co-prparg: e)
+                                         (CJT:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:comandante:M_S::np-def: comandante)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:prop:GNR:F_S::: GNR)))))
+                                       (N<:adjp 
+                                         (H:adj:local:M_P::: locais))))
+                        (.)))

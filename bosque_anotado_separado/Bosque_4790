@@ -1,0 +1,28 @@
+(FRASE CP931-6 (STA:fcl (SUBJ:np (H:prop:Moutinho:M_S: Moutinho))
+                        (,)
+                        (ADVL:pp (H:prp:por:::: por)
+                                 (P<:np (>N:pron-det:seu:M_S::si: seu)
+                                        (H:n:lado:M_S::anr_np-idf: lado)))
+                        (,)
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:afirmar:PR_3S_IND::: afirma))
+                                (ACC:icl 
+                                  (P:vp (MV:v-inf:ter:::icl-subst: ter))
+                                  (ACC:np 
+                                    (H:n:prova:F_P::np-idf: provas)
+                                    (N<ARGO:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:fcl 
+                                        (SUB:conj-s:que:::: que)
+                                        (SUBJ:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:carta:F_P::np-def: cartas))
+                                        (P:vp 
+                                          (MV:v-fin:ser:PR_3P_IND::fs-subst: são))
+                                        (SC:adjp 
+                                          (H:adj:falso:F_P::: falsas)))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:interrogar:PR_3S_IND::hyfen:nosubj: interroga-))
+                                (ACC:np (H:pron-pers:se:F_3S_ACC::: se))))
+                        (;)))

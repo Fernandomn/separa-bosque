@@ -1,0 +1,31 @@
+(FRASE CP341-4 (STA:fcl (ADVL:advp (H:adv:entretanto:kc: Entretanto))
+                        (,)
+                        (P:vp (AUX:v-fin:estar:PR_3S_IND::: está)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:disputar:_::hyfen:se-passive: disputar-))
+                        (ACC-PASS:np (H:pron-pers:se:F_3S_ACC::: se))
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:prop:Taça_de_Portugal:F_S::: Taça_de_Portugal)
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:competição:F_S::np-idf: competição)
+                                   (N<:pp 
+                                     (H:prp:por:::: por)
+                                     (P<:np 
+                                       (H:n:equipa:F_P::np-idf: equipas))))
+                                 (,))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:praia_Grande:F_S::: praia_Grande)))
+                        (,)
+                        (ADVL:pp (H:prp:até:::: até)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:np 
+                                          (H:n:dia:M_S::anr_np-def: dia)
+                                          (N<:adjp::::date: 
+                                            (H:num:12:M_S::card: 12)))
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:agosto:M_S::np-idf:prop: Agosto)))))
+                        (.)))

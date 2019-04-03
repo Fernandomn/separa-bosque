@@ -1,0 +1,59 @@
+(FRASE CP457-7 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:hora:F_S::np-def: hora)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:jogo:M_S::np-def: jogo)))
+                                 (,)
+                                 (N<PRED:cu 
+                                   (CJT:pp 
+                                     (H:prp:referente_a:::: referente_a+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (>N:adj:30ª:F_S::NUM-ord: 30ª)
+                                       (H:n:jornada:F_S::anr_np-idf: jornada)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:campeonato:M_S::np-def: campeonato)
+                                           (N<:adjp 
+                                             (H:adj:nacional:M_S::: nacional))))))
+                                   (CO:conj-c:e:::co-pred: e)
+                                   (CJT:icl::::pcp: 
+                                     (P:vp 
+                                       (MV:v-pcp:repetir:M_S::: repetido))
+                                     (ADVL:pp 
+                                       (H:prp:por:::: por)
+                                       (P<:np 
+                                         (>N:v-pcp:alegar:M_S::: alegado)
+                                         (H:n:erro:M_S::anr_np-idf: erro)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:árbitro:M_S::np-def: árbitro)))
+                                         (N<:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:expulsão:F_S::np-def: expulsão)
+                                             (N<ARGO:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:benfiquista:M_S::DERS:np-def: benfiquista)
+                                                 (N<:np 
+                                                   (H:prop:Caniggia:M_S::: Caniggia)))))))))))
+                        (,)
+                        (P:vp (MV:v-fin:ficar:PS_3S_IND::: ficou))
+                        (SC:adjp (H:adj:dependente:F_S::: dependente)
+                                 (A<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:clube:M_S::np-def: clube)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:prop:Alvalade:MF_S::: Alvalade))))))
+                        (.)))

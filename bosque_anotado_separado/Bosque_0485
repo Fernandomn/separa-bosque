@@ -1,0 +1,51 @@
+(FRASE CP89-1 (STA:fcl (SUBJ:np (H:n:metade:F_S::np-idf:numfract: Metade)
+                                (N<ARG:pp 
+                                  (H:prp:de:: de+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:prop:Orçamento:M_S::np-partitive2: Orçamento))))
+                       (P:vp (MV:v-fin:destinar:PR_3S_IND::: destina-))
+                       (ACC:np (H:pron-pers:se:F_3S_ACC::: se))
+                       (PIV:pp- (H:prp:a:::: a)
+                                (P<:np- (H:n:despesa:F_P::anr_np-idf: despesas)
+                                        (N<:adjp 
+                                          (H:adj:corrente:F_P::: correntes))))
+                       (,)
+                       (ADVL:icl::::ger: 
+                         (P:vp (MV:v-ger:suscitar:::: suscitando))
+                         (ACC:np (H:n:crítica:F_P::new: críticas)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:S::artd: a)
+                                          (H:n:oposição:F_S::np-def: oposição)
+                                          (,)
+                                          (N<PRED:fcl 
+                                            (SUBJ:np 
+                                              (H:pron-indp:que:F_P::rel: que))
+                                            (ACC:np 
+                                              (H:pron-pers:elas:F_3P_ACC::: as))
+                                            (P:vp 
+                                              (MV:v-fin:considerar:PR_3P_IND::fs-rel: consideram))
+                                            (OC:v-pcp:exagerar:F_P::: exageradas)
+                                            (,))))))
+                       (-PIV:pp (-P<:np (APP:np 
+                                          (>N:adv:nomeadamente:::: nomeadamente)
+                                          (H:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (H:n:despesa:F_P::np-def: despesas)
+                                            (N<:pp 
+                                              (H:prp:com:::: com)
+                                              (P<:np 
+                                                (H:n:pessoal:M_S::np-idf: pessoal)))
+                                            ({)
+                                            (N<PRED:np 
+                                              (>N:adjp 
+                                                (>A:adv:mais_de:::quant: mais_de)
+                                                (H:num:um:M_S::card: um))
+                                              (H:n:milhão:M_S::anr_np-count:anr_np-def:card:num: milhão)
+                                              (N<ARG:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:conto:M_P::np-dequant:np-idf: contos))))
+                                            (})))))
+                       (.)))

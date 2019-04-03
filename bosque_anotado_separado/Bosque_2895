@@ -1,0 +1,59 @@
+(FRASE CP558-1 (STA:fcl (PRED:np (>N:adj:nono:M_S::NUM-ord: Nono)
+                                 (H:n:mês:M_S: mês)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:calendário:M_S::: calendário)
+                                          (N<:adjp 
+                                            (H:adj:lunar:M_S::: lunar))
+                                          (N<:adjp 
+                                            (H:adj:islâmico:M_S::: islâmico))))
+                                 (,)
+                                 (N<PRED:fcl 
+                                   (ADVL:pp 
+                                     (H:prp:durante:::: durante)
+                                     (P<:np 
+                                       (H:pron-indp:o_qual:M_S::rel: o_qual)))
+                                   (SUBJ:np 
+                                     (>N:n:mil:M_P::card:num: mil)
+                                     (H:n:milhão:M_P::card:num: milhões)
+                                     (N<ARG:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:pessoa:F_P::np-dequant: pessoas))))
+                                   (ACC:np 
+                                     (H:pron-pers:se:F_3P_ACC::: se))
+                                   (P:vp 
+                                     (MV:v-fin:abster:PR_3P_IND::fs-rel: abstêm))
+                                   (PIV:cu 
+                                     (CJT:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:cu 
+                                         (CJT:v-inf:comer:::: comer)
+                                         (,)
+                                         (CJT:v-inf:fumar:::: fumar)
+                                         (,)
+                                         (CJT:icl 
+                                           (P:vp 
+                                             (MV:v-inf:ouvir:::: ouvir))
+                                           (ACC:np 
+                                             (H:n:música:F_S::: música)))))
+                                     (CO:conj-c:ou:::co-piv: ou)
+                                     (CJT:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:icl 
+                                         (P:vp 
+                                           (MV:v-inf:ter:::: ter))
+                                         (ACC:np 
+                                           (H:n:relação:F_P::: relações)
+                                           (N<:adjp 
+                                             (H:adj:sexual:F_P::: sexuais)))))))
+                                 (,))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:prop:Ramadão:M_S::: Ramadão))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:np (>N:art:o:M_S::artd: o)
+                               (H:n:mês:M_S::: mês)
+                               (N<:v-pcp:sagrar:M_S::: sagrado)
+                               (N<:np (H:n:muçulmano:M_S::: muçulmano)))
+                        (.)))

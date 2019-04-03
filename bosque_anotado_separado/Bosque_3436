@@ -1,0 +1,67 @@
+(FRASE CP661-3 (STA:fcl (ADVL:cu (CJT:pp 
+                                   (H:prp:para:: Para)
+                                   (P<:np 
+                                     (>N:art:um:M_S::arti: um)
+                                     (H:n:utilizador:M_S::np-idf: utilizador)
+                                     (N<:adjp 
+                                       (H:adj:experiente:M_S::: experiente))))
+                                 (CO:conj-c:ou:::co-advl: ou)
+                                 (CJT:pp 
+                                   (H:prp:para:::: para)
+                                   (P<:np 
+                                     (>N:art:um:M_S::arti: um)
+                                     (H:n:principiante:M_S::np-idf: principiante))))
+                        (,)
+                        (SUBJ:np (>N:art:um:F_S::arti: uma)
+                                 (H:n:ligação:F_S::np-idf: ligação)
+                                 (N<:cu (CJT:adjp 
+                                          (H:adj:rápido:F_S::: rápida))
+                                        (,)
+                                        (CJT:adjp 
+                                          (H:adj:eficaz:F_S::: eficaz))
+                                        (CO:conj-c:e:::co-postnom: e)
+                                        (CJT:adjp 
+                                          (H:adj:económico:F_S::: económica)))
+                                 (N<:pp (H:prp:a:::: a+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:prop:Internet:F_S::: Internet)))
+                                 (N<:pp (H:prp:em:::: em)
+                                        (P<:np 
+                                          (H:prop:Portugal:M_S::: Portugal))))
+                        (ADVL:advp (H:adv:só:::: só))
+                        (P:vp (AUX:v-fin:ser:PR_3S_IND::: é)
+                              (MV:v-pcp:assegurar:F_S::anr_pass:passive: assegurada))
+                        (ADVL:advp (H:adv:através:::: através)
+                                   (A<:np 
+                                     (H:cu 
+                                       (CJT:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:prop:Teleweb:F_S::: Teleweb)))
+                                       (CO:conj-c:ou:::: ou)
+                                       (CJT:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:prop:Esotérica:F_S::: Esotérica))))
+                                     (,)
+                                     (N<PRED:adjp 
+                                       (H:num:dois:M_P::card: dois)
+                                       (A<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (>N:num:cinco:M_P::card: cinco)
+                                           (H:n:fornecedor:M_P::anr_np-count:anr_np-def:np-partitive2: fornecedores)
+                                           (N<:fcl 
+                                             (SUBJ:np 
+                                               (H:pron-indp:que:M_P::rel: que))
+                                             (P:vp 
+                                               (MV:v-fin:operar:PR_3P_IND::fs-rel: operam))
+                                             (ADVL:pp 
+                                               (H:prp:em:::: em)
+                                               (P<:np 
+                                                 (H:prop:Portugal:M_S::: Portugal)))))))))
+                        (.)))

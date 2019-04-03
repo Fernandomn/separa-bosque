@@ -1,0 +1,90 @@
+(FRASE CP890-1 (STA:fcl (SUBJ:np (>N:num:dois:F_P::card: Duas)
+                                 (>N:pron-det:outro:F_P::KOMP:diff: outras)
+                                 (H:n:personalidade:F_P::anr_np-count:anr_np-def: personalidades)
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:F_P::rel: que))
+                                   (ACC:np 
+                                     (H:pron-pers:se:F_3P_ACC::reci: se))
+                                   (P:vp 
+                                     (MV:v-fin:digladiar:PR_3P_IND::fs-rel: digladiam))
+                                   (ADVL:pp 
+                                     (,)
+                                     (>P:pp 
+                                       (H:prp:sem:: sem)
+                                       (P<:np 
+                                         (H:n:dúvida:F_S::np-idf: dúvida)))
+                                     (,)
+                                     (H:prp:por:::: por+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (>N:adj:primeiro:F_S::NUM-ord: primeiro)
+                                       (H:n:plano:M_S::anr_np-def: plano)
+                                       (N<:pp 
+                                         (H:prp:em:::: em+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:círculo:M_S::np-def: círculo)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:poder:M_S::np-def: poder)))))))))
+                        (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                        (SC:cu (CJT:np (>N:art:o:M_S::artd: o)
+                                       (H:n:presidente:M_S::np-def: presidente)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (N<:art:o:F_S::: a)
+                                           (H:prop:Câmara_de_Moscovo:F_S::anr_np-def: Câmara_de_Moscovo)))
+                                       (,)
+                                       (APP:np 
+                                         (H:prop:Iuri_Lujkov:M_S::: Iuri_Lujkov))
+                                       (,)
+                                       (N<PRED:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:aliar:M_S::: aliado))
+                                         (ADVL:cu 
+                                           (CJT:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_P::artd: os)
+                                               (H:n:banqueiro:M_P::np-def: banqueiros)))
+                                           (CO:conj-c:e:::co-advl: e)
+                                           (CJT:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:F_P::artd: as)
+                                               (H:n:mafia:F_P::np-def: mafias)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:F_S::artd: a)
+                                                   (H:n:capital:F_S::np-def: capital))))))))
+                               (,)
+                               (CO:conj-c:e:::co-sc: e)
+                               (CJT:np (H:prop:Anatoli_Chubais:M_S::: Anatoli_Chubais)
+                                       (,)
+                                       (APP:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (>N:ec:ex-:::: ex-)
+                                         (H:n:vice-primeiro-ministro:M_S::: vice-primeiro-ministro)
+                                         (N<:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:recém-nomear:M_S::: recém-nomeado))
+                                           (SC:np 
+                                             (H:n:chefe:M_S::np-idf: chefe)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:n:casa:F_S::np-def: casa)
+                                                 (N<:adjp 
+                                                   (H:adj:civil:F_S::: civil))
+                                                 (N<:pp 
+                                                   (H:prp:de:::: de+)
+                                                   (P<:np 
+                                                     (>N:art:o:F_S::artd: a)
+                                                     (H:n:presidência:F_S::np-def: Presidência))))))))))
+                        (.)))

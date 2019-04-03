@@ -1,0 +1,77 @@
+(FRASE CP275-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:ministro:M_S::np-def: ministro)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (N<:art:o:M_S::: o)
+                                          (H:prop:Comércio_Externo:M_S::anr_np-def: Comércio_Externo)))
+                                 (,)
+                                 (APP:np 
+                                   (H:prop:Yves_Galland:M_S::: Yves_Galland))
+                                 (,))
+                        (P:vp (MV:v-fin:anunciar:PS_3S_IND::: anunciou))
+                        (ADVL:advp (H:adv:ainda:::: ainda))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (,)
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:ano:M_S::np-def: ano)
+                                     (N<:v-pcp:passar:M_S::: passado)))
+                                 (,)
+                                 (SUBJ:np 
+                                   (>N:art:o:F_P::artd: as)
+                                   (H:n:exportação:F_P::np-def: exportações)
+                                   (N<:adjp 
+                                     (H:adj:francês:F_P::: francesas)))
+                                 (P:vp (MV:v-fin:atingir:PS_3P_IND::fs-subst: atingiram))
+                                 (ACC:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:montante:M_S::np-def: montante)
+                                   (N<:adjp 
+                                     (H:adj:recorde:M_S::: recorde))
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:np 
+                                         (>N:adjp 
+                                           (H:num:1427:M_P::card: 1427))
+                                         (H:n:mil:M_P::card:num: mil))
+                                       (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                       (N<ARG:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:franco:M_P::np-dequant:np-idf: francos)))
+                                       ({)
+                                       (N<PRED:np 
+                                         (>N:np 
+                                           (>N:adjp 
+                                             (>A:adv:cerca_de:::: cerca_de)
+                                             (H:num:1427:M_P::card: 1427))
+                                           (H:n:mil:M_P::card:num: mil))
+                                         (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                         (N<ARG:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:conto:M_P::np-dequant:np-idf: contos))))
+                                       (}))))
+                                 (,)
+                                 (ADVL:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:reflectir:::: reflectindo))
+                                   (ACC:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:alta:F_S::np-idf: alta)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:num:9,2:M_P::card: 9,2)
+                                         (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))
+                                     (N<:pp 
+                                       (H:prp:relativamente_a:::: relativamente_a+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:ano:M_S::np-def: ano)
+                                         (N<:adjp 
+                                           (H:adj:anterior:M_S::: anterior)))))))
+                        (.)))

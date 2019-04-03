@@ -1,0 +1,34 @@
+(FRASE CP245-10 (STA:fcl (ADVL:pp (H:prp:perante:: Perante)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:situação:F_S::np-def: situação)))
+                         (,)
+                         (SUBJ:np (>N:art:o:M_S::artd: o)
+                                  (>N:pron-det:tal:M_S::diff: tal)
+                                  (H:n:cliente:M_S::anr_np-def: cliente))
+                         (P:vp (MV:v-fin:ir:PS_3S_IND::: foi))
+                         (SA:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:F_S::: a)
+                                       (H:n:agência:F_S::anr_np-idf: agência)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::: a)
+                                           (H:n:instituição:F_S::anr_np-idf: instituição)))
+                                       (,)
+                                       (N<PRED:fcl 
+                                         (ADVL:advp 
+                                           (H:adv:onde:::rel: onde))
+                                         (P:vp 
+                                           (MV:v-fin:tentar:PS_3S_IND::fs-rel:ink:nosubj: tentou))
+                                         (ACC:icl 
+                                           (P:vp 
+                                             (MV:v-inf:indagar:::icl-subst: indagar))
+                                           (ACC:adjp 
+                                             (H:num:um:F_S::card: uma)
+                                             (A<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (>N:num:dois:F_P::card: duas)
+                                                 (H:n:coisa:F_P::anr_np-count:anr_np-def:np-partitive2: coisas))))))))
+                         (;)))

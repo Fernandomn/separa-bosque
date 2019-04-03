@@ -1,0 +1,47 @@
+(FRASE CP290-2 (STA:fcl (P:vp (MV:v-fin:ser:PR_3S_IND: É))
+                        (SC:np (H:n:exemplo:M_S::np-idf: exemplo)
+                               (N<:pp (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (H:pron-indp:isso:M_S::dem: isso))))
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:inauguração:F_S::np-def: inauguração)
+                                 (N<ARGO:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (>N:adj:novo:F_S::: nova)
+                                     (H:n:residência:F_S::anr_np-idf: residência)
+                                     (N<:adjp 
+                                       (H:adj:paroquial:F_S::: paroquial))))
+                                 (N<:pp (H:prp:em:::: em)
+                                        (P<:np::::date: 
+                                          (H:n:novembro:M_S::anr_np-idf:prop: Novembro)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:adjp 
+                                              (H:num:1996:M_S::card: 1996)))))
+                                 (,)
+                                 (APP:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (>N:adj:primeiro:M_S::NUM-ord: primeiro)
+                                   (H:n:passo:M_S::anr_np-def: passo)
+                                   (N<:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:sentido:M_S::np-def: sentido)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:S::artd: a)
+                                           (H:n:reafectação:F_S::np-def: reafectação)
+                                           (N<ARGO:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:espaço:M_P::np-idf: espaços)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:M_S::artd: o)
+                                                   (H:n:monumento:M_S::np-def: monumento)))))))))))
+                        (.)))

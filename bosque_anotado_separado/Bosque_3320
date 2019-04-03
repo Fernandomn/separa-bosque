@@ -1,0 +1,74 @@
+(FRASE CP638-6 (STA:fcl (SUBJ:icl (P:vp (MV:v-inf:estabelecer:icl-subst: estabelecer))
+                                  (ACC:np 
+                                    (>N:art:um:F_S::arti: uma)
+                                    (H:n:ordem:F_S::np-idf: ordem))
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:multiplicidade:F_S::np-def: multiplicidade)
+                                      (N<:adjp 
+                                        (H:adj:caótico:F_S::: caótica))
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:imagem:F_P::np-def: imagens))))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (AUX:v-fin:poder:PR_3S_IND::: pode)
+                                      (MV:v-inf:ser:::: ser))
+                                (SC:np (>N:art:um:F_S::arti: uma)
+                                       (H:n:tarefa:F_S::np-idf: tarefa)
+                                       (N<:cu 
+                                         (CJT:adjp 
+                                           (H:adj:exterior:F_S::: exterior))
+                                         (CO:conj-c:e:::co-postnom: e)
+                                         (CJT:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:desligar:F_S::: desligada))
+                                           (ADVL:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:pron-det:esse:M_S::dem: esse)
+                                               (H:n:real:M_S::np-def: real)))))))
+                              (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                              (CJT:x::::predicate: 
+                                (ADVL:advp 
+                                  (H:adv:também:::: também))
+                                (P:vp- (AUX:v-fin:poder:PR_3S_IND::nosubj: pode))
+                                (,)
+                                (ADVL:pp 
+                                  (H:prp:a:::: a+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:icl 
+                                      (P:vp 
+                                        (MV:v-inf:procurar:::icl-temp: procurar))
+                                      (ACC:icl 
+                                        (P:vp 
+                                          (MV:v-inf:entender:::icl-subst: entender))
+                                        (ACC:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:intenção:F_P::np-def: intenções)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:fotógrafo:M_P::np-def: fotógrafos))))))))
+                                (,)
+                                (-P:cu (X:icl 
+                                         (P:vp 
+                                           (MV:v-inf:enriquecer:::: enriquecer))
+                                         (ACC:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:conjunto:M_S::np-def: conjunto)))
+                                       (X:icl 
+                                         (P:vp 
+                                           (MV:v-inf:fornecer:::hyfen: fornecer-))
+                                         (DAT:np 
+                                           (H:pron-pers:ele:M_3S_DAT::: lhe))
+                                         (ACC:np 
+                                           (>N:art:um:M_S::arti: um)
+                                           (>N:adj:novo:M_S::: novo)
+                                           (H:n:sentido:M_S::: sentido))))))
+                        (.)))

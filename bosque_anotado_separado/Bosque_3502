@@ -1,0 +1,48 @@
+(FRASE CP677-2 (STA:fcl (P:vp (MV:v-fin:dizer:PR_3S_IND::hyfen: Diz-))
+                        (SUBJ:np (H:pron-pers:se:MF_3SP_ACC: se))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:um:M_S::arti: um)
+                                   (H:n:documento:M_S::np-idf: documento)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Vaticano:M_S::: Vaticano))))
+                                 (X:cu (CO:conj-c:ou:::co-vfin: ou)
+                                       (CJT:cu 
+                                         (CJT:x::::predicate: 
+                                           (P:vp 
+                                             (MV:v-fin:provocar:PR_3S_IND::fs-subst: provoca))
+                                           (ACC:np 
+                                             (>N:art:um:F_S::arti: uma)
+                                             (>N:adj:grande:F_S::: grande)
+                                             (H:n:polémica:F_S::anr_np-idf: polémica)))
+                                         (--)
+                                         (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                         (CJT:x::::predicate: 
+                                           (P:vp 
+                                             (MV:v-fin:tornar:PR_3S_IND::hyfen:nosubj: torna-))
+                                           (ACC:np 
+                                             (H:pron-pers:se:M_3S_ACC::refl: se))
+                                           (OC:np 
+                                             (>N:art:um:M_S::arti: um)
+                                             (H:n:sucesso:M_S::np-idf: sucesso)
+                                             (N<:adjp 
+                                               (H:adj:editorial:M_S::: editorial))))
+                                         (--))
+                                       (CO:conj-c:ou:_::co-fmc:co-vfin: ou)
+                                       (CJT:x::::predicate: 
+                                         (P:vp 
+                                           (AUX:v-fin:ir:PR_3S_IND::: vai)
+                                           (MV:v-inf:dormir:::nosubj: dormir))
+                                         (ADVL:advp 
+                                           (H:adv:tranquilamente:::: tranquilamente))
+                                         (ADVL:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:np 
+                                             (>N:art:o:F_P::artd: as)
+                                             (H:n:biblioteca:F_P::np-def: bibliotecas)
+                                             (N<:adjp 
+                                               (H:adj:eclesiástico:F_P::: eclesiásticas)))))))
+                        (.)))

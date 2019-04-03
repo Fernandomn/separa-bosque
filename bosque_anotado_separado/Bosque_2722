@@ -1,0 +1,67 @@
+(FRASE CP521-2 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:pron-det:este:M_S::dem: este)
+                                        (>N:adj:último:M_S::NUM-ord: último)
+                                        (H:n:caso:M_S::anr_np-def: caso)))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:destaque:M_S::np-def: destaque))
+                        (P:vp (MV:v-fin:ir:PR_3S_IND::: vai))
+                        (SA:pp (H:prp:para:::: para)
+                               (P<:np (>N:art:um:M_S::arti: um)
+                                      (H:n:filme:M_S::np-idf: filme)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:guerra:F_S::np-idf: guerra)))
+                                      (,)
+                                      («)
+                                      (APP:np 
+                                        (H:prop:Jornada_Trágica:F_S::: Jornada_Trágica))
+                                      (»)
+                                      (,)
+                                      (N<PRED:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:M_S::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:ter:FUT_3S_IND::fs-rel: terá))
+                                        (ACC:np- 
+                                          (H:pron-det:pouco:MF_SP::KOMP:quant: menos))
+                                        (ADVL:pp 
+                                          (H:prp:a:::: a)
+                                          (P<:icl 
+                                            (P:vp 
+                                              (MV:v-inf:ver:::: ver))
+                                            (ADVL:pp 
+                                              (H:prp:com:::: com)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:conflito:M_S::np-def: conflito)
+                                                (N<:fcl 
+                                                  (PIV:pp 
+                                                    (H:prp:a:::: a)
+                                                    (P<:np 
+                                                      (H:pron-indp:que:M_S::rel: que)))
+                                                  (ACC:np 
+                                                    (H:pron-pers:se:M_3S_ACC::: se))
+                                                  (P:vp 
+                                                    (MV:v-fin:referir:IMPF_3S_IND::fs-rel:nosubj: referia)))))))
+                                        (-ACC:np 
+                                          (KOMP<:acl 
+                                            (COM:conj-s:do_que:::: do_que)
+                                            (ADVL:pp 
+                                              (H:prp:com:::: com)
+                                              (P<:cu 
+                                                (CJT:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  («)
+                                                  (H:n:western:M_S::anr_np-idf: western)
+                                                  (»))
+                                                (CO:conj-c:ou:::co-vfin: ou)
+                                                (CJT:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:floresta:F_S::np-def: floresta)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (H:prop:Sherwood:MF_S::: Sherwood)))))))))))
+                        (.)))

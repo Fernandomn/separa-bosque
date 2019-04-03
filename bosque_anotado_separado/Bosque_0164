@@ -1,0 +1,64 @@
+(FRASE CP28-9 (STA:fcl (ADVL:pp (H:prp:durante:: Durante)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (>N:adj:primeiro:M_S::NUM-ord: primeiro)
+                                       (H:n:semestre:M_S::anr_np-def: semestre)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (>N:adj:corrente:M_S::: corrente)
+                                           (H:n:ano:M_S::anr_np-def: ano)))))
+                       (,)
+                       (SUBJ:np (>N:art:o:M_S::artd: o)
+                                (H:n:mercado:M_S::np-def: mercado)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:computador:M_P::np-idf: computadores)
+                                         (N<:adjp 
+                                           (H:adj:pessoal:M_P::: pessoais))))
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:prop:Coreia_do_Sul:F_S::: Coreia_do_Sul))))
+                       (P:vp (MV:v-fin:registar:PS_3S_IND::: registou))
+                       (ACC:np (>N:art:um:M_S::arti: um)
+                               (H:n:aumento:M_S::np-idf: aumento)
+                               (N<:pp (H:prp:de:::: de)
+                                      (P<:np 
+                                        (>N:num:42:M_P::card: 42)
+                                        (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))
+                               (N<:pp (H:prp:relativamente_a:::: relativamente_a)
+                                      (P<:np 
+                                        (>N:adj:idêntico:M_S::: idêntico)
+                                        (H:n:período:M_S::anr_np-idf: período)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:ano:M_S::np-def: ano)
+                                            (N<:adjp 
+                                              (H:adj:transacto:M_S::: transacto))))))
+                               (,)
+                               (N<:pp (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:um:M_S::arti: um)
+                                        (H:n:montante:M_S::np-idf: montante)
+                                        (N<ARG:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:num:1300:M_P::card: 1300)
+                                            (H:n:milhão:M_P::anr_np-idf:card:num: milhões)
+                                            (N<ARG:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:dólar:M_P::np-dequant:np-idf: dólares)))
+                                            ({)
+                                            (N<PRED:np 
+                                              (>N:num:195:M_P::card: 195)
+                                              (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                              (N<ARG:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:conto:M_P::np-dequant:np-idf: contos))))
+                                            (}))))))
+                       (.)))

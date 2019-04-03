@@ -1,0 +1,31 @@
+(FRASE CP605-1 (STA:fcl (SUBJ:np (H:n:ministro:M_S::np-idf: Ministro)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (N<:art:o:F_S::: a)
+                                          (H:prop:Cultura:F_S::anr_np-def: Cultura))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:admitir:PR_3S_IND::: admite))
+                                (ACC:np (H:n:défice:M_S::np-idf: défice)
+                                        (N<:adjp 
+                                          (H:adj:orçamental:M_S::: orçamental))
+                                        (N<:cu 
+                                          (PCJT:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:adjp 
+                                              (H:num:dois:M_P::card: dois)))
+                                          (PCJT:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:np 
+                                              (>N:num:três:M_P::card: três)
+                                              (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões))))
+                                        (N<:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:CCB:M_S::: CCB)))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:reunir:PR_3S_IND::nosubj: reúne))
+                                (PIV:pp (H:prp:com:::: com)
+                                        (P<:np 
+                                          (H:n:mecenas:MF_P::: mecenas)))))))

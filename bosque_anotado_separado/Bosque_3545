@@ -1,0 +1,42 @@
+(FRASE CP687-5 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:país:M_P::np-def: países)
+                                 (N<:icl 
+                                   (ADVL:advp 
+                                     (H:adv:mais:_::KOMP:quant: mais))
+                                   (P:vp 
+                                     (MV:v-pcp:representar:M_P: representados))
+                                   (ADVL:pp 
+                                     (H:prp:em_termos_de:::: em_termos_de)
+                                     (P<:np 
+                                       (H:n:exibidor:M_P::np-idf: exibidores)))))
+                        (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                        (SC:cu (CJT:np (>N:art:o:F_S::artd: a)
+                                       (H:prop:França:F_S::: França))
+                               (,)
+                               (CJT:np (>N:art:o:F_S::artd: a)
+                                       (H:prop:Itália:F_S::: Itália))
+                               (CO:conj-c:e:::co-sc: e)
+                               (,)
+                               (CJT:np (>N:adv:obviamente:::: obviamente)
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:prop:Alemanha:F_S::: Alemanha)))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:enquanto:_::ks:rel: enquanto))
+                                  (SUBJ:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (>N:adj:grande:M_P::KOMP: maiores)
+                                    (H:n:comprador:M_P::anr_np-def: compradores))
+                                  (P:vp (MV:v-fin:vir:PR_3P_IND::: vêm))
+                                  (SA:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:cu 
+                                      (CJT:np 
+                                        (H:prop:Bélgica:F_S::: Bélgica))
+                                      (,)
+                                      (CJT:np 
+                                        (H:prop:Escandinávia:F_S::: Escandinávia))
+                                      (CO:conj-c:e:::co-prparg: e)
+                                      (CJT:np 
+                                        (H:prop:Holanda:F_S::: Holanda)))))
+                        (.)))

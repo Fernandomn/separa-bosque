@@ -1,0 +1,51 @@
+(FRASE CP883-8 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:Federação_Portuguesa_de_Andebol:F_S: Federação_Portuguesa_de_Andebol))
+                        (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                              (MV:v-inf:analisar:::: analisar))
+                        (ADVL:advp (H:adv:amanhã:::: amanhã))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:reunião:F_S::np-idf: reunião)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:executivo:M_S::np-def: executivo)))))
+                        (,)
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (>N:adv:não:::: não)
+                                (H:n:realização:F_S::anr_np-def: realização)
+                                (,)
+                                (N<PRED:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (>N:v-pcp:passar:M_S::: passado)
+                                    (H:n:sábado:M_S::anr_np-idf: sábado)))
+                                (,)
+                                (N<ARGO:pp 
+                                  (H:prp:de:::: de+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:jogo:M_S::np-def: jogo)
+                                    (N<:cu 
+                                      (CJT:np 
+                                        (H:prop:FC_Porto:M_S::: FC_Porto))
+                                      (-)
+                                      (CJT:np 
+                                        (H:prop:Ginásio_do_Sul:M_S::: Ginásio_do_Sul)))
+                                    (,)
+                                    (N<PRED:pp 
+                                      (H:prp:referente_a:::: referente_a+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (>N:adj:segundo:F_S::NUM-ord: segunda)
+                                        (H:n:jornada:F_S::anr_np-idf: jornada)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            («)
+                                            (H:prop:Nacional:M_S::: Nacional)
+                                            (»))))))))
+                        (.)))

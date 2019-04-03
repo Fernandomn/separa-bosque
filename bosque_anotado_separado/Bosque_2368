@@ -1,0 +1,21 @@
+(FRASE CP450-1 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (>N:num:três:M_P::card: três)
+                                 (H:n:atleta:M_P::anr_np-count:anr_np-def: atletas)
+                                 (N<:adjp 
+                                   (H:adj:português:M_P: portugueses))
+                                 (N<:pp (H:prp:em:::: em)
+                                        (P<:np 
+                                          (H:n:acção:F_S::np-idf: acção)))
+                                 (N<:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (>N:adj:quarto:M_S::NUM-ord: quarto)
+                                          (H:n:dia:M_S::anr_np-def: dia)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:prova:F_P::np-idf: provas))))))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:ser:PS_3P_IND::: foram))
+                        (SC:adjp (H:adj:feliz:M_P::: felizes))
+                        (.)))

@@ -1,0 +1,102 @@
+(FRASE CP407-1 (STA:fcl (PRED:cu (CJT:pp 
+                                   (H:prp:com:: Com)
+                                   (P<:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:carteira:F_S::np-idf: carteira)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:título:M_P::np-idf: títulos)))
+                                     (N<:adjp 
+                                       (H:adj:obrigatório:F_S::: obrigatória)
+                                       (A<:pp 
+                                         (H:prp:para:::: para)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:estudo:M_S::np-def: estudo)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:obra:F_S::np-def: obra)
+                                               (N<:adjp 
+                                                 (H:adj:nemesiano:F_S::: nemesiana)))))))
+                                     (--)
+                                     (N<PRED:cu 
+                                       (CJT:np 
+                                         («)
+                                         (H:prop:Vitorino_Nemésio_._A_Obra_e_o_Homem:M_S::: Vitorino_Nemésio_._A_Obra_e_o_Homem)
+                                         (»)
+                                         (,)
+                                         (N<PRED:np 
+                                           (H:n:ed.:F_P::np-idf: ed.)
+                                           (N<:np 
+                                             (H:prop:Arcádia:F_S::: Arcádia)))
+                                         (,)
+                                         (N<PRED:np 
+                                           (H:num:1978:M_S::card: 1978))
+                                         (,))
+                                       (CJT:np 
+                                         («)
+                                         (H:prop:Temas_Nemesianos:M_S::: Temas_Nemesianos)
+                                         (»)
+                                         (,)
+                                         (N<PRED:np 
+                                           (H:n:ed.:F_P::np-idf: ed.)
+                                           (N<:np 
+                                             (H:prop:Angra:F_S::: Angra)))
+                                         (,)
+                                         (N<PRED:np 
+                                           (H:num:1981:M_S::card: 1981))
+                                         (,))
+                                       (CO:conj-c:e:::co-pred: e)
+                                       (CJT:np 
+                                         («)
+                                         (H:prop:Vitorino_Nemésio_--_à_Luz_do_Verbo:M_S::: Vitorino_Nemésio_--_à_Luz_do_Verbo)
+                                         (»)
+                                         (,)
+                                         (N<PRED:np 
+                                           (H:n:ed.:F_P::np-idf: ed.)
+                                           (N<:np 
+                                             (H:prop:Vega:F_S::: Vega)))
+                                         (,)
+                                         (N<PRED:adjp 
+                                           (H:num:1988:M_S::card: 1988))))))
+                                 (,)
+                                 (CJT:pp 
+                                   (H:prp:além_de:::kc: além_de)
+                                   (P<:icl 
+                                     (P:vp 
+                                       (AUX:v-inf:ter:::: ter)
+                                       (MV:v-pcp:prefaciar:::: prefaciado))
+                                     (ACC:np 
+                                       (>N:pron-det:vários:M_P::quant: vários)
+                                       (H:n:livro:M_P::anr_np-idf: livros))
+                                     (ADVL:pp 
+                                       (H:prp:para:::: para)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:prop:Imprensa_Nacional-Casa_da_Moeda:F_S::: Imprensa_Nacional-Casa_da_Moeda)
+                                         (,)
+                                         (N<PRED:fcl 
+                                           (SUBJ:np 
+                                             (H:pron-indp:que:F_S::rel: que))
+                                           (P:vp 
+                                             (AUX:v-fin:estar:PR_3S_IND::: está)
+                                             (PRT-AUX:prp:a:::: a)
+                                             (MV:v-inf:publicar:::fs-rel: publicar))
+                                           (ACC:np 
+                                             (>N:art:o:F_P::artd: as)
+                                             (H:prop:Obras_Completas:F_P::: Obras_Completas))))))))
+                        (--)
+                        (,)
+                        (SUBJ:np (H:prop:Martins_Garcia:M_S::: Martins_Garcia))
+                        (P:vp (MV:v-fin:encontrar:PS_3S_IND::hyfen: encontrou-))
+                        (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                        (ADVL:advp (H:adv:pela_primeira_vez:::: pela_primeira_vez))
+                        (PIV:pp (H:prp:com:::: com)
+                                (P<:np (H:prop:Vitorino_Nemésio:M_S::: Vitorino_Nemésio)))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:exame:M_S::np-idf: exame)))
+                        (.)))

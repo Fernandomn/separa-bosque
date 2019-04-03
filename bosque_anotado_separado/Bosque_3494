@@ -1,0 +1,27 @@
+(FRASE CP676-1 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:manhã:F_S::np-def: manhã)
+                                        (N<:adjp 
+                                          (H:adj:seguinte:F_S::: seguinte))))
+                        (,)
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (H:n:surpresa:F_S::np-idf: surpresa)
+                                        (N<:np 
+                                          (H:pron-det:meu:F_S::: minha))))
+                        (,)
+                        (X:cu (CJT:fcl (SUBJ:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:telefone:M_S::np-def: telefone))
+                                       (P:vp 
+                                         (MV:v-fin:tocar:PS_3S_IND::: tocou)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:fcl (P:vp 
+                                         (MV:v-fin:falar:PS_1S_IND::nosubj: falei))
+                                       (ACC:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:tudo_o_que:M_S::quant:rel: tudo_o_que))
+                                         (P:vp 
+                                           (MV:v-fin:ser:IMPF_3S_IND::fs-subst: era))
+                                         (SC:adjp 
+                                           (H:adj:necessário:M_S::: necessário)))))
+                        (.)))

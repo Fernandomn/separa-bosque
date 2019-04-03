@@ -1,0 +1,30 @@
+(FRASE CP315-4 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:licença:F_S::np-def: licença)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (H:n:ocupação:F_S::np-idf: ocupação)
+                                          (N<ARGO:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:domínio:M_S::np-idf: domínio)
+                                              (N<:adjp 
+                                                (H:adj:público:M_S::: público))
+                                              (N<:np 
+                                                (H:n:marítimo:M_S::np-idf: marítimo)))))))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:v-pcp:emitir:F_S::anr_pass:passive: emitida))
+                        (PASS:pp (H:prp:por:::: por+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:DRARN:F_S::: DRARN)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:cu 
+                                            (CJT:np 
+                                              (H:prop:Lisboa:F_S::: Lisboa))
+                                            (CO:conj-c:e:::co-prparg: e)
+                                            (CJT:np 
+                                              (H:prop:Vale_do_Tejo:M_S::: Vale_do_Tejo))))))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:maio:M_S::np-idf:prop: Maio)
+                                        (N<:v-pcp:passar:M_S::: passado)))
+                        (.)))

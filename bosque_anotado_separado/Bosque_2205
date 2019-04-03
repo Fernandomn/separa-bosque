@@ -1,0 +1,65 @@
+(FRASE CP419-7 (STA:fcl (SUBJ:np (H:prop:Amos_Mosea:M_P: Amos_Mosea))
+                        (P:vp (MV:v-fin:brincar:IMPF_3S_IND::: brincava))
+                        (ADVL:pp (H:prp:no_meio_de:::: no_meio_de)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:milheiral:M_S::np-idf: milheiral)))
+                        (,)
+                        (ADVL:np (H:n:sexta-feira:F_S::np-idf: sexta-feira))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:quinta:F_S::np-idf: quinta)
+                                        (N<:pp 
+                                          (H:prp:perto_de:::: perto_de)
+                                          (P<:np 
+                                            (H:prop:Underberg:MF_S::: Underberg)
+                                            (,)
+                                            (N<PRED:pp 
+                                              (H:prp:a:::: a)
+                                              (P<:np 
+                                                (>N:num:200:M_P::card: 200)
+                                                (H:n:quilómetro:M_P::anr_np-count:anr_np-def: quilómetros)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:n:cidade:F_S::np-def: cidade)
+                                                    (N<:adjp 
+                                                      (H:adj:portuário:F_S::: portuária))
+                                                    (N<:pp 
+                                                      (H:prp:de:::: de)
+                                                      (P<:np 
+                                                        (H:prop:Durban:MF_S::: Durban)))
+                                                    (,)
+                                                    (N<:pp 
+                                                      (H:prp:em:::: em+)
+                                                      (P<:np 
+                                                        (>N:art:o:M_S::artd: o)
+                                                        (H:prop:Oceano_Índico:M_S::: Oceano_Índico)))))))))))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:quando:_::ks:rel: quando))
+                                  (X:cu (CJT:fcl 
+                                          (P:vp 
+                                            (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                            (MV:v-pcp:atropelar:M_S::anr_pass:nosubj:passive: atropelado))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:ceifeira-debulhadora:F_S::np-def: ceifeira-debulhadora))))
+                                        (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                        (CJT:fcl 
+                                          (DAT:np 
+                                            (H:pron-pers:ele:M_3S_DAT::: lhe))
+                                          (P:vp 
+                                            (MV:v-fin:cortar:PS_3S_IND::nosubj: cortou))
+                                          (ACC:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (H:n:perna:F_P::np-def: pernas))
+                                          (ADVL/N<[+1]:pp 
+                                            (H:prp:abaixo_de:::: abaixo_de+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:joelho:M_P::anr_np-idf: joelhos))))))
+                        (.)))

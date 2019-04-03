@@ -1,0 +1,70 @@
+(FRASE CP3-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                               (>N:adj:primeiro:M_S::NUM-ord: primeiro)
+                               (H:n:fabricante:M_S::anr_np-def: fabricante)
+                               (N<:adjp (H:adj:mundial:M_S: mundial))
+                               (N<:pp (H:prp:de:::: de)
+                                      (P<:np 
+                                        («)
+                                        (H:n:rato:M_P::anr_np-idf: ratos)
+                                        (»")
+                                        (N<:pp 
+                                          (H:prp:para:::: para)
+                                          (P<:np 
+                                            (H:n:computador:M_S::np-idf: computador)))))
+                               (,)
+                               (APP:np (>N:art:o:F_S::artd: a)
+                                       (H:n:empresa:F_S::np-def: empresa)
+                                       (N<:adjp 
+                                         (H:adj:suíço:F_S::: suíça))
+                                       (N<:np 
+                                         (H:prop:Logitech:F_S::: Logitech)))
+                               (,))
+                      (P:vp (MV:v-fin:apresentar:PS_3S_IND::: apresentou))
+                      (ADVL:np (>N:pron-det:este:F_S::dem: esta)
+                               (H:n:semana:F_S::np-def: semana))
+                      (ADVL:pp (H:prp:em:::: em+)
+                               (P<:np (>N:art:um:F_S::arti: uma)
+                                      (H:n:feira:F_S::np-idf: feira)
+                                      (N<:v-pcp:especializar:F_S::: especializada)
+                                      (N<:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:F_S::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:ter:PS_3S_IND::fs-rel: teve))
+                                        (ACC:np 
+                                          (H:n:lugar:M_S::np-idf: lugar))
+                                        (ADVL:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:prop:Basileia:F_S::: Basileia))
+                                          ({)
+                                          (N<PRED:np 
+                                            (H:prop:Suíça:F_S::: Suíça))
+                                          (})))))
+                      (ACC:np (>N:art:um:M_S::arti: um)
+                              (H:n:equipamento:M_S::np-idf: equipamento)
+                              (N<:adjp (H:adj:periférico:M_S::: periférico))
+                              (N<:icl::::pcp: 
+                                (P:vp (MV:v-pcp:denominar:M_S::: denominado))
+                                (SC:np::::postmod: 
+                                  («)
+                                  (H:prop:Audioman:M_S::: Audioman)
+                                  (»")
+                                  (N<:fcl 
+                                    (SUBJ:np 
+                                      (H:pron-indp:que:M_S::rel: que))
+                                    (P:vp 
+                                      (MV:v-fin:permitir:FUT_3S_IND::fs-rel: permitirá))
+                                    (ACC:icl 
+                                      (P:vp 
+                                        (MV:v-inf:dotar:::icl-subst: dotar))
+                                      (ACC:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:n:computador:M_P::np-def: computadores))
+                                      (PIV:pp 
+                                        (H:prp:de:::: de)
+                                        («)
+                                        (P<:np 
+                                          (H:n:orelha:F_P::np-idf: orelhas))
+                                        (»")))))))
+                      (.)))

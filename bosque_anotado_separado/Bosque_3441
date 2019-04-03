@@ -1,0 +1,53 @@
+(FRASE CP662-4 (STA:fcl (PRED:np (>N:adv:inicialmente:: Inicialmente)
+                                 (H:n:religião:F_S::anr_np-idf: religião)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n-adj:pobre:M_P::np-def: pobres))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (>N:adj:novo:F_S::: nova)
+                                 (H:n:mensagem:F_S::anr_np-def: mensagem))
+                        (X:cu (CJT:x::::predicate: 
+                                (ADVL:advp 
+                                  (H:adv:depressa:::: depressa))
+                                (ACC-PASS:np 
+                                  (H:pron-pers:se:F_3S_ACC::refl: se))
+                                (P:vp (MV:v-fin:estender:PR_3S_IND::se-passive: estende))
+                                (ADVL:pp 
+                                  (H:prp:a:::: a)
+                                  (P<:np 
+                                    (>N:pron-det:todo_o:F_P::quant: todas_as)
+                                    (H:n:camada:F_P::anr_np-def: camadas)
+                                    (N<:adjp 
+                                      (H:adj:social:F_P::: sociais)))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp- (AUX:v-fin:ser:FUT_3S_IND::: será))
+                                (ADVL:advp 
+                                  (H:adv:vigorosamente:::: vigorosamente))
+                                (-P:vp (MV:v-pcp:divulgar:F_S::anr_pass:nosubj:passive: divulgada))
+                                (PASS:pp 
+                                  (H:prp:por:::: por+)
+                                  (P<:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (>N:adj:pequeno:M_P::: pequenos)
+                                    (H:n:grupo:M_P::anr_np-def: grupos)
+                                    (N<:adjp 
+                                      (H:adj:inicial:M_P::: iniciais))
+                                    (,)
+                                    (N<PRED:fcl 
+                                      (SUBJ:np 
+                                        (H:pron-indp:que:M_P::rel: que))
+                                      (ADVL:advp 
+                                        (H:adv:depois:::: depois))
+                                      (P:vp 
+                                        (MV:v-fin:dar:PR_3P_IND::fs-rel: dão))
+                                      (ACC:np 
+                                        (H:n:origem:F_S::np-idf: origem))
+                                      (PIV:pp 
+                                        (H:prp:a:::: a)
+                                        (P<:np 
+                                          (>N:adj:novo:F_P::: novas)
+                                          (H:n:comunidade:F_P::anr_np-idf: comunidades))))))))
+                        (.)))

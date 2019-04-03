@@ -1,0 +1,68 @@
+(FRASE CP375-5 (STA:fcl (ADVL:pp (H:prp:em_termos_de:: Em_termos_de)
+                                 (P<:np (H:n:navegação:F_S::np-idf: navegação)))
+                        (,)
+                        (P:vp (MV:v-fin:haver:PR_3S_IND::nofsubj: há))
+                        (ACC:np (>N:art:um:F_S::arti: uma)
+                                (H:n:oferta:F_S::np-idf: oferta)
+                                (N<:cu (CJT:adjp 
+                                         (H:adj:vasto:F_S::: vasta))
+                                       (CO:conj-c:e:::co-postnom: e)
+                                       (CJT:adjp 
+                                         (H:adj:actual:F_S::: actual)))
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:equipamento:M_P::np-idf: equipamentos)
+                                         (N<:cu 
+                                           (CJT:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:convés:M_S::np-idf: convés)))
+                                           (CO:conj-c:e:::co-postnom: e)
+                                           (CJT:adjp 
+                                             (H:adj:eletrônico:M_P::: electrónicos)))
+                                         (,)
+                                         (N<PRED:np 
+                                           (>N:adv:especialmente:::: especialmente)
+                                           (H:cu 
+                                             (CJT:np 
+                                               (H:n:sonda:F_P::np-idf: sondas)
+                                               ({)
+                                               (N<PRED:pp 
+                                                 (H:prp:com:::: com)
+                                                 (P<:np 
+                                                   (>N:art:um:M_S::arti: um)
+                                                   (>N:adj:novo:M_S::: novo)
+                                                   (H:n:modelo:M_S::anr_np-idf: modelo)
+                                                   (N<:fcl 
+                                                     (SUBJ:np 
+                                                       (H:pron-indp:que:M_S::rel: que))
+                                                     (P:vp 
+                                                       (MV:v-fin:permitir:PR_3S_IND::fs-rel: permite))
+                                                     (ACC:np 
+                                                       (>N:art:o:F_S::artd: a)
+                                                       (H:n:visualização:F_S::np-def: visualização)
+                                                       (N<:cu 
+                                                         (CJT:pp 
+                                                           (H:prp:de:::: de+)
+                                                           (P<:np 
+                                                             (>N:art:o:M_S::artd: o)
+                                                             (H:n:fundo:M_S::np-def: fundo)))
+                                                         (,)
+                                                         (CJT:pp 
+                                                           (H:prp:além_de:::: além_de+)
+                                                           (P<:np 
+                                                             (>N:art:o:F_S::artd: a)
+                                                             (H:n:proa:F_S::anr_np-idf: proa))))))
+                                                   (,)
+                                                   (APP:np 
+                                                     (>N:art:o:M_S::artd: o)
+                                                     (H:prop:Echopilot_Incastec:M_S::: Echopilot_Incastec))))
+                                               (}))
+                                             (CO:conj-c:e:::co-postnom: e)
+                                             (CJT:np 
+                                               (H:prop:GPS:M_S::: GPS)
+                                               ({)
+                                               (APP:np 
+                                                 (H:prop:Global_Posiotioning_System:M_S::: Global_Posiotioning_System))
+                                               (})))))))
+                        (.)))

@@ -1,0 +1,30 @@
+(FRASE CP778-3 (UTT:np (>N:art:um:F_S::arti: Uma)
+                       (H:n:alternativa:F_S::np-idf: alternativa)
+                       (N<:adjp (>A:adv:mais:_::KOMP:quant: mais)
+                                (H:adj:barato:F_S: barata))
+                       (N<:pp (H:prp:para:::: para)
+                              (P<:np (H:n:hotel:M_S::np-idf: hotel)))
+                       (,)
+                       (N<PRED:pp (H:prp:com:::: com)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:vantagem:F_S::np-def: vantagem)
+                                    (N<:adjp 
+                                      (H:adj:adicional:F_S::: adicional))
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:icl 
+                                        (DAT:np 
+                                          (H:pron-pers:nós:M_1P_DAT::: nos))
+                                        (P:vp 
+                                          (MV:v-inf:permitir:::: permitir))
+                                        (ACC:icl 
+                                          (P:vp 
+                                            (MV:v-inf:simular:::icl-subst: simular))
+                                          (ACC:np 
+                                            (>N:art:um:F_S::arti: uma)
+                                            (>N:pron-det:certo:F_S::quant: certa)
+                                            (H:n:domesticidade:F_S::: domesticidade)
+                                            (N<:adjp 
+                                              (H:adj:francês:F_S::: francesa))))))))
+                       (.)))

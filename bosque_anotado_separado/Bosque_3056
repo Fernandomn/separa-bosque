@@ -1,0 +1,83 @@
+(FRASE CP588-4 (STA:fcl (PRED:cu (CJT:np 
+                                   (>N:ec:ex-:: ex-)
+                                   (H:n:primeiro-ministro:M_S::: primeiro-ministro)
+                                   (,)
+                                   (N<PRED:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:adjp 
+                                       (H:num:1974:M_S::: 1974)
+                                       (A<:pp 
+                                         (H:prp:a:::: a)
+                                         (P<:np 
+                                           (H:num:1978:M_S::: 1978))))))
+                                 (,)
+                                 (CO:conj-c:e:::co-pred: e)
+                                 (CJT:np 
+                                   (>N:ec:ex-:::: ex-)
+                                   (H:n:ministro:M_S::: ministro)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (N<:art:o:M_P::: os)
+                                       (H:prop:Negócios_Estrangeiros:M_P::anr_np-def: Negócios_Estrangeiros)))
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:prop:Bélgica:F_S::: Bélgica)))
+                                   (,)
+                                   (N<PRED:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:início:M_S::np-def: início)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:década:F_S::np-def: década)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:adjp 
+                                               (H:num:80:F_S::card: 80)))))))))
+                        (,)
+                        (SUBJ:np (H:prop:Leo_Tindemans:M_S::: Leo_Tindemans))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (,)
+                        (ADVL:advp (H:adv:hoje:::: hoje))
+                        (,)
+                        (SC:np (>N:art:o:M_S::artd: o)
+                               (H:n:presidente:M_S::np-def: presidente)
+                               (N<:pp (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:prop:Grupo_Democrata_Cristão:M_S::: Grupo_Democrata_Cristão)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Parlamento_Europeu:M_S::: Parlamento_Europeu)))
+                                        (,)
+                                        (APP:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (>N:adj:segundo:M_S::NUM-ord: segundo)
+                                          (>N:adj:grande:M_S::KOMP: maior)
+                                          (H:n:agrupamento:M_S::anr_np-def: agrupamento)
+                                          (N<:adjp 
+                                            (H:adj:parlamentar:M_S::: parlamentar))
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:prop:Estrasburgo:MF_S::: Estrasburgo)))
+                                          (,)
+                                          (N<PRED:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:icl 
+                                              (P:vp 
+                                                (MV:v-inf:seguir:::: seguir))
+                                              (PIV:pp 
+                                                (H:prp:a:::: a+)
+                                                (P<:np 
+                                                  (>N:art:o:M_P::artd: os)
+                                                  (H:n:socialista:M_P::np-def: socialistas)))))))))
+                        (.)))

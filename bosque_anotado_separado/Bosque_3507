@@ -1,0 +1,33 @@
+(FRASE CP679-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:dólar:M_S::np-def: dólar))
+                        (P:vp (MV:v-fin:subir:PS_3S_IND: subiu))
+                        (SA:pp (H:prp:para:::: para)
+                               (P<:np (H:n:valor:M_P::np-idf: valores)
+                                      (N<:pp 
+                                        (H:prp:acima_de:::: acima_de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (>N:num:1,41:M_P::card: 1,41)
+                                          (H:n:marco:M_P::anr_np-count:anr_np-def: marcos)))))
+                        (,)
+                        (ADVL:cu (CJT:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:aproximar:::hyfen: aproximando-))
+                                   (ACC:np 
+                                     (H:pron-pers:se:M_3S_ACC::refl: se))
+                                   (ADVL:advp 
+                                     (H:adv:cautelosamente:::: cautelosamente))
+                                   (PIV:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (>N:num:85:M_P::card: 85)
+                                       (H:n:iene:M_P::anr_np-count:anr_np-def: ienes))))
+                                 (CO:conj-c:e:::co-ger: e)
+                                 (CJT:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:mostrar:::: mostrando))
+                                   (ACC:np 
+                                     (>N:adj:grande:F_S::: grande)
+                                     (H:n:firmeza:F_S::anr_np-idf: firmeza))))
+                        (.)))

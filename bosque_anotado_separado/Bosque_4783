@@ -1,0 +1,58 @@
+(FRASE CP930-1 (STA:fcl (SUBJ:np (>N:adjp 
+                                   (>A:adv:mais:: Mais)
+                                   (H:num:quatro:F_P::card: quatro))
+                                 (H:n:pessoa:F_P::anr_np-count:anr_np-def: pessoas))
+                        (P:vp (AUX:v-fin:ser:PS_3P_IND::: foram)
+                              (MV:v-pcp:matar:F_P::anr_pass:passive: mortas))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:bairro:M_S::np-idf: bairro)
+                                        (N<:adjp 
+                                          (H:adj:pobre:M_S::: pobre))
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Istambul:MF_S::: Istambul)))))
+                        (,)
+                        (ADVL:pp (H:prp:durante:::: durante)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:n:recontro:M_P::np-def: recontros)
+                                        (N<:pp 
+                                          (H:prp:entre:::: entre)
+                                          (P<:cu 
+                                            (CJT:np 
+                                              (>N:adj:manifestante:MF_P::: manifestantes)
+                                              (H:n:alevita:MF_P::anr_np-idf: alevitas))
+                                            (CO:conj-c:e:::co-prparg: e)
+                                            (CJT:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:polícia:F_S::np-def: polícia))))))
+                        (,)
+                        (ADVL:advp (>A:adv:pouco:::quant: pouco)
+                                   (H:adv:antes:::: antes)
+                                   (A<arg:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:icl 
+                                       (SUBJ:np 
+                                         (H:n:representante:MF_P::np-idf: representantes)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:cu 
+                                             (CJT:np 
+                                               (H:pron-det:um:M_P::quant: uns))
+                                             (CO:conj-c:e:::co-prparg: e)
+                                             (CJT:np 
+                                               (H:pron-det:outro:M_P::KOMP:diff: outros)))))
+                                       (P:vp 
+                                         (AUX:v-inf:ter:3P::: terem)
+                                         (MV:v-pcp:chegar:::: chegado))
+                                       (SA:pp 
+                                         (H:prp:a:::: a)
+                                         (P<:np 
+                                           (>N:art:um:M_S::arti: um)
+                                           (H:n:acordo:M_S::np-idf: acordo)
+                                           (N<:adjp 
+                                             (>A:adv:pouco:::quant: pouco)
+                                             (H:adj:auspicioso:M_S::: auspicioso)))))))
+                        (.)))

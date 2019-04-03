@@ -1,0 +1,69 @@
+(FRASE CP670-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:preço:M_S::np-def: preço)
+                                 (N<:adjp 
+                                   (H:adj:pequeno:M_S: mínimo))
+                                 (N<:pp (H:prp:por:::: por)
+                                        (P<:np 
+                                          (H:n:acção:F_S::np-idf: acção))))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:pp (H:prp:de:::: de)
+                               (P<:np (>N:num:1980:M_P::card: 1980)
+                                      (H:n:escudo:M_P::anr_np-idf: escudos)
+                                      (,)
+                                      (N<PRED:np 
+                                        (H:n:valor:M_S::np-idf: valor)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_S::rel: que))
+                                          (ACC:np 
+                                            (H:pron-pers:se:M_3S_ACC::: se))
+                                          (P:vp 
+                                            (MV:v-fin:encontrar:PR_3S_IND::fs-rel: encontra))
+                                          (ADVL:pp 
+                                            (H:prp:próximo_de:::: próximo_de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:oferta:F_S::anr_np-idf: oferta)
+                                              (N<:adjp 
+                                                (H:adj:público:F_S::: pública))
+                                              (N<ARGO:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:aquisição:F_S::np-idf: aquisição)
+                                                  (N<:adjp 
+                                                    (H:adj:final:F_S::: final))))
+                                              (N<:icl::::pcp: 
+                                                (P:vp 
+                                                  (MV:v-pcp:fazer:F_S::: feita))
+                                                (PASS:pp 
+                                                  (H:prp:por:::: por+)
+                                                  (P<:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (H:prop:Banco_Português_de_Investimento:M_S::: Banco_Português_de_Investimento)))
+                                                (,)
+                                                (ADVL:pp 
+                                                  (H:prp:em:::: em)
+                                                  (P<:np 
+                                                    (H:n:fevereiro:M_S::np-idf:prop: Fevereiro)))
+                                                (,))))))))
+                        (S<:fcl (SUBJ:np 
+                                  (H:pron-indp:o_que:M_S::rel: o_que))
+                                (P:vp (MV:v-fin:atribuir:PR_3S_IND::: atribui))
+                                (PIV:pp (H:prp:a:::: a+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:BF:M_S::: BF)))
+                                (ACC:np (>N:art:um:M_S::arti: um)
+                                        (H:n:valor:M_S::np-idf: valor)
+                                        (N<:adjp 
+                                          (H:adj:global:M_S::: global))
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:num:158,5:M_P::card: 158,5)
+                                            (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                            (N<ARG:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:conto:M_P::np-dequant:np-idf: contos)))))))
+                        (.)))

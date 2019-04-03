@@ -1,0 +1,118 @@
+(FRASE CP404-1 (STA:fcl (ADVL:pp (H:prp:em_termos_de:: Em_termos_de)
+                                 (P<:np (H:n:unidade:F_P::np-idf: unidades)
+                                        (N<:adjp 
+                                          (H:v-pcp:vender:F_P::: vendidas))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:se:::: se)
+                                  (ACC-PASS:np 
+                                    (H:pron-pers:se:M_3P_ACC::: se))
+                                  (P:vp (MV:v-fin:vender:PS_3P_IND::se-passive: venderam))
+                                  (SUBJ:np 
+                                    (>N:np 
+                                      (>N:adjp 
+                                        (>A:adv:cerca_de:::: cerca_de)
+                                        (H:num:145:M_P::card: 145))
+                                      (>N:n:mil:M_P::card:num: mil))
+                                    (H:n:LP:M_P::anr_np-count:anr_np-def: LP)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:preço:M_S::np-idf: preço)
+                                        (N<:adjp 
+                                          (H:adj:grande:M_S::: máximo))))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:CD:M_S::np-idf: CD)))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (>N:pron-det:mesmo:F_S::KOMP:diff: mesma)
+                                        (H:n:escala:F_S::anr_np-def: escala)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:preço:M_S::np-idf: preço)))))
+                        (,)
+                        (P:vp (MV:v-fin:vender:PS_3P_IND::hyfen:se-passive: venderam-))
+                        (ACC-PASS:np (H:pron-pers:se:M_3P_ACC::: se))
+                        (SUBJ:np (>N:adjp 
+                                   (>A:adv:quase:::quant: quase)
+                                   (H:num:405:M_P::card: 405))
+                                 (H:n:mil:M_P::anr_np-def:card:num: mil)
+                                 (--)
+                                 (N<PRED:np 
+                                   (>N:art:um:F_S::arti: uma)
+                                   (H:n:discrepância:F_S::np-idf: discrepância)
+                                   (N<:fcl 
+                                     (SUBJ:np 
+                                       (H:pron-indp:que:F_S::rel: que))
+                                     (ACC-PASS:np 
+                                       (H:pron-pers:se:F_3S_ACC::: se))
+                                     (P:vp 
+                                       (MV:v-fin:acentuar:PR_3S_IND::fs-rel:se-passive: acentua))
+                                     (ADVL:pp 
+                                       (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:facturação:F_S::np-def: facturação)
+                                         ({)
+                                         (APP:np 
+                                           (>N:num:176:M_P::card: 176)
+                                           (>N:n:mil:M_P::card:num: mil)
+                                           (H:n:conto:M_P::anr_np-count:anr_np-def: contos)
+                                           (N<:pp 
+                                             (H:prp:em:::: em)
+                                             (P<:np 
+                                               (H:prop:LP:M_P::: LP)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:preço:M_S::np-idf: preço)
+                                                   («)
+                                                   (N<:adjp 
+                                                     (H:adj:top:M_S::: top))
+                                                   (»)))))
+                                           (N<:pp 
+                                             (H:prp:contra:::: contra)
+                                             (P<:np 
+                                               (>N:np 
+                                                 (>N:adjp 
+                                                   (>A:adv:cerca_de:::: cerca_de)
+                                                   (H:num:817:M_P::card: 817))
+                                                 (H:n:mil:M_P::card:num: mil))
+                                               (H:n:conto:M_P::anr_np-count:anr_np-def: contos)
+                                               (N<:pp 
+                                                 (H:prp:em:::: em)
+                                                 (P<:np 
+                                                   (H:n:CD:M_P::np-idf: CD)
+                                                   (N<:pp 
+                                                     (>P:adv:também:::: também)
+                                                     (H:prp:de:::: de)
+                                                     («)
+                                                     (P<:adjp 
+                                                       (H:adj:top:M_P::: top))
+                                                     (»)))))))
+                                         (})))
+                                     (,)
+                                     (ADVL:pp 
+                                       (H:prp:devido_a:::: devido_a+)
+                                       (P<:icl 
+                                         (SUBJ:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (>N:adj:segundo:M_S::NUM-ord: segundo)
+                                           (H:n:formato:M_S::anr_np-idf: formato))
+                                         (P:vp 
+                                           (AUX:v-inf:ser:3S::: ser)
+                                           (MV:v-pcp:vender:M_S::anr_pass:passive: vendido))
+                                         (ADVL:pp 
+                                           (>P:adv:sensivelmente:::: sensivelmente)
+                                           (H:prp:por:::: por+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:dobro:M_S::np-def:numfract: dobro)
+                                             (N<ARG:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np::::Eg: 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:adj:primeiro:M_S::Eg:NUM-ord:np-def: primeiro))))))))))
+                        (.)))

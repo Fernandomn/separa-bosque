@@ -1,0 +1,91 @@
+(FRASE CP305-1 (STA:fcl (ADVL:pp (H:prp:desde:: Desde)
+                                 (P<:np::::date: 
+                                   (H:n:maio:M_S::anr_np-idf:prop: Maio)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:pron-det:este:M_S::dem: este)
+                                       (H:n:ano:M_S::np-def: ano)))))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (SUBJ:np (H:prop:Joaquim_Correia:M_S::: Joaquim_Correia)
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:escultor:M_S::np-idf: escultor)
+                                   (N<:adjp 
+                                     (H:adj:natural:M_S::: natural)
+                                     (A<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:concelho:M_S::np-def: concelho)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:prop:Marinha_Grande:F_S::: Marinha_Grande)))))))
+                                 (-)
+                                 (N<PRED:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:M_S::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:doar:PS_3S_IND::fs-rel: doou))
+                                   (ACC:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (>N:pron-det:seu:M_P::si: seus)
+                                     (H:n:trabalho:M_P::anr_np-def: trabalhos))
+                                   (ADVL:pp 
+                                     (H:prp:para:::: para)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (MV:v-inf:integrar:::icl-fin: integrar))
+                                       (ACC:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:núcleo:M_S::np-def: núcleo)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:museu:M_S::np-def: museu)))
+                                         (N<:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:prop:Convento_de_Santo_Agostinho:M_S::: Convento_de_Santo_Agostinho)))))))
+                                 (-))
+                        (P:vp- (AUX:v-fin:chegar:PS_3S_IND::: chegou))
+                        (ADVL:advp (H:adv:mesmo:::quant: mesmo))
+                        (-P:vp (PRT-AUX:prp:a:::: a)
+                               (MV:v-inf:ameaçar:::: ameaçar))
+                        (ACC:icl (P:vp (MV:v-inf:desvincular:_::hyfen:icl-subst: desvincular-))
+                                 (ACC:np 
+                                   (H:pron-pers:se:M_3S_ACC::refl: se)))
+                        (PIV:pp (H:prp:de:::: de+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:n:compromisso:M_S::np-def: compromisso)
+                                       (N<:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:autarquia:F_S::np-def: autarquia)))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:caso:::: caso)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:processo:M_S::np-def: processo))
+                                  (ADVL:advp 
+                                    (H:adv:não:::: não))
+                                  (P:vp (AUX:v-fin:ser:IMPF_3S_SUBJ::: fosse)
+                                        (MV:v-pcp:desbloquear:M_S::anr_pass:fs-cond:passive: desbloqueado))
+                                  (ADVL:pp 
+                                    (H:prp:até:::: até)
+                                    (P<:pp 
+                                      (H:prp:a:::: a+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:final:M_S::np-def: final)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:ano:M_S::np-def: ano)))))))
+                        (.)))

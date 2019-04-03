@@ -1,0 +1,41 @@
+(FRASE CP583-2 (STA:fcl (ADVL:pp (>P:adv:apenas:: Apenas)
+                                 (H:prp:a:::: a+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:meio-dia:M_S::np-def: meio-dia)
+                                        (--)
+                                        (N<PRED:np 
+                                          (>N:num:três:F_P::card: três)
+                                          (H:n:hora:F_P::anr_np-count:anr_np-def: horas)
+                                          (N<:pp 
+                                            (H:prp:após:::: após)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:acidente:M_S::np-def: acidente))))
+                                        (--)))
+                        (P:vp (MV:v-fin:chegar:PS_3S_IND::nosubj: chegou))
+                        (SA:pp (H:prp:a:::: a+)
+                               (P<:np (>N:art:o:F_S::artd: a)
+                                      (H:n:estação:F_S::np-def: estação)
+                                      (N<:np 
+                                        (H:prop:Socorro:M_S::: Socorro))))
+                        (ACC:cu (CJT:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:carruagem:F_S::np-idf: carruagem)
+                                        (N<:pp 
+                                          (H:prp:com:::: com)
+                                          (P<:np 
+                                            (H:n:ferramenta:F_P::np-idf: ferramentas))))
+                                (,)
+                                (CJT:np (H:n:macaco:M_P::np-idf: macacos)
+                                        (N<:adjp 
+                                          (H:adj:hidráulico:M_P::: hidráulicos)))
+                                (CO:conj-c:e:::co-acc: e)
+                                (CJT:np (>N:adjp 
+                                          (>A:adv:cerca_de:::: cerca_de)
+                                          (H:num:vinte:M_P::card: vinte))
+                                        (H:n:funcionário:M_P::anr_np-count:anr_np-def: funcionários)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:prop:Divisão_de_Manutenção_do_Metro:F_S::: Divisão_de_Manutenção_do_Metro)))))
+                        (.)))

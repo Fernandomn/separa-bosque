@@ -1,0 +1,60 @@
+(FRASE CP255-4 (STA:fcl (ADVL:np (>N:adjp 
+                                   (>A:adv:menos_de:quant: menos_de)
+                                   (H:num:um:M_S::card: um))
+                                 (H:n:mês:M_S::anr_np-count:anr_np-def: mês)
+                                 (N<:pp (H:prp:após:::: após)
+                                        (P<:icl 
+                                          (P:vp 
+                                            (AUX:v-inf:ter:::: ter)
+                                            (MV:v-pcp:vencer:::icl-temp: vencido))
+                                          (ACC:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Campeonato_Nacional_de_Clubes:M_S::: Campeonato_Nacional_de_Clubes)
+                                            (N<:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (H:n:golfe:M_S::np-idf: golfe)))
+                                            (,)
+                                            (N<PRED:icl::::pcp: 
+                                              (P:vp 
+                                                (MV:v-pcp:disputar:M_S::: disputado))
+                                              (ADVL:pp 
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:prop:Oporto_Golf_Club:M_S::: Oporto_Golf_Club))))
+                                            (,)))))
+                        (P:vp (MV:v-fin:colocar:PR_3S_IND::nosubj: coloca))
+                        (OA:pp (H:prp:em:::: em+)
+                               (P<:np (>N:art:o:F_S::artd: a)
+                                      (H:n:final:F_S::np-def: final)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          («)
+                                          (H:n:individual:M_S::anr_np-idf:prop: Individual)
+                                          (»)))))
+                        (ACC:np (>N:num:dois:M_P::card: dois)
+                                (H:n:elemento:M_P::anr_np-count:anr_np-def: elementos)
+                                (N<:fcl (SUBJ:np 
+                                          (H:pron-indp:que:M_P::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:contribuir:PS_3P_IND::fs-rel: contribuiram))
+                                        (PIV:pp 
+                                          (H:prp:para:::: para)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:conquista:F_S::np-def: conquista)
+                                            (N<ARGO:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:pron-det:esse:M_S::dem: esse)
+                                                (H:n:título:M_S::np-def: título))))))
+                                (,)
+                                (APP:cu (CJT:np 
+                                          (H:prop:Stephane_Castro_Ferreira:F_S::: Stephane_Castro_Ferreira))
+                                        (CO:conj-c:e:::co-app: e)
+                                        (CJT:np 
+                                          (H:prop:José_Sousa_e_Melo:M_S::: José_Sousa_e_Melo))))
+                        (.)))

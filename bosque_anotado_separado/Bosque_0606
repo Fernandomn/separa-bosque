@@ -1,0 +1,60 @@
+(FRASE CP119-4 (STA:fcl (SUBJ:np (H:n:quantidade:F_S::np-idf: Quantidade)
+                                 (N<:adjp 
+                                   (H:adj:idêntico:F_S: idêntica))
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:tabaco:M_S::np-idf: tabaco)))
+                                 (--)
+                                 (N<PRED:cu 
+                                   (CJT:np 
+                                     (>N:num:seis:F_P::card: seis)
+                                     (H:n:caixa:F_P::anr_np-count:anr_np-def: caixas)
+                                     (N<:pp 
+                                       (H:pp:de_marca:::: de_marca)
+                                       (N<:np 
+                                         (H:prop:Camel:F_S::: Camel))))
+                                   (CO:conj-c:e:::: e)
+                                   (CJT:np::::Eg: 
+                                     (H:num:124:F_P::card: 124)
+                                     (A<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:prop:Winston:M_S::: Winston)))))
+                                 (--))
+                        (P:vp (AUX:v-fin:ir:PS_3S_IND::: foi)
+                              (MV:v-pcp:aprender:F_S::: aprendida))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:n:madrugada:F_S::np-def: madrugada)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:terça-feira:F_S::np-idf: terça-feira)))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:n:zona:F_S::np-def: zona)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Vila_do_Bispo:F_S::: Vila_do_Bispo)))))
+                        (,)
+                        (PASS:pp (H:prp:por:::: por)
+                                 (P<:np (H:n:elemento:M_P::np-idf: elementos)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:comando:M_S::np-def: comando)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:S::artd: a)
+                                                (H:prop:Guarda_Fiscal:F_S::: Guarda_Fiscal)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (H:prop:Algarve:M_S::: Algarve)))))))))
+                        (.)))

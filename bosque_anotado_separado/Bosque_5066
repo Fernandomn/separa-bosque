@@ -1,0 +1,46 @@
+(FRASE CP986-4 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:France_3:F_S: France_3)
+                                 (,)
+                                 (N<PRED:adjp 
+                                   (H:num:um:F_S::card: uma)
+                                   (A<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_P::artd: as)
+                                       (>N:adj:principal:F_P::SUP: principais)
+                                       (H:n:estação:F_P::anr_np-def:np-partitive2: estações)
+                                       (N<:adjp 
+                                         (H:adj:público:F_P::: públicas))
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:televisão:F_S::np-def: televisão)
+                                           (N<:adjp 
+                                             (H:adj:francês:F_S::: francesa)))))))
+                                 (,))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:abrir:PS_3S_IND::: abriu))
+                                (ACC:np (>N:art:o:F_P::artd: as)
+                                        (H:n:hostilidade:F_P::np-def: hostilidades)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:declarar:PS_3S_IND::nosubj: declarou))
+                                (ACC:np (H:n:greve:F_S::np-idf: greve))
+                                (ADVL:cu 
+                                  (CJT:pp 
+                                    (H:prp:em_nome_de:::: em_nome_de+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:horário:M_S::anr_np-idf: horário)
+                                      (N<:adjp 
+                                        (H:adj:laboral:M_S::: laboral))))
+                                  (CO:conj-c:e:::co-advl: e)
+                                  (CJT:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:política:F_S::np-def: política)
+                                      (N<:adjp 
+                                        (H:adj:salarial:F_S::: salarial)))))))
+                        (.)))

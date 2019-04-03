@@ -1,0 +1,66 @@
+(FRASE CP95-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                (H:n:estação:F_S::np-def: estação)
+                                (N<:pp (H:prp:de:: de)
+                                       (P<:np 
+                                         (H:prop:Carnaxide:MF_S::: Carnaxide))))
+                       (P:vp (MV:v-fin:ter:PR_3S_IND::: tem))
+                       (ACC:np (>N:art:um:M_S::arti: um)
+                               (H:n:prazo:M_S::np-idf: prazo)
+                               (N<:pp (H:prp:de:::: de)
+                                      (P<:np 
+                                        (>N:num:48:F_P::card: 48)
+                                        (H:n:hora:F_P::anr_np-count:anr_np-def: horas)))
+                               (N<:pp (H:prp:para:::: para)
+                                      (P<:v-inf:responder:::icl-fin: responder)))
+                       (,)
+                       (ADVL:icl::::ger: 
+                         (P:vp- (AUX:v-ger:dever:::: devendo))
+                         (SUBJ:np (>N:art:o:F_S::artd: a)
+                                  (H:prop:CNE:F_S::: CNE))
+                         (ADVL:pp (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:S::artd: a)
+                                    (>N:pron-det:seu:F_S::: sua)
+                                    (>N:adj:próximo:F_S::: próxima)
+                                    (H:n:reunião:F_S::anr_np-def: reunião)))
+                         (-P:vp (MV:v-inf:tomar:::: tomar))
+                         (ACC:np (>N:art:um:F_S::arti: uma)
+                                 (H:n:decisão:F_S::np-idf: decisão)
+                                 (,)
+                                 (N<PRED:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:F_S::: que))
+                                   (,)
+                                   (ADVL:fcl 
+                                     (SUB:conj-s:se:::: se)
+                                     (P:vp 
+                                       (MV:v-fin:ser:FUT_3S_SUBJ::nosubj: for))
+                                     (SC:adjp 
+                                       (H:adj:desfavorável:F_S::: desfavorável)
+                                       (A<:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:S::artd: a)
+                                           (H:prop:SIC:F_S::: SIC)))))
+                                   (,)
+                                   (DAT:np 
+                                     (H:pron-pers:ela:F_3S_DAT::: lhe))
+                                   (P:vp 
+                                     (AUX:v-fin:poder:FUT_3S_IND::: poderá)
+                                     (MV:v-inf:custar:::: custar))
+                                   (SA:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:coima:F_S::np-idf: coima)
+                                     (N<:pp 
+                                       (H:prp:entre:::: entre)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (>N:cu 
+                                           (CJT:adjp 
+                                             (H:n:mil:M_P::card:num: mil))
+                                           (CO:conj-c:e:::: e)
+                                           (CJT:np 
+                                             (>N:num:10:M_P::card: 10)
+                                             (>N:n:mil:M_P::card:num: mil)))
+                                         (H:n:escudo:M_P::anr_np-count:anr_np-def: escudos)))))))
+                       (.)))

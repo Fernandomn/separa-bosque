@@ -1,0 +1,77 @@
+(FRASE CP869-1 (STA:fcl (ADVL:pp (H:prp:face_a:: Face_a+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:impacte:M_S::anr_np-idf: impacte)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:plano:M_P::np-def: planos)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:construtor:M_S::np-def: construtor)))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:comissão:F_S::np-def: comissão)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:trabalhador:M_P::np-idf: trabalhadores)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:prop:Renault_Portuguesa:F_S::: Renault_Portuguesa))))))
+                        (P:vp (MV:v-fin:ser:PS_3S_IND::: foi))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (SA:pp (H:prp:a:::: a+)
+                               (P<:np (>N:art:o:M_S::artd: o)
+                                      (H:prop:Ministério_da_Economia:M_S::: Ministério_da_Economia)))
+                        (ADVL:icl («)
+                                  (P:vp (MV:v-inf:lembrar:::: lembrar))
+                                  (PIV:pp 
+                                    (H:prp:a:::: a+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:prop:Governo:M_S::: Governo)))
+                                  (»)
+                                  (ACC:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:compromisso:M_S::np-def: compromisso)
+                                    (N<:adjp 
+                                      (H:adj:francês:M_S::: francês))
+                                    (N<ARGO:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:cu 
+                                        (CJT:icl 
+                                          (P:vp 
+                                            (MV:v-inf:criar:::: criar))
+                                          (ACC:np 
+                                            (>N:num:180:M_P::card: 180)
+                                            (>N:adj:novo:M_P::: novos)
+                                            (H:n:posto:M_S::anr_np-count:anr_np-def: postos)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:trabalho:M_P::np-idf: trabalho))))
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (H:prop:Cacia:MF_S::: Cacia))))
+                                        (CO:conj-c:e:::co-inf: e)
+                                        (CJT:icl 
+                                          (P:vp 
+                                            (MV:v-inf:investir:::: investir))
+                                          (PIV:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:pron-det:este:F_S::dem: esta)
+                                              (H:n:unidade:F_S::np-def: unidade)))
+                                          (ACC:np 
+                                            (>N:num:12:M_P::card: 12)
+                                            (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                            (N<ARG:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:conto:M_P::np-dequant:np-idf: contos)))))))))
+                        (.)))

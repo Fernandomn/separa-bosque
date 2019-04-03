@@ -1,0 +1,32 @@
+(FRASE CP493-5 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:cientista:M_P::np-def: cientistas))
+                        (P:vp (MV:v-fin:estimar:PR_3P_IND: estimam))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:adv:cerca_de:::: cerca_de)
+                                   (H:n:metade:F_S::anr_np-idf:numfract: metade)
+                                   (N<ARG:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:caso:M_P::np-def:np-partitive2: casos)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:cancro:M_P::np-idf: cancros))))))
+                                 (P:vp (MV:v-fin:estar:PR_3S_SUBJ::fs-subst: esteja))
+                                 (SC:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:associar:F_S::: associada))
+                                   (PIV:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:np 
+                                       (H:n:mutação:F_P::np-idf: mutações)
+                                       (N<ARGS:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:gene:M_S::np-def: gene)
+                                           (N<:np 
+                                             (H:n:p53:M_S::np-idf: p53))))))))
+                        (.)))

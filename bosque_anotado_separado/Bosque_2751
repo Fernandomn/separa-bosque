@@ -1,0 +1,57 @@
+(FRASE CP526-3 (STA:fcl (SUBJ:np (>N:art:o:F_P::artd: As)
+                                 (>N:num:dois:F_P::card: duas)
+                                 (>N:adj:grande:F_P: grandes)
+                                 (H:n:família:F_P::anr_np-count:anr_np-def: famílias)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:supercomputação:F_S::DERP:np-def: supercomputação))))
+                        (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                        (SC:cu (CJT:np (>N:art:o:F_P::artd: as)
+                                       (>N:v-pcp:chamar:F_P::: chamadas)
+                                       («)
+                                       (H:n:máquina:F_P::anr_np-idf: máquinas)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:multiprocessamento:M_S::np-idf: multiprocessamento)
+                                           (N<:adjp 
+                                             (H:adj:vectorial:M_S::: vectorial))))
+                                       (»)
+                                       ({)
+                                       (N<PRED:acl 
+                                         (COM:adv:como:::: como)
+                                         (SC:np 
+                                           (>N:pron-det:algum:M_P::quant: alguns)
+                                           (H:prop:Cray:M_P::: Cray)))
+                                       (}))
+                               (CO:conj-c:e:::co-sc: e)
+                               (CJT:np (H:pron-det:a:F_P::dem: as)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:processamento:M_S::np-idf: processamento)
+                                           (N<:adjp 
+                                             (H:adj:paralelo:M_S::: paralelo))))
+                                       (--)
+                                       (N<PRED:fcl- 
+                                         (SUBJ:adjp 
+                                           (KOMP<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:pron-indp:que:F_P::rel: que)))
+                                           (>A:art:o:F_S::artd: a)
+                                           (>A:adv:mais:_::KOMP:quant: mais)
+                                           (H:v-pcp:conhecer:F_S::: conhecida))
+                                         (P:vp 
+                                           (MV:v-fin:ser:PR_3S_IND::fs-rel: é))
+                                         (SC:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:prop:Connection_Machine:F_S::: Connection_Machine)
+                                           (,)
+                                           (N<PRED:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:prop:Thinking_Machines:F_S::: Thinking_Machines)))))))
+                        (.)))

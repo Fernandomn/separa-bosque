@@ -1,0 +1,58 @@
+(FRASE CP496-4 (STA:fcl (ADVL:pp (H:prp:segundo:: Segundo)
+                                 (P<:np (H:prop:Virgílio_Folhadela:M_S::: Virgílio_Folhadela)
+                                        (,)
+                                        (N<PRED:np 
+                                          (H:n:presidente:M_S::np-idf: presidente)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:prop:Associação_Comercial_do_Porto:F_S::: Associação_Comercial_do_Porto)
+                                              (,)
+                                              (N<PRED:np 
+                                                (H:n:entidade:F_S::np-idf: entidade)
+                                                (N<:fcl 
+                                                  (SUBJ:np 
+                                                    (H:pron-indp:que:F_S::rel: que))
+                                                  (P:vp 
+                                                    (MV:v-fin:promover:PR_3S_IND::fs-rel: promove))
+                                                  (ACC:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:n:iniciativa:F_S::np-def: iniciativa))))
+                                              (,))))))
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:mostra:F_S::np-def: mostra))
+                        (P:vp (MV:v-fin:ter:PR_3S_IND::: tem))
+                        (OC:acl (PRD:adv:como:::prp: como)
+                                (SUBJ:adjp 
+                                  (H:num:um:M_S::card:n: um)
+                                  (A<:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (>N:pron-det:seu:M_P::: seus)
+                                      (H:n:objectivo:M_P::anr_np-def:np-partitive2: objectivos)
+                                      (N<:adjp 
+                                        (H:adj:principal:M_P::: principais))))))
+                        (ACC:icl (P:vp (MV:v-inf:revelar:::icl-subst: revelar))
+                                 (ACC:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (>N:adj:forte:F_S::: forte)
+                                   (H:n:tradição:F_S::anr_np-def: tradição)
+                                   (N<:adjp 
+                                     (H:adj:nortenho:F_S::: nortenha))
+                                   (N<:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:campo:M_P::np-def: campos)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:cu 
+                                           (CJT:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:ourivesaria:F_S::np-def: ourivesaria))
+                                           (CO:conj-c:e:::co-prparg: e)
+                                           (CJT:np 
+                                             (H:n:joalharia:F_S::np-idf: joalharia))))))))
+                        (.)))

@@ -1,0 +1,36 @@
+(FRASE CP413-7 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:registo:M_P::np-def: registos))
+                        (P:vp (MV:v-fin:falar:PR_3P_IND: falam))
+                        (ADVL:pp:por_si:::: por_si)
+                        (,)
+                        (ADVL:fcl (ADVL:conj-s:pois:::: pois)
+                                  (SUBJ:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (H:n:estação:F_P::np-def: estações)
+                                    (N<:adjp 
+                                      (H:adj:analógico:F_P::: analógicas)))
+                                  (ADVL:advp 
+                                    (H:adv:não:::: não))
+                                  (P:vp (MV:v-fin:detectar:IMPF_3P_IND::: detectavam))
+                                  (ACC:np 
+                                    (H:n:sismo:M_P::np-idf: sismos)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:magnitude:F_S::np-idf: magnitude)
+                                        (N<:adjp 
+                                          (H:adj:inferior:F_S::KOMP: inferior)
+                                          (A<:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:adjp 
+                                              (H:num:três:M_S::card: três)
+                                              (A<:pp 
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:escala:F_S::np-def: escala)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (H:prop:Richter:M_S::: Richter))))))))))))
+                        (.)))

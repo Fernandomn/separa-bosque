@@ -1,0 +1,73 @@
+(FRASE CP457-1 (STA:fcl (ADVL:pp (>P:adv:ainda:: Ainda)
+                                 (H:prp:quanto_a:::: quanto_a)
+                                 (P<:np (H:n:alteração:F_P::np-idf: alterações)
+                                        (N<:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:prop:Liga_de_Clubes:F_S::: Liga_de_Clubes)))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:direcção:F_S::np-def: direcção))
+                        (P:vp (AUX:v-fin:ser:FUT_3S_IND::: será)
+                              (MV:v-pcp:reduzir:F_S::anr_pass:passive: reduzida))
+                        (ADVL:cu (PCJT:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:adjp 
+                                     (H:num:quatro:M_P::card:n: quatro)))
+                                 (PCJT:pp 
+                                   (H:prp:para:::: para)
+                                   (P<:np 
+                                     (>N:num:três:M_P::card: três)
+                                     (H:n:membro:M_P::anr_np-count:anr_np-def: membros))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp- (AUX:v-ger:passar:::: passando))
+                          (ADVL:advp (H:adv:apenas:::: apenas))
+                          (-P:vp (PRT-AUX:prp:a:::: a)
+                                 (MV:v-inf:haver:::: haver))
+                          (ACC:cu (CJT:np 
+                                    (>N:art:um:M_S::arti: um)
+                                    (H:n:presidente:M_S::np-idf: presidente)
+                                    ({)
+                                    (N<PRED:icl::::pcp: 
+                                      (P:vp 
+                                        (MV:v-pcp:eleger:M_S::: eleito))
+                                      (ADVL:pp 
+                                        (H:prp:em:::: em)
+                                        (P<:np 
+                                          (H:prop:AG:M_S::: AG))))
+                                    (}))
+                                  (,)
+                                  (CJT:np 
+                                    (>N:art:um:M_S::arti: um)
+                                    (H:n:director-executivo:M_S::np-idf: director-executivo))
+                                  (CO:conj-c:e:::co-acc: e)
+                                  (CJT:np 
+                                    (>N:pron-det:outro:M_S::KOMP:diff: outro)
+                                    (H:n:elemento:M_S::anr_np-idf: elemento)
+                                    (N<:icl::::pcp: 
+                                      (P:vp 
+                                        (MV:v-pcp:eleger:M_S::: eleito))
+                                      (PASS:pp 
+                                        (H:prp:por:::: por+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:direcção:F_S::np-def: direcção)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:prop:Liga:F_S::: Liga)
+                                              (,)
+                                              (N<PRED:fcl 
+                                                (ADVL:advp 
+                                                  (H:adv:onde:_::ks:rel: onde))
+                                                (P:vp 
+                                                  (MV:v-fin:ter:PR_3P_IND::fs-rel: têm))
+                                                (ACC:np 
+                                                  (H:n:assento:M_S::np-idf: assento))
+                                                (SUBJ:np 
+                                                  (>N:num:onze:M_P::card: onze)
+                                                  (H:n:clube:M_P::anr_np-count:anr_np-def: clubes)))))))))))
+                        (.)))

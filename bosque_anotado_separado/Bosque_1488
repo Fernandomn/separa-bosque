@@ -1,0 +1,37 @@
+(FRASE CP277-6 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:selecção:F_S::np-def: selecção)
+                                 (N<:adjp 
+                                   (H:adj:feminino:F_S: feminina))
+                                 (N<:adjp 
+                                   (H:adj:português:F_S::: portuguesa)))
+                        (,)
+                        (ADVL:pp (H:prp:por:::: por)
+                                 (P<:np (>N:pron-det:seu:M_S::si: seu)
+                                        (H:n:lado:M_S::anr_np-idf: lado)))
+                        (,)
+                        (P:vp (MV:v-fin:competir:PR_3S_IND::: compete))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:heptatlo:M_S::np-def: heptatlo)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (>N:adj:segundo:F_S::NUM-ord: segunda)
+                                            (H:n:liga:F_S::anr_np-def: liga)))))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:prop:Dilbeek:M_S::: Dilbeek)
+                                        (,)
+                                        (N<PRED:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:prop:Bélgica:F_S::: Bélgica)))
+                                        (,)))
+                        (PIV:pp (H:prp:com:::: com)
+                                (P<:cu (CJT:np 
+                                         (H:n:belga:F_P::np-idf: belgas))
+                                       (CO:conj-c:e:::co-prparg: e)
+                                       (CJT:np 
+                                         (H:n:suiça:F_P::np-idf: suiças))))
+                        (.)))

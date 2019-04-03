@@ -1,0 +1,35 @@
+(FRASE CP274-5 (STA:fcl (PRED:adj:indocumentado:M_S: Indocumentado)
+                        (,)
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:dar:PS_3S_IND::nosubj: deu))
+                                (ACC:np (>N:art:um:M_S::arti: um)
+                                        (H:np 
+                                          (H:n:nome:M_S::np-idf: nome)
+                                          (N<:adjp 
+                                            (H:v-pcp:trocado:M_S::anr_np-idf: trocado)))
+                                        (--)
+                                        (APP:np 
+                                          (H:prop:Manuel_Carneiro:M_S::: Manuel_Carneiro))
+                                        (--)))
+                              (,)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:dizer:PS_3S_IND::nosubj: disse))
+                                (ACC:cu (CJT:icl 
+                                          (P:vp 
+                                            (MV:v-inf:ser:::: ser))
+                                          (SC:adjp 
+                                            (H:adj:moçambicano:M_S::: moçambicano)))
+                                        (CO:conj-c:e:::co-vfin: e)
+                                        (CJT:fcl 
+                                          (SUB:conj-s:que:::: que)
+                                          (P:vp 
+                                            (MV:v-fin:ter:IMPF_3S_IND::nosubj: tinha))
+                                          (ACC:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:documento:M_P::np-def: documentos))
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:pron-det:um:F_P::quant: umas)
+                                              (H:n:obra:F_P::anr_np-idf: obras)))))))
+                        (.)))

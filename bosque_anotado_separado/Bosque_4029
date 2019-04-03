@@ -1,0 +1,39 @@
+(FRASE CP784-9 (UTT:np (>N:adj:4ª:F_S::NUM-ord: 4ª)
+                       (H:n:prioridade:F_S::anr_np-idf: Prioridade)
+                       (--)
+                       (N<PRED:np (H:n:situação:F_P::np-idf: situações)
+                                  (N<:adjp 
+                                    (H:adj:deferível:F_P: deferíveis))
+                                  (;)
+                                  (APP:np 
+                                    (H:n:situação:F_P::np-idf: situações)
+                                    (N<:cu 
+                                      (CJT:fcl- 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:F_P::rel: que))
+                                        (P:vp::::Es:- 
+                                          (AUX:v-fin:poder:PR_3P_IND::fs-rel: podem)))
+                                      (CO:conj-c:ou:::co-vfin: ou)
+                                      (CJT:advp 
+                                        (H:adv:não:_::Es:fs-rel: não))
+                                      (-CJT:fcl 
+                                        (-P:vp 
+                                          (MV:v-inf:ser:::: ser))
+                                        (ADVL:advp 
+                                          (H:adv:imediatamente:::: imediatamente))
+                                        (SC:adjp 
+                                          (H:adj:evidente:F_P::: evidentes)))
+                                      (,)
+                                      (CO:conj-c:mas:::co-postnom: mas)
+                                      (CJT:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:F_P::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:necessitar:FUT_3P_IND::fs-rel: necessitarão))
+                                        (PIV:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:tratamento:M_S::np-idf: tratamento)
+                                            (N<:adjp 
+                                              (H:adj:subsequente:M_S::: subsequente))))))))
+                       (.)))

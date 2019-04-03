@@ -1,0 +1,88 @@
+(FRASE CP532-2 (STA:fcl (ADVL:pp (H:pp:de_acordo:: De_acordo)
+                                 (N<:pp (H:prp:com:::: com)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:texto:M_S::np-def: texto)
+                                          (N<:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:propor:M_S::: proposto))
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:ponto:M_S::np-def: ponto)
+                                                (N<:adjp 
+                                                  (H:num:3:M_S::card: 3))
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (H:n:artigo:M_S::np-def: artigo)
+                                                    (N<:adjp 
+                                                      (H:num:31:M_S::card: 31))))))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:contribuinte:M_P::np-def: contribuintes))
+                        (P:vp (AUX:v-fin:poder:PR_3P_IND::: podem)
+                              (MV:v-inf:indicar:::: indicar))
+                        (ACC:np (>N:adv:qual:::interr: qual)
+                                (>N:art:o:F_S::artd: a)
+                                («)
+                                (H:cu (CJT:np 
+                                        (H:n:igreja:F_S::np-idf: igreja))
+                                      (CO:conj-c:ou:::co-acc: ou)
+                                      (CJT:np 
+                                        (H:n:comunidade:F_S::np-idf: comunidade)
+                                        (N<:adjp 
+                                          (H:adj:religioso:F_S::: religiosa))))
+                                (N<:icl::::pcp: 
+                                  (P:vp (MV:v-pcp:radicar:F_S::: radicada))
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:país:M_S::np-def: país))))
+                                (»)
+                                (,)
+                                (N<PRED:pp 
+                                  (H:prp:a:::: a)
+                                  (P<:icl 
+                                    (P:vp 
+                                      (MV:v-inf:inscrever:::: inscrever))
+                                    (PIV:pp 
+                                      (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:declaração:F_S::np-def: declaração)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:rendimento:M_P::np-idf: rendimentos)))))))
+                                (,)
+                                (N<:fcl (ACC:fcl- 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:F_S::rel: que)))
+                                        (P:vp 
+                                          (MV:v-fin:desejar:PR_3P_IND::fs-rel:nosubj: desejam))
+                                        (-ACC:fcl 
+                                          (SUB:conj-s:que:::: que)
+                                          (P:vp 
+                                            (MV:v-fin:receber:PR_3S_SUBJ::fs-subst: receba))
+                                          (ACC:np 
+                                            (>N:pron-det:aquele:F_S::dem: aquela)
+                                            (H:n:dotação:F_S::np-def: dotação))
+                                          («)
+                                          (ADVL:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:np 
+                                              (H:n:fim:M_P::np-idf: fins)
+                                              (N<:cu 
+                                                (CJT:adjp 
+                                                  (H:adj:religioso:M_P::: religiosos))
+                                                (CO:conj-c:ou:::co-postnom: ou)
+                                                (CJT:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:beneficência:F_S::np-idf: beneficência))))))
+                                          (»))))
+                        (.)))

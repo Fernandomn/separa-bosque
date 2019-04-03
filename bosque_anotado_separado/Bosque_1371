@@ -1,0 +1,40 @@
+(FRASE CP256-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:prop:FC_Porto:M_S: FC_Porto))
+                        (P:vp (MV:v-fin:conquistar:PR_3S_IND::: conquista))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (>N:pron-det:seu:F_S::si: sua)
+                                (>N:adj:oitavo:F_S::NUM-ord: oitava)
+                                (H:prop:Taça_de_Portugal:F_S::: Taça_de_Portugal))
+                        (ADVL:pp (H:prp:a:::: a+)
+                                 (P<:icl 
+                                   (>N:art:o:M_S::artd: o)
+                                   (P:vp 
+                                     (MV:v-inf:vencer:::icl-temp: vencer))
+                                   (ACC:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:prop:Sporting:M_S::: Sporting))
+                                   (,)
+                                   (ADVL:pp 
+                                     (H:prp:por:::: por)
+                                     (P<:adjp 
+                                       (H:num:2-1:M_P::card: 2-1)))
+                                   (,)
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:jogo:M_S::np-def: jogo)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:finalíssima:F_S::np-def: finalíssima)))
+                                       (N<:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:disputar:M_S::: disputado))
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:prop:Estádio_Nacional:M_S::: Estádio_Nacional))))))))
+                        (.)))

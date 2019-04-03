@@ -1,0 +1,44 @@
+(FRASE CP650-3 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:prop:Estados_Unidos:M_P: Estados_Unidos))
+                        (P:vp (AUX:v-fin:dever:PR_3P_IND::: devem)
+                              (MV:v-inf:subir:::: subir))
+                        (ADVL:advp (H:adv:substancialmente:::: substancialmente))
+                        (ACC:np (>N:art:o:F_P::artd: as)
+                                (H:n:taxa:F_P::np-def: taxa)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:juro:M_S::np-idf: juro))))
+                        (ADVL:pp (H:prp:durante:::: durante)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (>N:adj:próximo:M_S::: próximo)
+                                        (H:n:ano:M_S::anr_np-def: ano)))
+                        (,)
+                        (ADVL:pp (H:prp:de_forma_a:::: de_forma_a)
+                                 (P<:cu (CJT:icl 
+                                          (P:vp 
+                                            (MV:v-inf:manter:::: manter))
+                                          (ACC:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:inflação:F_S::np-def: inflação))
+                                          (OC:pp 
+                                            (H:prp:sob:::: sob)
+                                            (P<:np 
+                                              (H:n:controlo:M_S::np-idf: controlo))))
+                                        (CO:conj-c:e:::co-inf: e)
+                                        (CJT:icl 
+                                          (P:vp 
+                                            (MV:v-inf:manter:::: manter))
+                                          (ACC:np 
+                                            (>N:art:um:M_S::arti: um)
+                                            (H:n:ritmo:M_S::np-idf: ritmo)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:expansão:F_S::np-idf: expansão)
+                                                (N<:v-pcp:sustentar:F_S::: sustentada)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:n:economia:F_S::np-def: economia)))))))))
+                        (.)))

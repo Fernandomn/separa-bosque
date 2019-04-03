@@ -1,0 +1,54 @@
+(FRASE CP1003-11 (STA:fcl (CO:conj-c:e:: e)
+                          (,)
+                          (ADVL:pp (H:prp:no_meio_de:::: no_meio_de)
+                                   (P<:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:estrutura:F_S::np-idf: estrutura)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:mármore:M_S::np-idf: mármore)))))
+                          (,)
+                          (P:vp (MV:v-fin:colocar:PS_3S_IND::nosubj: colocou))
+                          (ACC:np (>N:num:dois:M_P::card: dois)
+                                  (H:n:vaso:M_P::anr_np-count:anr_np-def: vasos)
+                                  (N<:pp 
+                                    (H:prp:com:::: com)
+                                    (P<:np 
+                                      (H:n:água:F_S::np-idf: água)
+                                      (N<:pp 
+                                        (H:prp:a:::: a)
+                                        (P<:np 
+                                          (>N:pron-det:diferentes:M_P::quant: diferentes)
+                                          (H:n:nível:M_P::anr_np-idf: níveis)))
+                                      (,)
+                                      (N<PRED:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:F_S::rel: que))
+                                        (ACC:np 
+                                          (H:pron-pers:se:F_3S_ACC::: se))
+                                        (PAUX:v-fin:ir:PS_3S_IND::se-passive: foi)
+                                        (AUX<:cu 
+                                          (CJT:v-ger:sujar:::: sujando)
+                                          (--)
+                                          (CO:conj-c:e:::co-ger: e)
+                                          (CJT:icl::::ger: 
+                                            (PMV:v-ger:encher:::: enchendo)
+                                            (ADVL:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:moeda:F_P::np-idf: moedas))))
+                                          (--))
+                                        (ADVL:pp 
+                                          (H:prp:com:::: com)
+                                          (P<:icl 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:icl 
+                                              (P:vp 
+                                                (MV:v-inf:passar:::: passar))
+                                              (ADVL:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_P::artd: os)
+                                                  (H:n:dia:M_P::np-def: dias))))))))))
+                          (.)))

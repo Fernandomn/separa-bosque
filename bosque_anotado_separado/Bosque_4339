@@ -1,0 +1,56 @@
+(FRASE CP844-1 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                 (H:n:dificuldade:F_S::anr_np-def: dificuldade)
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:M_S::rel: que))
+                                   (ACC-PASS:np 
+                                     (H:pron-pers:se:F_3S_ACC::refl: se))
+                                   (P:vp 
+                                     (MV:v-fin:deparar:PR_3S_IND::fs-rel:se-passive: depara))
+                                   (PIV:pp 
+                                     (H:prp:a:: a+)
+                                     (P<:np 
+                                       (>N:art:o:F_P::artd: as)
+                                       (H:n:empresa:F_P::np-def: empresas)
+                                       (N<:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:F_P::rel: que))
+                                         (P:vp 
+                                           (MV:v-fin:conseguir:PR_3P_IND::fs-rel: conseguem))
+                                         (ACC:icl 
+                                           (P:vp 
+                                             (MV:v-inf:concretizar:::icl-subst: concretizar))
+                                           (ACC:np 
+                                             (>N:art:um:M_S::arti: um)
+                                             (H:n:processo:M_S::np-idf: processo)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:investimento:M_S::np-idf: investimento))))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em)
+                                             (P<:np 
+                                               (H:prop:Moçambique:M_S::: Moçambique)))))))))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:np (H:pron-det:o:M_S::dem: o)
+                               (N<:pp (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:recrutamento:M_S::np-idf: recrutamento)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:quadro:M_P::np-idf: quadros)))
+                                        (N<:pp 
+                                          (H:prp:para:::: para)
+                                          (P<:np 
+                                            (H:n:permanência:F_P::np-idf: permanências)
+                                            (N<:icl::::pcp: 
+                                              (P:vp 
+                                                (MV:v-pcp:prolongar:F_P::: prolongadas))
+                                              (ADVL:pp 
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:país:M_S::np-def: país)))))))))
+                        (.)))

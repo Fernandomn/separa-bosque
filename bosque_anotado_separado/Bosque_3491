@@ -1,0 +1,37 @@
+(FRASE CP675-3 (STA:fcl (SUBJ:np (H:prop:Arrigo_Sacchi:M_S: Arrigo_Sacchi)
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:seleccionador:M_S::np-idf: seleccionador)
+                                   (N<:adjp 
+                                     (H:adj:nacional:M_S::: nacional))
+                                   (N<:adjp 
+                                     (H:adj:italiano:M_S::anr_np-idf: italiano))
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:futebol:M_S::np-idf: futebol))))
+                                 (,))
+                        (P:vp (MV:v-fin:indicar:PS_3S_IND::: indicou))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (ACC:np (>N:art:o:M_P::artd: os)
+                                (>N:num:22:M_P::card: 22)
+                                (H:n:jogador:M_P::anr_np-count:anr_np-def: jogadores)
+                                (N<:fcl (SUBJ:np 
+                                          (H:pron-indp:que:M_P::rel: que))
+                                        (P:vp 
+                                          (AUX:v-fin:ir:PR_3P_IND::: vão)
+                                          (MV:v-inf:representar:::fs-rel: representar))
+                                        (ACC:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:país:M_S::np-def: país))
+                                        (ADVL:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Mundial_de_Futebol:M_S::: Mundial_de_Futebol)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (H:prop:Estados_Unidos:M_P::: Estados_Unidos)))))))
+                        (.)))

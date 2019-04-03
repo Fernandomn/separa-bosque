@@ -1,0 +1,78 @@
+(FRASE CP152-4 (STA:fcl (ADVL:pp (H:prp:em:: em)
+                                 (P<:np::::date: 
+                                   (H:n:janeiro:M_S::anr_np-idf:prop: Janeiro)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:adjp 
+                                       (H:num:1994:M_S::card: 1994)))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 («)
+                                 (>N:num:três:M_P::card: três)
+                                 (H:prop:Guy:M_P::: Guys)
+                                 (»)
+                                 (--)
+                                 (APP:cu 
+                                   (CJT:np 
+                                     (H:prop:Guy_Spitaels:M_P::: Guy_Spitaels)
+                                     (,)
+                                     (N<PRED:np 
+                                       (H:n:ministro-presidente:M_S::np-idf: ministro-presidente)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:S::artd: a)
+                                           (H:prop:Valónia:F_S::: Valónia)))))
+                                   (,)
+                                   (CJT:np 
+                                     (H:prop:Guy_Coeme:M_S::: Guy_Coeme)
+                                     (,)
+                                     (N<PRED:np 
+                                       (H:n:ministro:M_S::np-idf: ministro)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (N<:art:o:F_S::: a)
+                                           (H:prop:Defesa:F_S::anr_np-def: Defesa)))))
+                                   (,)
+                                   (CO:conj-c:e:::co-subj: e)
+                                   (CJT:np 
+                                     (H:prop:Guy_Mathot:M_S::: Guy_Mathot)
+                                     (,)
+                                     (N<PRED:np 
+                                       (H:n:ministro:M_S::np-idf: ministro)
+                                       (N<:adjp 
+                                         (H:adj:regional:M_S::: regional)))))
+                                 (--))
+                        (P:vp (AUX:v-fin:ir:PS_3P_IND::: foram)
+                              (MV:v-pcp:forçar:M_P::: forçados))
+                        (PIV:pp (H:prp:a:::: a)
+                                (P<:icl (P:vp 
+                                          (MV:v-inf:demitir:::: demitir-))
+                                        (ACC:np 
+                                          (H:pron-pers:se:M_3P_ACC::refl: se))
+                                        (ADVL:pp 
+                                          (H:prp:para:::: para)
+                                          (P<:icl 
+                                            (P:vp 
+                                              (MV:v-inf:assegurar:::icl-fin: assegurar))
+                                            (ACC:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (>N:pron-det:seu:F_S::si: sua)
+                                              (H:n:defesa:F_S::anr_np-def: defesa))
+                                            (ADVL:advp 
+                                              (H:adv:depois:::: depois)
+                                              (A<arg:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:icl 
+                                                  (SUBJ:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (>N:pron-det:seu:F_S::: sua)
+                                                    (H:n:imunidade:F_S::anr_np-def: imunidade)
+                                                    (N<:adjp 
+                                                      (H:adj:parlamentar:F_S::: parlamentar)))
+                                                  (P:vp 
+                                                    (AUX:v-inf:ter:::: ter)
+                                                    (AUX:v-pcp:ser:::: sido)
+                                                    (MV:v-pcp:suspender:F_S::anr_pass:passive: suspensa)))))))))
+                        (.)))

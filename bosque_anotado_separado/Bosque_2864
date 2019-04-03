@@ -1,0 +1,43 @@
+(FRASE CP550-3 (STA:fcl (SUBJ:np (>N:art:um:M_S::arti: Um)
+                                 (H:n:aterro:M_S::np-idf: aterro)
+                                 (N<:icl::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:fazer:M_S::: feito))
+                                   (ADVL:pp 
+                                     (H:prp:durante:::: durante)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:construção:F_S::np-def: construção)
+                                       (N<ARGO:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (>N:adj:novo:F_S::: nova)
+                                           (H:n:estrada:F_S::anr_np-def: estrada)
+                                           (N<:cu 
+                                             (CJT:np 
+                                               (H:prop:Valença:MF_S::: Valença))
+                                             (-)
+                                             (CJT:np 
+                                               (H:prop:Monção:MF_S::: Monção)))))))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (AUX:v-fin:estar:PR_3S_IND::: está)
+                                      (PRT-AUX:prp:a:::: a)
+                                      (MV:v-inf:pressionar:::: pressionar))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:estrutura:F_S::np-def: estrutura))
+                                (ADVL:pp 
+                                  (H:prp:para:::: para)
+                                  (P<:adv:trás:::: trás)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp- (AUX:v-fin:ir:FUT_3S_IND::: irá))
+                                (,)
+                                (ADVL:advp 
+                                  (H:adv:inevitavelmente:::: inevitavelmente))
+                                (,)
+                                (-P:vp (MV:v-inf:provocar:::nosubj: provocar))
+                                (ACC:np (>N:art:o:M_S::artd: o)
+                                        (>N:pron-det:seu:M_S::si: seu)
+                                        (H:n:desabamento:M_S::anr_np-def: desabamento))))
+                        (.)))

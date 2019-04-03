@@ -1,0 +1,101 @@
+(FRASE CP780-1 (STA:fcl (ADVL:advp (H:adv:finalmente:: Finalmente))
+                        (,)
+                        (ADVL:pp (H:prp:apesar_de:::: apesar_de)
+                                 (P<:icl 
+                                   (ADVL:advp 
+                                     (H:adv:já:::: já))
+                                   (P:vp 
+                                     (AUX:v-inf:ter:::: ter)
+                                     (AUX:v-pcp:ser:::: sido)
+                                     (MV:v-pcp:editar:M_S::anr_pass:icl-conc:passive: editado))
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em)
+                                     (P<:np 
+                                       (H:num:1992:M_S::card: 1992)))))
+                        (,)
+                        (P:vp (MV:v-fin:merecer:PR_3S_IND::: merece))
+                        (ACC:np (H:n:referência:F_S::np-idf: referência))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n-adj:clássico:M_S::np-def: clássico)
+                                 (N<:adjp 
+                                   (H:adj:norte-americano:M_S::: norte-americano))
+                                 (N<:np (H:prop:Spiderman:M_S::: Spiderman)
+                                        (--)
+                                        (N<PRED:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Homem-Aranha:M_S::: Homem-Aranha))
+                                        (--)
+                                        (,)
+                                        (N<PRED:np 
+                                          (>N:art:um:F_S::arti: uma)
+                                          (H:n:criação:F_S::np-idf: criação)
+                                          (N<:adjp 
+                                            (H:adj:original:F_S::: original))
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:cu 
+                                              (CJT:np 
+                                                (H:prop:Steve_Dikto:M_S::: Steve_Dikto)
+                                                ({)
+                                                (N<PRED:np 
+                                                  (H:n:desenho:M_S::np-idf: desenho))
+                                                (}))
+                                              (CO:conj-c:e:::co-prparg: e)
+                                              (CJT:np 
+                                                (H:prop:Stan_Lee:M_S::: Stan_Lee)
+                                                ({)
+                                                (N<PRED:np 
+                                                  (H:n:texto:M_S::np-idf: texto))
+                                                (})))))
+                                        (,)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_S::rel: que))
+                                          (P:vp 
+                                            (AUX:v-fin:ser:PR_3S_IND::: é)
+                                            (MV:v-pcp:evocar:M_S::anr_pass:fs-rel:passive: evocado))
+                                          (ADVL:pp 
+                                            (H:prp:por_ocasião_de:::: por_ocasião_de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (>N:adj:30º:M_S::NUM-ord: 30º)
+                                              (H:n:aniversário:M_S::anr_np-idf: aniversário)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (>N:pron-det:seu:F_S::: sua)
+                                                  (H:n:criação:F_S::anr_np-def: criação)
+                                                  ({)
+                                                  (N<PRED:adjp 
+                                                    (H:num:1962:M_S::card: 1962))
+                                                  (})))))
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:um:F_S::arti: uma)
+                                              (H:n:edição:F_S::np-idf: edição)
+                                              (N<:pp 
+                                                (H:prp:em:::: em)
+                                                («)
+                                                (P<:np 
+                                                  (H:n:comic-book:M_S::np-idf: comic-book))
+                                                (»))
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:luxo:M_S::np-idf: luxo)))
+                                              (N<:pp 
+                                                (H:prp:por:::: por+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:editora:F_S::np-def: editora)
+                                                  (N<:adjp 
+                                                    (H:adj:espanhol:F_S::: espanhola))
+                                                  (N<:np 
+                                                    (H:prop:Forum:F_S::: Forum))
+                                                  ({)
+                                                  (N<PRED:np 
+                                                    (H:prop:Planeta-de_Agostini:M_S::: Planeta-de_Agostini))
+                                                  (}))))))))
+                        (.)))

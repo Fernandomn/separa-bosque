@@ -1,0 +1,57 @@
+(FRASE CP18-7 (STA:fcl (ADVL:advp (H:adv:depois:: Depois))
+                       (,)
+                       (SUBJ:np (>N:art:o:M_S::artd: o)
+                                (H:prop:Tirsense:M_S::: Tirsense))
+                       (X:cu (CJT:x::::predicate: 
+                               (P:vp (MV:v-fin:tomar:PS_3S_IND::: tomou))
+                               (ACC:np (H:n:conta:F_S::np-idf: conta)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:S::artd: a)
+                                           (H:n:partida:F_S::np-def: partida)))))
+                             (,)
+                             (CJT:x::::predicate: 
+                               (P:vp (MV:v-fin:criar:PS_3S_IND::nosubj: criou))
+                               (ACC:np (>N:pron-det:vários:F_P::quant: várias)
+                                       (H:n:situação:F_P::anr_np-idf: situações)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:golo:M_S::np-idf: golo)))))
+                             (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                             (CJT:x::::predicate: 
+                               (P:vp (MV:v-fin:conseguir:PS_3S_IND::nosubj: conseguiu))
+                               (ACC:np (>N:art:o:F_S::artd: a)
+                                       (H:n:igualdade:F_S::np-def: igualdade))
+                               (ADVL:advp 
+                                 (H:adv:através:::: através)
+                                 (A<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (>N:art:um:F_S::arti: uma)
+                                          (>N:adj:grande:F_S::: grande)
+                                          (H:n:penalidade:F_S::anr_np-idf: penalidade)
+                                          (N<:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:marcar:F_S::: marcada))
+                                            (PASS:pp 
+                                              (H:prp:por:::: por)
+                                              (P<:np 
+                                                (H:prop:Rui_Manuel:M_S::: Rui_Manuel)))
+                                            (,)
+                                            (ADVL:pp 
+                                              (H:prp:a:::: a)
+                                              (P<:icl 
+                                                (P:vp 
+                                                  (MV:v-inf:castigar:::: castigar))
+                                                (ACC:np 
+                                                  (H:n:carga:F_S::np-idf: carga)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (H:prop:Correia:M_S::: Correia)))
+                                                  (N<:pp 
+                                                    (H:prp:sobre:::: sobre)
+                                                    (P<:np 
+                                                      (H:prop:Batista:M_S::: Batista))))))))))))
+                       (.)))

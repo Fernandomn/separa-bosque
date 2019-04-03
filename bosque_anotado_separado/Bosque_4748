@@ -1,0 +1,47 @@
+(FRASE CP923-2 (STA:fcl (ADVL:pp:de_facto:: De_facto)
+                        (,)
+                        (ADVL:pp (H:prp:há:::: há)
+                                 (P<:np (>N:pron-det:muito:M_P::quant: muitos)
+                                        (H:n:ano:M_P::anr_np-idf: anos)))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (P:vp (MV:v-fin:haver:PR_3S_IND::nofsubj: há))
+                        (ACC:fcl (SUBJ:np 
+                                   (H:pron-indp:quem:MF_S::rel: quem))
+                                 (P:vp (MV:v-fin:propor:PR_3S_SUBJ::fs-subst: proponha))
+                                 (ACC:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:utilização:F_S::np-def: utilização)
+                                   (N<ARGO:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:adj:pequeno:F_P::: pequenas)
+                                       (H:n:bomba:F_P::anr_np-idf: bombas)
+                                       (N<:adjp 
+                                         (H:adj:nuclear:F_P::: nucleares))
+                                       (N<:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (>N:pron-det:certo:F_P::quant: certas)
+                                           (>N:adj:grande:F_P::: grandes)
+                                           (H:n:obra:F_P::anr_np-idf: obras)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:engenharia:F_S::np-idf: engenharia)))
+                                           (N<:acl 
+                                             (COM:adv:como:::rel: como)
+                                             (SUBJ:cu 
+                                               (CJT:np 
+                                                 (H:n:terraplanagem:F_P::np-idf: terraplanagens)
+                                                 (N<:pp 
+                                                   (H:prp:de:::: de)
+                                                   (P<:np 
+                                                     (H:n:montanha:F_P::np-idf: montanhas))))
+                                               (CO:conj-c:ou:::: ou)
+                                               (CJT:np 
+                                                 (H:n:abertura:F_S::np-idf: abertura)
+                                                 (N<ARGO:pp 
+                                                   (H:prp:de:::: de)
+                                                   (P<:np 
+                                                     (H:n:albufeira:F_P::np-idf: albufeiras))))))))))))
+                        (.)))

@@ -1,0 +1,37 @@
+(FRASE CP936-1 (STA:fcl (P:vp (MV:v-fin:ter:PR_1P_IND::nosubj: Temos))
+                        (ACC:np (>N:art:um:M_S::arti: um)
+                                (H:n:exemplo:M_S::np-idf: exemplo))
+                        (ADVL:advp (>A:adv:logo:kc: logo)
+                                   (H:adv:aqui:::: aqui)
+                                   (A<:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:lado:M_S::np-def: lado))))
+                        (ADVL/A<[+1]:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (>N:pron-det:nosso:F_S::: nossa)
+                                          (>N:adj:vizinho:F_S::: vizinha)
+                                          (H:prop:Espanha:F_S::: Espanha)
+                                          (,)
+                                          (N<PRED:fcl 
+                                            (ADVL:advp 
+                                              (H:adv:onde:_::ks:rel: onde))
+                                            (SUBJ:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:jogador:M_P::np-def: jogadores))
+                                            (X:cu 
+                                              (CJT:x::::predicate: 
+                                                (P:vp 
+                                                  (MV:v-fin:receber:PR_3P_IND::: recebem))
+                                                (ADVL:advp 
+                                                  (H:adv:bem:::quant: bem)))
+                                              (,)
+                                              (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                                              (CJT:x::::predicate: 
+                                                (P:vp 
+                                                  (MV:v-fin:jogar:PR_3P_IND::nosubj: jogam))
+                                                (ACC:np 
+                                                  (H:n:futebol:M_S::np-idf: futebol)))))))
+                        (.)))

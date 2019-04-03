@@ -1,0 +1,29 @@
+(FRASE CP921-4 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:pron-det:esse:F_S::dem: essa)
+                                        (H:n:base:F_S::np-def: base)))
+                        (,)
+                        (P:vp (MV:v-fin:propor:IMPF_1P_IND::nosubj: propúnhamos))
+                        (ACC:np (H:n:projecto:M_P::np-idf: projectos)
+                                (N<:pp (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n-adj:global:M_S::np-def: global)))
+                                (,)
+                                (N<PRED:fcl 
+                                  (ADVL:pp 
+                                    (H:prp:com:::: com)
+                                    (P<:np 
+                                      (H:pron-indp:o_qual:M_P::rel: os_quais)))
+                                  (P:vp (MV:v-fin:pretender:IMPF_1P_IND::fs-rel:nosubj: pretendíamos))
+                                  (ACC:icl 
+                                    (P:vp 
+                                      (MV:v-inf:resolver:::icl-subst: resolver))
+                                    (ACC:np 
+                                      (>N:pron-det:todo_o:M_P::quant: todos_os)
+                                      (H:n:problema:M_P::anr_np-def: problemas)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:país:M_S::np-def: país)))))))
+                        (.)))

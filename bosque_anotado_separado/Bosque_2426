@@ -1,0 +1,27 @@
+(FRASE CP459-5 (STA:fcl (ADVL:advp (H:adv:como:_::ks:rel: Como))
+                        (ADVL:advp (H:adv:não:: não))
+                        (P:vp (AUX:v-fin:poder:PR_3S_IND::: pode)
+                              (AUX:v-inf:continuar:::: continuar)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:afirmar:::nosubj: afirmar))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:prioridade:F_S::np-def: prioridade)
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:luta:F_S::np-def: luta)
+                                         (N<:pp 
+                                           (H:prp:contra:::: contra)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:inflação:F_S::np-def: inflação))))))
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:deixar:::: deixando))
+                          (ACC:icl (SUBJ:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:libra:F_S::np-def: libra))
+                                   (P:vp 
+                                     (MV:v-inf:desvalorizar:3S::hyfen:icl-subst: desvalorizar-))
+                                   (ACC:np 
+                                     (H:pron-pers:se:F_3S_ACC::refl: se))))
+                        (.)))

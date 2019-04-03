@@ -1,0 +1,47 @@
+(FRASE CP166-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (>N:adj:novo:M_S: novo)
+                                 (H:n:parque:M_S::anr_np-def: parque)
+                                 (N<:adjp 
+                                   (H:adj:urbano:M_S::: urbano))
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Ermesinde:MF_S::: Ermesinde)))
+                                 (,)
+                                 (N<PRED:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:M_S::rel: que))
+                                   (P:vp 
+                                     (AUX:v-fin:comedir:PR_3S_IND::: começa)
+                                     (PRT-AUX:prp:a:::: a)
+                                     (MV:v-inf:ganhar:::fs-rel: ganhar))
+                                   (ACC:np 
+                                     (H:n:forma:F_S::np-idf: forma))
+                                   (ADVL:advp 
+                                     (H:adv:junto:::: junto)
+                                     (A<:pp 
+                                       (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:P::artd: as)
+                                         (H:n:ruína:F_P::np-def: ruínas)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:S::artd: a)
+                                             (>N:adj:antigo:F_S::: antiga)
+                                             (H:prop:Fábrica_da_Cerâmica:F_S::: Fábrica_da_Cerâmica)
+                                             ({)
+                                             (N<:np 
+                                               (>N:adv:vulgo:::: vulgo)
+                                               (H:prop:Fábrica_da_Telha:F_S::: Fábrica_da_Telha))
+                                             (}))))))))
+                        (,)
+                        (P:vp (MV:v-fin:ficar:FUT_3S_IND::: ficará))
+                        (SC:adjp (H:adj:pronto:M_S::: pronto))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:final:M_P::np-idf: finais)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:pron-det:este:M_S::dem: este)
+                                            (H:n:mês:M_S::np-def: mês)))))
+                        (.)))

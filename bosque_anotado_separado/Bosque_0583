@@ -1,0 +1,64 @@
+(FRASE CP115-2 (STA:cu (CJT:fcl (P:vp (MV:v-fin:bater:PS_3S_IND::nosubj: Bateu-))
+                                (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                                (ADVL:advp 
+                                  (H:adv:bem:quant: bem)))
+                       (,)
+                       (CJT:fcl (P:vp (MV:v-fin:ganhar:PS_3S_IND::nosubj: ganhou-))
+                                (DAT:np (H:pron-pers:eles:M_3P_DAT::: lhes))
+                                (ACC:np (>N:pron-det:muito:M_P::quant: muitos)
+                                        (H:n:lance:M_P::: lances)))
+                       (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                       (CJT:fcl (P:vp (MV:v-fin:anular:PS_3S_IND::nosubj: anulou))
+                                (ACC:np (>N:art:o:M_S::artd: o)
+                                        (H:n:flanco:M_S::np-def: flanco)
+                                        (N<:adjp 
+                                          (H:adj:esquerdo:M_S::: esquerdo))
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:ataque:M_S::np-def: ataque)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (H:n:visitante:M_P::np-def: visitantes)))))))
+                       (,)
+                       (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                       (CJT:fcl (P:vp (AUX:v-fin:acabar:PS_3S_IND::: acabou)
+                                      (PRT-AUX:prp:por:::: por)
+                                      (MV:v-inf:ver:::nosubj: ver))
+                                (ACC:icl 
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:remate:M_S::np-def: remate)
+                                    (N<:adjp 
+                                      (H:adj:decisivo:M_S::: decisivo))
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:S::artd: a)
+                                        (H:n:partida:F_S::np-def: partida))))
+                                  (P:vp (MV:v-inf:tabelar:::icl-subst: tabelar))
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (>N:pron-det:seu:M_S::: seu)
+                                      (H:n:corpo:M_S::anr_np-def: corpo)))
+                                  (ADVL:advp 
+                                    (H:adv:antes:::: antes)
+                                    (A<arg:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:icl 
+                                        (SUBJ:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:bola:F_S::np-def: bola))
+                                        (P:vp 
+                                          (MV:v-inf:chegar:3S::fs-temp: chegar))
+                                        (SA:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:P::artd: as)
+                                            (H:n:rede:F_P::np-def: redes))))))))
+                       (.)))

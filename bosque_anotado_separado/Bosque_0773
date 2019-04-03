@@ -1,0 +1,41 @@
+(FRASE CP149-10 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                  (H:n:delinquente:M_P::np-def: delinquentes))
+                         (P:vp (AUX:v-fin:começar:PS_3P_IND: começaram)
+                               (PRT-AUX:prp:por:::: por)
+                               (MV:v-inf:sequestrar:::: sequestrar))
+                         (ACC:np (>N:num:dois:M_P::card: dois)
+                                 (H:n:polícia:M_P::anr_np-count:anr_np-def: polícias))
+                         (ADVL:pp (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:seguimento:M_S::np-def: seguimento)
+                                    (N<ARGS:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:assalto:M_S::np-def: assalto)
+                                        (N<ARGO:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:banco:M_S::np-def: banco)))
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_S::rel: que))
+                                          (DAT:np 
+                                            (H:pron-pers:eles:M_3P_DAT::: lhes))
+                                          (P:vp 
+                                            (MV:v-fin:render:PS_3S_IND::fs-rel: rendeu))
+                                          (SA:np 
+                                            (>N:num:250:M_P::card: 250)
+                                            (>N:n:mil:M_P::card:num: mil)
+                                            (H:n:marco:M_P::anr_np-count:anr_np-def: marcos)))))))
+                         (,)
+                         (ADVL:icl::::ger: 
+                           (P:vp (AUX:v-ger:ter:::: tendo)
+                                 (MV:v-pcp:fazer:::: feito))
+                           (ADVL:advp (H:adv:depois:::: depois))
+                           (ACC:np (>N:num:três:M_P::card: três)
+                                   (>N:adj:novo:M_P::: novos)
+                                   (H:n:refém:M_P::anr_np-count:anr_np-def: reféns)))
+                         (.)))

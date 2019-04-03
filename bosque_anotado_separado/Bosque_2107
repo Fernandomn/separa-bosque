@@ -1,0 +1,48 @@
+(FRASE CP404-8 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:álbum:M_S::np-def: álbum)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (H:n:estreia:F_S::np-idf: estreia)))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:prop:Resistência:M_P::: Resistência))))
+                        (X:cu (CJT:x::::predicate: 
+                                (ADVL:advp 
+                                  (>A:adv:também:::: também)
+                                  (H:adv:já:::: já))
+                                (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                                (SC:np (H:n:disco:M_S::np-idf: disco)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:platina:F_S::np-idf: platina)))))
+                              (,)
+                              (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                              (CJT:x::::predicate: 
+                                (ADVL:advp 
+                                  (>A:adv:ainda:::: ainda)
+                                  (H:adv:não:::: não))
+                                (P:vp (MV:v-fin:constar:PR_3S_IND::nosubj: consta))
+                                (PIV:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:conta:F_P::np-def: contas)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:trimestre:M_S::np-def: trimestre)))))
+                                (,)
+                                (ADVL:fcl 
+                                  (SUB:conj-s:porque:::: porque)
+                                  (ADVL:advp 
+                                    (H:adv:só:::: só))
+                                  (ACC:np 
+                                    (H:pron-pers:ele:M_3S_ACC::: o))
+                                  (P:vp (MV:v-fin:alcançar:PS_3S_IND::nosubj: alcançou))
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em)
+                                    (P<:np 
+                                      (H:n:abril:M_S::np-idf:prop: Abril))))))
+                        (.)))

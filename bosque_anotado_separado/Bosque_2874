@@ -1,0 +1,39 @@
+(FRASE CP552-1 (UTT:sq (UTT:np (H:n:R.:F_S::np-idf: R.))
+                       (--)
+                       (STA:fcl (ADVL:advp 
+                                  (H:adv:porque:: Porque))
+                                (SUBJ:np 
+                                  (>N:art:o:M_S::artd: o)
+                                  (H:n:simbolismo:M_S::np-def: simbolismo)
+                                  (N<:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:F_P::artd: as)
+                                      (H:n:escada:F_P::np-def: escadas))))
+                                (P:vp (MV:v-fin:estar:PR_3S_IND::: está))
+                                (SA:pp (H:prp:em:::: em)
+                                       (P<:np 
+                                         (>N:pron-det:todo_o:M_S::quant: todo_o)
+                                         (H:n:lado:M_S::anr_np-def: lado)))
+                                (;))
+                       (STA:fcl (P:vp (MV:v-fin:servir:PR_3P_IND::nosubj: servem))
+                                (PIV:pp (H:prp:para:::: para)
+                                        (P<:cu 
+                                          (CJT:icl 
+                                            (P:vp 
+                                              (MV:v-inf:descer:::icl-fin: descer))
+                                            (SA:pp 
+                                              (H:prp:a:::: a+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:inferno:M_S::np-def: inferno))))
+                                          (CO:conj-c:ou:::co-inf: ou)
+                                          (CJT:icl 
+                                            (P:vp 
+                                              (MV:v-inf:subir:::: subir))
+                                            (SA:pp 
+                                              (H:prp:a:::: a+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:céu:M_S::np-def: céu))))))
+                                (.))))

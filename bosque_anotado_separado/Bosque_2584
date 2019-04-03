@@ -1,0 +1,60 @@
+(FRASE CP493-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:gene:M_S::np-def: gene)
+                                 (N<:icl::pcp: 
+                                   (ADVL:advp 
+                                     (H:adv:agora:::kc: agora))
+                                   (P:vp 
+                                     (MV:v-pcp:introduzir:M_S::: introduzido)))
+                                 (,)
+                                 (N<PRED:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (H:n:nome:M_S::np-idf: nome)
+                                     (N<:np 
+                                       (H:n:p53:M_S::np-idf: p53))))
+                                 (,))
+                        (P:vp (AUX:v-fin:ser:PR_3S_IND::: é)
+                              (MV:v-pcp:considerar:M_S::anr_pass:passive: considerado))
+                        (SC:acl (PRD:adv:como:::rel: como)
+                                (SC:adjp 
+                                  (H:num:um:M_S::card: um)
+                                  (A<:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (>N:adjp 
+                                        (>A:adv:mais:_::KOMP:quant: mais)
+                                        (H:adj:importante:M_P::: importantes))
+                                      (H:n:gene:M_P::anr_np-def:np-partitive2: genes)
+                                      («)
+                                      (N<:adjp 
+                                        (H:adj:supressor:M_P::: supressores))
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:tumor:M_P::np-idf: tumores)))
+                                      (»)))))
+                        (,)
+                        (ADVL:fcl (ADVL:conj-s:pois:::: pois)
+                                  (P:vp (MV:v-fin:comandar:PR_3S_IND::nosubj: comanda))
+                                  (ACC:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:produção:F_S::np-def: produção)
+                                    (N<ARGO:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (>N:art:um:F_S::arti: uma)
+                                        (H:n:proteína-chave:F_S::np-idf: proteína-chave)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:regulação:F_S::np-def: regulação)
+                                            (N<ARGO:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:divisão:F_S::np-def: divisão)
+                                                (N<:adjp 
+                                                  (H:adj:celular:F_S::: celular))))))))))
+                        (.)))

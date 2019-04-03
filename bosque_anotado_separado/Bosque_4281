@@ -1,0 +1,68 @@
+(FRASE CP831-3 (UTT:np (>N:num:um:F_S::card: Uma)
+                       (H:n:disquete:M_S::anr_np-count:anr_np-def: disquete)
+                       (N<:pp (H:prp:com:: com)
+                              (P<:np (>N:art:o:F_S::artd: a)
+                                     (H:n:tradução:F_S::np-def: tradução)
+                                     (N<:adjp 
+                                       (H:adj:português:F_S::: portuguesa))
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:prop:Tratado_de_Maastricht:M_S::: Tratado_de_Maastricht)))
+                                     («)
+                                     (N<:pp 
+                                       (H:prp:com:::: com)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (>N:cu 
+                                           (CJT:v-pcp:conhecer:M_P::: conhecidos)
+                                           (CO:conj-c:e:::: e)
+                                           (CJT:icl 
+                                             (ADVL:advp 
+                                               (H:adv:altamente:::quant: altamente))
+                                             (P:vp 
+                                               (MV:v-pcp:verberar:M_P::: verberados))))
+                                         (H:n:erro:M_P::anr_np-idf: erros)
+                                         (N<:adjp 
+                                           (H:adj:oficial:M_P::: oficiais))))
+                                     (»)))
+                       (,)
+                       (N<PRED:fcl (PIV:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:np 
+                                       (H:pron-indp:que:F_S::rel: que)))
+                                   (P:vp 
+                                     (MV:v-fin:juntar:PS_3S_IND::fs-rel:nosubj: juntou))
+                                   (ACC:np 
+                                     (>N:num:um:F_S::card: uma)
+                                     (>N:adjp 
+                                       (>A:adv:bem:::quant: bem)
+                                       (H:adj:humorado:F_S::: humorada))
+                                     (H:n:etiqueta:F_S::anr_np-count:anr_np-def: etiqueta)
+                                     (;)
+                                     («)
+                                     (APP:np 
+                                       (H:n:disquete:M_S::np-idf: Disquete)
+                                       (N<:pp 
+                                         (H:prp:sem:::: sem)
+                                         (P<:np 
+                                           (H:n:vírus:M_P::np-idf: vírus)))
+                                       ({)
+                                       (N<PRED:np 
+                                         (H:n:utilização:F_S::np-idf: utilização)
+                                         (N<ARGO:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:software:M_S::np-idf: software)
+                                             (N<:adjp 
+                                               (H:adj:preservativo:M_S::: preservativo))
+                                             (N<:adjp 
+                                               (H:adj:antieuropeu:M_S::: antieuropeu))))
+                                         (N<:icl::::pcp: 
+                                           (ADVL:advp 
+                                             (H:adv:não:::: não))
+                                           (P:vp 
+                                             (MV:v-pcp:aconselhar:F_S::: aconselhada))))
+                                       (}))))
+                       (.)))

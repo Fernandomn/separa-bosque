@@ -1,0 +1,11 @@
+(FRASE CP692-1 (UTT:np (H:n:presidente:M_S::np-idf: Presidente)
+                       (N<:pp (H:prp:de:: de+)
+                              (P<:np (N<:art:o:F_S::: a)
+                                     (H:prop:AR:F_S::anr_np-def: AR)))
+                       (N<:adjp (H:adj:atento:M_S::: atento)
+                                (A<:pp (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:F_P::artd: as)
+                                         (H:n:dúvida:F_P::np-def: dúvidas)
+                                         (N<:adjp 
+                                           (H:adj:legal:F_P::: legais)))))))

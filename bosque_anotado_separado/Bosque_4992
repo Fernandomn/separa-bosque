@@ -1,0 +1,48 @@
+(FRASE CP973-3 (STA:fcl (ADVL:np (>N:num:cinco:M_P::card: Cinco)
+                                 (H:n:dia:M_P::anr_np-count:anr_np-def: dias)
+                                 (N<:adv:depois:: depois))
+                        (SUBJ:np (H:prop:Pedro_Conceição:M_S::: Pedro_Conceição))
+                        (P:vp (MV:v-fin:deslocar:PS_3S_IND::hyfen: deslocou-))
+                        (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                        (SA:pp (H:prp:a:::: a+)
+                               (P<:np (>N:art:o:F_S::artd: a)
+                                      (H:n:cidade:F_S::np-def: cidade)))
+                        (PRED:pp (H:prp:com:::: com)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:n:documento:M_P::np-def: documentos)
+                                        (N<:adjp 
+                                          (H:adj:indispensável:M_P::: indispensáveis)
+                                          (A<arg:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:icl 
+                                              (P:vp 
+                                                (MV:v-inf:avançar:::icl-fin: avançar))
+                                              (ADVL:pp 
+                                                (H:prp:com:::: com)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:processo:M_S::np-def: processo)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (H:n:matrícula:F_S::np-idf: matrícula))))))))
+                                        ({)
+                                        (APP:cu 
+                                          (CJT:np 
+                                            (H:n:bilhete:M_S::np-idf: bilhete)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:identidade:F_S::np-idf: identidade))))
+                                          (,)
+                                          (CJT:np 
+                                            (H:n:passaporte:M_S::np-idf: passaporte))
+                                          (CO:conj-c:e:::co-app: e)
+                                          (CJT:np 
+                                            (H:n:número:M_S::np-idf: número)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:contribuinte:M_S::np-idf: contribuinte)))))
+                                        (})))
+                        (.)))

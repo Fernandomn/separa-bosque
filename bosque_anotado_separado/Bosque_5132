@@ -1,0 +1,23 @@
+(FRASE CP1000-6 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: os)
+                                  (>N:adj:restante:M_P: restantes)
+                                  (>N:num:25:M_P::card: 25)
+                                  (H:n:por_cento:M_S::anr_np-count:anr_np-def: por_cento))
+                         (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                         (SC:np (H:n:participação:F_S::np-idf: participação)
+                                (N<:adjp 
+                                  (H:adj:nacional:F_S::: nacional))
+                                (,)
+                                (N<PRED:icl::::pcp: 
+                                  (P:vp (MV:v-pcp:sustentar:F_S::: sustentada))
+                                  (PASS:pp 
+                                    (H:prp:por:::: por+)
+                                    (P<:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (H:n:promotor:M_P::np-def: promotores)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:projecto:M_P::np-def: projectos)
+                                          (N<:v-pcp:apresentar:M_P::: apresentados)))))))
+                         (.)))

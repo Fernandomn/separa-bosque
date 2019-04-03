@@ -1,0 +1,25 @@
+(FRASE CP154-4 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:médico:M_S::np-def: médico)
+                                 (N<:np (H:prop:Manuel_Almeida_Marta:M_S: Manuel_Almeida_Marta))
+                                 (,)
+                                 (N<PRED:np 
+                                   (>N:adj:principal:M_S::: principal)
+                                   (H:n:suspeito:M_S::anr_np-idf: suspeito)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:crime:M_S::np-def: crime)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:prop:Armamar:MF_S::: Armamar)))))))
+                        (,)
+                        (P:vp (AUX:v-fin:continuar:PR_3S_IND::: continua)
+                              (PRT-AUX:prp:a:::: a)
+                              (AUX:v-inf:ser:::: ser)
+                              (MV:v-pcp:procurar:M_S::anr_pass:passive: procurado))
+                        (PASS:pp (H:prp:por:::: por+)
+                                 (P<:np (>N:art:o:P::artd: as)
+                                        (H:n:autoridade:F_P::np-def: autoridades)))
+                        (.)))

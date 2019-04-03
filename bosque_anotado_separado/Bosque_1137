@@ -1,0 +1,72 @@
+(FRASE CP208-4 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:Polícia_de_Segurança_Pública:F_S: Polícia_de_Segurança_Pública)
+                                 (N<:adjp 
+                                   (H:adj:vila-franquense:F_S::: vila-franquense)))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:efectuar:PS_3S_IND::: efectuou))
+                                (,)
+                                (ADVL:pp 
+                                  (H:prp:durante:::: durante)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:mês:M_S::np-def: mês)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:abril:M_S::np-idf:prop: Abril)))))
+                                (,)
+                                (ACC:np (>N:art:um:M_S::arti: um)
+                                        (H:n:conjunto:M_S::np-idf: conjunto)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:recolha:F_P::np-idf: recolhas)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:dado:M_P::np-idf: dados)
+                                                (N<:pp 
+                                                  (H:prp:sobre:::: sobre)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:n:circulação:F_S::np-def: circulação)
+                                                    (N<:pp 
+                                                      (H:prp:em:::: em+)
+                                                      (P<:np 
+                                                        (>N:art:o:S::artd: a)
+                                                        (H:n:cidade:F_S::np-def: cidade)))))))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:detectar:PS_3S_IND::nosubj: detectou))
+                                (ACC:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:redução:F_S::np-idf: redução)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:tráfego:M_S::np-idf: tráfego)))
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:n:ordem:F_S::np-def: ordem)
+                                            (N<ARG:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (>N:num:20:M_P::card: 20)
+                                                (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento))))))
+                                (ADVL:advp 
+                                  (H:adv:comparativamente:::: comparativamente)
+                                  (A<:pp 
+                                    (H:prp:com:::: com)
+                                    (P<:np 
+                                      (>N:art:o:F_P::artd: as)
+                                      (H:n:média:F_P::np-def: médias)
+                                      (N<:icl::::pcp: 
+                                        (P:vp 
+                                          (MV:v-pcp:registar:F_P::: registadas))
+                                        (ADVL:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:adjp 
+                                            (H:num:97:M_S::card: 97)))))))))
+                        (.)))

@@ -1,0 +1,28 @@
+(FRASE CP576-4 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (P:vp (MV:v-fin:ter:PR_1P_IND::nosubj: temos))
+                        (ACC:np (H:pron-det:outro:M_P::KOMP:diff: outros)
+                                (N<:adjp 
+                                  (>A:pron-det:muito:M_P::KOMP:quant: mais)
+                                  (H:n:barato:M_P::anr_np-idf: baratos))
+                                (,)
+                                (N<PRED:acl 
+                                  (COM:adv:como:::: como)
+                                  (SUBJ:cu 
+                                    (CJT:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (H:n:alimento:M_P::np-def: alimentos)
+                                      (N<:pp 
+                                        (H:prp:para:::: para)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:animal:M_P::np-def: animais))))
+                                    (CO:conj-c:e:::: e)
+                                    (CJT:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:preço:M_S::np-def: preço)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:mão-de-obra:F_S::np-def: mão-de-obra)))))))
+                        (.)))

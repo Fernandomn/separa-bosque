@@ -1,0 +1,34 @@
+(FRASE CP517-7 (UTT:np (>N:art:um:F_S::arti: Uma)
+                       (H:n:situação:F_S::np-idf: situação)
+                       (N<:v-pcp:complicar:F_S: complicada)
+                       (N<:fcl (SUB:conj-s:porque:::: porque)
+                               (SUBJ:np (H:prop:Hélder:M_S::: Hélder))
+                               (ACC:np (H:pron-pers:se:M_3S_ACC::: se))
+                               (P:vp (AUX:v-fin:ter:PR_3S_IND::: tem)
+                                     (MV:v-pcp:mostrar:::: mostrado))
+                               (,)
+                               (ADVL:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:pron-det:este:M_S::dem: este)
+                                          (H:n:início:M_S::np-def: início)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:campeonato:M_S::np-def: campeonato)))))
+                               (,)
+                               (OC:acl (PRD:adv:como:::prp: como)
+                                       (SC:adjp 
+                                         (H:num:um:M_S::card:n: um)
+                                         (A<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (>N:adj:bom:M_P::KOMP:SUP: melhores)
+                                             (H:n:jogador:M_P::anr_np-def:np-partitive2: jogadores)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:prop:Benfica:M_S::: Benfica))))))))
+                       (.)))

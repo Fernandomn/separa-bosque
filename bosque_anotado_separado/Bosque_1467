@@ -1,0 +1,55 @@
+(FRASE CP275-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:França:F_S: França))
+                        (P:vp (MV:v-fin:alcançar:PS_3S_IND::: alcançou))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:num:1995:M_S::card: 1995)))
+                        (,)
+                        (ACC:np (>N:art:um:M_S::arti: um)
+                                (H:n:excedente:M_S::np-idf: excedente)
+                                (N<:adjp 
+                                  (H:adj:comercial:M_S::: comercial))
+                                (N<:np (H:n:recorde:M_S::np-idf: recorde))
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:np 
+                                           (>N:num:104,5:M_P::card: 104,5)
+                                           (>N:n:mil:M_P::card:num: mil)
+                                           (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                           (N<ARG:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:franco:M_P::np-dequant:np-idf: francos))))
+                                         ({)
+                                         (N<PRED:np 
+                                           (>N:num:3,1:M_P::card: 3,1)
+                                           (>N:n:mil:M_P::card:num: mil)
+                                           (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                           (N<ARG:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:conto:M_P::np-dequant:np-idf: contos))))
+                                         (})))
+                                (,)
+                                (N<PRED:fcl 
+                                  (SUBJ:np 
+                                    (H:pron-indp:o_que:M_S::rel: o_que))
+                                  (P:vp (MV:v-fin:representar:PR_3S_IND::fs-rel: representa))
+                                  (ACC:np 
+                                    (>N:art:um:M_S::arti: um)
+                                    (H:n:acréscimo:M_S::np-idf: acréscimo)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (>N:num:27:M_P::card: 27)
+                                        (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))
+                                    (N<:pp 
+                                      (H:prp:em_relação_a:::: em_relação_a+)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:n:resultado:M_P::np-def: resultados)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:adjp 
+                                            (H:num:1994:M_S::card: 1994))))))))
+                        (.)))

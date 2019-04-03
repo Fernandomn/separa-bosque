@@ -1,0 +1,18 @@
+(FRASE CP818-4 (QUE:fcl (CO:conj-c:mas:: Mas)
+                        (ADVL:np (H:pron-det:quanto:M_S::interr:quant: quanto))
+                        (P:vp (MV:v-fin:perder:PR_3S_IND::: perde))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:país:M_S::np-def: país))
+                        (ADVL:pp (H:prp:por:::: por)
+                                 (P<:np (>N:pron-det:cada:F_S::quant: cada)
+                                        (H:n:ave:F_S::anr_np-def: ave)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:rapina:F_S::np-idf: rapina)))
+                                        (N<:icl::::pcp: 
+                                          (ADVL:advp 
+                                            (H:adv:ilegalmente:::: ilegalmente))
+                                          (P:vp 
+                                            (MV:v-pcp:abater:F_S::: abatida)))))
+                        (?)))

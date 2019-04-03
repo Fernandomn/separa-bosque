@@ -1,0 +1,36 @@
+(FRASE CP562-2 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:diplomata:M_P::np-def: diplomatas)
+                                 (N<:adjp 
+                                   (H:adj:brasileiro:M_P: brasileiros)))
+                        (P:vp (MV:v-fin:queixar:PR_3P_IND::hyfen: queixam-))
+                        (ACC:np (H:pron-pers:se:M_3P_ACC::refl: se))
+                        (PIV:pp (H:prp:de:::: de+)
+                                (P<:np (>N:art:o:F_S::artd: a)
+                                       (H:n:falta:F_S::np-def: falta)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:recurso:M_P::np-idf: recursos)))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:já_que:::: já_que)
+                                  (P:vp (AUX:v-fin:ser:PR_3P_IND::: são)
+                                        (MV:v-pcp:obrigar:M_P::anr_pass:fs-cause:nosubj:passive: obrigados))
+                                  (PIV:pp 
+                                    (H:prp:a:::: a)
+                                    (P<:icl 
+                                      (P:vp 
+                                        (MV:v-inf:cobrir:::: cobrir))
+                                      (ACC:np 
+                                        (>N:pron-det:muito:F_P::quant: muitas)
+                                        (H:n:despesa:F_P::anr_np-idf: despesas))
+                                      (ADVL:pp 
+                                        (H:prp:com:::: com)
+                                        (P<:np 
+                                          (H:n:dinheiro:M_S::np-idf: dinheiro)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (>N:adj:próprio:M_S::: próprio)
+                                              (H:n:bolso:M_S::anr_np-def: bolso))))))))
+                        (.)))

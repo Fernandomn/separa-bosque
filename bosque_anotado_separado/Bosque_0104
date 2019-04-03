@@ -1,0 +1,93 @@
+(FRASE CP20-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                (H:prop:Partido_Popular:M_S: Partido_Popular)
+                                ({)
+                                (APP:np (H:prop:PP:M_S::: PP))
+                                (})
+                                (,)
+                                (N<PRED:np 
+                                  (H:n:vencedor:M_S::np-idf: vencedor)
+                                  (N<:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:P::artd: as)
+                                      (H:n:eleição:F_P::np-def: eleições)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:adjp::::date: 
+                                          (H:num:3:M_P::card: 3)
+                                          (A<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:março:M_S::np-idf:prop: Março))))))))
+                                (,))
+                       (P:vp (MV:v-fin:querer:PR_3S_IND::: quer))
+                       (ACC:np (>N:art:o:F_S::artd: a)
+                               (>N:adj:pleno:F_S::: plena)
+                               (H:n:integração:F_S::anr_np-def: integração)
+                               (N<:pp (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:S::artd: a)
+                                        (H:prop:Espanha:F_S::: Espanha)))
+                               (N<:pp (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:o:S::artd: a)
+                                        (H:prop:Aliança_Atlântica:F_S::: Aliança_Atlântica)
+                                        (,)
+                                        (N<PRED:np 
+                                          (H:n:organização:F_S::np-idf: organização)
+                                          (N<:fcl 
+                                            (PIV:pp 
+                                              (H:prp:a:::: a)
+                                              (P<:np 
+                                                (H:pron-indp:que:F_S::rel: que)))
+                                            (SUBJ:np 
+                                              (H:prop:Madrid:MF_S::: Madrid))
+                                            (P:vp 
+                                              (MV:v-fin:aderir:PS_3S_IND::fs-rel: aderiu))
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (H:num:1982:M_S::card: 1982)))
+                                            (,)
+                                            (ADVL:pp 
+                                              (H:prp:sem:::: sem)
+                                              (P<:icl 
+                                                (,)
+                                                (ADVL:advp 
+                                                  (H:adv:no_entanto:::kc: no_entanto))
+                                                (,)
+                                                (P:vp 
+                                                  (MV:v-inf:englobar:::: englobar))
+                                                (ACC:np 
+                                                  (>N:art:o:F_P::artd: as)
+                                                  (>N:pron-det:meu:F_P::si: suas)
+                                                  (H:n:força:F_P::anr_np-def: forças)
+                                                  (N<:adjp 
+                                                    (H:adj:militar:F_P::: militares)))
+                                                (ADVL:pp 
+                                                  (H:prp:em:::: em+)
+                                                  (P<:np 
+                                                    (H:pron-det:o:F_P::: as)
+                                                    (N<:pp 
+                                                      (H:prp:de:::: de+)
+                                                      (P<:np 
+                                                        (>N:art:o:S::artd: a)
+                                                        (H:prop:NATO:F_S::: NATO)))))
+                                                (,)
+                                                (ADVL:pp 
+                                                  (H:prp:de_acordo:::: de_acordo)
+                                                  (P<:pp 
+                                                    (H:prp:com:::: com)
+                                                    (P<:np 
+                                                      (>N:art:o:M_P::artd: os)
+                                                      (H:n:resultado:M_P::np-def: resultados)
+                                                      (N<:pp 
+                                                        (H:prp:de:::: de+)
+                                                        (P<:np 
+                                                          (>N:art:o:M_S::artd: o)
+                                                          (H:n:referendo:M_S::np-def: referendo)
+                                                          (N<:pp 
+                                                            (H:prp:de:::: de)
+                                                            (P<:adjp 
+                                                              (H:num:1986:M_S::card: 1986)))))))))))))))
+                       (.)))

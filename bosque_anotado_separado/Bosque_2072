@@ -1,0 +1,55 @@
+(FRASE CP397-3 (STA:fcl (ACC:fcl- (SUBJ:np 
+                                    (H:pron-det:o:M_S::dem: O)
+                                    (N<:fcl 
+                                      (SUBJ:np 
+                                        (H:pron-indp:que:M_S::rel: que))
+                                      (P:vp 
+                                        (MV:v-fin:acontecer:PR_3S_IND::fs-rel: acontece)))))
+                        (,)
+                        (P:vp (MV:v-fin:explicar:PR_3S_IND: explica))
+                        (SUBJ:np (H:prop:Robert_Snowden:M_S::: Robert_Snowden)
+                                 (,)
+                                 (N<PRED:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:M_S::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:estudar:PR_3S_IND::fs-rel: estuda))
+                                   (ACC:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:percepção:F_S::np-def: percepção)
+                                     (N<:adjp 
+                                       (H:adj:visual:F_S::: visual))
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:movimento:M_S::np-def: movimento))))
+                                   (ADVL:pp 
+                                     (H:prp:há:::: há)
+                                     (P<:np 
+                                       (>N:adjp 
+                                         (>A:adv:mais_de:::quant: mais_de)
+                                         (H:num:dez:M_P::card: dez))
+                                       (H:n:ano:M_P::anr_np-count:anr_np-def: anos))))
+                                 (,))
+                        (-ACC:fcl (P:vp (MV:v-fin:ser:PR_3S_IND::fs-subst: é))
+                                  (SC:fcl 
+                                    (SUB:conj-s:que:::: que)
+                                    (ADVL:fcl 
+                                      (ADVL:advp 
+                                        (H:adv:quando:_::ks:rel: quando))
+                                      (P:vp 
+                                        (MV:v-fin:estar:PR_3S_IND::nosubj: está))
+                                      (SC:np 
+                                        (H:n:nevoeiro:M_S::np-idf: nevoeiro)))
+                                    (P:vp 
+                                      (MV:v-fin:ver:PR_1P_IND::fs-subst:nosubj: vemos))
+                                    (ACC:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:mundo:M_S::np-def: mundo)
+                                      (N<:pp 
+                                        (H:prp:com:::: com)
+                                        (P<:np 
+                                          (>N:pron-det:pouco:M_S::KOMP:quant: menos)
+                                          (H:n:contraste:M_S::anr_np-idf:anr_np-mass: contraste))))))
+                        (.)))

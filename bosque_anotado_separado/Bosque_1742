@@ -1,0 +1,60 @@
+(FRASE CP333-6 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:estado:M_S::np-def: estado)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:alerta:M_S::np-idf: alerta))))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:v-pcp:suspender:M_S::anr_pass:passive: suspenso))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:sábado:M_S::np-def: sábado)))
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:justificação:F_S::np-def: justificação)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:cu 
+                                            (CJT:fcl 
+                                              (SUB:conj-s:que:::: que)
+                                              (ADVL:advp 
+                                                (H:adv:já:::: já))
+                                              (P:vp 
+                                                (MV:v-fin:ser:IMPF_3S_IND::fs-subst:nosubj: era))
+                                              (SA:advp 
+                                                (>A:v-pcp:demasiar:M_S::: demasiado)
+                                                (H:adv:tarde:::: tarde))
+                                              (ADVL:pp 
+                                                (H:prp:para:::: para)
+                                                (P<:icl 
+                                                  (P:vp 
+                                                    (MV:v-inf:encontrar:::icl-fin: encontrar))
+                                                  (ACC:np 
+                                                    (H:n:sobrevivente:MF_P::np-idf: sobreviventes)))))
+                                            (CO:conj-c:e:::co-vfin: e)
+                                            (CJT:fcl 
+                                              (SUB:conj-s:que:::: que)
+                                              (SUBJ:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:prop:Índia:F_S::: Índia))
+                                              (ADVL:advp 
+                                                (H:adv:não:::: não))
+                                              (P:vp 
+                                                (MV:v-fin:fazer:MQP_3S_IND::fs-subst: fizera))
+                                              (ACC:np 
+                                                (>N:art:um:M_S::arti: um)
+                                                (H:n:apelo:M_S::np-idf: apelo)
+                                                (N<:adjp 
+                                                  (H:adj:oficial:M_S::: oficial)))
+                                              (,)
+                                              (ADVL:icl::::ger: 
+                                                (P:vp 
+                                                  (MV:v-ger:considerar:::: considerando))
+                                                (OC:adjp 
+                                                  (H:adj:suficiente:M_P::quant: suficientes))
+                                                (ACC:np 
+                                                  (>N:art:o:M_P::artd: os)
+                                                  (>N:pron-det:seu:M_P::si: seus)
+                                                  (>N:adj:próprio:M_P::: próprios)
+                                                  (H:n:recurso:M_P::anr_np-def: recursos))))))))
+                        (.)))

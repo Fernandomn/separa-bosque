@@ -1,0 +1,54 @@
+(FRASE CP237-4 (STA:fcl (ADVL:advp (H:adv:finalmente:: Finalmente))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (>N:adj:terceiro:M_S::NUM-ord: terceiro)
+                                 (H:n:dia:M_S::anr_np-def: dia))
+                        (P:vp (AUX:v-fin:ser:FUT_3S_IND::: será)
+                              (MV:v-pcp:dedicar:M_S::anr_pass:passive: dedicado))
+                        (PIV:pp (H:prp:a:::: a)
+                                (P<:np (>N:art:um:F_S::card: um)
+                                       (H:n:reflexão:F_S::anr_np-idf: reflexão)
+                                       (N<:adjp 
+                                         (>A:adv:mais:::quant: mais)
+                                         (H:adj:profundo:F_S::: profunda))
+                                       (N<:pp 
+                                         (H:prp:sobre:::: sobre)
+                                         (P<:np 
+                                           (>N:pron-det:esse:F_S::dem: essa)
+                                           (H:n:entidade:F_S::np-def: entidade)
+                                           (N<:fcl 
+                                             (PIV:pp 
+                                               (H:prp:a:::: a)
+                                               (P<:np 
+                                                 (H:pron-indp:que:F_S::rel: que)))
+                                             (ACC:np 
+                                               (H:pron-pers:se:MF_3SP_ACC::: se))
+                                             (P:vp 
+                                               (MV:v-fin:chamar:PR_3S_IND::fs-rel:nosubj: chama))
+                                             (OC:np 
+                                               (H:prop:Europa:F_S::: Europa)))))
+                                       (--)
+                                       (N<PRED:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:ponto:M_S::np-def: ponto)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:vista:F_S::np-idf: vista)))
+                                           (N<:cu 
+                                             (CJT:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:S::artd: a)
+                                                 (>N:pron-det:seu:F_S::: sua)
+                                                 (H:n:cultura:F_S::anr_np-def: cultura))
+                                               (CO:conj-c:e:::co-postnom: e)
+                                               (CJT:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:S::artd: a)
+                                                   (>N:pron-det:seu:F_S::: sua)
+                                                   (H:n:história:F_S::anr_np-def: história)))))))))
+                        (.)))

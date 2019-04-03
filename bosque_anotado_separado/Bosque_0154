@@ -1,0 +1,85 @@
+(FRASE CP27-5 (STA:fcl (SUBJ:np (>N:pron-det:várias:F_P::quant: Várias)
+                                (H:n:tenda:F_P::anr_np-idf: tendas))
+                       (P:vp (MV:v-fin:oferecer:IMPF_3P_IND: ofereciam))
+                       (ACC:np- (>N:art:o:M_P::artd: os)
+                                (>N:adjp 
+                                  (>A:adv:mais:::quant: mais)
+                                  (>N:v-pcp:variar:M_P::: variados))
+                                (H:n:serviço:M_P::anr_np-idf: serviços))
+                       (PIV:pp (H:prp:a:::: a+)
+                               (P<:np (>N:art:o:M_P::artd: os)
+                                      (H:n:tripulante:M_P::np-def: tripulantes)))
+                       (,)
+                       (-ACC:np (N<:acl (COM:adv:como:::: como)
+                                        (SUBJ:cu 
+                                          (CJT:np 
+                                            (H:n:restaurante:M_P::np-idf: restaurantes))
+                                          (,)
+                                          (CJT:np 
+                                            (H:n:cabine:F_P::np-idf: cabines)
+                                            (N<:adjp 
+                                              (H:adj:telefónico:F_P::: telefónicas)))
+                                          (,)
+                                          (CJT:np 
+                                            (H:n:serviço:M_P::np-idf: serviços)
+                                            (N<:cu 
+                                              (CJT:adjp 
+                                                (H:adj:bancário:M_P::: bancários))
+                                              (CO:conj-c:e:::co-vfin: e)
+                                              (CJT:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:correio:M_P::np-idf: correios))))))))
+                       (ADVL:fcl (ADVL:advp 
+                                   (H:adv:enquanto:::ks: enquanto))
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em+)
+                                   (P<:np 
+                                     (>N:art:o:S::artd: a)
+                                     (H:n:sala:F_S::np-def: sala)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:imprensa:F_S::np-idf: imprensa)))))
+                                 (SUBJ:np 
+                                   (>N:art:o:M_P::artd: os)
+                                   (H:n:empregado:M_P::np-def: empregados)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:S::artd: a)
+                                       (H:prop:Telefónica:F_S::: Telefónica))))
+                                 (ADVL:advp 
+                                   (H:adv:ainda:::: ainda))
+                                 (P:vp (MV:v-fin:instalar:IMPF_3P_IND::fs-temp: instalavam))
+                                 (ACC:cu 
+                                   (CJT:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (H:n:telefone:M_P::np-def: telefones))
+                                   (CO:conj-c:e:::co-acc: e)
+                                   (CJT:np 
+                                     (H:n:máquina:F_P::np-idf: máquinas)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:fax:M_S::np-idf: fax)))))
+                                 (ADVL:pp 
+                                   (H:prp:para:::: para)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:batalhão:M_S::np-def: batalhão)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:jornalista:MF_P::np-idf: jornalistas)))
+                                     (N<:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:M_S::rel: que))
+                                       (P:vp 
+                                         (MV:v-fin:chegar:PS_3S_IND::fs-rel: chegou))
+                                       (SA:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:S::artd: a)
+                                           (H:n:cidade:F_S::np-def: cidade)))))))
+                       (.)))

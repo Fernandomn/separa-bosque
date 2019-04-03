@@ -1,0 +1,27 @@
+(FRASE CP542-2 (STA:fcl (PRED:np (H:n:deus:M_P::np-idf: Deuses)
+                                 (N<:pp (H:prp:em:: em)
+                                        (P<:np 
+                                          (H:n:ascensão:F_S::np-idf: ascensão))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:criador:M_P::np-def: criadores)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:realidade:F_P::np-idf: realidades)
+                                          (N<:adjp 
+                                            (H:adj:virtual:F_P::: virtuais)))))
+                        (P:vp (AUX:v-fin:ir:PR_3P_IND::: vão)
+                              (MV:v-inf:influenciar:::: influenciar))
+                        (ACC:np (>N:art:o:F_P::artd: as)
+                                (H:n:sociedade:F_P::np-def: sociedades)
+                                (N<:adjp 
+                                  (H:adj:futuro:F_P::: futuras)))
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (>N:art:o:F_P::artd: as)
+                                        (H:n:imagem:F_P::np-def: imagens)
+                                        (N<:fcl 
+                                          (ACC:np 
+                                            (H:pron-indp:que:F_P::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:criar:FUT_3P_SUBJ::fs-rel:nosubj: criarem)))))
+                        (.)))

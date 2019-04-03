@@ -1,0 +1,67 @@
+(FRASE CP488-4 (STA:fcl (ADVL:icl::ger: (P:vp 
+                                          (MV:v-ger:tomar:::: Tomando))
+                                        (OC:acl 
+                                          (PRD:adv:como:::rel: como)
+                                          (SC:np 
+                                            (H:n:caso:M_S::np-idf: caso)
+                                            (N<:adjp 
+                                              (H:adj:concreto:M_S::: concreto))))
+                                        (ACC:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:prop:França:F_S::: França)
+                                          (,)
+                                          (N<PRED:pp 
+                                            (H:prp:com:::: com)
+                                            (P<:np 
+                                              (>N:art:um:M_S::arti: um)
+                                              (H:n:mercado:M_S::np-idf: mercado)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:trabalho:M_S::np-idf: trabalho)))
+                                              (N<:icl::::pcp: 
+                                                (P:vp 
+                                                  (MV:v-pcp:considerar:M_S::: considerado))
+                                                (SC:adjp 
+                                                  (>A:adv:pouco:::quant: pouco)
+                                                  (H:adj:flexível:M_S::: flexível)))))
+                                          (,)))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (>N:pron-det:mesmo:M_S::KOMP:diff: mesmo)
+                                 (H:n-adj:responsável:M_S::anr_np-def: responsável)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:FMI:M_S::: FMI))))
+                        (P:vp (MV:v-fin:antever:PR_3S_IND::: antevê))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:prop:Europa:F_S::: Europa))
+                                 (P:vp (AUX:v-fin:dever:FUT_3S_IND::: deverá)
+                                       (AUX:v-inf:continuar:::: continuar)
+                                       (PRT-AUX:prp:a:::: a)
+                                       (MV:v-inf:registar:::icl-subst: registar))
+                                 (ACC:np 
+                                   (>N:art:um:M_S::arti: um)
+                                   («)
+                                   (H:n:crescimento:M_S::anr_np-idf: crescimento)
+                                   (N<:adjp 
+                                     (H:adj:lento:M_S::: lento))
+                                   (»))
+                                 (,)
+                                 (ADVL:fcl 
+                                   (SUB:conj-s:caso:::: caso)
+                                   (ADVL:advp 
+                                     (H:adv:não:::: não))
+                                   (P:vp 
+                                     (MV:v-fin:concretizar:PR_3S_SUBJ::fs-cond:nosubj: concretize))
+                                   (ADVL:advp 
+                                     (H:adv:rapidamente:::: rapidamente))
+                                   (ACC:np 
+                                     (>N:art:o:F_P::artd: as)
+                                     (>N:adj:necessário:F_P::: necessárias)
+                                     (H:n:reforma:F_P::anr_np-def: reformas)
+                                     (N<:adjp 
+                                       (H:adj:estrutural:F_P::: estruturais)))))
+                        (.)))

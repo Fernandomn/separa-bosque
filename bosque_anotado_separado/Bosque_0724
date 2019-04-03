@@ -1,0 +1,66 @@
+(FRASE CP140-6 (STA:fcl (PRED:icl::pcp: (P:vp 
+                                          (MV:v-pcp:proteger:M_S::: Protegido))
+                                        (ADVL:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:prop:Portugal:M_S::: Portugal))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:lobo:M_S::np-def: lobo))
+                        (P:vp (AUX:v-fin:ser:PR_3S_IND::: é)
+                              (MV:v-pcp:considerar:M_S::anr_pass:passive: considerado))
+                        (SC:np (>N:art:um:F_S::arti: uma)
+                               (H:n:espécie:F_S::np-idf: espécie)
+                               (N<:adjp (H:adj:cinegético:F_S::: cinegética)))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:lado:M_S::np-def: lado)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:adv:lá:::: lá))
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:n:fronteira:F_S::np-def: fronteira)
+                                            (,)
+                                            (N<:fcl 
+                                              (ADVL:advp 
+                                                (H:adv:onde:_::ks:rel: onde))
+                                              (,)
+                                              (ADVL:pp 
+                                                (H:prp:desde_há:::: desde_há)
+                                                (P<:np 
+                                                  (>N:num:dois:M_P::card: dois)
+                                                  (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))
+                                              (,)
+                                              (PAUX:vp 
+                                                (AUX:v-fin:ter:PR_3S_IND::nosubj: tem)
+                                                (AUX:v-pcp:vir:::: vindo))
+                                              (AUX<:cu 
+                                                (CJT:icl 
+                                                  (PMV:vp 
+                                                    (PRT-AUX:prp:a:::: a)
+                                                    (AUX:v-inf:ser:::: ser)
+                                                    (MV:v-pcp:leiloar:M_S::anr_pass:passive: leiloado))
+                                                  (SUBJ:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (>N:pron-det:seu:M_S::: seu)
+                                                    (H:n:abate:M_S::anr_np-def: abate)))
+                                                (CO:conj-c:e:::: e)
+                                                (CJT:icl 
+                                                  (PMV:vp 
+                                                    (PRT-AUX:prp:a:::: a)
+                                                    (MV:v-inf:prosperar:::: prosperar))
+                                                  (SUBJ:np 
+                                                    (>N:art:um:M_S::arti: um)
+                                                    (H:n:mercado:M_S::np-idf: mercado)
+                                                    (N<:adjp 
+                                                      (H:adj:negro:M_S::: negro)))
+                                                  (ADVL/N<[+1]:pp 
+                                                    (H:prp:em_torno_de:::: em_torno_de+)
+                                                    (P<:np 
+                                                      (>N:art:o:M_P::artd: os)
+                                                      (>N:pron-det:seu:M_P::si: seus)
+                                                      (H:n:resto:M_P::anr_np-def: restos))))))))))
+                        (.)))

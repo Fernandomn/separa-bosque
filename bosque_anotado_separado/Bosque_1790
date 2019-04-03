@@ -1,0 +1,26 @@
+(FRASE CP343-3 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:Espanha:F_S: Espanha))
+                        (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                              (MV:v-inf:investir:::: investir))
+                        (ADVL:pp (H:prp:até:::: até)
+                                 (P<:pp (H:prp:a:::: a+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:fim:M_S::np-def: fim)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:ano:M_S::np-def: ano))))))
+                        (ACC:np (>N:num:67,6:M_P::card: 67,6)
+                                (>N:n:mil:M_P::card:num: mil)
+                                (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                (N<ARG:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:np 
+                                    (H:n:peseta:F_P::np-dequant:np-idf: pesetas))))
+                        (PIV:pp (H:prp:em:::: em)
+                                (P<:np (H:n:infra-estrutura:F_P::np-idf: infra-estruturas)
+                                       (N<:adjp 
+                                         (H:adj:ferroviário:F_P::: ferroviárias))))
+                        (.)))

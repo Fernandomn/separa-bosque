@@ -1,0 +1,78 @@
+(FRASE CP93-1 (STA:fcl (SUBJ:np (>N:art:um:M_S::arti: Um)
+                                (H:n:grupo:M_S::np-idf: GRUPO)
+                                (N<:pp (H:prp:de:: de)
+                                       (P<:np 
+                                         (>N:v-pcp:alegar:M_P::: alegados)
+                                         (H:n:assaltante:M_P::anr_np-idf:np-dequant: assaltantes)
+                                         (,)
+                                         (N<PRED:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:acusar:M_P::: acusados))
+                                           (PIV:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:roubo:M_S::np-def: roubo)
+                                               (N<ARGO:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:diamante:M_P::np-idf: diamantes)
+                                                   (N<:pp 
+                                                     (H:prp:em:::: em+)
+                                                     (P<:np 
+                                                       (>N:art:o:M_S::artd: o)
+                                                       (H:n:valor:M_S::np-def: valor)
+                                                       (N<:pp 
+                                                         (H:prp:de:::: de)
+                                                         (P<:np 
+                                                           (>N:art:um:M_S::arti: um)
+                                                           (H:n:milhão:M_S::card:np-idf:num: milhão)
+                                                           (N<ARG:pp 
+                                                             (H:prp:de:::: de)
+                                                             (P<:np 
+                                                               (H:n:conto:M_P::np-dequant:np-idf: contos)))))))))
+                                               (N<:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:S::artd: a)
+                                                   (H:n:central:F_S::np-def: central)
+                                                   (N<:pp 
+                                                     (H:prp:de:::: de)
+                                                     (P<:np 
+                                                       (H:n:escolha:F_S::np-idf: escolha)))
+                                                   (N<:pp 
+                                                     (H:prp:de:::: de)
+                                                     (P<:np 
+                                                       (>N:art:um:F_S::arti: uma)
+                                                       (H:n:operadora:F_S::np-idf: operadora)
+                                                       (N<:adjp 
+                                                         (H:adj:português:F_S::: portuguesa)
+                                                         (N<:pp 
+                                                           (H:prp:em:::: em)
+                                                           (P<:np 
+                                                             (H:prop:Angola:F_S::: Angola))))))))))))))
+                       (,)
+                       (P:vp (AUX:v-fin:estar:PR_3S_IND::: está)
+                             (PRT-AUX:prp:a:::: a)
+                             (AUX:v-inf:ser:::: ser)
+                             (MV:v-pcp:submeter:M_S::anr_pass:passive: submetido))
+                       (PIV:pp (H:prp:a:::: a)
+                               (P<:np (H:n:interrogatório:M_P::np-idf: interrogatórios)
+                                      (N<:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:M_P::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:fornecer:PR_3P_SUBJ::fs-rel: forneçam))
+                                        (ACC:np 
+                                          (H:n:pista:F_P::np-idf: pistas)
+                                          (N<:pp 
+                                            (H:prp:sobre:::: sobre)
+                                            (P<:np 
+                                              (>N:art:um:F_S::arti: uma)
+                                              (>N:adj:presumível:F_S::: presumível)
+                                              (H:n:rede:F_S::anr_np-idf: rede)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:tráfico:M_S::np-idf: tráfico)))))))))
+                       (.)))

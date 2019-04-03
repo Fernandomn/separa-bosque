@@ -1,0 +1,46 @@
+(FRASE CP533-3 (STA:fcl (ADVL:np (H:n:destaque:M_S::np-idf: Destaque))
+                        (;)
+                        (SUBJ:np (>N:adj:grande:F_S: Grande)
+                                 (H:n:parte:F_S::anr_np-idf: parte)
+                                 (N<ARG:pp 
+                                   (H:prp:de:::: de+)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:imaginação:F_S::np-def:np-partitive2: imaginação)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:infância:F_S::np-def: infância))))))
+                        (P:vp (MV:v-fin:passar:PR_3S_IND::hyfen:se-passive: passa-))
+                        (ACC-PASS:np (H:pron-pers:se:F_3S_ACC::: se))
+                        (PIV:cu (CJT:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:descoberta:F_S::np-def: descoberta)))
+                                (CO:conj-c:e:::co-piv: e)
+                                (CJT:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:contestação:F_S::np-def: contestação)
+                                          (N<ARGO:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:mentira:F_S::np-def: mentira)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_P::artd: as)
+                                                  (H:n:regra:F_P::np-def: regras)
+                                                  (N<:fcl 
+                                                    (ACC:np 
+                                                      (H:pron-indp:que:F_P::rel: que))
+                                                    (SUBJ:np 
+                                                      (>N:art:o:M_S::artd: o)
+                                                      (H:n:mundo:M_S::np-def: mundo))
+                                                    (DAT:np 
+                                                      (H:pron-pers:ela:F_3S_DAT::: lhe))
+                                                    (P:vp 
+                                                      (MV:v-fin:impor:PR_3S_IND::fs-rel: impõe))))))))))
+                        (.)))

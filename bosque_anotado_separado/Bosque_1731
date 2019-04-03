@@ -1,0 +1,48 @@
+(FRASE CP330-2 (STA:fcl (ADVL:np (>N:pron-det:várias:F_P::quant: Várias)
+                                 (H:n:vez:F_P::anr_np-idf: vezes))
+                        (,)
+                        (ADVL:pp (H:prp:em:: em+)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (>N:adj:último:M_P::NUM-ord: últimos)
+                                        (>N:num:dois:M_P::card: dois)
+                                        (H:n:mês:M_P::anr_np-count:anr_np-def: meses)))
+                        (,)
+                        (SUBJ:cu (CJT:np 
+                                   (H:n:afegão:M_P::np-idf: afegãos))
+                                 (CO:conj-c:e:::co-subj: e)
+                                 (CJT:np 
+                                   (H:n:iraniano:M_P::np-idf: iranianos)))
+                        (P:vp (MV:v-fin:trocar:PS_3P_IND::: trocaram))
+                        (ACC:np (H:n:acusação:F_P::np-idf: acusações)
+                                (N<:pp (H:prp:sobre:::: sobre)
+                                       (P<:np 
+                                         (H:n:violação:F_P::np-idf: violações)
+                                         (N<ARGO:cu 
+                                           (CJT:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:território:M_S::np-def: território)))
+                                           (CO:conj-c:ou:::co-postnom: ou)
+                                           (CJT:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:espaço:M_S::np-def: espaço)
+                                               (N<:adjp 
+                                                 (H:adj:aéreo:M_S::: aéreo)))))))
+                                (,)
+                                (N<PRED:np 
+                                  (H:n:alegação:F_P::np-idf: alegações)
+                                  (N<:icl::::pcp: 
+                                    (ADVL:advp 
+                                      (H:adv:nunca:::: nunca))
+                                    (P:vp 
+                                      (MV:v-pcp:confirmar:F_P::: confirmadas))
+                                    (PASS:pp 
+                                      (H:prp:por:::: por)
+                                      (P<:np 
+                                        (H:n:fonte:F_P::np-idf: fontes)
+                                        (N<:adjp 
+                                          (H:adj:independente:F_P::: independentes)))))))
+                        (.)))

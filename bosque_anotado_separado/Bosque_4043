@@ -1,0 +1,47 @@
+(FRASE CP788-4 (UTT:np (>N:pp:por_um_lado:: Por_um_lado)
+                       (,)
+                       (>N:art:o:F_S::artd: a)
+                       (>N:adj:efectivo:F_S::: efectiva)
+                       (H:n:perda:F_S::anr_np-def: perde)
+                       (N<:pp (H:prp:de:::: de)
+                              (P<:np (H:n:competitividade:F_S::np-idf: competitividade)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:produto:M_P::np-def: produtos)
+                                         (N<:adjp 
+                                           (H:adj:português:M_P::: portugueses))))))
+                       (N<:pp (H:prp:face_a:::: face_a)
+                              (P<:np (H:n:produto:M_P::np-idf: produtos)
+                                     (N<:adjp 
+                                       (H:adj:concorrente:M_P::: concorrentes))
+                                     (N<:adjp 
+                                       (H:adj:proveniente:M_P::: provenientes)
+                                       (A<:cu 
+                                         (CJT:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:espaço:M_S::np-def: espaço)
+                                             (N<:adjp 
+                                               (H:adj:europeu:M_S::: europeu))))
+                                         (,)
+                                         (CJT:pp 
+                                           (>P:pp 
+                                             (H:prp:em:::: em)
+                                             (P<:adjp 
+                                               (H:n-adj:especial:MF_S::: especial)))
+                                           (H:cu 
+                                             (CJT:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:prop:Itália:F_S::: Itália)))
+                                             (CO:conj-c:e:::co-postnom: e)
+                                             (CJT:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:prop:Espanha:F_S::: Espanha)))))))))
+                       (.)))

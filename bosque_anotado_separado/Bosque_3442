@@ -1,0 +1,39 @@
+(FRASE CP662-5 (STA:fcl (SUBJ:np (H:cu (CJT:np 
+                                         (>N:art:o:F_S::artd: A)
+                                         (H:n:devoção:F_S::np-def: devoção))
+                                       (CO:conj-c:ou:co-subj: ou)
+                                       (CJT:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:arrependimento:M_S::np-def: arrependimento)))
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:pessoa:F_P::np-idf: pessoas)
+                                          (N<:adjp 
+                                            (H:adj:rico:F_P::: ricas)))))
+                        (P:vp (MV:v-fin:implicar:PR_3S_IND::: implica))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:adjp 
+                                   (H:adj:simultâneo:M_S::: simultâneo)))
+                        (,)
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:concessão:F_S::np-def: concessão)
+                                (N<:pp- (H:prp:de:::: de)
+                                        (P<:np- 
+                                          (H:n:doação:F_P::anr_np-idf: doações)))
+                                (N<:pp (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:F_P::artd: as)
+                                         (H:n:autoridade:F_P::np-def: autoridades)
+                                         (N<:adjp 
+                                           (H:adj:cristão:F_P::: cristãs))))
+                                (-N<:pp (-P<:np 
+                                          (,)
+                                          (N<:fcl 
+                                            (SUBJ:np 
+                                              (H:pron-indp:que:F_P::rel: que))
+                                            (ACC:np 
+                                              (H:pron-pers:elas:F_3P_ACC::: as))
+                                            (P:vp 
+                                              (MV:v-fin:enriquecer:PR_3P_IND::fs-rel: enriquecem))))))
+                        (.)))

@@ -1,0 +1,80 @@
+(FRASE CP230-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:jogo:M_S::np-def: jogo)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:campeão:M_P::np-def: campeões)
+                                          (N<:adjp 
+                                            (H:adj:escocês:M_P::: escoceses)))))
+                        (,)
+                        (ADVL:pp (H:prp:apesar_de:::: apesar_de+)
+                                 (P<:np (>N:art:o:P::artd: as)
+                                        (>N:adj:múltiplo:F_P::: múltiplas)
+                                        (H:n:tentativa:F_P::anr_np-def: tentativas)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:futebolista:M_P::np-def: futebolistas)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:prop:Rangers:M_S::: Rangers)))
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (>N:adj:grande:M_S::: maior)
+                                                (H:n:nome:M_S::anr_np-idf: nome)))
+                                            (,)
+                                            (N<:acl 
+                                              (COM:adv:como:::: como)
+                                              (SUBJ:cu 
+                                                (CJT:np 
+                                                  (H:prop:Hateley:M_S::: Hateley))
+                                                (CO:conj-c:e:::: e)
+                                                (CJT:np 
+                                                  (H:prop:Durrant:M_S::: Durrant))))
+                                            (,)))))
+                        (X:cu (CJT:x::::predicate: 
+                                (ADVL:advp 
+                                  (H:adv:não:::: não))
+                                (ADVL:advp 
+                                  (H:adv:só:::: só))
+                                (P:vp (MV:v-fin:perder:IMPF_3S_IND::: perdia))
+                                (ACC:np (H:n:ímpeto:M_S::np-idf: ímpeto)))
+                              (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:morrer:IMPF_3S_IND::: morria))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em)
+                                  (P<:np 
+                                    (H:n:qualidade:F_S::np-idf: qualidade)))))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:quando:::ks: quando))
+                                  (P:vp (MV:v-fin:enfrentar:IMPF_3S_IND::fs-temp:nosubj: enfrentava))
+                                  (ACC:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:meio-campo:M_S::np-def: meio-campo)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:prop:Celtic:M_S::: Celtic)))
+                                    (,)
+                                    (N<PRED:fcl 
+                                      (ADVL:advp 
+                                        (H:adv:onde:::rel: onde))
+                                      (SUBJ:np 
+                                        (H:prop:McStay:M_S::: McStay))
+                                      (ACC:np 
+                                        (H:pron-pers:se:M_3S_ACC::: se))
+                                      (P:vp 
+                                        (MV:v-fin:exibir:IMPF_3S_IND::fs-rel: exibia))
+                                      (ADVL:pp 
+                                        (H:prp:o:::: a)
+                                        (P<:np 
+                                          (>N:adj:grande:F_S::: grande)
+                                          (H:n:altura:F_S::anr_np-idf: altura))))))
+                        (.)))

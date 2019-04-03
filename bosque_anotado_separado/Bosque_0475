@@ -1,0 +1,33 @@
+(FRASE CP88-1 (STA:fcl (SUBJ:np (H:prop:Domingos:M_S: Domingos)
+                                (,)
+                                (N<PRED:cu 
+                                  (CJT:np 
+                                    (H:n:peito:M_S::np-idf: peito)
+                                    (N<:adjp 
+                                      (H:adj:hirto:M_S::: hirto)))
+                                  (CO:conj-c:e:::co-postnom: e)
+                                  (CJT:np 
+                                    (H:n:joelho:M_P::np-idf: joelhos)
+                                    (N<:v-pcp:levantar:M_P::: levantados)))
+                                (,))
+                       (X:cu (CJT:x::::predicate: 
+                               (P:vp (MV:v-fin:cerrar:PR_3S_IND::: cerra))
+                               (ACC:np (>N:art:o:M_P::artd: os)
+                                       (H:n:dente:M_P::np-def: dentes)))
+                             (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                             (CJT:x::::predicate: 
+                               (P:vp (MV:v-fin:vencer:PR_3S_IND::nosubj: vence))
+                               (ACC:cu (CJT:np 
+                                         (H:prop:Buckner:M_S::: Buckner)
+                                         ({)
+                                         (N<PRED:np 
+                                           (H:n:medalha:F_S::np-idf: medalha)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:bronze:M_S::np-idf: bronze))))
+                                         (}))
+                                       (CO:conj-c:e:::co-acc: e)
+                                       (CJT:np 
+                                         (H:prop:Délèze:M_S::: Délèze)))))
+                       (.)))

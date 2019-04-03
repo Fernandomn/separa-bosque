@@ -1,0 +1,75 @@
+(FRASE CP460-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (>N:adj:presumível:M_S: presumível)
+                                 (H:n:autor:M_S::anr_np-def: autor)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (>N:num:15:M_P::card: 15)
+                                          (H:n:assalto:M_P::anr_np-count:anr_np-def: assaltos)
+                                          (N<:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:ocorrer:M_P::: ocorridos))
+                                            (ADVL:advp 
+                                              (H:adv:recentemente:::: recentemente))
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (H:n:residência:F_P::np-idf: residências)
+                                                (N<:cu 
+                                                  (CJT:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (H:prop:Setúbal:M_S::: Setúbal)))
+                                                  (CO:conj-c:e:::co-postnom: e)
+                                                  (CJT:pp 
+                                                    (H:prp:de:::: de+)
+                                                    (P<:np 
+                                                      (>N:art:o:M_S::artd: o)
+                                                      (H:prop:Pinhal_Novo:M_S::: Pinhal_Novo)))))))
+                                          (,)
+                                          (N<PRED:advp 
+                                            (H:adv:através:::: através)
+                                            (A<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:extração:F_S::np-def: extração)
+                                                (N<ARGO:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (H:n:canhão:M_S::np-def: canhão)
+                                                    (N<:pp 
+                                                      (H:prp:de:::: de+)
+                                                      (P<:np 
+                                                        (>N:art:o:F_P::artd: as)
+                                                        (H:n:fechadura:F_P::np-def: fechaduras))))))))
+                                          (,))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                      (MV:v-pcp:deter:M_S::anr_pass:passive: detido))
+                                (PASS:pp 
+                                  (H:prp:por:::: por+)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:prop:PJ:F_S::: PJ)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:pron-det:aquele:F_S::dem: aquela)
+                                        (H:n:cidade:F_S::np-def: cidade))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:ver:PS_3S_IND::nosubj: viu))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:prisão:F_S::np-def: prisão)
+                                        (N<:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:confirmar:F_S::: confirmada))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:tribunal:M_S::np-def: tribunal)
+                                              (N<:adjp 
+                                                (H:adj:local:M_S::: local))))))))
+                        (.)))

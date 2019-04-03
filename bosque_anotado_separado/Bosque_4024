@@ -1,0 +1,17 @@
+(FRASE CP784-4 (UTT:np (H:n:exemplo:M_S::np-idf: Exemplo)
+                       (;)
+                       (N<PRED:np (H:n:fractura:F_S::np-idf: fractura)
+                                  (N<:pp 
+                                    (H:prp:de:: de+)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:laringe:F_S::np-def: laringe)))
+                                  (N<:pp 
+                                    (H:prp:com:::: com)
+                                    (P<:np 
+                                      (H:n:obstrução:F_S::np-idf: obstrução)
+                                      (N<:adjp 
+                                        (H:adj:respiratório:F_S::: respiratória))
+                                      (N<:adjp 
+                                        (H:adj:completo:F_S::: completa)))))
+                       (.)))

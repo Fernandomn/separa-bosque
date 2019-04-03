@@ -1,0 +1,49 @@
+(FRASE CP708-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (>N:v-pcp:alegar:M_S: alegado)
+                                 (H:n:violador:M_S::anr_np-idf: violador))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:v-pcp:deter:M_S::anr_pass:passive: detido))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (>N:pron-det:seu:F_S::si: sua)
+                                        (H:n:casa:F_S::anr_np-idf: casa)))
+                        (,)
+                        (ADVL:advp (H:adv:depois:::: depois)
+                                   (A<arg:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:icl 
+                                       (SUBJ:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:vítima:F_S::np-def: vítima))
+                                       (P:vp 
+                                         (AUX:v-inf:ter:3S::: ter)
+                                         (MV:v-pcp:denunciar:::fs-temp: denunciado))
+                                       (ACC:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:caso:M_S::np-def: caso))
+                                       (PIV:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:F_P::artd: as)
+                                           (H:n:autoridade:F_P::np-def: autoridades)
+                                           (N<:adjp 
+                                             (H:adj:policial:F_P::: policiais))))
+                                       (ADVL:fcl 
+                                         (ADVL:advp 
+                                           (H:adv:quando:::ks: quando))
+                                         (ACC:np 
+                                           (H:pron-pers:se:F_3S_ACC::: se))
+                                         (P:vp 
+                                           (MV:v-fin:encontrar:IMPF_3S_IND::fs-temp:nosubj: encontrava))
+                                         (OA:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:prop:Hospital_Distrital_de_Barcelos:M_S::: Hospital_Distrital_de_Barcelos)))
+                                         (ADVL:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:icl 
+                                             (P:vp 
+                                               (MV:v-inf:receber:::icl-fin: receber))
+                                             (ACC:np 
+                                               (H:n:tratamento:M_S::np-idf: tratamento))))))))
+                        (.)))

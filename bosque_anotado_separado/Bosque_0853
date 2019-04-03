@@ -1,0 +1,38 @@
+(FRASE CP161-6 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:Câmara_Municipal:F_S: Câmara_Municipal))
+                        (P:vp (MV:v-fin:apontar:PR_3S_IND::: aponta))
+                        (ACC:np (>N:art:o:M_P::artd: os)
+                                (>N:v-pcp:complicar:M_P::: complicados)
+                                (H:n:processo:M_P::anr_np-idf: processos)
+                                (N<:adjp 
+                                  (H:adj:burocrático:M_P::: burocráticos)))
+                        (OC:acl (PRD:adv:como:::prp: como)
+                                (SC:np (>N:art:o:M_P::artd: os)
+                                       (>N:adj:grande:M_P::: grandes)
+                                       (H:n:entrave:M_P::anr_np-def: entraves)
+                                       (N<:pp 
+                                         (H:prp:para:::: para)
+                                         (P<:fcl 
+                                           (SUB:conj-s:que:::: que)
+                                           (SUBJ:np 
+                                             (H:pron-indp:tudo:MF_S::quant: tudo))
+                                           (ACC-PASS:np 
+                                             (H:pron-pers:se:MF_3S_ACC::: se))
+                                           (P:vp 
+                                             (MV:v-fin:concretizar:PR_3S_SUBJ::fs-subst:se-passive: concretize))))))
+                        (ADVL:fcl (SUB:conj-s:uma_vez_que:::: uma_vez_que)
+                                  (SUBJ:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:maioria:F_S::np-def: maioria)
+                                    (N<ARG:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:n:apoio:M_P::np-def:np-partitive2: apoios)
+                                        (N<:adjp 
+                                          (H:adj:financeiro:M_P::: financeiros)))))
+                                  (ADVL:advp 
+                                    (H:adv:já:::: já))
+                                  (P:vp (MV:v-fin:estar:FUT_3S_IND::: estará))
+                                  (SC:v-pcp:garantir:F_S::fs-cause: garantida))
+                        (.)))

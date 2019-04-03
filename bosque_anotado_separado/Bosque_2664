@@ -1,0 +1,23 @@
+(FRASE CP506-6 (UTT:np (>N:art:um:M_S::arti: Um)
+                       (H:n:filme:M_S::np-idf: filme)
+                       (N<:adjp (H:adj:premonitório:M_S: premonitório))
+                       (,)
+                       (N<PRED:fcl (SUBJ:np 
+                                     (H:pron-indp:que:M_S::rel: que))
+                                   (ADVL:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:tempo:M_S::np-def: tempo)))
+                                   (P:vp 
+                                     (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                     (MV:cu 
+                                       (CJT:v-pcp:proibir:M_S::: proibido)
+                                       (CO:conj-c:e:::co-pcv: e)
+                                       (CJT:v-pcp:mutilar:M_S::: mutilado)))
+                                   (PASS:pp 
+                                     (H:prp:por:::: por+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:censura:F_S::np-def: censura))))
+                       (.)))

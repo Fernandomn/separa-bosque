@@ -1,0 +1,86 @@
+(FRASE CP182-1 (STA:fcl (ADVL:pp (H:prp:em:: Em)
+                                 (P<:np (H:prop:Coimbra:F_S::: Coimbra)))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:estudante:M_P::np-def: estudantes))
+                        (P:vp (MV:v-fin:marcar:PS_3P_IND::: marcaram))
+                        (ACC:np- (>N:art:um:M_S::arti: um)
+                                 (H:n:golo:M_S::np-idf: golo))
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (H:n:defesa:F_S::np-def: defesa)
+                                       (N<:icl::::pcp: 
+                                         (ADVL:advp 
+                                           (H:adv:menos:::quant: menos))
+                                         (P:vp 
+                                           (MV:v-pcp:bater:F_S::: batida)))
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:S::artd: a)
+                                           (H:n:prova:F_S::np-def: prova)))))
+                        (,)
+                        (-ACC:np (N<PRED:np 
+                                   (H:n:marca:F_S::np-idf: marca)
+                                   (N<:adjp 
+                                     (H:adj:suficiente:F_S::quant: suficiente)
+                                     (A<arg:pp 
+                                       (H:prp:para:::: para)
+                                       (P<:cu 
+                                         (CJT:icl 
+                                           (P:vp 
+                                             (MV:v-inf:alcançar:::icl-fin: alcançar))
+                                           (ACC:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:triunfo:M_S::np-def: triunfo)))
+                                         (CO:conj-c:e:::co-inf: e)
+                                         (CJT:icl 
+                                           (P:vp 
+                                             (MV:v-inf:justificar:::: justificar))
+                                           (ACC:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:recuperação:F_S::np-def: recuperação)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:P::artd: as)
+                                                 (>N:adj:último:F_P::NUM-ord: últimas)
+                                                 (H:n:jornada:F_P::anr_np-def: jornadas))))))))
+                                   (,)
+                                   (N<PRED:fcl 
+                                     (SUBJ:np 
+                                       (H:pron-indp:que:F_S::: que))
+                                     (ADVL:advp 
+                                       (H:adv:já:::: já))
+                                     (P:vp 
+                                       (MV:v-fin:levar:PS_3S_IND::: levou))
+                                     (ACC:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:equipa:F_S::np-def: equipa))
+                                     (PIV:pp 
+                                       (H:prp:a:::: a)
+                                       (P<:icl 
+                                         (P:vp 
+                                           (MV:v-inf:ascender:::: ascender))
+                                         (ADVL:pp 
+                                           (H:prp:a:::: a+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (>N:adj:quarto:M_S::NUM-ord: quarto)
+                                             (H:n:lugar:M_S::anr_np-def: lugar)))
+                                         (ADVL/N<[+2]:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:S::artd: a)
+                                             (H:n:competição:F_S::np-def: competição)))
+                                         (ADVL:pp 
+                                           (H:prp:após:::: após)
+                                           (P<:np 
+                                             (>N:art:um:M_S::arti: um)
+                                             (>N:adj:mau:M_S::: mau)
+                                             (H:n:início:M_S::anr_np-idf: início)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:época:F_S::np-idf: época))))))))))
+                        (.)))

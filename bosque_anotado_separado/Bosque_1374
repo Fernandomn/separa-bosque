@@ -1,0 +1,52 @@
+(FRASE CP257-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:templo:M_S::np-def: templo)
+                                 (,)
+                                 (N<PRED:pp 
+                                   (H:prp:de:: de)
+                                   (P<:np 
+                                     (H:n:configuração:F_S::np-idf: configuração)
+                                     (N<:adjp 
+                                       (H:adj:quadrangular:F_S::: quadrangular))
+                                     (,)
+                                     (N<PRED:pp 
+                                       (H:prp:com:::: com)
+                                       (P<:np 
+                                         (>N:adjp 
+                                           (>A:adv:cerca_de:::: cerca_de)
+                                           (H:num:15:M_P::card: 15))
+                                         (H:n:metro:M_P::anr_np-count:anr_np-def: metros)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:adjp 
+                                             (H:adj:largo:M_S::: largo)))))
+                                     (,))))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:v-pcp:descobrir:M_S::anr_pass:passive: descoberto))
+                        (ADVL:fcl (SUB:adv:quando:::ks: quando)
+                                  (SUBJ:np 
+                                    (H:prop:Sérgio_Coutinho:M_S::: Sérgio_Coutinho)
+                                    (,)
+                                    (N<PRED:np 
+                                      (H:n:proprietário:M_S::np-idf: proprietário)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (>N:art:um:M_S::arti: um)
+                                          (H:n:terreno:M_S::np-idf: terreno))))
+                                    (,))
+                                  (ADVL:advp 
+                                    (H:adv:ali:::: ali))
+                                  (P:vp (MV:v-fin:querer:PS_3S_IND::: quis))
+                                  (ACC:icl 
+                                    (P:vp 
+                                      (MV:v-inf:fazer:::icl-subst: fazer))
+                                    (ACC:np 
+                                      (>N:art:um:M_S::arti: um)
+                                      (H:n:estabelecimento:M_S::np-idf: estabelecimento)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:turismo:M_S::np-idf: turismo)
+                                          (N<:adjp 
+                                            (H:adj:rural:M_S::: rural)))))))
+                        (.)))

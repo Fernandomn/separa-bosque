@@ -1,0 +1,23 @@
+(FRASE CP669-1 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:prop:New_Jersey_Nets:M_S: New_Jersey_Nets))
+                        (P:vp (MV:v-fin:perder:PS_3P_IND::: perderam))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:invencibilidade:F_S::np-def: invencibilidade))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:campeonato:M_S::np-def: campeonato)))
+                        (,)
+                        (ADVL:fcl (ADVL:conj-s:pois:::: pois)
+                                  (P:vp (AUX:v-fin:ser:PS_3P_IND::: foram)
+                                        (MV:v-pcp:derrotar:M_P::anr_pass:nosubj:passive: derrotados))
+                                  (PASS:pp 
+                                    (H:prp:por:::: por+)
+                                    (P<:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (H:prop:Chicago_Bulls:M_S::: Chicago_Bulls)))
+                                  (,)
+                                  (ADVL:pp 
+                                    (H:prp:por:::: por)
+                                    (P<:adjp 
+                                      (H:num:99-86:M_P::card: 99-86))))
+                        (.)))

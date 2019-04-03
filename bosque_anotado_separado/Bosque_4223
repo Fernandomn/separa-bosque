@@ -1,0 +1,35 @@
+(FRASE CP819-1 (STA:fcl (ADVL:advp (H:adv:entretanto:kc: Entretanto))
+                        (,)
+                        (ADVL:pp (H:prp:durante:::: durante)
+                                 (P<:np (>N:pron-det:todo_o:F_S::quant: toda_a)
+                                        (H:n:manhã:F_S::anr_np-def: manhã)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:adv:ontem:::: ontem))))
+                        (,)
+                        (SUBJ:np (>N:art:um:F_S::arti: uma)
+                                 (H:n:testemunha:F_S::np-idf: testemunha))
+                        (P:vp (MV:v-fin:tentar:PS_3S_IND::: tentou))
+                        (ACC:icl (,)
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em+)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:esquadra:F_S::np-def: esquadra)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:prop:PSP:F_S::: PSP)))))
+                                 (,)
+                                 (P:vp (MV:v-inf:dizer:::icl-subst: dizer))
+                                 (ACC:fcl 
+                                   (ACC:np 
+                                     (H:pron-indp:o_que:M_S::: o_que))
+                                   (P:vp 
+                                     (AUX:v-fin:ter:IMPF_3S_IND::fs-subst:nosubj: tinha)
+                                     (MV:cu 
+                                       (CJT:v-pcp:ver:::: visto)
+                                       (CO:conj-c:e:::co-pcv: e)
+                                       (CJT:v-pcp:ouvir:M_S::: ouvido)))))
+                        (.)))

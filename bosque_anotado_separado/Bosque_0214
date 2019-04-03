@@ -1,0 +1,35 @@
+(FRASE CP36-4 (STA:fcl (ADVL:pp (H:prp:de:: De+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:n:lado:M_S::np-def: lado)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:FC_Porto:M_S::: FC_Porto)))))
+                       (,)
+                       (SUBJ:np (>N:art:o:M_S::artd: o)
+                                (H:n:treinador:M_S::np-def: treinador)
+                                (N<:np (H:prop:José_Magalhães:M_S::: José_Magalhães)))
+                       (X:cu (CJT:x::::predicate: 
+                               (ADVL:advp 
+                                 (H:adv:não:::: não))
+                               (P:vp (MV:v-fin:ter:PR_3S_IND::: tem))
+                               (ACC:np (H:n:problema:M_P::np-idf: problemas)
+                                       (N<:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (H:n:atleta:M_P::np-idf: atletas)
+                                           (N<:v-pcp:lesionar:M_P::: lesionados)))))
+                             (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                             (CJT:x::::predicate: 
+                               (P:vp (MV:v-fin:apontar:PR_3S_IND::nosubj: aponta))
+                               (ACC:np (>N:art:o:M_S::artd: o)
+                                       (>N:adj:primeiro:M_S::NUM-ord: primeiro)
+                                       (H:n:jogo:M_S::anr_np-def: jogo))
+                               (OC:acl (PRD:adv:como:::: como)
+                                       (SUBJ:np 
+                                         (H:pron-det:o:M_S::dem: o)
+                                         (N<:adjp 
+                                           (>A:adv:mais:::quant: mais)
+                                           (H:adj:importante:M_S::: importante))))))
+                       (;)))

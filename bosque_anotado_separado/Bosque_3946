@@ -1,0 +1,36 @@
+(FRASE CP769-1 (STA:fcl (SUBJ:np (H:pron-indp:o_que:M_S::rel: O_que))
+                        (P:vp (MV:v-fin:haver:PS_3S_IND::nofsubj: houve))
+                        (ADVL:pp (H:prp:entre:: entre)
+                                 (P<:np (>N:cu 
+                                          (CJT:adjp 
+                                            (>A:art:o:F_S::artd: a)
+                                            (H:adj:primeiro:F_S::NUM-ord: primeira))
+                                          (CO:conj-c:e:::co-prenom: e)
+                                          (CJT:adjp 
+                                            (>A:art:o:F_S::artd: a)
+                                            (H:adj:segundo:F_S::NUM-ord: segunda)))
+                                        (H:n:metade:F_S::numfract: metade)
+                                        (N<ARG:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:pron-det:esse:M_S::dem: esse)
+                                            (H:n:ano:M_S::np-def:np-partitive2: ano)))))
+                        (P:vp (MV:v-fin:parecer:PR_3S_IND::: parece))
+                        (,)
+                        (ADVL:advp (H:adv:assim:::kc: assim))
+                        (,)
+                        (SC:np (>N:art:um:F_S::arti: uma)
+                               (H:n:espécie:F_S::np-idf: espécie)
+                               (N<:pp (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:intervalo:M_S::np-idf: intervalo)
+                                        (--)
+                                        (N<PRED:np 
+                                          (>N:art:um:M_S::arti: um)
+                                          (H:n:tempo:M_S::np-idf: tempo)
+                                          (N<:pp 
+                                            (H:prp:fora_de:::: fora_de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:prop:História:F_S::: História)))))))
+                        (.)))

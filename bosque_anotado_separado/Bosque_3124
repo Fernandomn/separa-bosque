@@ -1,0 +1,39 @@
+(FRASE CP603-2 (STA:fcl (ADVL:pp (H:pp:por_si:: Por_si)
+                                 (P<:adjp 
+                                   (H:adj:só:MF_P::: sós)))
+                        (,)
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:M_P::artd: os)
+                                       (>N:adj:numeroso:M_P::: numerosos)
+                                       (>N:adj:pequeno:M_P::: pequenos)
+                                       (H:n:investidor:M_P::anr_np-def: investidores)
+                                       ({)
+                                       (N<PRED:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:M_P::rel: que))
+                                         (ADVL:advp 
+                                           (H:adv:não:::: não))
+                                         (P:vp 
+                                           (MV:v-fin:estar:PR_3P_IND::fs-rel: estão))
+                                         (SC:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:incluir:M_P::: incluídos))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:adjp 
+                                               (>N:art:o:M_P::artd: os)
+                                               (H:num:50:M_P::card:np-def: 50)))))
+                                       (})))
+                        (P:vp (MV:v-fin:caber:PR_3S_IND::nosubj: cabe))
+                        (ACC:np (>N:art:um:F_S::arti: uma)
+                                (H:n:fatia:F_S::np-idf: fatia)
+                                (N<ARG:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:np 
+                                    (>N:num:2,5:M_P::card: 2,5)
+                                    (H:n:milhão:M_P::anr_np-count:anr_np-def:card:np-dequant:num: milhões)
+                                    (N<ARG:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:conto:M_P::np-dequant:np-idf: contos))))))
+                        (.)))

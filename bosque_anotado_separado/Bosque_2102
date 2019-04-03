@@ -1,0 +1,35 @@
+(FRASE CP404-3 (UTT:icl::ger: (P:vp (MV:v-ger:vender:::: Vendendo))
+                              (ADVL:advp 
+                                (H:adv:pouco:_::KOMP:quant: menos)
+                                (KOMP<:acl 
+                                  (COM:conj-s:que:::: que)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:vinil:M_S::np-def: vinil))))
+                              (;)
+                              (ADVL:np (>N:adjp 
+                                         (>A:pron-det:pouco:M_S::quant: pouco)
+                                         (>A:adv:mais_de:::quant: mais_de)
+                                         (H:num:103:MF_P::card: 103))
+                                       (H:n:mil:MF_P::anr_np-def:card:num: mil)
+                                       (,)
+                                       (N<PRED:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:o_que:MF_P::rel: o_que))
+                                         (P:vp 
+                                           (MV:v-fin:corresponder:PR_3S_IND::fs-rel: corresponde))
+                                         (PIV:pp 
+                                           (H:prp:a:::: a)
+                                           (P<:np 
+                                             (>N:art:um:F_S::arti: uma)
+                                             (H:n:facturação:F_S::np-idf: facturação)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (>N:np 
+                                                   (>N:adjp 
+                                                     (>A:adv:cerca_de:::: cerca_de)
+                                                     (H:num:124:M_P::card: 124))
+                                                   (H:n:mil:M_P::card:num: mil))
+                                                 (H:n:conto:M_P::anr_np-count:anr_np-def: contos)))))))
+                              (.)))

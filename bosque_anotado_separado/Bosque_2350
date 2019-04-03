@@ -1,0 +1,58 @@
+(FRASE CP446-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:portista:M_S::np-def: portista))
+                        (X:cu (CJT:x::predicate: 
+                                (P:vp (MV:v-fin:pegar:PS_3S_IND::: pegou))
+                                (PIV:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:bola:F_S::np-def: bola)))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:esquerda:F_S::np-def: esquerda))))
+                              (,)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:progredir:PS_3S_IND::nosubj: progrediu))
+                                (ADVL:pp 
+                                  (H:prp:por:::: por+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:centro:M_S::np-def: centro)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:terreno:M_S::np-def: terreno))))))
+                              (,)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:entrar:PS_3S_IND::nosubj: entrou))
+                                (SA:pp (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:área:F_S::np-def: área))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (,)
+                                (ADVL:pp 
+                                  (H:prp:com:::: com)
+                                  (P<:np 
+                                    (>N:num:dois:M_P::card: dois)
+                                    (H:n:toque:M_P::anr_np-count:anr_np-def: toques)
+                                    (N<:adjp 
+                                      (H:adj:precioso:M_P::: preciosos))))
+                                (,)
+                                (P:vp (MV:v-fin:sentar:PS_3S_IND::nosubj: sentou))
+                                (ACC:np (>N:art:o:M_P::artd: os)
+                                        (>N:num:dois:M_P::card: dois)
+                                        (H:n:central:F_P::anr_np-count:anr_np-def: centrais)
+                                        (N<:np 
+                                          (H:n:flaviense:M_P::np-idf: flavienses))
+                                        (,)
+                                        (APP:cu 
+                                          (CJT:np 
+                                            (H:prop:Manuel_Correia:M_S::: Manuel_Correia))
+                                          (CO:conj-c:e:::co-postnom: e)
+                                          (CJT:np 
+                                            (H:prop:Amarildo:M_S::: Amarildo))))))
+                        (.)))

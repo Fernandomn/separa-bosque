@@ -1,0 +1,36 @@
+(FRASE CP106-4 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:número:M_S::np-def: número)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (H:n:criança:F_P::np-idf: crianças)
+                                          (N<:adjp 
+                                            (H:adj:pequeno:F_P::KOMP: menores)
+                                            (KOMP<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (>N:num:cinco:M_P::card: cinco)
+                                                (H:n:ano:M_P::anr_np-count:anr_np-def: anos))))
+                                          (,)
+                                          (N<PRED:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:matar:F_P::: mortas))
+                                            (PASS:pp::::postmod: 
+                                              (H:prp:por:::: por)
+                                              (P<:np 
+                                                (H:n-adj:estranho:M_P::: estranhos))))
+                                          (,))))
+                        (P:vp (AUX:v-fin:ter:PR_3S_IND::: tem)
+                              (MV:v-pcp:ser:::: sido))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:média:F_S::np-idf: média)))
+                        (SC:pp (P<:adjp (H:num:um:F_S::card: uma)
+                                        (A<:pp 
+                                          (H:prp:por:::: por)
+                                          (P<:np 
+                                            (H:n:ano:M_S::np-idf: ano)))))
+                        (,)
+                        (ADVL:pp (>P:adv:pelo_menos:::quant: pelo_menos)
+                                 (H:prp:desde:::: desde)
+                                 (P<:adjp 
+                                   (H:num:1982:M_S::card: 1982)))
+                        (.)))

@@ -1,0 +1,35 @@
+(FRASE CP308-3 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:Ferrari:M_S: Ferrari))
+                        (P:vp (MV:v-fin:conseguir:PS_3S_IND::: conseguiu))
+                        (ADVL:advp (H:adv:assim:::kc: assim))
+                        (ACC:icl (P:vp (MV:v-inf:colocar:::icl-subst: colocar))
+                                 (ACC:np 
+                                   (>N:art:o:M_P::artd: os)
+                                   (>N:pron-det:seu:M_P::si: seus)
+                                   (>N:num:dois:M_P::card: dois)
+                                   (H:n:carro:M_P::anr_np-count:anr_np-def: carros))
+                                 (OA:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                          (H:n:linha:F_S::anr_np-def: linha)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:grelha:F_S::np-def: grelha)
+                                              (N<:adjp 
+                                                (H:adj:provisório:F_S::: provisória))))
+                                          (,)
+                                          (N<PRED:np 
+                                            (>N:art:um:M_S::arti: um)
+                                            (H:n:resultado:M_S::np-idf: resultado)
+                                            (N<:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:M_S::rel: que))
+                                              (P:vp 
+                                                (MV:v-fin:motivar:PR_3S_IND::fs-rel: motiva))
+                                              (ACC:np 
+                                                (>N:pron-det:todo_o:F_S::quant: toda_a)
+                                                (H:n:equipa:F_S::anr_np-def: equipa)))))))
+                        (.)))

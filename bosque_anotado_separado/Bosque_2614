@@ -1,0 +1,58 @@
+(FRASE CP497-3 (STA:fcl (ADVL:pp (H:prp:segundo:: Segundo)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:agência:F_S::: agência)
+                                        (N<:np 
+                                          (H:prop:Interfax:F_S::: Interfax))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:artilharia:F_S::np-def: artilharia)
+                                 (N<:adjp 
+                                   (H:adj:russo:F_S::: russa)))
+                        (P:vp (MV:v-fin:bombardear:::: bombardeou))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:noite:F_S::np-def: noite)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:sexta:F_S::np-idf: sexta)
+                                            (N<:pp 
+                                              (H:prp:para:::: para)
+                                              (P<:np 
+                                                (H:n:sábado:M_S::np-idf: sábado)))))))
+                        (ACC:np (>N:art:o:F_P::artd: as)
+                                (H:n:localidade:F_P::np-def: localidades)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:cu 
+                                           (CJT:np 
+                                             (H:prop:Samachki:MF_S::: Samachki))
+                                           (CO:conj-c:e:::co-prparg: e)
+                                           (CJT:np 
+                                             (H:prop:Zakan-Iurt:MF_S::: Zakan-Iurt)))
+                                         ({)
+                                         (N<PRED:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:situar:F_P::: situadas))
+                                           (SA:pp 
+                                             (>P:adv:respectivamente:::: respectivamente)
+                                             (H:prp:a:::: a)
+                                             (P<:np 
+                                               (H:cu 
+                                                 (CJT:np 
+                                                   (>N:num:30:M_P::card: 30)
+                                                   (H:n:km:M_P::anr_np-count:anr_np-def: km))
+                                                 (CO:conj-c:e:::co-prparg: e)
+                                                 (CJT:np 
+                                                   (>N:num:15:M_P::card: 15)
+                                                   (H:n:km:M_P::anr_np-count:anr_np-def: km)))
+                                               (N<:pp 
+                                                 (H:prp:a:::: a)
+                                                 (P<:np 
+                                                   (H:n:oeste:M_S::np-idf: oeste)
+                                                   (N<:pp 
+                                                     (H:prp:de:::: de)
+                                                     (P<:np 
+                                                       (H:prop:Grozni:MF_S::: Grozni))))))))
+                                         (}))))
+                        (.)))

@@ -1,0 +1,89 @@
+(FRASE CP393-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:questão:F_S::np-def: questão)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:televisor:M_P::np-def: televisores)
+                                          (N<:adjp 
+                                            (H:adj:estereofónico:M_P::: estereofónicos)))))
+                        (P:vp (MV:v-fin:ter:PR_3S_IND::: tem))
+                        (ADVL:advp (H:adv:agora:::kc: agora))
+                        (ACC:np (>N:pron-det:algum:F_S::quant: alguma)
+                                (H:n:actualidade:F_S::anr_np-idf: actualidade))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:um_vez_que:::nil: uns_vez_que)
+                                  (SUBJ:np 
+                                    (H:pron-det:muito:M_P::quant: muitos)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:n:consumidor:M_P::np-def:np-partitive2: consumidores)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_P::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:comprar:PS_3P_IND::fs-rel: compraram))
+                                          (ACC:np 
+                                            (H:n:aparelho:M_P::np-idf: aparelhos)
+                                            (N<:pp 
+                                              (H:prp:com:::: com)
+                                              (P<:np 
+                                                (>N:pron-det:esse:F_P::dem: essas)
+                                                (H:n:característica:F_P::np-def: características))))
+                                          (ADVL:advp 
+                                            (H:adv:antes:::: antes)
+                                            (A<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:início:M_S::np-def: início)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:F_P::artd: as)
+                                                    (H:n:emissão:F_P::np-def: emissões)
+                                                    (N<:pp 
+                                                      (H:prp:em:::: em)
+                                                      (P<:np 
+                                                        (H:n:estéreo:M_S::np-idf: estéreo))))))))))))
+                                  (P:vp- 
+                                    (AUX:v-fin:ser:PR_3P_IND::: são))
+                                  (ADVL:advp 
+                                    (H:adv:agora:::kc: agora))
+                                  (-P:vp 
+                                    (MV:v-pcp:confrontar:M_P::anr_pass:passive: confrontados))
+                                  (PIV:pp 
+                                    (H:prp:com:::: com)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:facto:M_S::np-def: facto)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:icl 
+                                          (SUBJ:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (>N:pron-det:seu:M_P::: seus)
+                                            (H:n:televisor:M_P::anr_np-def: televisores))
+                                          (ADVL:advp 
+                                            (H:adv:não:::: não))
+                                          (P:vp 
+                                            (MV:v-inf:emitir:3P::: emitirem))
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (H:n:estéreo:M_S::np-idf: estéreo)))
+                                          (ACC:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:sinal:M_S::np-def: sinal)
+                                            (N<:fcl 
+                                              (ACC:np 
+                                                (H:pron-indp:que:M_S::rel: que))
+                                              (P:vp 
+                                                (MV:v-fin:receber:PR_3P_IND::fs-rel:nosubj: recebem))
+                                              (PIV:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_P::artd: as)
+                                                  (H:n:emissora:F_P::np-def: emissoras))))))))))
+                        (.)))

@@ -1,0 +1,63 @@
+(FRASE CP278-4 (UTT:acl (FOC:advp (H:adv:é:foc: É))
+                        (ADVL:advp (H:adv:ali:::: ali)
+                                   (A<:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:porão:M_S::np-def: porão)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Discovery:M_S::: Discovery))))))
+                        (FOC:pron-indp:que:M_S::: que)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:prop:Hubble:M_S::: Hubble))
+                        (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                              (AUX:v-inf:ser:::: ser)
+                              (MV:v-pcp:reparar:M_S::anr_pass:passive: reparado))
+                        (ADVL:pp (H:prp:no_decurso_de:::: no_decurso_de)
+                                 (P<:np (>N:num:quatro:M_P::card: quatro)
+                                        (H:n:passeio:M_P::anr_np-count:anr_np-def: passeios)
+                                        (N<:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:espaço:M_S::np-def: espaço)))
+                                        (,)
+                                        (N<PRED:np 
+                                          (>N:pp 
+                                            (H:prp:com:::: com)
+                                            (P<:np 
+                                              (>N:num:seis:F_P::card: seis)
+                                              (H:n:hora:F_P::anr_np-count:anr_np-def: horas)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:duração:F_S::np-idf: duração)))))
+                                          (H:pron-indp:cada_um:M_S::: cada_um))
+                                        (,)
+                                        (N<PRED:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_P::rel: que))
+                                          (P:vp 
+                                            (AUX:v-fin:ser:FUT_3P_IND::: serão)
+                                            (MV:v-pcp:fazer:M_P::anr_pass:fs-rel:passive: feitos))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:astronauta:M_P::np-def: astronautas)
+                                              (N<:cu 
+                                                (CJT:np 
+                                                  (H:prop:Mark_Lee:M_S::: Mark_Lee))
+                                                (,)
+                                                (CJT:np 
+                                                  (H:prop:Steve_Smith:M_S::: Steve_Smith))
+                                                (,)
+                                                (CJT:np 
+                                                  (H:prop:Greg_Harbaugh:M_S::: Greg_Harbaugh))
+                                                (CO:conj-c:e:::co-postnom: e)
+                                                (CJT:np 
+                                                  (H:prop:Joe_Tanner:M_S::: Joe_Tanner))))))))
+                        (.)))

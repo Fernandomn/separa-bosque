@@ -1,0 +1,38 @@
+(FRASE CP615-2 (UTT:np (>N:art:um:M_S::arti: Um)
+                       (H:n:valor:M_S::np-idf: valor)
+                       (N<:adjp (>A:adv:bastante:quant: bastante)
+                                (H:adj:alto:M_S::KOMP:anr_np-mass: superior)
+                                (A<:pp (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:soma:F_S::np-def: soma)
+                                         (N<ARGO:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             («)
+                                             (H:n:taxa:F_S::anr_np-idf: taxa)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:cliente:MF_S::np-idf: cliente)))
+                                             (»)
+                                             (,)
+                                             (N<PRED:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (>N:num:100:M_P::card: 100)
+                                                 (H:n:escudo:M_P::anr_np-count:anr_np-def: escudos)))
+                                             (,)))
+                                         (N<PRED:pp 
+                                           (H:prp:com:::: com)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (>N:adj:novo:F_S::: nova)
+                                             (H:n:taxa:F_S::anr_np-def: taxa)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (>N:num:30:M_P::card: 30)
+                                                 (H:n:escudo:M_P::anr_np-count:anr_np-def: escudos))))))))
+                       (.)))

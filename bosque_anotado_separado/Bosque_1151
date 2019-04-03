@@ -1,0 +1,41 @@
+(FRASE CP211-1 (STA:fcl (SUBJ:np (>N:pron-det:algum:M_P::quant: Alguns)
+                                 (H:n:estudo:M_P::anr_np-idf: estudos)
+                                 (N<:fcl 
+                                   (ADVL:pp 
+                                     (H:prp:em:: em)
+                                     (P<:np 
+                                       (H:pron-indp:que:M_S::rel: que)))
+                                   (P:vp 
+                                     (AUX:v-fin:ser:PS_3P_IND::: foram)
+                                     (MV:v-pcp:usar:F_P::anr_pass:fs-rel:passive: usadas))
+                                   (SUBJ:np 
+                                     (H:n:definição:F_P::np-idf: definições)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:depressão:F_S::np-idf: depressão)
+                                         (N<:adjp 
+                                           (>A:adv:mais:_::KOMP:quant: mais)
+                                           (H:adj:restrito:F_P::: restritas)
+                                           (KOMP<:fcl 
+                                             (COM:conj-s:do_que:::: do_que)
+                                             (SUBJ:np::::Eg: 
+                                               (>N:art:o:F_P::artd: as)
+                                               (H:adj:internacional:F_P::Eg:np-def: internacionais)))))))))
+                        (P:vp (MV:v-fin:apurar:PS_3P_IND::: apuraram))
+                        (ACC:np (H:n:taxa:F_P::np-idf: taxas)
+                                (N<:adjp 
+                                  (>A:adv:mais:::quant: mais)
+                                  (H:adj:baixo:F_P::: baixas))
+                                (--)
+                                (N<PRED:cu 
+                                  (PCJT:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:np::::Eg: 
+                                      (H:num:três:M_S::: três)))
+                                  (PCJT:pp 
+                                    (H:prp:a:::: a)
+                                    (P<:np 
+                                      (>N:num:cinco:M_S::: cinco)
+                                      (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))))
+                        (.)))

@@ -1,0 +1,53 @@
+(FRASE CP198-2 (STA:fcl (ACC:fcl (SUBJ:np 
+                                   (>N:art:o:M_S::artd: O)
+                                   (H:n:corpo:M_S::np-def: corpo)
+                                   (N<:pp 
+                                     (H:prp:de:: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:escritor:M_S::np-def: escritor)
+                                       (N<:adjp 
+                                         (H:adj:francês:M_S::: francês))
+                                       (N<:np 
+                                         (H:prop:Alain_Fournier:M_S::: Alain_Fournier))
+                                       (,)
+                                       (N<PRED:np 
+                                         (H:n:autor:M_S::np-idf: autor)
+                                         (N<:prp:de:::: de)
+                                         («)
+                                         (P<:np 
+                                           (H:prop:O_Grande_Meaulnes:M_S::: O_Grande_Meaulnes))
+                                         (»))
+                                       (,)
+                                       (N<PRED:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:morrer:M_S::: morto))
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:começo:M_S::np-def: começo)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:S::artd: a)
+                                                 (H:prop:I_Guerra_Mundial:F_S::: I_Guerra_Mundial))))))
+                                       (,))))
+                                 (P:vp- (AUX:v-fin:ser:PS_3S_IND::: foi))
+                                 (ADVL:advp 
+                                   (H:adv:formalmente:::: formalmente))
+                                 (-P:vp (MV:v-pcp:identificar:M_S::anr_pass:icl-subst:passive: identificado)))
+                        (,)
+                        (P:vp (MV:v-fin:anunciar:PS_3S_IND::: anunciou))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:prop:Direcção_Regional_de_Assuntos_Culturais_Franceses:M_S::: Direcção_Regional_de_Assuntos_Culturais_Franceses))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:n:cidade:F_S::np-def: cidade)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Metz:F_S::: Metz)))))
+                        (.)))

@@ -1,0 +1,41 @@
+(FRASE CP460-2 (STA:fcl (P:vp (MV:v-fin:tratar:PR_3S_IND::hyfen:nosubj: Trata-))
+                        (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                        (PIV:pp (H:prp:de:: de)
+                                (P<:np (>N:art:um:M_S::arti: um)
+                                       (H:n-adj:jovem:M_S::np-idf: jovem)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (>N:num:20:M_P::card: 20)
+                                           (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))
+                                       (,)
+                                       (N<PRED:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:M_S::rel: que))
+                                         (P:vp 
+                                           (AUX:v-fin:ter:FUT_3S_IND::: terá)
+                                           (MV:v-pcp:confessar:::fs-rel: confessado))
+                                         (ACC:cu 
+                                           (CJT:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:crime:M_P::np-def: crimes))
+                                           (CO:conj-c:e:::co-acc: e)
+                                           (CJT:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:venda:F_S::np-def: venda)
+                                             (N<ARGO:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_P::artd: os)
+                                                 (H:n:objecto:M_P::np-def: objectos)
+                                                 (N<:v-pcp:roubar:M_P::: roubados)))
+                                             (N<:pp 
+                                               (H:prp:para:::: para)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:n:compra:F_S::np-def: compra)
+                                                 (N<ARGO:pp 
+                                                   (H:prp:de:::: de)
+                                                   (P<:np 
+                                                     (H:n:heroína:F_S::np-idf: heroína))))))))))
+                        (.)))

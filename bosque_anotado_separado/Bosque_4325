@@ -1,0 +1,90 @@
+(FRASE CP838-4 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:caso:M_P::np-def: casos)
+                                 (N<:icl::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:referir:M_P::: referidos))
+                                   (PASS:pp 
+                                     (H:prp:por:::: por+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       («)
+                                       (H:prop:New_York_Times:M_S::: New_York_Times)
+                                       (»)))
+                                   (ADVL:icl::::ger: 
+                                     (PRD:adv:como:::rel: como)
+                                     (P:vp 
+                                       (MV:v-ger:ser:::: sendo))
+                                     (SC:adjp 
+                                       (H:adj:imputável:M_P::: imputáveis)
+                                       (A<:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:medicamento:M_S::np-def: medicamento)))))))
+                        (P:vp (AUX:v-fin:ser:PS_3P_IND::: foram)
+                              (MV:v-pcp:considerar:M_P::anr_pass:passive: considerados))
+                        (PASS:pp (H:prp:por:::: por+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Roche:F_S::: Roche)))
+                        (SC:acl (PRD:adv:como:::: como)
+                                («)
+                                (SC:np (H:n:morte:F_P::np-idf: mortes)
+                                       (N<:pp 
+                                         (H:prp:sem:::: sem)
+                                         (P<:np 
+                                           (H:n:relação:F_S::np-idf: relação)
+                                           (N<:adjp 
+                                             (H:adj:causal:F_S::: causal))
+                                           (N<ARGO:pp 
+                                             (H:prp:com:::: com)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:aplicação:F_S::np-def: aplicação)
+                                               (N<ARGO:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:M_S::artd: o)
+                                                   (H:n:medicamento:M_S::np-def: medicamento))))))))
+                                (»))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:tratar:::hyfen: tratando-))
+                          (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                          (PIV:pp (H:prp:de:::: de)
+                                  («)
+                                  (P<:np 
+                                    (H:n-adj:doente:MF_P::: doentes)
+                                    (N<:cu 
+                                      (CJT:fcl 
+                                        (SUBJ:np 
+                                          (>N:pron-det:cujo:M_S::rel: cujo)
+                                          (H:n:estado:M_S::anr_np-idf: estado)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:saúde:F_S::np-idf: saúde))))
+                                        (ADVL:advp 
+                                          (H:adv:já:::: já))
+                                        (P:vp 
+                                          (MV:v-fin:ser:IMPF_3S_IND::fs-rel: era))
+                                        (SC:adjp 
+                                          (H:adj:grave:M_S::: grave)))
+                                      (CO:conj-c:e:::co-postnom: e)
+                                      (CJT:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:M_P::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:apresentar:IMPF_3P_IND::: apresentavam))
+                                        (ACC:cu 
+                                          (CJT:np 
+                                            (H:n:problema:M_P::np-idf: problemas)
+                                            (N<:adjp 
+                                              (H:adj:cardiovascular:M_P::: cardiovasculares)))
+                                          (CO:conj-c:e:::co-acc: e)
+                                          (CJT:np 
+                                            (H:n:ferimento:M_P::np-idf: ferimentos)
+                                            (N<:adjp 
+                                              (>A:adv:muito:::quant: muito)
+                                              (H:adj:grave:M_P::: graves)))))))
+                                  (»)))
+                        (.)))

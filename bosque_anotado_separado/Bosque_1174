@@ -1,0 +1,28 @@
+(FRASE CP217-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:troca:F_S::np-def: troca)
+                                 (N<ARGO:pp 
+                                   (H:prp:de:: de)
+                                   (P<:np 
+                                     (H:n:palavra:F_P::np-idf: palavras)
+                                     (N<:adjp 
+                                       (>A:adv:menos:::quant: menos)
+                                       (H:adj:agradável:F_P::: agradáveis)))))
+                        (P:vp (MV:v-fin:começar:PS_3S_IND::: começou))
+                        (ADVL:advp (H:adv:logo:::kc: logo)
+                                   (,)
+                                   (A<:advp 
+                                     (H:adv:antes:::: antes)
+                                     (A<arg:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:v-inf:arrancar:3P::: arrancarem)))
+                                   (,))
+                        (ADVL:pp (H:prp:por_causa_de:::: por_causa_de+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (>N:adj:curto:F_S::: curta)
+                                        (H:n:distância:F_S::anr_np-def: distância)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:n:viagem:F_S::np-def: viagem)))))
+                        (.)))

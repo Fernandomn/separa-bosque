@@ -1,0 +1,53 @@
+(FRASE CP685-3 (STA:fcl (SUBJ:np (>N:art:um:M_S::arti: Um)
+                                 (H:n:incêndio:M_S::np-idf: incêndio))
+                        (P:vp (MV:v-fin:destruir:PS_3S_IND: destruiu))
+                        (,)
+                        (ADVL:advp (H:adv:ontem:::: ontem)
+                                   (A<:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:tarde:F_S::np-def: tarde))))
+                        (,)
+                        (ACC:np (>N:num:quatro:F_P::card: quatro)
+                                (H:n:habitação:F_P::anr_np-count:anr_np-def: habitações)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:madeira:F_S::np-idf: madeira)))
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:bairro:M_S::np-def: bairro)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (>N:adj:pescador:M_P::: pescadores)
+                                             (H:n:avieiro:M_P::anr_np-idf: avieiros)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:prop:Vila_Franca_de_Xira:F_S::: Vila_Franca_de_Xira))))))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:desalojar:::: desalojando))
+                          (ACC:np (>N:art:um:M_S::arti: um)
+                                  (H:n:total:M_S::np-idf: total)
+                                  (N<:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:np 
+                                      (>N:num:dez:M_P::card: dez)
+                                      (H:n:morador:M_P::anr_np-count:anr_np-def: moradores)
+                                      (,)
+                                      (N<PRED:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:M_P::rel: que))
+                                        (ADVL:advp 
+                                          (H:adv:não:::: não))
+                                        (P:vp 
+                                          (MV:v-fin:sofrer:PS_3P_IND::fs-rel: sofreram))
+                                        (ACC:np 
+                                          (>N:pron-det:qualquer:M_P::quant: quaisquer)
+                                          (H:n:dano:M_P::anr_np-idf: danos)
+                                          (N<:adjp 
+                                            (H:adj:pessoal:M_P::: pessoais))))))))
+                        (.)))

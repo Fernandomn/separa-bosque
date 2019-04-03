@@ -1,0 +1,30 @@
+(FRASE CP332-2 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (>N:pron-det:seu:F_S::si: sua)
+                                        (H:n:actividade:F_S::anr_np-def: actividade)))
+                        (P:vp (MV:v-fin:tomar:PS_3S_IND::: tomou))
+                        (ACC:np (>N:num:um:M_S::card: um)
+                                (H:n:peso:M_S::anr_np-count:anr_np-def: peso)
+                                (N<:adjp 
+                                  (H:adj:importante:M_S::: importante)))
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:venda:F_S::np-def: venda)
+                                 (N<ARGO:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (H:n:produto:M_P::np-idf: produtos)
+                                     (N<:v-pcp:transformar:M_P::: transformados))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:linha:F_S::np-def: linha)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:estratégia:F_S::np-idf: estratégia)
+                                            (N<:fcl 
+                                              (ACC:np 
+                                                (H:pron-indp:que:F_S::rel: que))
+                                              (P:vp 
+                                                (MV:v-fin:fixar:PS_1P_IND::fs-rel:nosubj: fixámos)))))))
+                        (.)))

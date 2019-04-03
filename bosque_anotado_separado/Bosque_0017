@@ -1,0 +1,68 @@
+(FRASE CP3-5 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                               (H:prop:Audioman:M_S: Audioman))
+                      (X:cu (CJT:x::::predicate: 
+                              (P:vp (AUX:v-fin:ir:PS_3S_IND::: foi)
+                                    (MV:v-pcp:desenvolver:M_S::: desenvolvido))
+                              (ADVL:pp (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:prop:Suíça:F_S::: Suíça)))
+                              (ADVL:pp (H:prp:em:::: em)
+                                       (P<:np 
+                                         (>N:adjp 
+                                           (>A:adv:apenas:::: apenas)
+                                           (H:num:sete:M_P::card: sete))
+                                         (H:n:mês:M_P::anr_np-count:anr_np-def: meses))))
+                            (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                            (CJT:x::::predicate: 
+                              (P:vp (MV:v-fin:compor:PR_3S_IND::nosubj: compõe-))
+                              (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                              (X:cu (CJT:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (>N:art:um:M_S::arti: um)
+                                        (H:n:microfone:M_S::np-idf: microfone)))
+                                    (CO:conj-c:e:::co-advl: e)
+                                    (CJT:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (>N:art:um:M_S::arti: um)
+                                        (H:n:altifalante:M_S::np-idf: altifalante))))
+                              (X:fcl (SUBJ:np 
+                                       (H:pron-indp:que:M_S::rel: que))
+                                     (ACC-PASS:np 
+                                       (H:pron-pers:se:M_3P_ACC::refl: se))
+                                     (P:vp 
+                                       (AUX:v-fin:poder:PR_3P_IND::: podem)
+                                       (MV:v-inf:acoplar:_::fs-rel:se-passive: acoplar))
+                                     (ADVL:advp 
+                                       (H:adv:facilmente:::: facilmente))
+                                     (PIV:pp 
+                                       (H:prp:a:::: a)
+                                       (P<:np 
+                                         (>N:art:um:M_S::arti: um)
+                                         (H:n:computador:M_S::np-idf: computador))))))
+                      (,)
+                      (ADVL:icl::::ger: (P:vp 
+                                          (AUX:v-ger:dever:::: devendo)
+                                          (AUX:v-inf:ser:::: ser)
+                                          (MV:v-pcp:comercializar:M_S::anr_pass:nosubj:passive: comercializado))
+                                        (ADVL:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:preço:M_S::np-def: preço)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:np 
+                                                  (>N:num:290:M_P::card: 290)
+                                                  (H:n:franco:M_P::anr_np-count:anr_np-def: francos)
+                                                  (N<:adjp 
+                                                    (H:adj:suíço:M_P::: suíços)))
+                                                ({)
+                                                (N<PRED:np 
+                                                  (>N:num:28:M_P::: 28)
+                                                  (H:n:conto:M_P::anr_np-count:anr_np-def: contos))
+                                                (}))))))
+                      (.)))

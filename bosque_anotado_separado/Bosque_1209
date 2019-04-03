@@ -1,0 +1,38 @@
+(FRASE CP224-4 (STA:fcl (ADVL:pp (H:prp:segundo:: Segundo)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:comandante:M_S::np-def: comandante)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:prop:GNR:F_S::: GNR)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:prop:Cacém:M_S::: Cacém)))
+                                            (,)
+                                            (N<PRED:np 
+                                              (H:n:entidade:F_S::np-idf: entidade)
+                                              (N<:fcl 
+                                                (PIV:pp 
+                                                  (H:prp:a:::: a)
+                                                  (P<:np 
+                                                    (H:pron-indp:quem:F_S::rel: quem)))
+                                                (ADVL:advp 
+                                                  (H:adv:primeiro:::: primeiro))
+                                                (P:vp 
+                                                  (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                                  (MV:v-pcp:comunicar:F_S::anr_pass:fs-rel:passive: comunicada))
+                                                (SUBJ:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:ocorrência:F_S::np-def: ocorrência))))
+                                            (,)))))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:v-pcp:consumar:M_S::anr_pass:passive: consumado))
+                        (SUBJ:np (>N:pron-det:qualquer:M_S::quant: qualquer)
+                                 (H:n:acto:M_S::anr_np-idf: acto)
+                                 (N<:adjp 
+                                   (H:adj:violento:M_S::: violento)))
+                        (.)))

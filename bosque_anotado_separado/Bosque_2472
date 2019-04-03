@@ -1,0 +1,55 @@
+(FRASE CP467-8 (STA:fcl (ADVL:pp (H:prp:desde:: Desde)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:encerramento:M_S::np-def: encerramento)
+                                        (,)
+                                        (N<PRED:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:n:julho:M_S::np-idf:prop: Julho)))
+                                        (,)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:incineradora:F_S::np-def: incineradora)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:prop:Hospital_de_S.Marcos:M_S::: Hospital_de_S.Marcos)
+                                                (,)
+                                                (N<PRED:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:prop:Braga:MF_S::: Braga)))
+                                                (,)))))))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (ADVL:advp (H:adv:ali:::: ali))
+                        (P:vp (AUX:v-fin:ser:PR_3P_IND::: são)
+                              (MV:v-pcp:tratar:M_P::anr_pass:passive: tratados))
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:resíduo:M_P::np-def: resíduos)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (>N:pron-det:todo_o:F_P::quant: todas_as)
+                                          (H:n:unidade:F_P::anr_np-def: unidades)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:saúde:F_S::np-idf: saúde)))
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:distrito:M_S::np-def: distrito))))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (AUX:v-ger:estar:::: estando)
+                                (PRT-AUX:prp:a:::: a)
+                                (MV:v-inf:laborar:::: laborar))
+                          (ADVL:pp (H:prp:perto_de:::: perto_de+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (>N:pron-det:seu:M_S::si: seu)
+                                     (H:n:limite:M_S::anr_np-idf: limite))))
+                        (.)))

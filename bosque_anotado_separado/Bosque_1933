@@ -1,0 +1,96 @@
+(FRASE CP369-2 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:factor:M_P::np-def: factores)
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:M_P::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:contribuir:PS_3P_IND::fs-rel: contribuíram))
+                                   (ADVL:advp 
+                                     (H:adv:fortemente:: fortemente))
+                                   (PIV:pp 
+                                     (H:prp:para:::: para)
+                                     (P<:np 
+                                       (>N:pron-det:este:M_S::dem: este)
+                                       (H:n:movimento:M_S::np-def: movimento)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:correcção:F_S::np-idf: correcção)))))))
+                        (P:vp (MV:v-fin:ser:PS_3P_IND::: foram))
+                        (,)
+                        (SC:cu (CJT:np (>N:pp:por_um_lado:::: por_um_lado)
+                                       (,)
+                                       (H:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:receio:M_P::np-def: receios)
+                                         (N<ARGO:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:intervenção:F_P::np-idf: intervenções)
+                                             (N<:pp 
+                                               (H:prp:por_parte_de:::: por_parte_de+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:prop:Reserva_Federal:F_S::: Reserva_Federal)))))
+                                         (N<:icl::::ger: 
+                                           (P:vp 
+                                             (MV:v-ger:travar:::: travando))
+                                           (ACC:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (>N:adj:rápido:F_S::: rápida)
+                                             (H:n:apreciação:F_S::anr_np-def: apreciação)
+                                             (N<ARGO:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:n:paridade:F_S::np-def: paridade)
+                                                 (N<:cu 
+                                                   (CJT:np 
+                                                     (H:n:dólar:M_S::np-idf: dólar))
+                                                   (/)
+                                                   (CJT:np 
+                                                     (H:n:iene:M_S::np-idf: iene)))))))))
+                               (CO:conj-c:e:::co-sc: e)
+                               (,)
+                               (CJT:np (>N:pp:por_outro_lado:::: por_outro_lado)
+                                       (,)
+                                       (H:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:facto:M_S::np-def: facto)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:icl 
+                                             (SUBJ:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:prop:Bundesbank:M_S::: Bundesbank))
+                                             (P:vp 
+                                               (AUX:v-inf:ter:3S::: ter)
+                                               (MV:v-pcp:deixar:::: deixado))
+                                             (ADVL:advp 
+                                               (H:adv:uma_vez_mais:::: uma_vez_mais))
+                                             (ACC:np 
+                                               (>N:art:o:F_P::artd: as)
+                                               (H:n:taxa:F_P::np-def: taxas)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:cu 
+                                                   (CJT:np 
+                                                     (H:n:desconto:M_S::np-idf: desconto))
+                                                   (CO:conj-c:e:::co-prparg: e)
+                                                   (CJT:n-adj:lombardo:F_S::: lombarda))))
+                                             (OC:adjp 
+                                               (H:adj:inalterado:F_P::: inalteradas))
+                                             (ADVL:pp 
+                                               (>P:adv:respectivamente:::: respectivamente)
+                                               (H:prp:em:::: em+)
+                                               (P<:cu 
+                                                 (CJT:np 
+                                                   (>N:art:o:M_P::artd: os)
+                                                   (>N:num:5.75:M_P::card: 5.75)
+                                                   (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                                   (.))
+                                                 (CO:conj-c:e:::co-prparg: e)
+                                                 (CJT:np 
+                                                   (>N:num:6.75:M_P::card: 6.75)
+                                                   (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))))))))
+                        (.)))

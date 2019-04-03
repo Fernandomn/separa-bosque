@@ -1,0 +1,34 @@
+(FRASE CP123-7 (STA:fcl (ADVL:pp (H:prp:no_caso_de:: No_caso_de)
+                                 (P<:np (H:prop:Rossy_de_Palma:F_S::: Rossy_de_Palma)))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                 (H:n:coisa:F_S::anr_np-def: coisa)
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:F_S::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:mostrar:PS_3S_IND::fs-rel: mostrou))
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:cinema:M_S::np-def: cinema)))))
+                        (P:vp (MV:v-fin:ir:PS_3S_IND::: foi))
+                        (SC:np (>N:adv:mesmo:::quant: mesmo)
+                               (>N:art:o:M_S::artd: o)
+                               (H:n:perfil:M_S::np-def: perfil)
+                               (,)
+                               (N<PRED:adjp 
+                                 (H:cu (CJT:adjp 
+                                         (H:adj:ameaçador:M_S::: ameaçador))
+                                       (CO:conj-c:e:::co-sc: e)
+                                       (CJT:v-pcp:desregrar:M_S::: desregrado))
+                                 (A<:acl 
+                                   (COM:adv:como:::: como)
+                                   (SC:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:pintura:F_S::np-idf: pintura)
+                                     (N<:adjp 
+                                       (H:adj:cubista:F_S::: cubista))))))
+                        (.)))

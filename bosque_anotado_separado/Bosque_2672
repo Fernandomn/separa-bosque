@@ -1,0 +1,25 @@
+(FRASE CP508-5 (STA:cu (CJT:fcl (P:vp (MV:v-fin:decretar:PS_3P_IND::nosubj: Decretaram))
+                                (ACC:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:greve:F_S::np-idf: greve)))
+                       (,)
+                       (CJT:fcl (P:vp (MV:v-fin:ocupar:PR_3P_IND::nosubj: ocupam))
+                                (ACC:np (>N:num:três:F_P::card: três)
+                                        (H:n:faculdade:F_P::anr_np-count:anr_np-def: faculdades)))
+                       (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                       (CJT:fcl (P:vp (MV:v-fin:prometer:PR_3P_IND::nosubj: prometem))
+                                (ACC:icl 
+                                  (P:vp (MV:v-inf:resistir:icl-subst: resistir))
+                                  (ADVL:pp 
+                                    (H:prp:até:::: até)
+                                    (P<:pp 
+                                      (H:prp:a:::: a+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:satisfação:F_S::np-def: satisfação)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (>N:pron-det:seu:F_P::: suas)
+                                            (H:n:exigência:F_P::anr_np-def: exigências))))))))
+                       (.)))

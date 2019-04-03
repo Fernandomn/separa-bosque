@@ -1,0 +1,82 @@
+(FRASE CP863-2 (STA:fcl (ADVL:pp (H:prp:com:: Com)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:finalidade:F_S::np-def: finalidade)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:icl 
+                                            (P:vp 
+                                              (MV:v-inf:estabilizar:::: estabilizar))
+                                            (ACC:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:mercado:M_S::np-def: mercado))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:prop:Banco_de_Portugal:M_S::: Banco_de_Portugal))
+                        (P:vp (MV:v-fin:anunciar:PS_3S_IND::: anunciou))
+                        (ADVL:pp (H:prp:a:::: a)
+                                 (P<:np (H:n:meio:M_S::: meio)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:manhã:F_S::np-def: manhã)))))
+                        (ACC:np (>N:art:um:F_S::arti: uma)
+                                (H:n:intervenção:F_S::np-idf: intervenção)
+                                (N<:adjp 
+                                  (H:adj:ocasional:F_S::: ocasional))
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:cedência:F_S::np-idf: cedência)
+                                         (N<ARGO:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:fundo:M_P::np-idf: fundos)))
+                                         (N<:pp 
+                                           (H:prp:até:::: até)
+                                           (P<:pp 
+                                             (H:prp:a:::: a+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:montante:M_S::np-def: montante)
+                                               (N<ARG:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (>N:num:150:M_P::card: 150)
+                                                   (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                                   (N<ARG:pp 
+                                                     (H:prp:de:::: de)
+                                                     (P<:np 
+                                                       (H:n:conto:M_P::np-dequant:np-idf: contos))))))))))
+                                (,)
+                                (N<PRED:pp 
+                                  (H:prp:mediante:::: mediante)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:colocação:F_S::np-def: colocação)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:cu 
+                                          (CJT:np 
+                                            (H:prop:BT:MF_S::: BT))
+                                          (/)
+                                          (CJT:np 
+                                            (H:prop:TIM:MF_S::: TIM)))
+                                        (N<:cu 
+                                          (CJT:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:np 
+                                              (>N:num:um:M_S::card: um)
+                                              (H:n:dia:M_S::anr_np-count:anr_np-def: dia)))
+                                          (CO:conj-c:e:::co-postnom: e)
+                                          (CJT:pp 
+                                            (H:prp:a:::: a+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:taxa:F_S::np-def: taxa)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (>N:num:11,75:M_P::card: 11,75)
+                                                  (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))))))))))
+                        (.)))

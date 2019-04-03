@@ -1,0 +1,67 @@
+(FRASE CP476-4 (STA:fcl (SUBJ:np (>N:pron-det:este:M_S::dem: Este)
+                                 (H:n:manifesto:M_S::np-def: manifesto))
+                        (P:vp (AUX:v-fin:ser:FUT_3S_IND: será)
+                              (MV:v-pcp:publicar:M_S::anr_pass:passive: publicado))
+                        (ADVL:advp (H:adv:na_íntegra:::: na_íntegra))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:n:jornal:M_P::np-def: jornais)))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (AUX:v-ger:ser:::: sendo)
+                                (MV:v-pcp:acompanhar:M_S::anr_pass:passive: acompanhado))
+                          (PASS:pp (H:prp:por:::: por)
+                                   (P<:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:ficha:F_S::np-idf: ficha)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:inscrição:F_S::np-idf: inscrição)))
+                                     (N<:pp 
+                                       (H:prp:para:::: para)
+                                       (P<:icl 
+                                         (P:vp 
+                                           (MV:v-inf:participar:::icl-fin: participar))
+                                         (PIV:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:trabalho:M_P::np-def: trabalhos)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:congresso:M_S::np-def: congresso)))
+                                             (N<:fcl 
+                                               (SUBJ:np 
+                                                 (H:pron-indp:que:M_P::rel: que))
+                                               (P:vp 
+                                                 (MV:v-fin:decorrer:FUT_3P_IND::fs-rel: decorrerão))
+                                               (ADVL:pp 
+                                                 (H:prp:em:::: em+)
+                                                 (P<:np 
+                                                   (>N:art:o:M_S::artd: o)
+                                                   (H:n:pavilhão:M_S::np-def: pavilhão)
+                                                   (N<:pp 
+                                                     (H:prp:de:::: de+)
+                                                     (P<:np 
+                                                       (>N:art:o:F_S::artd: a)
+                                                       (H:prop:FIL:F_S::: FIL)))))
+                                               (,)
+                                               (ADVL:cu 
+                                                 (PCJT:pp 
+                                                   (H:prp:de:::: de)
+                                                   (P<:adjp::::date: 
+                                                     (H:num:8:M_S::: 8)))
+                                                 (PCJT:pp 
+                                                   (H:prp:a:::: a)
+                                                   (P<:adjp 
+                                                     (H:num:10:M_S::: 10)
+                                                     (A<:pp 
+                                                       (H:prp:de:::: de)
+                                                       (P<:np 
+                                                         (H:n:maio:M_S::np-idf:prop: Maio)
+                                                         (N<:adjp 
+                                                           (H:adj:próximo:M_S::: próximo)))))))))))))))
+                        (.)))

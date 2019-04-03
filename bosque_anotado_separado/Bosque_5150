@@ -1,0 +1,32 @@
+(FRASE CP1003-9 (STA:fcl (CO:conj-c:mas:: mas)
+                         (SUBJ:np (>N:art:o:F_S::artd: a)
+                                  (H:n:coluna:F_S::np-def: coluna))
+                         (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                         (TOP:np (H:pron-pers:ele:F_3S_NOM::: ela)
+                                 (N<:np (H:pron-det:próprio:F_S::ident: própria)))
+                         (SC:np (>N:art:um:F_S::arti: uma)
+                                (H:n:metáfora:F_S::np-idf: metáfora)
+                                (N<:cu (CJT:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:corpo:M_S::np-def: corpo)
+                                           (N<:fcl 
+                                             (SUBJ:np 
+                                               (H:pron-indp:que:M_S::rel: que))
+                                             (P:vp 
+                                               (MV:v-fin:sustentar:PR_3S_IND::fs-rel: sustenta)))))
+                                       (,)
+                                       (CJT:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:força:F_S::np-def: força)
+                                           (N<:fcl 
+                                             (SUBJ:np 
+                                               (H:pron-indp:que:F_S::rel: que))
+                                             (ACC:np 
+                                               (H:pron-indp:tudo:M_S::quant: tudo))
+                                             (P:vp 
+                                               (MV:v-fin:suportar:PR_3S_IND::fs-rel: suporta)))))))
+                         (.)))

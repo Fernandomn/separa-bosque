@@ -1,0 +1,61 @@
+(FRASE CP462-3 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:dirigente:M_P::np-def: dirigentes)
+                                 (N<:adjp 
+                                   (H:adj:turco:M_P: turcos))
+                                 (N<:cu (CJT:np 
+                                          (H:prop:Mesut_Yilmaz:M_S::: Mesut_Yilmaz)
+                                          ({)
+                                          (N<PRED:np 
+                                            (H:prop:ANAP:MF_S::: ANAP)
+                                            (,)
+                                            (N<PRED:np 
+                                              (H:n:direita:F_S::np-idf: direita)))
+                                          (}))
+                                        (CO:conj-c:e:::co-postnom: e)
+                                        (CJT:np 
+                                          (H:prop:Necmettin_Erbakan:M_S::: Necmettin_Erbakan)
+                                          ({)
+                                          (N<PRED:np 
+                                            (H:prop:Refah:MF_S::: Refah)
+                                            (,)
+                                            (N<PRED:adjp 
+                                              (H:adj:islamista:M_S::: islamista)))
+                                          (}))))
+                        (P:vp (MV:v-fin:iniciar:PS_3P_IND::: iniciaram))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:processo:M_S::np-def: processo)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:formação:F_S::np-idf: formação)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (>N:art:um:M_S::arti: um)
+                                             (H:prop:Governo:M_S::: Governo))))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:decidir:::: decidindo))
+                          (ACC:icl (P:vp 
+                                     (MV:v-inf:criar:::icl-subst: criar))
+                                   (ACC:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:comissão:F_S::np-idf: comissão)
+                                     (N<:icl::::pcp: 
+                                       (P:vp 
+                                         (MV:v-pcp:encarregar:M_S::: encarregue))
+                                       (PIV:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:icl 
+                                           (P:vp 
+                                             (MV:v-inf:repartir:::: repartir))
+                                           (ACC:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:ministério:M_P::np-def: ministérios))
+                                           (ADVL:pp 
+                                             (H:prp:entre:::: entre)
+                                             (P<:np 
+                                               (>N:art:o:M_P::artd: os)
+                                               (>N:num:dois:M_P::card: dois)
+                                               (H:n:partido:M_P::anr_np-count:anr_np-def: partidos)))))))))
+                        (.)))

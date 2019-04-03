@@ -1,0 +1,78 @@
+(FRASE CP132-7 (STA:fcl (ADVL:np (>N:num:cinco:M_P::card: Cinco)
+                                 (H:n:mês:M_P::anr_np-count:anr_np-def: meses)
+                                 (N<:advp 
+                                   (>A:adv:mais:: mais)
+                                   (H:adv:tarde:::: tarde)))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:imagem:F_S::np-def: imagem)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:icl::::ger: 
+                                          (SUBJ:np- 
+                                            (>N:art:um:F_S::arti: uma)
+                                            (H:n:mulher:F_S::np-idf: mulher))
+                                          (P:vp 
+                                            (MV:v-ger:chorar:::: chorando))
+                                          (ACC:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:perda:F_S::np-def: perda)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (>N:pron-det:seu:M_P::: seus)
+                                                (>N:num:oito:M_P::card: oito)
+                                                (H:n:filho:M_P::anr_np-count:anr_np-def: filhos))))
+                                          (-SUBJ:np 
+                                            (,)
+                                            (N<PRED:icl::::pcp: 
+                                              (P:vp 
+                                                (MV:v-pcp:baptizar:F_S::: baptizada))
+                                              (ADVL:acl 
+                                                (PRD:adv:como:::: como)
+                                                («)
+                                                (SUBJ:np 
+                                                  (H:n:pietà:F_S::np-idf: pietà)
+                                                  (N<:adjp 
+                                                    (H:adj:argelino:F_S::: argelina)))
+                                                (»)))))))
+                        (,)
+                        (P:vp (AUX:v-fin:voltar:IMPF_3S_IND::: voltava)
+                              (PRT-AUX:prp:a:::: a)
+                              (AUX:v-inf:ser:::: ser)
+                              (MV:v-pcp:imprimir:F_S::anr_pass:passive: impressa))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:desta_feita:::: desta_feita))
+                                  (SUB:conj-s:porque:::: porque)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (>N:pron-det:seu:M_S::: seu)
+                                    (H:n:autor:M_S::anr_np-def: autor)
+                                    (,)
+                                    (N<PRED:icl::::pcp: 
+                                      (P:vp 
+                                        (MV:v-pcp:esconder:M_S::: escondido))
+                                      (ADVL:pp 
+                                        (H:prp:atrás_de:::: atrás_de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:pseudónimo:M_S::np-def: pseudónimo)
+                                          (N<:np 
+                                            (H:prop:Hocine:M_S::: Hocine))))
+                                      (ADVL:pp 
+                                        (H:prp:por:::: por)
+                                        (P<:np 
+                                          (H:n:razão:F_P::np-idf: razões)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:segurança:F_S::np-idf: segurança))))))
+                                    (,))
+                                  (P:vp (MV:v-fin:receber:IMPF_3S_IND::fs-cause: recebia))
+                                  (ACC:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:prop:Prémio_World_Press_Photo:M_S::: Prémio_World_Press_Photo)
+                                    (N<:adjp 
+                                      (H:num:1997:M_S::card: 1997))))
+                        (.)))

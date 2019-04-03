@@ -1,0 +1,33 @@
+(FRASE CP644-3 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:russo:M_P::np-def: russos))
+                        (P:vp (MV:v-fin:preferir:PR_3P_IND: preferem))
+                        (ADVL:advp (H:adv:agora:::kc: agora))
+                        (ACC:icl (P:vp (MV:v-inf:passar:::icl-subst: passar))
+                                 (ACC:np 
+                                   (H:n:hora:F_P::np-idf: horas))
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em+)
+                                   (P<:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:fila:F_S::np-idf: fila)))
+                                 (ADVL:pp 
+                                   (H:prp:para:::: para)
+                                   (P<:np 
+                                     (>N:art:um:M_S::arti: um)
+                                     (H:n:símbolo:M_S::np-idf: símbolo)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:capitalismo:M_S::np-def: capitalismo)))
+                                     (;)
+                                     (APP:cu 
+                                       (CJT:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:prop:McDonald\:M_S::: McDonald's))
+                                       (CO:conj-c:e:::co-app: e)
+                                       (CJT:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (>N:pron-det:seu:M_P::: seus)
+                                         (H:n:hamburger:M_P::anr_np-def: hamburgers))))))
+                        (.)))

@@ -1,0 +1,47 @@
+(FRASE CP97-2 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                (P<:np (>N:art:um:F_S::arti: uma)
+                                       (H:n:freguesia:F_S::np-idf: freguesia)
+                                       (N<:adjp 
+                                         (H:adj:rural:F_S::: rural))
+                                       (N<:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:P::artd: as)
+                                           (H:n:porta:F_P::np-def: portas)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:S::artd: a)
+                                               (H:n:cidade:F_S::np-def: cidade)))))
+                                       (,)
+                                       (APP:np 
+                                         (H:prop:Vildemoinhos:MF_S::: Vildemoinhos))
+                                       (,)))
+                       (X:cu (CJT:v-fin:nascer:PS_3S_IND::: nasceu)
+                             (CO:conj-c:e:::co-vfin: e)
+                             (CJT:x::::predicate: 
+                               (P:vp (MV:v-fin:fazer:PS_3S_IND::nosubj: fez))
+                               (ACC:np (>N:art:o:F_P::artd: as)
+                                       (>N:adj:primeiro:F_P::NUM-ord: primeiras)
+                                       (H:n:corrida:F_P::anr_np-def: corridas))))
+                       (SUBJ:np (H:pron-det:aquele:M_S::dem: aquele)
+                                (N<:fcl (SUBJ:np 
+                                          (H:pron-indp:que:M_S::rel: que))
+                                        (P:vp 
+                                          (AUX:v-fin:vir:PR_3S_COND::: viria)
+                                          (PRT-AUX:prp:a:::: a)
+                                          (MV:v-inf:ganhar:::fs-rel: ganhar))
+                                        (ACC:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:maratona:F_S::np-def: maratona)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:prop:Los_Angeles:M_S::: Los_Angeles)))
+                                          (N</ADVL[-1]:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:adjp 
+                                              (H:num:1984:M_S::card: 1984)))))
+                                (;)
+                                (APP:np (H:prop:Carlos_Lopes:M_S::: Carlos_Lopes)))
+                       (.)))

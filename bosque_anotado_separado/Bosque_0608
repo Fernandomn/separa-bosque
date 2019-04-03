@@ -1,0 +1,45 @@
+(FRASE CP120-2 (UTT:sq (UTT:np (H:prop:Alverca:M_S: Alverca))
+                       (--)
+                       (STA:fcl (ADVL:pp 
+                                  (H:prp:sem:::: Sem)
+                                  (P<:np 
+                                    (H:n:meia_dúzia:F_S::np-idf: meia_dúzia)
+                                    (N<ARG:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:jogador:M_P::np-dequant:np-idf: jogadores)))
+                                    ({)
+                                    (APP:np 
+                                      (>N:pron-det:o:M_P::artd: os)
+                                      (H:icl::::pcp: 
+                                        (P:vp 
+                                          (MV:v-pcp:emprestar:M_P::: emprestados))
+                                        (PASS:pp 
+                                          (H:prp:por:::: por+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Benfica:M_S::: Benfica)))))
+                                    (})))
+                                (,)
+                                (SUBJ:np 
+                                  (>N:art:o:M_S::artd: o)
+                                  (>N:v-pcp:recém-promover:M_S::: recém-promovido)
+                                  (H:prop:Alverca:M_S::: Alverca))
+                                (P:vp (MV:v-fin:ganhar:PS_3S_IND::: ganhou))
+                                (X:cu (CJT:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (>N:pron-det:seu:M_S::si: seu)
+                                        (>N:adj:primeiro:M_S::NUM-ord: primeiro)
+                                        (H:n:ponto:M_S::anr_np-def: ponto)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:n:época:F_S::np-def: época))))
+                                      (CO:conj-c:e:::: e)
+                                      (CJT:pp 
+                                        (>P:adv:logo:::: logo)
+                                        (H:prp:fora_de:::: fora_de)
+                                        (P<:np 
+                                          (H:n:casa:F_S::np-idf: casa))))
+                                (.))))

@@ -1,0 +1,33 @@
+(FRASE CP544-3 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:apostador:M_P::np-def: apostadores))
+                        (X:cu (CJT:x::predicate: 
+                                (P:vp (AUX:v-fin:ter:PR_3P_COND::: teriam)
+                                      (PRT-AUX:prp:de:::: de)
+                                      (MV:v-inf:abrir:::: abrir))
+                                (ACC:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:conta:F_S::np-idf: conta)))
+                              (CO:conj-c:e:::co-inf: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-inf:depositar:3S::: depositar))
+                                (ADVL:advp 
+                                  (H:adv:aí:::kc: aí))
+                                (ACC:pp (H:prp:entre:::: entre)
+                                        (P<:np 
+                                          (>N:cu 
+                                            (CJT:np 
+                                              (H:num:1000:M_P::card: 1000))
+                                            (CO:conj-c:e:::co-prenom: e)
+                                            (CJT:np 
+                                              (H:num:5000:M_P::card: 5000)))
+                                          (H:n:dólar:M_P::anr_np-count:anr_np-def: dólares)
+                                          ({)
+                                          (N<PRED:cu 
+                                            (PCJT:adjp 
+                                              (H:num:185:M_P::card: 185))
+                                            (PCJT:pp 
+                                              (H:prp:a:::: a)
+                                              (P<:np 
+                                                (>N:num:925:M_P::card: 925)
+                                                (H:n:conto:M_P::anr_np-count:anr_np-def: contos))))
+                                          (})))))
+                        (.)))

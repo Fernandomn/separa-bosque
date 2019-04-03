@@ -1,0 +1,86 @@
+(FRASE CP684-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:investimento:M_S::np-def: investimento)
+                                 (N<:adjp 
+                                   (H:adj:directo:M_S: directo))
+                                 (N<:adjp 
+                                   (H:adj:português:M_S::anr_np-idf: português))
+                                 (N<:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:estrangeiro:M_S::np-def: estrangeiro))))
+                        (P:vp (MV:v-fin:elevar:PS_3S_IND::hyfen:se-passive: elevou-))
+                        (ACC-PASS:np (H:pron-pers:se:M_3S_ACC::: se))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:período:M_S::np-def: período)
+                                        (N<:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:n:análise:F_S::np-idf: análise)))))
+                        (SA:pp (H:prp:a:::: a)
+                               (P<:np (>N:num:482:M_P::card: 482)
+                                      (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                      (N<ARG:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:dólar:M_P::np-dequant:np-idf: dólares)))))
+                        (,)
+                        (S<:cu (CJT:fcl (SUBJ:np 
+                                          (H:pron-indp:o_que:M_S::rel: o_que))
+                                        (P:vp 
+                                          (MV:v-fin:ser:PR_3S_IND::: é))
+                                        (SC:np 
+                                          (>N:adjp- 
+                                            (>A:adv:mais:_::KOMP:quant: mais)
+                                            (H:num:48,31:M_P::card: 48,31))
+                                          (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                          (->N:adjp 
+                                            (KOMP<:acl 
+                                              (COM:conj-s:do_que:::: do_que)
+                                              (SC:np 
+                                                (H:pron-det:o:M_S::dem: o)
+                                                (N<:icl::::pcp: 
+                                                  (P:vp 
+                                                    (MV:v-pcp:verificar:M_S::: verificado))
+                                                  (ADVL:pp 
+                                                    (H:prp:em:::: em+)
+                                                    (P<:np 
+                                                      (>N:art:o:M_S::artd: o)
+                                                      (H:n:período:M_S::np-def: período)
+                                                      (N<:adjp 
+                                                        (H:adj:homólogo:M_S::: homólogo))
+                                                      (N<:pp 
+                                                        (H:prp:de:::: de+)
+                                                        (P<:np 
+                                                          (>N:art:o:M_S::artd: o)
+                                                          (H:n:ano:M_S::np-def: ano)
+                                                          (N<:pp 
+                                                            (H:prp:de:::: de)
+                                                            (P<:adjp 
+                                                              (H:num:1991:M_S::card: 1991)))))))))))))
+                               (,)
+                               (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                               (CJT:fcl (ACC:np 
+                                          (H:pron-indp:que:M_S::rel: que))
+                                        (SUBJ:np 
+                                          (H:pron-pers:se:MF_3SP_ACC::: se))
+                                        (P:vp 
+                                          (MV:v-fin:explicar:PR_3S_IND::: explica))
+                                        (ADVL:pp:em_grande_parte:::: em_grande_parte)
+                                        (ADVL:pp 
+                                          (H:prp:por:::: por+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:aumento:M_S::np-def: aumento)
+                                            (N<ARGS:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:investimento:M_S::np-def: investimento)
+                                                (N<:adjp 
+                                                  (H:adj:industrial:M_S::: industrial))
+                                                (N<:pp 
+                                                  (H:prp:em:::: em)
+                                                  (P<:np 
+                                                    (H:prop:Espanha:F_S::: Espanha)))))))))
+                        (.)))

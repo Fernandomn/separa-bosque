@@ -1,0 +1,25 @@
+(FRASE CP825-3 (STA:fcl (SUBJ:pp (H:prp:entre:: Entre)
+                                 (P<:x (H:cu 
+                                         (CJT:np 
+                                           (H:n:metade:F_S::np-idf:numfract: metade))
+                                         (CO:conj-c:e:::co-prparg: e)
+                                         (CJT:adjp 
+                                           (>A:art:um:M_S::arti: um)
+                                           (H:n-adj:quarto:M_S::NUM-ord: quarto)))
+                                       (X:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:n:estudante:M_P::np-def: estudantes)
+                                           (N<:adjp 
+                                             (H:adj:católico:M_P::: católicos))))))
+                        (P:vp (MV:v-fin:acreditar:PR_3P_IND::: acreditam))
+                        (PIV:cu (CJT:pp (H:prp:em:::: em)
+                                        (P<:np 
+                                          (H:prop:Deus:M_S::: Deus)))
+                                (CO:conj-c:mas:::co-piv: mas)
+                                (CJT:pp (>P:adv:não:::: não)
+                                        (H:prp:em:::: em)
+                                        (P<:np 
+                                          (H:prop:Cristo:M_S::: Cristo))))
+                        (.)))

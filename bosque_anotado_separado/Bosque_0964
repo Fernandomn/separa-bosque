@@ -1,0 +1,51 @@
+(FRASE CP180-4 (STA:fcl (ADVL:pp (H:prp:desde:: Desde)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:manual:M_S::np-def: manual)
+                                        ({)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_S::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:ser:PR_3S_IND::fs-rel: é))
+                                          (SC:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:pron-det:mesmo:M_S::diff:np-def: mesmo))
+                                          (ADVL:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (>N:num:dois:M_P::card: dois)
+                                              (H:n:produto:M_P::anr_np-count:anr_np-def: produtos))))
+                                        (})
+                                        (N<:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:formato:M_S::np-def: formato)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:ficheiro:M_P::np-idf: ficheiros)))))))
+                        (,)
+                        (SUBJ:np (H:pron-indp:tudo:M_S::quant: tudo))
+                        (P:vp (AUX:v-fin:dever:FUT_3S_IND::: deverá)
+                              (MV:v-inf:contribuir:::: contribuir))
+                        (PIV:pp (H:prp:para:::: para)
+                                (P<:fcl (SUB:conj-s:que:::: que)
+                                        (SUBJ:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:mudança:F_S::np-def: mudança)
+                                          (N<:pp 
+                                            (H:prp:entre:::: entre)
+                                            (P<:np 
+                                              (>N:pron-det:este:F_P::dem: estas)
+                                              (>N:num:dois:F_P::card: duas)
+                                              (H:n:plataforma:F_P::anr_np-count:anr_np-def: plataformas))))
+                                        (ADVL:advp 
+                                          (H:adv:não:::: não))
+                                        (P:vp 
+                                          (MV:v-fin:oferecer:PR_3S_SUBJ::fs-subst: ofereça))
+                                        (ACC:np 
+                                          (>N:pron-det:qualquer:M_S::quant: qualquer)
+                                          (H:n:problema:M_S::anr_np-idf: problema))))
+                        (.)))

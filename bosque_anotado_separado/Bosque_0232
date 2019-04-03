@@ -1,0 +1,79 @@
+(FRASE CP40-5 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                (H:n:fim:M_S::np-def: fim)
+                                (N<:pp (H:prp:de:: de+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:n:guerra:F_S::np-def: guerra)
+                                         (N<:adjp 
+                                           (H:adj:fria:F_S::: fria))))
+                                (,)
+                                (N<:pp (H:prp:com:::: com)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:implosão:F_S::np-def: implosão)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:S::artd: a)
+                                             (H:prop:URSS:F_S::: URSS))))))
+                       (P:vp (MV:v-fin:acabar:PS_3S_IND::: acabou))
+                       (PIV:pp (H:prp:com:::: com)
+                               (P<:np (>N:art:o:F_S::artd: a)
+                                      (H:n:importância:F_S::np-def: importância)
+                                      (N<:adjp 
+                                        (H:adj:helvético:F_S::: helvética))
+                                      (N<:pp 
+                                        (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:tabuleiro:M_S::np-def: tabuleiro)
+                                          (N<:adjp 
+                                            (H:adj:europeu:M_S::: europeu))))))
+                       (,)
+                       (ADVL:acl (ADVL:advp 
+                                   (H:adv:enquanto:::rel: enquanto))
+                                 (SUBJ:cu 
+                                   (CJT:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (>N:adj:recente:M_P::: recentes)
+                                     (H:n:escândalo:M_P::anr_np-def: escândalos)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:cumplicidade:F_S::np-idf: cumplicidade)
+                                         (N<:pp 
+                                           (H:prp:com:::: com)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:nazi:M_P::np-def: nazis))))))
+                                   (,)
+                                   (CO:advp 
+                                     (H:adv:mais:::quant: mais))
+                                   (CJT:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:roubo:M_S::np-def: roubo)
+                                     (N<ARGO:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:P::artd: as)
+                                         (H:n:economia:F_P::np-def: economias)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:judeu:M_P::np-def: judeus)))))
+                                     (N<:pp 
+                                       (H:prp:por:::: por+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (>N:pron-det:seu:M_P::: seus)
+                                         (H:n:banco:M_P::anr_np-def: bancos)))))
+                                 (DAT:np 
+                                   (H:pron-pers:ela:F_3S_DAT::: lhe))
+                                 (P:vp (MV:v-fin:tirar:PS_3P_IND::: tiraram))
+                                 (ACC:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:simpatia:F_S::np-def: simpatia)
+                                   (N<:adjp 
+                                     (H:adj:americano:F_S::: americana))))
+                       (.)))

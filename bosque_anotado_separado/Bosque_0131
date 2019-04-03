@@ -1,0 +1,64 @@
+(FRASE CP24-4 (STA:fcl (P:vp (MV:v-fin:registar:PR_3S_SUBJ::nosubj: Registe-))
+                       (VOC:np (H:pron-pers:se:MF_3SP_ACC: se))
+                       (ACC:fcl (SUB:conj-s:que:::: que)
+                                (SUBJ:np 
+                                  (>N:art:o:F_S::artd: a)
+                                  (H:n:terça-feira:F_S::np-def: terça-feira)
+                                  (N<:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:np 
+                                      (H:prop:Carnaval:M_S::: Carnaval))))
+                                (ADVL:advp 
+                                  (H:adv:não:::: não))
+                                (P:vp (MV:v-fin:ser:PR_3S_IND::fs-subst: é))
+                                (SC:np (>N:art:um:M_S::arti: um)
+                                       (H:n:feriado:M_S::np-idf: feriado)
+                                       (N<:cu 
+                                         (CJT:adjp 
+                                           (H:adj:legal:M_S::: legal))
+                                         (,)
+                                         (CO:conj-c:mas:::co-sc: mas)
+                                         (CJT:adjp 
+                                           (>A:adv:tão-só:::: tão-só)
+                                           («)
+                                           (H:adj:tradicional:F_S::: tradicional)
+                                           (»)))))
+                       (;)
+                       (S<:fcl (ADVL:advp 
+                                 (H:adv:ou_seja:::kc: ou_seja))
+                               (,)
+                               (ADVL:np (>N:pron-det:todo_o:M_P::quant: todos_os)
+                                        (H:n:ano:M_P::anr_np-def: anos))
+                               (SUBJ:np (>N:art:o:M_S::artd: o)
+                                        (H:n:primeiro-ministro:M_S::np-def: primeiro-ministro))
+                               (P:vp (AUX:v-fin:ter:PR_3S_IND::: tem)
+                                     (PRT-AUX:conj-s:que:::: que)
+                                     (MV:v-inf:produzir:::: produzir))
+                               (ACC:np (>N:art:um:M_S::arti: um)
+                                       (H:n:despacho:M_S::np-idf: despacho)
+                                       (,)
+                                       (N<PRED:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:publicar:M_S::: publicado))
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em)
+                                           («)
+                                           (P<:np 
+                                             (H:prop:Diário_da_República:M_S::: Diário_da_República))
+                                           (»)))
+                                       (,)
+                                       (N<:fcl 
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em)
+                                           (P<:np 
+                                             (H:pron-indp:que:M_S::rel: que)))
+                                         (P:vp 
+                                           (MV:v-fin:decretar:PR_3S_IND::fs-rel:nosubj: decreta))
+                                         (ACC:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:tolerância:F_S::np-def: tolerância)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:ponto:M_S::np-idf: ponto)))))))
+                       (.)))

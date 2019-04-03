@@ -1,0 +1,58 @@
+(FRASE CP209-8 (STA:fcl (ADVL:advp (H:adv:no_entanto:kc: No_entanto))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:deputado:M_S::np-def: deputado)
+                                 (N<:adjp 
+                                   (H:adj:popular:M_S::: popular)))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:acusar:PS_3S_IND::: acusou))
+                                («)
+                                (ACC:np (H:n:receio:M_P::np-idf: receios)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:bairrismo:M_P::np-idf: bairrismos)
+                                            (N<:v-pcp:exacerbar:M_P::: exacerbados))))
+                                (»))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (AUX:v-fin:acabar:PS_3S_IND::: acabou)
+                                      (PRT-AUX:prp:por:::: por)
+                                      (MV:v-inf:seguir:::nosubj: seguir))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:linha:F_S::np-def: linha)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:líder:M_S::np-def: líder)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:partido:M_S::np-def: partido))))))
+                                (,)
+                                (ADVL:pp 
+                                  (H:prp:a:::: a+)
+                                  (P<:icl 
+                                    (>N:art:o:M_S::artd: o)
+                                    (P:vp 
+                                      (MV:v-inf:rejeitar:::icl-temp: rejeitar))
+                                    (ACC:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:criação:F_S::np-def: criação)
+                                      (N<ARGO:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:região:F_P::np-idf: regiões)))
+                                      (N<:pp 
+                                        (H:prp:em_favor_de:::: em_favor_de)
+                                        (P<:np 
+                                          (>N:pron-det:muito:M_S::quant: mais)
+                                          (H:n:poder:M_S::anr_np-idf:anr_np-mass: poder)
+                                          (N<:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:np 
+                                              (>N:art:o:F_P::artd: as)
+                                              (H:n:autarquia:F_P::np-def: autarquias))))))))))
+                        (.)))

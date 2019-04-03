@@ -1,0 +1,30 @@
+(FRASE CP333-3 (STA:fcl (P:vp (MV:v-fin:recusar:PS_3S_IND::nosubj: Recusou))
+                        (,)
+                        (ADVL:advp (H:adv:contudo:kc: contudo))
+                        (,)
+                        (ACC:np (>N:art:o:F_P::artd: as)
+                                (H:n:proposta:F_P::np-def: propostas)
+                                (N<ARGS:pp 
+                                  (H:prp:de:::: de+)
+                                  (P<:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (H:n:governo:M_P::np-def: governos)
+                                    (N<:adjp 
+                                      (H:adj:estrangeiro:M_P::: estrangeiros))))
+                                (N<ARGO:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:icl 
+                                    (P:vp 
+                                      (MV:v-inf:enviar:::: enviar))
+                                    (PIV:pp 
+                                      (H:prp:para:::: para)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:país:M_S::np-def: país)))
+                                    (ACC:np 
+                                      (H:n:equipa:F_P::np-idf: equipas)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:especialista:MF_P::np-idf: especialistas)))))))
+                        (.)))

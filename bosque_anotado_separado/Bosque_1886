@@ -1,0 +1,63 @@
+(FRASE CP358-4 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (SUBJ:cu (CJT:np 
+                                   (>N:art:o:M_P::artd: os)
+                                   (H:n:agente:M_P::np-def: agentes)
+                                   (N<:adjp 
+                                     (H:adj:económico:M_P::: económicos)))
+                                 (CO:conj-c:e:::co-subj: e)
+                                 (CJT:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:mercado:M_S::np-def: mercado)))
+                        (P:vp (MV:v-fin:considerar:PR_3P_IND::: consideram))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (P:vp (MV:v-fin:haver:PR_3S_IND::fs-subst:nofsubj: há))
+                                 (ACC:np 
+                                   (>N:art:um:F_S::arti: uma)
+                                   (H:n:ligação:F_S::np-idf: ligação)
+                                   (N<:adjp 
+                                     (H:adj:inevitável:F_S::: inevitável))
+                                   (N<:pp 
+                                     (H:prp:entre:::: entre)
+                                     (P<:np 
+                                       (>N:art:o:F_P::artd: as)
+                                       (>N:num:dois:F_P::card: duas)
+                                       (H:n:moeda:F_P::anr_np-count:anr_np-def: moedas)))))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:enquanto:_::ks:rel: enquanto))
+                                  (SUBJ:cu 
+                                    (CJT:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:prop:Banco_de_Portugal:M_S::: Banco_de_Portugal))
+                                    (CO:conj-c:e:::co-subj: e)
+                                    (CJT:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:prop:Ministério_das_Finanças:M_S::: Ministério_das_Finanças)))
+                                  (P:vp (AUX:v-fin:ir:PR_3P_IND::: vão)
+                                        (MV:v-ger:reafirmar:::fs-temp: reafirmando))
+                                  (ACC:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:autonomia:F_S::np-def: autonomia)
+                                    (N<:adjp 
+                                      (H:adj:cambial:F_S::: cambial))
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:escudo:M_S::np-def: escudo))))
+                                  (,)
+                                  (ADVL:fcl 
+                                    (SUB:conj-s:embora:::: embora)
+                                    (ADVL:pp 
+                                      (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:prática:F_S::np-def: prática)))
+                                    (P:vp 
+                                      (MV:v-fin:seguir:PR_3P_SUBJ::fs-conc:nosubj: sigam))
+                                    (ADVL:advp 
+                                      (H:adv:parcialmente:::quant: parcialmente))
+                                    (ACC:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:peseta:F_S::np-def: peseta))))
+                        (.)))

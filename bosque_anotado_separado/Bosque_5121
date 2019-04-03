@@ -1,0 +1,28 @@
+(FRASE CP997-3 (STA:cu (CJT:np (>N:num:quatro:M_P::card: Quatro)
+                               (H:n:quarto:M_P::anr_np-count:anr_np-def: quartos)
+                               (,)
+                               (N<PRED:cu 
+                                 (CJT:adjp 
+                                   (H:adj:simples:M_P: simples)
+                                   (A<:pp 
+                                     (H:prp:por:::: por)
+                                     (P<:np 
+                                       (H:num:850000:M_P::card: 850000))))
+                                 (CO:conj-c:e:::co-postnom: e)
+                                 (CJT:adjp 
+                                   (H:adj:duplo:M_P::: duplos)
+                                   (A<:pp 
+                                     (H:prp:por:::: por)
+                                     (P<:adjp 
+                                       (H:num:980000:M_P::card: 980000))))))
+                       (;)
+                       (CJT:fcl (P:vp (MV:v-fin:servir:PR_3P_IND::nosubj: servem))
+                                (ACC:np (H:n:refeição:F_P::np-idf: refeições))
+                                (ADVL:icl::::pcp: 
+                                  (ADVL:advp 
+                                    (H:adv:quando:_::ks:rel: quando))
+                                  (P:vp (MV:v-pcp:solicitar:M_S::: solicitado))))
+                       (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                       (CJT:fcl (P:vp (MV:v-fin:admitir:PR_3P_IND::nosubj: admitem))
+                                (ACC:np (H:n:animal:M_P::np-idf: animais)))
+                       (.)))

@@ -1,0 +1,101 @@
+(FRASE CP890-2 (STA:fcl (PRED:cu (CJT:np 
+                                   (H:n:gestor:M_S::np-idf: Gestor)
+                                   (N<:adjp 
+                                     (H:adj:genial:M_S: genial)))
+                                 (,)
+                                 (CJT:np 
+                                   (H:n-adj:reformista:M_S::: reformista)
+                                   (N<:v-pcp:moderar:M_S::: moderado))
+                                 (CO:conj-c:e:::co-pred: e)
+                                 (CJT:np 
+                                   (H:n:autor:M_S::np-idf: autor)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:programa:M_S::np-def: programa)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:privatização:F_P::np-idf: privatizações)))
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Governo:M_S::: Governo)))))))
+                        (,)
+                        (SUBJ:np (H:prop:Chubais:M_S::: Chubais))
+                        (P:vp (MV:v-fin:ter:PR_3S_IND::: tem))
+                        (ADVL:pp (H:prp:a:::: a)
+                                 (P<:np (>N:pron-det:seu:M_S::si: seu)
+                                        (H:n:favor:M_S::anr_np-idf: favor)))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:apoio:M_S::np-def: apoio)
+                                (N<ARGS:cu 
+                                  (CJT:pp- 
+                                    (H:prp:de:::: de+)
+                                    (P<:np- 
+                                      (H:cu- 
+                                        (CJT:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:governo:M_P::np-def: governos)
+                                          (N<:adjp 
+                                            (H:adj:ocidental:M_P::: ocidentais)))
+                                        (CO:conj-c:e:::co-postnom: e))))
+                                  (CJT:pp 
+                                    (H:prp:de:::: de+))
+                                  (-CJT:pp 
+                                    (-P<:np- 
+                                      (-H:cu 
+                                        (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:FMI:M_S::: FMI)))
+                                      (,)
+                                      (N<PRED:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:M_P::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:tender:FUT_3P_IND::fs-rel: tenderão))
+                                        (PIV:pp 
+                                          (H:prp:a:::: a)
+                                          (P<:icl 
+                                            (P:vp 
+                                              (MV:v-inf:ver:::: ver))
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (H:pron-pers:ele:M_3S_NOM::: ele)))
+                                            (ACC:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:garante:M_S::nosubj: garante)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:continuidade:F_S::np-def: continuidade)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de+)
+                                                    (P<:np 
+                                                      (>N:art:o:F_S::artd: a)
+                                                      (H:n:política:F_S::np-def: política)
+                                                      (N<:pp 
+                                                        (H:prp:de:::: de+)
+                                                        (P<:np 
+                                                          (>N:art:o:F_P::artd: as)
+                                                          (H:n:reforma:F_P::np-def: reformas)))))))
+                                              (,)
+                                              (N<PRED:fcl 
+                                                (ADVL:advp 
+                                                  (H:adv:quando:::ks: quando))
+                                                (SUBJ:np 
+                                                  (H:prop:Ieltsin:M_S::: Ieltsin))
+                                                (ADVL:advp 
+                                                  (H:adv:já_não:::: já_não))
+                                                (P:vp 
+                                                  (AUX:v-fin:poder:FUT_3S_SUBJ::: puder)
+                                                  (MV:v-inf:impor:::fs-temp: impor))
+                                                (ACC:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (>N:pron-det:seu:F_S::: sua)
+                                                  (H:n:vontade:F_S::anr_np-def: vontade)))))))))))
+                        (.)))

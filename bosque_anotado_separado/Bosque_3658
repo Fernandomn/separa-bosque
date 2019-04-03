@@ -1,0 +1,33 @@
+(FRASE CP714-2 (STA:fcl (SUBJ:np (>N:adv:só:: Só)
+                                 (H:prop:Sampaio:M_S::: Sampaio))
+                        (P:vp- (AUX:v-fin:parecer:PR_3S_IND::: parece))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (-P:vp (MV:v-inf:ser:::: ser))
+                        (SC:adjp (>A:adv:muito:::quant: muito)
+                                 (H:adj:admirador:M_S::: admirador)
+                                 (A<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:estilo:M_S::np-def: estilo))))
+                        (,)
+                        (PRED:icl::::ger: 
+                          (P:vp (MV:v-ger:cultivar:::: cultivando))
+                          (ACC:np (>N:art:um:F_S::arti: uma)
+                                  (H:n:sobriedade:F_S::np-idf: sobriedade)
+                                  (N<:adjp 
+                                    (>A:adv:pouco:::quant: pouco)
+                                    (H:adj:compatível:F_S::: compatível)
+                                    (A<:pp 
+                                      (H:prp:com:::: com)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:espectáculo:M_S::np-def: espectáculo)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_S::rel: que))
+                                          (DAT:np 
+                                            (H:pron-pers:ele:M_3S_DAT::: lhe))
+                                          (P:vp 
+                                            (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                            (MV:v-pcp:preparar:M_S::anr_pass:fs-rel:passive: preparado))))))))
+                        (.)))

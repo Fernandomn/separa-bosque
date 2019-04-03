@@ -1,0 +1,27 @@
+(FRASE CP1003-13 (QUE:fcl (SUBJ:np (H:n:estátua:F_S::np-idf: Estátua)
+                                   ({)
+                                   (N<:fcl 
+                                     (SUB:conj-s:porque:: porque)
+                                     (P:vp 
+                                       (MV:v-fin:ser:PR_3S_IND::nosubj: é))
+                                     (SC:np 
+                                       (>N:art:um:M_S::arti: um)
+                                       (H:n:corpo:M_S::np-idf: corpo)))
+                                   (})
+                                   (,)
+                                   (N<:np 
+                                     (H:n:escultura:F_S::np-idf: escultura))
+                                   (,)
+                                   (N<PRED:np 
+                                     (H:n:organismo:M_S::np-idf: organismo)
+                                     (N<:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:M_S::rel: que))
+                                       (P:vp 
+                                         (MV:v-fin:viver:PR_3S_IND::fs-rel: vive)))))
+                          (,)
+                          (P:cu (CJT:vp (AUX:v-fin:ser:PR_3S_IND::: é)
+                                        (MV:v-pcp:ferir:M_S::nosubj: ferido))
+                                (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                (CJT:v-fin:morrer:PR_3S_IND::nosubj: morre))
+                          (?)))

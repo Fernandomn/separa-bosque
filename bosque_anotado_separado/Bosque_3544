@@ -1,0 +1,33 @@
+(FRASE CP687-4 (STA:fcl (;)
+                        (CO:conj-c:e:: e)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (>N:pron-det:seu:F_S::: sua)
+                                 (H:n:relevância:F_S::anr_np-def: relevância))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:adjp (>A:adv:tanto:_::KOMP:quant: tanto)
+                                 (H:adj:grande:F_S::KOMP: maior)
+                                 (KOMP<:fcl 
+                                   (ADVL:advp 
+                                     (H:adv:quanto:_::ks:quant:rel: quanto))
+                                   (SUBJ:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (>N:pron-det:seu:M_S::: seu)
+                                     (H:n:calendário:M_S::anr_np-def: calendário))
+                                   (ACC:np 
+                                     (H:pron-pers:ela:F_3S_ACC::: a))
+                                   (P:vp 
+                                     (MV:v-fin:tornar:PR_3S_IND::: torna))
+                                   (OC:np 
+                                     (>N:art:um:M_S::arti: um)
+                                     (H:n:barómetro:M_S::np-idf: barómetro)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:estação:F_S::np-def: estação)
+                                         (N<:fcl 
+                                           (ACC:np 
+                                             (H:pron-indp:que:F_S::rel: que))
+                                           (P:vp 
+                                             (MV:v-fin:antecipar:PR_3S_IND::fs-rel:nosubj: antecipa))))))))
+                        (.)))

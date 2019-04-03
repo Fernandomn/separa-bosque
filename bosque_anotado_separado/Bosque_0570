@@ -1,0 +1,36 @@
+(FRASE CP112-5 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (>N:adj:incrédulo:M_S: incrédulo)
+                                 (H:n:automobilista:M_S::anr_np-def: automobilista))
+                        (,)
+                        (ADVL:pp (H:prp:por:::: por)
+                                 (P<:icl 
+                                   (ADVL:advp 
+                                     (H:adv:não:::: não))
+                                   (P:vp 
+                                     (MV:v-inf:ter:::: ter))
+                                   (ACC:np 
+                                     (H:n:interlocutor:M_S::np-idf: interlocutor))))
+                        (,)
+                        (P:vp (MV:v-fin:achar:PS_3S_IND::: achou))
+                        (ADVL:pp (H:prp:por:::: por)
+                                 (P<:adv:bem:::quant: bem))
+                        (ACC:cu (CJT:icl 
+                                  (P:vp (MV:v-inf:chamar:::: chamar))
+                                  (ACC:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:polícia:F_S::np-def: polícia)))
+                                (CO:conj-c:e:::co-inf: e)
+                                (CJT:icl 
+                                  (P:vp (MV:v-inf:relatar:::: relatar-))
+                                  (DAT:np 
+                                    (H:pron-pers:ela:F_3S_DAT::: lhe))
+                                  (ACC:fcl 
+                                    (ADVL:advp 
+                                      (H:adv:como:_::ks:rel: como))
+                                    (SUBJ:np 
+                                      (H:pron-indp:tudo:M_S::quant: tudo))
+                                    (ACC:np 
+                                      (H:pron-pers:se:M_3S_ACC::: se))
+                                    (P:vp 
+                                      (MV:v-fin:passar:PS_3S_IND::fs-subst: passou)))))
+                        (.)))

@@ -1,0 +1,67 @@
+(FRASE CP368-8 (STA:fcl (SUBJ:np (H:n:problema:M_S::np-idf: Problema))
+                        (P:vp (MV:v-fin:ser:FUT_3S_IND: será))
+                        (SC:icl (P:vp (MV:v-inf:conseguir:::: conseguir))
+                                (ACC:icl 
+                                  (P:vp (MV:v-inf:fazer:::icl-subst: fazer))
+                                  (ACC:np 
+                                    (>N:art:um:F_S::arti: uma)
+                                    (H:prop:Serenata_Monumental:F_S::: Serenata_Monumental))
+                                  (ADVL:pp 
+                                    (H:prp:sem:::: sem)
+                                    (P<:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (H:n:fadista:M_P::np-def: fadistas)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:prop:Academia:F_S::: Academia)))
+                                      (,)
+                                      (N<PRED:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:M_P::rel: que))
+                                        (ADVL:advp 
+                                          (H:adv:entretanto:::kc: entretanto))
+                                        (P:vp 
+                                          (MV:v-fin:prometer:PR_3P_IND::fs-rel: prometem))
+                                        (ACC:icl 
+                                          (P:vp 
+                                            (MV:v-inf:fazer:::icl-subst: fazer))
+                                          (ACC:np 
+                                            (>N:art:um:F_S::arti: uma)
+                                            (H:n:serenata:F_S::np-idf: serenata)
+                                            (N<:adjp 
+                                              (H:adj:paralelo:F_S::: paralela)))
+                                          (,)
+                                          (ADVL:cu 
+                                            (CJT:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (>N:pron-det:mesmo:M_S::KOMP:diff: mesmo)
+                                                (H:n:dia:M_S::anr_np-def: dia)))
+                                            (CO:conj-c:e:::co-advl: e)
+                                            (CJT:pp 
+                                              (H:prp:a:::: a+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (>N:pron-det:mesmo:F_S::KOMP:diff: mesma)
+                                                (H:n:hora:F_S::anr_np-def: hora)))
+                                            (,)
+                                            (CO:conj-c:e:::co-advl: e)
+                                            (CJT:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (H:n:local:M_S::np-idf: local)
+                                                (N<:fcl 
+                                                  (ADVL:advp 
+                                                    (H:adv:onde:_::ks:rel: onde))
+                                                  (SUBJ:np 
+                                                    (>N:art:o:M_P::artd: os)
+                                                    (H:n:estudante:M_P::np-def: estudantes))
+                                                  (ADVL:advp 
+                                                    (H:adv:não:::: não))
+                                                  (P:vp 
+                                                    (AUX:v-fin:poder:FUT_3P_IND::: poderão)
+                                                    (MV:v-inf:ignorar:::fs-rel: ignorar))))))))))))
+                        (.)))

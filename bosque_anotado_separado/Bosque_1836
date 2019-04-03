@@ -1,0 +1,72 @@
+(FRASE CP351-1 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (>N:adj:extremo:F_S: extrema)
+                                 (H:n:direita:F_S::anr_np-def: direita))
+                        (P:vp (MV:v-fin:fazer:PS_3S_IND::: fez))
+                        (ACC:np (>N:art:um:F_S::arti: uma)
+                                (H:n:campanha:F_S::np-idf: campanha)
+                                (N<:adjp 
+                                  (H:adj:eleitoral:F_S::: eleitoral))
+                                («)
+                                (N<:adjp 
+                                  (H:adj:moderno:F_S::: moderna))
+                                (»))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (ADVL:icl::::ger: 
+                            (P:vp (MV:v-ger:servir:::hyfen: servindo-))
+                            (ACC:np (H:pron-pers:se:F_3S_ACC::refl: se))
+                            (PIV:pp (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:processo:M_S::np-def: processo)
+                                      («)
+                                      (N<:np 
+                                        (H:n:direct_mailing:M_S::np-idf: direct_mailing))
+                                      (»)
+                                      (N<:adjp 
+                                        (H:adj:americano:M_S::: americano)))))
+                          (P:vp (MV:v-ger:enviar:::: enviando))
+                          (ACC:np (>N:art:o:M_P::artd: os)
+                                  (>N:pron-det:seu:M_P::si: seus)
+                                  (H:n:panfleto:M_P::anr_np-def: panfletos)
+                                  (N<:adjp 
+                                    (H:adj:xenófobo:M_P::: xenófobos))
+                                  (,)
+                                  (N<PRED:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:tipo:M_S::np-def: tipo)
+                                      («)
+                                      (N<:fcl 
+                                        (SUBJ:np 
+                                          (H:prop:Hamburgo:M_S::: Hamburgo))
+                                        (P:vp 
+                                          (AUX:v-fin:ter:PR_3S_IND::: tem)
+                                          (PRT-AUX:prp:de:::: de)
+                                          (MV:v-inf:permanecer:::: permanecer))
+                                        (SC:np 
+                                          (>N:art:um:M_S::arti: um)
+                                          (H:n:estado:M_S::np-idf: estado)
+                                          (N<:adjp 
+                                            (H:adj:alemão:M_S::: alemão))))
+                                      (»))))
+                          (,)
+                          (ADVL:pp (H:prp:por:::: por+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:correio:M_S::np-def: correio)))
+                          (,)
+                          (PIV:pp (>A:pp 
+                                    (H:prp:em:::: em)
+                                    (P<:adjp 
+                                      (H:adj:especial:MF_S::: especial)))
+                                  (H:prp:a:::: a)
+                                  (P<:np 
+                                    (H:n:milhar:M_P::card:np-idf:num: milhares)
+                                    (N<ARG:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (>N:adj:jovem:M_P::: jovens)
+                                        (H:n:eleitor:M_P::anr_np-idf:np-dequant: eleitores))))))
+                        (.)))

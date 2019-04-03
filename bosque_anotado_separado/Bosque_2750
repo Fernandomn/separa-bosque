@@ -1,0 +1,54 @@
+(FRASE CP526-2 (STA:fcl (ADVL:pp (H:prp:para:: Para)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:presidente:M_S::np-def: presidente)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (N<:art:o:F_S::: a)
+                                            (H:prop:FCCN:F_S::anr_np-def: FCCN)))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:número:M_S::np-def: número)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:pron-det:este:F_P::dem: estas)
+                                          (H:n:máquina:F_P::np-def: máquinas))))
+                        («)
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:adjp (>A:adv:mais_ou_menos:::quant: mais_ou_menos)
+                                 (H:adj:constante:M_S::: constante))
+                        (»)
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:porque:::: porque)
+                                  (,)
+                                  (ADVL:fcl 
+                                    (ADVL:advp 
+                                      (H:adv:conforme:::ks: conforme))
+                                    (ACC-PASS:np 
+                                      (H:pron-pers:se:M_3P_ACC::: se))
+                                    (P:vp 
+                                      (AUX:v-fin:ir:PR_3P_IND::: vão)
+                                      (MV:v-ger:desenvolver:_::fs-conf:se-passive: desenvolvendo))
+                                    (SUBJ:np 
+                                      (>N:adj:novo:M_P::: novos)
+                                      (H:n:equipamento:M_P::anr_np-idf: equipamentos)))
+                                  (,)
+                                  (SUBJ:np 
+                                    (H:pron-det:outro:M_P::KOMP:diff: outros))
+                                  (P:vp- 
+                                    (AUX:v-fin:deixar:PR_3P_IND::: deixam)
+                                    (PRT-AUX:prp:de:::: de))
+                                  (ACC-PASS:np 
+                                    (H:pron-pers:se:M_3P_ACC::refl: se))
+                                  (-P:vp 
+                                    (MV:v-inf:enquadrar:_::fs-cause:se-passive: enquadrar))
+                                  (SA:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:definição:F_S::np-def: definição)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:supercomputador:M_S::np-idf: supercomputador))))))
+                        (.)))

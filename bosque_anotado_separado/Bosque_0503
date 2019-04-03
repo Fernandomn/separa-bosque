@@ -1,0 +1,51 @@
+(FRASE CP94-5 (STA:fcl (ADVL:fcl (SUB:conj-s:se:: Se)
+                                 (SUBJ:np 
+                                   (>N:art:o:M_P::artd: os)
+                                   (H:n:chefe:M_P::np-def: chefes)
+                                   (N<:adjp 
+                                     (H:adj:militar:M_P::: militares)))
+                                 (,)
+                                 (ADVL:advp 
+                                   (H:adv:actualmente:::: actualmente))
+                                 (,)
+                                 (P:vp (MV:v-fin:despachar:PR_3P_IND::: despacham))
+                                 (ADVL:pp 
+                                   (H:prp:com:::: com)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:ministro:M_S::np-def: ministro)))
+                                 (ADVL:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (>N:np 
+                                       (H:num:15:M_P::card: 15)
+                                       (N<:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:adjp 
+                                           (H:num:15:M_P::card: 15))))
+                                     (H:n:dia:M_P::anr_np-idf: dias))))
+                       (,)
+                       (X:cu (CJT:fcl (P:vp 
+                                        (MV:v-fin:fazer:FUT_3P_IND::nosubj: farão))
+                                      (ACC:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:pron-det:mesmo:M_S::diff:np-def: mesmo))
+                                      (ADVL:pp 
+                                        (H:prp:com:::: com)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:primeiro-ministro:M_S::np-def: primeiro-ministro))))
+                             (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                             (CJT:fcl (SUBJ:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:secretário:M_S::np-def: secretário)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Estado:M_S::np-idf: Estado))))
+                                      (P:vp 
+                                        (MV:v-fin:governar:PR_3S_IND::: governa))
+                                      (ACC:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:ministério:M_S::np-def:prop: Ministério))))
+                       (.)))

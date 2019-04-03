@@ -1,0 +1,21 @@
+(FRASE CP29-2 (STA:fcl (SUBJ:np (>N:pron-det:esse:M_S::dem: Esse)
+                                (>N:adv:mesmo:quant: mesmo)
+                                (H:n:diagnóstico:M_S::anr_np-def: diagnóstico))
+                       (ADVL:advp (H:adv:já:::: já))
+                       (P:vp (AUX:v-fin:ter:IMPF_3S_IND::: tinha)
+                             (AUX:v-pcp:ser:::: sido)
+                             (MV:v-pcp:fazer:M_S::anr_pass:passive: feito))
+                       (ADVL:pp (H:prp:a:::: a)
+                                (P<:np (H:n:título:M_S::np-idf: título)
+                                       (N<:adjp 
+                                         (H:adj:provisório:M_S::: provisório))))
+                       (ADVL:pp (>P:adv:apenas:::: apenas)
+                                (H:prp:com_base_em:::: com_base_em+)
+                                (P<:np (>N:art:o:M_P::artd: os)
+                                       (H:n:sintoma:F_P::np-def: sintomas)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:n-adj:doente:M_P::np-def: doentes)))))
+                       (.)))

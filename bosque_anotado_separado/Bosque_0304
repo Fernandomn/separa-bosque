@@ -1,0 +1,63 @@
+(FRASE CP53-3 (STA:fcl (SUBJ:np (>N:art:um:M_S::arti: Um)
+                                (H:n:reunião:F_S::anr_np-count:anr_np-def: reunião)
+                                (N<:pp (H:prp:a:: a+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (>N:adjp 
+                                           (>A:adv:mais:::quant: mais)
+                                           (H:adj:alto:M_S::: alto))
+                                         (H:n:nível:M_S::anr_np-def: nível)))
+                                (N<:pp (H:prp:a:::: a)
+                                       (P<:icl 
+                                         (P:vp 
+                                           (MV:v-inf:realizar:::: realizar))
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:S::artd: a)
+                                             (H:n:segunda-feira:F_S::np-def: segunda-feira)))
+                                         (ADVL:pp 
+                                           (H:prp:entre:::: entre)
+                                           (P<:cu 
+                                             (CJT:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:prop:CGTP:F_S::: CGTP))
+                                             (CO:conj-c:e:::co-prparg: e)
+                                             (CJT:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:prop:UGT:F_S::: UGT))))
+                                         ({)
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:S::artd: a)
+                                             (H:n:sede:F_S::np-def: sede)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:pron-det:este:F_S::dem: esta)
+                                                 (>N:adj:último:F_S::NUM-ord: última)
+                                                 (H:n:central:F_S::anr_np-def: central)))))
+                                         (}))))
+                       (P:vp (AUX:v-fin:poder:FUT_3S_IND::: poderá)
+                             (X:cu (CJT:icl 
+                                     (P:vp 
+                                       (MV:v-inf:desbloquear:::: desbloquear))
+                                     (ACC:np 
+                                       (>N:adj:anterior:F_P::: anteriores)
+                                       (H:n:dificuldade:F_P::anr_np-idf: dificuldades)))
+                                   (CO:conj-c:e:::co-inf: e)
+                                   (CJT:icl 
+                                     (P:vp 
+                                       (MV:v-inf:levar:::: levar))
+                                     (PIV:pp 
+                                       (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:n:marcação:F_S::np-def: marcação)
+                                         (N<ARGO:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (>N:art:um:F_S::arti: uma)
+                                             (H:n:data:F_S::np-idf: data))))))))
+                       (.)))

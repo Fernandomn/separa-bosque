@@ -1,0 +1,29 @@
+(FRASE CP963-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n-adj:primeiro:M_S::NUM-ord:np-def: primeiro))
+                        (P:vp (MV:v-fin:deixar:PS_3S_IND: deixou))
+                        (ACC:np- (>N:art:um:M_S::arti: um)
+                                 (H:n:bilhete:M_S::np-idf: bilhete))
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:M_P::artd: os)
+                                       (H:n:pai:M_P::np-def: pais)))
+                        (-ACC:np (N<:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:dizer:::: dizendo))
+                                   (ACC:cu 
+                                     (CJT:fcl 
+                                       (SUB:conj-s:que:::: que)
+                                       (ADVL:advp 
+                                         (H:adv:não:::: não))
+                                       (ACC:np 
+                                         (H:pron-pers:se:M_3P_ACC::refl: se))
+                                       (P:vp 
+                                         (MV:v-fin:preocupar:IMPF_3P_SUBJ::fs-subst:nosubj: preocupassem)))
+                                     (CO:conj-c:e:::co-vfin: e)
+                                     (CJT:fcl 
+                                       (SUB:conj-s:que:::: que)
+                                       (ADVL:advp 
+                                         (H:adv:não:::: não))
+                                       (P:vp 
+                                         (AUX:v-fin:ir:IMPF_3S_IND::: ia)
+                                         (MV:v-inf:fugir:::nosubj: fugir))))))
+                        (.)))

@@ -1,0 +1,71 @@
+(FRASE CP674-3 (STA:fcl (ADVL:pp (H:prp:segundo:: Segundo)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:instituto_Cifra:M_S::np-def: instituto_Cifra)))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:prop:Partido_do_Colorado:M_S::: Partido_do_Colorado)
+                                 ({)
+                                 (N<PRED:np 
+                                   (H:n:liberal:M_S::np-idf: liberal))
+                                 (})
+                                 (,)
+                                 (N<PRED:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (H:prop:Sanguinetti:M_S::: Sanguinetti)))
+                                 (,))
+                        (P:vp (AUX:v-fin:ter:FUT_3S_IND::: terá)
+                              (MV:v-pcp:vencer:::: vencido))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:corrida:F_S::np-def: corrida)
+                                (N<:adjp 
+                                  (H:adj:eleitoral:F_S::: eleitoral)))
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (>N:num:33,5:M_P::card: 33,5)
+                                        (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:sufrágio:M_P::np-def: sufrágios)))
+                                        (,)
+                                        (N<PRED:pp 
+                                          (H:prp:contra:::: contra)
+                                          (P<:cu 
+                                            (CJT:np 
+                                              (>N:num:31:M_P::card: 31)
+                                              (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:prop:Partido_Nacional:M_S::: Partido_Nacional)
+                                                  ({)
+                                                  (N<PRED:adjp 
+                                                    (H:adj:conservador:M_S::: conservador))
+                                                  (})
+                                                  (,)
+                                                  (N<PRED:pp 
+                                                    (H:prp:de:::: de+)
+                                                    (P<:np 
+                                                      (>N:art:o:M_S::artd: o)
+                                                      (H:n:presidente:M_S::np-def:prop: Presidente)
+                                                      (N<:adjp 
+                                                        (H:adj:cessante:M_S::: cessante))
+                                                      (N<:np 
+                                                        (H:prop:Luís_Alberto_Lacalle:M_S::: Luís_Alberto_Lacalle)))))))
+                                            (,)
+                                            (CO:conj-c:e:::co-prparg: e)
+                                            (CJT:np 
+                                              (>N:num:30:M_P::card: 30)
+                                              (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:prop:Frente_Ampla:F_S::: Frente_Ampla)
+                                                  ({)
+                                                  (N<PRED:adjp 
+                                                    (H:adj:esquerdo:F_S::: esquerda))
+                                                  (}))))))))
+                        (.)))

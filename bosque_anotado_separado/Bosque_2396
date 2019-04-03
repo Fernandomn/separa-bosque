@@ -1,0 +1,73 @@
+(FRASE CP454-3 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:fazer:PR_3S_COND::: faria))
+                        (ACC:np (>N:adv:muito:::quant: muito)
+                                (H:n:sentido:M_S::anr_np-idf: sentido))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:se:::: se)
+                                  (SUBJ:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (H:n:assembleia:F_P::np-def:prop: Assembleias)
+                                    (N<:adjp 
+                                      (H:adj:municipal:F_P::: Municipais)))
+                                  (ACC:np 
+                                    (H:pron-pers:se:F_3P_ACC::refl: se))
+                                  (P:vp (MV:v-fin:pronunciar:FUT_3P_SUBJ::: pronunciarem))
+                                  (ADVL:np 
+                                    (>N:cu 
+                                      (CJT:pp 
+                                        (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (H:pron-det:este:M_S::dem:np-idf: este)))
+                                      (CO:conj-c:ou:::co-advl: ou)
+                                      (CJT:pp 
+                                        (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (H:pron-det:aquele:M_S::dem:np-idf: aquele))))
+                                    (H:n:sentido:M_S::anr_np-idf: sentido))
+                                  (ADVL:pp 
+                                    (>P:adv:já:::: já)
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:pron-det:este:F_S::dem: esta)
+                                      (H:n:fase:F_S::np-def: fase))))
+                        (,)
+                        (SUBJ:icl (P:vp (AUX:v-inf:vir:::: vir)
+                                        (PRT-AUX:prp:a:::: a)
+                                        (AUX:v-inf:ser:::: ser)
+                                        (MV:v-pcp:aprovar:F_S::anr_pass:icl-subst:passive: aprovada))
+                                  (SUBJ:np 
+                                    (>N:art:um:F_S::arti: uma)
+                                    (H:n:lei:F_S::np-idf: lei)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:criação:F_S::np-idf: criação)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (H:n:região:F_P::np-def: regiões))))))
+                                  (ADVL:icl::::ger: 
+                                    (P:vp 
+                                      (MV:v-ger:contrariar:::: contrariando))
+                                    (ACC:np 
+                                      (>N:art:um:F_S::arti: uma)
+                                      (H:n:vontade:F_S::np-idf: vontade)
+                                      (N<:fcl 
+                                        (ACC:fcl- 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:F_S::rel: que)))
+                                        (SUBJ:np 
+                                          (H:pron-pers:se:MF_3SP_ACC::: se))
+                                        (P:vp 
+                                          (MV:v-fin:saber:PR_3S_IND::fs-rel: sabe))
+                                        (-ACC:fcl 
+                                          (SUB:conj-s:que:::: que)
+                                          (P:vp 
+                                            (AUX:v-fin:ir:PR_3S_IND::: vai)
+                                            (AUX:v-inf:ser:::: ser)
+                                            (MV:v-pcp:manifestar:F_S::anr_pass:fs-subst:passive: manifestada))
+                                          (ADVL:advp 
+                                            (H:adv:ulteriormente:::: ulteriormente)))))))
+                        (.)))

@@ -1,0 +1,41 @@
+(FRASE CP80-4 (STA:fcl (PRED:icl::pcp: (P:vp 
+                                         (MV:v-pcp:despojar:F_S::: Despojada))
+                                       (PIV:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:S::artd: a)
+                                           (H:n:preocupação:F_S::np-def: preocupação)
+                                           (N<ARGO:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:icl 
+                                               (P:vp 
+                                                 (MV:v-inf:fazer:::: fazer))
+                                               (ADVL:cu 
+                                                 (CJT:adjp 
+                                                   (H:adj:novo:M_S::: novo))
+                                                 (CO:conj-c:e:::: e)
+                                                 (CJT:adjp 
+                                                   (H:adj:diferente:M_S::: diferente)))
+                                               (ADVL:pp 
+                                                 (H:prp:a:::: a)
+                                                 (P<:np 
+                                                   (>N:pron-det:cada:M_S::quant: cada)
+                                                   (H:n:passo:M_S::anr_np-def: passo))))))))
+                       (,)
+                       (SUBJ:np (>N:art:o:M_S::artd: o)
+                                (H:n:canto:M_S::np-def: canto))
+                       (X:cu (CJT:x::::predicate: 
+                               (P:vp (MV:v-fin:virar:PS_3S_IND::: virou))
+                               (SC:np (H:n:árvore:F_S::np-idf: árvore)))
+                             (,)
+                             (CJT:x::::predicate: 
+                               (P:vp (MV:v-fin:ganhar:PS_3S_IND::nosubj: ganhou))
+                               (ACC:np (H:n:espaço:M_S::np-idf: espaço)))
+                             (,)
+                             (CJT:x::::predicate: 
+                               (P:vp (MV:v-fin:trepar:PS_3S_IND::nosubj: trepou))
+                               (ADVL:pp (H:prp:a:::: a+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:céu:M_S::np-def: céu)))))
+                       (.)))

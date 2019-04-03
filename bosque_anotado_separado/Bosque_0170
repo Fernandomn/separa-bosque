@@ -1,0 +1,52 @@
+(FRASE CP29-5 (STA:fcl (P:vp (MV:v-fin:recomendar:PR_3S_IND: Recomenda-))
+                       (SUBJ:np (H:pron-pers:se:MF_3SP_ACC::: se))
+                       (ADVL:advp (H:adv:ainda:::: ainda))
+                       (PIV:pp (H:prp:a:::: a+)
+                               (P<:np (>N:art:o:P::artd: as)
+                                      (H:n:pessoa:F_P::np-def: pessoas)))
+                       (ACC:cu (CJT:fcl (SUB:conj-s:que:::: que)
+                                        (ADVL:advp 
+                                          (H:adv:não:::: não))
+                                        (P:vp 
+                                          (MV:v-fin:tocar:PR_3P_SUBJ::fs-subst:nosubj: toquem))
+                                        (ADVL:pp 
+                                          (H:prp:com:::: com)
+                                          (P<:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (H:n:mão:F_P::np-def: mãos)
+                                            (N<:adjp 
+                                              (H:adj:nu:F_P::: nuas))))
+                                        (ADVL:cu 
+                                          (CO:conj-c:nem:::co-advl: nem)
+                                          (CJT:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n-adj:doente:M_P::np-def: doentes)))
+                                          (CO:conj-c:nem:::co-advl: nem)
+                                          (CJT:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n-adj:morto:M_P::np-def: mortos)))))
+                               (CO:conj-c:e:::co-vfin: e)
+                               (CJT:fcl (SUB:conj-s:que:::: que)
+                                        (P:vp 
+                                          (MV:v-fin:evitar:PR_3P_SUBJ::nosubj: evitem))
+                                        (ACC:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:contacto:M_S::np-def: contacto)
+                                          (N<:pp 
+                                            (H:prp:com:::: com)
+                                            (P<:cu 
+                                              (CJT:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (>N:pron-det:seu:M_S::: seu)
+                                                (H:n:sangue:M_S::anr_np-def: sangue))
+                                              (,)
+                                              (CJT:np 
+                                                (H:n:vómito:M_P::np-idf: vómitos))
+                                              (CO:conj-c:e:::co-prparg: e)
+                                              (CJT:np 
+                                                (H:n:excremento:M_P::np-idf: excrementos)))))))
+                       (.)))

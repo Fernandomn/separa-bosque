@@ -1,0 +1,54 @@
+(FRASE CP403-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:gabinete:M_S::np-def: gabinete)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:primeiro-ministro:M_S::np-def: primeiro-ministro))))
+                        (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                              (MV:v-inf:apresentar:::: apresentar))
+                        (ACC:np- (H:n:queixa:F_S::anr_np-idf: queixa))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Alta_Autoridade_para_a_Comunicação_Social:F_S::: Alta_Autoridade_para_a_Comunicação_Social)))
+                        (-ACC:np (N<:pp (H:prp:contra:::: contra)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:jornal:M_S::np-def: jornal)
+                                          («)
+                                          (N<:np 
+                                            (H:prop:Semanário:M_S::: Semanário))
+                                          (»)
+                                          (,)
+                                          (N<PRED:fcl 
+                                            (SUBJ:np 
+                                              (H:pron-indp:que:M_S::rel: que))
+                                            (ADVL:advp 
+                                              (H:adv:ontem:::: ontem))
+                                            (P:vp 
+                                              (MV:v-fin:titular:PS_3S_IND::fs-rel: titulou))
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                                (H:n:página:F_S::anr_np-idf: página)))
+                                            (ACC:fcl 
+                                              (SUB:conj-s:que:::: que)
+                                              («)
+                                              (SUBJ:np 
+                                                (H:prop:Cavaco:M_S::: Cavaco))
+                                              (P:vp 
+                                                (MV:v-fin:dar:PS_3S_IND::fs-subst: deu))
+                                              (ACC:np 
+                                                (>N:num:2,5:M_P::card: 2,5)
+                                                (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                                (N<ARG:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:conto:M_P::np-dequant:np-idf: contos))))
+                                              (PIV:pp 
+                                                (H:prp:a:::: a+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:prop:PSD:M_S::: PSD)))
+                                              (»))))))
+                        (.)))

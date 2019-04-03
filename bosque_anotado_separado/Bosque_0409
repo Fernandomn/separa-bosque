@@ -1,0 +1,65 @@
+(FRASE CP76-1 (STA:fcl (PRED:np (H:n:observador:M_S::np-idf: Observador)
+                                (N<:v-pcp:privilegiar:M_S: privilegiado))
+                       (,)
+                       (SUBJ:np (>N:art:o:M_S::artd: o)
+                                (H:n:francês:M_S::np-def: francês)
+                                (N<:np (H:prop:Michel_Platini:M_S::: Michel_Platini))
+                                (,)
+                                (N<PRED:cu 
+                                  (CJT:np 
+                                    (>N:ec:ex-:::: ex-)
+                                    (H:n:jogador:M_S::: jogador))
+                                  (,)
+                                  (CJT:np 
+                                    (>N:ec:ex-:::: ex-)
+                                    (H:n:seleccionador:M_S::: seleccionador)
+                                    (N<:adjp 
+                                      (H:adj:nacional:M_S::: nacional)))
+                                  (CO:conj-c:e:::co-pred: e)
+                                  (CJT:np 
+                                    (>N:adj:actual:M_S::: actual)
+                                    (H:n:coordenador:M_S::anr_np-idf: coordenador)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:prop:Comité_Organizador:M_S::: Comité_Organizador)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Campeonato_do_Mundo:M_S::: Campenonato_do_Mundo)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:futebol:M_S::np-idf: futebol)))
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:adjp 
+                                                (H:num:1998:M_S::card: 1998)))
+                                            (N<:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (H:prop:França:F_S::: França))))))))))
+                       (,)
+                       (P:vp (MV:v-fin:deitar:PR_3S_IND::: deita))
+                       (ACC:np (>N:art:um:M_S::arti: um)
+                               (H:n:olhar:M_S::np-idf: olhar))
+                       (OA:pp (H:prp:sobre:::: sobre)
+                              (P<:np (H:pron-indp:aquilo:M_S::dem: aquilo)
+                                     (N<:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:M_S::rel: que))
+                                       (P:vp 
+                                         (MV:v-fin:ser:PS_3S_IND::fs-rel: foi))
+                                       (SC:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         («)
+                                         (H:prop:Mundial:M_S::: Mundial)
+                                         (»)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:prop:Estados_Unidos:M_P::: Estados_Unidos)))))))
+                       (.)))

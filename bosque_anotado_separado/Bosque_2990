@@ -1,0 +1,47 @@
+(FRASE CP578-3 (STA:fcl (ADVL:pp (H:prp:com:: Com)
+                                 (P<:np (H:n:caixote:M_P::np-idf: caixotes)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:lixo:M_S::np-def: lixo)))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:aluno:M_P::np-def: alunos)
+                                 (N<:adjp 
+                                   (H:adj:finalista:M_P::: finalistas)
+                                   (A<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Instituto_Superior_de_Economia_e_Gestão:M_S::: Instituto_Superior_de_Economia_e_Gestão)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:prop:Lisboa:F_S::: Lisboa)))
+                                       ({)
+                                       (APP:np 
+                                         (H:prop:ISEG:M_S::: ISEG))
+                                       (})))))
+                        (P:vp (MV:v-fin:fechar:PS_3P_IND::: fecharam))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:anexo:M_S::np-def: anexo)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:prop:Buenos_Aires:M_S::: Buenos_Aires))))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:protesto:M_S::np-idf: protesto)
+                                        (N<:pp 
+                                          (H:prp:contra:::: contra)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:alteração:F_S::np-def: alteração)
+                                            (N<ARGO:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (H:n:plano:M_P::np-def: planos)
+                                                (N<:adjp 
+                                                  (H:adj:curricular:M_P::: curriculares))))))))
+                        (.)))

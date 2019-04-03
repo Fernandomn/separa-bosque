@@ -1,0 +1,32 @@
+(FRASE CP413-3 (STA:fcl («)
+                        (ADVL:pp (H:prp:em:: Em)
+                                 (P<:np (>N:adjp 
+                                          (>A:adv:cerca_de:::: cerca_de)
+                                          (H:num:600:M_P::card: 600))
+                                        (H:n:sismo:M_P::anr_np-count:anr_np-def: sismos)
+                                        (N<:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:continente:M_S::np-def: continente)))))
+                        (,)
+                        (ADVL:pp (X:adv:só:::: só)
+                                 (H:cu (PCJT:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:adjp 
+                                           (H:num:dez:M_P::card: dez)))
+                                       (PCJT:pp 
+                                         (H:prp:a:::: a)
+                                         (P<:np 
+                                           (>N:num:12:M_P::card: 12)
+                                           (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))))
+                        (SUBJ:np (H:pron-pers:se:MF_3SP_ACC::: se))
+                        (P:vp (MV:v-fin:conseguir:IMPF_3S_IND::: conseguia))
+                        (ACC:icl (P:vp (MV:v-inf:calcular:::icl-subst: calcular))
+                                 (ACC:np 
+                                   (>N:art:o:M_P::artd: os)
+                                   (H:n:parâmetro:M_P::np-def: parâmetros)
+                                   (N<:adjp 
+                                     (H:adj:sísmico:M_P::: sísmicos))))
+                        (»)
+                        (.)))

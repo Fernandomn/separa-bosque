@@ -1,0 +1,93 @@
+(FRASE CP872-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:jogador:M_S::np-def: jogador)
+                                 (--)
+                                 (N<PRED:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:M_S::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:desempenhar:PR_3S_IND::fs-rel: desempenha))
+                                   (ACC:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:papel:M_S::np-def: papel)
+                                     (N<:pp 
+                                       (H:prp:de:: de)
+                                       (P<:np 
+                                         (H:prop:Fox_McCloud:F_S::: Fox_McCloud)))))
+                                 (--))
+                        (P:vp (AUX:v-fin:ter:PR_3S_IND::: tem)
+                              (PRT-AUX:prp:de:::: de)
+                              (MV:v-inf:completar:::: completar))
+                        (ACC:np (>N:art:um:M_S::arti: um)
+                                (H:n:total:M_S::np-idf: total)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:num:18:F_P::card: 18)
+                                         (H:n:missão:F_P::anr_np-count:anr_np-def: missões))))
+                        (,)
+                        (ADVL:cu (CJT:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:sobrevoar:::: sobrevoando))
+                                   (ACC:np 
+                                     (H:n:planeta:M_P::np-idf: planetas)))
+                                 (CO:conj-c:ou:::co-ger: ou)
+                                 (CJT:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:enfrentar:::: enfrentando))
+                                   (ACC:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (H:n:inimigo:M_P::np-def: inimigos))
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:espaço:M_S::np-def: espaço)
+                                       (,)
+                                       (N<PRED:fcl 
+                                         (ADVL:advp 
+                                           (H:adv:onde:_::ks:rel: onde))
+                                         (SUBJ:np 
+                                           (>N:art:o:F_P::artd: as)
+                                           (H:n:dificuldade:F_P::np-def: dificuldades))
+                                         (P:vp 
+                                           (AUX:v-fin:ser:PR_3P_IND::: são)
+                                           (MV:v-pcp:acrescer:F_P::anr_pass:fs-rel:passive: acrescidas))
+                                         (,)
+                                         (ADVL:fcl 
+                                           (SUB:conj-s:já_que:::: já_que)
+                                           (,)
+                                           (ADVL:pp 
+                                             (H:prp:para_além_de:::: para_além_de+)
+                                             (P<:np 
+                                               (>N:art:o:M_P::artd: os)
+                                               (H:n:opositor:M_P::anr_np-idf: opositores)))
+                                           (,)
+                                           (P:vp 
+                                             (AUX:v-fin:ter:PR_3S_IND::: tem)
+                                             (PRT-AUX:prp:de:::: de)
+                                             (MV:v-inf:desviar:_::fs-cause:hyfen:nosubj: desviar-))
+                                           (ACC:np 
+                                             (H:pron-pers:se:M_3S_ACC::refl: se))
+                                           (ADVL:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:cu 
+                                               (CJT:np 
+                                                 (>N:adj:autêntico:F_P::: autênticas)
+                                                 (H:n:chuva:F_P::anr_np-idf: chuvas)
+                                                 (N<:pp 
+                                                   (H:prp:de:::: de)
+                                                   (P<:np 
+                                                     (H:n:asteróide:M_P::np-idf: asteróides))))
+                                               (CO:conj-c:e:::co-prparg: e)
+                                               (CJT:np 
+                                                 (>N:pron-det:outro:M_P::KOMP:diff: outros)
+                                                 (H:n:objecto:M_P::anr_np-idf: objectos)
+                                                 (N<:fcl 
+                                                   (SUBJ:np 
+                                                     (H:pron-indp:que:M_P::rel: que))
+                                                   (P:vp 
+                                                     (MV:v-fin:vaguear:PR_3P_IND::fs-rel: vagueiam))
+                                                   (ADVL:pp 
+                                                     (H:prp:sem:::: sem)
+                                                     (P<:np 
+                                                       (H:n:rumo:M_S::np-idf: rumo)))))))))))))
+                        (.)))

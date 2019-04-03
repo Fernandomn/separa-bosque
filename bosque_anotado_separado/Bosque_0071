@@ -1,0 +1,60 @@
+(FRASE CP13-3 (STA:fcl (CO:conj-c:mas:: Mas)
+                       (SUBJ:np (>N:art:o:F_S::artd: a)
+                                (H:n:expulsão:F_S::np-def: expulsão)
+                                (N<:cu (CJT:adjp 
+                                         (H:adj:prematuro:F_S::: prematura))
+                                       (CO:conj-c:e:::co-postnom: e)
+                                       (CJT:adjp 
+                                         (H:adj:estúpido:F_S::: estúpida)))
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:prop:Gurenko:M_S::: Gurenko)))
+                                (,)
+                                (N<:fcl (ADVL:advp 
+                                          (H:adv:quando:_::ks:rel: quando))
+                                        (ADVL:advp 
+                                          (>A:adv:ainda:::: ainda)
+                                          (H:adv:não:::: não))
+                                        (P:vp 
+                                          (MV:v-fin:estar:IMPF_3S_IND::fs-rel: estava))
+                                        (SC:v-pcp:decorrer:F_S::: decorrida)
+                                        (SUBJ:np 
+                                          (H:n:meia_hora:F_S::np-idf: meia_hora)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:jogo:M_S::np-idf: jogo)))))
+                                (,)
+                                (N<:icl::::pcp: 
+                                  (P:vp (MV:v-pcp:seguer:F_S::: seguida))
+                                  (,)
+                                  (ADVL:advp 
+                                    (>A:adv:pouco:::quant: pouco)
+                                    (H:adv:depois:::: depois))
+                                  (,)
+                                  (ADVL:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:S::artd: a)
+                                      (H:n:entrada:F_S::np-def: entrada)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Panduru:M_S::: Panduru)))))))
+                       (,)
+                       (P:vp (MV:v-fin:ir:PS_3S_IND::: foi))
+                       (SC:np (>N:art:o:M_S::artd: o)
+                              (H:n:suficiente:M_S::np-def: suficiente)
+                              (N<:pp (H:prp:para:::: para)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (MV:v-inf:dar:::icl-fin: dar))
+                                       (ACC:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:volta:F_S::np-def: volta)
+                                         (N<:pp 
+                                           (H:prp:a:::: a+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:resultado:M_S::np-def: resultado)))))))
+                       (.)))

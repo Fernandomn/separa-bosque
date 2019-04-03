@@ -1,0 +1,110 @@
+(FRASE CP55-4 (STA:fcl (SUBJ:np (>N:art:o:M_S::new: O)
+                                (H:n:juiz:M_S::anr_np-idf: juiz)
+                                (N<:adjp 
+                                  (H:adj:titular:M_S: titular))
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:processo:M_S::np-def: processo)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:padre:M_S::np-def: padre)
+                                             (N<:np 
+                                               (H:prop:Max:M_S::: Max))))))
+                                (,)
+                                (APP:np (H:prop:Artur_Oliveira:M_S::: Artur_Oliveira)))
+                       (,)
+                       (P:vp (MV:v-fin:indeferir:PS_3S_IND::: indeferiu))
+                       (ACC:np (>N:art:um:M_S::arti: um)
+                               (H:n:pedido:M_S::np-idf: pedido)
+                               (N<:pp (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:procurador-geral:M_S::np-def: procurador-geral)
+                                        (N<:adjp 
+                                          (H:adj:adjunto:M_S::: adjunto))
+                                        (N<:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:nomear:M_S::: nomeado))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:np 
+                                              (>N:art:o:S::artd: a)
+                                              (H:prop:Procuradoria-Geral_da_República:F_S::: Procuradoria-Geral_da_República)))
+                                          (PIV/N<[-3]:pp::::postmod: 
+                                            (H:prp:para:::: para)
+                                            (P<:icl 
+                                              (P:vp 
+                                                (MV:v-inf:acompanhar:::icl-fin: acompanhar))
+                                              (ACC:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:investigação:F_S::np-def: investigação)
+                                                (N<ARGO:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:pron-det:este:M_S::dem: este)
+                                                    (H:n:caso:M_S::np-def: caso))))
+                                              (,)
+                                              (ADVL/ADVL[-6]:pp 
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:sentido:M_S::np-def: sentido)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:icl 
+                                                      (P:vp 
+                                                        (MV:v-inf:promover:::: promover))
+                                                      (ACC:np 
+                                                        (>N:art:um:F_S::arti: uma)
+                                                        (H:n:acareação:F_S::np-idf: acareação)
+                                                        (N<:pp 
+                                                          (H:prp:entre:::: entre)
+                                                          (P<:np 
+                                                            (>N:art:o:M_P::artd: os)
+                                                            (>N:num:sete:M_P::card: sete)
+                                                            (H:n:indivíduo:M_P::anr_np-count:anr_np-def: indivíduos)
+                                                            (N<:icl::::pcp: 
+                                                              (P:vp 
+                                                                (MV:v-pcp:indiciar:M_P::: indiciados))
+                                                              (ADVL:pp 
+                                                                (H:prp:em:::: em+)
+                                                                (P<:np 
+                                                                  (>N:art:o:S::artd: a)
+                                                                  (H:n:acusação:F_S::np-def: acusação)
+                                                                  (N<:adjp 
+                                                                    (H:adj:provisório:F_S::: provisória))))
+                                                              (SC:acl::::postmod: 
+                                                                (PRD:adv:como:::prp: como)
+                                                                (SC:adjp 
+                                                                  (H:adj:responsável:M_P::: responsáveis)
+                                                                  (A<:pp 
+                                                                    (H:prp:por:::: por+)
+                                                                    (P<:np 
+                                                                      (>N:art:o:M_S::artd: o)
+                                                                      (H:n:crime:M_S::np-def: crime))))))
+                                                            (--)
+                                                            (N<PRED:cu 
+                                                              (CJT:acl 
+                                                                (SUBJ:adjp 
+                                                                  (H:num:três:M_P::card: três))
+                                                                (SC:acl 
+                                                                  (PRD:adv:como:::prp: como)
+                                                                  (SC:np 
+                                                                    (H:n:autor:M_P::np-idf: autores)
+                                                                    (N<:adjp 
+                                                                      (H:adj:moral:M_P::: morais)))))
+                                                              (CO:conj-c:e:::co-acc: e)
+                                                              (CJT:acl 
+                                                                (SUBJ:np 
+                                                                  (>N:art:o:M_P::artd: os)
+                                                                  (H:n-adj:restante:M_P::np-def: restantes))
+                                                                (SC:acl 
+                                                                  (PRD:adv:como:::prp: como)
+                                                                  (SC:np 
+                                                                    (H:n:autor:M_P::np-idf: autores)
+                                                                    (N<:adjp 
+                                                                      (H:adj:material:M_P::: materiais)))))))))))))))))))
+                       (.)))

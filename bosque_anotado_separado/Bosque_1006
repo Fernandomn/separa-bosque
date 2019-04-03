@@ -1,0 +1,34 @@
+(FRASE CP188-5 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:carro:M_S::np-def: carro))
+                        (P:vp (MV:v-fin:atravessar:PS_3S_IND: atravessou-))
+                        (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                        (,)
+                        (ADVL:cu- (CJT:advp 
+                                    (H:adv:primeiro:::: primeiro)))
+                        (ADVL:cu- (CJT:pp:para_a_direita:::: para_a_direita)
+                                  (CO:conj-c:e:::co-vfin: e))
+                        (-ADVL:cu (CJT:advp 
+                                    (H:adv:depois:::: depois)))
+                        (-ADVL:cu (CJT:pp 
+                                    (H:prp:para:::: para)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:esquerda:F_S::np-def: esquerda))))
+                        (,)
+                        (S<:fcl (SUBJ:np 
+                                  (H:pron-indp:o_que:M_S::rel: o_que))
+                                (ACC:np (H:pron-pers:eu:M_1S_ACC::: me))
+                                (P:vp (MV:v-fin:levar:PS_3S_IND::: levou))
+                                (PIV:pp (H:prp:a:::: a)
+                                        (P<:icl 
+                                          (P:vp 
+                                            (MV:v-inf:tirar:::: tirar))
+                                          (ACC:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:pé:M_S::np-def: pé))
+                                          (PIV:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:acelerador:F_S::np-def: acelerador))))))
+                        (.)))

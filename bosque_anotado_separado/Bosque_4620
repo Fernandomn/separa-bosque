@@ -1,0 +1,80 @@
+(FRASE CP896-2 (STA:fcl (ADVL:pp (H:prp:a:: A+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:abrigo:M_S::np-def: abrigo)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Programa_de_Centros_Java:M_S::: Programa_de_Centros_Java)
+                                            ({)
+                                            (APP:np 
+                                              (H:prop:Java_Centre_Program:M_S::: Java_Centre_Program))
+                                            (})))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:prop:Sun:F_S::: Sun))
+                        (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                              (AUX:v-inf:continuar:::: continuar)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:abrir:::: abrir))
+                        (ACC:cu (CJT:np (H:prop:Centro_Java:M_P::: Centros_Java)
+                                        ({)
+                                        (APP:np 
+                                          (H:prop:Java_Centre:M_P::: Java_Centres))
+                                        (})
+                                        (,)
+                                        (N<PRED:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:gerir:M_P::: geridos))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (>N:pron-det:próprio:F_S::ident: própria)
+                                              (H:prop:Sun:F_S::: Sun)))))
+                                (,)
+                                (CO:conj-c:e:::co-acc: e)
+                                (CJT:np (H:prop:Centro_Autorizado_Java:M_P::: Centros_Autorizados_Java)
+                                        ({)
+                                        (APP:np 
+                                          (H:prop:Authorized_Java_Centre:M_P::: Authorized_Java_Centres))
+                                        (})
+                                        (,)
+                                        (N<PRED:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:gerir:M_P::: geridos))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por)
+                                            (P<:np 
+                                              (H:n:parceiro:M_P::np-idf: parceiros)
+                                              (,)
+                                              (N<PRED:fcl 
+                                                (SUBJ:np 
+                                                  (H:pron-indp:que:M_P::rel: que))
+                                                (P:vp 
+                                                  (MV:v-fin:fornecer:FUT_3P_IND::fs-rel: fornecerão))
+                                                (ACC:np 
+                                                  (H:n:serviço:M_P::np-idf: serviços)
+                                                  (N<:adjp 
+                                                    (H:adj:profissional:M_P::: profissionais))
+                                                  (N<:pp 
+                                                    (H:prp:para:::: para)
+                                                    (P<:np 
+                                                      (H:n:instalação:F_S::np-idf: instalação)
+                                                      (N<ARGO:pp 
+                                                        (H:prp:de:::: de)
+                                                        (P<:np 
+                                                          (H:n:projecto:M_P::np-idf: projectos)
+                                                          (N<:icl::::pcp: 
+                                                            (P:vp 
+                                                              (MV:v-pcp:basear:M_P::: baseados))
+                                                            (PIV:pp 
+                                                              (H:prp:em:::: em)
+                                                              (P<:np 
+                                                                (H:prop:Java:M_S::: Java))))))
+                                                      (N<:pp 
+                                                        (H:prp:em:::: em+)
+                                                        (P<:np 
+                                                          (>N:art:o:F_P::artd: as)
+                                                          (H:n:empresa:F_P::np-def: empresas))))))))))))
+                        (.)))

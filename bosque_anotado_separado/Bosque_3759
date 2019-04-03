@@ -1,0 +1,61 @@
+(FRASE CP731-1 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (>N:adj:próximo:M_S::: próximo)
+                                        (H:n:ano:M_S::anr_np-def: ano)))
+                        (,)
+                        (ADVL:pp (H:prp:devido_a:::: devido_a+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:princípio:M_S::anr_np-idf: princípio)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:gratuitidade:F_S::np-def: gratuitidade)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (H:n:transporte:M_P::np-def: transportes)
+                                                (N<:adjp 
+                                                  (H:adj:escolar:M_P::: escolares))))))
+                                        (N<:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:preconizar:M_S::: preconizado))
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:lei_de_bases_do_sistema_educativo:F_S::np-def: lei_de_bases_do_sistema_educativo))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:aluno:M_P::np-def: alunos)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (>N:adj:oitavo:M_S::NUM-ord: oitavo)
+                                          (H:n:ano:M_S::anr_np-def: ano))))
+                        (P:vp (MV:v-fin:ter:FUT_3P_IND::: terão))
+                        (ADVL:advp (H:adv:também:::: também))
+                        (ACC:np (H:n:transporte:M_S::np-idf: transporte)
+                                (N<:adjp 
+                                  (H:adj:gratuito:M_S::: gratuito)))
+                        (,)
+                        (S<:fcl (SUBJ:np 
+                                  (H:pron-indp:o_que:M_S::rel: o_que))
+                                (P:vp (MV:v-fin:agravar:FUT_3S_IND::: agravará))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em)
+                                  (P<:np 
+                                    (>N:num:17:M_P::card: 17)
+                                    (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))
+                                (ACC:np (>N:art:o:M_S::artd: o)
+                                        (H:n:custo:M_S::np-def: custo)
+                                        (N<:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:comparticipar:M_S::: comparticipado))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:câmara:F_S::np-def:prop: Câmara))))))
+                        (.)))

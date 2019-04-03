@@ -1,0 +1,91 @@
+(FRASE CP249-1 (STA:fcl (ADVL:pp (H:prp:em:: Em)
+                                 (P<:np (H:prop:França:F_S::: França)))
+                        (,)
+                        (SUBJ:np (>N:pron-det:o:F_S::artd: a)
+                                 (H:n:jornada:F_S::np-def: jornada)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:pron-det:este:M_S::dem: este)
+                                          (H:n:fim-de-semana:M_S::np-def: fim-de-semana))))
+                        (P:vp (MV:v-fin:provocar:PS_3S_IND::: provocou))
+                        (ACC:np (>N:adj:grande:F_P::: grandes)
+                                (H:n:alteração:F_P::anr_np-idf: alterações)
+                                (N<:pp (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:pron-det:o:M_S::artd: o)
+                                         (H:n:posicionamento:M_S::np-def: posicionamento)
+                                         (N<ARG:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:pron-det:o:M_P::artd: os)
+                                             (>N:adj:primeiro:M_P::NUM-ord: primeiros)
+                                             (H:v-pcp:classificar:M_P::n: classificados))))))
+                        (,)
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (H:n:vantagem:F_S::np-idf: vantagem)
+                                        (N<:cu 
+                                          (CJT:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:np 
+                                              (>N:pron-det:o:M_S::artd: o)
+                                              (H:prop:Auxerre:M_S::: Auxerre)
+                                              (,)
+                                              (N<PRED:fcl 
+                                                (SUBJ:np 
+                                                  (H:pron-indp:que:M_S::rel: que))
+                                                (P:vp 
+                                                  (MV:v-fin:chegar:PS_3S_IND::fs-rel: chegou))
+                                                (SA:pp 
+                                                  (H:prp:a:::: a+)
+                                                  (P<:np 
+                                                    (>N:pron-det:o:M_S::artd: o)
+                                                    (>N:adj:primeiro:M_S::NUM-ord: primeiro)
+                                                    (H:n:lugar:M_S::anr_np-def: lugar))))))
+                                          (,)
+                                          (CO:conj-c:e:::co-advl: e)
+                                          (CJT:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:np 
+                                              (>N:pron-det:o:M_S::artd: o)
+                                              (H:prop:Nantes:M_S::: Nantes)
+                                              (,)
+                                              (N<PRED:fcl 
+                                                (SUBJ:np 
+                                                  (H:pron-indp:que:M_S::rel: que))
+                                                (,)
+                                                (ADVL:pp 
+                                                  (H:prp:apesar_de:::: apesar_de)
+                                                  (P<:v-pcp:derrotar:M_S::icl-conc: derrotado))
+                                                (,)
+                                                (X:cu 
+                                                  (CJT:x::::predicate: 
+                                                    (P:vp 
+                                                      (MV:v-fin:beneficiar:PS_3S_IND::: beneficiou))
+                                                    (PIV:pp 
+                                                      (H:prp:de:::: de+)
+                                                      (P<:np 
+                                                        (>N:pron-det:o:M_P::artd: os)
+                                                        (>N:adj:mau:M_P::: maus)
+                                                        (H:n:resultado:M_P::anr_np-def: resultados)
+                                                        (N<:cu 
+                                                          (CJT:pp 
+                                                            (H:prp:de:::: de+)
+                                                            (P<:np 
+                                                              (>N:pron-det:o:M_S::artd: o)
+                                                              (H:prop:Paris_Saint-Germain:M_S::: Paris_Saint-Germain)))
+                                                          (CO:conj-c:e:::co-postnom: e)
+                                                          (CJT:pp 
+                                                            (H:prp:de:::: de+)
+                                                            (P<:np 
+                                                              (>N:pron-det:o:M_S::artd: o)
+                                                              (H:prop:Mónaco:M_S::: Mónaco)))))))
+                                                  (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                                  (CJT:x::::predicate: 
+                                                    (ADVL:advp 
+                                                      (H:adv:não:::: não))
+                                                    (P:vp 
+                                                      (MV:v-fin:abandonar:PS_3S_IND::nosubj: abandonou))
+                                                    (ACC:np 
+                                                      (>N:pron-det:o:M_S::artd: o)
+                                                      (H:n:comando:M_S::np-def: comando))))))))))
+                        (.)))

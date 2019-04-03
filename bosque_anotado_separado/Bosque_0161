@@ -1,0 +1,28 @@
+(FRASE CP28-6 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                (H:prop:LG_Electronics:F_S: LG_Electronics)
+                                (,)
+                                (N<PRED:np 
+                                  (>N:art:o:M_S::artd: o)
+                                  (>N:adj:terceiro:M_S::NUM-ord: terceiro)
+                                  (>N:adj:grande:M_S::: maior)
+                                  (H:n:fabricante:M_S::anr_np-def: fabricante)
+                                  (N<:adjp 
+                                    (H:adj:sul-coreano:M_S::: sul-coreano))
+                                  (N<:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:np 
+                                      (H:n:informática:F_S::np-idf: informática))))
+                                (,))
+                       (P:vp (MV:v-fin:decidir:PS_3S_IND::: decidiu))
+                       (ACC:icl (P:vp (MV:v-inf:reduzir:::icl-subst: reduzir))
+                                (ACC:np (>N:art:o:M_P::artd: os)
+                                        (H:n:preço:M_P::np-def: preços)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (>N:pron-det:seu:M_P::: seus)
+                                            (H:n:computador:M_P::anr_np-def: computadores)
+                                            (N<:adjp 
+                                              (H:adj:pessoal:M_P::: pessoais))))))
+                       (.)))

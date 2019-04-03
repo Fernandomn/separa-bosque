@@ -1,0 +1,54 @@
+(FRASE CP748-4 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:valor:M_S::np-def: valor)
+                                 (N<:adjp 
+                                   (H:adj:total:M_S: total))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:compromisso:M_P::np-def: compromissos)
+                                          (N<:v-pcp:assumir:M_P::: assumidos))))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:pp (H:prp:de:::: de)
+                               (P<:np (>N:num:4,2:M_P::card: 4,2)
+                                      (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                      (N<ARG:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:conto:M_P::np-dequant:np-idf: contos)))
+                                      (,)
+                                      (N<PRED:cu 
+                                        (CJT:fcl 
+                                          (SUBJ:np 
+                                            (>N:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (H:pron-indp:o_qual:M_P::rel: os_quais)))
+                                            (>N:num:1,5:M_P::card: 1,5)
+                                            (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões))
+                                          (P:vp 
+                                            (MV:v-fin:ser:PR_3P_IND::: são))
+                                          (SC:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:responsabilidade:F_S::np-def: responsabilidade)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:prop:Governo_Regional_dos_Açores:M_S::: Governo_Regional_dos_Açores)))))
+                                          (ADVL:pp 
+                                            (H:prp:via:::: via)
+                                            (P<:np 
+                                              (H:prop:IIPA:M_S::: IIPA))))
+                                        (CO:conj-c:e:::co-vfin: e)
+                                        (CJT:acl 
+                                          (SUBJ:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n-adj:restante:M_S::np-def: restante))
+                                          (SC:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_P::artd: as)
+                                              (H:n:comunidade:F_P::np-def: comunidades)))))))
+                        (.)))

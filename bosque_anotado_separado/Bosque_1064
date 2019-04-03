@@ -1,0 +1,80 @@
+(FRASE CP198-5 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (>N:pron-det:seu:M_S: seu)
+                                 (H:n:corpo:M_S::anr_np-def: corpo))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:v-pcp:identificar:M_S::anr_pass:passive: identificado))
+                        (ADVL:pp (H:prp:por:::: por)
+                                 (P<:np (H:n:antrometria:F_S::np-idf: antrometria)))
+                        (,)
+                        (ADVL:pp (H:prp:sem:::: sem)
+                                 (P<:np (>N:pron-det:qualquer:F_S::quant: qualquer)
+                                        (H:n:margem:F_S::anr_np-idf: margem)
+                                        (N<:pp 
+                                          (H:prp:para:::: para)
+                                          (P<:np 
+                                            (H:n:dúvida:F_P::np-idf: dúvidas)))))
+                        (,)
+                        (PASS:pp (H:prp:por:::: por+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:n:equipa:F_S::np-def: equipa)
+                                        (N<:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:chefiar:F_S::: chefiada))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:antropólogo:M_S::np-def: antropólogo)
+                                              (N<:np 
+                                                (H:prop:Fredéric_Adam:M_S::: Fredéric_Adam)
+                                                (,)
+                                                (N<PRED:fcl 
+                                                  (SUBJ:np 
+                                                    (H:pron-indp:que:M_S::rel: que))
+                                                  (P:vp 
+                                                    (MV:v-fin:comprovar:PS_3S_IND::fs-rel: comprovou))
+                                                  (ACC:cu 
+                                                    (CJT:np 
+                                                      (>N:art:o:F_S::artd: a)
+                                                      (H:n:estatura:F_S::np-def: estatura)
+                                                      (N<:pp 
+                                                        (H:prp:de:::: de+)
+                                                        (P<:np 
+                                                          (>N:art:o:M_S::artd: o)
+                                                          (H:n:esqueleto:M_S::np-def: esqueleto))))
+                                                    (,)
+                                                    (CJT:np 
+                                                      (>N:art:o:F_S::artd: a)
+                                                      (>N:pron-det:seu:F_S::si: sua)
+                                                      (H:n:idade:F_S::anr_np-def: idade)
+                                                      (N<:pp 
+                                                        (H:prp:a:::: a+)
+                                                        (P<:np 
+                                                          (>N:art:o:S::artd: a)
+                                                          (H:n:data:F_S::np-def: data)
+                                                          (N<:pp 
+                                                            (H:prp:de:::: de+)
+                                                            (P<:np 
+                                                              (>N:art:o:S::artd: a)
+                                                              (H:n:morte:F_S::np-def: morte))))))
+                                                    (CO:conj-c:e:::co-acc: e)
+                                                    (CJT:np 
+                                                      (>N:art:o:F_S::artd: a)
+                                                      (H:n:compleição:F_S::np-def: compleição)
+                                                      (N<:adjp 
+                                                        (H:adj:físico:F_S::: física))))
+                                                  (,)
+                                                  (ADVL:pp 
+                                                    (H:prp:por:::: por)
+                                                    (P<:np 
+                                                      (H:n:comparação:F_S::np-idf: comparação)
+                                                      (N<:pp 
+                                                        (H:prp:com:::: com)
+                                                        (P<:np 
+                                                          (H:n:documento:M_P::np-idf: documentos)
+                                                          (N<:pp 
+                                                            (H:prp:de:::: de+)
+                                                            (P<:np 
+                                                              (>N:art:o:S::artd: a)
+                                                              (H:n:época:F_S::np-def: época))))))))))))))
+                        (.)))

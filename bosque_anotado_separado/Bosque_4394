@@ -1,0 +1,31 @@
+(FRASE CP855-2 (STA:fcl (SUBJ:np (H:pron-indp:isto:M_S::dem: Isto))
+                        (P:vp (AUX:v-fin:poder:FUT_3S_IND: poderá)
+                              (MV:v-inf:levar:::: levar))
+                        (ACC:np (>N:pron-det:muito:M_P::quant: muitos)
+                                (H:n:húngaro:M_P::anr_np-idf: húngaros)
+                                (N<:pp (H:prp:a:::nil: a)
+                                       (P<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:pron-det:esse:M_P::dem: esses)
+                                           (H:n:país:M_P::np-def: países)))))
+                        (PIV:pp (H:prp:a:::: a)
+                                (P<:icl (P:vp 
+                                          (MV:v-inf:decidir:::: decidir))
+                                        (ACC:fcl 
+                                          (SUB:conj-s:que:::: que)
+                                          (SUBJ:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:emigração:F_S::np-def: emigração)
+                                            (N<:pp 
+                                              (H:prp:para:::: para)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:prop:Hungria:F_S::: Hungria))))
+                                          (P:vp 
+                                            (MV:v-fin:ser:PR_3S_IND::fs-subst: é))
+                                          (SC:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (>N:adj:bom:F_S::KOMP:SUP: melhor)
+                                            (H:n:opção:F_S::anr_np-def: opção)))))
+                        (.)))

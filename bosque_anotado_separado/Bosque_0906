@@ -1,0 +1,83 @@
+(FRASE CP171-2 (STA:fcl (SUBJ:np (>N:pron-det:este:M_S::dem: Este)
+                                 (>N:pron-det:mesmo:M_S::diff: mesmo)
+                                 (H:n:espaço:M_S::anr_np-def: espaço)
+                                 (,)
+                                 (N<PRED:pp 
+                                   (H:prp:em:: em+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:coração:M_S::np-def: coração)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:n:cidade:F_S::np-def: cidade))))))
+                        (,)
+                        (P:vp (MV:v-fin:acolher:PR_3S_IND::: acolhe))
+                        (ADVL:cu (CJT:pp 
+                                   (H:prp:ao_longo_de:::: ao_longo_de+)
+                                   (P<:np 
+                                     (>N:art:o:S::artd: a)
+                                     (H:n:semana:F_S::np-def: semana)))
+                                 (CO:conj-c:e:::co-advl: e)
+                                 (CJT:pp 
+                                   (>P:adv:sempre:::: sempre)
+                                   (H:prp:a:::: a+)
+                                   (P<:np 
+                                     (>N:art:o:S::artd: a)
+                                     (>N:pron-det:mesmo:F_S::diff: mesma)
+                                     (H:n:hora:F_S::anr_np-def: hora))))
+                        (ACC:cu (CJT:np (>N:art:um:M_S::arti: um)
+                                        (H:n:espectáculo:M_S::np-idf: espectáculo)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:cu 
+                                            (CJT:np 
+                                              (H:n:música:F_S::np-idf: música))
+                                            (CO:conj-c:e:::co-prparg: e)
+                                            (CJT:np 
+                                              (H:n:dança:F_S::np-idf: dança)
+                                              (N<:adjp 
+                                                (H:adj:sevilhano:F_S::: sevilhana)))))
+                                        ({)
+                                        (N<:np 
+                                          (H:n:dia:M_S::np-idf: dia)
+                                          (N<:adjp 
+                                            (H:num:6:F_S::card: 6)))
+                                        (}))
+                                (,)
+                                (CJT:np (>N:art:o:M_S::artd: o)
+                                        (H:n:grupo:M_S::np-def: grupo)
+                                        (N<:np 
+                                          (H:prop:Negros_de_Luz:M_S::: Negros_de_Luz))
+                                        ({)
+                                        (N<:np 
+                                          (H:n:dia:M_S::np-idf: dia)
+                                          (N<:adjp 
+                                            (H:num:7:M_S::card: 7)))
+                                        (}))
+                                (,)
+                                (CJT:np (H:prop:Fausto:M_S::: Fausto)
+                                        ({)
+                                        (N<:np 
+                                          (H:n:dia:M_S::np-idf: dia)
+                                          (N<:adjp 
+                                            (H:num:8:M_S::card: 8)))
+                                        (}))
+                                (,)
+                                (CJT:np (H:prop:Cesária_Évora:F_S::: Cesária_Évora)
+                                        ({)
+                                        (N<:np 
+                                          (H:n:dia:M_S::np-idf: dia)
+                                          (N<:adjp 
+                                            (H:num:10:M_S::card: 10)))
+                                        (}))
+                                (CO:conj-c:e:::co-acc: e)
+                                (CJT:np (H:prop:Carlos_do_Carmo:M_S::: Carlos_do_Carmo)
+                                        ({)
+                                        (N<:np 
+                                          (H:n:dia:M_S::np-idf: dia)
+                                          (N<:adjp 
+                                            (H:num:11:M_S::card: 11)))
+                                        (})))
+                        (.)))

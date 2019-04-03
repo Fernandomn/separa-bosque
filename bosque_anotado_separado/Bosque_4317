@@ -1,0 +1,35 @@
+(FRASE CP836-4 (STA:fcl (PRED:pp (H:prp:com:: Com)
+                                 (P<:np (>N:pron-det:este:M_S::dem: este)
+                                        (H:n:resultado:M_S::np-def: resultado)))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:prop:FC_Porto:M_S::: FC_Porto))
+                        (P:vp (MV:v-fin:isolar:PS_3S_IND::hyfen: isolou-))
+                        (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (>N:adj:segundo:M_S::NUM-ord: segundo)
+                                        (H:n:lugar:M_S::anr_np-def: lugar)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            («)
+                                            (H:prop:Nacional:M_S::: Nacional)
+                                            (»)))))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:enquanto:_::ks:rel: enquanto))
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:prop:Benfica:M_S::: Benfica))
+                                  (P:vp (MV:v-fin:igualar:PS_3S_IND::: igualou))
+                                  (ACC:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:prop:Ovarense:F_S::: Ovarense))
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:comando:M_S::np-def: comando))))
+                        (.)))

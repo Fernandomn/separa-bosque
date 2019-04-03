@@ -1,0 +1,40 @@
+(FRASE CP293-10 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                  (H:n-adj:português:M_S::np-def: português)
+                                  (N<:np 
+                                    (H:prop:Pedro_Chaves:M_S: Pedro_Chaves)
+                                    ({)
+                                    (N<PRED:np 
+                                      (H:prop:Lola/Cosworth:F_S::: Lola/Cosworth))
+                                    (})))
+                         (P:vp (MV:v-fin:terminar:PS_3S_IND::: terminou))
+                         (ADVL:advp (H:adv:ontem:::: ontem))
+                         (ACC:np (>N:art:o:F_S::artd: a)
+                                 (H:n:corrida:F_S::np-def: corrida)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Fórmula_3000:F_S::: Fórmula_3000)))
+                                 (N<:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:disputar:F_S::: disputada))
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em)
+                                     (P<:np 
+                                       (H:prop:Hockenheim:M_S::: Hockenheim)))))
+                         (SA:pp (H:prp:em:::: em+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (>N:adj:13º.:M_S::NUM-ord: 13º.)
+                                       (H:n:lugar:M_S::anr_np-def: lugar)))
+                         (,)
+                         (ADVL:icl::::ger: 
+                           (P:vp (MV:v-ger:parar:::: parando))
+                           (ADVL:advp (H:adv:logo_a_seguir:::: logo_a_seguir))
+                           (ADVL:pp (H:prp:a:::: a+)
+                                    (P<:np 
+                                      (>N:art:o:S::artd: a)
+                                      (H:n:meta:F_S::np-def: meta)))
+                           (PRED:pp (H:prp:com:::: com)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (>N:adj:motor:M_S::: motor)
+                                      (H:n:partido:M_S::anr_np-def: partido))))
+                         (.)))

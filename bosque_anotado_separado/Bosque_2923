@@ -1,0 +1,40 @@
+(FRASE CP563-2 (STA:fcl (ADVL:icl::pcp: (P:vp 
+                                          (MV:v-pcp:ultrapassar:F_P::: Ultrapassadas))
+                                        (SUBJ:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:consideração:F_P::np-def: considerações)
+                                          (N<:adjp 
+                                            (H:adj:geral:F_P::: gerais))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:documento:M_S::np-def: documento))
+                        (P:vp (MV:v-fin:mergulhar:PR_3S_IND::: mergulha))
+                        (ADVL:np (>N:adv:quase:::quant: quase)
+                                 (H:n:ponto:M_S::anr_np-idf: ponto)
+                                 (N<:pp (H:prp:por:::: por)
+                                        (P<:np 
+                                          (H:n:ponto:M_S::np-idf: ponto))))
+                        (SA:pp (H:prp:em:::: em+)
+                               (P<:np (>N:art:o:F_P::artd: as)
+                                      (H:n:proposta:F_P::np-def: propostas)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:ministério:M_S::np-def: ministério)))))
+                        (ADVL:cu (CJT:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:sugerir:::: sugerindo))
+                                   (ACC:np 
+                                     (H:n:caminho:M_P::np-idf: caminhos)))
+                                 (,)
+                                 (CJT:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:apresentar:::: apresentando))
+                                   (ACC:cu 
+                                     (CJT:np 
+                                       (H:n:alternativa:F_P::np-idf: alternativas))
+                                     (CO:conj-c:e:::co-acc: e)
+                                     (CJT:np 
+                                       (H:n:recomendação:F_P::np-idf: recomendações)))))
+                        (.)))

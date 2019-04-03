@@ -1,0 +1,37 @@
+(FRASE CP857-1 (STA:fcl (ADVL:pp:por_outro_lado:: Por_outro_lado)
+                        (,)
+                        (ADVL:pp (H:prp:no_caso_de:::: no_caso_de+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:haxixe:M_S::anr_np-idf: haxixe)))
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:risco:M_P::np-def: riscos)
+                                 (N<:pp (H:prp:para:::: para)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:saúde:F_S::np-def: saúde))))
+                        (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                        (SC:adjp (H:adj:comparável:M_P::: comparáveis)
+                                 (A<:pp (H:prp:a:::: a+)
+                                        (P<:np 
+                                          (H:pron-det:o:M_P::dem: os)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:produto:M_P::np-idf: produtos)
+                                              (N<:acl 
+                                                (COM:adv:como:::rel: como)
+                                                (SUBJ:cu 
+                                                  (CJT:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (H:n:álcool:M_S::np-def: álcool))
+                                                  (,)
+                                                  (CJT:np 
+                                                    (H:n:tabaco:M_S::np-idf: tabaco))
+                                                  (,)
+                                                  (CJT:np 
+                                                    (H:n:café:M_S::np-idf: café))
+                                                  (CO:conj-c:e:::: e)
+                                                  (CJT:np 
+                                                    (>N:pron-det:certos:M_P::quant: certos)
+                                                    (H:n:medicamento:M_P::anr_np-idf: medicamentos)))))))))
+                        (.)))

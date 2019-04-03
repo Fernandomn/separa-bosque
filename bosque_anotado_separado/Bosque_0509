@@ -1,0 +1,41 @@
+(FRASE CP96-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                (H:prop:Kapiti:F_S: Kapiti))
+                       (P:vp (MV:v-fin:fornecer:PS_3S_IND::: forneceu))
+                       (PIV:pp (H:prp:a:::: a+)
+                               (P<:np (>N:art:o:M_S::artd: o)
+                                      (H:prop:Banco_de_Comércio_e_Indústria:M_S::: Banco_de_Comércio_e_Indústria)
+                                      ({)
+                                      (APP:np 
+                                        (H:prop:BCI:M_S::: BCI))
+                                      (})))
+                       (ACC:np (>N:art:o:M_P::artd: os)
+                               (H:n:sistema:M_P::np-def: sistemas)
+                               (N<:cu (CJT:np 
+                                        (H:prop:Equation:M_S::: Equation)
+                                        (,)
+                                        (N<PRED:np 
+                                          («)
+                                          (H:n:back-office:F_S::anr_np-idf: back-office)
+                                          (»)
+                                          (N<:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:np 
+                                              (H:n:operação:F_P::np-idf: operações)
+                                              (N<:adjp 
+                                                (H:adj:internacional:F_P::: internacionais))))))
+                                      (,)
+                                      (CO:conj-c:e:::co-acc: e)
+                                      (CJT:np 
+                                        (H:prop:FS-Dealer:F_S::: FS-Dealer)
+                                        (,)
+                                        (N<PRED:np 
+                                          («)
+                                          (H:n:front-office:F_S::anr_np-idf: front-office)
+                                          (»)
+                                          (N<:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:np 
+                                              (H:n:operação:F_P::np-idf: operações)
+                                              (N<:adjp 
+                                                (H:adj:cambial:F_P::: cambiais))))))))
+                       (.)))

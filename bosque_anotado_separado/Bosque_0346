@@ -1,0 +1,78 @@
+(FRASE CP63-2 (STA:fcl (ADVL:pp (H:prp:quanto_a:: Quanto_a+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:n:contrato:M_S::np-def: contrato)
+                                       (N<:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (H:prop:Teerão:M_S::: Teerão)))
+                                       (,)
+                                       (N<PRED:fcl 
+                                         (SUBJ:np 
+                                           (>N:pron-det:cujo:M_S::rel: cujo)
+                                           (H:n:montante:M_S::anr_np-idf: montante))
+                                         (ADVL:advp 
+                                           (H:adv:não:::: não))
+                                         (P:vp 
+                                           (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                           (MV:v-pcp:especificar:M_S::anr_pass:fs-rel:passive: especificado)))
+                                       (,)))
+                       (SUBJ:np (>N:art:o:M_S::artd: o)
+                                (H:n:ministro:M_S::np-def: ministro)
+                                (N<:adjp 
+                                  (H:adj:russo:M_S::: russo))
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:prop:Energia_Atómica:F_S::: Energia_Atómica))))
+                       (P:vp (MV:v-fin:explicar:PS_3S_IND::: explicou))
+                       (ACC:fcl (SUB:conj-s:que:::: que)
+                                (SUBJ:np 
+                                  (H:pron-pers:ele:M_3S_NOM::: ele))
+                                (P:vp (MV:v-fin:incluir:PR_3S_IND::fs-subst: inclui))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:venda:F_S::np-def: venda)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:num:dois:M_P::card: dois)
+                                            (H:n:reactor:M_P::anr_np-count:anr_np-def: reactores)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:tipo:M_S::np-idf: tipo)
+                                                (N<:np 
+                                                  (H:prop:VVER-440:M_S::: VVER-440))))
+                                            (,)
+                                            (N<PRED:pp 
+                                              (H:prp:com:::: com)
+                                              (P<:np 
+                                                (>N:art:um:F_S::arti: uma)
+                                                (H:n:potência:F_S::np-idf: potência)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (>N:num:440:M_P::card: 440)
+                                                    (H:n:megawatt:M_P::anr_np-count:anr_np-def: megawatts)))))
+                                            (,))))
+                                (ADVL:pp 
+                                  (H:prp:para:::: para)
+                                  (P<:icl 
+                                    (P:vp 
+                                      (AUX:v-inf:ser:3P::: serem)
+                                      (MV:v-pcp:instalar:M_P::anr_pass:icl-fin:passive: instalados))
+                                    (ADVL:pp 
+                                      (H:prp:em:::: em)
+                                      (P<:np 
+                                        (H:prop:Bouchehr:M_S::: Bouchehr)))))
+                                (,)
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:sul:M_S::np-def: sul)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:prop:Irão:M_S::: Irão))))))
+                       (.)))

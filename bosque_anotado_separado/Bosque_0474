@@ -1,0 +1,54 @@
+(FRASE CP87-7 (STA:fcl (CO:conj-c:mas:: Mas)
+                       (SUBJ:np (>N:art:o:F_S::artd: a)
+                                (H:n:comissão:F_S::np-def: comissão)
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:prop:CEE:F_S::: CEE)))
+                                (N<:pp (H:prp:para:::: para)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:segurança:F_S::np-def: segurança)
+                                         (N<:adjp 
+                                           (H:adj:alimentar:F_S::: alimentar)))))
+                       (,)
+                       (ADVL:icl::::pcp: 
+                         (P:vp (MV:v-pcp:basear:F_S::: baseada))
+                         (PIV:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:perito:M_P::np-idf: peritos)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (>N:num:doze:M_P::card:prop: Doze)
+                                            (H:n:país:M_P::anr_np-count:anr_np-def: países))))))
+                       (,)
+                       (P:vp (MV:v-fin:aprovar:PS_3S_IND::: aprovou))
+                       (ACC:np (>N:art:o:M_P::artd: os)
+                               (H:n:ciclamato:M_P::np-def: ciclamatos))
+                       (ADVL:advp (H:adv:depois:::: depois)
+                                  (A<arg:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:icl 
+                                      (P:vp 
+                                        (MV:v-inf:analisar:::: analisar))
+                                      (ACC:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:consumo:M_S::np-def: consumo)
+                                        (N<:adjp 
+                                          (H:adj:médio:M_S::: médio))
+                                        (N<:pp 
+                                          (H:prp:em_relação_a:::: em_relação_a+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n-adj:humano:M_P::np-def: humanos))))
+                                      (ADVL:pp 
+                                        (H:prp:durante:::: durante)
+                                        (P<:np 
+                                          (>N:art:um:M_S::arti: um)
+                                          (H:n:período:M_S::np-idf: período)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:vida:F_S::np-idf: vida))))))))
+                       (.)))

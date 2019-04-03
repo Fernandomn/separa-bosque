@@ -1,0 +1,38 @@
+(FRASE CP787-1 (STA:fcl (ADVL:icl::ger: (P:vp 
+                                          (MV:v-ger:voltar:::: Voltando))
+                                        (SA:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:terror:M_P::np-def: terrores)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:prop:Lapa_dos_Morcegos:F_S::: Lapa_dos_Morcegos))))))
+                        (;)
+                        (PRED:icl::::pcp: 
+                          (P:vp (MV:v-pcp:fartar:M_P::: fartos))
+                          (PIV:pp (H:prp:de:::: de)
+                                  (P<:np 
+                                    (>N:pron-det:tanto:F_P::KOMP:quant: tantas)
+                                    (H:n:vítima:F_P::anr_np-idf: vítimas))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:aldeão:M_P::np-def: aldeões))
+                        (P:vp (MV:v-fin:decidir:PR_3P_IND::: decidem))
+                        (ACC:icl (P:vp (MV:v-inf:armar:::icl-subst: armar))
+                                 (ACC:np 
+                                   (>N:art:um:M_S::arti: um)
+                                   (H:n:cavaleiro:M_S::np-idf: cavaleiro)
+                                   (N<:adjp 
+                                     (H:adj:capaz:M_S::: capaz)
+                                     (A<arg:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:icl 
+                                         (P:vp 
+                                           (MV:v-inf:defrontar:::: defrontar))
+                                         (ACC:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:fera:F_S::np-def: fera)))))))
+                        (.)))

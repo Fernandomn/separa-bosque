@@ -1,0 +1,25 @@
+(FRASE CP544-5 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (>N:adj:eventual:M_P: eventuais)
+                                 (H:n:ganho:M_P::anr_np-def: ganhos))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (AUX:v-fin:ser:PR_3P_COND::: seriam)
+                                      (MV:v-pcp:depositar:M_P::anr_pass:passive: depositados))
+                                (SA:pp (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:F_P::artd: as)
+                                         (H:n:conta:F_P::np-def: contas)
+                                         (N<:adjp 
+                                           (H:adj:bancário:F_P::: bancárias))
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:apostador:M_P::np-def: apostadores))))))
+                              (CO:conj-c:ou:::co-pcv: ou)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-pcp:enviar:M_P::: enviados))
+                                (ADVL:pp 
+                                  (H:prp:por:::: por)
+                                  (P<:np 
+                                    (H:n:correio:M_S::np-idf: correio)))))
+                        (.)))

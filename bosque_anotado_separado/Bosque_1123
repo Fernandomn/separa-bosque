@@ -1,0 +1,69 @@
+(FRASE CP207-11 (UTT:np (H:n:passo:M_S::np-idf: Passo)
+                        (N<:adjp (H:num:4:M_S::card: 4))
+                        (;)
+                        (N<PRED:fcl (P:vp 
+                                      (MV:v-fin:fazer:PR_3S_SUBJ::nosubj: faça))
+                                    (ACC:np 
+                                      (>N:art:um:F_S::arti: uma)
+                                      (H:n:bola:F_S::np-idf: bola))
+                                    (ADVL/N<[+1]:cu 
+                                      (CJT:pp 
+                                        (H:prp:em_torno_de:: em_torno_de)
+                                        (P<:np 
+                                          (>N:art:um:F_S::arti: uma)
+                                          (H:n:consoante:F_S::np-idf: consoante)
+                                          (N<:np 
+                                            (H:pron-det:qualquer:F_S::quant: qualquer))
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:S::artd: a)
+                                              (>N:pron-det:seu:F_S::: sua)
+                                              (H:n:cadeia:F_S::anr_np-def: cadeia)))))
+                                      (,)
+                                      (CO:conj-c:e:::co-advl: e)
+                                      (CJT:acl::::Es: 
+                                        (ADVL:pp 
+                                          (H:prp:a_partir_de:::: a_partir_de+)
+                                          (P<:np 
+                                            (H:pron-det:esse:F_S::dem: essa)))
+                                        (ADVL:pp 
+                                          (H:prp:em_torno_de:::Es: em_torno_de)
+                                          (P<:np 
+                                            (>N:pron-det:todo_o:F_P::quant: todas_as)
+                                            (H:n:consoante:F_P::anr_np-def: consoantes)
+                                            (N<:icl::::pcp: 
+                                              (P:vp 
+                                                (MV:v-pcp:contar:F_P::: contadas))
+                                              (ADVL:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:adjp 
+                                                  (H:num:7:M_P::card: 7)
+                                                  (NUM<:pp 
+                                                    (H:prp:em:::: em)
+                                                    (P<:adjp 
+                                                      (H:num:7:M_P::card: 7))))))
+                                            ({)
+                                            (APP:cu 
+                                              (CJT:adjp 
+                                                (H:adj:7ª:F_S::NUM-ord: 7ª))
+                                              (,)
+                                              (CJT:adjp 
+                                                (H:adj:14ª:F_S::NUM-ord: 14ª))
+                                              (,)
+                                              (CJT:advp 
+                                                (H:adv:etc.:::: etc.)))
+                                            (})))))
+                                    (,)
+                                    (ADVL:icl::::ger: 
+                                      (P:vp 
+                                        (MV:v-ger:construir:::: construindo))
+                                      (ACC:np 
+                                        (>N:art:um:F_S::arti: uma)
+                                        (>N:adj:novo:F_S::: nova)
+                                        (H:n:cadeia:F_S::anr_np-idf: cadeia)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:consoante:F_P::np-idf: consoantes))))))
+                        (.)))

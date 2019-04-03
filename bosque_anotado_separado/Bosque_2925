@@ -1,0 +1,40 @@
+(FRASE CP563-4 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:pron-det:este:M_S::dem: este)
+                                        (H:n:ponto:M_S::np-def: ponto)))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:prop:CNE:M_S::: CNE))
+                        (P:vp (MV:v-fin:avançar:PR_3S_IND::: avança))
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (>N:num:dois:M_P::card: dois)
+                                        (H:n:cenário:M_P::anr_np-count:anr_np-def: cenários)
+                                        (N<:pp 
+                                          (H:prp:sobre:::: sobre)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:controvérsia:F_S::np-def: controvérsia)))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:revelar:::: revelando))
+                          (ACC:fcl (SUB:conj-s:como:::: como)
+                                   (SUBJ:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:consenso:M_S::np-def: consenso)
+                                     (N<:pp 
+                                       (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:seio:M_S::np-def: seio)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:conselheiro:M_P::np-def: conselheiros))))))
+                                   (ADVL:advp 
+                                     (H:adv:não:::: não))
+                                   (P:vp 
+                                     (AUX:v-fin:ter:PR_3S_IND::: tem)
+                                     (MV:v-pcp:ser:::icl-subst: sido))
+                                   (SC:adjp 
+                                     (H:adj:fácil:M_S::: fácil))))
+                        (.)))

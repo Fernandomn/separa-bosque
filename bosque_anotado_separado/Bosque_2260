@@ -1,0 +1,67 @@
+(FRASE CP431-2 (STA:fcl (ADVL:advp (H:adv:ontem:: Ontem)
+                                   (A<:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:noite:F_S::np-def: noite))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:clube:M_S::np-idf: clube)
+                                        (N<:adjp 
+                                          (H:adj:desportivo:M_S::: desportivo))
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Darwin:MF_S::: Darwin)))))
+                        (,)
+                        (SUBJ:np (>N:pron-det:muito:M_P::quant: muitos)
+                                 (H:n:australiano:M_P::anr_np-idf: australianos))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:sentar:PS_3P_IND::hyfen: sentaram-))
+                                (ACC:np (H:pron-pers:se:M_3P_ACC::refl: se))
+                                (ADVL:pp 
+                                  (H:prp:ao_lado_de:::: ao_lado_de+)
+                                  (P<:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (H:n:estudante:M_P::anr_np-idf: estudantes))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:levantar:PS_3P_IND::hyfen: levantaram-))
+                                (ACC:np (H:pron-pers:se:M_3P_ACC::refl: se))
+                                (ADVL:pp 
+                                  (H:prp:para:::: para)
+                                  (P<:icl 
+                                    (P:vp 
+                                      (MV:v-inf:gritar:::icl-fin: gritar))
+                                    (ACC:cu 
+                                      («)
+                                      (CJT:np 
+                                        (H:prop:Viva_a_missão_de_paz!:F_S::: Viva_a_missão_de_paz!))
+                                      (»)
+                                      (,)
+                                      («)
+                                      (CJT:np 
+                                        (H:prop:Viva_Timor-Leste:F_S::: Viva_Timor-Leste))
+                                      (»)
+                                      (,)
+                                      («)
+                                      (CJT:np 
+                                        (H:prop:Viva_Xanana:F_S::: Viva_Xanana))
+                                      (»))))
+                                (,)
+                                (ADVL:fcl 
+                                  (ADVL:advp 
+                                    (H:adv:quando:::ks: quando))
+                                  (P:vp (MV:v-fin:estar:PR_3S_IND::: está))
+                                  (SC:adjp 
+                                    (H:adj:próximo:F_S::: próxima))
+                                  (SUBJ:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:chegada:F_S::np-def: chegada)
+                                    (N<ARGS:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:prop:Lusitânia:M_S::: Lusitânia)))))))
+                        (.)))

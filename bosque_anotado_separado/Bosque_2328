@@ -1,0 +1,18 @@
+(FRASE CP443-3 (UTT:np (>N:art:o:M_S::artd: O)
+                       (H:n:volume:M_S::np-def: volume)
+                       (N<:pp (H:prp:de:: de)
+                              (P<:np (H:n:negócio:M_P::np-idf: negócios)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:sessão:F_S::np-def: sessão)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:adv:ontem:::: ontem))))))
+                       (N<:np (>N:num:31,2:M_P::card: 31,2)
+                              (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                              (N<ARG:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:conto:M_P::np-dequant:np-idf: contos))))
+                       (.)))

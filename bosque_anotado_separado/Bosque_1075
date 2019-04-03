@@ -1,0 +1,56 @@
+(FRASE CP201-1 (STA:fcl (ADVL:pp (H:prp:segundo:: Segundo)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:prop:Instituto_Nacional_de_Estatística:M_S::: Instituto_Nacional_de_Estatística)
+                                        ({)
+                                        (APP:np 
+                                          (H:prop:INE:M_S::: INE))
+                                        (})))
+                        (,)
+                        (SUBJ:np (H:prop:Portugal:M_S::: Portugal))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:exportar:PS_3S_IND::: exportou))
+                                (ACC:np (>N:num:265,2:M_P::card: 265,2)
+                                        (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                        (N<ARG:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:conto:M_P::np-dequant:np-idf: contos)))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:importar:PS_3S_IND::nosubj: importou))
+                                (ACC:np (>N:num:521:M_P::card: 521)
+                                        (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                        (N<ARG:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:conto:M_P::np-dequant:np-idf: contos))))))
+                        (,)
+                        (ADVL:pp (H:prp:durante:::: durante)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (>N:adj:primeiro:M_P::NUM-ord: primeiros)
+                                        (>N:num:cinco:M_P::card: cinco)
+                                        (H:n:mês:M_P::anr_np-count:anr_np-def: meses)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:adjp 
+                                            (H:num:1995:M_S::card: 1995)))))
+                        (,)
+                        (S<:fcl (SUBJ:np 
+                                  (H:pron-indp:o_que:M_S::rel: o_que))
+                                (P:vp (MV:v-fin:resultar:PS_3S_IND::: resultou))
+                                (PIV:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:um:M_S::arti: um)
+                                          (H:n:défice:M_S::np-idf: défice)
+                                          (N<:adjp 
+                                            (H:adj:comercial:M_S::: comercial))
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (>N:num:255,8:M_P::card: 255,8)
+                                              (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                              (N<ARG:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:conto:M_P::np-dequant:np-idf: contos))))))))
+                        (.)))

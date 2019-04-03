@@ -1,0 +1,40 @@
+(FRASE CP813-6 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:prop:Governo:M_S: Governo))
+                        (ADVL:advp (>A:adv:ainda:::: ainda)
+                                   (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:delinear:PS_3S_IND::: delineou))
+                        (ACC:np (>N:art:o:M_P::artd: os)
+                                (H:n:contorno:M_P::np-def: contornos)
+                                (N<:adjp 
+                                  (H:adj:definitivo:M_P::: definitivos))
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:operação:F_S::np-def: operação))))
+                        (,)
+                        (S<:fcl (SUBJ:np 
+                                  (H:pron-indp:o_que:M_S::rel: o_que))
+                                (P:vp (AUX:v-fin:dever:FUT_3S_IND::: deverá)
+                                      (MV:v-inf:acontecer:::: acontecer))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:cu 
+                                    (CJT:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:final:M_S::np-def: final)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:abril:M_S::np-idf:prop: Abril))))
+                                    (CO:conj-c:ou:::co-prparg: ou)
+                                    (CJT:np 
+                                      (H:n:princípio:M_S::np-idf: princípio)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np::::date: 
+                                          (H:n:maio:M_S::anr_np-idf:prop: Maio))))))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em)
+                                  (P<:np 
+                                    (H:prop:Conselho_de_Ministros:M_S::: Conselho_de_Ministros))))
+                        (.)))

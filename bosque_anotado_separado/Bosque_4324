@@ -1,0 +1,79 @@
+(FRASE CP838-3 (STA:fcl (ADVL:pp (H:prp:segundo:: Segundo)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Roche:F_S::: Roche)))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:medicamento:M_S::np-def: medicamento)
+                                 (--)
+                                 (N<PRED:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:utilizar:M_S::: utilizado))
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (>N:adj:último:M_P::NUM-ord: últimos)
+                                       (>N:num:cinco:M_P::card: cinco)
+                                       (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))
+                                   (ADVL:pp 
+                                     (H:prp:sem:::: sem)
+                                     (P<:np 
+                                       (H:n:problema:M_P::np-idf: problemas)))
+                                   (PASS:pp 
+                                     (H:prp:por:::: por)
+                                     (P<:adjp 
+                                       (>N:adjp 
+                                         (>A:adv:mais_de:::quant: mais_de)
+                                         (H:num:15:M_P::card: 15))
+                                       (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                       (N<ARG:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:americano:M_P::np-dequant:np-idf: americanos))))))
+                                 (--))
+                        (P:vp- (AUX:v-fin:ser:PS_3S_IND::: foi))
+                        (ADVL:advp (H:adv:clinicamente:::: clinicamente))
+                        (-P:vp (MV:v-pcp:testar:M_S::anr_pass:passive: testado))
+                        (ADVL:cu (CJT:pp 
+                                   (H:prp:em:::: em+)
+                                   (P<:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (H:prop:Estados_Unidos:M_P::: Estados_Unidos)))
+                                 (CO:conj-c:e:::co-advl: e)
+                                 (CJT:pp 
+                                   (H:prp:em:::: em+)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:prop:Europa:F_S::: Europa))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          («)
+                          (ADVL:advp (H:adv:não:::: não))
+                          (P:vp (AUX:v-ger:ter:::: tendo)
+                                (AUX:v-pcp:ser:::: sido)
+                                (MV:v-pcp:registar:M_S::anr_pass:passive: registado))
+                          (ACC:np (>N:pron-det:qualquer:F_S::quant: qualquer)
+                                  (H:n:morte:F_S::anr_np-idf: morte)
+                                  (,)
+                                  (N<PRED:fcl 
+                                    (SUBJ:np 
+                                      (>N:pron-det:cujo:F_P::rel: cujas)
+                                      (H:n:causa:F_P::anr_np-idf: causas))
+                                    (P:vp 
+                                      (AUX:v-fin:poder:IMPF_3P_SUBJ::: pudessem)
+                                      (AUX:v-inf:ser:::: ser)
+                                      (MV:v-pcp:atribuir:F_P::anr_pass:fs-rel:passive: atribuidas))
+                                    (PIV:pp 
+                                      (H:prp:a:::: a+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:administração:F_S::np-def: administração)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (')
+                                            (H:prop:Versed:M_S::: Versed)
+                                            (')))))))
+                          (»))
+                        (.)))

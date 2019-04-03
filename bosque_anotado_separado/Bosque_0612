@@ -1,0 +1,40 @@
+(FRASE CP120-6 (STA:fcl (ADVL:pp (H:prp:por:: Por)
+                                 (P<:np (>N:pron-det:este:M_S::dem: este)
+                                        (H:n:andar:M_S::np-def: andar)))
+                        (,)
+                        (SUBJ:np (H:prop:Portugal:M_S::: Portugal))
+                        (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                              (MV:v-inf:ter:::: ter))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:campeonato:M_S::np-def: campeonato)
+                                (N<:pp (H:prp:com:::: com)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:ciclo:M_S::np-def: ciclo)
+                                         (N<:adjp 
+                                           (>A:adv:mais:::quant: mais)
+                                           (H:v-pcp:alargar:M_S::: alargado))
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:jogo:M_P::np-idf: jogos)
+                                             (N<:pp 
+                                               (H:prp:em:::: em)
+                                               (P<:np 
+                                                 (>N:pron-det:cada:F_S::quant: cada)
+                                                 (H:n:semana:F_S::anr_np-def: semana)))))))
+                                (,)
+                                (N<PRED:pp 
+                                  (H:prp:com:::: com)
+                                  (P<:np 
+                                    (H:n:jogo:M_P::np-idf: jogos)
+                                    (N<:x 
+                                      (X:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:sexta:F_S::np-idf: sexta)))
+                                      (X:pp 
+                                        (H:prp:a:::: a)
+                                        (P<:np 
+                                          (H:n:segunda-feira:F_S::np-idf: segunda-feira)))))))
+                        (.)))

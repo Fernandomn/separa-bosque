@@ -1,0 +1,67 @@
+(FRASE CP610-4 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (>N:num:onze:M_P::card: onze)
+                                 (H:n:remate:M_P::anr_np-count:anr_np-def: remates)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Sporting:M_S::: Sporting)))
+                                 (N<:pp (H:prp:contra:::: contra)
+                                        (P<:adjp 
+                                          (>A:adv:apenas:::: apenas)
+                                          (H:num:um:M_S::card: um)
+                                          (A<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:prop:Chaves:M_S::: Chaves)))
+                                          (,)
+                                          (N<PRED:pp 
+                                            (H:prp:durante:::: durante)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:metade:F_S::np-def:numfract: metade)
+                                              (N<:adjp 
+                                                (H:adj:inicial:F_S::: inicial))))
+                                          (,))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:dar:PR_3P_IND::: dão))
+                                (ADVL:advp 
+                                  (H:adv:bem:::quant: bem))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:ideia:F_S::np-def: ideia)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:superioridade:F_S::np-def: superioridade)
+                                            (N<:adjp 
+                                              (H:adj:atacante:F_S::: atacante))
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (H:n:homem:M_P::np-def: homens)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:prop:Alvalade:MF_S::: Alvalade)))))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (ADVL:advp 
+                                  (H:adv:não:::: não))
+                                (P:vp (MV:v-fin:abonar:PR_3P_IND::nosubj: abonam))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em)
+                                  (P<:np 
+                                    (H:pron-indp:nada:M_S::quant: nada)))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:capacidade:F_S::np-def: capacidade)
+                                        (N<:adjp 
+                                          (H:adj:concretizador:F_S::: concretizadora))
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (>N:pron-det:seu:M_P::: seus)
+                                            (H:n:avançado:M_P::anr_np-def: avançados))))))
+                        (.)))

@@ -1,0 +1,34 @@
+(FRASE CP507-1 (STA:fcl (ADVL:advp (H:adv:assim:kc: Assim))
+                        (,)
+                        (ADVL:pp (H:pp:de_acordo:::: de_acordo)
+                                 (A<:pp (H:prp:com:::: com)
+                                        (P<:np 
+                                          (H:n:informação:F_S::np-idf: informação)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:prop:CML:F_S::: CML))))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Rua_Edison:F_S::: Rua_Edison)))
+                        (P:vp (MV:v-fin:inverter:PR_3S_IND::hyfen: inverte-))
+                        (SUBJ:np (H:pron-pers:se:MF_3SP_ACC::: se))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:sentido:M_S::np-def: sentido))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (AUX:v-ger:passar:::: passando)
+                                (PRT-AUX:prp:a:::: a)
+                                (MV:v-inf:circular:::hyfen: circular-))
+                          (SUBJ:np (H:pron-pers:se:MF_3SP_ACC::: se))
+                          (SA:pp (H:prp:de:::: de+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Av._de_Roma:F_S::: Av._de_Roma)
+                                        (N<:pp 
+                                          (H:prp:para:::: para)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:prop:Av._de_Madrid:F_S::: Av._de_Madrid))))))
+                        (.)))

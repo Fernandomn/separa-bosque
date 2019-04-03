@@ -1,0 +1,55 @@
+(FRASE CP104-4 (STA:fcl («)
+                        (SUBJ:icl (P:vp (MV:v-inf:dizer:icl-subst: Dizer))
+                                  (ACC:fcl 
+                                    (SUB:conj-s:que:::: que)
+                                    (P:vp 
+                                      (MV:v-fin:ser:PR_3S_IND::fs-subst: é))
+                                    (SC:adjp 
+                                      (H:adj:necessário:M_S::: necessário))
+                                    (SUBJ:np 
+                                      (>N:adjp 
+                                        (>A:pron-det:mais:M_S::quant: mais)
+                                        (H:num:um:M_S::card: um))
+                                      (H:n:documento:M_S::anr_np-count:anr_np-def: documento))
+                                    (ADVL:pp 
+                                      (H:prp:para:::: para)
+                                      (P<:icl 
+                                        (P:vp 
+                                          (MV:v-inf:repetir:::icl-fin: repetir))
+                                        (ACC:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:o_que:M_S::rel: o_que))
+                                          (ADVL:advp 
+                                            (H:adv:já:::: já))
+                                          (P:vp 
+                                            (MV:v-fin:estar:PR_3S_IND::fs-subst: está))
+                                          (SA:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:adjp 
+                                              (>N:art:o:M_P::artd: os)
+                                              (>N:pron-det:outro:M_P::diff: outros)
+                                              (H:num:dois:M_P::anr_np-def:card: dois))))))))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:icl (P:vp (MV:v-inf:dizer:::: dizer))
+                                (ACC:fcl 
+                                  (SUB:conj-s:que:::: que)
+                                  (SUBJ:np 
+                                    (>N:pron-det:aquele:M_P::dem: aqueles)
+                                    (H:pron-det:outro:M_P::diff:np-def: outros))
+                                  (X:cu (CJT:x::::predicate: 
+                                          (ADVL:advp 
+                                            (H:adv:já_não:::: já_não))
+                                          (P:vp 
+                                            (MV:v-fin:ter:PR_3P_IND::fs-subst: têm))
+                                          (ACC:np 
+                                            (H:n:interesse:M_S::np-idf: interesse)))
+                                        (CO:conj-c:ou:_::co-fmc:co-vfin: ou)
+                                        (CJT:x::::predicate: 
+                                          (ADVL:advp 
+                                            (H:adv:já_não:::: já_não))
+                                          (P:vp 
+                                            (MV:v-fin:valer:PR_3P_IND::fs-subst:nosubj: valem))
+                                          (ACC:np 
+                                            (H:pron-indp:nada:M_S::quant: nada))))))
+                        (.)
+                        (»)))

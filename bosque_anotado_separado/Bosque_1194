@@ -1,0 +1,42 @@
+(FRASE CP222-2 (STA:fcl (SUBJ:np (>N:pron-det:algum:M_P::quant: Alguns)
+                                 (H:n:milhar:M_P::anr_np-idf:card:num: milhares)
+                                 (N<ARG:pp 
+                                   (H:prp:de:: de)
+                                   (P<:np 
+                                     (H:n:trabalhador:M_P::np-dequant:np-idf: trabalhadores)))
+                                 (N<:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:afectar:M_P::: afectos))
+                                   (PIV:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:S::artd: a)
+                                       (H:prop:CGTP:F_S::: CGTP)))))
+                        (P:vp (MV:v-fin:desfilar:PS_3P_IND::: desfilaram))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (ADVL:pp (H:prp:por:::: por+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:n:baixa:F_S::np-def: baixa)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Lisboa:F_S::: Lisboa)))))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:protesto:M_S::np-idf: protesto)
+                                        (N<:pp 
+                                          (H:prp:contra:::: contra)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:política:F_S::np-def: política)
+                                            (N<:cu 
+                                              (CJT:adjp 
+                                                (H:adj:económico:F_S::: económica))
+                                              (CO:conj-c:e:::co-postnom: e)
+                                              (CJT:adjp 
+                                                (H:adj:social:F_S::: social)))
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:prop:Governo:M_S::: Governo)))))))
+                        (.)))

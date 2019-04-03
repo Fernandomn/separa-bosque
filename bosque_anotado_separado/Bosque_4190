@@ -1,0 +1,30 @@
+(FRASE CP813-5 (STA:fcl (ADVL:advp (H:adv:no_entanto:kc: No_entanto))
+                        (,)
+                        (SC:vp (H:prp:por:::: por)
+                               (P<:v-inf:definir:::: definir))
+                        (P:vp (MV:v-fin:continuar:PR_3P_IND::: continuam))
+                        (SUBJ:np (>N:art:o:F_P::artd: as)
+                                 (H:n:parcela:F_P::np-def: parcelas)
+                                 (N<:adjp 
+                                   (H:adj:exacto:F_S::: exactas))
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:capital:M_S::np-idf: capital)))
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:F_P::rel: que))
+                                   (P:vp 
+                                     (AUX:v-fin:ser:FUT_3P_IND::: serão)
+                                     (MV:v-pcp:alienar:F_P::anr_pass:fs-rel:passive: alienadas))
+                                   (ADVL:cu 
+                                     (CJT:pp 
+                                       (H:prp:em:::: em)
+                                       (P<:np 
+                                         (H:prop:Portugal:M_S::: Portugal)))
+                                     (CO:conj-c:e:::co-advl: e)
+                                     (CJT:pp 
+                                       (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:estrangeiro:M_S::np-def: estrangeiro))))))
+                        (.)))

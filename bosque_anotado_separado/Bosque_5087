@@ -1,0 +1,32 @@
+(FRASE CP991-3 (UTT:np (H:n:peça:F_S::np-idf: Peça)
+                       (N<:cu (CJT:adjp (H:adj:único:F_S: única))
+                              (CO:conj-c:e:::co-postnom: e)
+                              (CJT:adjp (H:adj:inimitável:F_S::: inimitável)))
+                       (N<:pp (H:prp:em:::: em+)
+                              (P<:np (>N:art:o:M_S::artd: o)
+                                     (H:n:contexto:M_S::np-def: contexto)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:teatro:M_S::np-def: teatro)
+                                         (N<:adjp 
+                                           (H:adj:inglês:M_S::: inglês))
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:pron-det:este:M_S::dem: este)
+                                             (H:n:século:M_S::np-def: século)))))))
+                       (,)
+                       (N<PRED:icl::::ger: 
+                         (P:vp (MV:v-ger:oscilar:::: oscilando))
+                         (ADVL:pp (H:prp:entre:::: entre)
+                                  (P<:cu 
+                                    (CJT:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:naturalismo:M_S::np-def: naturalismo))
+                                    (CO:conj-c:e:::co-prparg: e)
+                                    (CJT:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:lirismo:M_S::np-def: lirismo)))))
+                       (.)))

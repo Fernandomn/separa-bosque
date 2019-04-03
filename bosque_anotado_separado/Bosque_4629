@@ -1,0 +1,68 @@
+(FRASE CP898-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:Organização_dos_Países_Exportadores_de_Petróleo:F_S: Organização_dos_Países_Exportadores_de_Petróleo)
+                                 ({)
+                                 (APP:np 
+                                   (H:prop:OPEP:F_S::: OPEP))
+                                 (}))
+                        (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                              (MV:v-inf:pedir:::: pedir))
+                        (PIV:pp (H:prp:a:::: a)
+                                (P<:np (>N:pron-det:todo_o:M_P::quant: todos_os)
+                                       (>N:pron-det:seu:M_P::si: seus)
+                                       (H:n:membro:M_P::anr_np-def: membros)))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (>N:adj:próximo:F_S::: próxima)
+                                        (H:n:reunião:F_S::anr_np-def: reunião)
+                                        (,)
+                                        (N<PRED:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:marcar:F_S::: marcada))
+                                          (ADVL:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:adjp::::date: 
+                                              (H:num:13:M_S::card: 13)
+                                              (A<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:fevereiro:M_S::np-idf:prop: Fevereiro))))))
+                                        (,)))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:fcl 
+                                   (SUB:conj-s:que:::: que)
+                                   (P:vp 
+                                     (MV:v-fin:reduzir:PR_3P_SUBJ::fs-subst:nosubj: reduzam))
+                                   (ACC:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:produção:F_S::np-def: produção)
+                                     (N<ARGO:pp 
+                                       (H:prp:de:::: de)
+                                       («)
+                                       (P<:np 
+                                         (H:n:crude:M_S::np-idf: crude))
+                                       (»)))
+                                   (,)
+                                   (ADVL:pp 
+                                     (H:prp:de_forma_a:::: de_forma_a)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (MV:v-inf:inverter:::: inverter))
+                                       (ACC:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:tendência:F_S::np-def: tendência)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:queda:F_S::np-idf: queda)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:preço:M_S::np-def: preço)
+                                                 (N<:pp 
+                                                   (H:prp:de:::: de+)
+                                                   (P<:np 
+                                                     (>N:art:o:M_S::artd: o)
+                                                     (H:n:barril:M_S::np-def: barril))))))))))))
+                        (.)))

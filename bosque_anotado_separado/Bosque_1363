@@ -1,0 +1,62 @@
+(FRASE CP253-3 (STA:fcl (CO:conj-c:e:: E)
+                        (SUBJ:np (>N:pron-det:algum:M_P::quant: alguns)
+                                 (H:n:observador:M_P::anr_np-idf: observadores))
+                        (P:vp (MV:v-fin:ver:PR_3P_IND::: vêem))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (>N:pron-det:semelhante:F_S::diff: semelhante)
+                                        (H:n:vantagem:F_S::anr_np-idf: vantagem)))
+                        (ACC:np (>N:pron-det:o:M_S::artd: o)
+                                (H:n:perigo:M_S::np-def: perigo)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:pron-det:um:F_S::arti: uma)
+                                         (H:n:tentação:F_S::np-idf: tentação)
+                                         (N<:adjp 
+                                           (H:adj:hegemónico:F_S::: hegemónica)))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:se_bem_que:::: se_bem_que)
+                                  (SUBJ:np 
+                                    (>N:pron-det:o:F_S::artd: a)
+                                    (H:prop:Constituição:F_S::: Constituição)
+                                    (N<:adjp 
+                                      (H:adj:interino:F_S::: interina))
+                                    (N<:pp 
+                                      (H:prp:a:::: a)
+                                      (P<:icl 
+                                        (P:vp 
+                                          (MV:v-inf:aprovar:3S::: aprovar))
+                                        (ADVL:pp 
+                                          (H:prp:durante:::: durante)
+                                          (P<:np 
+                                            (>N:pron-det:o:F_P::artd: as)
+                                            (>N:adj:próximo:F_P::: próximas)
+                                            (H:n:semana:F_P::anr_np-def: semanas))))))
+                                  (P:vp (MV:v-fin:prever:PR_3S_SUBJ::fs-conc: preveja))
+                                  (ACC:np 
+                                    (>N:pron-det:o:F_S::artd: a)
+                                    (H:n:representação:F_S::np-def: representação)
+                                    (N<:pp 
+                                      (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:pron-det:o:M_S::artd: o)
+                                        (H:n:governo:M_S::np-def: governo)))
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (>N:pron-det:todo_o:M_P::quant: todos_os)
+                                        (H:n:partido:M_P::anr_np-def: partidos)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_P::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:conseguir:PR_3P_SUBJ::fs-rel: consigam))
+                                          (ACC:np 
+                                            (>N:adv:pelo_menos:::quant: pelo_menos)
+                                            (>N:num:cinco:M_P::card: cinco)
+                                            (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:pron-det:o:M_P::artd: os)
+                                                (H:n:voto:M_P::np-def: votos)))))))))
+                        (.)))

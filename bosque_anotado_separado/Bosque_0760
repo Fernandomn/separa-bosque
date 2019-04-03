@@ -1,0 +1,49 @@
+(FRASE CP148-2 (STA:fcl (ADVL:pp (H:prp:perante:: Perante)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:falta:F_S::np-def: falta)
+                                        (N<ARGS:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:pagamento:M_S::np-idf: pagamento)
+                                            (N<ARGO:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (H:n:comprador:M_P::np-def: compradores)))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:sócio:M_P::np-def: sócios)
+                                 (N<:adjp 
+                                   (H:adj:vendedor:M_P::: vendedores)))
+                        (P:vp (MV:v-fin:reclamar:PS_3P_IND::: reclamaram))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:tribunal:M_S::np-idf: tribunal)))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:restituição:F_S::np-def: restituição)
+                                (N<ARGO:pp 
+                                  (H:prp:de:::: de+)
+                                  (P<:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (>N:pron-det:seu:M_P::: seus)
+                                    (H:n:direito:M_P::anr_np-def: direitos)
+                                    (N<:pp 
+                                      (H:prp:sobre:::: sobre)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:urbanização:F_S::np-def: urbanização))))))
+                        (,)
+                        (S<:fcl (ACC:np (H:pron-indp:o_que:F_S::rel: o_que))
+                                (P:vp (AUX:v-fin:vir:PR_3P_COND::: viriam)
+                                      (PRT-AUX:prp:a:::: a)
+                                      (MV:v-inf:conseguir:::nosubj: conseguir))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:início:M_S::np-def: início)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:pron-det:este:M_S::dem: este)
+                                        (H:n:ano:M_S::np-def: ano))))))
+                        (.)))

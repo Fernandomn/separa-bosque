@@ -1,0 +1,38 @@
+(FRASE CP54-5 (STA:fcl (P:vp (MV:v-fin:querer:PR_3S_IND: Quer))
+                       (SUBJ:np (H:pron-indp:isto:M_S::dem: isto))
+                       (ACC:icl (P:vp (MV:v-inf:dizer:::icl-subst: dizer))
+                                (ACC:fcl 
+                                  (SUB:conj-s:que:::: que)
+                                  (SUBJ:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:percentagem:F_S::np-def: percentagem)
+                                    (N<ARG:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:S::artd: a)
+                                        (H:n:população:F_S::np-def:np-partitive2: população)
+                                        (N<:adjp 
+                                          (H:adj:nacional:F_S::: nacional))
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:F_S::rel: que))
+                                          (,)
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (>N:v-pcp:determinar:M_S::: determinado)
+                                              (H:n:período:M_S::anr_np-idf: período)))
+                                          (,)
+                                          (P:vp 
+                                            (MV:v-fin:procriar:PS_3S_IND::fs-rel: procriou))))))
+                                  (P:vp (MV:v-fin:baixar:PS_3S_IND::fs-subst: baixou))
+                                  (ADVL:pp 
+                                    (H:prp:para:::: para)
+                                    (P<:np 
+                                      (H:n:metade:F_S::np-idf:numfract: metade)))
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em)
+                                    (P<:np 
+                                      (>N:num:quatro:F_P::card: quatro)
+                                      (H:n:década:F_P::anr_np-count:anr_np-def: décadas)))))
+                       (.)))

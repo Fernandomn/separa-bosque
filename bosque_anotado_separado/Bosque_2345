@@ -1,0 +1,47 @@
+(FRASE CP445-6 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:China:F_S: China))
+                        (P:vp (MV:v-fin:querer:PR_3S_IND::: quer))
+                        (ACC:icl (P:vp (MV:v-inf:organizar:::icl-subst: organizar))
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em)
+                                   (P<:adjp 
+                                     (H:num:1997:M_S::card: 1997)))
+                                 (ACC:np 
+                                   (>N:num:um:M_S::card: um)
+                                   (H:prop:Grande_Prémio_de_Fórmula_1:M_S::: Grande_Prémio_de_Fórmula_1))
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:circuito:M_S::np-def: circuito)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:prop:Zhuhai:MF_S::: Zhuhai)))
+                                     (,)
+                                     (N<PRED:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:MF_S::rel: que))
+                                       (X:cu 
+                                         (CJT:x::::predicate: 
+                                           (P:vp 
+                                             (MV:v-fin:ter:PR_3S_IND::: tem))
+                                           (ACC:np 
+                                             (>N:num:4,83:M_P::card: 4,83)
+                                             (H:n:km:M_P::anr_np-count:anr_np-def: km)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:perímetro:M_S::np-idf: perímetro)))))
+                                         (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                         (CJT:x::::predicate: 
+                                           (P:vp 
+                                             (MV:v-fin:estar:PR_3S_IND::nosubj: está))
+                                           (SC:icl::::pcp: 
+                                             (P:vp 
+                                               (MV:v-pcp:situar:M_S::: situado))
+                                             (SA:pp 
+                                               (H:prp:perto_de:::: perto_de)
+                                               (P<:np 
+                                                 (H:prop:Hong_Kong:M_S::: Hong_Kong))))))))))
+                        (.)))

@@ -1,0 +1,41 @@
+(FRASE CP391-4 (STA:fcl (ACC:fcl (SUBJ:np 
+                                   (>N:adjp 
+                                     (>A:adv:menos_de:quant: menos_de)
+                                     (H:num:três:M_P::card: três))
+                                   (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_P::artd: as)
+                                       (H:n:empresa:F_P::np-def: empresas)
+                                       (N<:adjp 
+                                         (H:adj:ocidental:F_P::: ocidentais)))))
+                                 (P:vp (AUX:v-fin:ser:PR_3P_IND::: são)
+                                       (MV:v-pcp:dirigir:F_P::anr_pass:icl-subst:passive: dirigidas))
+                                 (PASS:pp 
+                                   (H:prp:por:::: por)
+                                   (P<:np 
+                                     (H:n:mulher:F_P::np-idf: mulheres))))
+                        (,)
+                        (P:vp (MV:v-fin:revelar:PR_3S_IND::: revela))
+                        (SUBJ:np (>N:art:um:M_S::arti: um)
+                                 (H:n:estudo:M_S::np-idf: estudo)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:prop:Organização_Internacional_do_Trabalho:F_S::: Organização_Internacional_do_Trabalho)
+                                          ({)
+                                          (APP:np 
+                                            (H:prop:OIT:F_S::: OIT))
+                                          (})
+                                          (,)
+                                          (N<PRED:icl::::pcp: 
+                                            (ADVL:advp 
+                                              (H:adv:ontem:::: ontem))
+                                            (P:vp 
+                                              (MV:v-pcp:divulgar:M_S::: divulgado))
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (H:prop:Genebra:F_S::: Genebra)))))))
+                        (.)))

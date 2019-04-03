@@ -1,0 +1,47 @@
+(FRASE CP456-2 (UTT:acl (FOC:advp (H:adv:é:foc: É))
+                        (ADVL:pp (H:prp:de:::: de)
+                                 (P<:np (>N:pron-det:este:F_S::dem: esta)
+                                        (H:n:forma:F_S::np-def: forma)
+                                        (N<:adjp 
+                                          (H:adj:directo:F_S::: directa))))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:presidente:M_S::np-def: presidente)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (N<:art:o:F_S::: a)
+                                          (H:prop:Generalitat:F_S::anr_np-def: Generalitat)))
+                                 (,)
+                                 (N<PRED:adjp 
+                                   (>A:pp 
+                                     (H:prp:sem:::: sem)
+                                     (P<:adjp 
+                                       (H:n:dúvida:F_S::anr_np-idf: dúvida)))
+                                   (H:num:um:M_S::card: um)
+                                   (A<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:dirigente:M_P::np-def:np-partitive2: dirigentes)
+                                       (N<:adjp 
+                                         (H:adj:político:M_P::: políticos))
+                                       (N<:adjp 
+                                         (>A:adv:mais:_::KOMP:quant: mais)
+                                         (H:adj:influente:M_P::: influentes)
+                                         (KOMP<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:prop:Espanha:F_S::: Espanha))))))))
+                        (,)
+                        (P:vp (MV:v-fin:equacionar:PR_3S_IND::: equaciona))
+                        (ACC:np (>N:art:o:F_P::artd: as)
+                                (H:n:relação:F_P::np-def: relações)
+                                (N<ARGO:pp 
+                                  (H:prp:entre:::: entre)
+                                  (P<:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (>N:num:dois:M_P::card: dois)
+                                    (H:n:país:M_P::anr_np-count:anr_np-def: países)
+                                    (N<:adjp 
+                                      (H:adj:peninsular:M_P::: peninsulares)))))
+                        (.)))

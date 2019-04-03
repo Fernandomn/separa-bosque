@@ -1,0 +1,72 @@
+(FRASE CP80-3 (STA:fcl (PRED:icl::pcp: (P:vp 
+                                         (MV:v-pcp:nascer:F_S::: Nascida))
+                                       (ADVL:pp 
+                                         (H:prp:em:::: em+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:seio:M_S::np-def: seio)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:S::artd: a)
+                                               (>N:adj:estético:F_S::: estética)
+                                               (H:prop:M-Base:F_S::: M-Base)
+                                               (,)
+                                               (N<PRED:fcl 
+                                                 (OC:np- 
+                                                   (N<:pp 
+                                                     (H:prp:de:::: de)
+                                                     (P<:np 
+                                                       (H:pron-indp:que:F_S::rel: que))))
+                                                 (ACC:np 
+                                                   (H:pron-pers:se:F_3S_ACC::refl: se))
+                                                 (P:vp 
+                                                   (MV:v-fin:tornar:PS_3S_IND::fs-rel:nosubj: tornou))
+                                                 (-OC:np 
+                                                   (>N:art:o:F_S::artd: a)
+                                                   (>N:adj:único:F_S::: única)
+                                                   (H:n:porta-voz:M_S::anr_np-def: porta-voz)
+                                                   (N<:adjp 
+                                                     (H:adj:vocal:M_S::: vocal))))
+                                               (,))))))
+                       (ADVL:fcl (ADVL:advp 
+                                   (H:adv:à_medida_que:_::ks:rel: à_medida_que))
+                                 (P:vp (AUX:v-fin:ir:PS_3S_IND::: foi)
+                                       (MV:v-ger:avançar:::nosubj: avançando))
+                                 (ADVL:advp 
+                                   (H:adv:mar_adentro:::: mar_adentro)))
+                       (,)
+                       (SUBJ:np (H:prop:Cassandra:F_S::: Cassandra))
+                       (P:vp (MV:v-fin:saber:PS_3S_IND::: soube))
+                       (ACC:icl (P:vp (MV:v-inf:libertar:_::icl-subst:obj: libertar-))
+                                (ACC:np (H:pron-pers:se:F_3S_ACC::obj: se))
+                                (PIV:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:lastro:F_S::np-def: lastro)
+                                          (N<:cu 
+                                            (CJT:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:M_S::rel: que))
+                                              (DAT:np 
+                                                (H:pron-pers:ela:F_3S_DAT::: lhe))
+                                              (P:vp 
+                                                (MV:v-fin:ajudar:PS_3S_IND::: ajudou))
+                                              (ACC:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:voz:F_S::np-def: voz))
+                                              (PIV:pp 
+                                                (H:prp:a:::: a)
+                                                (P<:v-inf:crescer:::: crescer)))
+                                            (CO:conj-c:mas:::co-postnom: mas)
+                                            (CJT:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:M_S::rel: que))
+                                              (P:vp 
+                                                (MV:v-fin:ameaçar:IMPF_3S_IND::: ameaçava))
+                                              (ACC:icl 
+                                                (P:vp 
+                                                  (MV:v-inf:paralisar:::icl-subst: paralisar-))
+                                                (ACC:np 
+                                                  (H:pron-pers:ela:F_3S_ACC::: la))))))))
+                       (.)))

@@ -1,0 +1,69 @@
+(FRASE CP561-4 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:prop:IPCC:M_S: IPCC))
+                        (P:vp (MV:v-fin:reunir:PR_3S_IND::: reúne))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:pron-det:esse:M_S::dem: esse)
+                                        (H:n:documento:M_S::np-def: documento)))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:opinião:F_S::np-def: opinião)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:num:2.000:MF_P::card: 2.000)
+                                         (H:n:meteorologista:MF_P::anr_np-count:anr_np-def: meteorologistas)
+                                         (N<:fcl 
+                                           (SUBJ:np 
+                                             (H:pron-indp:que:MF_P::rel: que))
+                                           (P:vp 
+                                             (MV:v-fin:prever:PR_3P_IND::fs-rel: prevêem))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:futuro:M_S::np-def: futuro)))
+                                           (ACC:cu 
+                                             (CJT:np 
+                                               (>N:art:um:F_S::arti: uma)
+                                               (>N:adj:grande:F_S::KOMP: maior)
+                                               (H:n:incidência:F_S::anr_np-idf: incidência)
+                                               (N<ARGS:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:doença:F_P::np-idf: doenças)
+                                                   (N<:adjp 
+                                                     (H:adj:tropical:F_P::: tropicais)))))
+                                             (,)
+                                             (CJT:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:aumento:M_S::np-def: aumento)
+                                               (N<ARGS:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:cu 
+                                                   (CJT:np 
+                                                     (H:n:seca:F_P::np-idf: secas))
+                                                   (CO:conj-c:e:::co-prparg: e)
+                                                   (CJT:np 
+                                                     (H:n:cheia:F_P::np-idf: cheias)))))
+                                             (,)
+                                             (CJT:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:morte:F_S::np-def: morte)
+                                               (N<ARGS:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:floresta:F_P::np-idf: florestas))))
+                                             (CO:conj-c:e:::co-app: e)
+                                             (CJT:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:diminuição:F_S::np-def: diminuição)
+                                               (N<ARGS:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:colheita:F_P::np-idf: colheitas)
+                                                   (N<:pp 
+                                                     (H:prp:em:::: em+)
+                                                     (P<:np 
+                                                       (>N:art:o:M_P::artd: os)
+                                                       (H:n:país:M_P::np-def: países)
+                                                       (N<:adjp 
+                                                         (H:adj:pobre:M_P::: pobres))))))))))))
+                        (.)))

@@ -1,0 +1,59 @@
+(FRASE CP810-5 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:director:M_S::np-def: director)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (H:prop:Santa_Maria:MF_S::np-idf: Santa_Maria))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:admitir:PS_3S_IND::: admitiu))
+                                (ADVL:advp 
+                                  (H:adv:ontem:::: ontem))
+                                (ACC:icl 
+                                  (P:vp (AUX:v-inf:ter:::: ter)
+                                        (AUX:v-pcp:ser:::: sido)
+                                        (MV:v-pcp:detectar:M_S::anr_pass:icl-subst:passive: detectado))
+                                  (SUBJ:np 
+                                    (>N:art:um:M_S::arti: um)
+                                    (H:n:indivíduo:M_S::np-idf: indivíduo)
+                                    (N<:fcl 
+                                      (SUBJ:np 
+                                        (H:pron-indp:que:M_S::rel: que))
+                                      (ACC:icl- 
+                                        (SUBJ:np 
+                                          (H:pron-pers:se:M_3S_ACC::refl: se)))
+                                      (P:vp 
+                                        (MV:v-fin:fazer:IMPF_3S_IND::fs-rel: fazia))
+                                      (-ACC:icl 
+                                        (P:vp 
+                                          (MV:v-inf:passar:::: passar))
+                                        (PIV:pp 
+                                          (H:prp:por:::: por)
+                                          (P<:np 
+                                            (H:n:médico:M_S::np-idf: médico)))))
+                                    (,)
+                                    (N<PRED:icl::::pcp: 
+                                      («)
+                                      (ADVL:advp 
+                                        (H:adv:imediatamente:::: imediatamente))
+                                      (P:vp 
+                                        (MV:v-pcp:entregar:M_S::: entregue))
+                                      (»)
+                                      (PIV:pp 
+                                        (H:prp:a:::: a+)
+                                        (P<:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:autoridade:F_P::np-def: autoridades))))
+                                    (,))))
+                              (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:garantir:PS_3S_IND::nosubj: garantiu))
+                                (ACC:icl 
+                                  (P:vp (MV:v-inf:desconhecer:::icl-subst: desconhecer))
+                                  (ACC:fcl 
+                                    (SUB:conj-s:que:::: que)
+                                    (SUBJ:np 
+                                      (H:pron-pers:ele:M_3S_NOM::: ele))
+                                    (P:vp 
+                                      (MV:v-fin:dar:IMPF_3S_SUBJ::fs-subst: desse))
+                                    (ACC:np 
+                                      (H:n:consulta:F_P::np-idf: consultas))))))
+                        (.)))

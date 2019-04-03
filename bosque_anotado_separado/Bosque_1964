@@ -1,0 +1,40 @@
+(FRASE CP376-2 (STA:fcl (P:vp (MV:v-fin:calcular:PR_3S_IND::hyfen: Calcula-))
+                        (SUBJ:np (H:pron-pers:se:MF_3SP_ACC: se))
+                        (SUB:conj-s:que:::: que)
+                        (ACC:fcl (SUBJ:np 
+                                   (>N:np 
+                                     (>N:adjp 
+                                       (>A:adv:mais_de:::quant: mais_de)
+                                       (H:num:20:F_P::card: 20))
+                                     (H:n:mil:F_P::card:num: mil))
+                                   (H:n:pessoa:F_P::anr_np-count:anr_np-def: pessoas))
+                                 (X:cu (CJT:x::::predicate: 
+                                         (P:vp 
+                                           (AUX:v-fin:ter:PR_3P_SUBJ::: tenham)
+                                           (MV:v-pcp:abandonar:::fs-subst: abandonado))
+                                         (ACC:cu 
+                                           (CJT:np 
+                                             (>N:art:o:F_P::artd: as)
+                                             (>N:pron-det:seu:F_P::: suas)
+                                             (H:n:vila:F_P::anr_np-def: vilas))
+                                           (CO:conj-c:e:::co-acc: e)
+                                           (CJT:np 
+                                             (H:n:aldeia:F_P::np-idf: aldeias))))
+                                       (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                       (CJT:x::::predicate: 
+                                         (ACC:np 
+                                           (H:pron-pers:se:F_3P_ACC::refl: se))
+                                         (P:vp 
+                                           (MV:v-fin:dirigir:PR_3P_SUBJ::fs-subst:nosubj: dirijam))
+                                         (OA:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:np 
+                                             (H:n:área:F_P::np-idf: áreas)
+                                             (N<:adjp 
+                                               (H:adj:próximo:F_P::: próximas)
+                                               (A<:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:F_S::artd: a)
+                                                   (H:n:fronteira:F_S::np-def: fronteira)))))))))
+                        (.)))

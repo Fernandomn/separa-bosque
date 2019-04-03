@@ -1,0 +1,71 @@
+(FRASE CP538-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:volume:M_S::np-def: volume)
+                                 (N<:adjp 
+                                   (H:adj:financeiro:M_S: financeiro))
+                                 (N<:pp (H:prp:em:::: em)
+                                        (P<:np 
+                                          (H:n:entrada:F_P::np-idf: entradas)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:cinema:M_S::np-idf: cinema))))))
+                        (P:vp (MV:v-fin:atingir:PR_3S_IND::: atinge))
+                        (ACC:np (>N:num:5000:M_P::card: 5000)
+                                (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                (N<ARG:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:np 
+                                    (H:n:dólar:M_P::np-dequant:np-idf: dólares))))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:enquanto:_::ks:rel: enquanto))
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:mercado:M_S::np-def: mercado)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:n:videojogo:M_P::np-def: videojogos))))
+                                  (P:vp (MV:v-fin:valer:PR_3S_IND::: vale))
+                                  (SA:np 
+                                    (>N:np 
+                                      (>A:num:13:M_P::card: 13)
+                                      (H:n:mil:M_P::card:num: mil))
+                                    (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                    (N<ARG:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:dólar:M_P::np-dequant:np-idf: dólares)))
+                                    (N<:adjp 
+                                      (H:adj:anual:M_P::: anuais))
+                                    ({)
+                                    (N<PRED:cu 
+                                      (CJT:np 
+                                        (>N:num:7000:M_P::card: 7000)
+                                        (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                        (N<:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:gastar:M_P::: gastos))
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (H:n:sala:F_P::np-idf: salas)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:jogo:M_P::np-idf: jogos)))))))
+                                      (CO:conj-c:e:::co-pred: e)
+                                      (CJT:np 
+                                        (>N:adjp 
+                                          (>A:adv:mais:_::KOMP:quant: mais)
+                                          (H:num:6000:M_P::card: 6000))
+                                        (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                        (N<:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:n:videojogo:M_P::np-idf: videojogos)
+                                            (N<:adjp 
+                                              (H:adj:doméstico:M_P::: domésticos))))))
+                                    (})))
+                        (.)))

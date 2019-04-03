@@ -1,0 +1,55 @@
+(FRASE CP810-4 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 («)
+                                 (H:n:doutor:M_S::anr_np-idf: doutor)
+                                 (N<:np (H:prop:Dinis:M_S: Dinis))
+                                 (»))
+                        (,)
+                        (ADVL:pp (H:prp:segundo:::: segundo)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Polícia_Judiciária:F_S::: Polícia_Judiciária)))
+                        (,)
+                        (PAUX:v-fin:chegar:PS_3S_IND::nosubj: chegou)
+                        (AUX<:cu (CJT:x (PMV:vp 
+                                          (PRT-AUX:prp:a:::: a)
+                                          (MV:v-inf:dar:::: dar))
+                                        (ACC:np 
+                                          (H:n:consulta:F_P::np-idf: consultas))
+                                        (ADVL:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:estabelecimento:M_S::np-def: estabelecimento)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:saúde:F_S::np-idf: saúde)
+                                                (N<:adjp 
+                                                  (H:adj:lisboeta:F_S::: lisboeta))))))
+                                        (CO:conj-c:e:::: e)
+                                        (CJT:x 
+                                          (PMV:vp 
+                                            (PRT-AUX:prp:a:::: a)
+                                            (MV:v-inf:encaminhar:::: encaminhar))
+                                          (ACC:np 
+                                            (H:n:paciente:MF_P::np-idf: pacientes))
+                                          (PIV:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:np 
+                                              (H:n:especialista:MF_P::np-idf: especialistas)
+                                              (N<:fcl 
+                                                (PIV:pp 
+                                                  (H:prp:a:::: a)
+                                                  (P<:np 
+                                                    (H:pron-indp:quem:MF_P::rel: quem)))
+                                                (P:vp 
+                                                  (MV:v-fin:convencer:PS_3S_IND::fs-rel:nosubj: convenceu))
+                                                (PIV:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:n:condição:F_S::np-def: condição)
+                                                    (N<:pp 
+                                                      (H:prp:de:::: de)
+                                                      (P<:np 
+                                                        (H:n:colega:M_S::np-idf: colega)))))))))))
+                        (.)))

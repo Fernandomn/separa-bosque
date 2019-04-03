@@ -1,0 +1,51 @@
+(FRASE CP687-1 (STA:fcl (ADVL:pp (H:prp:entre:: Entre)
+                                 (P<:adjp 
+                                   (H:cu 
+                                     (CJT:adjp::::date: 
+                                       (H:num:1:M_S::card: 1))
+                                     (CO:conj-c:e:::co-prparg: e)
+                                     (CJT:adjp 
+                                       (H:num:4:M_P::card: 4)))
+                                   (A<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:setembro:M_S::np-idf:prop: Setembro)))))
+                        (P:vp (MV:v-fin:decorrer:PS_3S_IND::nosubj: decorreu))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:prop:Düsseldorf:M_S::: Düsseldorf)))
+                        (,)
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:edição:F_S::np-def: edição)
+                                (N<:cu (CJT:np 
+                                         (H:prop:Primavera:F_S::: Primavera))
+                                       (-)
+                                       (CJT:np 
+                                         (H:prop:Verão:M_S::: Verão)))
+                                (N<:adjp 
+                                  (H:num:1992:M_S::card: 1992))
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:prop:Igedo:F_S::: Igedo)
+                                         (,)
+                                         (N<PRED:np 
+                                           (H:n:certame:M_S::np-idf: certame)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:vestuário:M_S::np-idf: vestuário)))
+                                           (,)
+                                           (N<PRED:fcl 
+                                             (ADVL:pp 
+                                               (H:prp:em:::: em+)
+                                               (P<:np 
+                                                 (H:pron-indp:o_qual:M_S::rel: o_qual)))
+                                             (SUBJ:np 
+                                               (H:prop:Portugal:M_S::: Portugal))
+                                             (P:vp 
+                                               (MV:v-fin:participar:PS_3S_IND::fs-rel: participou))
+                                             (ADVL:acl 
+                                               (PRD:adv:como:::prp: como)
+                                               (SUBJ:np 
+                                                 (H:n:país-parceiro:M_S::np-idf: país-parceiro))))))))
+                        (.)))

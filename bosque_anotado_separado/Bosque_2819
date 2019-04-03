@@ -1,0 +1,101 @@
+(FRASE CP540-3 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:depoimento:M_S::np-idf: depoimento)
+                                        (N<:adjp 
+                                          (H:adj:telefónico:M_S::: telefónico))
+                                        (N<:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:prestar:M_S::: prestado))
+                                          (PIV:pp 
+                                            (H:prp:a:::: a+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:prop:CMR:M_S::: CMR)
+                                              (--)
+                                              (APP:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (>N:adj:primeiro:M_S::NUM-ord: primeiro)
+                                                (H:n:órgão:M_S::anr_np-def: órgão)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:n:informação:F_S::np-def: informação)
+                                                    (N<:adjp 
+                                                      (H:adj:estrangeiro:F_S::: estrangeira))))
+                                                (N<:pp 
+                                                  (H:prp:a:::: a)
+                                                  (P<:icl 
+                                                    (P:vp 
+                                                      (MV:v-inf:divulgar:::: divulgar))
+                                                    (ACC:np 
+                                                      (>N:art:o:M_S::artd: o)
+                                                      (H:n:conteúdo:M_S::np-def: conteúdo)
+                                                      (N<:pp 
+                                                        (H:prp:de:::: de+)
+                                                        (P<:np 
+                                                          (>N:art:o:F_S::artd: a)
+                                                          (H:n:entrevista:F_S::np-def: entrevista)
+                                                          (N<:icl::::pcp: 
+                                                            (P:vp 
+                                                              (MV:v-pcp:publicar:F_S::: publicada))
+                                                            (PASS:pp 
+                                                              (H:prp:por:::: por+)
+                                                              (P<:np 
+                                                                (>N:art:o:M_S::artd: o)
+                                                                (H:n:jornal:M_S::np-def: jornal)
+                                                                (N<:adjp 
+                                                                  (H:adj:indonésio:M_S::: indonésio)))))))))))
+                                              (--))))))
+                        (,)
+                        (SUBJ:np (H:prop:Horta:M_S::: Horta))
+                        (P:vp (MV:v-fin:dizer:PS_3S_IND::: disse))
+                        (ACC:icl (P:vp (MV:v-inf:tratar:_::hyfen:icl-subst: tratar-))
+                                 (ACC:np 
+                                   (H:pron-pers:se:F_3S_ACC::refl: se))
+                                 (PIV:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:campanha:F_S::np-idf: campanha)
+                                     («)
+                                     (N<:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:F_S::rel: que))
+                                       (X:cu 
+                                         (CJT:x::::predicate: 
+                                           (ACC:np 
+                                             (H:pron-pers:se:F_3S_ACC::refl: se))
+                                           (P:vp 
+                                             (MV:v-fin:arrastar:PR_3S_IND::fs-rel: arrasta))
+                                           (ADVL:pp 
+                                             (H:prp:há:::: há)
+                                             (P<:np 
+                                               (>N:pron-det:vários:M_P::quant: vários)
+                                               (H:n:mês:M_P::anr_np-idf: meses))))
+                                         (»)
+                                         (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                         (CJT:x::::predicate: 
+                                           (P:vp 
+                                             (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                             (MV:v-pcp:lançar:F_S::anr_pass:fs-rel:nosubj:passive: lançada))
+                                           (PASS:pp 
+                                             (H:prp:por:::: por+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:jornalista:M_S::np-def: jornalista)
+                                               (N<:np 
+                                                 (H:prop:Petrus_Suriadi:M_S::: Petrus_Suriadi))
+                                               (,)
+                                               (N<PRED:fcl 
+                                                 (SUBJ:np 
+                                                   (H:pron-indp:que:M_S::rel: que))
+                                                 (P:vp 
+                                                   (MV:v-fin:estar:PS_3S_IND::fs-rel: esteve))
+                                                 (ADVL:advp 
+                                                   (H:adv:recentemente:::: recentemente))
+                                                 (SA:pp 
+                                                   (H:prp:em:::: em)
+                                                   (P<:np 
+                                                     (H:prop:Portugal:M_S::: Portugal))))))))))))
+                        (.)))

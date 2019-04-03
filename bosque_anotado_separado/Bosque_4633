@@ -1,0 +1,27 @@
+(FRASE CP900-1 (STA:fcl («)
+                        (ADVL:advp (H:adv:obviamente:: Obviamente))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:querer:PR_1S_IND::nosubj: quero))
+                        (ACC:icl (P:vp (MV:v-inf:dizer:::icl-subst: dizer))
+                                 (ACC:fcl 
+                                   (SUB:conj-s:que:::: que)
+                                   (SUBJ:np 
+                                     (>N:art:o:F_P::artd: as)
+                                     (H:n:carícia:F_P::np-def: carícias)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:art:um:F_S::arti: uma)
+                                         (H:n:mãe:F_S::np-idf: mãe))))
+                                   (P:vp 
+                                     (AUX:v-fin:poder:PR_3P_SUBJ::: possam)
+                                     (AUX:v-inf:ser:::: ser)
+                                     (MV:v-pcp:substituir:F_P::anr_pass:icl-subst:passive: substituídas))
+                                   (ADVL:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:forma:F_S::np-idf: forma)
+                                       (N<:adjp 
+                                         (H:adj:mecânico:F_S::: mecânica))))))
+                        (.)))

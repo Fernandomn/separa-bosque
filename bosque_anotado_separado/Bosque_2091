@@ -1,0 +1,52 @@
+(FRASE CP401-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:prop:Decreto_Regulamentar_19/19_{B}:M_S: Decreto_regulamentar_19/19_{B}))
+                        (P:vp (MV:v-fin:descobrir:PS_3S_IND::: descobriu))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:cu 
+                                   (CJT:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:factura:F_S::np-def: factura))
+                                   (CO:conj-c:e:::co-subj: e)
+                                   (CJT:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:guia:F_S::np-def: guia)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:remessa:F_S::np-idf: remessa)))))
+                                 (P:vp (MV:v-fin:permitir:PR_3P_IND::fs-subst: permitem))
+                                 (ACC:icl 
+                                   (P:vp 
+                                     (MV:v-inf:controlar:::icl-subst: controlar))
+                                   (ACC:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (>N:adj:efectivo:M_S::: efectivo)
+                                     (H:n:carácter:M_S::anr_np-def: carácter)
+                                     (,)
+                                     (N<PRED:cu 
+                                       (CJT:np 
+                                         (H:n:público:M_S::np-idf: público))
+                                       (CO:conj-c:ou:::co-pred: ou)
+                                       (CJT:np 
+                                         (H:n:particular:M_S::np-idf: particular)))
+                                     (,)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:transporte:M_S::np-def: transporte))))))
+                        (,)
+                        (S<:fcl (ADVL:pp 
+                                  (H:prp:por:::: por+)
+                                  (P<:np 
+                                    (H:pron-indp:o_que:M_S::rel: o_que)))
+                                (P:vp (MV:v-fin:acabar:PS_3S_IND::nosubj: acabou))
+                                (PIV:pp (H:prp:com:::: com)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:guia:F_S::np-def: guia)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:transporte:M_S::np-idf: transporte))))))
+                        (.)))

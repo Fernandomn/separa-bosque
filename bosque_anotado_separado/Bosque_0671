@@ -1,0 +1,32 @@
+(FRASE CP130-4 (STA:fcl (ADVL:pp (H:prp:de:: De)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:modo:M_S::np-idf: modo)
+                                        (N<:adjp 
+                                          (H:adj:geral:M_S::: geral))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:animal:M_P::np-def: animais)
+                                 (N<:adjp 
+                                   (H:adj:doméstico:M_P::: domésticos))
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:M_P::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:vivar:PR_3P_IND::fs-rel: vivem))
+                                   (SA:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:campo:M_S::np-def: campo)))))
+                        (P:vp (MV:v-fin:ter:PR_3P_IND::: têm))
+                        (ACC:np (>N:art:um:F_S::arti: uma)
+                                (H:n:existência:F_S::np-idf: existência)
+                                (N<:adjp 
+                                  (>A:adv:mais:_::KOMP:quant: mais)
+                                  (H:adj:feliz:F_S::: feliz)
+                                  (KOMP<:acl 
+                                    (COM:conj-s:do_que:::: do_que)
+                                    (SUBJ:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (H:n:citadino:M_P::np-def: citadinos)))))
+                        (.)))

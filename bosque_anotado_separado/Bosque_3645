@@ -1,0 +1,32 @@
+(FRASE CP710-4 (UTT:np (H:pron-indp:tudo:M_S::quant: Tudo)
+                       (N<:cu (CJT:pp (H:prp:por_causa_de:: por_causa_de+)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (>N:pron-det:pouco:M_P::quant: poucos)
+                                        (H:n:meio:M_P::anr_np-idf: meios)
+                                        (N<:adjp 
+                                          (H:adj:financeiro:M_P::: financeiros))))
+                              (CO:conj-c:e:::co-postnom: e)
+                              (CJT:pp (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:F_P::artd: as)
+                                        (H:n:restrição:F_P::np-def: restrições)
+                                        (N<ARGS:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:lei:F_S::np-def: lei)))
+                                        (N<ARGO:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:candidatura:F_S::np-def: candidatura)
+                                            (N<ARGS:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:lista:F_P::np-idf: listas)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:cidadão:M_P::np-idf: cidadãos))))))))))
+                       (.)))

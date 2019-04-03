@@ -1,0 +1,81 @@
+(FRASE CP275-8 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (>N:adj:principal:M_S: principal)
+                                 (H:n:accionista:M_S::anr_np-def: accionista)
+                                 (,)
+                                 (APP:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:grupo:M_S::np-def: grupo)
+                                   (N<:adjp 
+                                     (H:adj:público:M_S::: público))
+                                   (N<:adjp 
+                                     (H:adj:italiano:M_S::anr_np-idf: italiano))
+                                   (N<:np 
+                                     (H:prop:Iri:M_S::: Iri)))
+                                 (,))
+                        (P:vp (MV:v-fin:adoptar:PS_3S_IND::: adoptou))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (>N:adj:último:F_S::NUM-ord: última)
+                                        (H:n:quinta-feira:F_S::anr_np-def: quinta-feira)))
+                        (ACC:np (>N:art:o:F_P::artd: as)
+                                (>N:adj:grande:F_P::: grandes)
+                                (H:n:linha:F_P::anr_np-def: linhas)
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:plano:M_S::np-def: plano)
+                                         (,)
+                                         (N<PRED:fcl 
+                                           (SUBJ:np 
+                                             (H:pron-indp:que:M_S::rel: que))
+                                           (P:vp 
+                                             (MV:v-fin:prever:PR_3S_IND::fs-rel: prevê))
+                                           (ACC:cu 
+                                             (CJT:np 
+                                               (>N:art:um:F_S::arti: uma)
+                                               (H:n:injecção:F_S::np-idf: injecção)
+                                               (N<ARGO:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:capital:M_S::np-idf: capital)))
+                                               (N<:pp 
+                                                 (H:prp:em:::: em+)
+                                                 (P<:np 
+                                                   (>N:art:o:S::artd: a)
+                                                   (H:n:ordem:F_S::np-def: ordem)
+                                                   (N<ARG:pp 
+                                                     (H:prp:de:::: de+)
+                                                     (P<:np 
+                                                       (>N:art:o:M_P::artd: os)
+                                                       (H:np 
+                                                         (>N:num:937:M_P::card: 937)
+                                                         (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                                         (N<ARG:pp 
+                                                           (H:prp:de:::: de)
+                                                           (P<:np 
+                                                             (H:n:dólar:M_P::np-dequant:np-idf: dólares))))
+                                                       ({)
+                                                       (N<PRED:np 
+                                                         (>N:adjp 
+                                                           (>N:adv:cerca_de:::: cerca_de)
+                                                           (H:num:142:M_P::card: 142))
+                                                         (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                                         (N<ARG:pp 
+                                                           (H:prp:de:::: de)
+                                                           (P<:np 
+                                                             (H:n:conto:M_P::np-dequant:np-idf: contos))))
+                                                       (}))))))
+                                             (CO:conj-c:e:::co-acc: e)
+                                             (CJT:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:reforço:M_S::np-def: reforço)
+                                               (N<ARGO:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:S::artd: a)
+                                                   (H:n:estratégia:F_S::np-def: estratégia)
+                                                   (N<:pp 
+                                                     (H:prp:de:::: de)
+                                                     (P<:np 
+                                                       (H:n:aliança:F_P::np-idf: alianças)))))))))))
+                        (.)))

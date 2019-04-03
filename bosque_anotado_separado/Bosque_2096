@@ -1,0 +1,95 @@
+(FRASE CP402-2 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (>N:pron-det:seu:F_S::si: sua)
+                                        (H:n:viagem:F_S::anr_np-def: viagem)
+                                        (N<ARGO:pp 
+                                          (H:prp:para:::: para)
+                                          (P<:np 
+                                            (H:prop:Maputo:M_S::: Maputo)))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:avião:M_S::np-def: avião)
+                                 (N<:adjp 
+                                   (H:adj:militar:M_S::: militar))
+                                 (N<:adjp 
+                                   (H:adj:português:M_S::anr_np-idf: português)))
+                        (P:vp (MV:v-fin:transportar:PS_3S_IND::: transportou))
+                        (ACC:np (H:cu- (CJT:np 
+                                         (>N:num:27:M_P::card: 27)
+                                         (H:n:militar:M_P::anr_np-count:anr_np-def: militares)
+                                         (N<:np 
+                                           (H:n:moçambicano:M_P::np-idf: moçambicanos)))
+                                       (,)
+                                       (CJT:np 
+                                         (>N:num:dois:M_P::card: dois)
+                                         (H:n:cabo-verdiano:M_P::anr_np-count:anr_np-def: cabo-verdianos))
+                                       (CO:conj-c:e:::co-acc: e)
+                                       (CJT:np 
+                                         (>N:num:seis:M_P::card: seis)
+                                         (H:n:são-tomense:M_P::anr_np-count:anr_np-def: são-tomenses)))
+                                (,)
+                                (N<:fcl (SUBJ:np 
+                                          (H:pron-indp:que:M_P::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:participar:PS/MQP_3P_IND::fs-rel: participaram))
+                                        (PIV:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:n:acção:F_P::np-idf: acções)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:formação:F_S::np-idf: formação)))))
+                                        (ADVL:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:prop:Portugal:M_S::: Portugal))))
+                                (,)
+                                (-H:cu (CJT:pp 
+                                         (H:prp:para_além_de:::: para_além_de)
+                                         (P<:np 
+                                           (>N:pron-det:algum:M_S::quant: algum)
+                                           (H:n:material:M_S::anr_np-idf: material)
+                                           (N<:icl::::pcp: 
+                                             (P:vp 
+                                               (MV:v-pcp:destinar:M_S::: destinado))
+                                             (PIV:pp 
+                                               (H:prp:a:::: a+)
+                                               (P<:np 
+                                                 (>N:art:o:M_P::artd: os)
+                                                 (H:n-adj:português:M_P::np-def: portugueses)
+                                                 (N<:pp 
+                                                   (H:prp:de:::: de+)
+                                                   (P<:np 
+                                                     (>N:art:o:M_S::artd: o)
+                                                     (H:n:batalhão:M_S::np-def: batalhão)
+                                                     (N<:pp 
+                                                       (H:prp:de:::: de)
+                                                       (P<:np 
+                                                         (H:n:comunicação:F_P::np-idf: comunicações)))
+                                                     ({)
+                                                     (APP:np 
+                                                       (H:prop:BT4:M_S::: BT4))
+                                                     (})
+                                                     (N<:fcl 
+                                                       (SUBJ:np 
+                                                         (H:pron-indp:que:M_S::rel: que))
+                                                       (P:vp 
+                                                         (MV:v-fin:integrar:PR_3S_IND::fs-rel: integra))
+                                                       (ACC:np 
+                                                         (>N:art:o:F_S::artd: a)
+                                                         (H:n:missão:F_S::np-def: missão)
+                                                         (N<:pp 
+                                                           (H:prp:de:::: de+)
+                                                           (P<:np 
+                                                             (>N:art:o:F_P::artd: as)
+                                                             (H:prop:Nações_Unidas:F_P::: Nações_Unidas))))
+                                                       (ADVL:pp 
+                                                         (H:prp:em:::: em)
+                                                         (P<:np 
+                                                           (H:prop:Moçambique:M_S::: Moçambique)
+                                                           ({)
+                                                           (N<PRED:np 
+                                                             (H:prop:Onumoz:MF_S::: Onumoz))
+                                                           (})))))))))))))
+                        (.)))

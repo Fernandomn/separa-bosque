@@ -1,0 +1,77 @@
+(FRASE CP71-13 (STA:fcl (SUBJ:np (>N:art:o:F_P::artd: As)
+                                 (H:n:personagem:M_P::np-def: personagens))
+                        (P:vp (MV:v-fin:ser:PR_3P_IND: são))
+                        (SC:np (H:n-adj:cego:M_P::: cegos)
+                               (,)
+                               (N<PRED:adjp 
+                                 (H:cu (CJT:adjp 
+                                         (H:adj:atroz:M_P::: atrozes))
+                                       (CO:conj-c:e:::co-pred: e)
+                                       (CJT:adjp 
+                                         (H:adj:desconcertante:M_P::: desconcertantes)))
+                                 (A<:acl 
+                                   (COM:adv:como:::rel: como)
+                                   (SA:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:P::artd: as)
+                                       (H:n:fotografia:F_P::np-def: fotografias)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:prop:Sander:MF_S::: Sander)))))))
+                               (,))
+                        (ADVL:fcl (SUB:conj-s:porque:::: porque)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (H:n-adj:cego:M_P::np-def: cegos))
+                                  (P:vp (MV:v-fin:ser:PR_3P_IND::fs-cause: são))
+                                  (SC:np 
+                                    (H:n:pessoa:F_P::np-idf: pessoas)
+                                    (N<:fcl 
+                                      (SUBJ:np 
+                                        (H:pron-indp:que:F_P::rel: que))
+                                      (ACC:np 
+                                        (H:pron-pers:se:F_3P_ACC::refl: se))
+                                      (P:vp 
+                                        (MV:v-fin:dirigir:PR_3P_IND::fs-rel: dirigem))
+                                      (ADVL:advp 
+                                        (H:adv:incessantemente:::: incessantemente))
+                                      (OA:pp 
+                                        (H:prp:para:::: para)
+                                        (P<:np 
+                                          (>N:art:um:M_S::arti: um)
+                                          (H:n:lugar:M_S::np-idf: lugar)
+                                          (N<:adjp 
+                                            (H:adj:interminável:M_S::: interminável))
+                                          (N<:cu 
+                                            (CJT:fcl 
+                                              (ADVL:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:adv:onde:::rel: onde))
+                                              (ADVL:advp 
+                                                (H:adv:não:::: não))
+                                              (P:vp 
+                                                (AUX:v-fin:poder:PR_3P_IND::: podem)
+                                                (MV:v-inf:sair:_::fs-rel:nosubj: sair)))
+                                            (CO:conj-c:e:::co-vfin: e)
+                                            (CJT:fcl 
+                                              (ADVL:advp 
+                                                (H:adv:onde:_::ks:rel: onde))
+                                              (SUBJ:np 
+                                                (H:pron-pers:nós:MF_1P_NOM::: nós))
+                                              (ACC:np 
+                                                (H:pron-pers:nós:MF_1P_ACC::refl: nos))
+                                              (P:vp 
+                                                (MV:v-fin:sentir:PR_1P_IND::: sentimos))
+                                              (OC:adjp 
+                                                (H:adj:grato:M_P::: gratos))
+                                              (ADVL:pp 
+                                                (H:prp:por:::: por)
+                                                (P<:icl 
+                                                  (ADVL:advp 
+                                                    (H:adv:não:::: não))
+                                                  (P:vp 
+                                                    (AUX:v-inf:poder:1P::: podermos)
+                                                    (MV:v-inf:entrar:::: entrar)))))))))))
+                        (.)))

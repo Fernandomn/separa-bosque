@@ -1,0 +1,33 @@
+(FRASE CP513-3 (STA:fcl (ADVL:advp (H:adv:nunca:: Nunca))
+                        (P:vp (MV:v-fin:querer:PS_1S_IND::nosubj: quis))
+                        (ACC:icl (P:vp (MV:v-inf:assinar:::icl-subst: assinar))
+                                 (ACC:np- 
+                                   (>N:art:um:F_S::arti: uma)
+                                   (H:n:carta:F_S::np-idf: carta)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:intenção:F_P::np-idf: intenções))))
+                                 (ADVL:pp 
+                                   (H:prp:com:::: com)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:prop:FMI:M_S::: FMI)))
+                                 (-ACC:np 
+                                   (N<:fcl 
+                                     (SUBJ:np 
+                                       (H:pron-indp:que:F_S::rel: que))
+                                     (P:vp 
+                                       (MV:v-fin:colocar:IMPF_3S_SUBJ::fs-rel: colocasse))
+                                     (ACC:np 
+                                       (H:n:meta:F_P::np-idf: metas)
+                                       (N<:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:F_P::rel: que))
+                                         (ADVL:advp 
+                                           (H:adv:não:::: não))
+                                         (P:vp 
+                                           (AUX:v-fin:poder:IMPF_3P_SUBJ::: pudessem)
+                                           (AUX:v-inf:ser:::: ser)
+                                           (MV:v-pcp:cumprir:F_P::anr_pass:fs-rel:passive: cumpridas)))))))
+                        (.)))

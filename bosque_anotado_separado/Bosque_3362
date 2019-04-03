@@ -1,0 +1,42 @@
+(FRASE CP645-10 (STA:fcl (ADVL:pp (H:prp:a_partir_de:: A_partir_de)
+                                  (P<:np 
+                                    (H:n:maio:M_S::np-idf:prop: Maio)))
+                         (,)
+                         (SUBJ:np (>N:pron-det:outro:F_S::KOMP:diff: outra)
+                                  (H:n:embarcação:F_S::anr_np-idf: embarcação)
+                                  (N<:pp 
+                                    (H:prp:com:::: com)
+                                    (P<:np 
+                                      (H:n:capacidade:F_S::np-idf: capacidade)
+                                      (N<:pp 
+                                        (H:prp:para:::: para)
+                                        (P<:np 
+                                          (>N:num:150:M_P::card: 150)
+                                          (H:n:passageiro:M_P::anr_np-count:anr_np-def: passageiros))))))
+                         (P:vp (AUX:v-fin:ser:FUT_3S_IND::: será)
+                               (MV:v-pcp:alugar:F_S::anr_pass:passive: alugada))
+                         (PASS:pp (H:prp:por:::: por+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:governo:M_S::np-def: governo)
+                                    (N<:adjp 
+                                      (H:adj:regional:M_S::: regional))))
+                         (ADVL:pp (H:prp:para:::: para)
+                                  (P<:icl 
+                                    (P:vp 
+                                      (MV:v-inf:ligar:::icl-fin: ligar))
+                                    (ACC:np 
+                                      (>N:art:o:F_P::artd: as)
+                                      (H:n:ilha:F_P::np-def: ilhas)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:grupo:M_P::np-def: grupos)
+                                          (N<:cu 
+                                            (CJT:adjp 
+                                              (H:adj:central:M_S::: central))
+                                            (CO:conj-c:e:::co-postnom: e)
+                                            (CJT:adjp 
+                                              (H:adj:oriental:M_S::: oriental))))))))
+                         (.)))

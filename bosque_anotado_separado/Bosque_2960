@@ -1,0 +1,44 @@
+(FRASE CP571-1 (STA:fcl (ADVL:pp (H:prp:a_partir_de:: A_partir_de+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Zambujeira:F_S::: Zambujeira)))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_P::artd: as)
+                                 (H:n:praia:F_P::np-def: praias)
+                                 (N<:adjp 
+                                   (H:adj:favorito:F_P::: favoritas)))
+                        (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                        (SC:adjp (H:adj:acessível:F_P::: acessíveis)
+                                 (A<:advp 
+                                   (H:adv:através:::: através)
+                                   (A<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:monte:M_P::np-def: montes)
+                                       (,)
+                                       (N<PRED:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:M_P::rel: que))
+                                         (ACC-PASS:np 
+                                           (H:pron-pers:se:M_3P_ACC::: se))
+                                         (P:vp 
+                                           (MV:v-fin:atingir:PR_3P_IND::fs-rel:se-passive: atingem))
+                                         (ADVL:icl::::ger: 
+                                           (P:vp 
+                                             (MV:v-ger:atravessar:::: atravessando))
+                                           (ACC:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:ribeiro:M_S::np-def: ribeiro)
+                                             (N<:pp 
+                                               (H:prp:em:::: em+)
+                                               (P<:np 
+                                                 (>N:art:o:F_P::artd: as)
+                                                 (H:n:traseira:F_P::np-def: traseiras)
+                                                 (N<:pp 
+                                                   (H:prp:de:::: de+)
+                                                   (P<:np 
+                                                     (>N:art:o:M_S::artd: o)
+                                                     (H:n:café:M_S::np-def: café)
+                                                     (N<:np 
+                                                       (H:prop:Fresco:M_S::: Fresco)))))))))))))
+                        (.)))

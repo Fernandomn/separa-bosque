@@ -1,0 +1,49 @@
+(FRASE CP561-5 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (>N:adj:anterior:M_S: anterior)
+                                 (H:n:relatório:M_S::anr_np-def: relatório)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:IPCC:M_S::: IPCC)))
+                                 (,)
+                                 (N<PRED:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:elaborar:M_S::: elaborado))
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em)
+                                     (P<:adjp 
+                                       (H:num:1990:M_S::card: 1990))))
+                                 (,))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:considerar:IMPF_3S_IND::: considerava))
+                                (ACC:fcl 
+                                  (SUB:conj-s:que:::: que)
+                                  (SUBJ:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:temperatura:F_S::np-def: temperatura)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:globo:M_S::np-def: globo))))
+                                  (P:vp (AUX:v-fin:estar:IMPF_3S_IND::: estava)
+                                        (PRT-AUX:prp:a:::: a)
+                                        (MV:v-inf:aumentar:::icl-subst: aumentar))))
+                              (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                              (CJT:x::::predicate: 
+                                (ADVL:advp 
+                                  (H:adv:não:::: não))
+                                (P:vp (MV:v-fin:considerar:IMPF_3S_IND::nosubj: considerava))
+                                (OC:v-pcp:provar:M_S::: provado)
+                                (ACC:fcl 
+                                  (SUB:conj-s:que:::: que)
+                                  (SUBJ:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:causa:F_S::np-def: causa))
+                                  (P:vp (MV:v-fin:ser:IMPF_3S_SUBJ::fs-subst: fosse))
+                                  (SC:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:acção:F_S::np-def: acção)
+                                    (N<:adjp 
+                                      (H:adj:humano:F_S::: humana))))))
+                        (.)))

@@ -1,0 +1,61 @@
+(FRASE CP473-7 (STA:cu (CJT:fcl (ADVL:advp 
+                                  (H:adv:não:: não))
+                                (P:vp (MV:v-fin:haver:IMPF_3S_IND::nofsubj: havia))
+                                (ACC:np (H:n:limite:M_S::np-idf: limite)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:tempo:M_S::np-idf: tempo)))
+                                        (N<:pp 
+                                          (H:prp:para:::: para)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:concretização:F_S::np-def: concretização)
+                                            (N<ARGO:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:negócio:M_S::np-def: negócio)))))))
+                       (,)
+                       (CJT:fcl (SUBJ:np 
+                                  (>N:art:o:F_S::artd: a)
+                                  (H:n:comissão:F_S::np-def: comissão)
+                                  (N<:pp 
+                                    (H:prp:a:::: a)
+                                    (P<:v-inf:receber:3S::: receber)))
+                                (P:vp (MV:v-fin:ser:PR_3S_COND::: seria))
+                                (SC:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:num:três:M_P::card: três)
+                                         (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:montante:M_S::np-def: montante)
+                                             (N<:adjp 
+                                               (H:adj:total:M_S::: total))
+                                             (N<:v-pcp:envolver:M_S::: envolvido)))
+                                         (,)
+                                         (N<PRED:icl::::ger: 
+                                           (P:vp 
+                                             (MV:v-ger:incluir:::: incluindo))
+                                           (ACC:np 
+                                             (H:n:imposto:M_P::np-idf: impostos)))
+                                         (,))))
+                       (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                       (CJT:fcl (P:vp (AUX:v-fin:dever:COND_3S::: deveria)
+                                      (AUX:v-inf:ser:::: ser)
+                                      (MV:v-pcp:observar:M_S::anr_pass:passive: observado))
+                                (SUBJ:np 
+                                  (>N:art:o:M_S::artd: o)
+                                  (>N:adjp 
+                                    (>A:adv:mais:_::KOMP:quant: mais)
+                                    (H:adj:rigoroso:M_S::: rigoroso))
+                                  (H:n:sigilo:M_S::anr_np-def: sigilo)
+                                  (N<:pp 
+                                    (H:prp:sobre:::: sobre)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:transacção:F_S::np-def: transacção)))))
+                       (.)))

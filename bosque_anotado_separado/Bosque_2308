@@ -1,0 +1,36 @@
+(FRASE CP440-4 (STA:fcl (SUBJ:np (H:pron-indp:tudo:M_S::quant: Tudo))
+                        (P:vp (MV:v-fin:circular:PR_3S_IND: circula))
+                        (ADVL:pp (H:prp:à_volta_de:::: à_volta_de)
+                                 (P<:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:criança:F_S::np-idf: criança)
+                                        (,)
+                                        (N<PRED:cu 
+                                          (CJT:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:abanadonar:F_S::nil: abanadonada))
+                                            (PASS:pp 
+                                              (H:prp:por:::: por+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:mãe:F_S::np-def: mãe)
+                                                (N<:adjp 
+                                                  (H:adj:natural:F_S::: natural)))))
+                                          (CO:conj-c:e:::co-pcv: e)
+                                          (CJT:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:criar:F_S::: criada))
+                                            (PASS:pp 
+                                              (H:prp:por:::: por)
+                                              (P<:np 
+                                                (>N:pron-det:outro:F_S::KOMP:diff: outra)
+                                                (H:n:mulher:F_S::anr_np-idf: mulher)
+                                                (N<:fcl 
+                                                  (ACC:np 
+                                                    (H:pron-indp:que:F_S::rel: que))
+                                                  (P:vp 
+                                                    (MV:v-fin:reconhecer:PR_3S_IND::fs-rel:nosubj: reconhece))
+                                                  (OC:acl 
+                                                    (PRD:adv:como:::prp: como)
+                                                    (SC:np 
+                                                      (H:n:mãe:F_S::np-idf: mãe))))))))))
+                        (.)))

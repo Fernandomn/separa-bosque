@@ -1,0 +1,25 @@
+(FRASE CP710-3 (STA:fcl (SUBJ:cu (CJT:np 
+                                   (H:n:centro:M_P::np-idf: Centros)
+                                   (N<:adjp 
+                                     (H:adj:urbano:M_P: urbanos)))
+                                 (CO:conj-c:e:::co-subj: e)
+                                 (CJT:np 
+                                   (H:n:candidato:M_P::np-idf: candidatos)
+                                   (N<:adjp 
+                                     (H:adj:independente:M_P::: independentes))))
+                        (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                        (SC:np (>N:art:o:M_P::artd: os)
+                               (H:n:denominador:M_P::np-def: denominadores)
+                               (N<:adjp (H:adj:comum:M_P::: comuns))
+                               (N<:pp (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (>N:adj:pequeno:M_P::: pequenos)
+                                        (H:n:partido:M_P::anr_np-def: partidos)))
+                               (N<:pp (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:disputa:F_S::np-def: disputa)
+                                        (N<:adjp 
+                                          (H:adj:autárquico:F_S::: autárquica)))))
+                        (.)))

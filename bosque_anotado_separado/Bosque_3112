@@ -1,0 +1,43 @@
+(FRASE CP600-6 (STA:fcl (ADVL:pp (H:pp:em_termos:: Em_termos)
+                                 (N<:adjp 
+                                   (>A:adv:estritamente:::: estritamente)
+                                   (H:adj:oficial:M_P::: oficiais)))
+                        (,)
+                        (SUBJ:np (>N:pron-det:este:M_S::dem: este)
+                                 (H:n:sindicato:M_S::np-def: sindicato))
+                        (ADVL:advp (>A:adv:ainda:::: ainda)
+                                   (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:conseguir:PS_3S_IND::: conseguiu))
+                        (ACC:icl (P:vp (AUX:v-inf:ser:::: ser)
+                                       (MV:v-pcp:receber:M_S::anr_pass:icl-subst:passive: recebido))
+                                 (PASS:pp 
+                                   (H:prp:por:::: por+)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:ministra:F_S::np-def: ministra))))
+                        (,)
+                        (S<:fcl (SUBJ:np 
+                                  (H:pron-indp:o_que:M_S::rel: o_que))
+                                (ADVL:advp 
+                                  (H:adv:não:::: não))
+                                (P:vp (AUX:v-fin:deixar:PR_3S_IND::: deixa)
+                                      (PRT-AUX:prp:de:::: de)
+                                      (MV:v-inf:ser:::: ser))
+                                (SC:adjp 
+                                  (H:adj:espantoso:M_S::: espantoso))
+                                (ADVL:icl::::ger: 
+                                  (P:vp (MV:v-ger:ter:::: tendo))
+                                  (ADVL:pp:em_conta:::: em_conta)
+                                  (ACC:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:tempo:M_S::np-def: tempo)
+                                    (N<:icl::::pcp: 
+                                      (P:vp 
+                                        (MV:v-pcp:decorrer:M_S::: decorrido))
+                                      (ADVL:pp 
+                                        (H:prp:desde:::: desde)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                          (H:n:audiência:F_S::anr_np-def: audiência)))))))
+                        (.)))

@@ -1,0 +1,63 @@
+(FRASE CP844-2 (STA:fcl (ADVL:cu (CJT:pp 
+                                   (H:prp:para_além_de:: Para_além_de)
+                                   (P<:np 
+                                     (H:n:problema:M_P::np-idf: problemas)
+                                     (N<:adjp 
+                                       (H:adj:salarial:M_P::: salariais))
+                                     (,)
+                                     (N<PRED:adjp 
+                                       (>A:adv:mais_ou_menos:::quant: mais_ou_menos)
+                                       (H:v-pcp:complicar:M_P::: complicados))
+                                     (,)))
+                                 (CJT:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (H:n:alojamento:M_P::np-idf: alojamentos)
+                                     (N<:cu 
+                                       (CJT:adjp 
+                                         (H:adj:difícil:M_P::: difíceis)
+                                         (A<arg:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:v-inf:encontrar:::: encontrar)))
+                                       (CO:conj-c:e:::co-postnom: e)
+                                       (CJT:adjp 
+                                         (H:adj:caro:M_P::: caros))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:questão:F_S::np-def: questão)
+                                 (N<:adjp 
+                                   (>A:adv:mais:_::KOMP:quant: mais)
+                                   (H:adj:sensível:F_S::: sensível)))
+                        (P:vp (AUX:v-fin:acabar:PR_3S_IND::: acaba)
+                              (PRT-AUX:prp:por:::: por)
+                              (MV:v-inf:ser:::: ser))
+                        (SC:cu (CJT:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:ordem:F_S::np-idf: ordem)
+                                         (N<:adjp 
+                                           (H:adj:familiar:F_S::: familiar))))
+                               (,)
+                               (CJT:np (>N:adv:principalmente:::: principalmente)
+                                       (H:pron-det:a:F_P::anr_np-idf:dem: as)
+                                       (N<:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:relacionar:F_P::: relacionadas))
+                                         (ADVL:cu 
+                                           (CJT:pp 
+                                             (H:prp:com:::: com)
+                                             (P<:np 
+                                               (H:n:filho:M_P::np-idf: filhos)
+                                               (N<:pp 
+                                                 (H:prp:em:::: em)
+                                                 (P<:np 
+                                                   (H:n:idade:F_S::np-idf: idade)
+                                                   (N<:adjp 
+                                                     (H:adj:escolar:F_S::: escolar))))))
+                                           (CO:conj-c:e:::co-advl: e)
+                                           (CJT:pp 
+                                             (H:prp:com:::: com)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (>N:adj:respectivo:F_S::: respectiva)
+                                               (H:n:educação:F_S::anr_np-def: educação)))))))
+                        (.)))

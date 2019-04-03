@@ -1,0 +1,56 @@
+(FRASE CP646-2 (STA:fcl (FOC:advp (H:adv:foi:foc: Foi))
+                        (SUBJ:np (H:prop:D.Maria_I:F_S::: D.Maria_I))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (,)
+                        (ADVL:pp (H:prp:por:::: por)
+                                 (P<:np (>N:adj:real:M_S::: real)
+                                        (H:n:decreto:M_S::anr_np-idf: decreto)
+                                        (N<:icl::::pcp: 
+                                          (P:vp 
+                                            (MV:v-pcp:assinar:M_S::: assinado))
+                                          (ADVL:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:np 
+                                              (H:adjp::::date: 
+                                                (H:num:18:M_S::card: 18)
+                                                (A<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:novembro:M_S::np-idf:prop: Novembro))))
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:adjp 
+                                                  (H:num:1783:M_S::card: 1783))))))))
+                        (,)
+                        (P:vp (MV:v-fin:conceder:PS_3S_IND::: concedeu))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:lotaria:F_S::np-def: lotaria))
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:F_S::artd: a)
+                                       (>N:prop:Santa_Casa_da_Misericórdia:F_S::: Santa_Casa_da_Misericórdia)))
+                        (,)
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:objectivo:M_S::np-def: objectivo)
+                                        (N<:adjp 
+                                          (H:adj:primordial:M_S::: primordial))
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:icl 
+                                            (P:vp 
+                                              (MV:v-inf:sustentar:::: sustentar))
+                                            («)
+                                            (ACC:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:hospital:M_P::np-def: hospitais)
+                                              (N<:adjp 
+                                                (H:adj:real:M_P::: reais))
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:cu 
+                                                  (CJT:adjp 
+                                                    (H:adj:enfermo:M_P::: enfermos))
+                                                  (CO:conj-c:e:::co-prparg: e)
+                                                  (CJT:v-pcp:expor:M_P::: expostos))))
+                                            (»)))))
+                        (.)))

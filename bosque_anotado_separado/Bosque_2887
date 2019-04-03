@@ -1,0 +1,101 @@
+(FRASE CP555-4 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:questão:F_S::np-def: questão)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:peso:M_S::np-def: peso)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:voto:M_P::np-def: votos)
+                                              (N<:pp 
+                                                (H:prp:em:::: em)
+                                                (P<:np 
+                                                  (H:n:branco:M_S::np-idf: branco)))))
+                                          (N<:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:escrutínio:M_S::np-def: escrutínio)
+                                              (N<:adjp 
+                                                (H:adj:final:M_S::: final)))))))
+                        (ADVL:advp (H:adv:só:::: só))
+                        (P:vp (MV:v-fin:ficar:PS_3S_IND::: ficou))
+                        (SC:v-pcp:resolver:F_S::: resolvida)
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:alteração:F_S::np-idf: alteração)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:lei:F_S::np-def: lei)
+                                            (N<:adjp 
+                                              (H:adj:eleitoral:F_S::: eleitoral))
+                                            (,)
+                                            (N<PRED:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:adjp 
+                                                (H:adjp::::date: 
+                                                  (H:num:26:M_S::card: 26)
+                                                  (A<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (H:n:novembro:M_S::np-idf:prop: Novembro))))
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:adjp 
+                                                    (H:num:1985:M_S::card: 1985)))))
+                                            (,)
+                                            (N<PRED:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:F_S::rel: que))
+                                              (P:vp 
+                                                (AUX:v-fin:vir:PS_3S_IND::: veio)
+                                                (MV:v-inf:pôr:::fs-rel: pôr))
+                                              (ACC:np 
+                                                (H:n:ponto:M_S::np-idf: ponto)
+                                                (N<:adjp 
+                                                  (H:adj:final:M_S::: final)))
+                                              (PIV:pp 
+                                                (H:prp:a:::: a+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:diferendo:M_S::np-def: diferendo)
+                                                  (N<:fcl 
+                                                    (SUBJ:np 
+                                                      (H:pron-indp:que:M_S::rel: que))
+                                                    (P:vp 
+                                                      (MV:v-fin:opor:PS_3S_IND::fs-rel: opôs))
+                                                    (ADVL:pp 
+                                                      (H:prp:em:::: em+)
+                                                      (P<:np 
+                                                        (>N:pron-det:esse:F_S::dem: essa)
+                                                        (H:n:matéria:F_S::np-def: matéria)))
+                                                    (ACC:cu 
+                                                      (CJT:np 
+                                                        (>N:art:o:M_S::artd: o)
+                                                        (H:prop:Supremo_Tribunal_de_Justiça:M_S::: Supremo_Tribunal_de_Justiça)
+                                                        ({)
+                                                        (APP:np 
+                                                          (H:prop:STJ:M_S::: STJ))
+                                                        (}))
+                                                      (CO:conj-c:e:::co-acc: e)
+                                                      (CJT:np 
+                                                        (>N:art:o:M_S::artd: o)
+                                                        (H:prop:Secretariado_Técnico_dos_Assuntos_para_o_Processo_Eleitoral:M_S::: Secretariado_Técnico_dos_Assuntos_para_o_Processo_Eleitoral)
+                                                        ({)
+                                                        (APP:np 
+                                                          (H:prop:STAPE:M_S::: STAPE))
+                                                        (})))
+                                                    (PIV:pp 
+                                                      (H:prp:a:::: a+)
+                                                      (P<:np 
+                                                        (>N:art:o:F_S::artd: a)
+                                                        (H:prop:Comissão_Nacional_de_Eleições:F_S::: Comissão_Nacional_de_Eleições)
+                                                        ({)
+                                                        (APP:np 
+                                                          (H:prop:CNE:F_S::: CNE))
+                                                        (})))))))))))
+                        (.)))

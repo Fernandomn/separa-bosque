@@ -1,0 +1,51 @@
+(FRASE CP637-2 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (ADVL:advp (H:adv:depois:::: depois)
+                                   (A<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (>N:adj:novo:F_S::: nova)
+                                       (H:n:ofensiva:F_S::anr_np-def: ofensiva)
+                                       (N<:adjp 
+                                         (H:adj:azerbaijano:F_S::: azerbaijana))
+                                       (,)
+                                       (N<PRED:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (H:n:centena:F_P::card:np-idf:num: centenas)
+                                           (N<ARG:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:cu 
+                                               (CJT:np 
+                                                 (H:n:tanque:M_P::np-dequant:np-idf: tanques))
+                                               (,)
+                                               (CJT:np 
+                                                 (H:n:helicóptero:M_P::np-idf: helicópteros))
+                                               (CO:conj-c:e:::co-prparg: e)
+                                               (CJT:np 
+                                                 (H:n:avião:M_P::np-idf: aviões)
+                                                 (N<:pp 
+                                                   (H:prp:de:::: de)
+                                                   (P<:np 
+                                                     (H:n:ataque:M_S::np-idf: ataque))))))))
+                                       (,))))
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:dirigente:M_P::np-def: dirigentes)
+                                 (N<:adjp 
+                                   (H:adj:arménio:M_P::: arménios))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:enclave:F_S::np-def: enclave))))
+                        (P:vp (MV:v-fin:dizer:PS_3P_IND::: disseram))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (ADVL:advp 
+                                   (H:adv:não:::: não))
+                                 (P:vp (MV:v-fin:conseguir:IMPF_3P_IND::fs-subst:nosubj: conseguiam))
+                                 (ACC:icl 
+                                   (P:vp 
+                                     (MV:v-inf:sair:::icl-subst: sair))
+                                   (SA:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:adv:lá:::: lá))))
+                        (.)))

@@ -1,0 +1,55 @@
+(FRASE CP950-2 (STA:cu (CJT:fcl (SUBJ:np 
+                                  (>N:art:o:M_P::artd: Os)
+                                  (H:n:administrador:M_P::np-def: administradores)
+                                  (N<:icl::pcp: 
+                                    (P:vp 
+                                      (MV:v-pcp:nomear:M_P::: nomeados))
+                                    (PASS:pp 
+                                      (H:prp:por:::: por+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:prop:Estado_português:M_S::: Estado_português)))))
+                                (P:vp (MV:v-fin:votar:PS_3P_IND::: votaram))
+                                (ADVL:pp 
+                                  (H:prp:contra:::: contra)
+                                  (P<:np 
+                                    (>N:pron-det:este:F_S::dem: esta)
+                                    (H:n:decisão:F_S::np-def: decisão))))
+                       (,)
+                       (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                       (CJT:fcl (SUBJ:np 
+                                  (>N:art:o:M_P::artd: os)
+                                  (H:n:francês:M_P::np-def: franceses)
+                                  (,)
+                                  (N<PRED:adjp 
+                                    (H:adj:maioritário:M_P::: maioritários))
+                                  (,))
+                                (P:vp (MV:v-fin:decidir:PS_3P_IND::: decidiram))
+                                (ACC:icl 
+                                  (P:vp (MV:v-inf:ir:::icl-subst: ir))
+                                  (ADVL:pp:em_frente:::: em_frente))
+                                (,)
+                                (S<:fcl (SUBJ:np 
+                                          (H:pron-indp:o_que:M_S::interr: o_que))
+                                        (P:vp 
+                                          (MV:v-fin:constituir:PR_3S_IND::: constitui))
+                                        (ACC:np 
+                                          (>N:adjp 
+                                            (>A:adv:mais:::: mais)
+                                            (H:num:um:F_S::card: uma))
+                                          (H:n:prova:F_S::anr_np-count:anr_np-def: prova)
+                                          (N<ARGO:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:confronto:M_S::np-def: confronto)
+                                              (N<:v-pcp:abrir:M_S::: aberto)
+                                              (N<:icl::::pcp: 
+                                                (P:vp 
+                                                  (MV:v-pcp:instalar:M_S::: instalado))
+                                                (SA:pp 
+                                                  (H:prp:em:::: em+)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:n:empresa:F_S::np-def: empresa)))))))))
+                       (.)))

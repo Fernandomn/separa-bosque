@@ -1,0 +1,26 @@
+(FRASE CP151-4 (STA:fcl (SUBJ:cu (CJT:np 
+                                   (>N:num:nove:M_P::card: Nove)
+                                   (H:n:empréstimo:M_P::anr_np-count:anr_np-def: empréstimos)
+                                   (N<:pp 
+                                     (H:prp:por:: por)
+                                     (P<:np 
+                                       (H:n:obrigação:F_P::np-idf: obrigações))))
+                                 (CO:conj-c:e:::co-subj: e)
+                                 (CJT:np 
+                                   (>N:art:o:F_P::artd: as)
+                                   (H:n:acção:F_P::np-def: acções)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:S::artd: a)
+                                       (H:prop:Luzostela:F_S::: Luzostela)))))
+                        (P:vp- (AUX:v-fin:ir:PS_3P_IND::: foram))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (-P:vp (MV:v-pcp:retirar:M_P::: retirados))
+                        (PIV:pp (H:prp:de:::: de+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (H:n:cotação:F_S::np-def: cotação)))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:prop:Bolsa_de_Lisboa:F_S::: Bolsa_de_Lisboa)))
+                        (.)))

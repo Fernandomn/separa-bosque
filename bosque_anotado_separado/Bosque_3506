@@ -1,0 +1,91 @@
+(FRASE CP679-1 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:mercado:M_P::np-def: mercados)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (H:n:acção:F_P::np-idf: acções))))
+                        (P:vp (MV:v-fin:fechar:PS_3P_IND::: fecharam))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (SA:pp (H:prp:em:::: em)
+                               (P<:np (H:n:alta:F_S::np-idf: alta)))
+                        (,)
+                        (ADVL:pp- (H:prp:com:::: com)
+                                  (P<:np- 
+                                    (>N:art:o:F_P::artd: as)
+                                    (H:n:bolsa:F_P::np-def: bolsas)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:cu 
+                                        (CJT:np 
+                                          (H:prop:Londres:F_S::: Londres))
+                                        (CO:conj-c:e:::co-prparg: e)
+                                        (CJT:np 
+                                          (H:prop:Paris:M_S::: Paris))))))
+                        ({)
+                        (ADVL:fcl (SUBJ:np 
+                                    (H:prop:Frankfurt:MF_S::: Frankfurt))
+                                  (P:vp (MV:v-fin:estar:PS_3S_IND::: esteve))
+                                  (SC:v-pcp:encerrar:F_S::: encerrada))
+                        (})
+                        (-ADVL:pp (-P<:np 
+                                    (N<:pp 
+                                      (H:prp:a:::: a)
+                                      (P<:icl 
+                                        (P:vp 
+                                          (MV:v-inf:beneficiar:3P::: beneficiarem))
+                                        (PIV:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:art:um:F_S::arti: uma)
+                                            (H:n:onda:F_S::np-idf: onda)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:compra:F_P::np-idf: compras)))
+                                            (N<:adjp 
+                                              (H:adj:coincidente:F_S::: coincidente)
+                                              (A<:pp 
+                                                (H:prp:com:::: com)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:começo:M_S::np-def: começo)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de+)
+                                                    (P<:np 
+                                                      (>N:art:o:F_S::artd: a)
+                                                      (H:n:cimeira:F_S::np-def: cimeira)
+                                                      (N<:pp 
+                                                        (H:prp:de:::: de+)
+                                                        (P<:np 
+                                                          (>N:art:o:M_S::artd: o)
+                                                          (H:np- 
+                                                            (H:n:Grupo:M_S::anr_np-def:prop: Grupo)
+                                                            (N<:pp- 
+                                                              (H:prp:de:::: de)
+                                                              (P<:np- 
+                                                                (>N:art:o:M_P::artd: os)
+                                                                (>N:num:sete:M_P::card: Sete))))
+                                                          ({)
+                                                          (APP:np 
+                                                            (H:prop:G7:M_S::: G7))
+                                                          (})
+                                                          (-H:np 
+                                                            (-N<:pp 
+                                                              (-P<:np 
+                                                                (H:n:país:M_P::np-idf: países)
+                                                                (N<:adjp 
+                                                                  (>A:adv:mais:_::KOMP:quant: mais)
+                                                                  (H:adj:rico:M_P::: ricos)
+                                                                  (KOMP<:pp 
+                                                                    (H:prp:de:::: de+)
+                                                                    (P<:np 
+                                                                      (>N:art:o:M_S::artd: o)
+                                                                      (H:n:mundo:M_S::np-def: mundo)))))))))))
+                                                  (,)
+                                                  (N<PRED:pp 
+                                                    (H:prp:em:::: em)
+                                                    (P<:np 
+                                                      (H:prop:Halifax:MF_S::: Halifax)
+                                                      (,)
+                                                      (N<PRED:np 
+                                                        (H:prop:Canadá:M_S::: Canadá)))))))))))))
+                        (.)))

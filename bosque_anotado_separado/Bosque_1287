@@ -1,0 +1,50 @@
+(FRASE CP242-4 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:homem:M_P::np-def: homens)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Gigi_Simone:M_S::: Gigi_Simone))))
+                        (P:vp (AUX:v-fin:ter:MQP_3P_IND::: tiveram)
+                              (PRT-AUX:conj-s:que:::: que)
+                              (MV:v-inf:sofrer:::: sofrer))
+                        (ADVL:advp (H:adv:muito:::quant: muito))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:levar:::icl-fin: levar))
+                                   (OC:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:vencida:F_S::np-idf: vencida)))
+                                   (ACC:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:np 
+                                       (H:prop:Fiorentina:F_S::: Fiorentina)
+                                       (N<:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:F_S::rel: que))
+                                         (,)
+                                         (ADVL:pp 
+                                           (H:prp:com:::: com)
+                                           (P<:np 
+                                             (H:n:golo:M_P::np-idf: golos)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:cu 
+                                                 (CJT:np 
+                                                   (H:prop:Serena:M_S::: Serena))
+                                                 (CO:conj-c:e:::co-prparg: e)
+                                                 (CJT:np 
+                                                   (H:prop:Batistuta:M_S::: Batistuta))))))
+                                         (,)
+                                         (P:vp 
+                                           (MV:v-fin:dar:PS_3S_IND::fs-rel: deu))
+                                         (ACC:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:volta:F_S::np-def: volta)
+                                           (N<:pp 
+                                             (H:prp:a:::: a+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:resultado:M_S::np-def: resultado)))))))))
+                        (.)))

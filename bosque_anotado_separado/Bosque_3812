@@ -1,0 +1,67 @@
+(FRASE CP742-2 (UTT:cu (STA:fcl- (SUBJ:np 
+                                   (>N:pron-det:este:F_P::dem: Estas)
+                                   (H:n:notícia:F_P::np-def: notícias)
+                                   (N<:adjp 
+                                     (H:adj:alarmista:F_P: alarmistas))))
+                       (--)
+                       (STA:fcl (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:um:M_S::arti: um)
+                                    (H:n:relatório:M_S::np-idf: relatório)
+                                    (N<:adjp 
+                                      (H:adj:recente:M_S::: recente))))
+                                (,)
+                                (SUBJ:np 
+                                  (>N:art:o:M_P::artd: os)
+                                  (H:n:serviço:M_P::np-def: serviços)
+                                  (N<:adjp 
+                                    (H:adj:secreto:M_P::: secretos))
+                                  (N<:np 
+                                    (H:n:romeno:M_P::np-idf: romenos)))
+                                (P:vp (MV:v-fin:acusar:PS_3P_IND::: acusaram))
+                                (ACC:np (H:n:espião:M_P::np-idf: espiões)
+                                        (N<:cu 
+                                          (CJT:adjp 
+                                            (H:adj:húngaro:M_P::: húngaros))
+                                          (CO:conj-c:e:::co-postnom: e)
+                                          (CJT:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (>N:pron-det:outro:F_P::KOMP:diff: outras)
+                                              (H:n:nacionalidade:F_P::anr_np-idf: nacionalidades)))))
+                                (PIV:pp (H:prp:de:::: de)
+                                        (P<:icl 
+                                          (P:vp 
+                                            (AUX:v-inf:ter:3P::: terem)
+                                            (MV:v-pcp:incitar:::: incitado))
+                                          (PIV:pp 
+                                            (H:prp:a:::: a+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:revolta:F_S::np-def: revolta))))))
+                       (--)
+                       (-STA:fcl (X:cu (CJT:x::::predicate: 
+                                         (P:vp 
+                                           (MV:v-fin:contribuir:PS_3P_IND::: contribuíram))
+                                         (ADVL:advp 
+                                           (H:adv:decisivamente:::: decisivamente))
+                                         (PIV:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:derrube:M_S::np-def: derrube)
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:regime:M_S::np-def: regime))))))
+                                       (,)
+                                       (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                                       (CJT:x::::predicate: 
+                                         (P:vp 
+                                           (MV:v-fin:manchar:PS_3P_IND::nosubj: mancharam))
+                                         (ACC:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:revolta:F_S::np-def: revolta)))))
+                       (.)))

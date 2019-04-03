@@ -1,0 +1,16 @@
+(FRASE CP366-4 (EXC:np (>N:art:um:F_S::arti: Uma)
+                       (H:n:gestão:F_S::np-idf: gestão)
+                       (N<:cu (CJT:adjp (H:adj:calamitoso:F_S: calamitosa))
+                              (CO:conj-c:e:::co-postnom: e)
+                              (CJT:adjp (>A:adv:incrivelmente:::quant: incrivelmente)
+                                        (H:adj:ruinoso:F_S::: ruinosa)))
+                       (N<:fcl (ACC:np (H:pron-indp:que:F_S::rel: que))
+                               (SUBJ:np (>N:art:o:M_P::artd: os)
+                                        (H:n:vinicultor:M_P::np-def: vinicultores)
+                                        (N<:adjp 
+                                          (H:adj:duriense:M_P::: durienses)))
+                               (P:vp (AUX:v-fin:dever:PR_3P_COND::: deveriam)
+                                     (MV:v-inf:responsabilizar:::fs-rel: responsabilizar))
+                               (ADVL:advp 
+                                 (H:adv:criminalmente:::: criminalmente)))
+                       (!)))

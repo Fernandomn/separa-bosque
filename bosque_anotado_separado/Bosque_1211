@@ -1,0 +1,62 @@
+(FRASE CP225-2 (STA:fcl (ADVL:advp (H:adv:tanto_mais_quanto:quant: Tanto_mais_quanto))
+                        (,)
+                        (ADVL:advp (H:adv:hoje_em_dia:::: hoje_em_dia))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:hemisfério:M_S::np-def: hemisfério)
+                                 (N<:adjp 
+                                   (H:adj:esquerdo:M_S::: esquerdo))
+                                 ({)
+                                 (N<PRED:pp 
+                                   (H:prp:de:::: de+)
+                                   (P<:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (H:n:dextrímano:M_P::np-def: dextrímanos)))
+                                 (}))
+                        (ADVL:advp (H:adv:já_não:::: já_não))
+                        (P:vp (AUX:v-fin:ser:PR_3S_IND::: é)
+                              (MV:v-pcp:considerar:M_S::anr_pass:passive: considerado))
+                        (SC:cu (CJT:acl (PRD:adv:como:::: como)
+                                        (SC:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:hemisfério:M_S::np-def: hemisfério)
+                                          (N<:adjp 
+                                            (H:adj:cerebral:M_S::: cerebral))
+                                          («)
+                                          (N<:adjp 
+                                            (H:adj:dominante:M_S::: dominante))
+                                          (»)))
+                               (,)
+                               (CO:conj-c:nem:::: nem)
+                               (CJT:acl (PRD:adv:como:::: como)
+                                        (SC:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n-adj:único:M_S::np-def: único)
+                                          (N<:adjp 
+                                            (H:adj:capaz:M_S::: capaz)
+                                            (A<arg:cu 
+                                              (CJT:pp 
+                                                (H:prp:de:A<ARG::: de)
+                                                (P<:icl 
+                                                  (P:vp 
+                                                    (MV:v-inf:desempenhar:::: desempenhar))
+                                                  (ACC:np 
+                                                    (>N:adj:alto:F_P::: altas)
+                                                    (H:n:função:F_P::anr_np-idf: funções)
+                                                    (N<:adjp 
+                                                      (H:adj:mental:F_P::: mentais)))))
+                                              (CO:conj-c:e:::: e)
+                                              (CJT:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:icl 
+                                                  (P:vp 
+                                                    (MV:v-inf:controlar:::: controlar))
+                                                  (ACC:np 
+                                                    (H:n:movimento:M_P::np-idf: movimentos)
+                                                    (N<:cu 
+                                                      (CJT:adjp 
+                                                        (H:adj:preciso:M_P::: precisos))
+                                                      (CO:conj-c:e:::co-postnom: e)
+                                                      (CJT:adjp 
+                                                        (H:adj:subtil:M_P::: subtis)))))))))))
+                        (.)))

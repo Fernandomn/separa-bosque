@@ -1,0 +1,25 @@
+(FRASE CP362-2 (STA:fcl (SUBJ:np (H:n:funcionário:M_P::np-idf: Funcionários)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:fiscalização:F_S::np-def: fiscalização)
+                                          (N<:adjp 
+                                            (H:adj:municipal:F_S::: municipal)))))
+                        (P:vp- (AUX:v-fin:ser:PS_3P_IND::: foram))
+                        (ADVL:advp (H:adv:também:::: também))
+                        (-P:vp (MV:v-pcp:acusar:M_P::anr_pass:passive: acusados))
+                        (PIV:pp (H:prp:de:::: de)
+                                (P<:icl (P:vp 
+                                          (MV:v-inf:aconselhar:3P::: aconselharem))
+                                        (ACC:np 
+                                          (H:n:residente:MF_P::np-idf: residentes))
+                                        (PIV:pp 
+                                          (H:prp:a:::: a)
+                                          (P<:icl 
+                                            (P:vp 
+                                              (MV:v-inf:vender:3P::: venderem))
+                                            (ACC:np 
+                                              (>N:art:o:F_P::artd: as)
+                                              (>N:pron-det:seu:F_P::si: suas)
+                                              (H:n:propriedade:F_P::anr_np-def: propriedades))))))
+                        (.)))

@@ -1,0 +1,46 @@
+(FRASE CP708-4 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:facto:M_P::np-def: factos))
+                        (,)
+                        (ADVL:pp (H:prp:segundo:: segundo)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:queixa:F_S::np-def: queixa)
+                                        (N<:v-pcp:apresentar:F_S::: apresentada)))
+                        (,)
+                        (P:vp (MV:v-fin:ocorrer:PS_3P_IND::: ocorreram))
+                        (ADVL:pp (H:prp:a:::: a+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:início:M_S::np-def: início)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:noite:F_S::np-def: noite)))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:caminho:M_S::np-idf: caminho)
+                                        (N<:adjp 
+                                          (H:adj:ermo:M_S::: ermo))
+                                        (,)
+                                        (N<PRED:pp 
+                                          (H:prp:sem:::: sem)
+                                          (P<:np 
+                                            (>N:pron-det:qualquer:F_S::quant: qualquer)
+                                            (H:n:casa:F_S::anr_np-idf: casa)
+                                            (N<:adjp 
+                                              (H:adj:próximo:F_S::: próxima))))
+                                        (,)
+                                        (N<PRED:np 
+                                          (>N:art:um:F_S::arti: uma)
+                                          (H:n:passagem:F_S::np-idf: passagem)
+                                          (N<:icl::::pcp: 
+                                            (ADVL:advp 
+                                              (H:adv:pouco:::quant: pouco))
+                                            (P:vp 
+                                              (MV:v-pcp:utilizar:F_S::: utilizada))
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:aldeia:F_S::np-def: aldeia)))))))
+                        (.)))

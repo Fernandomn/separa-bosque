@@ -1,0 +1,28 @@
+(FRASE CP274-1 (STA:fcl (ADVL:pp (H:prp:em:: Em)
+                                 (P<:np (H:prop:Portugal:M_S::: Portugal)))
+                        (ADVL:pp (H:prp:desde:::: desde)
+                                 (P<:adjp::::date: 
+                                   (H:num:23:M_S::card: 23)
+                                   (A<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:maio:M_S::np-idf:prop: Maio)))))
+                        (,)
+                        (SUBJ:np (H:prop:Manuel_António:M_S::: Manuel_António))
+                        (P:vp (MV:v-fin:viver:PS_3S_IND::: viveu))
+                        (SA:pp (H:prp:em:::: em)
+                               (P<:np (H:prop:Lisboa:F_S::: Lisboa)))
+                        (,)
+                        (ADVL:np (>N:adjp 
+                                   (>A:adv:cerca_de:::: cerca_de)
+                                   (H:num:três:M_P::card: três))
+                                 (H:n:mês:M_P::anr_np-count:anr_np-def: meses))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:deslocar:::: deslocando-))
+                          (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                          (ADVL:advp (H:adv:depois:::: depois))
+                          (SA:pp (H:prp:para:::: para)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:prop:Porto:M_S::: Porto))))
+                        (.)))

@@ -1,0 +1,80 @@
+(FRASE CP927-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:guerra:F_S: guerra)
+                                 (N<:adjp 
+                                   (H:adj:civil:F_S::: civil))
+                                 (N<:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Tadjiquistão:M_S::: Tadjiquistão)))
+                                 (,)
+                                 (N<PRED:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:F_S::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:fazer:PS_3S_IND::fs-rel: fez))
+                                   (ACC:np 
+                                     (>N:adjp 
+                                       (>A:adv:mais_de:::quant: mais_de)
+                                       (H:num:50:M_P::card: 50))
+                                     (H:n-adj:morto:M_P::anr_np-count:anr_np-def: mortos)))
+                                 (,))
+                        (P:vp (MV:v-fin:começar:PS_3S_IND::: começou))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:adjp 
+                                   (H:num:1992:M_S::card: 1992)))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:quando:_::ks:rel: quando))
+                                  (SUBJ:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (H:n:força:F_P::np-def: forças)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (>N:adjp 
+                                          (>A:ec:neo-:::: neo-)
+                                          (H:adj:comunista:M_S::DERS: comunista))
+                                        (H:prop:Rakhmonov:M_S::: Rakhmonov))))
+                                  (P:vp (MV:v-fin:derrubar:PS_3P_IND::: derrubaram))
+                                  (ACC:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:governo:M_S::np-def: governo)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:n:islamista:M_P::np-def: islamistas)
+                                        (,)
+                                        (N<PRED:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_P::rel: que))
+                                          (,)
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:F_P::artd: as)
+                                              (>N:adj:último:F_P::NUM-ord: últimas)
+                                              (H:n:semana:F_P::anr_np-def: semanas)))
+                                          (,)
+                                          (X:cu 
+                                            (CJT:x::::predicate: 
+                                              (P:vp 
+                                                (AUX:v-fin:ter:PR_3P_IND::: têm)
+                                                (MV:v-pcp:somar:::: somado))
+                                              (ACC:np 
+                                                (H:n:vitória:F_P::np-idf: vitórias)))
+                                            (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                            (CJT:x::::predicate: 
+                                              (ACC:np 
+                                                (H:pron-pers:se:M_3P_ACC::refl: se))
+                                              (P:vp 
+                                                (MV:v-fin:aproximar:PR_3P_IND::nosubj: aproximam))
+                                              (ADVL:advp 
+                                                (H:adv:perigosamente:::: perigosamente))
+                                              (PIV:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:capital:F_S::np-def: capital))))))))))
+                        (.)))

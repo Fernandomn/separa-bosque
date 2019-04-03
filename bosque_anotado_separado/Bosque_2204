@@ -1,0 +1,58 @@
+(FRASE CP419-6 (STA:fcl (ACC:fcl (SUBJ:np 
+                                   (>N:art:um:M_S::arti: Um)
+                                   (H:n:miúdo:M_S::np-idf: miúdo)
+                                   (N<:pp 
+                                     (H:prp:de:: de)
+                                     (P<:np 
+                                       (>N:num:três:M_P::card: três)
+                                       (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))
+                                   (N<:fcl 
+                                     (SUBJ:np 
+                                       (>N:pron-det:cujo:F_P::rel: cujas)
+                                       (H:n:perna:F_P::anr_np-idf: pernas))
+                                     (P:vp 
+                                       (AUX:v-fin:ser:PS_3P_IND::: foram)
+                                       (MV:v-pcp:cortar:F_P::anr_pass:fs-rel:passive: cortadas))
+                                     (PASS:pp 
+                                       (H:prp:por:::: por)
+                                       (P<:np 
+                                         (>N:art:um:F_S::arti: uma)
+                                         (H:n:ceifeira-debulhadora:F_S::np-idf: ceifeira-debulhadora)))))
+                                 (X:cu (CJT:x::::predicate: 
+                                         (P:vp 
+                                           (AUX:v-fin:ser:PS_3S_IND::: foi)
+                                           (MV:v-pcp:operar:M_S::anr_pass:passive: operado))
+                                         (ADVL:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:reimplantação:F_S::np-def: reimplantação)
+                                             (N<ARGO:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_P::artd: os)
+                                                 (>N:num:dois:M_P::card: dois)
+                                                 (H:n:membro:M_P::anr_np-count:anr_np-def: membros))))))
+                                       (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                       (CJT:x::::predicate: 
+                                         (P:vp 
+                                           (MV:v-fin:recuperar:PR_3S_IND::nosubj: recupera))
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:prop:Hospital_Rei_Eduardo_VIII:M_S::: Hospital_Rei_Eduardo_VIII)
+                                             (N<:pp 
+                                               (H:prp:em:::: em)
+                                               (P<:np 
+                                                 (H:prop:Durban:M_S::: Durban)
+                                                 (,)
+                                                 (N<PRED:np 
+                                                   (H:prop:África_do_Sul:F_S::: África_do_Sul))
+                                                 (,))))))))
+                        (P:vp (MV:v-fin:informar:PS_3S_IND::: informou))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (SUBJ:np (H:n:fonte:F_S::np-idf: fonte)
+                                 (N<:adjp 
+                                   (H:adj:hospitalar:F_S::: hospitalar)))
+                        (.)))

@@ -1,0 +1,68 @@
+(FRASE CP558-3 (STA:fcl (ADVL:pp (H:prp:há:: há)
+                                 (P<:np (>N:num:onze:M_P::card: onze)
+                                        (H:n:mês:M_P::anr_np-count:anr_np-def: meses)))
+                        (,)
+                        (SUBJ:cu (CJT:np 
+                                   (H:n:explosão:F_P::np-idf: explosões)
+                                   (N<:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:cidade:F_S::np-def: cidade))))
+                                 (CO:conj-c:e:::co-subj: e)
+                                 (CJT:np 
+                                   (H:n:massacre:M_P::np-idf: massacres)
+                                   (N<:pp 
+                                     (H:prp:em:::: em)
+                                     (P<:np 
+                                       (H:n:zona:F_P::np-idf: zonas)
+                                       (N<:adjp 
+                                         (H:adj:rural:F_P::: rurais))))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:causar:PS_3P_IND::nosubj: causaram))
+                                (ACC:np (>N:adv:pelo_menos:::quant: pelo_menos)
+                                        (>N:num:400:M_P::card: 400)
+                                        (H:n-adj:morto:M_P::anr_np-count:anr_np-def: mortos)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:traumatizar:PS_3P_IND::nosubj: traumatizaram))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:cidade:F_S::np-def: cidade)
+                                        (,)
+                                        (N<PRED:fcl 
+                                          (ADVL:advp 
+                                            (H:adv:onde:_::ks:rel: onde))
+                                          (SUBJ:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:grupo:M_S::np-def: grupo)
+                                            (N<:adjp 
+                                              (H:adj:islâmico:M_S::: islâmico))
+                                            (N<:v-pcp:armar:M_S::: armado)
+                                            ({)
+                                            (APP:np 
+                                              (H:prop:GIA:M_S::: GIA))
+                                            (}))
+                                          (P:vp 
+                                            (MV:v-fin:enfrentar:PS_3S_IND::fs-rel: enfrentou))
+                                          (,)
+                                          (ADVL:pp 
+                                            (H:prp:com:::: com)
+                                            (P<:np 
+                                              (H:n:sucesso:M_S::np-idf: sucesso)))
+                                          (,)
+                                          (ACC:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (>N:v-pcp:apertar:F_S::: apertada)
+                                            (H:n:malha:F_S::anr_np-idf: malha)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_P::artd: as)
+                                                (H:n:força:F_P::np-def: forças)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:segurança:F_S::np-idf: segurança)
+                                                    (N<:adjp 
+                                                      (H:adj:argelino:F_P::: argelinas)))))))))))
+                        (.)))

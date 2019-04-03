@@ -1,0 +1,34 @@
+(FRASE CP550-6 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:pedaço:M_P::np-def: pedaços)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:estrutura:F_S::np-def: estrutura)
+                                          (N<:adjp 
+                                            (H:adj:original:F_S::: original)))))
+                        (P:vp (AUX:v-fin:ser:PS_3P_IND::: foram)
+                              (MV:v-pcp:esconder:M_P::anr_pass:passive: escondidos))
+                        (PASS:pp (H:prp:por:::: por+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:zeladora:F_S::np-def: zeladora)))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_P::artd: as)
+                                        (H:n:proximidade:F_P::np-def: proximidades)))
+                        (,)
+                        (PRED:icl::::pcp: 
+                          (P:vp (MV:v-pcp:cobrir:M_P::: cobertos))
+                          (PASS:pp (H:prp:por:::: por)
+                                   (P<:np 
+                                     (H:n:mato:M_S::np-idf: mato)))
+                          (,)
+                          (ADVL:icl::::ger: 
+                            (P:vp (MV:v-ger:prevenir:::: prevenindo))
+                            (ACC:np (>N:adj:eventual:M_P::: eventuais)
+                                    (H:n:furto:M_P::anr_np-idf: furtos)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:pedra:F_S::np-def: pedra)
+                                        (N<:v-pcp:trabalhar:F_S::: trabalhada))))))
+                        (.)))

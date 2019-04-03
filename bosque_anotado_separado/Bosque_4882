@@ -1,0 +1,40 @@
+(FRASE CP949-1 (STA:fcl (ADVL:pp (H:prp:a_par_de:: A_par_de+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (>N:pron-det:seu:M_S::si: seu)
+                                        (H:n:envolvimento:M_S::anr_np-idf: envolvimento)
+                                        (N<:pp 
+                                          (H:prp:com:::: com)
+                                          (P<:np 
+                                            (H:n:empresa:F_P::np-idf: empresas)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:efeito:M_P::np-idf: efeitos)
+                                                (N<:adjp 
+                                                  (H:adj:especial:M_P::: especiais))))
+                                            (,)
+                                            (N<PRED:fcl 
+                                              (COM:adv:como:::rel: como)
+                                              (P:vp 
+                                                (MV:v-fin:ser:PR_3S_IND::nosubj: é))
+                                              (SC:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:caso:M_S::np-def: caso)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:prop:ILM:F_S::: ILM)))))
+                                            (,)))))
+                        (SUBJ:np (>N:pron-det:algum:M_P::quant: alguns)
+                                 (H:n:projecto:M_P::anr_np-idf: projectos)
+                                 (N<:adjp 
+                                   (H:adj:recente:M_P::: recentes)))
+                        (P:vp (MV:v-fin:contribuir:PS_3P_IND::: contribuíram))
+                        (PIV:pp (H:prp:para:::: para)
+                                (P<:icl (P:vp 
+                                          (MV:v-inf:dinamizar:::icl-fin: dinamizar))
+                                        (ACC:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:companhia:F_S::np-def: companhia))))
+                        (.)))

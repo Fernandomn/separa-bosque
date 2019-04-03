@@ -1,0 +1,72 @@
+(FRASE CP495-1 (STA:fcl (SUBJ:np (>N:pron-det:este:M_P::dem: Estes)
+                                 (H:n:investigador:M_P::np-def: investigadores))
+                        («)
+                        (P:vp (MV:v-fin:vacinar:PS_3P_IND: vacinaram))
+                        (»)
+                        (ACC:np (>N:num:quatro:M_P::card: quatro)
+                                (H:n:macaco:M_P::anr_np-count:anr_np-def: macacos))
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:estirpe:F_S::np-idf: estirpe)
+                                        (N<:adjp 
+                                          (>A:adv:pouco:::quant: pouco)
+                                          (H:adj:virulento:F_S::: virulenta))
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:vírus:M_S::np-def: vírus)
+                                            (N<:np 
+                                              (H:prop:HIV2:M_S::: HIV2))
+                                            (N<:adjp 
+                                              (H:adj:humano:M_S::: humano))
+                                            ({)
+                                            (N<PRED:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:vírus:M_S::np-def: vírus)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:sida:F_S::np-def: sida)))
+                                              (N<:adjp 
+                                                (>A:adv:mais:_::KOMP:quant: mais)
+                                                (H:adj:vulgar:M_S::: vulgar)
+                                                (A<:pp 
+                                                  (H:prp:em:::: em+)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:prop:África:F_S::: África)))))
+                                            (})
+                                            (,)
+                                            (N<PRED:cu 
+                                              (CJT:fcl 
+                                                (SUBJ:np 
+                                                  (H:pron-indp:que:F_S::rel: que))
+                                                (ADVL:advp 
+                                                  (H:adv:não:::: não))
+                                                (P:vp 
+                                                  (MV:v-fin:provocar:PR_3S_IND::: provoca))
+                                                (ACC:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:n:doença:F_S::np-def: doença))
+                                                (ADVL:pp 
+                                                  (H:prp:em:::: em+)
+                                                  (P<:np 
+                                                    (>N:pron-det:este:M_P::dem: estes)
+                                                    (H:n:animal:M_P::np-def: animais))))
+                                              (CO:conj-c:e:::co-pred: e)
+                                              (CJT:fcl 
+                                                (SUBJ:np 
+                                                  (H:pron-indp:que:F_S::rel: que))
+                                                (P:vp 
+                                                  (MV:v-fin:desaparecer:PR_3S_IND::: desaparece))
+                                                (ADVL:advp 
+                                                  (H:adv:rapidamente:::: rapidamente))
+                                                (ADVL:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (>N:pron-det:seu:M_S::si: seu)
+                                                    (H:n:organismo:M_S::anr_np-def: organismo)))))))))
+                        (.)))

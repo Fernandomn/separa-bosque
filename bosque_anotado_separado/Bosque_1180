@@ -1,0 +1,92 @@
+(FRASE CP218-4 (STA:fcl (ADVL:pp (H:prp:de:: De)
+                                 (P<:np (H:n:momento:M_S::np-idf: momento)))
+                        (,)
+                        (SUBJ:np (>N:pron-det:ambos:M_P::quant: ambos)
+                                 (>N:art:o:M_P::artd: os)
+                                 (H:n:grupo:M_P::np-def: grupos))
+                        (P:vp (MV:v-fin:estar:PR_3P_IND::: estão))
+                        (SA:pp (H:prp:em:::: em)
+                               (P<:np (H:n:contacto:M_P::np-idf: contactos)
+                                      (N<:pp 
+                                        (H:prp:com:::: com)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (>N:pron-det:vários:M_P::quant: vários)
+                                          (H:n:credor:M_P::anr_np-def: credores)))
+                                      (N<:pp 
+                                        (H:prp:para:::: para)
+                                        (P<:icl 
+                                          (P:vp 
+                                            (MV:v-inf:assegurar:3P::icl-fin: assegurarem))
+                                          (ACC:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (>N:adj:respectivo:M_S::: respectivo)
+                                            (H:n:apoio:M_S::anr_np-def: apoio))))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:pois:::: pois)
+                                  (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                                  (SC:adjp 
+                                    (H:adj:necessário:M_S::: necessário))
+                                  (SUBJ:fcl 
+                                    (SUB:conj-s:que:::: que)
+                                    (SUBJ:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (H:n:voto:M_P::np-def: votos)
+                                      (N<:adjp 
+                                        (H:adj:favorável:M_P::: favoráveis)
+                                        (A<:pp 
+                                          (H:prp:a:::: a)
+                                          (P<:adjp 
+                                            (H:num:um:F_S::card: uma)
+                                            (A<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:P::artd: as)
+                                                (H:n:proposta:F_P::np-def:np-partitive2: propostas)))))))
+                                    (P:vp 
+                                      (MV:v-fin:vir:PR_3P_SUBJ::fs-subst: venham))
+                                    (PIV:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (>N:art:um:M_S::arti: um)
+                                        (H:n:conjunto:M_S::np-idf: conjunto)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:credor:M_P::np-idf: credores)
+                                            (N<:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:M_S::rel: que))
+                                              (P:vp 
+                                                (MV:v-fin:deter:PR_3P_SUBJ::fs-rel: detenham))
+                                              (ACC:np 
+                                                (>N:adv:pelo_menos:::quant: pelo_menos)
+                                                (H:np 
+                                                  (>N:num:75:M_P::card: 75)
+                                                  (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de+)
+                                                    (N<:np 
+                                                      (>N:art:o:S::artd: a)
+                                                      (H:n:dívida:F_S::np-def: dívida)
+                                                      (N<:pp 
+                                                        (H:prp:de:::: de+)
+                                                        (P<:np 
+                                                          (>N:art:o:S::artd: a)
+                                                          (H:prop:TVI:F_S::: TVI)))
+                                                      (,)
+                                                      (N<PRED:fcl 
+                                                        (SUBJ:np 
+                                                          (H:pron-indp:que:F_S::rel: que))
+                                                        (P:vp 
+                                                          (MV:v-fin:ascender:PR_3S_IND::fs-rel: ascende))
+                                                        (SA:pp 
+                                                          (H:prp:a:::: a)
+                                                          (P<:np 
+                                                            (>N:num:17:M_P::card: 17)
+                                                            (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                                            (N<ARG:pp 
+                                                              (H:prp:de:::: de)
+                                                              (P<:np 
+                                                                (H:n:conto:M_P::np-dequant:np-idf: contos)))))))))))))))))
+                        (.)))

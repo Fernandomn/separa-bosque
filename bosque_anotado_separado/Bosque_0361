@@ -1,0 +1,47 @@
+(FRASE CP66-4 (STA:fcl («)
+                       (SUBJ:np (H:prop:A_sina_do_seu_destino:F_S: A_sina_do_seu_destino))
+                       (»)
+                       (,)
+                       (P:vp (MV:v-fin:abrir:PR_3S_IND::: abre))
+                       (ACC:np (>N:art:o:F_S::artd: a)
+                               (H:n:sequência:F_S::np-def: sequência)
+                               (N<:pp (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:imagem:F_P::np-idf: imagens)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:autor:M_S::np-def: autor)))))
+                               (,)
+                               (N<PRED:fcl 
+                                 (SUBJ:np 
+                                   (H:pron-indp:que:F_S::rel: que))
+                                 (P:vp (MV:v-fin:fechar:PR_3S_IND::fs-rel: fecha))
+                                 (ADVL:pp 
+                                   (H:prp:com:::: com)
+                                   (P<:np 
+                                     (>N:pron-pers:ela:F_3S_ACC::: a)
+                                     (>N:cu 
+                                       (CJT:adjp 
+                                         (H:adj:trémulo:M_F::: trémula))
+                                       (,)
+                                       (CJT:adjp 
+                                         (H:adj:brilhante:F_S::: brilhante))
+                                       (CO:conj-c:e:::co-pred: e)
+                                       (CJT:adjp 
+                                         (H:adj:opaco:F_S::: opaca))
+                                       (,)
+                                       (CJT:adjp 
+                                         (H:adj:poético:F_S::: poética))
+                                       (CO:conj-c:e:::co-pred: e)
+                                       (CJT:adjp 
+                                         (H:adj:tenso:F_S::: tensa))
+                                       (,))
+                                     (H:n:vida:F_S::anr_np-idf: vida)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:n:noite:F_S::np-def: noite)))))))
+                       (.)))

@@ -1,0 +1,51 @@
+(FRASE CP437-3 (STA:fcl (SUBJ:np («)
+                                 (H:prop:Carlos_dos_jornais:M_S: Carlos_dos_jornais)
+                                 (»)
+                                 (,)
+                                 (N<PRED:fcl 
+                                   (ADVL:advp 
+                                     (H:adv:como:::rel: como))
+                                   (SUBJ:np 
+                                     (H:pron-det:todo:M_P::quant: todos))
+                                   (DAT:np 
+                                     (H:pron-pers:ele:M_3S_DAT::: lhe))
+                                   (P:vp 
+                                     (MV:v-fin:chamar:IMPF_3P_IND::fs-rel: chamavam)))
+                                 (,))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:ter:IMPF_3S_IND::: tinha))
+                                (ACC:np (>N:num:77:M_P::card: 77)
+                                        (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:falecer:PS_3S_IND::nosubj: faleceu))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:domingo:M_S::np-def: domingo)))
+                                (,)
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:um:M_S::arti: um)
+                                    (H:n:hospital:M_S::np-idf: hospital)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:capital:F_S::np-def: capital)))))
+                                (,)
+                                (ADVL:pp 
+                                  (H:prp:em:::: em)
+                                  (P<:np 
+                                    (H:n:consequência:F_S::np-idf: consequência)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (>N:art:um:F_S::arti: uma)
+                                        (>N:v-pcp:prolongar:F_S::: prolongada)
+                                        (H:n:doença:F_S::anr_np-idf: doença)
+                                        (N<:adjp 
+                                          (H:adj:pulmonar:F_S::: pulmonar))))))))
+                        (.)))

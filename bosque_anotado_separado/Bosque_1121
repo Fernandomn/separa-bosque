@@ -1,0 +1,31 @@
+(FRASE CP207-9 (UTT:np (H:n:passo:M_S::np-idf: Passo)
+                       (N<:adjp (H:num:2:M_S::card: 2))
+                       (;)
+                       (N<PRED:fcl (P:vp 
+                                     (MV:v-fin:eliminar:PR_3S_SUBJ::nosubj: elimine))
+                                   (ACC:cu 
+                                     (CJT:np 
+                                       (>N:pron-det:todo_o:F_P::quant: todas_as)
+                                       (H:n:vogal:M_P::anr_np-def: vogais))
+                                     (,)
+                                     (CJT:np 
+                                       (H:n:espaço:M_P::np-idf: espaços))
+                                     (CO:conj-c:e:co-acc: e)
+                                     (CJT:np 
+                                       (H:n:pontuação:F_S::np-idf: pontuação)))
+                                   (,)
+                                   (ADVL:icl::::ger: 
+                                     (P:vp 
+                                       (MV:v-ger:ficar:::: ficando))
+                                     (SA:pp 
+                                       (>P:adv:apenas:::: apenas)
+                                       (H:prp:com:::: com)
+                                       (P<:np 
+                                         (>N:art:um:F_S::arti: uma)
+                                         (>N:adj:longo:F_S::: longa)
+                                         (H:n:cadeia:F_S::anr_np-idf: cadeia)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:consoante:F_P::np-idf: consoantes)))))))
+                       (.)))

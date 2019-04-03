@@ -1,0 +1,41 @@
+(FRASE CP305-3 (STA:fcl (SUBJ:np (H:prop:Joaquim_Correia:M_S: Joaquim_Correia))
+                        (P:vp (MV:v-fin:justificar:PS_3S_IND::: justificou))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (>N:pron-det:seu:F_S::si: sua)
+                                (H:n:posição:F_S::anr_np-def: posição)
+                                (N<:adjp 
+                                  (H:adj:cauteloso:F_S::: cautelosa))
+                                (N<:pp (H:prp:sobre:::: sobre)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:assunto:M_S::np-def: assunto))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:adiantar:::: adiantando))
+                          (ACC:fcl (SUB:conj-s:que:::: que)
+                                   (SUBJ:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:processo:M_S::np-def: processo)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:reconversão:F_S::np-idf: reconversão)
+                                         (N<ARGO:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:prop:Convento_de_Santo_Agostinho:M_S::: Convento_de_Santo_Agostinho)))
+                                         (N<:pp 
+                                           (H:prp:em:::: em)
+                                           (P<:np 
+                                             (H:n:museu:M_S::np-idf: museu))))))
+                                   (ACC-PASS:np 
+                                     (H:pron-pers:se:F_3S_ACC::: se))
+                                   (P:vp 
+                                     (MV:v-fin:arrastar:PR_3S_IND::fs-subst:se-passive: arrasta))
+                                   (ADVL:pp 
+                                     (H:prp:há:::: há)
+                                     (P<:np 
+                                       (>N:num:oito:M_P::card: oito)
+                                       (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))))
+                        (.)))

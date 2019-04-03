@@ -1,0 +1,32 @@
+(FRASE CP381-11 (STA:fcl (ADVL:advp (H:adv:por_exemplo:: Por_exemplo))
+                         (,)
+                         (SUBJ:adjp (H:num:um:F_S::card: uma)
+                                    (A<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:F_P::artd: as)
+                                        (>N:pron-det:meu:F_P::: minhas)
+                                        (H:n:proposta:F_P::anr_np-def:np-partitive2: propostas))))
+                         (P:vp (MV:v-fin:incluir:IMPF_3S_IND::: incluía))
+                         (ACC:cu (CJT:np 
+                                   (>N:art:um:M_S::arti: um)
+                                   (H:n:concerto:M_S::np-idf: concerto)
+                                   (N<:pp 
+                                     (H:prp:com:::: com)
+                                     (P<:cu 
+                                       (CJT:np 
+                                         (H:prop:Mário_Laginha:M_S::: Mário_Laginha))
+                                       (CO:conj-c:e:::co-prparg: e)
+                                       (CJT:np 
+                                         (H:prop:Pedro_Burmester:M_S::: Pedro_Burmester)))))
+                                 (,)
+                                 (CO:conj-c:e:::co-acc: e)
+                                 (CJT:np 
+                                   (>N:adv:também:::: também)
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:vinda:F_S::np-def: vinda)
+                                   (N<ARGS:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:prop:Eunice_Muñoz:F_S::: Eunice_Muñoz)))))
+                         (...)))

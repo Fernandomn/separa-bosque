@@ -1,0 +1,70 @@
+(FRASE CP29-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                (H:n:anúncio:M_S::np-def: anúncio)
+                                (N<:icl::pcp: 
+                                  (P:vp (MV:v-pcp:divulgar:M_S::: divulgado))
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:o:S::artd: a)
+                                      (H:n:sexta-feira:F_S::np-def: sexta-feira)))
+                                  (PASS:pp 
+                                    (H:prp:por:::: por+)
+                                    (P<:np 
+                                      (>N:art:o:S::artd: a)
+                                      (H:prop:OMS:F_S::: OMS)))))
+                       (P:vp (MV:v-fin:dizer:IMPF_3S_IND::: dizia))
+                       (ACC:fcl (SUB:conj-s:que:::: que)
+                                (SUBJ:np 
+                                  (>N:art:um:F_S::arti: uma)
+                                  (H:n:série:F_S::np-idf: série)
+                                  (N<ARG:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:np 
+                                      (H:n:teste:M_P::np-dequant:np-idf: testes)
+                                      (N<:adjp 
+                                        (H:adj:inicial:M_P::: iniciais))
+                                      (,)
+                                      (N<PRED:icl::::pcp: 
+                                        (P:vp 
+                                          (MV:v-pcp:realizar:M_P::: realizados))
+                                        (PASS:pp 
+                                          (H:prp:por:::: por+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Instituto_Pasteur_de_Paris:M_S::: Instituto_Pasteur_de_Paris)))
+                                        (,)
+                                        (ADVL:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:n:amostra:F_P::np-idf: amostras)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:sangue:M_S::np-idf: sangue)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:P::artd: as)
+                                                    (>N:adj:primeiro:F_P::NUM-ord: primeiras)
+                                                    (>N:num:nove:F_P::card: nove)
+                                                    (H:n:pessoa:F_P::anr_np-count:anr_np-def: pessoas)
+                                                    (N<:pp 
+                                                      (H:prp:a:::: a)
+                                                      (P<:v-inf:morrer:3P::: morrerem))))))))))))
+                                (P:vp (MV:v-fin:ser:IMPF_3P_IND::fs-subst: eram))
+                                (SC:adjp 
+                                  (H:adj:consistente:F_P::: consistentes)
+                                  (A<:pp 
+                                    (H:prp:com:::: com)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:diagnóstico:M_S::np-def: diagnóstico)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:febre:F_S::np-idf: febre)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:prop:Ebola:M_S::: Ebola)))))))))
+                       (.)))

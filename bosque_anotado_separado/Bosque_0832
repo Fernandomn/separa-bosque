@@ -1,0 +1,55 @@
+(FRASE CP157-2 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (>N:num:dois:M_P::card: dois)
+                                 (>N:adj:principal:M_P: principais)
+                                 (H:n:partido:M_P::anr_np-count:anr_np-def: partidos)
+                                 (N<:adjp 
+                                   (H:adj:austríaco:M_P::: austríacos)))
+                        (P:vp (MV:v-fin:chegar:PS_3P_IND::: chegaram))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (SA:pp (H:prp:a:::: a)
+                               (P<:np (>N:art:um:M_S::arti: um)
+                                      (H:n:acordo:M_S::np-idf: acordo)
+                                      (N<:pp 
+                                        (H:prp:para:::: para)
+                                        (P<:icl 
+                                          (P:vp 
+                                            (MV:v-inf:fazer:::icl-fin: fazer))
+                                          (ACC:np 
+                                            (H:n:redução:F_P::np-idf: reduções)
+                                            (N<:adjp 
+                                              (H:adj:orçamental:F_P::: orçamentais))
+                                            (N<:pp 
+                                              (H:prp:em:::: em+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:valor:M_S::np-def: valor)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (>N:num:100:M_P::card: 100)
+                                                    (>N:n:mil:M_P::card:num: mil)
+                                                    (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                                    (N<ARG:pp 
+                                                      (H:prp:de:::: de)
+                                                      (P<:np 
+                                                        (H:n:xelim:M_P::np-dequant:np-idf: xelins)))
+                                                    ({)
+                                                    (N<PRED:pp 
+                                                      (H:prp:perto_de:::: perto_de)
+                                                      (P<:np 
+                                                        (>N:num:1500:M_P::card: 1500)
+                                                        (H:n:milhão:M_P::anr_np-idf:card:num: milhões)
+                                                        (N<ARG:pp 
+                                                          (H:prp:de:::: de)
+                                                          (P<:np 
+                                                            (H:n:conto:M_P::np-dequant:np-idf: contos)))))
+                                                    (})))))
+                                            (N<:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:cu 
+                                                (CJT:adjp 
+                                                  (H:num:1996:M_S::card: 1996))
+                                                (CO:conj-c:e:::co-prparg: e)
+                                                (CJT:adjp 
+                                                  (H:num:1997:M_S::card: 1997)))))))))
+                        (.)))

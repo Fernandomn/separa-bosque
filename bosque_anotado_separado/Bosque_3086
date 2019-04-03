@@ -1,0 +1,80 @@
+(FRASE CP595-1 (STA:fcl (ADVL:advp (H:adv:ontem:: Ontem))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:prop:FC_Porto:M_S::: FC_Porto))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (AUX:v-fin:voltar:PS_3S_IND::: voltou)
+                                      (PRT-AUX:prp:a:::: a)
+                                      (MV:v-inf:mostrar:::: mostrar))
+                                (ACC:np (H:n:fibra:F_S::np-idf: fibra)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:campeão:M_S::np-idf: campeão)))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:dar:PS_3S_IND::nosubj: deu))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:volta:F_S::np-def: volta))
+                                (PIV:pp (H:prp:a:::: a+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:jogo:M_S::np-def: jogo)
+                                          (N<:pp 
+                                            (H:prp:com:::: com)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:prop:Marítimo:M_S::: Marítimo)))))
+                                (,)
+                                (ADVL:cu 
+                                  (CJT:pp 
+                                    (>P:adv:mais_uma_vez:::: mais_uma_vez)
+                                    (H:prp:graças_a:::: graças_a+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      («)
+                                      (H:n:olho:M_S::anr_np-idf: olho)
+                                      (»)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:treinador:M_S::np-def: treinador)
+                                          (,)
+                                          (N<PRED:fcl 
+                                            (SUBJ:np 
+                                              (H:pron-indp:que:M_S::rel: que))
+                                            (X:cu 
+                                              (CJT:x::::predicate: 
+                                                (ADVL:advp 
+                                                  (H:adv:também:::: também))
+                                                (P:vp 
+                                                  (MV:v-fin:errar:PR_3S_IND::: erra)))
+                                              (,)
+                                              (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                                              (CJT:x::::predicate: 
+                                                (P:vp 
+                                                  (MV:v-fin:acertar:PR_3S_IND::nosubj: acerta))
+                                                (ADVL:np 
+                                                  (>N:pron-det:muito:F_P::KOMP:quant: mais)
+                                                  (H:n:vez:F_P::anr_np-idf: vezes)
+                                                  (KOMP<:acl 
+                                                    (COM:conj-s:do_que:::: do_que)
+                                                    (SC:np 
+                                                      (>N:art:o:M_P::artd: os)
+                                                      (H:pron-det:outro:M_P::KOMP:diff:np-def: outros)))))
+                                              (,)))))))
+                                  (CO:conj-c:e:::co-advl: e)
+                                  (CJT:pp 
+                                    (H:prp:a:::: a)
+                                    (P<:np 
+                                      (>N:art:um:F_S::arti: uma)
+                                      (H:n:equipa:F_S::np-idf: equipa)
+                                      (N<:fcl 
+                                        (SUBJ:np 
+                                          (H:pron-indp:que:F_S::rel: que))
+                                        (ADVL:advp 
+                                          (H:adv:nunca:::: nunca))
+                                        (P:vp 
+                                          (MV:v-fin:desistir:PR_3S_IND::fs-rel: desiste))))))))
+                        (.)))

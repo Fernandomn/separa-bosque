@@ -1,0 +1,25 @@
+(FRASE CP358-1 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:relação:F_S::np-def: relação)
+                                 (N<:adjp 
+                                   (H:adj:cambial:F_S: cambial))
+                                 (N<ARGO:pp 
+                                   (H:prp:entre:::: entre)
+                                   (P<:cu 
+                                     (CJT:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:escudo:M_S::np-def: escudo))
+                                     (CO:conj-c:e:::co-prparg: e)
+                                     (CJT:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:peseta:F_S::np-def: peseta)))))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (AUX:v-fin:ter:PR_3S_IND::: tem)
+                              (MV:v-pcp:constituir:::: constituído))
+                        (ACC:np (H:n:matéria:F_S::np-idf: matéria)
+                                (N<:adjp 
+                                  (H:adj:pacífico:F_S::: pacífica)))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (>N:adj:último:M_P::NUM-ord: últimos)
+                                        (H:n:mês:M_P::anr_np-def: meses)))
+                        (.)))

@@ -1,0 +1,69 @@
+(FRASE CP231-3 (STA:fcl (SUBJ:np (>N:adjp 
+                                   (>A:adv:cerca_de:: Cerca_de)
+                                   (H:num:três:F_P::card: três))
+                                 (H:n:centena:F_P::anr_np-count:anr_np-def:card:num: centenas)
+                                 (N<ARG:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (H:n:trabalhador:M_P::np-dequant:np-idf: trabalhadores)
+                                     (N<:adjp 
+                                       (H:adj:municipal:M_P::: municipais)))))
+                        (P:vp (MV:v-fin:manifestar:PS_3P_IND::: manifestaram-))
+                        (ACC:np (H:pron-pers:se:M_3P_ACC::: se))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (ADVL:pp (H:prp:diante_de:::: diante_de+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:prop:Câmara_Municipal_de_Sintra:F_S::: Câmara_Municipal_de_Sintra)))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:exigir:::: exigindo))
+                          (PIV:pp (H:prp:de:::: de+)
+                                  (P<:np 
+                                    (>N:art:o:S::artd: a)
+                                    (H:n:presidente:F_S::np-def: presidente)
+                                    (N<:adjp 
+                                      (H:adj:socialista:F_S::: socialista))
+                                    (N<:np 
+                                      (H:prop:Edite_Estrela:F_S::: Edite_Estrela))))
+                          (ACC:cu (CJT:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:pagamento:M_S::np-def: pagamento)
+                                    (N<ARGO:cu 
+                                      (CJT:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:P::artd: as)
+                                          (H:n:hora:F_P::np-def: horas)
+                                          (N<:adjp 
+                                            (H:adj:extraordinário:F_P::: extraordinárias))))
+                                      (CO:conj-c:e:::co-postnom: e)
+                                      (CJT:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:P::artd: as)
+                                          (H:n:ajuda:F_P::np-def: ajudas)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:custo:M_S::np-idf: custo)))))))
+                                  (CO:conj-c:e:::co-acc: e)
+                                  (CJT:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:reposição:F_S::np-def: reposição)
+                                    (N<ARGO:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:subsídio:M_S::np-def: subsídio)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:cu 
+                                            (CJT:np 
+                                              (H:n:insalubridade:F_S::np-idf: insalubridade))
+                                            (,)
+                                            (CJT:np 
+                                              (H:n:penosidade:F_S::np-idf: penosidade))
+                                            (CO:conj-c:e:::co-prparg: e)
+                                            (CJT:np 
+                                              (H:n:risco:M_S::np-idf: risco)))))))))
+                        (.)))

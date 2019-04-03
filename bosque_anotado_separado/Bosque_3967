@@ -1,0 +1,32 @@
+(FRASE CP774-3 (STA:fcl (SUBJ:np (H:prop:Leonor_Beleza:F_S: Leonor_Beleza)
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:presidente_da_mesa_do_Congresso_do_PSD:F_S::np-idf: presidente_da_mesa_do_Congresso_do_PSD)))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:v-pcp:convidar:F_S::anr_pass:passive: convidada))
+                        (PIV:pp (H:prp:a:::: a)
+                                (P<:icl (P:vp 
+                                          (MV:v-inf:colaborar:::: colaborar))
+                                        (ADVL:pp 
+                                          (H:prp:com:::: com)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Governo:M_S::: Governo)))
+                                        (ADVL:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:debate:M_S::np-def: debate)
+                                            (N<:pp 
+                                              (H:prp:sobre:::: sobre)
+                                              (P<:np 
+                                                (>N:art:o:F_P::artd: as)
+                                                (H:n:reforma:F_P::np-def: reformas)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (H:n:sistema:M_S::np-def: sistema)
+                                                    (N<:adjp 
+                                                      (H:adj:eleitoral:M_S::: eleitoral))))))))))
+                        (.)))

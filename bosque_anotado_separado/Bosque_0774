@@ -1,0 +1,73 @@
+(FRASE CP149-11 (STA:fcl (SUBJ:np- (>N:art:o:M_P::artd: Os)
+                                   (>N:num:dois:M_P::card: dois)
+                                   (H:n:criminoso:M_P::anr_np-count:anr_np-def: criminosos)
+                                   (,)
+                                   (N<PRED:cu 
+                                     (CJT:np 
+                                       (>N:art:um:M_S::arti: um)
+                                       (>N:adj:antigo:M_S: antigo)
+                                       (H:n:soldado:M_S::anr_np-idf: soldado)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:elite:F_S::np-idf: elite)))
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:exército:M_S::np-def: exército)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:S::artd: a)
+                                               (H:prop:Alemanha_de_Leste:F_S::: Alemanha_de_Leste)))))
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (>N:num:32:M_P::card: 32)
+                                           (H:n:ano:M_P::anr_np-count:anr_np-def: anos))))
+                                     (,)
+                                     (CO:conj-c:e:::: e)
+                                     (CJT:np 
+                                       (>N:art:um:M_S::arti: um)
+                                       (H:n:suíço:M_S::np-idf: suíço)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:adjp 
+                                           (H:num:35:M_P::card: 35))))))
+                         (,)
+                         (P:vp (MV:v-fin:evadir:PS_3P_IND::: evadiram-))
+                         (ACC:np (H:pron-pers:se:M_3P_ACC::refl: se))
+                         (,)
+                         (ADVL:pp (H:prp:há:::: há)
+                                  (P<:np 
+                                    (>N:num:três:F_P::card: três)
+                                    (H:n:semana:F_P::anr_np-count:anr_np-def: semanas)))
+                         (,)
+                         (ADVL:pp (H:prp:de:::: de)
+                                  (P<:np 
+                                    (>N:art:um:F_S::arti: uma)
+                                    (H:n:prisão:F_S::np-idf: prisão)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:prop:Hamburgo:M_S::: Hamburgo)))))
+                         (,)
+                         (-SUBJ:np (N<PRED:icl::::pcp: 
+                                     (P:vp 
+                                       (MV:v-pcp:acusar:M_P::: acusados))
+                                     (PIV:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:cu 
+                                         (CJT:np 
+                                           (H:n:homicídio:M_S::np-idf: homicídio))
+                                         (CO:conj-c:e:::co-prparg: e)
+                                         (CJT:np 
+                                           (H:n:assalto:M_S::np-idf: assalto)
+                                           (N<:pp 
+                                             (H:prp:a:::: a+)
+                                             (P<:np 
+                                               (>N:art:o:S::artd: a)
+                                               (H:n:mão:F_S::np-def: mão)
+                                               (N<:v-pcp:armar:F_S::: armada))))))))
+                         (.)))

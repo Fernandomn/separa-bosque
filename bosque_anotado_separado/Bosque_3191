@@ -1,0 +1,52 @@
+(FRASE CP610-7 (STA:fcl (ADVL:pp (H:prp:face_a:: Face_a)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:passividade:F_S::np-def: passividade)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Saavedra:M_S::: Saavedra)))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (>N:adj:novo:M_S::: novo)
+                                 (H:n:treinador:M_S::anr_np-def: treinador)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Chaves:M_S::: Chaves))))
+                        (P:vp (MV:v-fin:procurar:PS_3S_IND::: procurou))
+                        (ACC:icl (P:vp (MV:v-inf:injectar:::icl-subst: injectar))
+                                 (ACC:np 
+                                   (H:n:sangue:M_S::np-idf: sangue)
+                                   (N<:adjp 
+                                     (H:adj:novo:M_S::: novo)))
+                                 (OA:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:dianteira:F_S::np-def: dianteira)))
+                                 (,)
+                                 (ADVL:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:esperar:::: esperando))
+                                   (ACC:fcl 
+                                     (SUB:conj-s:que:::: que)
+                                     (SUBJ:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (>N:pron-det:seu:F_S::: sua)
+                                       (H:n:equipa:F_S::anr_np-def: equipa))
+                                     (ACC:np 
+                                       (H:pron-pers:se:F_3S_ACC::refl: se))
+                                     (P:vp 
+                                       (MV:v-fin:tornar:IMPF_3S_SUBJ::fs-subst: tornasse))
+                                     (OC:adjp 
+                                       (>A:adv:mais:_::KOMP:quant: mais)
+                                       (H:adj:agressivo:F_S::: agressiva))
+                                     (ADVL:pp 
+                                       (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:frente:F_S::np-def: frente)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:ataque:M_S::np-idf: ataque))))))))
+                        (.)))

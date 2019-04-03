@@ -1,0 +1,78 @@
+(FRASE CP286-5 (STA:fcl (ADVL:advp (H:adv:depois:: Depois))
+                        (,)
+                        (P:vp (MV:v-fin:contar:PS_3P_IND::nosubj: contaram-))
+                        (DAT:np (H:pron-pers:eu:MF_1S_ACC::: me))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (,)
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em)
+                                   (P<:np 
+                                     (H:n:hora:F_P::np-idf: horas)
+                                     (N<:adjp 
+                                       (H:adj:normalíssimo:F_P::: normalíssimas))))
+                                 (,)
+                                 (SUBJ:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:acesso:M_S::np-def: acesso)
+                                   (N<:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:np 
+                                       (>N:pron-det:certos:M_P::quant: certos)
+                                       (H:n:local:M_P::anr_np-idf: locais)
+                                       (--)
+                                       (N<PRED:acl 
+                                         (COM:adv:como:::: como)
+                                         (SUBJ:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:passeio:M_S::np-def: passeio)
+                                           (N<:adjp 
+                                             (H:adj:marítimo:M_S::: marítimo))
+                                           (,)
+                                           (N<PRED:fcl 
+                                             (ACC:icl- 
+                                               (SUBJ:np 
+                                                 (H:pron-indp:que:M_S::rel: que)))
+                                             (DAT:np 
+                                               (H:pron-pers:eu:MF_1S_DAT::refl: me))
+                                             (P:vp 
+                                               (MV:v-fin:dizer:PR_3P_IND::fs-rel:nosubj: dizem))
+                                             (-ACC:icl 
+                                               (P:vp 
+                                                 (MV:v-inf:ser:::: ser))
+                                               (SC:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (H:pron-det:o:M_P::dem: os)
+                                                   (N<:adjp 
+                                                     (>A:adv:mais:::quant: mais)
+                                                     (H:adj:aprazível:M_P::: aprazíveis))))))))
+                                       (--))))
+                                 (P:vp (AUX:v-fin:passar:IMPF_3S_IND::fs-subst: passava)
+                                       (PRT-AUX:prp:a:::: a)
+                                       (AUX:v-inf:ser:::: ser)
+                                       (MV:cu 
+                                         (CJT:v-pcp:proibir:M_S::: proibido)
+                                         (,)
+                                         (CO:conj-c:e:::co-pcv: e)
+                                         (CJT:v-pcp:guardar:M_S::: guardado)))
+                                 (PASS:pp 
+                                   (H:prp:por:::: por+)
+                                   (P<:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (>N:adj:correspondente:M_P::: correspondentes)
+                                     (H:n:segurança:F_P::anr_np-def: seguranças)))
+                                 (,)
+                                 (ADVL:pp 
+                                   (H:prp:sem:::: sem)
+                                   (P<:icl 
+                                     (SUB:conj-s:que:::: que)
+                                     (SUBJ:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n-adj:próprio:M_P::np-def: próprios))
+                                     (P:vp 
+                                       (MV:v-fin:saber:IMPF_3P_SUBJ::fs-subst: soubessem))
+                                     (ACC:icl 
+                                       (P:vp 
+                                         (MV:v-inf:explicar:::icl-subst: explicar))
+                                       (ACC:adv:porquê:::interr: porquê)))))
+                        (.)))

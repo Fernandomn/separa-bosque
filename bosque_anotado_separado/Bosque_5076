@@ -1,0 +1,50 @@
+(FRASE CP989-1 (STA:fcl (SUBJ:np (>N:art:um:M_S::arti: Um)
+                                 (H:n:industrial:M_S::np-idf: industrial)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Porto:M_S::: Porto)))
+                                 (,)
+                                 (APP:np 
+                                   (H:prop:Manuel_Magalhães:M_S::: Manuel_Magalhães)
+                                   (,)
+                                   (N<PRED:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:num:48:M_P::card: 48)
+                                       (H:n:ano:M_P::anr_np-count:anr_np-def: anos))))
+                                 (,))
+                        (P:vp (MV:v-fin:abater:PR_3S_IND::: abate))
+                        (ADVL:pp (H:prp:a:::: a)
+                                 (P<:np (H:n:tiro:M_S::np-idf: tiro)))
+                        (ACC:np (>N:num:dois:M_P::card: dois)
+                                (H:n:sócio:M_P::anr_np-count:anr_np-def: sócios))
+                        (,)
+                        (ADVL:cu (CJT:np 
+                                   (>N:num:quatro:M_P::card: quatro)
+                                   (H:n:disparo:M_P::anr_np-count:anr_np-def: disparos)
+                                   (N<:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (H:pron-det:um:M_S::: um))))
+                                 (,)
+                                 (CJT:adjp 
+                                   (H:num:seis:M_P::card: seis)
+                                   (A<:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (H:pron-det:outro:M_S::diff: outro)))))
+                        (,)
+                        (ADVL:pp (H:prp:por:::: por)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (AUX:v-inf:ter:3P::: terem)
+                                     (MV:v-pcp:passar:::: passado))
+                                   (ACC:np 
+                                     (H:n:cheque:M_P::np-idf: cheques)
+                                     (N<:pp 
+                                       (H:prp:em:::: em)
+                                       (P<:np 
+                                         (>N:pron-det:seu:M_S::: seu)
+                                         (H:n:nome:M_S::anr_np-def: nome))))))
+                        (.)))

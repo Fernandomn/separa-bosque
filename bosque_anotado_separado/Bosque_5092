@@ -1,0 +1,82 @@
+(FRASE CP992-2 (STA:fcl (CO:conj-c:e:: E)
+                        (FOC:advp (H:adv:foi:::foc: foi))
+                        (ADVL:advp (H:adv:assim:::: assim))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (--)
+                        (ADVL:pp (>P:adv:precisamente:::: precisamente)
+                                 (H:prp:por_causa_de:::: por_causa_de+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:cu 
+                                          (CJT:np 
+                                            (H:prop:Portugal:M_S::: Portugal))
+                                          (-)
+                                          (CJT:np 
+                                            (H:prop:Turquia:F_S::: Turquia)))))
+                        (--)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:televisão:F_S::np-def: televisão)
+                                 (N<:adjp 
+                                   (H:adj:guineense:F_S::: guineense)))
+                        (P:vp (MV:v-fin:reabrir:PS_3S_IND::: reabriu))
+                        (...)
+                        (ADVL:pp (H:prp:a:::: a+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:hora:F_S::np-def: hora)
+                                        (N<:adjp 
+                                          (H:adj:necessário:F_S::: necessária)
+                                          (A<arg:pp 
+                                            (H:prp:para:::: para)
+                                            (P<:icl 
+                                              (P:vp 
+                                                (MV:v-inf:transmitir:::icl-fin: transmitir))
+                                              (ACC:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:cu 
+                                                  (CJT:np 
+                                                    (H:prop:Portugal:M_S::: Portugal))
+                                                  (-)
+                                                  (CJT:np 
+                                                    (H:prop:Turquia:F_S::: Turquia)))))))))
+                        (,)
+                        (S<:fcl (SUBJ:np 
+                                  (H:pron-indp:o_que:M_S::rel: o_que))
+                                (P:vp (MV:v-fin:motivar:PS_3S_IND::: motivou))
+                                (ACC:np (>N:adj:grande:M_P::: grandes)
+                                        (H:n:ajuntamento:M_P::anr_np-idf: ajuntamentos)
+                                        (N<:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:n:local:M_P::np-idf: locais)
+                                            (N<:adjp 
+                                              (H:adj:público:M_P::: públicos))
+                                            (N<:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:M_P::rel: que))
+                                              (P:vp 
+                                                (MV:v-fin:dispor:IMPF_3P_IND::fs-rel: dispunham))
+                                              (PIV:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:televisor:M_P::np-idf: televisores))))))
+                                        (,)
+                                        (N<PRED:pp 
+                                          (>P:adjp- 
+                                            (H:adv:tanto:_::KOMP:quant: tanto))
+                                          (H:prp:em:::: em)
+                                          (P<:np 
+                                            (H:prop:Bissau:MF_S::: Bissau))
+                                          (->P:adjp 
+                                            (KOMP<:acl 
+                                              (COM:adv:como:::: como)
+                                              (ADVL:pp 
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:n:interior:M_S::np-def: interior)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de+)
+                                                    (P<:np 
+                                                      (>N:art:o:M_S::artd: o)
+                                                      (H:n:país:M_S::np-def: país))))))))))
+                        (.)))

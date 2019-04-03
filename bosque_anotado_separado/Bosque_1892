@@ -1,0 +1,39 @@
+(FRASE CP359-3 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (>N:adj:principal:M_P::SUP: principais)
+                                 (H:n:opositor:M_P::anr_np-def: opositores)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:presidente:M_S::np-def:prop: Presidente)
+                                          (N<:adjp 
+                                            (H:adj:russo:M_S::: russo))
+                                          (,)
+                                          (APP:np 
+                                            (H:prop:Boris_Ieltsin:M_S::: Boris_Ieltsin))
+                                          (,))))
+                        (P:vp (AUX:v-fin:ir:PR_3P_IND::: vão)
+                              (MV:v-inf:reunir:::hyfen: reunir-))
+                        (ACC:np (H:pron-pers:se:M_3P_ACC::coll:refl: se))
+                        (ADVL:advp (H:adv:hoje:::: hoje))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:prop:Moscovo:M_S::: Moscovo)))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:definir:3P::icl-fin: definirem))
+                                   (ACC:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:estratégia:F_S::np-idf: estratégia)
+                                     (N<:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:F_S::rel: que))
+                                       (ACC:np 
+                                         (H:pron-pers:eles:M_3P_ACC::: os))
+                                       (P:vp 
+                                         (MV:v-fin:levar:PR_3S_SUBJ::fs-rel: leve))
+                                       (OA:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:poder:M_S::np-def: poder)))))))
+                        (.)))

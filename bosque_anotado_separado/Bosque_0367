@@ -1,0 +1,52 @@
+(FRASE CP67-1 (STA:cu (ADVL:pp (H:prp:para:: Para)
+                               (P<:np (H:num:1995:M_S::card: 1995)))
+                      (,)
+                      (SUBJ:np (>N:art:o:F_S::artd: a)
+                               (H:n:administração:F_S::np-def: administração)
+                               (N<:pp (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:S::artd: a)
+                                        (H:prop:PT:F_S::: PT))))
+                      (X:cu (CJT:x::::predicate: 
+                              (P:vp (MV:v-fin:calcular:PR_3S_IND::: calcula))
+                              (ACC:fcl (SUB:conj-s:que:::: que)
+                                       (SUBJ:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:lucro:M_P::np-def: lucros))
+                                       (P:vp 
+                                         (MV:v-fin:atinjir:PR_3P_SUBJ::fs-subst: atinjam))
+                                       (ACC:np 
+                                         (H:n:valor:M_P::np-idf: valores)
+                                         (N<:adjp 
+                                           (H:adj:próximo:M_P::: próximos)
+                                           (A<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_P::artd: os)
+                                               (>N:num:25:M_P::card: 25)
+                                               (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                               (N<ARG:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:conto:M_P::np-dequant:np-idf: contos)))))))))
+                            (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                            (CJT:x::::predicate: 
+                              (P:vp (MV:v-fin:pretender:PR_3S_IND::nosubj: pretende))
+                              (ACC:icl (P:vp 
+                                         (MV:v-inf:manter:::icl-subst: manter))
+                                       (ACC:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:nível:M_P::np-def: níveis)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:investimento:M_S::np-idf: investimento)))
+                                         (,)
+                                         (N<PRED:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:verificar:M_P::: verificados))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em)
+                                             (P<:adjp 
+                                               (H:num:1994:M_S::card: 1994))))))))
+                      (.)))

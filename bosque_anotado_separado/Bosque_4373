@@ -1,0 +1,87 @@
+(FRASE CP850-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (>N:v-pcp:referir:M_S: referido)
+                                 (H:n:relatório:M_S::anr_np-idf: relatório))
+                        (P:vp (MV:v-fin:explicar:PR_3S_IND::: explica))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:substituição:F_S::np-def: substituição)
+                                   (N<ARGO:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (>N:adj:pequeno:M_P::: pequenos)
+                                       (H:n:ecrã:M_P::anr_np-def: ecrãs)))
+                                   (N<ARGO:pp 
+                                     (H:prp:por:::: por+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:multiplexes:M_P::np-def: multiplexes)))
+                                   (--)
+                                   (N<PRED:fcl 
+                                     (ADVL:pp 
+                                       (H:prp:até:::: até)
+                                       (P<:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:final:M_S::np-def: final)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:num:1998:M_S::card: 1998))))))
+                                     (P:vp 
+                                       (MV:v-fin:estar:PR_3S_IND::: está))
+                                     (SC:v-pcp:prever:M_S::: previsto)
+                                     (SUBJ:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:aparecimento:M_S::np-def: aparecimento)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:adjp 
+                                           (>A:adv:mais:::: mais)
+                                           (H:num:três:M_P::card: três)
+                                           ({)
+                                           (APP:cu 
+                                             (CJT:np 
+                                               (H:prop:Loures_Shopping:M_S::: Loures_Shopping))
+                                             (,)
+                                             (CJT:np 
+                                               (H:prop:Norte_Shopping:M_S::: Norte_Shopping))
+                                             (CO:conj-c:e:::co-app: e)
+                                             (CJT:np 
+                                               (H:prop:Vasco_da_Gama:M_S::: Vasco_da_Gama)))
+                                           (})))))
+                                   (--))
+                                 (P:vp (AUX:v-fin:dever:FUT_3S_IND::: deverá)
+                                       (MV:v-inf:aumentar:::icl-subst: aumentar))
+                                 (ACC:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:número:M_S::np-def: número)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:espectador:M_P::np-idf: espectadores))))
+                                 (;)
+                                 (ADVL:cu 
+                                   (PCJT:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:num:12:M_P::card: 12)
+                                       (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                       (N<:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (H:num:1996:M_S::card: 1996)))))
+                                   (PCJT:pp 
+                                     (H:prp:para:::: para)
+                                     (P<:np 
+                                       (>N:num:18:M_P::card: 18)
+                                       (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                       (!)
+                                       (})
+                                       (N<:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:adjp 
+                                           (H:num:2000:M_S::card: 2000)))))))
+                        (.)))

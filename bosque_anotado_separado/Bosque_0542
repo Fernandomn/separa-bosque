@@ -1,0 +1,53 @@
+(FRASE CP103-6 (STA:fcl (ADVL:pp (H:prp:quanto_a:: Quanto_a+)
+                                 (P<:np (>N:art:o:S::artd: a)
+                                        (H:prop:Empresa_de_Pesca_de_Viana:F_S::: Empresa_de_Pesca_de_Viana)))
+                        (P:vp (MV:v-fin:estar:FUT_3S_IND::: estará))
+                        (SC:v-pcp:garantir:F_S::: garantida)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:continuidade:F_S::np-def: continuidade)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:S::artd: a)
+                                          (H:n:laboração:F_S::np-def: laboração)
+                                          (,)
+                                          (N<PRED:acl 
+                                            (SUB:conj-s:embora:::prp: embora)
+                                            (SA:pp 
+                                              (H:prp:a:::: a)
+                                              (P<:np 
+                                                (H:n:nível:M_P::np-idf: níveis)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:produção:F_S::np-idf: produção)
+                                                    (N<:adjp 
+                                                      (>A:adv:mais:::quant: mais)
+                                                      (H:v-pcp:reduzir:M_P::: reduzidos))))))
+                                            (,)
+                                            (ADVL:fcl 
+                                              (SUB:conj-s:já_que:::: já_que)
+                                              (ADVL:advp 
+                                                (H:adv:só:::: só))
+                                              (P:vp 
+                                                (AUX:v-fin:poder:FUT_3S_IND::: poderá)
+                                                (AUX:v-inf:ser:::: ser)
+                                                (MV:v-pcp:utilizar:M_S::anr_pass:icl-cause:passive: utilizado))
+                                              (SUBJ:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (>N:adj:único:M_S::: único)
+                                                (H:n:túnel:M_S::anr_np-def: túnel)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:secagem:F_S::np-idf: secagem)
+                                                    (N<:adjp 
+                                                      (H:adj:artificial:F_S::: artificial))
+                                                    (N<:icl::::pcp: 
+                                                      (P:vp 
+                                                        (MV:v-pcp:poupar:M_S::: poupado))
+                                                      (ADVL:pp::::postmod: 
+                                                        (H:prp:em:::: em+)
+                                                        (P<:np 
+                                                          (>N:art:o:M_S::artd: o)
+                                                          (H:n:incêndio:M_S::np-def: incêndio))))))))))))
+                        (.)))

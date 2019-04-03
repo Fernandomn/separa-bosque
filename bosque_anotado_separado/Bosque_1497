@@ -1,0 +1,101 @@
+(FRASE CP278-6 (STA:fcl (ADVL:fcl (SUB:conj-s:se:: Se)
+                                  (SUBJ:np 
+                                    (H:pron-indp:tudo:M_S::quant: tudo))
+                                  (P:vp (MV:v-fin:correr:PS_3S_IND::fs-cond: correu))
+                                  (ADVL:fcl 
+                                    (ADVL:advp 
+                                      (H:adv:como:::ks: como))
+                                    (P:vp 
+                                      (MV:v-fin:estar:IMPF_3S_IND::fs-conf:nosubj: estava))
+                                    (SC:v-pcp:prever:M_S::: previsto)))
+                        (,)
+                        (P:vp (MV:v-fin:fazer:PS_3S_IND::: fez-))
+                        (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                        (SUBJ:cu (CJT:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:substituição:F_S::np-def: substituição)
+                                   (N<ARGO:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:num:dois:M_P::card: dois)
+                                       (H:n:instrumento:M_P::anr_np-count:anr_np-def: instrumentos)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:observação:F_S::np-idf: observação)
+                                           (N<ARGO:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:prop:Hubble:M_S::: Hubble)))))
+                                       (--)
+                                       (APP:cu 
+                                         (CJT:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Goddard_High_Resolution_Spectrometer:M_S::: Goddard_High_Resolution_Spectrometer))
+                                         (CO:conj-c:e:::co-app: e)
+                                         (CJT:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Faint_Object_Spectrograph:M_S::: Faint_Object_Spectrograph)))
+                                       (--))))
+                                 (CO:conj-c:e:::co-subj: e)
+                                 (CJT:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:instalação:F_S::np-def: instalação)
+                                   (N<ARGO:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:num:dois:M_P::card: dois)
+                                       (>N:adj:novo:M_P::: novos)
+                                       (H:n:instrumento:M_P::anr_np-count:anr_np-def: instrumentos)
+                                       (N<:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:destinar:M_P::: destinados))
+                                         (PIV:pp 
+                                           (H:prp:a:::: a)
+                                           (P<:icl 
+                                             (P:vp 
+                                               (MV:v-inf:ampliar:::: ampliar))
+                                             (ADVL:advp 
+                                               (H:adv:significativamente:::: significativamente))
+                                             (ACC:np 
+                                               (>N:art:o:F_P::artd: as)
+                                               (>N:pron-det:seu:F_P::si: suas)
+                                               (H:n:capacidade:F_P::anr_np-def: capacidades)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:observação:F_S::np-idf: observação)))))))
+                                       (;)
+                                       (APP:cu 
+                                         (CJT:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Space_Telescope_Imaging_Spectrograph:M_S::: Space_Telescope_Imaging_Spectrograph)
+                                           ({)
+                                           (APP:np 
+                                             (H:prop:STIS:M_S::: STIS))
+                                           (}))
+                                         (CO:conj-c:e:::co-app: e)
+                                         (CJT:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Near_Infrared_Camera_and_Multi-Object_Spectrometer:M_S::: Near_Infrared_Camera_and_Multi-Object_Spectrometer)
+                                           ({)
+                                           (APP:np 
+                                             (H:prop:NICMOS:M_S::: NICMOS))
+                                           (})))
+                                       (,)
+                                       (N<PRED:np 
+                                         (H:pron-indp:cada_um:M_S::: cada_um)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:tamanho:M_S::np-def: tamanho)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (>N:art:um:F_S::arti: uma)
+                                                 (H:n:cabine:F_S::np-idf: cabine)
+                                                 (N<:adjp 
+                                                   (H:adj:telefónico:F_S::: telefónica)))))))))))
+                        (.)))

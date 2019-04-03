@@ -1,0 +1,30 @@
+(FRASE CP495-3 (STA:fcl (ADVL:np (>N:adjp 
+                                   (>A:adv:quase:quant: Quase)
+                                   (H:num:quatro:M_P::card: quatro))
+                                 (H:n:ano:M_P::anr_np-count:anr_np-def: anos)
+                                 (N<:adv:depois:::: depois))
+                        (,)
+                        (SUBJ:adjp (H:num:três:M_P::card:n: três)
+                                   (A<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:animal:M_P::np-def:np-partitive2: animais))))
+                        (ADVL:advp (H:adv:ainda:::: ainda))
+                        (ACC:np (H:pron-pers:se:M_3P_ACC::refl: se))
+                        (P:vp (MV:v-fin:encontrar:PR_3P_IND::: encontram))
+                        (OC:pp (H:prp:em:::: em)
+                               (P<:np (>N:adj:bom:F_S::: boa)
+                                      (H:n:saúde:F_S::anr_np-idf: saúde)))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp- (AUX:v-ger:ter:::: tendo))
+                          (SUBJ:np::::Eg: 
+                            (>N:art:o:M_S::artd: o)
+                            (H:adj:quarto:_::Eg:NUM-ord:np-def: quarto))
+                          (-P:vp (MV:v-pcp:morrer:M_S::: morrido))
+                          (ADVL:pp (H:prp:há:::: há)
+                                   (P<:np 
+                                     (>N:pron-det:um:M_P::quant: uns)
+                                     (H:n:mês:M_P::anr_np-idf: meses))))
+                        (.)))

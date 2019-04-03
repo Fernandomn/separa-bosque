@@ -1,0 +1,32 @@
+(FRASE CP654-1 (STA:fcl (ADVL:adjp (H:num:11:M_S: 11)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:prop:Setembro:::: Setembro))))
+                        (--)
+                        (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:prop:Bundesbank:M_S::: Bundesbank))
+                        (P:vp (MV:v-fin:intervir:PR_3S_IND::: intervém))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:defesa:F_S::np-idf: defesa)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:lira:F_S::np-def: lira)))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (AUX:v-ger:ser:::: sendo)
+                                (MV:v-pcp:seguir:M_S::anr_pass:passive: seguido))
+                          (PASS:pp (H:prp:por:::: por+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:banco:M_S::np-def: banco)
+                                     (N<:adjp 
+                                       (H:adj:central:M_S::: central))
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:prop:Bélgica:F_S::: Bélgica))))))
+                        (.)))

@@ -1,0 +1,53 @@
+(FRASE CP191-5 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n-adj:primeiro:M_S::NUM-ord:np-def: primeiro))
+                        (P:vp (AUX:v-fin:começar:PR_3S_IND: começa)
+                              (PRT-AUX:prp:por:::: por)
+                              (MV:v-inf:explicar:::: explicar))
+                        (ACC:cu (CJT:fcl 
+                                  (SUB:conj-s:que:::: que)
+                                  (P:vp (MV:v-fin:estar:PR_3S_IND::fs-subst:nosubj: está))
+                                  (SC:fcl::::pcp: 
+                                    (P:vp 
+                                      (MV:v-pcp:ligar:M_S::: ligado))
+                                    (ADVL:pp::::postmod: 
+                                      (H:prp:a:::: a+)
+                                      (P<:np 
+                                        (>N:art:o:S::artd: a)
+                                        (H:n:construção:F_S::np-def: construção)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:art:um:M_S::arti: um)
+                                            (H:n:prédio:M_S::np-idf: prédio)
+                                            (N<:pp 
+                                              (H:prp:para:::: para)
+                                              (P<:np 
+                                                (H:n:habitação:F_S::np-idf: habitação)))))))))
+                                (CO:conj-c:e:::co-vfin: e)
+                                (CJT:fcl 
+                                  (SUB:conj-s:que:::: que)
+                                  (P:vp (AUX:v-fin:ter:PR_3S_IND::: tem)
+                                        (MV:v-pcp:ter:_::fs-subst:nosubj: tido))
+                                  (ACC:np 
+                                    (H:n:dificuldade:F_P::np-idf: dificuldades)
+                                    (N<:pp 
+                                      (H:prp:em:::: em)
+                                      (P<:icl 
+                                        (P:vp 
+                                          (MV:v-inf:encontrar:::: encontrar))
+                                        (ACC:np 
+                                          (>N:art:um:F_S::arti: uma)
+                                          (H:n:fornecedora:F_S::np-idf: fornecedora)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:material:M_S::np-idf: material)
+                                              (N<:adjp 
+                                                (H:adj:sanitário:M_S::: sanitário))
+                                              (N<:pp 
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:art:o:P::artd: as)
+                                                  (H:n:medida:F_P::np-def: medidas)
+                                                  (N<:v-pcp:exigir:F_P::: exigidas)))))))))))
+                        (.)))

@@ -1,0 +1,23 @@
+(FRASE CP991-2 (UTT:np (>N:art:um:M_S::arti: Um)
+                       (H:n:friso:M_S::np-idf: friso)
+                       (N<:adjp (H:adj:inenarrável:M_S: inenarrável))
+                       (N<:pp (H:prp:de:::: de)
+                              (P<:np (H:n:personagem:F_P::np-idf: personagens)
+                                     (N<:cu 
+                                       (CJT:adjp 
+                                         (H:adj:marginal:F_P::: marginais))
+                                       (CO:conj-c:e:::co-postnom: e)
+                                       (/)
+                                       (CO:conj-c:ou:::co-postnom: ou)
+                                       (CJT:v-pcp:marginalizar:F_P::: marginalizadas))))
+                       (,)
+                       (N<PRED:pp (H:prp:com:::: com)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (>N:ec:pós-:::: pós-)
+                                    (H:n:guerra:M_S::: guerra)
+                                    (N<:pp 
+                                      (H:prp:em:::: em)
+                                      (P<:np 
+                                        (H:n:pano_de_fundo:M_S::np-idf: pano_de_fundo)))))
+                       (.)))

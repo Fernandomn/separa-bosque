@@ -1,0 +1,50 @@
+(FRASE CP326-6 (STA:fcl (SUBJ:np (H:n:caso:M_P::np-idf: Casos)
+                                 (N<:adjp 
+                                   (H:adj:semelhante:M_P: semelhantes)
+                                   (A<:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:np 
+                                       (H:pron-det:este:M_S::dem: este)))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                                (SC:adjp 
+                                  (H:adj:frequente:M_P::: frequentes))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (H:n:corrida:F_P::np-def: corridas)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:estrada:F_S::np-idf: estrada)))
+                                    (N<:fcl 
+                                      (SUBJ:np 
+                                        (H:pron-indp:que:F_P::rel: que))
+                                      (ACC:np 
+                                        (H:pron-pers:se:F_3P_ACC::refl: se))
+                                      (P:vp 
+                                        (MV:v-fin:efectuar:PR_3P_IND::fs-rel: efectuam))
+                                      (ADVL:pp 
+                                        (H:prp:em:::: em)
+                                        (P<:np 
+                                          (H:prop:Portugal:M_S::: Portugal)))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:cu (CJT:v-fin:dificultar:PR_3P_IND::nosubj: dificultam)
+                                      (CO:conj-c:e:::co-vfin: e)
+                                      (CJT:v-fin:falsear:PR_3P_IND::nosubj: falseiam))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:elaboração:F_S::np-def: elaboração)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (H:n:classificação:F_P::np-def: classificações)
+                                            (N<:cu 
+                                              (CJT:adjp 
+                                                (H:adj:individual:F_P::: individuais))
+                                              (CO:conj-c:e:::co-postnom: e)
+                                              (CJT:adjp 
+                                                (H:adj:colectivo:F_P::: colectivas))))))))
+                        (.)))

@@ -1,0 +1,32 @@
+(FRASE CP486-2 (STA:fcl (ADVL:adjp::date: 
+                          (H:num:13:M_S::card: 13)
+                          (A<:pp (H:prp:de:::: de)
+                                 (P<:np (H:n:maio:M_S::np-idf:prop: Maio))))
+                        (--)
+                        (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:oposição:F_S::np-def: oposição))
+                        (P:vp (MV:v-fin:apelar:PR_3S_IND::: apela))
+                        (ADVL:advp (H:adv:de_novo:::: de_novo))
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:F_S::artd: a)
+                                       (H:n:população:F_S::np-def: população)))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:fcl 
+                                   (SUB:conj-s:que:::: que)
+                                   (ACC:np 
+                                     (H:pron-pers:se:F_3S_ACC::refl: se))
+                                   (P:vp 
+                                     (MV:v-fin:manifestar:PR_3S_SUBJ::fs-fin:nosubj: manifeste))
+                                   (ADVL:pp 
+                                     (H:prp:contra:::: contra)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Governo:M_S::: Governo)))
+                                   (ADVL:pp 
+                                     (H:prp:a_partir_de:::: a_partir_de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:dia:M_S::anr_np-idf: dia)
+                                       (N<:adjp 
+                                         (H:num:17:M_S::card: 17))))))
+                        (.)))

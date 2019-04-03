@@ -1,0 +1,73 @@
+(FRASE CP918-3 (STA:fcl (ADVL:pp (H:prp:apesar_de:: Apesar_de)
+                                 (P<:np (>N:pron-det:algum:F_P::quant: algumas)
+                                        (H:n:informação:F_P::anr_np-idf: informações)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:F_P::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:dar:PR_3P_IND::fs-rel: dão))
+                                          (ACC:np 
+                                            (H:n:conta:N_M_S::np-idf: conta))
+                                          (PIV:np 
+                                            (>N:pron-det:algum:M_P::quant: alguns)
+                                            (H:n:caso:M_P::anr_np-idf: casos)))
+                                        (N<:fcl 
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (H:pron-indp:que:F_P::rel: que)))
+                                          (SUBJ:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:nome:M_S::np-def: nome)
+                                            (N<ARGO:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:firma:F_S::np-def: firma))))
+                                          (P:vp 
+                                            (MV:v-fin:aparecer:PR_3S_IND::fs-rel: aparece))
+                                          (PRED:vp 
+                                            (MV:v-pcp:citar:M_S::: citado)))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:presidente:M_S::: presidente)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (N<:art:o:F_S::: a)
+                                          (H:prop:Câmara_de_Alcobaça:F_S::anr_np-def: Câmara_de_Alcobaça=,)))
+                                 (APP:np 
+                                   (H:prop:Miguel_Guerra:M_S::: Miguel_Guerra))
+                                 (,))
+                        (P:vp (MV:v-fin:referir:PS_3S_IND::: referiu))
+                        (ACC:cu (CJT:fcl 
+                                  (SUB:conj-s:que:::: que)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:contrato:M_S::np-def: contrato))
+                                  (ADVL:advp 
+                                    (>A:adv:ainda:::: ainda)
+                                    (H:adv:não:::: não))
+                                  (P:vp (MV:v-fin:estar:IMPF_3S_IND::fs-subst: estava))
+                                  (SC:v-pcp:assinar:M_S::: assinado))
+                                (,)
+                                (CO:conj-c:e:::co-vfin: e)
+                                (CJT:fcl 
+                                  (SUB:conj-s:que:::: que)
+                                  («)
+                                  (SUBJ:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:empresa:F_S::np-def: empresa))
+                                  (P:vp (AUX:v-fin:ter:PR_3S_IND::: tem)
+                                        (MV:v-pcp:ter:::: tido))
+                                  (ACC:np 
+                                    (>N:art:um:M_S::arti: um)
+                                    (H:n:comportamento:M_S::np-idf: comportamento)
+                                    (N<:adjp 
+                                      (H:adj:impecável:M_S::: impecável)))
+                                  (ADVL:pp 
+                                    (H:prp:com:::: com)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:prop:Câmara:F_S::: Câmara)))
+                                  (»)))
+                        (.)))

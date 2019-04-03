@@ -1,0 +1,29 @@
+(FRASE CP755-2 (UTT:np (>N:adv:pelo_menos:quant: Pelo_menos)
+                       (>N:art:o:M_P::artd: os)
+                       (H:n-adj:jovem:M_P::np-def: jovens)
+                       (N<:fcl (SUBJ:np (H:pron-indp:que:M_P::rel: que))
+                               (P:vp (AUX:v-fin:estar:PR_3P_IND::: estão)
+                                     (PRT-AUX:prp:a:::: a)
+                                     (MV:v-inf:participar:::fs-rel: participar))
+                               (PIV:pp (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:prop:Campeonato_Europeu_de_juniores:M_S::: Campeonato_Europeu_de_juniores)
+                                         (,)
+                                         (N<PRED:pp 
+                                           (H:prp:a:::: a)
+                                           (P<:icl 
+                                             (P:vp 
+                                               (MV:v-inf:decorrer:::: decorrer))
+                                             (ADVL:pp 
+                                               (H:prp:até:::: até)
+                                               (P<:np 
+                                                 (H:n:domingo:M_S::np-idf: domingo)))
+                                             (ADVL:pp 
+                                               (H:prp:em:::: em)
+                                               (P<:np 
+                                                 (H:prop:Newquay:MF_S::: Newquay)
+                                                 (,)
+                                                 (N<PRED:np 
+                                                   (H:prop:Inglaterra:F_S::: Inglaterra)))))))))
+                       (.)))

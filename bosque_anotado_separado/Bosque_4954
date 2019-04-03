@@ -1,0 +1,38 @@
+(FRASE CP965-3 (STA:fcl (SUBJ:np (H:prop:Robert_Koch:M_S: Robert_Koch)
+                                 (,)
+                                 (N<PRED:np 
+                                   (>N:art:um:M_S::arti: um)
+                                   (H:prop:Don_Juan:M_S::: Don_Juan)
+                                   (N<:adjp 
+                                     (H:adj:norte-americano:M_S::: norte-americano))
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:num:51:M_P::card: 51)
+                                       (H:n:ano:M_P::anr_np-count:anr_np-def: anos))))
+                                 (,))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:cu (CJT:v-pcp:desmascarar:M_S::: desmascarado)
+                                     (CO:conj-c:e:::co-pcv: e)
+                                     (MV:v-pcp:prender:M_S::: preso)))
+                        (ADVL:advp (H:adv:depois:::: depois)
+                                   (A<arg:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (AUX:v-inf:ter:::: ter)
+                                         (MV:v-pcp:burlar:::: burlado))
+                                       (ACC:np 
+                                         (>N:adjp 
+                                           (>A:adv:mais_de:::quant: mais_de)
+                                           (H:num:200:F_P::card: 200))
+                                         (H:n:mulher:F_P::anr_np-count:anr_np-def: mulheres))
+                                       (ADVL:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (H:n:promessa:F_P::np-idf: promessas)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:casamento:M_S::np-idf: casamento))))))))
+                        (.)))

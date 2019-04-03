@@ -1,0 +1,35 @@
+(FRASE CP773-10 (STA:fcl (SUBJ:np (>N:art:um:M_S::arti: Um)
+                                  (H:n:catálogo:M_S::np-idf: catálogo)
+                                  (N<:pp 
+                                    (H:prp:com:: com)
+                                    (P<:np 
+                                      (H:n:texto:M_P::np-idf: textos)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:cu 
+                                          (CJT:np 
+                                            (H:prop:Isabel_Carlos:M_S::: Isabel_Carlos)
+                                            ({)
+                                            (N<PRED:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (>N:pron-det:próprio:M_S::ident: próprio)
+                                                (H:prop:IAC:M_S::: IAC)))
+                                            (}))
+                                          (CO:conj-c:e:::co-prparg: e)
+                                          (CJT:np 
+                                            (H:prop:Paulo_Herkenhoff:M_S::: Paulo_Herkenhoff)
+                                            ({)
+                                            (N<PRED:np 
+                                              (H:n:comissário:M_S::np-idf: comissário)
+                                              (N<:pp 
+                                                (H:prp:para:::: para)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:prop:Bienal_de_São_Paulo:F_S::: Bienal_de_São_Paulo))))
+                                            (})))))))
+                         (P:vp (MV:v-fin:completar:PR_3S_IND::: completa))
+                         (ACC:np (>N:art:o:F_S::artd: a)
+                                 (H:n:apresentação:F_S::np-def: apresentação))
+                         (.)))

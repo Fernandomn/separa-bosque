@@ -1,0 +1,19 @@
+(FRASE CP812-9 (STA:fcl (ACC:np (>N:pron-det:quanto:M_P: Quantos)
+                                (H:n:artista:M_P::anr_np-idf: artistas)
+                                (,)
+                                (N<PRED:cu 
+                                  (CO:conj-c:quer:::: quer)
+                                  (CJT:adjp 
+                                    (H:adj:estrangeiro:M_P::: estrangeiros))
+                                  (CO:conj-c:quer:::co-pred: quer)
+                                  (CJT:adjp 
+                                    (H:adj:nacional:M_P::: nacionais))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:festa:F_S::np-def: festa)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:toiro:M_P::np-idf: toiros))))
+                        (P:vp (AUX:v-fin:ter:PR_3S_IND::: tem)
+                              (MV:v-pcp:motivar:::: motivado))
+                        (.)))

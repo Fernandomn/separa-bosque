@@ -1,0 +1,89 @@
+(FRASE CP659-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n-adj:norte-americano:M_S::np-def: norte-americano)
+                                 (N<:np (H:prop:Pete_Sampras:M_S: Pete_Sampras)))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:v-pcp:afastar:M_S::anr_pass:passive: afastado))
+                        (PASS:pp (H:prp:por:::: por+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (>N:pron-det:seu:M_S::: seu)
+                                        (H:n:compatriota:F_S::anr_np-def: compatriota)
+                                        (N<:np 
+                                          (H:prop:Jim_Courier:M_S::: Jim_Courier))
+                                        ({)
+                                        (N<PRED:np 
+                                          (>N:adj:24º:M_S::NUM-ord: 24º)
+                                          (H:prop:ATP:M_S::: ATP))
+                                        (})))
+                        (ADVL:pp (H:prp:por:::: por+)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:n-adj:parcial:M_P::np-def: parciais)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:cu 
+                                            (CJT:adjp 
+                                              (H:num:7-6:M_P::card: 7-6)
+                                              ({)
+                                              (A<:num:7-5:M_P::card: 7-5)
+                                              (}))
+                                            (,)
+                                            (CJT:adjp 
+                                              (H:num:6-4:M_P::card: 6-4))))))
+                        (,)
+                        (S<:fcl (SUBJ:np 
+                                  (H:pron-indp:o_que:M_S::rel: o_que))
+                                (P:vp (MV:v-fin:significar:PR_3S_IND::: significa))
+                                (ACC:fcl 
+                                  (SUB:conj-s:que:::: que)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:número:M_S::np-def: número)
+                                    (N<:adjp 
+                                      (H:num:um:M_S::card: um))
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:mundo:M_S::np-def: mundo))))
+                                  (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                                        (MV:v-inf:chegar:::icl-subst: chegar))
+                                  (SA:pp 
+                                    (H:prp:a:::: a+)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      («)
+                                      (H:n:catedral:F_S::anr_np-idf: catedral)
+                                      (N<:pp 
+                                        (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:terra:F_S::np-def: terra)
+                                          (N<:v-pcp:bater:F_S::: batida)))
+                                      (»)
+                                      (,)
+                                      (APP:np 
+                                        (H:prop:Roland_Garros:M_S::: Roland_Garros))
+                                      (,)))
+                                  (PRED:pp 
+                                    (H:prp:com:::: com)
+                                    (P<:np 
+                                      (>N:num:dois:F_P::card: duas)
+                                      (H:n:derrota:F_P::anr_np-count:anr_np-def: derrotas)
+                                      (N<:pp 
+                                        (H:prp:em:::: em)
+                                        (P<:np 
+                                          (>N:pron-det:outro:M_P::KOMP:diff: outros)
+                                          (>N:pron-det:tanto:M_P::KOMP:quant: tantos)
+                                          (H:n:encontro:M_P::anr_np-idf: encontros)
+                                          (N<:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:disputar:M_P::: disputados))
+                                            (ADVL:pp 
+                                              (H:prp:sobre:::: sobre)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:pó:M_S::np-def: pó)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:tijolo:M_S::np-idf: tijolo))))))))))))
+                        (.)))

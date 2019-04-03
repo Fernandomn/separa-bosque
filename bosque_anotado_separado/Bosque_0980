@@ -1,0 +1,47 @@
+(FRASE CP182-4 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:diferença:F_S::np-def: diferença)
+                                 (N<:adjp 
+                                   (H:adj:pequeno:F_S: mínima))
+                                 (N<:pp (H:prp:entre:::: entre)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n-adj:primeiro:M_P::NUM-ord:np-def: primeiros))))
+                        (P:vp (MV:v-fin:reflectir:PR_3S_IND::: reflecte))
+                        (ADVL:advp (H:adv:uma_vez:::: uma_vez)
+                                   (A<:pron-det:mais:F_S::quant: mais))
+                        (ACC:np (>N:art:o:M_S::artd: o)
+                                (H:n:equilíbrio:M_S::np-def: equilíbrio)
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:n:prova:F_S::np-def: prova))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:tanto_mais_que:::: tanto_mais_que)
+                                  (SUBJ:np 
+                                    (H:cu 
+                                      (CJT:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n-adj:primeiro:M_S::NUM-ord:np-def: primeiro))
+                                      (CO:conj-c:e:::co-subj: e)
+                                      (CJT:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n-adj:décimo_quarto:M_S::NUM-ord:np-def: décimo_quarto)))
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:S::artd: a)
+                                        (H:n:classificação:F_S::np-def: classificação)
+                                        (N<:adjp 
+                                          (H:adj:geral:F_S::: geral)))))
+                                  (P:vp (MV:v-fin:estar:PR_3P_IND::: estão))
+                                  (SC:icl::::pcp: 
+                                    (P:vp 
+                                      (MV:v-pcp:separar:M_P::: separados))
+                                    (PASS:pp 
+                                      (>P:adv:somente:::: somente)
+                                      (H:pp 
+                                        (H:prp:por:::: por)
+                                        (P<:np 
+                                          (>N:num:quatro:M_P::card: quatro)
+                                          (H:n:ponto:M_P::anr_np-count:anr_np-def: pontos))))))
+                        (.)))

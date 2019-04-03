@@ -1,0 +1,60 @@
+(FRASE CP180-5 (STA:fcl (SUBJ:np (>N:pron-det:ambos:F_P::quant: Ambas)
+                                 (>N:art:o:F_P::artd: as)
+                                 (H:n:versão:F_P::np-def: versões))
+                        (ACC-PASS:np (H:pron-pers:se:F_3P_ACC: se))
+                        (P:vp (MV:v-fin:basear:PR_3P_IND::se-passive: baseiam))
+                        (PIV:pp (H:prp:em:::: em+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (>N:pron-det:mesmo:M_S::diff: mesmo)
+                                       («)
+                                       (H:n:núcleo:M_S::anr_np-idf: núcleo)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:código:M_S::np-idf: código)))
+                                       (»)
+                                       (,)
+                                       (N<:fcl 
+                                         (ADVL:advp 
+                                           (H:adv:como:_::ks:rel: como))
+                                         (DAT:np 
+                                           (H:pron-pers:ele:M_3S_DAT::: lhe))
+                                         (P:vp 
+                                           (MV:v-fin:chamar:PR_3S_IND::fs-rel: chama))
+                                         (SUBJ:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:prop:Microsoft:F_S::: Microsoft)))))
+                        (--)
+                        (ADVL:fcl (SUB:conj-s:embora:::: embora)
+                                  (P:vp (MV:v-fin:parecer:PR_3S_SUBJ::fs-conc:nosubj: pareça))
+                                  (ACC:fcl 
+                                    (SUB:conj-s:que:::: que)
+                                    (SUBJ:np 
+                                      (>N:pron-det:este:M_S::dem: este)
+                                      (H:n:núcleo:M_S::np-def: núcleo))
+                                    (P:vp- 
+                                      (AUX:v-fin:ter:PR_3S_SUBJ::: tenha))
+                                    (ADVL:pp- 
+                                      (P:np 
+                                        (H:pron-det:mais:MF_SP::KOMP:quant: mais)))
+                                    (-P:vp 
+                                      (PRT-AUX:prp:a:::: a)
+                                      (MV:v-inf:ver:::icl-subst: ver))
+                                    (-ADVL:pp 
+                                      (H:prp:com:::: com)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:versão:F_S::np-def: versão)
+                                        (N<:np 
+                                          (H:prop:Macintosh:F_S::: Macintosh)))
+                                      (KOMP<:acl 
+                                        (COM:conj-s:que:::: que)
+                                        (ADVL:pp 
+                                          (H:prp:com:::: com)
+                                          (P<:np 
+                                            (H:pron-pers:ela:F_S::dem: a)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:prop:Windows:M_S::: Windows)))))))))
+                        (;)))

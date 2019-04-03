@@ -1,0 +1,50 @@
+(FRASE CP351-2 (STA:fcl (CO:conj-c:e:: E)
+                        (,)
+                        (ADVL:pp (H:prp:por:::: por)
+                                 (P<:np (H:n:ironia:F_S::np-idf: ironia)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:destino:M_S::np-def: destino)))))
+                        (,)
+                        (P:vp (MV:v-fin:fazer:PR_3P_IND::hyfen:nosubj: fazem-))
+                        (ACC:np (H:pron-pers:ele:M_3S_ACC::: no))
+                        (ADVL:pp (H:prp:a_coberto_de:::: a_coberto_de+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:lei:F_S::anr_np-idf: lei)
+                                        (N<:adjp 
+                                          (H:adj:eleitoral:F_S::: eleitoral))
+                                        (N<:adjp 
+                                          (H:adj:hamburguês:F_S::: hamburguesa))
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:F_S::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:autorizar:PR_3S_IND::fs-rel: autoriza))
+                                          (ACC:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:serviço:M_P::np-def: serviços)
+                                            (N<:v-pcp:municipalizar:M_P::: municipalizados))
+                                          (PIV:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:icl 
+                                              (P:vp 
+                                                (MV:v-inf:fornecer:3P::: fornecerem))
+                                              (ACC:np 
+                                                (>N:art:o:F_P::artd: as)
+                                                (H:n:morada:F_P::np-def: moradas)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (>N:pron-det:qualquer:MF_S::quant: qualquer)
+                                                    (H:n:habitante:MF_S::anr_np-idf: habitante))))
+                                              (,)
+                                              (ADVL:pp 
+                                                (H:prp:por:::: por)
+                                                (P<:np 
+                                                  (>N:num:cinco:M_P::card: cinco)
+                                                  (H:n:marco:M_P::anr_np-count:anr_np-def: marcos)
+                                                  (N<PRED:np 
+                                                    (H:pron-det:cada:F_S::quant: cada)))))))))
+                        (.)))

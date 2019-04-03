@@ -1,0 +1,27 @@
+(FRASE CP340-4 (UTT:np (>N:art:um:F_S::arti: Uma)
+                       (H:n:cidade:F_S::np-idf: cidade)
+                       (N<:fcl (ADVL:advp 
+                                 (H:adv:onde:_::ks:rel: onde))
+                               (ADVL:advp 
+                                 (H:adv:até:: até))
+                               (P:vp (MV:v-fin:haver:PR_3S_IND::fs-rel:nofsubj: há))
+                               (ACC:np (H:n:carro:M_P::np-idf: carros)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:lixo:M_S::np-idf: lixo)))
+                                       (N<:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (H:n:monitor:M_P::np-idf: monitores)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:televisão:F_S::np-idf: televisão)))
+                                           (N<:pp 
+                                             (H:prp:em_vez_de:::: em_vez_de)
+                                             (P<:np 
+                                               (H:n:espelho:M_P::np-idf: espelhos)
+                                               (N<:adjp 
+                                                 (H:adj:retrovisor:M_P::: retrovisores))))))))
+                       (.)))

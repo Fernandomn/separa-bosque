@@ -1,0 +1,68 @@
+(FRASE CP93-2 (STA:fcl (SUBJ:np (>N:adv:cerca_de:: Cerca_de)
+                                (H:np (>N:num:um:M_S::card: um)
+                                      (H:n:milhão:M_S::anr_np-count:anr_np-def:card:num: milhão)
+                                      (N<ARG:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:conto:M_P::np-dequant:np-idf: contos))))
+                                (N<:cu (CJT:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (H:n:diamante:M_P::np-idf: diamantes)))
+                                       (,)
+                                       (CJT:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (H:n:gema:F_P::np-idf: gemas)))
+                                       (CO:conj-c:e:::co-postnom: e)
+                                       (CJT:pp 
+                                         (H:prp:para:::: para)
+                                         (P<:np 
+                                           (H:n:uso:M_S::np-idf: uso)
+                                           (N<:adjp 
+                                             (H:adj:industrial:M_S::: industrial))))))
+                       (,)
+                       (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                             (MV:v-pcp:roubar:M_S::anr_pass:passive: roubado))
+                       (ADVL:pp (H:prp:em:::: em+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (H:n:noite:F_S::np-def: noite)
+                                       (N<:cu 
+                                         (PCJT:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:num:14:M_S::card: 14)))
+                                         (PCJT:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:adjp::::date: 
+                                             (H:num:15:M_S::card: 15)
+                                             (A<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:setembro:M_S::np-idf:prop: Setembro))))))))
+                       (ADVL:pp (H:prp:de:::: de+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (H:n:estação:F_S::np-def: estação)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:escolha:F_S::np-idf: escolha)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:S::artd: a)
+                                               (H:prop:Sociedade_Portuguesa_de_Empreendimentos:F_S::: Sociedade_Portuguesa_de_Empreendimentos)
+                                               ({)
+                                               (APP:np 
+                                                 (H:prop:SPE:F_S::: SPE))
+                                               (})))))
+                                       (,)
+                                       (N<:pp 
+                                         (H:prp:em:::: em+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:prop:Ocapa:M_S::: Ocapa)
+                                           (,)
+                                           (N<PRED:np 
+                                             (H:prop:Lunda_Norte:F_S::: Lunda_Norte))))))
+                       (.)))

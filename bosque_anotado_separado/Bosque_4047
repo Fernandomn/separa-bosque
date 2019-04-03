@@ -1,0 +1,44 @@
+(FRASE CP789-2 (STA:fcl (SUBJ:np (>N:art:um:F_S::arti: Uma)
+                                 (H:n:autocombustão:F_S::np-idf: autocombustão)
+                                 (N<:icl::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:ocorrer:F_S::: ocorrida))
+                                   (ADVL:advp 
+                                     (H:adv:ontem_de_manhã:::: ontem_de_manhã))
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em)
+                                     (P<:np 
+                                       (H:n:depósito:M_P::np-idf: depósitos)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:empresa:F_S::np-def: empresa)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:tratamento:M_P::np-idf: tratamentos)
+                                               (N<:adjp 
+                                                 (H:adj:pretolífero:M_P::DERS: pretolíferos))))
+                                           (N<:np 
+                                             (H:prop:Nesta:F_S::: Nesta))))
+                                       (,)
+                                       (N<PRED:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (H:prop:Sines:MF_S::: Sines)))
+                                       (,)))))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (AUX:v-fin:chegar:PS_3S_IND::: chegou)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:provocar:::: provocar))
+                        (ACC:cu (CJT:np (H:n:ferimento:M_P::np-idf: ferimentos)
+                                        (N<:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:operário:M_P::np-def: operários))))
+                                (CO:conj-c:nem:::co-acc: nem)
+                                (CJT:np (H:n:prejuízo:M_P::np-idf: prejuizos)
+                                        (N<:v-pcp:avultar:M_P::: avultados)))
+                        (.)))

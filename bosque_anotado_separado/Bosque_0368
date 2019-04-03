@@ -1,0 +1,84 @@
+(FRASE CP67-2 (STA:fcl (ADVL:pp (H:prp:dentro_de:: Dentro_de+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (H:n:política:F_S::np-def: política)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:racionalização:F_S::np-idf: racionalização)
+                                           (N<ARGO:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:estrutura:F_P::np-idf: estruturas)))))))
+                       (,)
+                       (SUBJ:np (>N:art:o:F_S::artd: a)
+                                (H:prop:PT:M_S::: PT))
+                       (P:vp (MV:v-fin:pretender:PR_3S_IND::: pretende))
+                       (ADVL:advp (H:adv:ainda:::: ainda))
+                       (ACC:cu (CJT:icl (P:vp 
+                                          (MV:v-inf:baixar:::: baixar))
+                                        (ADVL:pp 
+                                          (H:prp:para:::: para)
+                                          (P<:np 
+                                            (>N:num:quatro:M_P::card: quatro)
+                                            (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                            (N<ARG:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:conto:M_P::np-dequant:np-idf: contos)))))
+                                        (ACC:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:valor:M_S::np-def: valor)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:P::artd: as)
+                                              (H:n:existência:F_P::np-def: existências)
+                                              (N<:pp 
+                                                (H:prp:em:::: em)
+                                                (P<:np 
+                                                  (H:n:armazém:M_S::np-idf: armazém)))))
+                                          ({)
+                                          (N<:fcl 
+                                            (P:vp 
+                                              (MV:v-fin:encontrar:PR_3S_IND::nosubj: encontra-))
+                                            (ACC:np 
+                                              (H:pron-pers:se:M_3S_ACC::refl: se))
+                                            (ADVL:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (>N:num:sete:M_P::card: sete)
+                                                (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)))
+                                            (,)
+                                            (ADVL:pp 
+                                              (H:prp:contra:::: contra)
+                                              (P<:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (>N:num:11:M_P::card: 11)
+                                                (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                                (N<:fcl 
+                                                  (SUBJ:np 
+                                                    (H:pron-indp:que:M_P::rel: que))
+                                                  (ACC:np 
+                                                    (H:pron-pers:se:M_3P_ACC::: se))
+                                                  (P:vp 
+                                                    (MV:v-fin:atingir:IMPF_3P_IND::fs-rel: atingiam))
+                                                  (ADVL:pp 
+                                                    (H:prp:em:::: em)
+                                                    (P<:np 
+                                                      (H:n:maio:M_S::np-idf:prop: Maio)))))))
+                                          (})))
+                               (CO:conj-c:e:::co-inf: e)
+                               (CJT:icl (P:vp 
+                                          (MV:v-inf:alienar:::: alienar))
+                                        (ACC:np 
+                                          (>N:num:40:M_P::card: 40)
+                                          (H:n:imóvel:M_P::anr_np-count:anr_np-def: imóveis)
+                                          (N<:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:espalhar:M_P::: espalhados))
+                                            (ADVL:pp 
+                                              (H:prp:por:::: por+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:país:M_S::np-def: país)))))))
+                       (.)))

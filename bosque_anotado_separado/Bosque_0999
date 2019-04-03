@@ -1,0 +1,59 @@
+(FRASE CP186-2 (STA:fcl (ADVL:cu (CJT:pp 
+                                   (H:prp:com:: Com)
+                                   (P<:np 
+                                     (H:n:exportação:F_P::np-idf: exportações)
+                                     (N<:pp 
+                                       (H:prp:para:::: para)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:prop:UE:F_S::: UE)))
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:num:15,5:M_P::card: 15,5)
+                                         (>N:n:mil:M_P::card:num: mil)
+                                         (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                         (N<ARG:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:ecu:M_P::np-dequant:np-idf: ecus)))))))
+                                 (CO:conj-c:e:::co-advl: e)
+                                 (CJT:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:importar:::: importando))
+                                   (ACC:np 
+                                     (H:pron-det:o:M_S::dem: o)
+                                     (N<:adjp 
+                                       (H:adj:equivalente:M_S::anr_np-def: equivalente)
+                                       (A<:pp 
+                                         (H:prp:a:::: a)
+                                         (P<:np 
+                                           (>N:num:11,5:M_P::card: 11,5)
+                                           (>N:n:mil:M_P::card:num: mil)
+                                           (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:prop:Rússia:F_S::: Rússia))
+                        (P:vp (MV:v-fin:manter:IMPF_3S_IND::: mantinha))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:num:1993:M_S::card: 1993)))
+                        (ACC:np- (>N:num:um:M_S::card: um)
+                                 (H:n:excedente:M_S::anr_np-count:anr_np-def: excedente)
+                                 (N<:adjp 
+                                   (H:adj:comercial:M_S::: comercial)))
+                        (,)
+                        (ADVL:pp (H:prp:face_a:::: face_a+)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:n:europeu:M_P::np-def: europeus)))
+                        (,)
+                        (-ACC:np (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (>N:np 
+                                            (>A:num:quatro:M_P::card: quatro)
+                                            (H:n:mil:M_P::card:num: mil))
+                                          (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                          (N<ARG:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:ecu:M_P::np-dequant:np-idf: ecus))))))
+                        (.)))

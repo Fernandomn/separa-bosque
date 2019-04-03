@@ -1,0 +1,84 @@
+(FRASE CP442-2 (STA:fcl (PRED:pp (H:prp:a:: A+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:icl 
+                                          (P:vp 
+                                            (MV:v-inf:sair:::icl-temp: sair))
+                                          (SA:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:penumbra:F_S::np-def: penumbra)))
+                                          (,)
+                                          (ADVL:icl::::ger: 
+                                            (P:vp 
+                                              (MV:v-ger:arrastar:::: arrastando))
+                                            (ACC:np 
+                                              (>N:art:um:F_S::arti: uma)
+                                              (H:n:coisa:F_S::np-idf: coisa)
+                                              (N<:icl::::pcp: 
+                                                (P:vp 
+                                                  (MV:v-pcp:parecer:F_S::: parecida))
+                                                (PIV:pp 
+                                                  (H:prp:com:::: com)
+                                                  (P<:np 
+                                                    (H:n:névoa:F_S::np-idf: névoa)
+                                                    (N<:cu 
+                                                      (CJT:adjp 
+                                                        (H:adj:cinzento:F_S::: cinzenta))
+                                                      (CO:conj-c:e:::co-postnom: e)
+                                                      (CJT:adjp 
+                                                        (H:adj:oleoso:F_S::: oleosa)))
+                                                    (,)
+                                                    (N<PRED:icl::::pcp: 
+                                                      (P:vp 
+                                                        (MV:v-pcp:suspender:F_S::: suspensa))
+                                                      (ADVL:pp 
+                                                        (H:prp:a:::: a)
+                                                        (P<:np 
+                                                          (>N:num:dois:M_P::card: dois)
+                                                          (H:n:palmo:M_P::anr_np-count:anr_np-def: palmos)
+                                                          (N<:pp 
+                                                            (H:prp:de:::: de+)
+                                                            (P<:np 
+                                                              (>N:art:o:F_S::artd: a)
+                                                              (H:n:cabeça:F_S::np-def: cabeça))))))
+                                                    (,)))))))))
+                        (SUBJ:np (H:prop:João_Carlos:M_S::: João_Carlos))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:andar:PS_3S_IND::: andou))
+                                (ADVL:np 
+                                  (>N:cu 
+                                    (CJT:np 
+                                      (H:num:três:M_P::card: três))
+                                    (CO:conj-c:ou:::co-prenom: ou)
+                                    (CJT:adjp 
+                                      (H:num:quatro:M_P::card: quatro)))
+                                  (H:n:passo:M_P::anr_np-count:anr_np-def: passos)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:parar:PS_3S_IND::nosubj: parou))
+                                (PRED:pp 
+                                  (H:prp:com:::: com)
+                                  (P<:np 
+                                    (>N:art:um:M_S::arti: um)
+                                    (H:n:suspiro:M_S::np-idf: suspiro)))
+                                (,)
+                                (ADVL:fcl 
+                                  (SUB:conj-s:como_se:::: como_se)
+                                  (SUBJ:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (>N:pron-det:seu:F_P::: suas)
+                                    (H:n:perna:F_P::anr_np-def: pernas))
+                                  (P:vp (MV:v-fin:utilizar:IMPF_3P_SUBJ::: utilizassem))
+                                  (ACC:np 
+                                    (>N:art:um:M_S::arti: um)
+                                    (H:n:sistema:M_S::np-idf: sistema)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:suspensão:F_S::np-idf: suspensão)
+                                        (N<:pp 
+                                          (H:prp:a:::: a)
+                                          (P<:np 
+                                            (H:n:ar:M_S::np-idf: ar)))))))))
+                        (.)))

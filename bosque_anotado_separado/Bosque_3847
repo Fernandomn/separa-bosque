@@ -1,0 +1,75 @@
+(FRASE CP749-5 (STA:fcl (PRED:np (H:n:deputado:M_S::np-idf: Deputado)
+                                 (N<:adjp 
+                                   (H:adj:suplente:M_S: suplente))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:PS:M_S::: PS)))
+                                 (N<:pp (H:prp:com:::: com)
+                                        (P<:np 
+                                          (H:n:entrada:F_P::np-idf: entradas)
+                                          (N<:adjp 
+                                            (H:adj:fugaz:F_P::: fugazes))
+                                          (N<:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:prop:Parlamento:M_S::: Parlamento))))))
+                        (,)
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:acusar:PR_3S_IND::nosubj: acusa))
+                                (ACC:np (H:prop:António_Guterres:M_S::: António_Guterres))
+                                (PIV:pp (H:prp:de:::: de)
+                                        (P<:icl 
+                                          (P:vp 
+                                            (MV:v-inf:trair:::: trair))
+                                          (ACC:np 
+                                            (H:n:promessa:F_P::np-idf: promessas)
+                                            (N<:icl::::pcp: 
+                                              (P:vp 
+                                                (MV:v-pcp:fazer:F_P::: feitas))
+                                              (ADVL:pp 
+                                                (H:prp:em:::: em)
+                                                (P<:np::::date: 
+                                                  (H:n:julho:M_S::anr_np-idf:prop: Julho)))
+                                              (PIV:pp 
+                                                (H:prp:a:::: a)
+                                                (P<:np 
+                                                  (H:n:representante:MF_P::np-idf: representantes)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de+)
+                                                    (P<:np 
+                                                      (>N:art:o:F_S::artd: a)
+                                                      (H:n:comunidade:F_S::np-def: comunidade))))))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:preparar:PR_3S_IND::nosubj: prepara))
+                                (ACC:np (>N:art:um:F_S::arti: uma)
+                                        (H:n:campanha:F_S::np-idf: campanha)
+                                        (N<:adjp 
+                                          (H:adj:internacional:F_S::: internacional))
+                                        (N<:pp 
+                                          (H:prp:contra:::: contra)
+                                          (P<:np 
+                                            (>N:art:um:F_S::arti: uma)
+                                            (H:n:situação:F_S::np-idf: situação)
+                                            (N<:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:F_S::rel: que))
+                                              (P:vp 
+                                                (MV:v-fin:tornar:PR_3S_IND::fs-rel: torna))
+                                              (ACC:np 
+                                                (>N:art:o:M_P::artd: os)
+                                                (H:n-adj:negro:M_P::: negros)
+                                                (N<:adjp 
+                                                  (H:adj:português:M_P::anr_np-def: portugueses)))
+                                              (OC:pp 
+                                                (H:prp:em:::: em)
+                                                (P<:np 
+                                                  (H:n:cidadão:M_P::np-idf: cidadãos)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (>N:adj:segundo:F_S::NUM-ord: segunda)
+                                                      (H:n:classe:F_S::anr_np-idf: classe)))))))))))
+                        (.)))

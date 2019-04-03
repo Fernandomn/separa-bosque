@@ -1,0 +1,43 @@
+(FRASE CP541-3 (STA:fcl (ADVL:pp (H:prp:para:: Para)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:crescimento:M_S::np-def: crescimento)
+                                        (N<:adjp 
+                                          (H:adj:médio:M_S::: médio))))
+                        (P:vp (AUX:v-fin:ser:PR_3S_IND::: é)
+                              (MV:v-pcp:apontar:F_S::anr_pass:passive: apontada))
+                        (ADVL:advp (H:adv:agora:::kc: agora))
+                        (SUBJ:np (>N:art:um:F_S::arti: uma)
+                                 (H:n:estimativa:F_S::np-idf: estimativa)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (>N:num:1,6:M_P::card: 1,6)
+                                          (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))
+                                 (,)
+                                 (N<PRED:adjp 
+                                   (H:adj:alto:M_S::KOMP: superior)
+                                   (A<:pp 
+                                     (H:prp:em:::: em)
+                                     (P<:np 
+                                       (>N:num:0,3:M_P::card: 0,3)
+                                       (H:n:ponto:M_P::anr_np-count:anr_np-def: pontos)))
+                                   (A<:pp 
+                                     (H:prp:a:::: a+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:previsão:F_S::np-def: previsão)
+                                       (N<:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:adiantar:F_S::: adiantada))
+                                         (ADVL:advp 
+                                           (H:adv:anteriormente:::: anteriormente))
+                                         (,)
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:prop:Outono:M_S::: Outono)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:adjp 
+                                                 (H:num:1993:M_S::card: 1993))))))))))
+                        (.)))

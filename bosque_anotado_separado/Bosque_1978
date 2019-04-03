@@ -1,0 +1,39 @@
+(FRASE CP381-6 (STA:fcl (P:vp (MV:v-fin:protestar:PS_3P_IND::nosubj: Protestaram))
+                        (,)
+                        (ADVL:pp (H:prp:com:: com)
+                                 (P<:np (>N:pron-det:algum:F_S::quant: alguma)
+                                        (H:n:razão:F_S::anr_np-idf: razão)))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:porque:::: porque)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (H:n:concerto:M_P::np-def: concertos))
+                                  (P:vp (AUX:v-fin:ser:PS_3P_IND::: foram)
+                                        (MV:v-pcp:prever:M_P::anr_pass:passive: previstos))
+                                  (ADVL:advp 
+                                    (H:adv:tardiamente:::: tardiamente))
+                                  (,)
+                                  (ADVL:fcl 
+                                    (SUB:conj-s:visto_que:::: visto_que)
+                                    (SUBJ:np 
+                                      (>N:art:o:F_P::artd: as)
+                                      (H:n:eleição:F_P::np-def: eleições)
+                                      (N<:pp 
+                                        (H:prp:para:::: para)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:prop:APEL:F_S::: APEL))))
+                                    (P:vp 
+                                      (MV:v-fin:ser:PS_3P_IND::: foram))
+                                    (ADVL:pp 
+                                      (>A:pron-det:muito:M_S::quant: muito)
+                                      (H:prp:em_cima_de:::: em_cima_de+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:data:F_S::anr_np-idf: data)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:feira:F_S::np-def: feira)))))))
+                        (.)))

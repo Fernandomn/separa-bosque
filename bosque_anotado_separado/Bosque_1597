@@ -1,0 +1,75 @@
+(FRASE CP301-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:alemão:M_S::np-def: alemão)
+                                 (N<:np (H:prop:Boris_Becker:M_S: Boris_Becker))
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:vencedor:M_S::np-idf: vencedor)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Queen:F_S::: Queen's))))
+                                 (,))
+                        (ADVL:pp (H:prp:a:::: a+)
+                                 (P<:icl 
+                                   (>N:art:o:M_S::artd: o)
+                                   (P:vp 
+                                     (MV:v-inf:derrotar:3S::icl-temp: derrotar))
+                                   (ACC:np 
+                                     (H:prop:Edberg:M_S::: Edberg))
+                                   (ADVL:pp 
+                                     (H:prp:por:::: por)
+                                     (P<:cu 
+                                       (CJT:np 
+                                         (H:num:6-4:M_P::card: 6-4))
+                                       (,)
+                                       (CJT:np 
+                                         (H:num:7-6:M_P::card: 7-6))
+                                       ({)
+                                       (CJT:adjp 
+                                         (H:num:7-3:M_P::card: 7-3))
+                                       (})))
+                                   (ADVL:np 
+                                     (>N:num:11:M_P::card: 11)
+                                     (H:n:ano:M_P::anr_np-count:anr_np-def: anos)
+                                     (N<:advp 
+                                       (H:adv:depois:::: depois)
+                                       (A<arg:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:icl 
+                                           (P:vp 
+                                             (AUX:v-inf:ter:::: ter)
+                                             (MV:v-pcp:conquistar:::: conquistado))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (>N:pron-det:mesmo:M_S::KOMP:diff: mesmo)
+                                               (H:n:local:M_S::anr_np-def: local)))
+                                           (ACC:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (>N:pron-det:seu:M_S::si: seu)
+                                             (>N:adj:primeiro:M_S::NUM-ord: primeiro)
+                                             (H:n:título:M_S::anr_np-def: título)
+                                             (N<:pp 
+                                               (H:prp:em:::: em)
+                                               (P<:np 
+                                                 (H:n:relva:F_S::np-idf: relva))))))))))
+                        (,)
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:manter:PS_3S_IND::: manteve))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (>N:adj:quarto:F_S::NUM-ord: quarta)
+                                        (H:n:posição:F_S::anr_np-def: posição)))
+                              (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:diminuir:PS_3S_IND::nosubj: diminuiu))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:diferença:F_S::np-def: diferença)
+                                        (N<:adjp 
+                                          (H:adj:pontual:F_S::: pontual)))
+                                (ADVL:pp 
+                                  (H:prp:para:::: para)
+                                  (P<:np 
+                                    (H:prop:Andre_Agassi:M_S::: Andre_Agassi)))))
+                        (.)))

@@ -1,0 +1,40 @@
+(FRASE CP48-6 (STA:fcl («)
+                       (ADVL:pp (H:prp:em:: Em+)
+                                (P<:np (>N:art:um:F_S::arti: uma)
+                                       (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                       (H:n:fase:F_S::anr_np-idf: fase)))
+                       (SUBJ:np (>N:art:o:M_S::artd: o)
+                                (H:n:trabalho:M_S::np-def: trabalho))
+                       (P:vp (AUX:v-fin:ser:FUT_3S_IND::: será)
+                             (MV:v-pcp:concretizar:M_S::anr_pass:passive: concretizado))
+                       (ADVL:pp (H:prp:em:::: em+)
+                                (P<:np (>N:art:um:M_S::arti: um)
+                                       (')
+                                       (H:n:site:M_S::anr_np-idf: site)
+                                       (')
+                                       (N<:cu 
+                                         (CJT:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:S::artd: a)
+                                             (H:prop:Internet:F_S::: Internet)))
+                                         (,)
+                                         (CJT:pp 
+                                           (H:prp:com:::: com)
+                                           (P<:np 
+                                             (H:n:acesso:M_S::np-idf: acesso)
+                                             (N<:adjp 
+                                               (H:adj:universal:M_S::: universal))))
+                                         (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                         (CJT:fcl 
+                                           (SUBJ:np 
+                                             (H:pron-indp:que:M_S::rel: que))
+                                           (P:vp 
+                                             (MV:v-fin:ter:FUT_3S_IND::: terá))
+                                           (ACC:np 
+                                             (H:n:sede:F_S::np-idf: sede))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em)
+                                             (P<:np 
+                                               (H:prop:Sagres:MF_S::: Sagres)))))))
+                       (.)))

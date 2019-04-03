@@ -1,0 +1,39 @@
+(FRASE CP460-8 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (>N:pron-det:mesmo:M_P::KOMP:diff: mesmos)
+                                 (H:n:indivíduo:M_P::anr_np-def: indivíduos))
+                        (P:vp (AUX:v-fin:ser:PR_3P_IND: são)
+                              (MV:v-pcp:acusar:M_P::anr_pass:passive: acusados))
+                        (PIV:pp (H:prp:de:::: de)
+                                (P<:np (>N:pron-det:outro:M_P::KOMP:diff: outros)
+                                       (>N:num:três:M_P::card: três)
+                                       (H:n:assalto:M_P::anr_np-count:anr_np-def: assaltos)
+                                       (N<:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:ocorrer:M_P::: ocorridos))
+                                         (SA:pp 
+                                           (H:prp:em:::: em)
+                                           (P<:np 
+                                             (H:prop:Coimbra:MF_S::: Coimbra)))
+                                         (ADVL:pp 
+                                           (H:prp:entre:::: entre)
+                                           (P<:cu 
+                                             (CJT:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:dia:M_S::np-def: dia)
+                                               (N<:adjp::::date: 
+                                                 (H:num:14:M_S::card: 14))
+                                               (N<:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:agosto:M_S::np-idf:prop: Agosto))))
+                                             (CO:conj-c:e:::co-prparg: e)
+                                             (CJT:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:tarde:F_S::np-def: tarde)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:F_S::artd: a)
+                                                   (>N:adj:último:F_S::NUM-ord: última)
+                                                   (H:n:quinta-feira:F_S::anr_np-def: quinta-feira)))))))))
+                        (.)))

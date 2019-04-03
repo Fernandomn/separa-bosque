@@ -1,0 +1,66 @@
+(FRASE CP5-3 (STA:cu (CJT:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                       (>N:num:quatro:M_P::card: quatro)
+                                       (>N:adj:primeiros:M_P::NUM-ord: primeiros)
+                                       (H:n:tema:M_P::anr_np-count:anr_np-def: temas))
+                              (P:vp (MV:v-fin:destinar:PR_3P_IND: destinam-))
+                              (ACC:np (H:pron-pers:se:M_3P_ACC::: se))
+                              (PIV:pp (H:prp:a:::: a)
+                                      (P<:icl 
+                                        (P:vp 
+                                          (MV:v-inf:mostrar:::: mostrar))
+                                        (ACC:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:papel:M_S::np-def: papel)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:prop:Portugal:M_S::: Portugal)))
+                                          (N<:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:mundo:M_S::np-def: mundo)))))))
+                     (CO:conj-c:e:::: e)
+                     (CJT:fcl (SUBJ:np::::Eg: 
+                                (>N:art:o:M_S::artd: o)
+                                (H:adj:quinto:M_S::Eg:NUM-ord:np-def: quinto)
+                                (,)
+                                (APP:np::::Eg: 
+                                  (>N:art:o:M_S::artd: o)
+                                  (H:adj:único:M_S::Eg:np-def: único)
+                                  (N<:pp 
+                                    (H:prp:sem:::: sem)
+                                    (P<:np 
+                                      (H:n:relação:F_S::np-idf: relação)
+                                      (N<ARGO:pp 
+                                        (H:prp:com:::: com)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:história:F_S::np-def: história)
+                                          (N<:adjp 
+                                            (H:adj:nacional:F_S::: nacional))))))))
+                              (,)
+                              (P:vp (AUX:v-fin:ser:PR_3S_IND::: é)
+                                    (MV:v-pcp:justificar:M_S::anr_pass:passive: justificado))
+                              (PASS:pp (H:prp:por:::: por+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:n:experiência:F_S::np-def: experiência)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:prop:Barcelona:F_S::: Barcelona)))
+                                         ({)
+                                         (APP:np 
+                                           (H:prop:Port_Aventura:MF_S::: Port_Aventura))
+                                         (})
+                                         (,)
+                                         (N<PRED:fcl 
+                                           (SUBJ:np 
+                                             (H:pron-indp:que:F_S::rel: que))
+                                           (P:vp 
+                                             (MV:v-fin:registar:PR_3S_IND::fs-rel: regista))
+                                           (ACC:np 
+                                             (>N:adj:assinalável:M_S::: assinalável)
+                                             (H:n:sucesso:M_S::anr_np-idf: sucesso))))))
+                     (.)))

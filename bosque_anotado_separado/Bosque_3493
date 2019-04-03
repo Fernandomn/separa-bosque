@@ -1,0 +1,74 @@
+(FRASE CP675-5 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:prop:Milan:M_S: Milan)
+                                 (--)
+                                 (N<PRED:adjp 
+                                   (H:adj:finalista:M_S::: finalista)
+                                   (,)
+                                   (A<:pp 
+                                     (H:prp:com:::: com)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Barcelona:M_S::: Barcelona)))
+                                   (,)
+                                   (A<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:prop:Liga_dos_Campeões_Europeus:F_S::: Liga_dos_Campeões_Europeus))))
+                                 (--))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:np (>N:art:o:M_S::artd: o)
+                               (H:n:clube:M_S::np-def: clube)
+                               (N<:fcl (SUBJ:np 
+                                         (H:pron-indp:que:M_S::rel: que))
+                                       (ACC:np 
+                                         (>N:pron-det:muito:M_P::KOMP:quant: mais)
+                                         (H:n:jogador:M_P::anr_np-idf: jogadores))
+                                       (P:vp 
+                                         (MV:v-fin:fornecer:PR_3S_IND::fs-rel: fornece))
+                                       (PIV:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:selecção:F_S::np-def: selecção)
+                                           (N<:adjp 
+                                             (H:adj:transalpino:F_S::: transalpina))))
+                                       (,)
+                                       (ADVL:pp 
+                                         (H:prp:com:::: com)
+                                         (P<:np 
+                                           (>N:num:sete:M_P::card: sete)
+                                           (H:n:futebolista:M_P::anr_np-count:anr_np-def: futebolistas)))
+                                       (,)
+                                       (ADVL:icl::::ger: 
+                                         (P:vp 
+                                           (MV:v-ger:seguir:::hyfen: seguindo-))
+                                         (ACC:np 
+                                           (H:pron-pers:se:M_3S_ACC::refl: se))
+                                         (SUBJ:cu 
+                                           (CJT:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:prop:Parma:M_S::: Parma)
+                                             (,)
+                                             (N<PRED:pp 
+                                               (H:prp:com:::: com)
+                                               (P<:np 
+                                                 (H:num:cinco:M_P::card: cinco)))
+                                             (,))
+                                           (CJT:np 
+                                             (H:cu 
+                                               (CJT:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:prop:Juventus:F_S::: Juventus))
+                                               (CO:conj-c:e:::co-subj: e)
+                                               (CJT:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:prop:Lázio_de_Roma:M_S::: Lázio_de_Roma)))
+                                             (,)
+                                             (N<PRED:np 
+                                               (H:pron-det:ambos:M_P::quant: ambos)
+                                               (N<:pp 
+                                                 (H:prp:com:::: com)
+                                                 (P<:adjp 
+                                                   (H:num:três:M_P::card: três)))))))))
+                        (.)))

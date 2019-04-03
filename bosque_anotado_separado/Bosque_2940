@@ -1,0 +1,63 @@
+(FRASE CP566-5 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:TV2:F_S::: TV2)))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:transmissão:F_S::np-def: transmissão)
+                                 (,)
+                                 (N<PRED:pp 
+                                   (H:prp:em:::: em)
+                                   (P<:np 
+                                     (H:n:horário:M_S::np-idf: horário)
+                                     (N<:adjp 
+                                       (H:adj:domingueiro:M_S::: domingueiro))
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:almoço:M_S::np-idf: almoço)))))
+                                 (,)
+                                 (N<ARGO:pp 
+                                   (H:prp:de:::: de+)
+                                   (P<:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (H:prop:Campeonatos_Europeus_de_Atletismo:M_P::: Campeonatos_Europeus_de_Atletismo)))
+                                 (,)
+                                 (N<PRED:pp 
+                                   (H:prp:a:::: a+)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:hora:F_S::np-def: hora)
+                                     (N<:fcl 
+                                       (ADVL:pp 
+                                         (H:prp:a:::: a)
+                                         (P<:np 
+                                           (H:pron-indp:que:F_S::rel: que)))
+                                       (SUBJ:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:portuguesa:F_S::np-def: portuguesa)
+                                         (N<:np 
+                                           (H:prop:Manuela_Machado:F_S::: Manuela_Machado)))
+                                       (P:vp 
+                                         (MV:v-fin:vencer:IMPF_3S_IND::fs-rel: vencia))
+                                       (ACC:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:maratona:F_S::np-def: maratona)
+                                         (N<:adjp 
+                                           (H:adj:feminino:F_S::: feminina))))))
+                                 (,))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:alcançar:PS_3S_IND::: alcançou))
+                        (ADVL:advp (H:adv:mais:_::KOMP:quant: mais)
+                                   (KOMP<:acl 
+                                     (COM:conj-s:do_que:::: do_que)
+                                     (ACC:np 
+                                       (>N:pron-det:um:M_P::quant: uns)
+                                       (>N:adj:mísero:M_P::: míseros)
+                                       (>N:num:3,0:M_P::card: 3,0)
+                                       (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:população:F_S::np-def: população))))))
+                        (.)))

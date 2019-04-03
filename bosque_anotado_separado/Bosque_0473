@@ -1,0 +1,66 @@
+(FRASE CP87-6 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                (H:prop:Grã-Bretanha:F_S: Grã-Bretanha)
+                                (--)
+                                (N<PRED:np 
+                                  (>N:art:o:M_S::artd: o)
+                                  (>N:adj:único:M_S::: único)
+                                  (H:n:país:M_S::anr_np-def: país)
+                                  (N<:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:S::artd: a)
+                                      (H:prop:CEE:F_S::: CEE)))
+                                  (N<:fcl 
+                                    (SUBJ:np 
+                                      (H:pron-indp:que:M_S::rel: que))
+                                    (P:vp 
+                                      (MV:v-fin:proibir:PS_3S_IND::fs-rel: proibiu))
+                                    (ACC:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:produto:M_S::np-def: produto))))
+                                (--))
+                       (P:vp (MV:v-fin:querer:PR_3S_IND::: quer))
+                       (ADVL:advp (H:adv:agora:::kc: agora))
+                       (ACC:icl (P:vp (MV:v-inf:banir:::icl-subst: banir))
+                                (ACC:np (>N:art:o:M_P::artd: os)
+                                        (H:n:ciclamato:M_P::np-def: ciclamatos)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:prop:CEE:F_S::: CEE))))
+                                (ADVL:icl::::pcp: 
+                                  (P:vp (MV:v-pcp:basear:M_P::: baseados))
+                                  (PIV:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:argumento:M_S::np-def: argumento)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:fcl 
+                                          (SUB:conj-s:que:::: que)
+                                          (SUBJ:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:produto:M_S::np-def: produto))
+                                          (P:vp 
+                                            (MV:v-fin:levar:PR_3S_IND::fs-subst: leva))
+                                          (,)
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:animal:M_P::np-def: animais)))
+                                          (,)
+                                          (PIV:pp 
+                                            (H:prp:a:::: a+)
+                                            (P<:cu 
+                                              (CJT:np 
+                                                (>N:art:o:S::artd: a)
+                                                (H:n:atrofia:F_S::np-def: atrofia))
+                                              (CO:conj-c:e:::co-prparg: e)
+                                              (CJT:np 
+                                                (H:n:degeneração:F_S::np-idf: degeneração)
+                                                (N<:adjp 
+                                                  (H:adj:testicular:F_S::: testicular)))))))))))
+                       (.)))

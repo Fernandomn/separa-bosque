@@ -1,0 +1,76 @@
+(FRASE CP488-1 (STA:fcl (ADVL:pp (H:prp:segundo:: Segundo)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (>N:adj:alto:M_S::: alto)
+                                        (H:n-adj:responsável:M_S::anr_np-idf: responsável)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:instituição:F_S::np-def: instituição)))
+                                        (,)
+                                        (N<PRED:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_S::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:solicitar:PS_3S_IND::fs-rel: solicitou))
+                                          (ACC:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:anonimato:M_S::np-def: anonimato)))
+                                        (,)))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:ritmo:M_S::np-def: ritmo)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:recuperação:F_S::np-idf: recuperação)
+                                          (N<ARGO:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:economia:F_S::np-def: economia)
+                                              (N<:adjp 
+                                                (H:adj:mundial:F_S::: mundial)))))))
+                        (P:vp (AUX:v-fin:dever:FUT_3S_IND::: deverá)
+                              (MV:v-inf:acentuar:_::hyfen:se-passive: acentuar-))
+                        (ACC-PASS:np (H:pron-pers:se:F_3S_ACC::: se))
+                        (ADVL:pp (>P:adv:já:::: já)
+                                 (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (>N:adj:segundo:M_S::NUM-ord: segundo)
+                                        (H:n:semestre:M_S::anr_np-def: semestre)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:adjp 
+                                            (H:num:1992:M_S::card: 1992)))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:opor:::hyfen: opondo-))
+                          (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                          (,)
+                          (ADVL:pp (H:prp:de:::: de+)
+                                   (P<:np 
+                                     (>N:pron-det:este:M_S::dem: este)
+                                     (H:n:modo:M_S::np-def: modo)))
+                          (,)
+                          (PIV:pp (H:prp:a:::: a+)
+                                  (P<:np 
+                                    (>N:art:o:F_P::artd: as)
+                                    (H:n:tese:F_P::np-def: teses)
+                                    (N<:adjp 
+                                      (>A:adv:mais:_::KOMP:quant: mais)
+                                      (H:adj:pessimista:F_P::: pessimistas))
+                                    (N<:fcl 
+                                      (SUBJ:np 
+                                        (H:pron-indp:que:F_P::rel: que))
+                                      (P:vp 
+                                        (MV:v-fin:prognosticar:PR_3P_IND::fs-rel: prognosticam))
+                                      (ACC:np 
+                                        (>N:adj:forte:F_P::: fortes)
+                                        (H:n:probabilidade:F_P::anr_np-idf: probabilidades)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:art:um:F_S::arti: uma)
+                                            (H:n:recessão:F_S::np-idf: recessão)
+                                            (N<:adjp 
+                                              (H:adj:mundial:F_S::: mundial)))))))))
+                        (.)))

@@ -1,0 +1,19 @@
+(FRASE CP58-1 (STA:fcl (ADVL:pp (H:prp:em:: Em)
+                                (P<:np (H:n:síntese:F_S::np-idf: síntese)))
+                       (,)
+                       (SUBJ:np (>N:pron-det:aquele:M_S::dem: aquele)
+                                (H:n:dinheiro:M_S::np-def: dinheiro))
+                       (P:vp (MV:v-fin:ser:PR_3S_COND::: seria))
+                       (SC:np (>N:art:o:F_S::artd: a)
+                              (>N:adj:último:F_S::NUM-ord: última)
+                              (H:n:prestação:F_S::anr_np-def: prestação)
+                              (N<:pp (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:pagamento:M_S::np-def: pagamento)
+                                       (N<ARGO:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:terreno:M_S::np-def: terreno))))))
+                       (.)))

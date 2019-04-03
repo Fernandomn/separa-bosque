@@ -1,0 +1,56 @@
+(FRASE CP794-1 (STA:fcl (SUBJ:np (>N:pron-det:este:M_S::dem: Este)
+                                 (H:n:grupo:M_S::np-def: grupo)
+                                 (N<:adjp 
+                                   (H:adj:religioso:M_S: religioso)))
+                        (ADVL:advp (H:adv:já:::: já))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              («)
+                              (MV:v-pcp:visitar:M_S::anr_pass:passive: visitado)
+                              (»))
+                        (PASS:pp (H:prp:por:::: por+)
+                                 (P<:np (>N:art:o:F_P::artd: as)
+                                        (H:n:autoridade:F_P::np-def: autoridades)
+                                        (N<:adjp 
+                                          (H:adj:policial:F_P::: policiais))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:fim:M_P::np-idf: fins)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:novembro:M_S::np-idf:prop: Novembro)))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:seguimento:M_S::np-def: seguimento)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:queixa:F_P::np-idf: queixas)
+                                            (N<:pp 
+                                              (H:prp:em:::: em)
+                                              (P<:np 
+                                                (H:n:matéria:F_S::np-idf: matéria)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:urbanismo:M_S::np-idf: urbanismo)))))
+                                            (,)
+                                            (N<PRED:pp 
+                                              (H:prp:contra:::: contra)
+                                              (P<:np 
+                                                (H:n:estátua:F_P::np-idf: estátuas)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:dimensão:F_P::np-idf: dimensões)
+                                                    (N<:v-pcp:desmesurar:F_P::: desmesuradas)))
+                                                (N<:icl::::pcp: 
+                                                  (P:vp 
+                                                    (MV:v-pcp:erguer:F_P::: erguidas))
+                                                  (ADVL:pp 
+                                                    (H:prp:perto_de:::: perto_de+)
+                                                    (P<:np 
+                                                      (>N:art:o:M_S::artd: o)
+                                                      (H:n:mosteiro:M_S::anr_np-idf: mosteiro))))))))))
+                        (.)))

@@ -1,0 +1,53 @@
+(FRASE CP188-7 (STA:fcl (ADVL:pp (H:prp:quanto_a:: Quanto_a)
+                                 (P<:np (H:prop:Pedro_Matos_Chaves:M_S::: Pedro_Matos_Chaves)))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:piloto:M_S::np-def: piloto)
+                                 (N<:adjp 
+                                   (H:adj:português:M_S::: português)))
+                        (P:vp (MV:v-fin:estar:PS_3S_IND::: esteve))
+                        (SA:np (>N:pron-det:um:M_P::quant: uns)
+                               (H:n:furo:M_P::anr_np-idf: furos)
+                               (N<:pp (H:prp:abaixo_de:::: abaixo_de+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:adj:habitual:M_S::np-def: habitual))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (ADVL:advp (H:adv:não:::: não))
+                          (P:vp (MV:v-ger:conseguir:::: conseguindo))
+                          (ADVL:pp (H:prp:com:::: com)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (>N:pron-det:seu:M_S::: seu)
+                                     (H:prop:BMW:M_S::: BMW)
+                                     (N<:np 
+                                       (H:n:série:M_S::np-idf:prop: Série))
+                                     (N<:adjp 
+                                       (H:num:3:F_P::card: 3))))
+                          (ACC:adjp (H:adj:bom:MF_S::KOMP: melhor)
+                                    (KOMP<:acl 
+                                      (COM:conj-s:que:::: que)
+                                      (SUBJ:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (>N:adj:oitavo:M_S::NUM-ord: oitavo)
+                                        (H:n:tempo:M_S::anr_np-def: tempo)
+                                        (,)
+                                        (N<PRED:pp 
+                                          (H:prp:com:::: com)
+                                          (P<:np 
+                                            (H:n:1m14,667s:M_S::np-idf: 1m14,667s)))
+                                        (,))))
+                          (S<:fcl (SUBJ:np 
+                                    (H:pron-indp:o_que:M_S::rel: o_que))
+                                  (ACC:np 
+                                    (H:pron-pers:ele:M_3S_ACC::: o))
+                                  (P:vp (MV:v-fin:deixar:PS_3S_IND::: deixou))
+                                  (OA:pp 
+                                    (H:prp:fora_de:::: fora_de+)
+                                    (P<:np 
+                                      (>N:art:o:S::artd: a)
+                                      («)
+                                      (H:n:super_pole:F_S::anr_np-idf: super_pole)
+                                      (»)))))
+                        (.)))

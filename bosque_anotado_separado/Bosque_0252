@@ -1,0 +1,54 @@
+(FRASE CP44-4 (STA:fcl (ADVL:pp (H:pp:de_acordo:: De_acordo)
+                                (P<:pp (H:prp:com:::: com)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:testemunho:M_S::np-def: testemunho)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:informador:M_P::np-idf: informadores))))))
+                       (,)
+                       (SUBJ:np (H:prop:Junior:M_S::: Junior))
+                       (P:vp (AUX:v-fin:estar:PR_3S_COND::: estaria)
+                             (PRT-AUX:prp:a:::: a)
+                             (MV:v-inf:manter:::: manter))
+                       (ACC:np (>N:art:um:F_S::arti: uma)
+                               (H:n:arrogância:F_S::np-idf: arrogância)
+                               (N<:adjp (H:adj:excessivo:F_S::: excessiva)))
+                       (ADVL/N<[+1]:pp (H:prp:em_relação_a:::: em_relação_a+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (>N:adj:velho:M_P::: velhos)
+                                         (H:n:membro:M_P::anr_np-def: membros)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:clã:M_S::np-def: clã)))))
+                       (,)
+                       (ADVL:icl::::ger: 
+                         (P:vp (MV:v-ger:ir:::: indo))
+                         (SA:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:n:ponto:M_S::np-def: ponto)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:icl 
+                                           (P:vp 
+                                             (MV:v-inf:reclamar:::: reclamar))
+                                           (ACC:np 
+                                             (H:n:soma:F_P::np-idf: somas)
+                                             (N<:adjp 
+                                               (H:adj:alto:F_P::: superiores)
+                                               (A<:pp 
+                                                 (H:prp:a:::: a+)
+                                                 (P<:np 
+                                                   (H:pron-det:o:M_S::: o)
+                                                   (N<:fcl 
+                                                     (SUBJ:np 
+                                                       (H:pron-indp:que:M_S::rel: que))
+                                                     (P:vp 
+                                                       (MV:v-fin:ser:IMPF_3S_IND::fs-rel: era))
+                                                     (SC:adjp 
+                                                       (H:adj:habitual:M_S::: habitual))))))))))))
+                       (.)))

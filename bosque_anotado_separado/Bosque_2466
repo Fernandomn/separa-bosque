@@ -1,0 +1,37 @@
+(FRASE CP467-1 (STA:fcl (SUBJ:np (H:n:hospital:M_S::np-idf: Hospital))
+                        (P:vp (MV:v-fin:receber:PS_3S_IND: recebeu))
+                        (ACC:np (H:n:luz:F_S::np-idf: luz)
+                                (N<:adjp 
+                                  (H:adj:verde:F_S::: verde)))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:depositar:::icl-fin: depositar))
+                                   (ACC:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (H:n:resto:M_P::np-def: restos)
+                                     (N<ARG:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:incineração:F_S::np-def:np-partitive2: incineração))))
+                                   (OA:pp 
+                                     (H:prp:em:::: em)
+                                     (P<:np 
+                                       (H:n:aterro:M_P::np-idf: aterros)
+                                       (N<:adjp 
+                                         (H:adj:sanitário:M_P::: sanitários))
+                                       (N<:acl 
+                                         (COM:adv:como:::rel: como)
+                                         (SUBJ:np 
+                                           (H:pron-det:a:F_S::dem: a)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:prop:Lipor:F_S::: Lipor)
+                                               (,)
+                                               (N<PRED:pp 
+                                                 (H:prp:em:::: em)
+                                                 (P<:np 
+                                                   (H:prop:Ermesinde:MF_S::: Ermesinde)))))))))))))

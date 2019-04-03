@@ -1,0 +1,30 @@
+(FRASE CP2-5 (STA:fcl (SUBJ:np (H:pron-det:esse:F_S::dem: Essa))
+                      (P:vp (AUX:v-fin:poder:FUT_3S_IND: poderá)
+                            (AUX:v-inf:vir:::: vir)
+                            (PRT-AUX:prp:a:::: a)
+                            (MV:v-inf:ser:::: ser))
+                      (SC:np (>N:art:um:F_S::arti: uma)
+                             (H:n:hipótese:F_S::np-idf: hipótese))
+                      (,)
+                      (ADVL:fcl (>S:adv:até:::: até)
+                                (SUB:conj-s:porque:::: porque)
+                                (,)
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:terreno:M_S::np-def: terreno)))
+                                (,)
+                                (SUBJ:np 
+                                  (>N:art:o:F_S::artd: a)
+                                  (H:n:capacidade:F_S::np-def: capacidade)
+                                  (N<:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (H:prop:GAT:M_P::: GAT))))
+                                (P:vp (MV:v-fin:estar:PR_3S_IND::fs-cause: está))
+                                (SC:adjp 
+                                  (>A:adv:cada_vez_mais:::quant: cada_vez_mais)
+                                  (H:v-pcp:enfraquecer:F_S::: enfraquecida)))
+                      (.)))

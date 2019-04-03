@@ -1,0 +1,36 @@
+(FRASE CP281-2 (STA:fcl (FOC:advp (H:adv:é:foc: É))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:np (H:pron-indp:isso:M_S::dem: isso)))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (>N:pron-det:todo_o:M_P::quant: todos_os)
+                                        (H:n:país:M_P::anr_np-def: países)
+                                        (,)
+                                        (N<PRED:cu 
+                                          (CJT:adjp 
+                                            (H:adj:grande:M_P::: grandes))
+                                          (CO:conj-c:ou:::co-prenom: ou)
+                                          (CJT:adjp 
+                                            (H:adj:pequeno:M_P::: pequenos)))
+                                        (,)))
+                        (P:vp (MV:v-fin:existir:PR_3S_IND::: existe))
+                        (SUBJ:cu (CJT:np 
+                                   (>N:art:um:F_S::arti: uma)
+                                   (H:n:autarquia:F_S::np-idf: autarquia)
+                                   (N<:adjp 
+                                     (H:adj:territorial:F_S::: territorial)))
+                                 ({)
+                                 (CO:conj-c:ou:::: ou)
+                                 (CJT:np 
+                                   (>N:adv:mesmo:::quant: mesmo)
+                                   (>N:num:dois:F_P::card: duas))
+                                 (}))
+                        (ADVL:pp (H:prp:entre:::: entre)
+                                 (P<:cu (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:estado:M_S::np-def:prop: Estado))
+                                        (CO:conj-c:e:::co-prenom: e)
+                                        (CJT:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:município:M_P::np-def: municípios))))
+                        (.)))

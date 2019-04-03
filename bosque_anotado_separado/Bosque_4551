@@ -1,0 +1,48 @@
+(FRASE CP886-3 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:aplicação:F_S::np-def: aplicação)
+                                 (N<:pp (H:prp:a:: a+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:avião:M_P::np-def: aviões)
+                                          (N<:adjp 
+                                            (H:adj:comercial:M_P::: comerciais))
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:passageiro:M_P::np-idf: passageiros)))))
+                                 (N<ARGO:pp 
+                                   (H:prp:de:::: de+)
+                                   (P<:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (H:n:sistema:M_P::np-def: sistemas)
+                                     (N<:adjp 
+                                       (H:adj:eletrônico:M_P::: electrónicos))
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:defesa:F_S::np-idf: defesa)
+                                         (N<:adjp 
+                                           (H:adj:antimíssil:F_S::: antimíssil))))
+                                     (,)
+                                     (N<PRED:pp 
+                                       (H:prp:em:::: em)
+                                       (P<:np 
+                                         (H:n:uso:M_S::np-idf: uso)
+                                         (N<:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:aviação:F_S::np-def: aviação)
+                                             (N<:adjp 
+                                               (H:adj:militar:F_S::: militar))))))
+                                     (,))))
+                        (P:vp (AUX:v-fin:estar:PR_3S_IND::: está)
+                              (PRT-AUX:prp:a:::: a)
+                              (AUX:v-inf:ser:::: ser)
+                              (MV:v-pcp:equacionar:F_S::anr_pass:passive: equacionada))
+                        (PASS:pp (H:prp:por:::: por+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:governo:M_S::np-def: governo)
+                                        (N<:adjp 
+                                          (H:adj:norte-americano:M_S::: norte-americano))))
+                        (.)))

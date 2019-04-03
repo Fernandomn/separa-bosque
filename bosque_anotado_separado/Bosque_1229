@@ -1,0 +1,32 @@
+(FRASE CP230-5 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:jogador:M_S::np-def: jogador)
+                                 (N<:adjp 
+                                   (H:adj:russo:M_S::: russo))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Rangers:M_S::: Rangers)))
+                                 (N<:np (H:prop:Mikhailichenko:M_S::: Mikhailichenko)))
+                        (P:vp (AUX:v-fin:começar:PS_3S_IND::: começou)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:evidenciar:::: evidenciar-))
+                        (ACC:np (H:pron-pers:se:M_3S_ACC::refl: se))
+                        (ADVL:cu (CJT:pp 
+                                   (H:prp:devido_a:::: devido_a+)
+                                   (P<:np 
+                                     (>N:art:o:S::artd: a)
+                                     (H:n:frescura:F_S::np-def: frescura)))
+                                 (CO:conj-c:e:::co-advl: e)
+                                 (CJT:pp 
+                                   (H:prp:a:::: a+)
+                                   (P<:np 
+                                     (>N:art:o:S::artd: a)
+                                     (H:n:rapidez:F_S::np-def: rapidez)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (>N:pron-det:seu:M_S::: seu)
+                                         (H:n:jogo:M_S::anr_np-def: jogo))))))
+                        (.)))

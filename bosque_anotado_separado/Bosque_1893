@@ -1,0 +1,93 @@
+(FRASE CP359-4 (STA:fcl (P:vp (MV:v-fin:ser:PS_3S_IND: Foi))
+                        (ADVL:advp (H:adv:pelo_menos:::quant: pelo_menos))
+                        (SC:np (H:pron-det:esse:F_S::dem: essa))
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:n:intenção:F_S::np-def: intenção)
+                                 (N<:cu (CJT:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (>N:ec:ex-:::: ex-)
+                                            (H:n:vice-presidente:M_S::: vice-presidente)
+                                            (N<:np 
+                                              (H:prop:Aleksandr_Rutskoi:M_S::: Aleksandr_Rutskoi))))
+                                        (CO:conj-c:e:::co-postnom: e)
+                                        (CJT:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:líder:M_S::np-def: líder)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:prop:Partido_Comunista:M_S::: Partido_Comunista)))
+                                            (,)
+                                            (APP:np 
+                                              (H:prop:Guennadi_Ziuganov:M_S::: Guennadi_Ziuganov))
+                                            (,)))))
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:quando:_::ks:rel: quando))
+                                  (P:vp (MV:v-fin:convocar:PS_3P_IND::nosubj: convocaram))
+                                  (ACC:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:encontro:M_S::np-def: encontro)
+                                    (N<:fcl 
+                                      (SUBJ:np 
+                                        (H:pron-indp:que:M_S::rel: que))
+                                      (P:vp 
+                                        (AUX:v-fin:ir:PR_3S_IND::: vai)
+                                        (MV:v-inf:juntar:::fs-rel: juntar))
+                                      (,)
+                                      (ADVL:pp 
+                                        (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:centro:M_S::np-def: centro)
+                                          (N<:adjp 
+                                            (H:adj:parlamentar:M_S::: parlamentar))
+                                          (N</ADVL[-2]:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (H:prop:Moscovo:M_S::: Moscovo)))))
+                                      (,)
+                                      (ACC:cu 
+                                        (CJT:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:oposição:F_S::np-def: oposição)
+                                          (N<:adjp 
+                                            (H:adj:nacional-comunista:F_S::: nacional-comunista)))
+                                        (CO:conj-c:e:::co-acc: e)
+                                        (CJT:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:força:F_P::np-def: forças)
+                                          (N<:adjp 
+                                            (H:adj:conservador:F_P::: conservadoras))
+                                          (N<:fcl 
+                                            (SUBJ:np 
+                                              (H:pron-indp:que:F_P::rel: que))
+                                            (P:vp 
+                                              (MV:v-fin:recusar:PS_3P_IND::fs-rel: recusaram))
+                                            (ACC:icl 
+                                              (P:vp 
+                                                (MV:v-inf:assinar:::icl-subst: assinar))
+                                              (,)
+                                              (ADVL:pp 
+                                                (H:prp:em:::: em)
+                                                (P<:np 
+                                                  (H:n:abril:M_S::np-idf:prop: Abril)))
+                                              (,)
+                                              (ACC:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:pacto:M_S::np-def: pacto)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:n:paz:F_S::np-idf: paz)
+                                                    (N<:adjp 
+                                                      (H:adj:civil:F_S::: civil))))
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:prop:Ieltsin:M_S::: Ieltsin)))))))))))
+                        (.)))

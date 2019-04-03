@@ -1,0 +1,41 @@
+(FRASE CP27-2 (STA:fcl (SA:icl::pcp: (P:vp 
+                                       (MV:v-pcp:ancorar:M_S::: Ancorado))
+                                     (ADVL:pp 
+                                       (H:prp:fora_de:::: fora_de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:porto:M_S::np-def: porto)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:prop:Cádis:M_P::: Cádis)))))
+                                     (ADVL:pp 
+                                       (H:prp:durante:::: durante)
+                                       (P<:np 
+                                         (>N:pron-det:todo_o:F_S::quant: toda_a)
+                                         (H:n:noite:F_S::anr_np-def: noite))))
+                       (,)
+                       (SUBJ:np (>N:art:o:M_S::artd: o)
+                                (>N:adj:grande:M_S::: grande)
+                                (H:n:veleiro:M_S::anr_np-def: veleiro))
+                       (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                             (MV:v-pcp:tomar:M_S::anr_pass:passive: tomado))
+                       (PIV:pp (H:prp:de:::: de)
+                               (P<:np (H:n:assalto:M_S::np-idf: assalto)))
+                       (PASS:pp (H:prp:por:::: por+)
+                                (P<:np (>N:art:o:M_P::artd: os)
+                                       (>N:num:18:M_P::card: 18)
+                                       (H:n:passageiro:M_P::anr_np-count:anr_np-def: passageiros)
+                                       (N<:adjp 
+                                         (H:adj:português:M_P::: portugueses))
+                                       (N<:pp 
+                                         (H:prp:a:::: a)
+                                         (P<:icl 
+                                           (P:vp 
+                                             (MV:v-inf:cantar:::: cantar))
+                                           (ACC:np 
+                                             (H:n:fado:M_P::np-idf: fados))
+                                           (ADVL:advp 
+                                             (H:adv:até:::: até)
+                                             (A<:pp:de_madrugada:::: de_madrugada))))))
+                       (.)))

@@ -1,0 +1,34 @@
+(FRASE CP591-3 (STA:fcl (PRED:pp (>P:adv:ainda:: Ainda)
+                                 (H:prp:com:::: com)
+                                 (P<:np (H:n:tendência:F_S::np-idf: tendência)
+                                        (N<:adjp 
+                                          (H:adj:positivo:F_S::: positiva))))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:prop:Bolsa_de_Nova_Iorque:F_S::: Bolsa_de_Nova_Iorque))
+                        (P:vp (MV:v-fin:evoluir:PS_3S_IND::: evoluiu))
+                        (ADVL:pp (H:prp:de:::: de)
+                                 (P<:np (H:n:forma:F_S::np-idf: forma)
+                                        (N<:adjp 
+                                          (H:adj:hesitante:F_S::: hesitante))))
+                        (ADVL:pp (H:prp:até:::: até)
+                                 (P<:pp (H:prp:a:::: a+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (>N:num:2910:M_P::card:np-def: 2910)
+                                          (H:n:ponto:M_P::anr_np-idf: pontos))))
+                        (,)
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:dia:M_S::np-def: dia)
+                                       (N<:adjp 
+                                         (H:adj:seguinte:M_S::: seguinte))))
+                                   (P:vp 
+                                     (AUX:v-inf:voltar:::: voltar)
+                                     (PRT-AUX:prp:a:::: a)
+                                     (MV:v-inf:descer:::: descer))))
+                        (.)))

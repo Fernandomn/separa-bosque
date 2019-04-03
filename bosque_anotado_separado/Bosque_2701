@@ -1,0 +1,58 @@
+(FRASE CP516-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:lançamento:M_S::np-def: lançamento)
+                                 (N<ARGO:pp 
+                                   (H:prp:de:: de+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:projecto:M_S::np-def: projecto)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:recuperação:F_S::np-idf: recuperação)))))
+                                 (,)
+                                 (N<PRED:pp 
+                                   (H:pp:por_concurso:::: por_concurso)
+                                   (N<:np 
+                                     (H:n:público:M_S::np-idf: público))
+                                   (N<:pp 
+                                     (H:prp:entre:::: entre)
+                                     (P<:np 
+                                       (H:n:arquitecto:M_P::np-idf: arquitectos)))))
+                        (,)
+                        (P:vp (MV:v-fin:ter:FUT_3S_IND::: terá))
+                        (ACC:np (H:n:lugar:M_S::np-idf: lugar))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:julho:M_S::np-idf:prop: Julho)))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:estar:::: estando))
+                          (SC:icl::::pcp: 
+                            (P:vp (MV:v-pcp:prever:M_S::: previsto))
+                            (SUBJ:np (>N:art:o:M_S::artd: o)
+                                     (H:n:início:M_S::np-def: início)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_P::artd: as)
+                                         (H:n:obra:F_P::np-def: obras)
+                                         (,)
+                                         (N<PRED:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:orçar:F_P::: orçadas))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em)
+                                             (P<:np 
+                                               (>N:np 
+                                                 (>A:num:75:M_P::card: 75)
+                                                 (H:n:mil:M_P::card:num: mil))
+                                               (H:n:conto:M_P::anr_np-count:anr_np-def: contos)))))))
+                            (,)
+                            (ADVL:pp (H:prp:para:::: para)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Verão:M_S::: Verão)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:adjp 
+                                           (H:num:1997:M_S::card: 1997)))))))
+                        (.)))

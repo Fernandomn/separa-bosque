@@ -1,0 +1,49 @@
+(FRASE CP565-3 (STA:fcl (SUBJ:np (H:n:operador:M_P::np-idf: Operadores))
+                        (P:vp (MV:v-fin:dizer:PS_3P_IND: disseram))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:n:mercado:M_S::np-def: mercado))
+                                 (P:vp (AUX:v-fin:dever:FUT_3S_IND::: deverá)
+                                       (MV:v-inf:manter:::icl-subst: manter))
+                                 (ACC:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (>N:pron-det:mesmo:F_S::KOMP:diff: mesma)
+                                   (H:n:tendência:F_S::anr_np-def: tendência))
+                                 (ADVL:pp 
+                                   (H:prp:durante:::: durante)
+                                   (P<:np 
+                                     (>N:art:o:F_P::artd: as)
+                                     (>N:adj:próximo:F_P::: próximas)
+                                     (H:n:sessão:F_P::anr_np-def: sessões)))
+                                 (ADVL:pp 
+                                   (H:prp:devido_a:::: devido_a+)
+                                   (P<:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (>N:adj:forte:F_S::: forte)
+                                     (H:n:procura:F_S::anr_np-idf: procura)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:investidor:M_P::np-def: investidores)
+                                         (N<:cu 
+                                           (CJT:adjp 
+                                             (H:adj:doméstico:M_P::: domésticos))
+                                           (CO:conj-c:e:::co-postnom: e)
+                                           (CJT:adjp 
+                                             (H:adj:estrangeiro:M_P::: estrangeiros)))))))
+                                 (,)
+                                 (ADVL:fcl 
+                                   (ADVL:advp 
+                                     (H:adv:tal_como:::rel: tal_como))
+                                   (P:vp 
+                                     (AUX:v-fin:vir:PR_3S_IND::: vem)
+                                     (MV:v-ger:suceder:::nosubj: sucedendo))
+                                   (ADVL:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:F_P::artd: as)
+                                       (>N:adj:último:F_P::NUM-ord: últimas)
+                                       (H:n:semana:F_P::anr_np-def: semanas)))))
+                        (.)))

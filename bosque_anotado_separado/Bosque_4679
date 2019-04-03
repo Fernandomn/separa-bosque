@@ -1,0 +1,35 @@
+(FRASE CP908-1 (STA:fcl (ADVL:pp (H:prp:a_par_de:: A_par_de)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:medicamento:M_S::np-idf: medicamento)
+                                        (N<:np 
+                                          (H:n:antiacidez:F_S::DERP:np-idf: antiacidez))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:grupo:M_S::np-def: grupo))
+                        (P:vp (MV:v-fin:aconselhar:PR_3S_IND::: aconselha))
+                        (ACC:np (>N:adv:especificamente:::: especificamente)
+                                (>N:num:dois:M_P::card: dois)
+                                (H:n:antibiótico:M_P::anr_np-count:anr_np-def: antibióticos)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:pp 
+                                         (H:prp:entre:::: entre)
+                                         (P<:cu 
+                                           (CJT:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:prop:Claritromicina:F_S::: Claritromicina))
+                                           (,)
+                                           (CJT:np 
+                                             (H:prop:Metronizadol:M_S::: Metronizadol))
+                                           (CO:conj-c:e:::co-prparg: e)
+                                           (CJT:np 
+                                             (H:prop:Amoxilina:F_S::: Amoxilina)))))
+                                (,)
+                                (N<PRED:icl::::pcp: 
+                                  (P:vp (MV:v-pcp:prescrever:M_P::: prescritos))
+                                  (ADVL:pp 
+                                    (>P:adv:apenas:::: apenas)
+                                    (H:prp:durante:::: durante)
+                                    (P<:np 
+                                      (>N:num:um:F_S::card: uma)
+                                      (H:n:semana:F_S::anr_np-count:anr_np-def: semana)))))
+                        (.)))

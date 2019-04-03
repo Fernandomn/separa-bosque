@@ -1,0 +1,43 @@
+(FRASE CP314-2 (STA:fcl (SUBJ:np- (>N:pron-det:vários:M_P::quant: Vários)
+                                  (H:n:ajustamento:M_P::anr_np-idf: ajustamentos))
+                        (P:vp (AUX:v-fin:ter:PR_3P_IND: têm)
+                              (AUX:v-pcp:ser:::: sido)
+                              (MV:v-pcp:fazer:M_P::anr_pass:passive: feitos))
+                        (ADVL:pp (H:prp:ao_longo_de:::: ao_longo_de+)
+                                 (P<:np (>N:pron-det:este:F_S::dem: esta)
+                                        (H:n:maratona:F_S::np-def: maratona)))
+                        (-SUBJ:np (,)
+                                  (N<PRED:acl 
+                                    (COM:adv:como:::: como)
+                                    (ADVL:pp 
+                                      (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:prop:Bié:M_S::: Bié)
+                                        (,)
+                                        (N<PRED:fcl 
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (H:pron-indp:que:M_S::rel: que)))
+                                          (SUBJ:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:número:M_S::np-def: número)
+                                            (N<:adjp 
+                                              (H:adj:potencial:M_S::: potencial))
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:eleitor:M_P::np-idf: eleitores))))
+                                          (P:vp 
+                                            (MV:v-fin:passar:PS_3S_IND::fs-rel: passou))
+                                          (PIV:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:num:577:M_P::: 577)
+                                              (A<:pp 
+                                                (H:prp:para:::: para)
+                                                (P<:np 
+                                                  (>A:num:700:M_P::: 700)
+                                                  (H:n:mil:M_P::card:num: mil))))))))))
+                        (.)))

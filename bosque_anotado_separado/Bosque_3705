@@ -1,0 +1,101 @@
+(FRASE CP721-5 (STA:fcl (P:vp (MV:v-fin:dizer:PR_1S_COND::hyfen:nosubj: Diria-))
+                        (DAT:np (H:pron-pers:ele:M_3S_DAT::hyfen: lhe-))
+                        (ACC:fcl (SUB:conj-s:que:: que)
+                                 (SUBJ:icl 
+                                   (P:vp 
+                                     (MV:v-inf:reunir:::icl-subst: reunir))
+                                   (ADVL:advp 
+                                     (H:adv:aqui:::: aqui))
+                                   (ACC:np 
+                                     (>N:pron-det:este:F_S::dem: esta)
+                                     (>N:adj:magnífico:F_S::: magnífica)
+                                     (H:n:colecção:F_S::anr_np-def: colecção)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:adj:verdadeiro:M_P::: verdadeiros)
+                                         (H:n:fóssil:M_P::anr_np-idf: fósseis)
+                                         (,)
+                                         (N<:adjp 
+                                           (>N:pron-det:algum:M_P::quant: alguns)
+                                           (H:adj:gigantesco:M_P::anr_np-idf: gigantescos))
+                                         (,)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:terreno:M_P::np-def: terrenos)
+                                             (N<:adjp 
+                                               (H:adj:mesozóico:M_P::: mesozóicos))
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (>N:adj:velho:F_S::: velha)
+                                                 (H:prop:China:F_S::: China)))))))))
+                                 (P:vp (MV:v-fin:ser:PS_3S_IND::fs-subst: foi))
+                                 (SC:np (H:n:mérito:M_S::np-idf: mérito)
+                                        (N<:adjp 
+                                          (H:adj:exclusivo:M_S::: exclusivo))
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:pron-det:este:M_S::dem: este)
+                                            (H:prop:Museu:M_S::: Museu)
+                                            (,)
+                                            (N<PRED:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:M_S::rel: que))
+                                              (ADVL:advp 
+                                                (H:adv:não:::: não))
+                                              (P:vp 
+                                                (MV:v-fin:contar:PS_3S_IND::fs-rel: contou))
+                                              (PIV:pp 
+                                                (H:prp:com:::: com)
+                                                (P<:np 
+                                                  (>N:pron-det:qualquer:M_P::quant: quaisquer)
+                                                  (H:n:apoio:M_P::anr_np-idf: apoios)
+                                                  (N<:adjp 
+                                                    (H:adj:diplomático:M_P::: diplomáticos))))
+                                              (,)
+                                              (ADVL:pp 
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:art:um:F_S::arti: uma)
+                                                  (H:n:realização:F_S::np-idf: realização)
+                                                  (N<:fcl 
+                                                    (SUBJ:np 
+                                                      (H:pron-indp:que:F_S::rel: que))
+                                                    (P:vp 
+                                                      (AUX:v-fin:ir:PR_3S_IND::: vai)
+                                                      (MV:v-inf:fazer:::fs-rel: fazer))
+                                                    (ADVL:advp- 
+                                                      (H:adv:mais:_::KOMP:quant: mais))
+                                                    (ADVL:pp 
+                                                      (H:prp:por:::: por+)
+                                                      (P<:np 
+                                                        (>N:art:o:M_S::artd: o)
+                                                        (H:n:estreitamento:M_S::np-def: estreitamento)
+                                                        (N<ARGO:pp 
+                                                          (H:prp:de:::: de+)
+                                                          (P<:np 
+                                                            (>N:art:o:F_P::artd: as)
+                                                            (H:n:relação:F_P::np-def: relações)
+                                                            (N<ARG:pp 
+                                                              (H:prp:entre:::: entre)
+                                                              (P<:np 
+                                                                (>N:art:o:M_P::artd: os)
+                                                                (>N:num:dois:M_P::card: dois)
+                                                                (H:n:país:M_P::anr_np-count:anr_np-def: países)))))))
+                                                    (-ADVL:advp 
+                                                      (KOMP<:acl 
+                                                        (COM:conj-s:do_que:::: do_que)
+                                                        (SUBJ:np 
+                                                          (>N:pron-det:qualquer:F_P::quant: quaisquer)
+                                                          (H:pron-det:outro:F_P::KOMP:anr_np-idf:diff: outras)
+                                                          (N<:icl::::pcp: 
+                                                            (ADVL:advp 
+                                                              (H:adv:já:::: já))
+                                                            (P:vp 
+                                                              (MV:v-pcp:realizar:F_P::: realizadas))))))))))))))
+                        (.)))

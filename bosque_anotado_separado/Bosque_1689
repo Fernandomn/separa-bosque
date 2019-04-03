@@ -1,0 +1,57 @@
+(FRASE CP320-6 (STA:fcl (SUBJ:np (>N:pron-det:ambos:M_P::quant: Ambos)
+                                 (>N:art:o:M_P::artd: os)
+                                 (H:n:texto:M_P::np-def: textos))
+                        (P:vp (AUX:v-fin:ser:PS_3P_IND: foram)
+                              (MV:v-pcp:recuperar:M_P::anr_pass:passive: recuperados))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:cena:F_S::np-def: cena)))
+                        (PASS:pp- (H:prp:por:::: por+)
+                                  (P<:np- 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:companhia:F_S::np-def: companhia)
+                                    (N<:np 
+                                      (H:prop:Marionetas_de_São_Lourenço:F_P::: Marionetas_de_São_Lourenço))))
+                        ({)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:seguir:::: seguindo))
+                          (ACC:np (H:n:texto:M_P::np-idf: textos)
+                                  (N<:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      («)
+                                      (H:prop:Judeu:M_S::: Judeu)
+                                      (»)))))
+                        (})
+                        (-PASS:pp (-P:np 
+                                    (,)
+                                    (N<PRED:fcl 
+                                      (SUBJ:np 
+                                        (>N:pron-det:cujo:M_P::rel: cujos)
+                                        (H:n:fundador:M_P::anr_np-idf: fundadores))
+                                      (P:vp 
+                                        (MV:v-fin:ser:PR_3P_IND::fs-rel: são))
+                                      (ADVL:advp 
+                                        (H:adv:também:::: também))
+                                      (SC:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:n-adj:responsável:M_P::np-def: responsáveis)
+                                        (A<:pp 
+                                          (H:prp:por:::: por+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:constituição:F_S::np-def: constituição)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:museu:M_S::np-def:prop: Museu)))))
+                                        (--)
+                                        (APP:cu 
+                                          (CJT:np 
+                                            (H:prop:Helena_Vaz:F_S::: Helena_Vaz))
+                                          (CO:conj-c:e:::co-app: e)
+                                          (CJT:np 
+                                            (H:prop:José_Gil:M_S::: José_Gil)))))))
+                        (.)))

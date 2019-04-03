@@ -1,0 +1,39 @@
+(FRASE CP752-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:prop:FTP:M_S: FTP))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:np (>N:art:um:F_S::arti: uma)
+                               (H:n:forma:F_S::np-idf: forma)
+                               (N<:adjp (H:adj:especial:F_S::: especial))
+                               (N<:pp (H:prp:de:::: de)
+                                      (P<:icl 
+                                        (P:vp 
+                                          (MV:v-inf:fazer:::: fazer))
+                                        (ACC:np 
+                                          («)
+                                          (H:n:login:M_S::anr_np-idf: login)
+                                          (»)
+                                          (N<:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:pron-det:outro:M_S::diff: outro)
+                                              (H:n:local:M_S::anr_np-idf: local)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:prop:Internet:F_S::: Internet))))))
+                                        (ADVL:pp 
+                                          (H:prp:com:::: com)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:objectivo:M_S::np-def: objectivo)
+                                            (N<ARGO:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:icl 
+                                                (P:cu 
+                                                  (CJT:v-inf:carregar:::: carregar)
+                                                  (CO:conj-c:ou:::co-inf: ou)
+                                                  (CJT:v-inf:enviar:::: enviar))
+                                                (ACC:np 
+                                                  (H:n:ficheiro:M_P::np-idf: ficheiros)))))))))
+                        (.)))

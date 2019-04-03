@@ -1,0 +1,38 @@
+(FRASE CP34-8 (STA:fcl («)
+                       (SUBJ:np (>N:art:o:M_S::artd: O)
+                                (>N:adj:único:M_S: único)
+                                (H:n:trabalho:M_S::anr_np-def: trabalho)
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:P::artd: as)
+                                         (H:n:pessoa:F_P::np-def: pessoas))))
+                       (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                       (SC:cu (CJT:icl (P:vp 
+                                         (MV:v-inf:separar:::: separar))
+                                       (ACC:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:lixo:M_S::np-def: lixo)))
+                              (CO:conj-c:e:::co-inf: e)
+                              (CJT:icl (P:vp 
+                                         (MV:v-inf:colocar:::: colocar))
+                                       (ADVL:pp 
+                                         (H:prp:em:::: em+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:n:dia:M_P::np-def: dias)
+                                           (N<:adjp 
+                                             (H:adj:certo:M_P::: certos))))
+                                       (ACC:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:cu 
+                                           (CJT:np 
+                                             (H:n:contentor:M_P::anr_np-def: contentores))
+                                           (CO:conj-c:e:::co-acc: e)
+                                           (CJT:np 
+                                             (H:n:cesto:M_P::np-idf: cestos)))
+                                         (N<:pp 
+                                           (H:prp:para:::: para)
+                                           (P<:vp 
+                                             (AUX:v-inf:ser:3P::: serem)
+                                             (MV:v-pcp:recolher:M_P::icl-fin: recolhidos))))))
+                       (.)))

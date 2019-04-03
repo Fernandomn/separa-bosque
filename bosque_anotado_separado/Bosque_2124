@@ -1,0 +1,40 @@
+(FRASE CP408-1 (STA:fcl (PRED:icl (P:vp (MV:v-pcp:contactar:M_S: Contactado))
+                                  (PASS:pp 
+                                    (H:prp:por:::: por+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:prop:Público:M_S::: PÚBLICO)))
+                                  (,))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:médico:M_S::np-def: médico))
+                        (P:vp (MV:v-fin:confirmar:PR_3S_IND::: confirma))
+                        (ACC:icl (P:vp (AUX:v-inf:ter:::: ter)
+                                       (MV:v-pcp:entregar:::icl-subst: entregue))
+                                 (ACC:np 
+                                   (>N:art:o:M_P::artd: os)
+                                   (H:n:medicamento:M_P::np-def: medicamentos))
+                                 («)
+                                 (PIV:pp 
+                                   (H:prp:a:::: a)
+                                   (P<:np 
+                                     (>N:art:um:M_S::arti: um)
+                                     (H:n:senhor:M_S::np-idf: senhor)
+                                     (N<:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:M_S::rel: que))
+                                       (ADVL:advp 
+                                         (H:adv:se_calhar:::: se_calhar))
+                                       (X:cu 
+                                         (CJT:v-fin:facilitar:PS_3S_IND::: facilitou)
+                                         (CO:conj-c:e:::co-vfin: e)
+                                         (CJT:x::::predicate: 
+                                           (P:vp 
+                                             (MV:v-fin:despejar:PS_3S_IND::nosubj: despejou))
+                                           ([)
+                                           (ACC:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:lixo:M_S::np-def: lixo))
+                                           (])
+                                           (ADVL:pp:de_qualquer_maneira:::: de_qualquer_maneira))))))
+                                 (»))
+                        (.)))

@@ -1,0 +1,26 @@
+(FRASE CP35-5 (STA:fcl (SUBJ:np- (>N:pron-det:algum:M_P::quant: Alguns)
+                                 (H:n:especialista:M_P::anr_np-idf: especialistas))
+                       (P:vp (MV:v-fin:defender:PR_3P_IND: defendem))
+                       (ACC:fcl (SUB:conj-s:que:::: que)
+                                (SUBJ:np 
+                                  (>N:art:o:M_S::artd: o)
+                                  (H:n:estado:M_S::np-def:prop: Estado)
+                                  (N<:adjp 
+                                    (H:adj:judaico:M_S::: judaico)))
+                                (P:vp (AUX:v-fin:dever:FUT_3S_IND::: deverá)
+                                      (MV:v-inf:privilegiar:::icl-subst: privilegiar))
+                                (ACC:np (>N:art:o:F_P::artd: as)
+                                        (H:n:relação:F_P::np-def: relações)
+                                        (N<:adjp 
+                                          (H:adj:económico:F_P::: económicas))
+                                        (N<ARGO:pp 
+                                          (H:prp:com:::: com)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:ocidente:M_S::np-def:prop: Ocidente)))))
+                       (-SUBJ:np (,)
+                                 (N<:pp (H:prp:ao_contrário_de:::: ao_contrário_de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n-adj:palestiniano:M_P::np-def: palestinianos))))
+                       (;)))

@@ -1,0 +1,61 @@
+(FRASE CP6-1 (STA:fcl (ADVL:pp (H:prp:a:: A)
+                               (P<:advp (>N:adjp 
+                                          (>A:advp 
+                                            (>A:pron-det:pouco:::quant: pouco)
+                                            (H:adv:mais_de:::quant: mais_de))
+                                          (H:num:um:M_S::card: um))
+                                        (H:n:mê:M_S::anr_np-count:anr_np-def: mês)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:lançamento:M_S::np-def: lançamento)
+                                            (N<:adjp 
+                                              (H:adj:nacional:M_S::: nacional))
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:prop:Rendimento_Mínimo_Garantido:M_S::: Rendimento_Mínimo_Garantido)
+                                                ({)
+                                                (APP:np 
+                                                  (H:prop:RMG:M_S::: RMG))
+                                                (})))))))
+                      (,)
+                      (SUBJ:np (>N:art:o:M_S::artd: o)
+                               (H:n:número:M_S::np-def: número)
+                               (N<:pp (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:família:F_P::np-idf: famílias)
+                                        (N<:icl::::pcp: 
+                                          (ADVL:advp 
+                                            (H:adv:já:::: já))
+                                          (P:vp 
+                                            (MV:v-pcp:abranger:F_P::: abrangidas))
+                                          (PASS:pp 
+                                            (H:prp:por:::: por+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:projectos-piloto:M_P::np-def: projectos-piloto)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:pron-det:este:M_S::dem: este)
+                                                  (H:n:programa:M_S::np-def: programa)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (H:n:apoio:M_S::np-idf: apoio)
+                                                      (N<ARGO:pp 
+                                                        (H:prp:a:::: a+)
+                                                        (P<:np 
+                                                          (>N:art:o:M_P::artd: os)
+                                                          (H:n-adj:agregado:M_P::np-def: agregados)
+                                                          (N<:adjp 
+                                                            (>A:adv:mais:::quant: mais)
+                                                            (H:v-pcp:desfavorecer:M_P::: desfavorecidos))))))))))))))
+                      (ADVL:advp (H:adv:não:::: não))
+                      (P:vp (AUX:v-fin:parar:PR_3S_IND::: pára)
+                            (PRT-AUX:prp:de:::: de)
+                            (MV:v-inf:aumentar:::: aumentar))
+                      (.)))

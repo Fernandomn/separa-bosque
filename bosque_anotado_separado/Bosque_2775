@@ -1,0 +1,21 @@
+(FRASE CP530-6 (STA:fcl (ADVL:pp (H:prp:em_termos_de:: Em_termos_de)
+                                 (P<:np (H:n:total:M_P::np-idf: totais)))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:prop:Bolsa_de_Lisboa:F_S::: Bolsa_de_Lisboa)))
+                        (P:vp (MV:v-fin:intermediar:PS_3P_IND::hyfen:se-passive: intermediaram-))
+                        (ACC-PASS:np (H:pron-pers:se:M_3P_ACC::: se))
+                        (SUBJ:np (>N:num:10,592:M_P::card: 10,592)
+                                 (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                 (N<ARG:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:np 
+                                     (H:n:conto:M_P::np-dequant:np-idf: contos)))
+                                 (,)
+                                 (N<PRED:np 
+                                   (>N:adjp 
+                                     (>A:adv:mais:::quant: mais)
+                                     (H:num:258,62:M_P::card: 258,62))
+                                   (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))
+                        (.)))

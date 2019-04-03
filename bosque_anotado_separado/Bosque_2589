@@ -1,0 +1,53 @@
+(FRASE CP493-7 (STA:fcl (ADVL:fcl (SUB:conj-s:como:: Como)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:vírus:M_S::np-def: vírus))
+                                  (P:vp (MV:v-fin:ter:PR_3S_IND::fs-cause: tem))
+                                  (ACC:np 
+                                    (>N:art:um:F_S::arti: uma)
+                                    (H:n:propensão:F_S::np-idf: propensão)
+                                    (N<:pp 
+                                      (H:prp:para:::: para)
+                                      (P<:icl 
+                                        (P:vp 
+                                          (MV:v-inf:infectar:::: infectar))
+                                        (ACC:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:célula:F_P::np-def: células)
+                                          (N<:adjp 
+                                            (H:adj:humano:F_P::: humanas)))))))
+                        (,)
+                        (P:vp (MV:v-fin:conseguir:PR_3S_IND::nosubj: consegue))
+                        (ADVL:pp:em_princípio:::: em_princípio)
+                        (ACC:icl (P:vp (MV:v-inf:fazer:::icl-subst: fazer))
+                                 (ACC:icl 
+                                   (P:vp 
+                                     (MV:v-inf:penetrar:::icl-subst: penetrar))
+                                   (ACC:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:gene:M_S::np-def: gene))
+                                   (OA:pp 
+                                     (H:prp:dentro_de:::: dentro_de+)
+                                     (P<:np 
+                                       (>N:art:o:F_P::artd: as)
+                                       (H:n:célula:F_P::anr_np-idf: células)
+                                       (N<:adjp 
+                                         (H:adj:canceroso:F_P::: cancerosas))))))
+                        (,)
+                        (PRED:icl::::ger: 
+                          (P:vp (MV:v-ger:servir:::: servindo))
+                          (SC:pp (H:prp:de:::: de)
+                                 («)
+                                 (P<:np (H:n:cavalo:M_S::np-idf: cavalo)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:prop:Tróia:M_S::: Tróia))))
+                                 (»))
+                          (PIV:pp (H:prp:a:::: a+)
+                                  (P<:np 
+                                    (>N:art:o:M_P::artd: os)
+                                    (H:n:gene:M_P::np-def: genes)
+                                    (N<:np 
+                                      (H:n:p53:M_S::np-idf: p53)))))
+                        (.)))

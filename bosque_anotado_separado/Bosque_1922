@@ -1,0 +1,43 @@
+(FRASE CP367-1 (STA:fcl (CO:conj-c:e:: E)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (>N:adj:mau:M_S::: mau)
+                                 (H:n:exemplo:M_S::anr_np-def: exemplo)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:prop:Estados_Unidos:M_P::: Estados_Unidos))))
+                        (P:vp (MV:v-fin:impedir:PR_3S_IND::: impede))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (>N:adj:grande:F_S::KOMP: maior)
+                                   (H:n:potência:F_S::anr_np-def: potência)
+                                   (N<:adjp 
+                                     (H:adj:militar:F_S::: militar)))
+                                 (P:vp (AUX:v-fin:poder:PR_3S_SUBJ::: possa)
+                                       (MV:v-inf:herdar:::icl-subst: herdar))
+                                 (ACC:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:tarefa:F_S::np-def: tarefa)
+                                   (N<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (MV:v-inf:controlar:::: controlar))
+                                       (ACC:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:conflito:M_P::np-def: conflitos)
+                                         (N<:fcl 
+                                           (SUBJ:np 
+                                             (H:pron-indp:que:M_P::rel: que))
+                                           (X:cu 
+                                             (CJT:v-fin:persistir:PR_3P_IND::fs-rel: persistem)
+                                             (CO:conj-c:ou:::co-vfin: ou)
+                                             (CJT:x::::predicate: 
+                                               (P:vp 
+                                                 (MV:v-fin:estar:PR_3P_SUBJ::fs-rel: estejam))
+                                               (SA:pp 
+                                                 (H:prp:a:::: a)
+                                                 (P<:np 
+                                                   (H:n:caminho:M_S::np-idf: caminho)))))))))))
+                        (.)))

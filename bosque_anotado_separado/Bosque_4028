@@ -1,0 +1,31 @@
+(FRASE CP784-8 (UTT:np (H:n:exemplo:M_S::np-idf: Exemplo)
+                       (;)
+                       (N<PRED:np (H:n:hemoperitoneu:M_S::DERP:np-idf: hemoperitoneu)
+                                  (N<:pp 
+                                    (H:prp:devido_a:: devido_a)
+                                    (P<:np 
+                                      (H:n:hemorragia:F_S::np-idf: hemorragia)
+                                      (N<:adjp 
+                                        (>A:ec:intra-:::: intra-)
+                                        (H:adj:abdominal:F_S::: abdominal))
+                                      (N<:adjp 
+                                        (H:adj:contínuo:F_S::: contínua))
+                                      ([)
+                                      (APP:np 
+                                        (H:n:lesão:F_S::np-idf: lesão)
+                                        (N<:pp 
+                                          (H:prp:dentro_de:::: dentro_de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:cavidade:F_S::anr_np-idf: cavidade)
+                                            (N<:adjp 
+                                              (H:adj:abdominal:F_S::: abdominal))))
+                                        (N<:pp 
+                                          (H:prp:a:::: a)
+                                          (P<:icl 
+                                            (P:vp 
+                                              (MV:v-inf:sangrar:::: sangrar))
+                                            (ADVL:advp 
+                                              (H:adv:continuamente:::: continuamente)))))
+                                      (]))))
+                       (.)))

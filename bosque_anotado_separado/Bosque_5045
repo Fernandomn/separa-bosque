@@ -1,0 +1,39 @@
+(FRASE CP981-2 (QUE:cu («)
+                       (CJT:fcl (SUBJ:np 
+                                  (H:pron-pers:ele:M_3P_NOM: Eles))
+                                ([)
+                                (APP:cu (CJT:np 
+                                          (H:prop:Hillary:F_S::: Hillary))
+                                        (CO:conj-c:e:::co-app: e)
+                                        (CJT:np 
+                                          (H:prop:Bill_Clinton:M_S::: Bill_Clinton)))
+                                (])
+                                (P:vp (AUX:v-fin:poder:PR_3P_IND::: podem)
+                                      (MV:v-inf:ter:::: ter))
+                                (ACC:np (>N:pron-det:algum:F_S::quant: alguma)
+                                        (H:n:espécie:F_S::anr_np-idf: espécie)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:acordo:M_S::np-idf: acordo)))))
+                       (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                       (CJT:fcl (SC:np (H:pron-indp:quem:MF_P::interr: quem))
+                                (P:vp (MV:v-fin:ser:PR_1P_IND::: somos))
+                                (SUBJ:np 
+                                  (H:pron-pers:nós:MF_1P_NOM::: nós))
+                                (ADVL:pp 
+                                  (H:prp:para:::: para)
+                                  (P<:icl 
+                                    (P:vp 
+                                      (MV:v-inf:dizer:::icl-fin: dizer))
+                                    (ACC:fcl 
+                                      (SUB:conj-s:se:::: se)
+                                      (P:vp 
+                                        (MV:v-fin:ser:PR_3S_IND::fs-subst:nosubj: é))
+                                      (SC:cu 
+                                        (CJT:adjp 
+                                          (H:adj:bom:M_S::: bom))
+                                        (CO:conj-c:ou:::co-sc: ou)
+                                        (CJT:adjp 
+                                          (H:adj:mau:M_S::: mau)))))))
+                       (?)))

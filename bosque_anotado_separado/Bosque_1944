@@ -1,0 +1,49 @@
+(FRASE CP372-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:processo:M_S::np-def: processo)
+                                 (N<:pp (H:prp:de:: de)
+                                        (P<:np 
+                                          (H:n:execução:F_S::np-idf: execução)
+                                          (N<:adjp 
+                                            (H:adj:fiscal:F_S::: fiscal)))))
+                        (P:vp- (AUX:v-fin:ir:PR_3S_IND::: vai)
+                               (AUX:v-inf:passar:::: passar)
+                               (PRT-AUX:prp:a:::: a)
+                               (AUX:v-inf:ser:::: ser))
+                        (ADVL:advp (H:adv:exclusivamente:::: exclusivamente))
+                        (-P:vp (MV:v-pcp:aplicar:M_S::anr_pass:passive: aplicado))
+                        (PIV:pp (H:prp:em:::: em+)
+                                (P<:np (>N:art:o:F_S::artd: a)
+                                       (H:n:cobrança:F_S::np-def: cobrança)
+                                       (N<ARGO:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:dívida:F_P::np-idf: dívidas)
+                                           (N<:pp 
+                                             (H:prp:a:::: a+)
+                                             (P<:cu 
+                                               (CJT:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:estado:M_S::np-def:prop: Estado))
+                                               (CO:conj-c:e:::co-postnom: e)
+                                               (CJT:pp 
+                                                 (H:prp:a:::: a)
+                                                 (P<:np 
+                                                   (>N:pron-det:outro:F_P::KOMP:diff: outras)
+                                                   (H:n:pessoa:F_P::anr_np-idf: pessoas)
+                                                   (N<:pp:de_direito:::: de_direito)
+                                                   (N<:adjp 
+                                                     (H:adj:público:M_S::: público))))))))))
+                        (,)
+                        (ADVL:advp (H:adv:de_acordo:::: de_acordo)
+                                   (A<:pp 
+                                     (H:prp:com:::: com)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:decreto-lei:M_S::np-def: decreto-lei)
+                                       (N<:adjp 
+                                         (H:num:241/93:M_S::card: 241/93))
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:adjp 
+                                           (H:num:8/7/93:M_S::card: 8/7/93))))))
+                        (.)))

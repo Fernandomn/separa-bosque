@@ -1,0 +1,56 @@
+(FRASE CP366-3 (STA:fcl (P:vp (MV:v-fin:ser:PR_3P_IND::nosubj: São))
+                        (SC:cu (CJT:np (H:n:notícia:F_P::np-idf: notícias)
+                                       (N<:pp 
+                                         (H:prp:de:: de)
+                                         (P<:np 
+                                           (H:n:penhora:F_P::np-idf: penhoras)
+                                           (,)
+                                           (N<PRED:pp 
+                                             (H:prp:por:::: por+)
+                                             (P<:np 
+                                               (>N:art:o:M_P::artd: os)
+                                               (H:n:tribunal:M_P::np-def: tribunais)))
+                                           (,))))
+                               (CJT:np (H:n:execução:F_P::np-idf: execuções)
+                                       (N<:adjp 
+                                         (H:adj:fiscal:F_P::: fiscais)))
+                               (,)
+                               (CJT:np (H:n:monte:M_P::np-idf: montes)
+                                       (N<ARG:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:dívida:F_P::np-dequant:np-idf: dívidas)
+                                           (N<:cu 
+                                             (CJT:pp 
+                                               (H:prp:a:::: a+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:n:banca:F_S::np-def: banca)))
+                                             (CO:conj-c:e:::co-postnom: e)
+                                             (CJT:pp 
+                                               (H:prp:a:::: a+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:prop:Segurança_Social:F_S::: Segurança_Social)))))))
+                               (,)
+                               (CJT:np (H:n:esbanjamento:M_S::np-idf: esbanjamento)
+                                       (N<ARGO:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (>N:pron-det:vários:M_P::quant: vários)
+                                           (H:n:milhão:M_P::anr_np-idf:card:num: milhões)))
+                                       (N<:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (H:n:negócio:M_P::np-idf: negócios)
+                                           (N<:adjp 
+                                             (>A:adv:pouco:::quant: pouco)
+                                             (H:adj:claro:M_P::: claros))
+                                           (N<:pp 
+                                             (H:prp:com:::: com)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:prop:Real_Companhia_Velha:F_S::: Real_Companhia_Velha)))))))
+                        (,)
+                        (ADVL:advp (H:adv:etc.:M_S::: etc.))
+                        (ADVL:advp (H:adv:etc.:M_S::: etc.))))

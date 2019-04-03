@@ -1,0 +1,62 @@
+(FRASE CP566-9 (STA:fcl (SUBJ:np (H:pron-indp:quem:M_S::rel: Quem))
+                        (P:vp (AUX:v-fin:ser:PR_3S_IND: é)
+                              (MV:v-pcp:ver:M_S::anr_pass:passive: visto))
+                        (,)
+                        (ADVL:advp (H:adv:mais:_::KOMP:quant: mais)
+                                   (KOMP<:fcl 
+                                     (COM:conj-s:do_que:::: do_que)
+                                     (P:vp 
+                                       (MV:v-fin:ser:PR_3S_COND::nosubj: seria))
+                                     (SC:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:v-inf:esperar:::: esperar))))
+                        (,)
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:np (>N:art:o:F_S::artd: a)
+                               (H:n:saga:F_S::np-def: saga)
+                               (N<:adjp (H:adj:erótico-comemorativo:F_S::: erótico-comemorativa))
+                               (N<:pp (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (>N:num:vinte:M_P::card: vinte)
+                                        (H:n:ano:M_P::anr_np-count:anr_np-def: anos)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:prop:Playboy:F_S::: Playboy)))))
+                               (,)
+                               (N<PRED:fcl 
+                                 (SUBJ:np 
+                                   (H:pron-indp:que:F_S::rel: que))
+                                 (P:vp (MV:v-fin:conseguir:PR_3S_IND::fs-rel: consegue))
+                                 (ACC:icl 
+                                   (P:vp 
+                                     (MV:v-inf:agüentar:_::hyfen:icl-subst: aguentar-))
+                                   (ACC:np 
+                                     (H:pron-pers:se:F_3S_ACC::: se))
+                                   (OA:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Top_20:M_S::: Top_20)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:prop:SIC:F_S::: SIC)))))
+                                   (ADVL:pp 
+                                     (H:prp:com:::: com)
+                                     (P<:adjp 
+                                       (H:num:5,1:MF_P::card: 5,1)
+                                       ({)
+                                       (A<:advp 
+                                         (>A:adv:quase:::quant: quase)
+                                         (H:adv:tanto:_::KOMP:quant: tanto)
+                                         (KOMP<:acl 
+                                           (COM:adv:como:::rel: como)
+                                           (SUBJ:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:n:volta:F_S::np-def: volta))))
+                                       (...)
+                                       (}))))))))

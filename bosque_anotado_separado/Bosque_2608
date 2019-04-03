@@ -1,0 +1,42 @@
+(FRASE CP496-5 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:exposição:F_S::np-def: exposição)
+                                 (--)
+                                 (N<PRED:icl::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:formar:F_S::: formada))
+                                   (PASS:pp 
+                                     (>P:adv:sobretudo:::: sobretudo)
+                                     (H:prp:por:::: por)
+                                     (P<:np 
+                                       (H:n:objecto:M_P::np-idf: objectos)
+                                       (N<:adjp 
+                                         (H:adj:proveniente:M_P::: provenientes)
+                                         (A<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:colecção:F_P::np-idf: colecções)
+                                             (N<:adjp 
+                                               (H:adj:particular:F_P::: particulares))))))))
+                                 (--))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:iniciar:PR_3S_IND::hyfen: inicia-))
+                                (ACC:np (H:pron-pers:se:F_3S_ACC::refl: se))
+                                (ADVL:advp 
+                                  (H:adv:cronologicamente:::: cronologicamente))
+                                (SA:pp (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:século:M_S::np-def: século)
+                                         (N<:adjp 
+                                           (H:adj:XVII:M_S::NUM-ord: XVII)))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:vir:PR_3S_IND::nosubj: vem))
+                                (SA:pp (H:prp:até:::: até)
+                                       (P<:pp 
+                                         (H:prp:a:::: a+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (>N:pron-det:nosso:M_P::: nossos)
+                                           (H:n:dia:M_P::anr_np-def: dias))))))
+                        (.)))

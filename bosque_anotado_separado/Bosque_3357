@@ -1,0 +1,26 @@
+(FRASE CP645-5 (UTT:np (H:n:problema:M_P::np-idf: Problemas)
+                       (N<:fcl (ACC:np (H:pron-indp:que:M_P::rel: que))
+                               (,)
+                               (ADVL:pp (H:pp:de_acordo:: de_acordo)
+                                        (N<:pp 
+                                          (H:prp:com:::: com)
+                                          (P<:np 
+                                            (H:prop:Carlos_Noysan:M_S::: Carlos_Noysan))))
+                               (,)
+                               (SUBJ:cu (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Instituto_de_Acção_Social:M_S::: Instituto_de_Acção_Social))
+                                        (CO:conj-c:e:::co-subj: e)
+                                        (CJT:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:prop:Centro_de_Prestações_Pecuniárias:M_S::: Centro_de_Prestações_Pecuniárias)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:prop:Segurança_Social:F_S::: Segurança_Social)))))
+                               (P:vp (AUX:v-fin:ter:PR_3P_IND::: têm)
+                                     (MV:v-pcp:procurar:::fs-rel: procurado))
+                               (ACC:icl (P:vp 
+                                          (MV:v-inf:solucionar:::icl-subst: solucionar))))
+                       (.)))

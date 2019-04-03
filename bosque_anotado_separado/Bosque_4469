@@ -1,0 +1,42 @@
+(FRASE CP872-4 (STA:fcl (ADVL:pp (H:prp:após:: Após)
+                                 (P<:np (>N:pron-det:algum:M_S::quant: algum)
+                                        (H:n:treino:M_S::anr_np-idf: treino)))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:comando:M_P::np-def: comandos))
+                        (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                        (SC:adjp (H:adj:fácil:M_P::: fáceis)
+                                 (A<arg:pp 
+                                   (H:prp:de:::: de)
+                                   (P<:v-inf:manejar:::: manejar)))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:permitir:::: permitindo))
+                          (PIV:pp (H:prp:a:::: a+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:jogador:M_S::np-def: jogador)))
+                          (ACC:cu (CJT:icl 
+                                    (P:vp 
+                                      (MV:v-inf:executar:3S::: executar))
+                                    (ACC:np 
+                                      (H:n:pirueta:F_P::np-idf: piruetas)))
+                                  (CO:conj-c:ou:::co-inf: ou)
+                                  (CJT:icl 
+                                    (P:vp 
+                                      (MV:v-inf:utilizar:::: utilizar))
+                                    (ACC:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:propulsor:M_S::np-def: propulsor))
+                                    (ADVL:pp 
+                                      (H:prp:para:::: para)
+                                      (P<:icl 
+                                        (P:vp 
+                                          (MV:v-inf:acelerar:::icl-fin: acelerar))
+                                        (ADVL:advp 
+                                          (H:adv:momentaneamente:::: momentaneamente))
+                                        (ACC:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (>N:pron-det:seu:F_S::si: sua)
+                                          (H:n:nave:F_S::anr_np-def: nave)))))))
+                        (.)))

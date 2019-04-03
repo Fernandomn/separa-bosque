@@ -1,0 +1,28 @@
+(FRASE CP332-1 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (>N:pron-det:nosso:F_S: nossa)
+                                 (H:v-pcp:participar:F_S::n: participada)
+                                 (N<:np (H:prop:A._de_Matos:F_S::: A._DE_MATOS)))
+                        (P:vp (MV:v-fin:atingir:PS_3S_IND::: atingiu))
+                        (ACC:np (>N:art:um:F_S::arti: uma)
+                                (H:n:facturação:F_S::np-idf: facturação)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:adjp 
+                                           (>A:adv:cerca_de:::: cerca_de)
+                                           (H:num:1.150.000:M_P::card: 1.150.000))
+                                         (H:n:conto:M_P::anr_np-count:anr_np-def: contos)
+                                         (,)
+                                         (N<PRED:np 
+                                           (>N:adv:mais:_::KOMP:quant: mais)
+                                           (>N:num:48:M_P::card: 48)
+                                           (H:n:%:M_P::anr_np-count:anr_np-def: %)
+                                           (KOMP<:acl 
+                                             (COM:conj-s:do_que:::: do_que)
+                                             (ADVL:pp 
+                                               (H:prp:em:::: em+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:ano:M_S::np-def: ano)
+                                                 (N<:adjp 
+                                                   (H:adj:anterior:M_S::: anterior)))))))))
+                        (.)))

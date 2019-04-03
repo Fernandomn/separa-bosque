@@ -1,0 +1,66 @@
+(FRASE CP221-1 (STA:fcl (SUBJ:np (>N:art:um:M_S::arti: Um)
+                                 (H:n:quarteto:M_S::np-idf: quarteto)
+                                 (N<:icl::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:formar:M_S::: formado))
+                                   (PASS:pp 
+                                     (H:prp:por:::: por)
+                                     (P<:cu 
+                                       (CJT:np 
+                                         (H:prop:Bob_Mover:M_S::: Bob_Mover)
+                                         ({)
+                                         (N<PRED:cu 
+                                           (CJT:np 
+                                             (H:n:sax:M_S::np-idf: sax)
+                                             (N<:adjp 
+                                               (H:adj:alto:M_S::: alto)))
+                                           (CO:conj-c:e:::co-pred: e)
+                                           (CJT:np 
+                                             (H:n:voz:F_S::np-idf: voz)))
+                                         (}))
+                                       (,)
+                                       (CJT:np 
+                                         (H:prop:Carlo_Morena:M_S::: Carlo_Morena)
+                                         ({)
+                                         (N<PRED:np 
+                                           (H:n:piano:M_S::np-idf: piano))
+                                         (}))
+                                       (,)
+                                       (CJT:np 
+                                         (H:prop:Pedro_Gonçalves:M_S::: Pedro_Gonçalves)
+                                         ({)
+                                         (N<PRED:np 
+                                           (H:n:contrabaixo:M_S::np-idf: contrabaixo))
+                                         (}))
+                                       (CO:conj-c:e:::co-prparg: e)
+                                       (CJT:np 
+                                         (H:prop:João_Silvestre:M_S::: João_Silvestre)
+                                         ({)
+                                         (N<PRED:np 
+                                           (H:n:bateria:F_S::np-idf: bateria))
+                                         (}))))))
+                        (P:vp (MV:v-fin:actuar:PR_3S_IND::: actua))
+                        (ADVL:pp (H:prp:a_partir_de:::: a_partir_de+)
+                                 (P<:np (>N:art:o:P::artd: as)
+                                        (H:n:23h:F_P::np-def: 23h)))
+                        (,)
+                        (SA:pp (H:prp-:em:::: em+)
+                               (P<:np- (>N:art:o:S::artd: a)
+                                       (H:n:catedral:F_S::np-def: catedral)
+                                       (N<:adjp 
+                                         (H:adj:lisboeta:F_S::: lisboeta))
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:jazz:M_S::np-def: jazz)))
+                                       (;))
+                               (-H:prp:em:::: em+)
+                               (-P<:np (APP:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:prop:Hot_Clube:M_S::: Hot_Clube)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:prop:Portugal:M_S::: Portugal))))))
+                        (.)))

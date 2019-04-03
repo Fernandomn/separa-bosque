@@ -1,0 +1,43 @@
+(FRASE CP550-2 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:portal:M_S::np-def: portal)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:prop:Quinta_do_Castro:F_S::: Quinta_do_Castro)))
+                                 (,)
+                                 (APP:np::::Eg: 
+                                   (>N:art:o:M_S::artd: o)
+                                   (H:adj:único:M_S::Eg:np-def: único)
+                                   (N<:fcl 
+                                     (SUBJ:adjp 
+                                       (H:pron-indp:que:M_S::rel: que))
+                                     (P:vp 
+                                       (MV:v-fin:restar:PR_3S_IND::fs-rel: resta))
+                                     (ADVL:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np::::Eg: 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:num:dois:M_P::Eg:card:np-def: dois)
+                                         (N<:fcl 
+                                           (SUBJ:np 
+                                             (H:pron-indp:que:M_P::rel: que))
+                                           (ADVL:advp 
+                                             (H:adv:já:::: já))
+                                           (P:vp 
+                                             (MV:v-fin:existir:PS_3P_IND::fs-rel: existiram)))))))
+                                 (,))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:estar:PR_3S_IND::: está))
+                                (SC:adjp 
+                                  (>A:adv:acentuadamente:::: acentuadamente)
+                                  (H:v-pcp:inclinar:M_S::: inclinado)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (AUX:v-fin:poder:PR_3S_IND::: pode)
+                                      (MV:v-inf:cair:::nosubj: cair))
+                                (ADVL:pp 
+                                  (H:prp:a:::: a)
+                                  (P<:np 
+                                    (>N:pron-det:qualquer:M_S::quant: qualquer)
+                                    (H:n:momento:M_S::anr_np-idf: momento)))))
+                        (.)))

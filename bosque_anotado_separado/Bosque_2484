@@ -1,0 +1,32 @@
+(FRASE CP469-4 (STA:fcl (FOC:advp (H:adv:é_que:foc: É_que))
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:professor:M_P::np-def: professores)
+                                 (N<:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:colocar:M_P::: colocados))
+                                   (SA:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Colégio_do_Mondego:M_S::: Colégio_do_Mondego)))))
+                        (P:vp (MV:v-fin:pertencer:PR_3P_IND::: pertencem))
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:F_S::artd: a)
+                                       (H:prop:escola_básica_do_2º_e_3º_ciclo_de_Santa_Clara:F_S::: escola_básica_do_2º_e_3º_ciclo_de_Santa_Clara)
+                                       (,)
+                                       (N<PRED:pp 
+                                         (H:prp:em:::: em+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:prop:Guarda:F_S::: Guarda)))
+                                       (,)
+                                       (N<PRED:np 
+                                         (H:n:instituição:F_S::np-idf: instituição)
+                                         (N<:fcl 
+                                           (ADVL:pp 
+                                             (H:prp:para:::: para)
+                                             (P<:np 
+                                               (H:pron-indp:o_qual:F_S::rel: a_qual)))
+                                           (P:vp 
+                                             (MV:v-fin:concorrer:PR_3P_IND::fs-rel:nosubj: concorrem))))))
+                        (.)))

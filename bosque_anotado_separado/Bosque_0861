@@ -1,0 +1,55 @@
+(FRASE CP163-3 (STA:fcl (SUBJ:np (>N:adv:também:: Também)
+                                 (H:prop:Armindo_Cordeiro:M_S::: Armindo_Cordeiro))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:adjp (H:adj:peremptório:M_S::: peremptório))
+                        (ADVL:pp (H:prp:a:::: a+)
+                                 (P<:icl 
+                                   (>N:art:o:M_S::artd: o)
+                                   (P:vp 
+                                     (MV:v-inf:afirmar:::icl-temp: afirmar))
+                                   (ACC:cu 
+                                     (CJT:fcl 
+                                       (SUB:conj-s:que:::: que)
+                                       (SUBJ:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:logradouro:M_S::np-def: logradouro)
+                                         (N<:v-pcp:ajardinar:M_S::: ajardinado))
+                                       (P:cu 
+                                         (CJT:fcl 
+                                           (ADVL:advp 
+                                             (H:adv:não:::: não))
+                                           (P:vp 
+                                             (AUX:v-fin:ser:FUT_3S_IND::: será)
+                                             (MV:v-pcp:destruir:M_S::anr_pass:fs-subst:nosubj:passive: destruído)))
+                                         (,)
+                                         (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                                         (CJT:icl::::Es: 
+                                           (ADVL:advp 
+                                             (H:adv:pelo_contrário:::: pelo_contrário))
+                                           (P:vp 
+                                             (MV:v-pcp:ampliar:M_S::fs-subst: ampliado)))))
+                                     (,)
+                                     (CJT:fcl 
+                                       (ADVL:advp 
+                                         (H:adv:assim_como:::rel: assim_como))
+                                       (P:vp 
+                                         (MV:v-fin:melhorar:FUT_3S_IND::fs-subst:nosubj: melhorará))
+                                       (ACC:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:situação:F_S::np-def: situação)
+                                         (N<:pp 
+                                           (H:prp:de:::: de+)
+                                           (P<:np 
+                                             (H:cu 
+                                               (CJT:np 
+                                                 (>N:art:o:M_P::artd: os)
+                                                 (H:n:morador:M_P::np-def: moradores))
+                                               (CO:conj-c:e:::co-prparg: e)
+                                               (CJT:np 
+                                                 (H:n:lojista:M_P::np-idf: lojistas)))
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:S::artd: a)
+                                                 (H:n:zona:F_S::np-def: zona))))))))))
+                        (.)))

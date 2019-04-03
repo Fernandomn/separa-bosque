@@ -1,0 +1,45 @@
+(FRASE CP495-7 (STA:fcl (ADVL:pp:por_outro_lado:: Por_outro_lado)
+                        (,)
+                        (ADVL:advp (H:adv:já:::: já))
+                        (P:vp (AUX:v-fin:estar:PR_1P_IND::: estamos)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:colaborar:::nosubj: colaborar))
+                        (ADVL:pp (H:prp:com:::: com)
+                                 (P<:np (H:n:colega:MF_P::np-idf: colegas)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Instituto_Nacional_de_Saúde_da_Guiné-Bissau:M_S::: Instituto_Nacional_de_Saúde_da_Guiné-Bissau)))))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:selecção:F_S::np-def: selecção)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:população:F_P::np-idf: populações)
+                                            (N<:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:F_P::rel: que))
+                                              (P:vp 
+                                                (AUX:v-fin:poder:PR_3P_SUBJ::: possam)
+                                                (AUX:v-inf:vir:::: vir)
+                                                (PRT-AUX:prp:a:::: a)
+                                                (MV:v-inf:participar:::fs-rel: participar))
+                                              (PIV:pp 
+                                                (H:prp:em:::: em)
+                                                (P<:np 
+                                                  (H:n:ensaio:M_P::np-idf: ensaios)
+                                                  (N<:adjp 
+                                                    (H:adj:clínico:M_P::: clínicos)))))))))
+                        (,)
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:quando:_::ks:rel: quando))
+                                  (P:vp (MV:v-fin:ter:FUT_1P_SUBJ::nosubj: tivermos))
+                                  (ACC:np 
+                                    (>N:art:um:F_S::arti: uma)
+                                    (H:n:vacina:F_S::np-idf: vacina)
+                                    (N<:adjp 
+                                      (H:adj:potencial:F_S::: potencial))))
+                        (.)))

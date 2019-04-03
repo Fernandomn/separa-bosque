@@ -1,0 +1,69 @@
+(FRASE CP1002-2 (STA:fcl («)
+                         (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                  (>N:adj:principal:M_P::SUP: principais)
+                                  (H:n:cliente:M_P::anr_np-def: clientes)
+                                  (N<:pp 
+                                    (H:prp:de:: de+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:serviço:M_S::np-def: serviço)
+                                      (N<:cu 
+                                        (CJT:np 
+                                          (H:prop:Alfa:M_S::: Alfa))
+                                        (CO:conj-c:e:::co-postnom: e)
+                                        (CJT:np 
+                                          (H:prop:Intercidades:M_S::: Intercidades))))))
+                         (P:vp (MV:v-fin:ser:PR_3P_IND::: são))
+                         (SC:np (H:n:pessoa:F_P::np-idf: pessoas)
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:classe:F_S::np-def: classe)
+                                         (N<:cu 
+                                           (CJT:adjp 
+                                             (H:adj:média:F_S::: média))
+                                           (CO:conj-c:e:::co-postnom: e)
+                                           (CJT:np 
+                                             (H:n:média-alta:F_S::hyfen:np-idf: média-alta)))))
+                                (N<:fcl (SUBJ:np 
+                                          (H:pron-indp:que:F_P::rel: que))
+                                        (P:vp 
+                                          (MV:v-fin:optar:PR_3P_IND::fs-rel: optam))
+                                        (PIV:pp 
+                                          (H:prp:por:::: por)
+                                          (P<:np 
+                                            (>N:pron-det:este:F_P::dem: estas)
+                                            (H:n:composição:F_P::np-def: composições)))
+                                        (ADVL:pp 
+                                          (H:prp:por:::: por)
+                                          (P<:icl 
+                                            (P:vp 
+                                              (MV:v-inf:ser:3P::: serem))
+                                            (SC:np 
+                                              (H:n:meio:M_P::np-idf: meios)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:transporte:M_S::np-idf: transporte)))
+                                              (N<:adjp 
+                                                (>A:adv:mais:_::KOMP:quant: mais)
+                                                (H:adj:rápido:M_P::: rápidos)))))
+                                        (,)
+                                        (ADVL:icl::::ger: 
+                                          (ADVL:advp 
+                                            (H:adv:não:::: não))
+                                          (P:vp 
+                                            (MV:v-ger:ver:::: vendo))
+                                          (OA:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:comboio:M_P::np-def: comboios)
+                                              (N<:adjp 
+                                                (>A:ec:inter-:::: inter-)
+                                                (H:adj:regional:M_P::: regionais))))
+                                          (ACC:np 
+                                            (>N:art:um:F_S::arti: uma)
+                                            (H:n:alternativa:F_S::np-idf: alternativa)))))
+                         (.)
+                         (»)))

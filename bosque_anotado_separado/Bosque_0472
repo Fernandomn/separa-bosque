@@ -1,0 +1,45 @@
+(FRASE CP87-5 (STA:fcl (SUBJ:np (>N:pron-det:este:M_S::dem: Este)
+                                (H:n:tipo:M_S::np-def: tipo)
+                                (N<:pp (H:prp:de:: de)
+                                       (P<:np 
+                                         (H:n:açúcar:M_S::np-idf: açúcar))))
+                       (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                             (MV:v-pcp:banir:M_S::anr_pass:passive: banido))
+                       (ADVL:cu (CJT:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:prop:Estados_Unidos:M_P::: Estados_Unidos)))
+                                (CO:conj-c:e:::co-advl: e)
+                                (CJT:pp (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:S::artd: a)
+                                          (H:prop:Grã-Bretanha:F_S::: Grã-Bretanha))))
+                       (ADVL:advp (H:adv:depois:::: depois)
+                                  (A<arg:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:icl 
+                                      (SUBJ:np 
+                                        (>N:art:um:F_S::arti: uma)
+                                        (H:n:série:F_S::np-idf: série)
+                                        (N<ARG:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:teste:M_P::np-dequant:np-idf: testes))))
+                                      (P:vp 
+                                        (AUX:v-inf:ter:3S::: ter)
+                                        (MV:v-pcp:demonstrar:::: demonstrado))
+                                      (ACC:fcl 
+                                        (SUB:conj-s:que:::: que)
+                                        (SUBJ:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:produto:M_S::np-def: produto))
+                                        (P:vp 
+                                          (MV:v-fin:provocar:IMPF_3S_IND::fs-subst: provocava))
+                                        (ACC:np 
+                                          (H:n:cancro:M_S::np-idf: cancro))
+                                        (ADVL:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:rato:M_P::np-def: ratos)))))))
+                       (.)))

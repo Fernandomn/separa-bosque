@@ -1,0 +1,34 @@
+(FRASE CP52-10 (STA:fcl (FOC:advp (H:adv:eis_que:_::foc:kc: Eis_que))
+                        (,)
+                        (ADVL:advp (H:adv:afinal:: afinal))
+                        (,)
+                        (P:vp (MV:v-fin:existir:PR_3P_IND::: existem))
+                        (SUBJ:np (>N:pron-det:muito:MF_P::quant: mais)
+                                 (H:n:habitante:MF_P::anr_np-idf: habitantes)
+                                 (N<:adjp 
+                                   (H:adj:virtual:MF_P::: virtuais))
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:pron-det:aquele:M_S::dem: aquele)
+                                          (H:n:país:M_S::np-def: país)
+                                          (N<:fcl 
+                                            (SUBJ:icl- 
+                                              (ACC:np 
+                                                (H:pron-indp:que:M_S::rel: que)))
+                                            (DAT:np 
+                                              (H:pron-pers:eu:M_1S_DAT::refl: me))
+                                            (P:vp 
+                                              (MV:v-fin:dar:PR_3S_IND::fs-rel: dá))
+                                            (ACC:np 
+                                              (H:n:gosto:M_S::np-idf: gosto))
+                                            (-SUBJ:icl 
+                                              (P:vp 
+                                                (MV:v-inf:imaginar:3S::: imaginar))
+                                              (OC:acl 
+                                                (PRD:adv:como:::interr: como)
+                                                (SC:np 
+                                                  (>N:art:um:M_S::arti: um)
+                                                  (H:n:principado:M_S::np-idf: principado)
+                                                  (N<:adjp 
+                                                    (H:adj:independente:M_S::: independente)))))))))
+                        (.)))

@@ -1,0 +1,129 @@
+(FRASE CP599-2 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:sessão:F_S::np-def: sessão)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:adv:ontem:::: ontem))
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:prop:Mercado_Monetário_Interbancário:M_S::: Mercado_Monetário_Interbancário)))
+                                        (,)
+                                        (N<PRED:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:F_S::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:dar:PS_3S_IND::fs-rel: deu))
+                                          (ACC:np 
+                                            (H:n:início:M_S::np-idf: início))
+                                          (PIV:pp 
+                                            (H:prp:a:::: a)
+                                            (P<:np 
+                                              (>N:art:um:M_S::arti: um)
+                                              (>N:adj:novo:M_S::: novo)
+                                              (H:n:período:M_S::anr_np-idf: período)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:constituição:F_S::np-idf: constituição)
+                                                  (N<ARGO:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (H:n:reserva:F_P::np-idf: reservas)
+                                                      (N<:pp 
+                                                        (H:prp:de:::: de)
+                                                        (P<:np 
+                                                          (H:n:caixa:F_S::np-idf: caixa))))))))))
+                                        (,)))
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:prop:Banco_de_Portugal:M_S::: Banco_de_Portugal))
+                        (PAUX:v-fin:voltar:PS_3S_IND::nosubj: voltou)
+                        (AUX<:cu (CJT:icl 
+                                   (PMV:vp- 
+                                     (PRT-AUX:prp:a:::: a))
+                                   (ADVL:advp 
+                                     (H:adv:não:::: não))
+                                   (-PMV:vp 
+                                     (MV:v-inf:anunciar:::: anunciar))
+                                   (ACC:np 
+                                     (>N:art:o:F_P::artd: as)
+                                     (H:n:taxa:F_P::np-def: taxas)
+                                     (N<:adjp 
+                                       (H:adj:director:F_P::: directoras))
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:intervenção:F_S::np-idf: intervenção)))))
+                                 (CO:conj-c:e:::: e)
+                                 (CJT:icl 
+                                   (PMV:vp 
+                                     (PRT-AUX:prp:a:::: a)
+                                     (MV:v-inf:manter:::: manter))
+                                   (OC:v-pcp:suspender:F_S::: suspensa)
+                                   (ACC:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:facilidade:F_S::np-def: facilidade)
+                                     (N<:adjp 
+                                       (H:adj:diário:F_S::: diária)))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:anunciar:::: anunciando))
+                          (,)
+                          (ADVL:advp (H:adv:no_entanto:::kc: no_entanto))
+                          (,)
+                          (ACC:np (>N:art:um:F_S::arti: uma)
+                                  (H:n:cedência:F_S::np-idf: cedência)
+                                  (N<:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:np 
+                                      (H:n:fundo:M_P::np-idf: fundos)))
+                                  (N<:pp 
+                                    (H:prp:até:::: até)
+                                    (P<:pp 
+                                      (H:prp:a:::: a+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:montante:M_S::np-def: montante)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:num:300:M_P::card: 300)
+                                            (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                            (N<ARG:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:conto:M_P::np-dequant:np-idf: contos)))
+                                            (,)
+                                            (N<PRED:pp 
+                                              (H:prp:a:::: a)
+                                              (P<:np 
+                                                (>N:num:seis:M_P::card: seis)
+                                                (H:n:dia:M_P::anr_np-count:anr_np-def: dias)))
+                                            (,))))))
+                                  (N<:pp 
+                                    (H:prp:em:::: em)
+                                    (P<:np 
+                                      (H:n:sistema:M_S::np-idf: sistema)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:leilão:M_S::np-idf: leilão)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:taxa:F_S::np-idf: taxa)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:juro:M_S::np-idf: juro)))))
+                                          (N<:pp 
+                                            (H:prp:contra:::: contra)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:recompra:F_S::np-def: recompra)
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:prop:Bilhete_de_Tesouro:M_P::: Bilhetes_de_Tesouro)))))))))))
+                        (.)))

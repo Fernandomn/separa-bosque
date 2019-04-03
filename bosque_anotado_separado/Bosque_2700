@@ -1,0 +1,73 @@
+(FRASE CP516-1 (STA:fcl (SUBJ:np (>N:art:o:F_P::artd: As)
+                                 (H:n:família:F_P::np-def: famílias)
+                                 (N<:adjp 
+                                   (>A:adv:ali:: ali)
+                                   (H:adj:residente:F_P::: residentes))
+                                 (,)
+                                 (N<PRED:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:F_P::rel: que))
+                                   (ADVL:advp 
+                                     (H:adv:actualmente:::: actualmente))
+                                   (P:vp 
+                                     (MV:v-fin:subir:PR_3P_IND::fs-rel: sobem))
+                                   (ADVL:pp:a_pé:::: a_pé)
+                                   (ACC:np 
+                                     (>N:num:cinco:M_P::card: cinco)
+                                     (H:n:andar:M_P::anr_np-count:anr_np-def: andares))
+                                   (ADVL:pp 
+                                     (H:prp:por:::: por)
+                                     (P<:np 
+                                       (H:n:escada:F_P::np-idf: escadas)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (H:n:madeira:F_S::np-idf: madeira)))
+                                       (N<:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:F_P::rel: que))
+                                         (P:vp 
+                                           (MV:v-fin:ameaçar:PR_3P_IND::fs-rel: ameaçam))
+                                         (ACC:icl 
+                                           (P:vp 
+                                             (MV:v-inf:ruir:::icl-subst: ruir)))))))
+                                 (,))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (AUX:v-fin:ir:PR_3P_IND::: vão)
+                                      (AUX:v-inf:passar:::: passar)
+                                      (PRT-AUX:prp:a:::: a)
+                                      (MV:v-inf:ter:::: ter))
+                                (ACC:np (H:n:elevador:M_S::np-idf: elevador)))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:ver:FUT_3P_IND::nosubj: verão))
+                                (ACC:np (>N:art:o:M_S::artd: o)
+                                        (H:n:interior:M_S::np-def: interior)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_P::artd: as)
+                                            (>N:pron-det:seu:F_P::: suas)
+                                            (H:n:residência:F_P::anr_np-def: residências))))
+                                (OC:v-pcp:modernizar:M_S::: modernizado)
+                                (,)
+                                (ADVL:pp 
+                                  (H:prp:com:::: com)
+                                  (P<:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:instalação:F_S::np-def: instalação)
+                                    (N<ARGO:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:cu 
+                                          (CJT:np 
+                                            (H:n:casa_de_banho:F_P::np-idf: casas_de_banho))
+                                          (CO:conj-c:e:::co-prparg: e)
+                                          (CJT:np 
+                                            (H:n:cozinha:F_P::np-idf: cozinhas)))
+                                        (N<:icl::::pcp: 
+                                          (ADVL:advp 
+                                            (H:adv:devidamente:::: devidamente))
+                                          (P:vp 
+                                            (MV:v-pcp:equipar:F_P::: equipadas)))))))))
+                        (.)))

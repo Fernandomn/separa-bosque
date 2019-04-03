@@ -1,0 +1,48 @@
+(FRASE CP388-9 (STA:fcl (P:vp (MV:v-fin:calcular:PR_3S_IND::hyfen: Calcula-))
+                        (SUBJ:np (H:pron-pers:se:MF_3SP_ACC: se))
+                        (ACC:fcl (SUBJ:np 
+                                   (H:pron-indp:o_que:M_S::rel: o_que))
+                                 (P:vp- (AUX:v-fin:poder:PR_3S_COND::: poderia))
+                                 (ADVL:advp 
+                                   (H:adv:posteriormente:::: posteriormente))
+                                 (-P:vp (MV:v-inf:suceder:::icl-subst: suceder))
+                                 (PIV:pp 
+                                   (H:prp:a:::: a+)
+                                   (P<:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:escudo:M_S::np-def: escudo))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:saber:::hyfen: sabendo-))
+                          (SUBJ:np (H:pron-pers:se:MF_3SP_ACC::: se))
+                          (,)
+                          (ADVL:fcl (COM:adv:como:::ks: como)
+                                    (SUBJ:np 
+                                      (H:pron-pers:se:MF_3SP_ACC::: se))
+                                    (P:vp 
+                                      (MV:v-fin:saber:PR_3S_IND::fs-conf: sabe)))
+                          (,)
+                          (ACC:fcl (SUB:conj-s:que:::: que)
+                                   (SUBJ:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (H:n:técnico:M_P::np-def: técnicos)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:prop:Comité_Monetário:M_S::: Comité_Monetário))))
+                                   (P:vp 
+                                     (MV:v-fin:aconselhar:PR_3P_IND::fs-subst: aconselham))
+                                   (ACC:np 
+                                     (>N:art:um:F_S::arti: uma)
+                                     (H:n:desvalorização:F_S::np-idf: desvalorização)
+                                     (N<:adjp 
+                                       (H:adj:substancial:F_S::: substancial))
+                                     (N<ARGO:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:moeda:F_S::np-def: moeda)
+                                         (N<:adjp 
+                                           (H:adj:nacional:F_S::: nacional)))))))
+                        (.)))

@@ -1,0 +1,72 @@
+(FRASE CP579-4 (STA:fcl (PRED:pp (H:prp:com:: Com)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:n:olho:M_P::np-def: olhos)
+                                        (N<:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:prop:Rússia:F_S::: Rússia)))))
+                        (,)
+                        (ADVL:pp (>P:adv:tecnicamente:::: tecnicamente)
+                                 (H:prp:em:::: em)
+                                 (P<:np (H:n:violação:F_S::np-idf: violação)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:texto:M_S::np-def: texto)
+                                            (N<:icl::::pcp: 
+                                              (P:vp 
+                                                (MV:v-pcp:assinar:M_S::: assinado))
+                                              (ADVL:pp 
+                                                (H:prp:em:::: em)
+                                                (P<:adjp 
+                                                  (H:num:1990:M_S::: 1990))))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_P::artd: os)
+                                 (H:n:países-membro:M_P::np-def: países-membros)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:tratado:M_S::np-def: tratado)
+                                          (N<:pp 
+                                            (H:prp:sobre:::: sobre)
+                                            (P<:np 
+                                              (>N:art:o:F_P::artd: as)
+                                              (H:n:arma:F_P::np-def: armas)
+                                              (N<:adjp 
+                                                (H:adj:convencional:F_P::: convencionais))
+                                              (N<:pp 
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:art:o:F_S::artd: a)
+                                                  (H:prop:Europa:F_S::: Europa))))))))
+                        (P:vp (AUX:v-fin:voltar:PR_3P_IND::: voltam)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:reunir:::hyfen: reunir-))
+                        (ACC:np (H:pron-pers:se:M_3P_ACC::coll:refl: se))
+                        (ADVL:pp (H:prp:a_partir_de:::: a_partir_de)
+                                 (P<:adv:hoje:::: hoje))
+                        (,)
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:prop:Viena:F_S::: Viena)))
+                        (,)
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:tentar:::icl-fin: tentar))
+                                   (ACC:icl 
+                                     (P:vp 
+                                       (MV:v-inf:limpar:::icl-subst: limpar))
+                                     (ADVL:advp 
+                                       (H:adv:definitivamente:::: definitivamente))
+                                     (ACC:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:continente:M_S::np-def: continente))
+                                     (PIV:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:arma:F_P::np-idf: armas)
+                                         (N<:adjp 
+                                           (H:adj:convencional:F_P::: convencionais)))))))
+                        (.)))

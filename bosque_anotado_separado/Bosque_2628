@@ -1,0 +1,55 @@
+(FRASE CP500-3 (STA:fcl (SUBJ:np (H:prop:Belmiro_de_Azevedo:M_S: Belmiro_de_Azevedo)
+                                 (,)
+                                 (N<PRED:np 
+                                   (H:n:presidente:M_S::np-idf: presidente)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (N<:art:o:F_S::: a)
+                                       (H:prop:Sonae:F_S::anr_np-def: Sonae))))
+                                 (,))
+                        (P:vp (MV:v-fin:acreditar:PR_3S_IND::: acredita))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em+)
+                                   (P<:np 
+                                     (>N:art:o:M_P::artd: os)
+                                     (>N:adj:próximo:M_P::: próximos)
+                                     (H:n:ano:M_P::anr_np-def: anos)))
+                                 (SUBJ:np 
+                                   (>N:art:o:M_P::artd: os)
+                                   (H:n:negócio:M_P::np-def: negócios)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:grupo:M_S::np-def: grupo)))
+                                   (N<:pp 
+                                     (H:prp:em:::: em+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:Brasil:M_S::: Brasil))))
+                                 (P:vp (AUX:v-fin:ir:PR_3P_IND::: vão)
+                                       (MV:v-inf:crescer:::icl-subst: crescer))
+                                 (ADVL:pp 
+                                   (H:prp:até:::: até)
+                                   (P<:icl 
+                                     (P:vp 
+                                       (MV:v-inf:chegar:3P::icl-temp: chegarem))
+                                     (PIV:pp 
+                                       (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:dimensão:F_S::np-def: dimensão)
+                                         (N<:fcl 
+                                           (ACC:np 
+                                             (H:pron-indp:que:F_S::rel: que))
+                                           (ADVL:advp 
+                                             (H:adv:actualmente:::: actualmente))
+                                           (P:vp 
+                                             (MV:v-fin:ter:PR_3P_IND::fs-rel:nosubj: têm))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em)
+                                             (P<:np 
+                                               (H:prop:Portugal:M_S::: Portugal)))))))))
+                        (.)))

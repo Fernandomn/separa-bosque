@@ -1,0 +1,32 @@
+(FRASE CP693-6 (STA:fcl (ADVL:advp (H:adv:pelo_contrário:: Pelo_contrário))
+                        (,)
+                        (SUBJ:np (H:prop:Menezes:M_S::: Menezes))
+                        (P:vp (MV:v-fin:considerar:PR_3S_IND::: considera))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:M_P::artd: os)
+                                   (H:n:resultado:M_P::np-def: resultados)
+                                   (N<:icl 
+                                     (P:vp 
+                                       (MV:v-pcp:obter:M_P::: obtidos))
+                                     (ADVL:pp 
+                                       (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:F_P::artd: as)
+                                         (H:n:eleição:F_P::np-def: eleições)
+                                         (N<:adjp 
+                                           (H:adj:presidencial:F_P::: presidenciais))))))
+                                 (P:vp (MV:v-fin:ser:PR_3P_IND::fs-subst: são))
+                                 (SC:adjp 
+                                   (H:adj:potenciador:M_P::: potenciadores)
+                                   (A<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:art:um:F_S::arti: uma)
+                                       (H:n:vitória:F_S::np-idf: vitória)
+                                       (N<:pp 
+                                         (H:prp:em:::: em+)
+                                         (P<:np 
+                                           (>N:art:o:F_P::artd: as)
+                                           (H:n-adj:autárquico:F_P::np-def: autárquicas)))))))
+                        (.)))

@@ -1,0 +1,66 @@
+(FRASE CP105-1 (STA:fcl (ADVL:np (H:prop:Escola_Secundária_de_Paços_de_Ferreira:F_S: Escola_Secundária_de_Paços_de_Ferreira))
+                        (--)
+                        (P:vp (MV:v-fin:estar:PR_3S_IND::: Está))
+                        (SC:v-pcp:abrir:M_S::: aberto)
+                        (ADVL:pp (H:prp:por:::: por+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:prazo:M_S::np-def: prazo)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:num:três:M_P::card: três)
+                                            (H:n:dia:M_P::anr_np-count:anr_np-def: dias)))
+                                        (,)
+                                        (N<PRED:pp 
+                                          (H:prp:a:::: a)
+                                          (P<:icl 
+                                            (P:vp 
+                                              (MV:v-inf:contar:::: contar))
+                                            (ADVL:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:S::artd: a)
+                                                (H:n:publicação:F_S::np-def: publicação)
+                                                (N<ARGO:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (>N:adj:presente:M_S::: presente)
+                                                    (H:n:aviso:M_S::anr_np-def: aviso)))))))))
+                        (,)
+                        (SUBJ:np (H:n:concurso:M_S::np-idf: concurso)
+                                 (N<:pp (H:prp:para:::: para)
+                                        (P<:np 
+                                          (H:n:preenchimento:M_S::np-idf: preenchimento)
+                                          (N<ARGO:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (>N:art:um:M_S::arti: um)
+                                              (H:n:horário:M_S::np-idf: horário)
+                                              (N<:adjp 
+                                                (H:adj:incompleto:M_S::: incompleto))
+                                              (N<:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (>N:adjp 
+                                                    (H:num:6:F_P::card: 6)
+                                                    ({)
+                                                    (APP:adjp 
+                                                      (H:num:seis:F_P::card: seis))
+                                                    (}))
+                                                  (H:n:hora:F_P::anr_np-idf: horas)))
+                                              (N<:pp 
+                                                (H:prp:em:::: em+)
+                                                (P<:np 
+                                                  (>N:art:o:S::artd: a)
+                                                  (H:n:disciplina:F_S::np-def: disciplina)
+                                                  (N<:pp 
+                                                    (H:prp:de:::: de)
+                                                    (P<:np 
+                                                      (H:prop:Socorrismo:MF_S::: Socorrismo)
+                                                      ({)
+                                                      (N<PRED:np 
+                                                        (>N:adj:11º:M_S::NUM-ord: 11º)
+                                                        (H:n:ano:M_S::anr_np-idf: ano))
+                                                      (}))))))))))
+                        (.)))

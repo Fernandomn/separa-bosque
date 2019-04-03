@@ -1,0 +1,29 @@
+(FRASE CP884-2 (STA:fcl (SUBJ:np (>N:art:um:M_S::arti: um)
+                                 (>N:adj:pacato:M_S: pacato)
+                                 (H:n:cidadão:M_S::anr_np-idf: cidadão)
+                                 (,)
+                                 (N<PRED:adjp 
+                                   (H:adj:livre:M_S::: livre)
+                                   (A<:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (>N:pron-det:todo_o:F_S::quant: toda_a)
+                                       (H:n:suspeita:F_S::anr_np-def: suspeita))))
+                                 (,)
+                                 (N<PRED:np 
+                                   (>N:art:um:M_S::arti: um)
+                                   (H:n:homem:M_S::np-idf: homem)
+                                   (N<:cu 
+                                     (CJT:adjp 
+                                       (H:adj:simpático:M_S::: simpático))
+                                     (CO:conj-c:e:::co-postnom: e)
+                                     (CJT:adjp 
+                                       (H:adj:prestável:M_S::: prestável))))
+                                 (,))
+                        (P:vp (MV:v-fin:guardar:PR_3S_IND::: guarda))
+                        (ADVL:pp (H:prp:em:::: em)
+                                 (P<:np (H:n:casa:F_S::np-idf: casa)))
+                        (ACC:np (>N:num:24:M_P::card: 24)
+                                (H:n:cadáver:M_P::anr_np-count:anr_np-def: cadáveres)
+                                (N<:v-pcp:mutilar:M_P::: mutilados))
+                        (.)))

@@ -1,0 +1,51 @@
+(FRASE CP356-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:resolução:F_S::np-def: resolução)
+                                 (N<:icl::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:aprovar:F_S::: aprovada))
+                                   (PASS:pp 
+                                     (H:prp:por:::: por+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:deputado:M_P::np-def: deputados)
+                                       (N<:adjp 
+                                         (H:adj:europeu:M_P::: europeus))))))
+                        (PAUX:v-fin:ser:PS_3S_IND::nosubj: foi)
+                        (AUX<:cu (CJT:icl 
+                                   (PMV:v-pcp:apresentar:F_S::: apresentada)
+                                   (PASS:pp 
+                                     (H:prp:por:::: por+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:grupo:M_S::np-def: grupo)
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:coligação:F_S::np-def: coligação)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:esquerda:F_S::np-idf: esquerda))))))))
+                                 (CO:conj-c:e:::co-pcv: e)
+                                 (CJT:icl 
+                                   (PMV:v-pcp:subscrever:F_S::: subscrita)
+                                   (PASS:pp 
+                                     (H:prp:por:::: por+)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (>N:num:três:M_P::card: três)
+                                       (H:n:deputado:M_P::anr_np-count:anr_np-def: deputados)
+                                       (N<:adjp 
+                                         (H:adj:comunista:M_P::: comunistas))
+                                       (,)
+                                       (APP:cu 
+                                         (CJT:np 
+                                           (H:prop:Barros_Moura:F_S::: Barros_Moura))
+                                         (,)
+                                         (CJT:np 
+                                           (H:prop:Miranda_da_Silva:F_S::: Miranda_da_Silva))
+                                         (CO:conj-c:e:::co-app: e)
+                                         (CJT:np 
+                                           (H:prop:Sérgio_Ribeiro:M_S::: Sérgio_Ribeiro)))))))
+                        (.)))

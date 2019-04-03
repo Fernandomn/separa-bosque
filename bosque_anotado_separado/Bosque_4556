@@ -1,0 +1,32 @@
+(FRASE CP887-4 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (>N:num:dez:M_P::card: dez)
+                                 (H:n:músico:M_P::anr_np-count:anr_np-def: músicos)
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:M_P::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:estar:FUT_3P_IND::fs-rel: estarão))
+                                   (SA:pp 
+                                     (H:prp:em:: em)
+                                     (P<:np 
+                                       (H:n:palco:M_S::np-idf: palco))))
+                                 (,)
+                                 (N<PRED:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:incluir:::: incluindo))
+                                   (ACC:np 
+                                     (H:prop:Bryan_Adams:M_S::: Bryan_Adams)))
+                                 (,))
+                        (P:vp (MV:v-fin:fazer:PS_3P_IND::: fizeram))
+                        (ACC:np (>N:art:um:M_S::arti: um)
+                                (>N:adj:único:M_S::: único)
+                                (H:n:pedido:M_S::anr_np-idf: pedido))
+                        (--)
+                        (P:vp (MV:v-fin:querer:PR_3P_IND::: querem))
+                        (ACC:np (H:n:comida:F_S::np-idf: comida)
+                                (N<:adjp 
+                                  (H:adj:vegetariano:F_S::: vegetariana)))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_P::artd: os)
+                                        (H:n:camarim:M_P::np-def: camarins)))
+                        (.)))

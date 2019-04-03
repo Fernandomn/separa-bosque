@@ -1,0 +1,42 @@
+(FRASE CP356-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:prop:Parlamento_Europeu:M_S: Parlamento_Europeu))
+                        (P:vp (MV:v-fin:condenar:PS_3S_IND::: condenou))
+                        (ADVL:advp (H:adv:ontem:::: ontem))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:decisão:F_S::np-def: decisão)
+                                (N<:icl::::pcp: 
+                                  (P:vp (MV:v-pcp:anunciar:F_S::: anunciada))
+                                  (PASS:pp 
+                                    (H:prp:por:::: por+)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n-adj:multinacional:F_S::np-def: multinacional)
+                                      (N<:np 
+                                        (H:prop:Seagate:F_S::: Seagate)))))
+                                (N<ARGO:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:icl 
+                                    (P:vp 
+                                      (MV:v-inf:encerrar:::: encerrar))
+                                    (ACC:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:fábrica:F_S::np-def: fábrica)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Palmela:MF_S::: Palmela))))))
+                                (,)
+                                (N<PRED:fcl 
+                                  (SUBJ:np 
+                                    (H:pron-indp:que:F_S::rel: que))
+                                  (P:vp (AUX:v-fin:ir:FUT_3S_IND::: irá)
+                                        (MV:v-inf:provocar:::fs-rel: provocar))
+                                  (ACC:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:despedimento:M_S::np-def: despedimento)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (>N:num:850:M_P::card: 850)
+                                        (H:n:trabalhador:M_P::anr_np-count:anr_np-def: trabalhadores))))))
+                        (.)))

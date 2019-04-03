@@ -1,0 +1,42 @@
+(FRASE CP684-3 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:investimento:M_S::np-def: investimento)
+                                 (N<:adjp 
+                                   (H:adj:líquido:M_S: líquido))
+                                 (N<:adjp 
+                                   (H:adj:nacional:M_S::: nacional))
+                                 (N<:pp (H:prp:em:::: em)
+                                        (P<:np 
+                                          (H:n:título:M_P::np-idf: títulos)
+                                          (N<:adjp 
+                                            (H:adj:estrangeiro:M_P::: estrangeiros)))))
+                        (,)
+                        (ADVL:pp (H:prp:por:::: por)
+                                 (P<:np (>N:pron-det:seu:M_S::si: seu)
+                                        (H:n:turno:M_S::anr_np-idf: turno)))
+                        (,)
+                        (P:vp (MV:v-fin:elevar:PS_3S_IND::hyfen:se-passive: elevou-))
+                        (ACC-PASS:np (H:pron-pers:se:M_3S_ACC::: se))
+                        (SA:pp (H:prp:a:::: a)
+                               (P<:np (>N:num:298:M_P::card: 298)
+                                      (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                      (N<ARG:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:dólar:M_P::np-dequant:np-idf: dólares)))))
+                        (ADVL:fcl (ADVL:advp 
+                                    (H:adv:quando:::ks: quando))
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:ano:M_S::np-def: ano)
+                                      (N<:adjp 
+                                        (H:adj:anterior:M_S::: anterior))))
+                                  (ADVL:advp 
+                                    (H:adv:praticamente:::: praticamente))
+                                  (ADVL:advp 
+                                    (H:adv:não:::: não))
+                                  (P:vp (MV:v-fin:ter:IMPF_3S_IND::fs-temp:nosubj: tinha))
+                                  (ACC:np 
+                                    (H:n:expressão:F_S::np-idf: expressão)))
+                        (.)))

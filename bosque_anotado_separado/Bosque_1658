@@ -1,0 +1,35 @@
+(FRASE CP315-6 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:pron-det:este:M_S::dem: este)
+                                        (H:n:momento:M_S::np-def: momento)))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:prop:DRARN:F_S::: DRARN))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (AUX:v-fin:estar:PR_3S_IND::: está)
+                                      (PRT-AUX:prp:a:::: a)
+                                      (MV:v-inf:conceder:::: conceder))
+                                (ACC:np (>N:adj:novo:F_P::: novas)
+                                        (H:n:licença:F_P::anr_np-idf: licenças)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:ocupação:F_S::np-idf: ocupação)
+                                            (N<ARGO:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:domínio:M_S::np-idf: domínio)
+                                                (N<:adjp 
+                                                  (H:adj:público:M_S::: público))))))))
+                              (,)
+                              (CO:conj-c:mas:_::co-fmc:co-vfin: mas)
+                              (CJT:x::::predicate: 
+                                (P:vp (AUX:v-fin:ter:PR_3S_IND::: tem)
+                                      (MV:v-pcp:renovar:::nosubj: renovado))
+                                (ACC:np (H:n:licença:F_P::np-idf: licenças)
+                                        (N<:adjp 
+                                          (H:adj:antigo:F_P::: antigas)))))
+                        (,)
+                        (ADVL:pp (H:prp:segundo:_::prp:rel: segundo)
+                                 (P<:np (H:prop:Vitória_Bruno_da_Costa:F_S::: Vitória_Bruno_da_Costa)))
+                        (.)))

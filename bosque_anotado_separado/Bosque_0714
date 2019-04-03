@@ -1,0 +1,48 @@
+(FRASE CP138-6 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (>N:adj:terceiro:F_S::NUM-ord: terceira)
+                                 (H:n:fase:F_S::anr_np-def: fase)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:processo:M_S::np-def: processo))))
+                        (P:vp (MV:v-fin:consistir:FUT_3S_IND::: consistirá))
+                        (PIV:pp (H:prp:em:::: em+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (H:n:construção:F_S::np-def: construção)
+                                       (N<ARGO:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:P::artd: as)
+                                           (H:n:instalação:F_P::np-def: instalações)
+                                           (N<:adjp 
+                                             (>A:adv:propriamente:::: propriamente)
+                                             (H:adj:dito:F_P::: ditas))))
+                                       (,)
+                                       (N<PRED:cu 
+                                         (CJT:fcl 
+                                           (SUBJ:np 
+                                             (>N:pron-det:cujo:M_S::rel: cujo)
+                                             (H:n:arranque:M_S::anr_np-idf: arranque))
+                                           (P:vp 
+                                             (MV:v-fin:ocorrer:FUT_3S_IND::: ocorrerá))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em)
+                                             (P<:adjp 
+                                               (H:num:1999:M_S::card: 1999))))
+                                         (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                         (CJT:fcl 
+                                           (ADVL:advp 
+                                             (H:adv:não:::: não))
+                                           (P:vp 
+                                             (AUX:v-fin:dever:FUT_3S_IND::: deverá)
+                                             (MV:v-inf:estar:::nosubj: estar))
+                                           (SC:v-pcp:concluir:F_S::: concluída)
+                                           (ADVL:pp 
+                                             (H:adv:antes:::: antes)
+                                             (A<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (>N:v-pcp:passar:M_P::: passados)
+                                                 (>N:num:três:M_P::card: três)
+                                                 (H:n:ano:M_P::anr_np-count:anr_np-def: anos))))))))
+                        (.)))

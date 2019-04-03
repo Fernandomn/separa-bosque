@@ -1,0 +1,61 @@
+(FRASE CP946-3 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:Teleweb:F_S: Teleweb)
+                                 (,)
+                                 (N<PRED:np 
+                                   (>N:art:um:F_S::arti: uma)
+                                   (>N:adj:novo:F_S::: nova)
+                                   (H:n:empresa:F_S::anr_np-idf: empresa)
+                                   (N<:adjp 
+                                     (H:adj:português:F_S::: portuguesa))
+                                   (N<:adjp 
+                                     (H:adj:fornecedor:F_S::: fornecedora)
+                                     (A<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:np 
+                                         (H:n:acesso:M_S::np-idf: acesso)
+                                         (N<:pp 
+                                           (H:prp:a:::: a+)
+                                           (P<:np 
+                                             (>N:art:o:F_S::artd: a)
+                                             (H:prop:Internet:F_S::: Internet)))))))
+                                 (,))
+                        (P:vp (MV:v-fin:anunciar:PS_3S_IND::: anunciou))
+                        (ACC:icl (P:vp (MV:v-inf:estar:::icl-subst: estar))
+                                 (SC:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:dispor:F_S::: disposta))
+                                   (PIV:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (MV:v-inf:investir:::: investir))
+                                       (ACC:np 
+                                         (>N:art:um:M_S::arti: um)
+                                         (H:n:milhão:M_S::card:np-idf:num: milhão)
+                                         (N<ARG:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:conto:M_P::np-dequant:np-idf: contos))))
+                                       (ADVL:pp 
+                                         (H:prp:de_forma_a:::: de_forma_a)
+                                         (P<:icl 
+                                           (P:vp 
+                                             (MV:v-inf:atingir:::: atingir))
+                                           (ACC:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (>N:pron-det:seu:M_S::si: seu)
+                                             (H:n:objectivo:M_S::anr_np-def: objectivo)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (>N:num:50:MF_P::card: 50)
+                                                 (>N:n:mil:MF_P::card:num: mil)
+                                                 (H:n:cliente:MF_P::anr_np-count:anr_np-def: clientes)
+                                                 (N<:pp 
+                                                   (H:prp:em:::: em+)
+                                                   (P<:np 
+                                                     (>N:art:o:M_S::artd: o)
+                                                     (H:n:ano:M_S::np-def: ano)
+                                                     (N<:adjp 
+                                                       (H:num:2000:M_S::card: 2000)))))))))))))
+                        (.)))

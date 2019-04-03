@@ -1,0 +1,52 @@
+(FRASE CP583-3 (STA:fcl (SUBJ:np (>N:art:o:M_P::artd: Os)
+                                 (H:n:mecânico:M_P::np-def: mecânicos))
+                        (P:vp (MV:v-fin:levar:PS_3P_IND: levaram))
+                        (ADVL:advp (H:adv:ainda:::: ainda))
+                        (ADVL:np (>N:num:um:F_S::card: uma)
+                                 (H:n:hora:F_S::anr_np-count:anr_np-def: hora))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:icl 
+                                   (P:vp 
+                                     (MV:v-inf:remover:::icl-fin: remover))
+                                   (ACC:np 
+                                     (>N:pron-det:algum:F_P::quant: algumas)
+                                     (H:n:peça:F_P::anr_np-idf: peças)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:conjunto:M_S::np-def: conjunto)
+                                         (N<:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (H:n:roda:F_P::np-idf: rodas))))))))
+                        (,)
+                        (ADVL:advp (H:adv:antes:::: antes)
+                                   (A<arg:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:cu 
+                                       (CJT:icl 
+                                         (P:vp 
+                                           (MV:v-inf:levantar:::: levantar))
+                                         (ACC:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:automotora:F_S::np-def: automotora)
+                                           (N<:np 
+                                             (H:prop:A-78:F_S::: A-78))))
+                                       (CO:conj-c:e:::co-inf: e)
+                                       (CJT:icl 
+                                         (,)
+                                         (ADVL:advp 
+                                           (H:adv:finalmente:::: finalmente))
+                                         (,)
+                                         (P:vp 
+                                           (MV:v-inf:retirar:::: retirar))
+                                         (ACC:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:corpo:M_S::np-def: corpo)
+                                           (N<:v-pcp:mutilar:M_S::: mutilado)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:prop:Pedro_Alexandre:M_S::: Pedro_Alexandre))))))))
+                        (.)))

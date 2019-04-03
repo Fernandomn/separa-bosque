@@ -1,0 +1,65 @@
+(FRASE CP708-2 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:prop:GNR:F_S: GNR)
+                                 (N<:pp (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Barcelos:MF_S::: Barcelos))))
+                        (P:vp (MV:v-fin:deter:PS_3S_IND::: deteve))
+                        (ADVL:np (>N:pron-det:este:F_S::dem: esta)
+                                 (H:n:semana:F_S::np-def: semana))
+                        (ACC:np (>N:art:um:M_S::arti: um)
+                                (H:n:indivíduo:M_S::np-idf: indivíduo)
+                                (N<:pp (H:prp:de:::: de)
+                                       (P<:np 
+                                         (>N:num:28:M_P::card: 28)
+                                         (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))
+                                (,)
+                                (N<PRED:adjp 
+                                  (H:adj:solteiro:M_S::: solteiro))
+                                (,)
+                                (N<PRED:vp 
+                                  (MV:v-pcp:desempregar:M_S::: desempregado))
+                                (,)
+                                (N<PRED:adjp 
+                                  (H:adj:residente:M_S::: residente)
+                                  (A<:pp 
+                                    (H:prp:em:::: em+)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:freguesia:F_S::np-def: freguesia)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Carvalhas:MF_SP::: Carvalhas))))))
+                                (,)
+                                (N<PRED:icl::::pcp: 
+                                  (P:vp (MV:v-pcp:acusar:M_S::: acusado))
+                                  (PIV:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:icl 
+                                      (PAUX:v-inf:ter:::: ter)
+                                      (AUX<:cu 
+                                        (CJT:v-pcp:agredir:::: agredido)
+                                        (CO:conj-c:e:::co-pcv: e)
+                                        (CJT:icl 
+                                          (PMV:v-pcp:tentar:M_S::: tentado)
+                                          (ACC:icl 
+                                            (P:vp 
+                                              (MV:v-inf:violar:3S::icl-subst: violar)))))
+                                      (ACC:np 
+                                        (>N:art:um:F_S::arti: uma)
+                                        (H:n:viúva:F_S::np-idf: viúva)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (>N:num:48:M_P::card: 48)
+                                            (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))
+                                        (,)
+                                        (N<PRED:adjp 
+                                          (H:adj:residente:M_S::: residente)
+                                          (A<:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (>N:pron-det:mesmo:F_S::KOMP:diff: mesma)
+                                              (H:n:localidade:F_S::anr_np-def: localidade)))))))))
+                        (.)))

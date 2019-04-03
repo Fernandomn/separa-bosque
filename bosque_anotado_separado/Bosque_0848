@@ -1,0 +1,56 @@
+(FRASE CP161-1 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:np (H:n:rio:M_S::anr_np-def: rio)
+                                       (N<:np 
+                                         (H:prop:Grande:M_S: Grande))))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:nascer:PR_3S_IND::: nasce))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em+)
+                                  (P<:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:concelho:M_S::np-def: concelho)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:prop:Torres_Vedras:MF_S::: Torres_Vedras))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:atravessar:PR_3S_IND::nosubj: atravessa))
+                                (ACC:np (>N:pron-det:todo_o:M_S::quant: todo_o)
+                                        (H:n:concelho:M_S::anr_np-def: concelho)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:prop:Lourinhã:F_S::: Lourinhã))))))
+                        (ADVL:icl::::ger: 
+                          (P:vp- (AUX:v-ger:ser:::: sendo))
+                          (SUBJ:np (>N:art:o:F_P::artd: as)
+                                   (>N:pron-det:seu:F_P::: suas)
+                                   (H:n:água:F_P::anr_np-def: águas))
+                          (-P:vp (MV:v-pcp:considerar:F_P::: consideradas))
+                          (SC:cu (CJT:adjp 
+                                   (>A:adv:excessivamente:::: excessivamente)
+                                   (H:v-pcp:poluir:F_P::: poluídas))
+                                 (CO:conj-c:e:::co-sc: e)
+                                 (CJT:adjp 
+                                   (H:adj:impróprio:F_P::: impróprias)
+                                   (A<:pp 
+                                     (H:prp:para:::: para)
+                                     (P<:np 
+                                       (>N:pron-det:qualquer:M_S::quant: qualquer)
+                                       (H:n:uso:M_S::anr_np-idf: uso)))))
+                          (,)
+                          (ADVL:pp (H:prp:segundo:::prp: segundo)
+                                   (P<:np 
+                                     (H:n:dado:M_P::np-idf: dados)
+                                     (N<:pp 
+                                       (H:prp:de:::: de)
+                                       (P<:adjp 
+                                         (H:num:1987:M_S::card: 1987)))
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:prop:Direcção_Geral_da_Qualidade_do_Ambiente:F_S::: Direcção_Geral_da_Qualidade_do_Ambiente))))))
+                        (.)))

@@ -1,0 +1,45 @@
+(FRASE CP518-4 (UTT:np ({)
+                       (H:n:atitude:F_S::anr_np-idf: Atitude)
+                       (N<:adjp (>A:adv:basicamente:: basicamente)
+                                (H:adj:budista:F_S::: budista))
+                       (N<:pp (H:prp:em_relação_a:::: em_relação_a)
+                              (P<:np (>N:pron-det:todo_o:F_P::quant: todas_as)
+                                     (H:n:coisa:F_P::anr_np-def: coisas)
+                                     (N<:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:vida:F_S::np-def: vida)))))
+                       (,)
+                       (N<PRED:fcl (SUB:conj-s:porque:::: porque)
+                                   (X:cu 
+                                     (CJT:fcl 
+                                       (SUBJ:np::::Eg: 
+                                         (>N:art:o:F_P::artd: as)
+                                         (H:adj:desagradável:F_P::Eg:np-def: desagradáveis))
+                                       (P:vp 
+                                         (MV:v-fin:causar:PR_3P_IND::: causam))
+                                       (ACC:np 
+                                         (H:n:repulsa:F_S::np-idf: repulsa)))
+                                     (,)
+                                     (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                     (CJT:fcl 
+                                       (SUBJ:np::::Eg: 
+                                         (>N:art:o:F_P::artd: as)
+                                         (H:adj:agradável:F_P::Eg:np-def: agradáveis))
+                                       (ACC:np 
+                                         (H:n:tristeza:F_S::np-idf: tristeza))
+                                       (ADVL:fcl 
+                                         (ADVL:advp 
+                                           (H:adv:quando:::ks: quando))
+                                         (ADVL:advp 
+                                           (H:adv:já:::: já))
+                                         (SUBJ:np 
+                                           (H:pron-pers:se:MF_SP_ACC::: se))
+                                         (ACC:np 
+                                           (H:pron-pers:elas:F_3P_ACC::: as))
+                                         (ADVL:advp 
+                                           (H:adv:não:::: não))
+                                         (P:vp 
+                                           (MV:v-fin:ter:PR_3S_IND::fs-temp: tem))))))
+                       (.)))

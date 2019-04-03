@@ -1,0 +1,51 @@
+(FRASE CP318-3 (STA:fcl (FOC:advp (H:adv:é:foc: É))
+                        (SUBJ:np (>N:pron-det:este:M_S::dem: este)
+                                 (H:n:material:M_S::np-def: material)
+                                 (N<:adjp 
+                                   (H:adj:super-resistente:M_S::: super-resistente)))
+                        (FOC:advp (H:adv:que:::foc: que))
+                        (P:vp (MV:v-fin:permitir:PR_3S_IND::: permite))
+                        (ACC:cu (CJT:icl 
+                                  (P:vp (MV:v-inf:roer:::: roer))
+                                  (ACC:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:rocha:F_S::np-def: rocha))
+                                  (ADVL:pp 
+                                    (H:prp:a:::: a+)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:média:F_S::np-def: média)
+                                      (N<:cu 
+                                        (PCJT:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:adjp 
+                                            (H:num:dois:F_P::card: duas)))
+                                        (PCJT:pp 
+                                          (H:prp:a:::: a)
+                                          (P<:np 
+                                            (>N:num:três:F_P::card: três)
+                                            (H:n:volta:F_P::anr_np-count:anr_np-def: voltas))))
+                                      (N<:pp 
+                                        (H:prp:por:::: por)
+                                        (P<:np 
+                                          (H:n:minuto:M_S::np-idf: minuto))))))
+                                (CO:conj-c:e:::co-inf: e)
+                                (CJT:icl 
+                                  (P:vp (MV:v-inf:avançar:::: avançar))
+                                  (ADVL:pp 
+                                    (H:prp:a:::: a+)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:velocidade:F_S::np-def: velocidade)
+                                      (N<:adjp 
+                                        (H:adj:vertiginoso:F_S::: vertiginosa))
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (>N:num:200:M_P::card: 200)
+                                          (H:n:metro:M_P::anr_np-count:anr_np-def: metros)
+                                          (N<:pp 
+                                            (H:prp:por:::: por)
+                                            (P<:np 
+                                              (H:n:semana:F_S::np-idf: semana)))))))))
+                        (.)))

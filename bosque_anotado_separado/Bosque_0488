@@ -1,0 +1,55 @@
+(FRASE CP90-1 (STA:fcl (ADVL:pp (H:prp:segundo:ks: Segundo)
+                                (P<:np (H:n:elemento:M_P::np-idf: elementos)
+                                       (N<:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:recolher:M_P::fs-conf: recolhidos))
+                                         (ADVL:pp 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:S::artd: a)
+                                             (>N:adj:único:F_S::: única)
+                                             (H:n:junta:F_S::anr_np-def: junta)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:freguesia:F_S::np-idf: freguesia)))
+                                             (N<:pp 
+                                               (H:prp:de:::: de+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:concelho:M_S::np-def: concelho))))))))
+                       (,)
+                       (SUBJ:np (>N:art:o:M_S::artd: o)
+                                (H:prop:Entroncamento:M_S::: Entroncamento))
+                       (P:vp (MV:v-fin:ter:PR_3S_IND::: tem))
+                       (,)
+                       (ADVL:pp (H:prp:após:::: após)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:n:recenseamento:M_S::np-def: recenseamento)
+                                       (N<:adjp 
+                                         (H:adj:eleitoral:M_S::: eleitoral))
+                                       (N<:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:ano:M_S::np-def: ano)
+                                           (N<:v-pcp:passar:M_S::: passado)))))
+                       (,)
+                       (ACC:np (>N:num:12480:M_P::card: 12480)
+                               (H:n:eleitor:MF_P::anr_np-count:anr_np-def: eleitores)
+                               (,)
+                               (N<PRED:adjp 
+                                 (>A:adv:apenas:::: apenas)
+                                 (H:np::::Eg: 
+                                   (>N:pron-det:mais:M_P::KOMP:quant: mais)
+                                   (H:num:372:M_P::Eg:card: 372)
+                                   (KOMP<:acl 
+                                     (COM:conj-s:do_que:::: do_que)
+                                     (ADVL:pp 
+                                       (H:prp:em:::: em+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:ano:M_S::np-def: ano)
+                                         (N<:adjp 
+                                           (H:adj:anterior:M_S::: anterior))))))))
+                       (.)))

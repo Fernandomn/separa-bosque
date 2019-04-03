@@ -1,0 +1,91 @@
+(FRASE CP566-7 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: a)
+                                 (H:prop:SIC:F_S: SIC)
+                                 (,)
+                                 (N<PRED:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:F_S::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:investir:PS_3S_IND::fs-rel: investiu))
+                                   (X:cu 
+                                     (CJT:x::::predicate: 
+                                       (ACC:np 
+                                         (>N:art:um:F_S::arti: uma)
+                                         (H:n:nota:F_S::np-idf: nota)
+                                         (N<:adjp 
+                                           (H:adj:negro:F_S::: negra)))
+                                       (PIV:pp 
+                                         (H:prp:em:::: em+)
+                                         (P<:np 
+                                           (>N:art:o:F_S::artd: a)
+                                           (H:n:compra:F_S::np-def: compra)
+                                           (N<ARGO:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_P::artd: os)
+                                               (H:n:direito:M_P::np-def: direitos)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:cobertura:F_S::np-idf: cobertura))))))))
+                                     (,)
+                                     (CO:conj-c:e:::: e)
+                                     (CJT:x::::predicate: 
+                                       (ACC:np 
+                                         (>N:pron-det:outro:F_S::KOMP:diff: outra)
+                                         (H:n:nota:F_S::anr_np-idf: nota)
+                                         (N<:adjp 
+                                           (>A:advp 
+                                             (>A:adv:ainda:::: ainda)
+                                             (H:adv:mais:_::KOMP:quant: mais))
+                                           (H:adj:negro:F_S::: negra)))
+                                       (PIV:pp 
+                                         (H:prp:em:::: em+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:n:meio:M_P::np-def: meios)
+                                           (N<:adjp 
+                                             (H:adj:necessário:M_P::: necessários)
+                                             (A<ARG:pp 
+                                               (H:prp:a:::: a+)
+                                               (P<:np 
+                                                 (>N:art:o:F_S::artd: a)
+                                                 (H:n:cobertura:F_S::np-def: cobertura)))))))
+                                     (,))))
+                        (ADVL:advp (H:adv:não:::: não))
+                        (P:vp (MV:v-fin:conseguir:PR_3S_IND::: consegue))
+                        (ADVL:advp (H:adv:mais:_::KOMP:quant: mais)
+                                   (KOMP<:acl 
+                                     (COM:conj-s:do_que:::: do_que)
+                                     (ACC:np 
+                                       (>N:art:um:M_S::arti: um)
+                                       (H:n:máximo:M_S::np-idf: máximo)
+                                       (N<ARG:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (>N:num:5,5:M_P::card: 5,5)
+                                           (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:audiência:F_S::np-idf: audiência)
+                                               (N<:adjp 
+                                                 (H:adj:médio:F_S::: média))
+                                               (N<:pp 
+                                                 (H:prp:para:::: para)
+                                                 (P<:np 
+                                                   (>N:art:o:F_P::artd: as)
+                                                   (H:n:imagem:F_P::np-def: imagens)
+                                                   (N<:icl::::pcp: 
+                                                     (P:vp 
+                                                       (MV:v-pcp:recolher:F_P::: recolhidas))
+                                                     (PASS:pp 
+                                                       (H:prp:por:::: por)
+                                                       (P<:np 
+                                                         (>N:pron-det:esse:M_P::dem: esses)
+                                                         (H:n:meio:M_P::np-def: meios)
+                                                         (N<:icl::::pcp: 
+                                                           (ADVL:advp 
+                                                             (H:adv:nunca:::: nunca))
+                                                           (P:vp 
+                                                             (MV:v-pcp:ver:M_P::: vistos)))))))))))))))
+                        (.)))

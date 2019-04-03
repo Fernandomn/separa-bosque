@@ -1,0 +1,38 @@
+(FRASE CP356-8 (UTT:np (H:n:decisão:F_P::np-idf: Decisões)
+                       (N<:np (H:pron-det:este:F_P::dem: estas))
+                       (N<:adjp (H:adj:referente:M_P: referentes)
+                                (A<:pp (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:n:imposição:F_S::np-def: imposição)
+                                         (N<ARGO:pp 
+                                           (H:prp:de:::: de)
+                                           (P<:np 
+                                             (>N:art:um:M_S::arti: um)
+                                             (H:n:embargo:M_S::np-idf: embargo)
+                                             (N<:adjp 
+                                               (H:adj:comercial:M_S::: comercial))))
+                                         (,)
+                                         (N<:pp 
+                                           (H:prp:até:::: até)
+                                           (P<:fcl 
+                                             (SUB:conj-s:que:::: que)
+                                             (SUBJ:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:presidente:M_S::np-def: presidente)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:M_S::artd: o)
+                                                   (H:prop:Haiti:M_S::: Haiti)))
+                                               (,)
+                                               (APP:np 
+                                                 (H:prop:Jean-Bertand_Aristide:M_S::: Jean-Bertand_Aristide)))
+                                             (P:vp 
+                                               (MV:v-fin:voltar:PR_3S_SUBJ::fs-temp: volte))
+                                             (SA:pp 
+                                               (H:prp:a:::: a+)
+                                               (P<:np 
+                                                 (>N:art:o:M_S::artd: o)
+                                                 (H:n:poder:M_S::np-def: poder))))))))
+                       (.)))

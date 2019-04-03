@@ -1,0 +1,43 @@
+(FRASE CP648-5 (UTT:np (H:n:consequência:F_S::DERS:np-idf: Consequência)
+                       (N<:adjp (H:adj:imediato:F_S: imediata))
+                       (;)
+                       (APP:fcl (SUBJ:np 
+                                  (>N:art:o:F_P::artd: as)
+                                  (H:n:diatribe:F_P::np-def: diatribes)
+                                  (N<:pp 
+                                    (H:prp:de:::: de+)
+                                    (P<:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (>N:adj:técnico:M_S::: técnico)
+                                      (H:prop:Johan_Cruyff:M_S::: Johan_Cruyff)))
+                                  (,)
+                                  (N<PRED:icl::::pcp: 
+                                    (P:vp 
+                                      (MV:v-pcp:consentir:F_P::: consentidas))
+                                    (ADVL:pp 
+                                      (H:prp:com:::: com)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:n:êxito:M_P::np-def: êxitos))))
+                                  (,)
+                                  (N<PRED:icl 
+                                    (P:vp 
+                                      (MV:v-pcp:apresentar:F_P::: apresentadas))
+                                    (ADVL:acl 
+                                      (ADVL:advp 
+                                        (H:adv:mesmo:::quant: mesmo))
+                                      (PRD:adv:como:::rel: como)
+                                      (SC:np 
+                                        (H:n:sinal:M_P::np-idf: sinais)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:genialidade:F_S::np-idf: genialidade))))))
+                                  (,))
+                                (P:vp- (AUX:v-fin:passar:PR_3P_IND::: passam))
+                                (ADVL:advp 
+                                  (H:adv:agora:::kc: agora))
+                                (-P:vp (PRT-AUX:prp:a:::: a)
+                                       (AUX:v-inf:ser:::: ser)
+                                       (MV:v-pcp:criticar:F_P::anr_pass:fs-rel:icl-subst:passive: criticadas)))
+                       (.)))

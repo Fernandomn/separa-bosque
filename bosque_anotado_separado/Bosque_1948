@@ -1,0 +1,51 @@
+(FRASE CP373-1 (STA:fcl (ADVL:pp (H:prp:relativamente_a:: Relativamente_a+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:prop:FEF:M_S::: FEF)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (>N:adj:presente:M_S::: presente)
+                                            (H:n:ano:M_S::anr_np-def: ano)))
+                                        ({)
+                                        (N<PRED:np 
+                                          (>N:art:um:M_S::arti: um)
+                                          («)
+                                          (H:n:bolo:M_S::anr_np-idf: bolo)
+                                          (»)
+                                          (N<:adjp 
+                                            (H:adj:global:M_S::: global))
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (>N:num:253:M_P::card: 253)
+                                              (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                              (N<ARG:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (H:n:conto:M_P::np-idf: contos))))))
+                                        (})))
+                        (,)
+                        (SUBJ:np (>N:art:o:F_P::artd: as)
+                                 (H:n:autarquia:F_P::np-def: autarquias)
+                                 (N<:adjp 
+                                   (H:adj:português:F_P::: portuguesas)))
+                        (P:vp- (AUX:v-fin:dever:FUT_3P_IND::: deverão))
+                        (,)
+                        (ADVL:advp (H:adv:assim:::: assim))
+                        (,)
+                        (-P:vp (MV:v-inf:receber:::: receber))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (>N:adj:próximo:M_S::: próximo)
+                                        (H:n:ano:M_S::anr_np-def: ano)))
+                        (ACC:np (>N:advp 
+                                  (>A:adv:mais:_::KOMP:quant: mais)
+                                  (H:adv:quase:::quant: quase))
+                                (>N:num:18:M_P::card: 18)
+                                (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)
+                                (N<ARG:pp 
+                                  (H:prp:de:::: de)
+                                  (P<:np 
+                                    (H:n:conto:M_P::np-dequant:np-idf: contos))))
+                        (.)))

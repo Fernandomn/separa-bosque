@@ -1,0 +1,43 @@
+(FRASE CP795-9 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                 (H:n:gestão:F_S::np-def: gestão)
+                                 (N<:pp:de_topo:: de_topo)
+                                 (--)
+                                 (N<PRED:np 
+                                   (H:n:alvo:M_S::np-idf: alvo)
+                                   (N<:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (MV:v-inf:atingir:::: atingir))
+                                       (ADVL:pp 
+                                         (H:prp:em:::: em)
+                                         (P<:np 
+                                           (H:pron-det:muito:M_P::quant: muitos)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:pron-det:este:M_P::dem: estes)
+                                               (H:n:jogo:M_P::np-def:np-partitive2: jogos))))))))
+                                 (--))
+                        (P:vp (AUX:v-fin:poder:PR_3S_IND::: pode)
+                              (MV:v-fin:ganhar:PR_3S_IND::hyfen: ganha-))
+                        (ACC:np (H:pron-pers:eles:M_3P_ACC::: los))
+                        (ADVL:fcl (SUB:conj-s:se:::: se)
+                                  (X:cu (CJT:fcl 
+                                          (ACC:np 
+                                            (H:pron-pers:eles:M_3P_ACC::: os))
+                                          (P:vp 
+                                            (MV:v-fin:conhecer:FUT_3S_SUBJ::nosubj: conhecer))
+                                          (ADVL:advp 
+                                            (H:adv:bem:::quant: bem)))
+                                        (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                        (CJT:fcl 
+                                          (P:vp 
+                                            (MV:v-fin:saber:FUT_3S_SUBJ::nosubj: souber))
+                                          («)
+                                          (P:vp 
+                                            (MV:v-fin:jogar:PR_3S_IND::hyfen:nosubj: joga-))
+                                          (ACC:np 
+                                            (H:pron-pers:eles:M_3P_ACC::: los))
+                                          (»))))
+                        (.)))

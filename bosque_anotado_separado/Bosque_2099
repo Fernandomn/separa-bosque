@@ -1,0 +1,88 @@
+(FRASE CP403-3 (STA:fcl (ADVL:pp (H:pp:de_acordo:: De_acordo)
+                                 (P<:pp (H:prp:com:::: com)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:nota:F_S::np-def: nota)
+                                          (N<:adjp 
+                                            (H:adj:oficioso:F_S::: oficiosa))
+                                          (N<:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:emitir:F_S::: emitida))
+                                            (PASS:pp 
+                                              (H:prp:por:::: por+)
+                                              (P<:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:gabinete:M_S::np-def: gabinete)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de)
+                                                  (P<:np 
+                                                    (H:prop:Cavaco_Silva:M_S::: Cavaco_Silva)))))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (>N:v-pcp:referir:M_S::: referido)
+                                 (H:n:título:M_S::anr_np-idf: título)
+                                 (X:cu (CJT:x::::predicate: 
+                                         (P:vp 
+                                           (MV:v-fin:ser:PR_3S_IND::nosubj: é))
+                                         («)
+                                         (SC:cu 
+                                           (CJT:adjp 
+                                             (>A:adv:completamente:::: completamente)
+                                             (H:adj:falso:M_S::: falso))
+                                           (CO:conj-c:e:::co-sc: e)
+                                           (CJT:adjp 
+                                             (H:adj:abusivo:M_S::: abusivo)))
+                                         (»)
+                                         (ADVL:fcl 
+                                           (SUB:conj-s:porque:::: porque)
+                                           («)
+                                           (SUBJ:np 
+                                             (>N:art:o:M_S::artd: o)
+                                             (H:n:primeiro-ministro:M_S::np-def: primeiro-ministro))
+                                           (ADVL:advp 
+                                             (H:adv:não:::: não))
+                                           (P:vp 
+                                             (MV:v-fin:dar:PR_3S_IND::fs-cause: dá))
+                                           (ACC:np 
+                                             (H:n:dinheiro:M_S::np-idf: dinheiro))
+                                           (PIV:pp 
+                                             (H:prp:a:::: a+)
+                                             (P<:np 
+                                               (>N:art:o:M_P::artd: os)
+                                               (H:n:partido:M_P::np-def: partidos)))
+                                           (»)))
+                                       (,)
+                                       (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                                       (CJT:x::::predicate: 
+                                         (P:vp 
+                                           (MV:v-fin:associar:PR_3S_IND::nosubj: associa))
+                                         (ACC:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:teor:M_S::np-def: teor)
+                                           (N<ARG:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:notícia:F_S::np-def: notícia))))
+                                         (PIV:pp 
+                                           (H:prp:a:::: a)
+                                           (P<:np 
+                                             (>N:art:um:M_S::arti: um)
+                                             (H:n:procedimento:M_S::np-idf: procedimento)
+                                             (N<:adjp 
+                                               (H:adj:legal:M_S::: legal))))
+                                         (ADVL:pp 
+                                           (H:prp:à_luz_de:::: à_luz_de+)
+                                           (P<:np 
+                                             (>N:art:o:S::artd: a)
+                                             (H:n:lei:F_S::np-def: lei)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:financiamento:M_S::np-idf: financiamento)
+                                                 (N<ARGO:pp 
+                                                   (H:prp:de:::: de+)
+                                                   (P<:np 
+                                                     (>N:art:o:M_P::artd: os)
+                                                     (H:n:partido:M_P::np-def: partidos))))))))))
+                        (.)))

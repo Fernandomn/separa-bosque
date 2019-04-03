@@ -1,0 +1,33 @@
+(FRASE CP988-2 (STA:fcl (SUBJ:np- (>N:art:o:M_S::artd: O)
+                                  (>N:adj:primeiro:M_S::NUM-ord: primeiro)
+                                  (H:n:concerto:M_S::anr_np-def: concerto))
+                        (P:vp (AUX:v-fin:ser:PR_3S_IND: é)
+                              (MV:v-pcp:dirigir:M_S::anr_pass:passive: dirigido))
+                        (PASS:pp (H:prp:por:::: por)
+                                 (P<:np (H:prop:Piero_Bellugi:M_S::: Piero_Bellugi)))
+                        (-SUBJ:np (,)
+                                  (N<PRED:pp 
+                                    (H:prp:com:::: com)
+                                    (P<:np 
+                                      (>N:art:o:M_P::artd: os)
+                                      (H:n:solista:M_P::np-def: solistas)
+                                      (N<:cu 
+                                        (CJT:np 
+                                          (H:prop:Pedro_Corostola:M_S::: Pedro_Corostola)
+                                          ({)
+                                          (N<PRED:np 
+                                            (H:n:violoncelo:M_S::np-idf: violoncelo))
+                                          (}))
+                                        (,)
+                                        (CJT:np 
+                                          (H:cu 
+                                            (CJT:np 
+                                              (H:prop:Maria_do_Rosário_Ferreira:F_S::: Maria_do_Rosário_Ferreira))
+                                            (CO:conj-c:e:::co-postnom: e)
+                                            (CJT:np 
+                                              (H:prop:Palmira_Troufa:F_S::: Palmira_Troufa)))
+                                          ({)
+                                          (N<PRED:np 
+                                            (H:n:soprano:M_P::np-idf: sopranos))
+                                          (}))))))
+                        (.)))

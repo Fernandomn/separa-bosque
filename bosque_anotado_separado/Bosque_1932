@@ -1,0 +1,57 @@
+(FRASE CP369-1 (STA:fcl (ADVL:advp (H:adv:no_entanto:kc: No_entanto))
+                        (,)
+                        (ADVL:pp (H:prp:após:::: após)
+                                 (P<:np (>N:pron-det:este:F_S::dem: esta)
+                                        (H:n:corrida:F_S::np-def: corrida)
+                                        (N<:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:dólar:M_S::np-def: dólar)))
+                                        (N<:pp 
+                                          (H:prp:durante:::: durante)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (>N:adj:primeiro:F_S::NUM-ord: primeira)
+                                            (H:n:metade:F_S::anr_np-def:numfract: metade)
+                                            (N<ARG:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_S::artd: a)
+                                                (H:n:semana:F_S::np-def:np-partitive2: semana)))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:mercado:M_S::np-def: mercado))
+                        (P:vp (MV:v-fin:optar:PS_3S_IND::: optou))
+                        (PIV:pp (H:prp:por:::: por)
+                                (P<:np (>N:art:um:F_S::arti: uma)
+                                       (H:n:posição:F_S::np-idf: posição)
+                                       (N<:adjp 
+                                         (>A:adv:mais:_::KOMP:quant: mais)
+                                         (H:adj:defensivo:F_S::: defensiva))
+                                       (N<:fcl 
+                                         (SUBJ:np 
+                                           (H:pron-indp:que:F_S::rel: que))
+                                         (P:vp 
+                                           (MV:v-fin:provocar:PS_3S_IND::fs-rel: provocou))
+                                         (ACC:np 
+                                           (>N:art:um:M_S::arti: um)
+                                           (>N:adj:ligeiro:M_S::: ligeiro)
+                                           (H:n:recuo:M_S::anr_np-idf: recuo)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:dólar:M_S::np-def: dólar)))
+                                           (N<:pp 
+                                             (H:prp:face_a:::: face_a)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:generalidade:F_S::np-def: generalidade)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de+)
+                                                 (P<:np 
+                                                   (>N:art:o:F_P::artd: as)
+                                                   (>N:adj:restante:F_P::: restantes)
+                                                   (H:n:divisa:F_P::anr_np-def: divisas)))))))))
+                        (.)))

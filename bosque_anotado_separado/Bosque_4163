@@ -1,0 +1,72 @@
+(FRASE CP809-5 (STA:fcl (PRED:cu (CJT:pp 
+                                   (H:prp:de:: De)
+                                   (P<:np 
+                                     (H:n:bandeira:F_S::np-idf: bandeira)
+                                     (N<:adjp 
+                                       (H:adj:branco:F_S::: branca))
+                                     (N<:pp 
+                                       (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:ombro:M_S::np-def: ombro)))))
+                                 (,)
+                                 (CJT:icl::::ger: 
+                                   (P:vp 
+                                     (MV:v-ger:reclamar:::: reclamando))
+                                   (ACC:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:encerramento:M_S::np-def: encerramento)
+                                     (N<ARGO:pp 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:F_P::artd: as)
+                                         (>N:adj:grande:F_P::: grandes)
+                                         (H:n:superfície:F_P::anr_np-def: superfícies)))
+                                     (N<:pp 
+                                       (H:prp:a:::: a+)
+                                       (P<:np 
+                                         (>N:art:o:M_S::artd: o)
+                                         (H:n:domingo:M_S::np-def: domingo))))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:comerciante:M_S::np-def: comerciante))
+                        (,)
+                        (PRED:pp (H:prp:de:::: de)
+                                 (P<:np (H:n:face:F_S::np-idf: face)
+                                        (N<:v-pcp:congestionar:F_S::: congestionada)))
+                        (,)
+                        (P:vp (MV:v-fin:resumir:PS_3S_IND::: resumiu))
+                        (ADVL:pp (H:prp:a:::: a+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (>N:pron-det:seu:F_S::si: sua)
+                                        (H:n:maneira:F_S::anr_np-def: maneira)))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (H:n:intenção:F_S::np-def: intenção)
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (>N:num:150:M_P::card: 150)
+                                         (H:n:lojista:M_P::anr_np-count:anr_np-def: lojistas)
+                                         (N<:adjp 
+                                           (H:adj:presente:M_P::: presentes)
+                                           (A<:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:F_S::artd: a)
+                                               (H:n:reunião:F_S::np-def: reunião)
+                                               (N<:icl::::pcp: 
+                                                 (P:vp 
+                                                   (MV:v-pcp:realizar:F_S::: realizada))
+                                                 (ADVL:advp 
+                                                   (H:adv:anteontem:::: anteontem)
+                                                   (A<:pp 
+                                                     (H:prp:a:::: a+)
+                                                     (P<:np 
+                                                       (>N:art:o:F_S::artd: a)
+                                                       (H:n:noite:F_S::np-def: noite))))
+                                                 (,)
+                                                 (ADVL:pp 
+                                                   (H:prp:em:::: em)
+                                                   (P<:np 
+                                                     (H:prop:Vila_Nova_de_Gaia:F_S::: Vila_Nova_de_Gaia))))))))))
+                        (.)))

@@ -1,0 +1,47 @@
+(FRASE CP383-2 (STA:fcl (CO:conj-c:mas:: Mas)
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:se:::: se)
+                                  (DAT:np 
+                                    (H:pron-pers:eu:MF_1S_DAT::refl: me))
+                                  (P:vp (MV:v-fin:perguntar:PR_3S_IND::fs-cond:nosubj: pergunta))
+                                  (ACC:fcl 
+                                    (SUB:conj-s:se:::: se)
+                                    (SUBJ:np 
+                                      (>N:art:o:M_S::artd: o)
+                                      (H:n:parque:M_S::np-def: parque)
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:n:feira:F_P::np-idf: feiras)))
+                                      (N<:pp 
+                                        (H:prp:de:::: de)
+                                        (P<:np 
+                                          (H:prop:Lisboa:F_S::: Lisboa))))
+                                    (P:vp 
+                                      (MV:v-fin:ser:FUT_3S_IND::fs-cond:fs-subst: será))
+                                    (SC:adjp 
+                                      (>A:adv:mais:_::KOMP:quant: mais)
+                                      (H:adj:rentável:M_S::: rentável)
+                                      (KOMP<:acl 
+                                        (COM:conj-s:que:::: que)
+                                        (SC:np 
+                                          (H:pron-det:o:M_S::dem: o)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:prop:Porto:M_S::: Porto))))))))
+                        (,)
+                        (SUBJ:np (H:pron-pers:eu:MF_1S_NOM::: eu))
+                        (ADVL:advp (H:adv:pessoalmente:::: pessoalmente))
+                        (P:vp (MV:v-fin:dizer:PR_1S_IND::hyfen: digo-))
+                        (DAT:np (H:pron-pers:ele/ela:MF_3S_DAT::: lhe))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (P:vp (MV:v-fin:estar:PR_1S_IND::fs-subst:nosubj: estou))
+                                 (SC:icl::::pcp: 
+                                   (P:vp 
+                                     (MV:v-pcp:convencer:M_S::: convencido))
+                                   (SUB:conj-s:que:::: que)
+                                   (ADVL:advp 
+                                     (H:adv:sim:::: sim))))
+                        (.)))

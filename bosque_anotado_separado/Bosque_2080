@@ -1,0 +1,97 @@
+(FRASE CP398-3 (STA:fcl (--)
+                        (SUBJ:np (>N:art:o:F_P::artd: as)
+                                 (>N:num:dois:F_P::card: duas)
+                                 (H:n:estação:F_P::anr_np-count:anr_np-def: estações)
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:F_P::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:constituir:PR_3P_IND::fs-rel: constituem))
+                                   (ACC:np 
+                                     (>N:art:o:M_S::artd: o)
+                                     (H:n:consórcio:M_S::np-def: consórcio)
+                                     (N<:pp:em_causa:: em_causa)))
+                                 (--)
+                                 (APP:cu 
+                                   (CJT:np 
+                                     (H:prop:Antena_1:F_S::: Antena_1))
+                                   (CO:conj-c:e:::co-app: e)
+                                   (CJT:np 
+                                     (H:prop:Rádio_Renascença:M_S::: Rádio_Renascença)))
+                                 (--))
+                        (P:vp (MV:v-fin:assumir:PS_3P_IND::: assumiram))
+                        (,)
+                        (ADVL:pp (H:prp:desde:::: desde)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:início:M_S::np-def: início)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:contacto:M_P::np-def: contactos)
+                                            (N<:fcl 
+                                              (SUBJ:np 
+                                                (H:pron-indp:que:M_P::rel: que))
+                                              (P:vp 
+                                                (MV:v-fin:estabelecer:PS_3P_IND::fs-rel: estabeleceram))
+                                              (ADVL:pp:entre_si:::: entre_si))))))
+                        (,)
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:M_P::artd: os)
+                                   (H:n:programa:M_P::np-def: programas)
+                                   (N<:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (MV:v-inf:realizar:3S::icl-subst: realizar))
+                                       (ADVL:pp 
+                                         (H:prp:por:::: por)
+                                         (P<:adjp 
+                                           (>A:pron-det:cada:F_S::quant: cada)
+                                           (H:num:um:F_S::card: uma)
+                                           (A<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:F_P::artd: as)
+                                               (H:n:parte:F_P::np-def: partes))))))))
+                                 (ACC-PASS:np 
+                                   (H:pron-pers:se:F_3P_ACC::: se))
+                                 (P:vp (MV:v-fin:nortear:PR_3P_COND::fs-subst:se-passive: norteariam))
+                                 (PASS:pp 
+                                   (H:prp:por:::: por+)
+                                   (P<:np 
+                                     (>N:art:o:F_P::artd: as)
+                                     (H:n:característica:F_P::np-def: características)
+                                     (N<:fcl 
+                                       (SUBJ:np 
+                                         (H:pron-indp:que:F_P::rel: que))
+                                       (ACC:np 
+                                         (H:pron-pers:elas:F_3P_ACC::: as))
+                                       (P:vp 
+                                         (MV:v-fin:marcar:PR_3P_IND::fs-rel: marcam)))
+                                     (;)
+                                     (APP:cu 
+                                       (CJT:np 
+                                         (H:art:o:F_S::artd: a)
+                                         (N<:np 
+                                           (H:prop:RR:M_S::: RR))
+                                         (,)
+                                         (N<PRED:np 
+                                           (H:n:rádio:F_S::np-idf: rádio)
+                                           (N<:adjp 
+                                             (H:adj:privado:F_S::: privada)))
+                                         (,))
+                                       (CJT:np 
+                                         (>N:art:o:F_S::artd: a)
+                                         (H:prop:Antena_1:F_S::: Antena_1)
+                                         (,)
+                                         (N<PRED:np 
+                                           (H:n:rádio:M_S::np-idf: rádio)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:serviço:M_S::np-idf: serviço)
+                                               (N<:adjp 
+                                                 (H:adj:público:M_S::: público))))))))))
+                        (;)))

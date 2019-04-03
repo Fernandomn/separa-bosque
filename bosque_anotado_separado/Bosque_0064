@@ -1,0 +1,47 @@
+(FRASE CP12-1 (STA:fcl (ADVL:pp (H:prp:a:: A)
+                                (P<:icl (P:vp 
+                                          (MV:v-inf:aumentar:::: aumentar))
+                                        (ACC:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:confusão:F_S::np-def: confusão)
+                                          (N<:adjp 
+                                            (H:adj:geral:F_S::: geral))
+                                          (N<:pp 
+                                            (H:prp:em:::: em+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:meio:M_P::np-def: meios)
+                                              (N<:adjp 
+                                                (H:adj:jornalístico:M_P::: jornalísticos)))))))
+                       (,)
+                       (P:vp (MV:v-fin:chegar:PS_3S_IND::: chegou))
+                       (ADVL:advp (H:adv:entretanto:::kc: entretanto))
+                       (PIV:pp (H:prp:a:::: a+)
+                               (P<:np (>N:art:o:P::artd: as)
+                                      (H:n:redacção:F_P::np-def: redacções)))
+                       (SUBJ:np (>N:art:um:M_S::arti: um)
+                                (>N:pron-det:outro:M_S::diff: outro)
+                                (H:n:fax:M_S::anr_np-idf: fax)
+                                (,)
+                                (N<PRED:np 
+                                  (H:pron-det:este:M_S::dem: este)
+                                  (N<:icl::::pcp: 
+                                    (P:vp 
+                                      (MV:v-pcp:assinar:M_S::: assinado))
+                                    (PASS:pp 
+                                      (H:prp:por:::: por+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:deputado:M_S::np-def: deputado)
+                                        (N<:np 
+                                          (H:prop:Pacheco_Pereira:M_S::: Pacheco_Pereira))))))
+                                (,)
+                                (N<PRED:fcl 
+                                  (ADVL:pp 
+                                    (H:prp:em:::: em)
+                                    (P<:np 
+                                      (H:pron-indp:que:M_S::rel: que)))
+                                  (SUBJ:np 
+                                    (H:pron-pers:se:M_3S_ACC::: se))
+                                  (P:vp (MV:v-fin:afirmar:PR_3S_IND::fs-rel: afirma))))
+                       (;)))

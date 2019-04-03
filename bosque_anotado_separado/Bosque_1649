@@ -1,0 +1,78 @@
+(FRASE CP314-1 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:um:M_S::arti: um)
+                                        (H:n:país:M_S::np-idf: país)
+                                        (N<:fcl 
+                                          (ADVL:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (H:pron-indp:que:M_S::rel: que)))
+                                          (--)
+                                          (ADVL:pp 
+                                            (>P:adv:ainda:::: ainda)
+                                            (H:prp:segundo:::: segundo)
+                                            (P<:np 
+                                              (H:n:estatística:F_P::np-idf: estatísticas)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:F_P::artd: as)
+                                                  (H:prop:Nações_Unidas:F_P::: Nações_Unidas)))))
+                                          (--)
+                                          (SUBJ:advp 
+                                            (H:adv:mais:_::KOMP:quant: mais)
+                                            (KOMP<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:metade:F_S::np-idf:numfract: metade)
+                                                (N<ARG:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:F_S::artd: a)
+                                                    (H:n:população:F_S::np-def:np-partitive2: população))))))
+                                          (P:vp 
+                                            (MV:v-fin:ter:PR_3S_IND::fs-rel: tem))
+                                          (ACC:np 
+                                            (>N:adjp 
+                                              (>A:adv:menos_de:::quant: menos_de)
+                                              (H:num:15:M_P::card: 15))
+                                            (H:n:ano:M_P::anr_np-count:anr_np-def: anos)))))
+                        (,)
+                        (P:vp (MV:v-fin:ser:PS_3S_IND::: foi))
+                        (SC:adjp (H:adj:estranho:M_S::: estranho))
+                        (ADVL:pp (H:prp:para:::: para)
+                                 (P<:np (>N:pron-det:muito:M_P::quant: muitos)
+                                        (H:n:observador:M_P::anr_np-idf: observadores)))
+                        (SUBJ:fcl (SUB:conj-s:que:::: que)
+                                  (SUBJ:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:número:M_S::np-def: número)
+                                    (N<:pp 
+                                      (H:prp:de:::: de)
+                                      (P<:np 
+                                        (H:n:eleitor:M_P::np-idf: eleitores)
+                                        (N<:adjp 
+                                          (H:adj:potencial:M_P::: potenciais)))))
+                                  (ACC-PASS:np 
+                                    (H:pron-pers:se:M_3S_ACC::: se))
+                                  (P:vp (MV:v-fin:estimar:IMPF_3S_SUBJ::fs-subst:se-passive: estimasse))
+                                  (PIV:pp 
+                                    (H:prp:em:::: em)
+                                    (P<:np 
+                                      (>N:num:5,8:M_P::card: 5,8)
+                                      (H:n:milhão:M_P::anr_np-count:anr_np-def:card:num: milhões)))
+                                  (,)
+                                  (ADVL:pp 
+                                    (H:prp:para:::: para)
+                                    (P<:np 
+                                      (>N:art:um:F_S::arti: uma)
+                                      (H:n:população:F_S::np-idf: população)
+                                      (N<:adjp 
+                                        (H:adj:total:F_S::: total))
+                                      (N<:icl::::pcp: 
+                                        (P:vp 
+                                          (MV:v-pcp:calcular:F_S::: calculada))
+                                        (PIV:pp 
+                                          (H:prp:em:::: em)
+                                          (P<:adjp 
+                                            (H:num:dez:M_P::card: dez)))))))
+                        (.)))

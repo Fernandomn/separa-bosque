@@ -1,0 +1,29 @@
+(FRASE CP527-5 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:treinador:M_S::np-def: treinador)
+                                 (N<:adjp 
+                                   (H:adj:inglês:M_S: inglês)))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:libertar:PR_3S_IND::: liberta))
+                                (ADVL:advp 
+                                  (H:adv:mais:_::KOMP:quant: mais))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:equipa:F_S::np-def: equipa)))
+                              (,)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:jogar:PR_3S_IND::nosubj: joga))
+                                (ADVL:pp 
+                                  (H:prp:com:::: com)
+                                  (P<:np 
+                                    (>N:pron-det:muito:F_P::KOMP:quant: mais)
+                                    (H:n:unidade:F_P::anr_np-idf: unidades)
+                                    (N<:pp 
+                                      (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:área:F_S::np-def: área))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:favorecer:PR_3S_IND::nosubj: favorece))
+                                (ACC:np (>N:art:o:M_S::artd: o)
+                                        (H:n:ponta-de-lança:M_S::np-def: ponta-de-lança))))
+                        (.)))

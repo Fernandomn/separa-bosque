@@ -1,0 +1,58 @@
+(FRASE CP192-6 (STA:fcl (ADVL:advp (>A:adv:mais:quant: Mais)
+                                   (H:adv:tarde:::: tarde))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:prop:Ford_Fiesta:M_S::: Ford_Fiesta))
+                        (P:vp (AUX:v-fin:voltar:PS_3S_IND::: voltou)
+                              (PRT-AUX:prp:a:::: a)
+                              (MV:v-inf:parar:::: parar))
+                        (SA:pp (H:prp:em:::: em+)
+                               (P<:np (>N:art:o:M_S::artd: o)
+                                      (>N:pron-det:mesmo:M_S::diff: mesmo)
+                                      (H:n:local:M_S::anr_np-def: local)
+                                      (--)
+                                      (N<PRED:cu 
+                                        (CJT:pp 
+                                          (H:prp:a:::: a+)
+                                          (P<:np 
+                                            (>N:art:o:S::artd: a)
+                                            (H:n:esquina:F_S::np-def: esquina)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:S::artd: a)
+                                                (H:n:rua:F_S::np-def: rua)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:S::artd: a)
+                                                    (H:prop:Pensão_Beira_Baixa:F_S::: Pensão_Beira_Baixa)
+                                                    (,)
+                                                    (N<PRED:fcl 
+                                                      (ADVL:advp 
+                                                        (H:adv:onde:_::ks:rel: onde))
+                                                      (SUBJ:np 
+                                                        (H:prop:Carlos_Miguel:M_S::: Carlos_Miguel))
+                                                      (P:vp 
+                                                        (MV:v-fin:almoçar:PS_3S_IND::fs-rel: almoçou)))
+                                                    (,)))))))
+                                        (CO:conj-c:e:::: e)
+                                        (CJT:pp 
+                                          (>P:advp 
+                                            (>A:adv:também:::: também)
+                                            (H:adv:muito:::quant: muito))
+                                          (H:prp:próximo_de:::: próximo_de)
+                                          (P<:np 
+                                            (>N:art:um:M_S::arti: um)
+                                            (H:n:eucaliptal:M_S::np-idf: eucaliptal)
+                                            (N<:fcl 
+                                              (ADVL:advp 
+                                                (H:adv:onde:_::ks:rel: onde))
+                                              (SUBJ:np 
+                                                (>N:art:o:M_S::artd: o)
+                                                (H:n:rapto:M_S::np-def: rapto))
+                                              (ACC:np 
+                                                (H:pron-pers:se:M_3S_ACC::: se))
+                                              (P:vp 
+                                                (MV:v-fin:consumar:PS_3S_IND::fs-rel: consumou))))))))
+                        (.)))

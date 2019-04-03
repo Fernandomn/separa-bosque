@@ -1,0 +1,61 @@
+(FRASE CP35-1 (STA:fcl (ADVL:pp (H:prp:para:: Para)
+                                (P<:np (>N:pron-det:muito:M_P::quant: muitos)
+                                       (H:n:analista:M_P::anr_np-idf: analistas)))
+                       (SUBJ:np (>N:art:o:M_S::artd: o)
+                                (>N:adj:verdadeiro:M_S::: verdadeiro)
+                                (H:n:problema:M_S::anr_np-def: problema))
+                       (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                       (SC:np (>N:art:o:M_S::artd: o)
+                              (H:n:facto:M_S::np-def: facto)
+                              (N<:pp (H:prp:de:::: de)
+                                     (P<:icl 
+                                       (ADVL:advp 
+                                         (H:adv:não:::: não))
+                                       (SUBJ:np 
+                                         (H:pron-pers:se:MF_3SP_ACC::: se))
+                                       (P:vp 
+                                         (AUX:v-inf:poder:3S::: poder)
+                                         (MV:v-inf:falar:::: falar))
+                                       (PIV:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (H:n:desenvolvimento:M_S::np-def: desenvolvimento)
+                                           (N<ARGO:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:S::artd: a)
+                                               (H:n:economia:F_S::np-def: economia)
+                                               (N<:adjp 
+                                                 (H:adj:palestiniano:F_S::: palestiniana))))
+                                           (N<:acl 
+                                             (PRD:adv:como:::: como)
+                                             (SUBJ:np 
+                                               (>N:art:um:M_S::arti: um)
+                                               (H:n:facto:M_S::np-idf: facto)
+                                               (N<:v-pcp:isolar:M_S::: isolado)))))
+                                       (,)
+                                       (ADVL:fcl 
+                                         (SUB:conj-s:porque:::: porque)
+                                         (SUBJ:np 
+                                           (H:pron-pers:ele:M_3S_NOM::: ele))
+                                         (ADVL:advp 
+                                           (H:adv:só:::: só))
+                                         (P:vp 
+                                           (MV:v-fin:fazer:PR_3S_IND::fs-cause: faz))
+                                         (ACC:np 
+                                           (H:n:sentido:M_S::np-idf: sentido))
+                                         (PRED:icl::::pcp: 
+                                           (P:vp 
+                                             (MV:v-pcp:integrar:M_S::: integrado))
+                                           (ADVL:pp 
+                                             (H:prp:em:::: em+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:desenvolvimento:M_S::np-def: desenvolvimento)
+                                               (N<ARGO:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (>N:pron-det:todo_o:M_S::quant: todo_o)
+                                                   (H:prop:Médio_Oriente:M_S::: Médio_Oriente))))))))))
+                       (.)))

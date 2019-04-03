@@ -1,0 +1,68 @@
+(FRASE CP943-2 (STA:fcl (ADVL:advp (H:adv:no_entanto:kc: No_entanto))
+                        (,)
+                        (ADVL:np (>N:adjp 
+                                   (>A:adv:apenas:::rel: apenas)
+                                   (H:num:três:M_P::card: três))
+                                 (H:n:mês:M_P::anr_np-count:anr_np-def: meses)
+                                 (N<:advp 
+                                   (H:adv:depois:::: depois)
+                                   (A<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:F_S::artd: a)
+                                       (H:n:entrada:F_S::np-def: entrada)
+                                       (N<:pp:em_vigor:::: em_vigor)
+                                       (N<ARGO:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (>N:adj:novo:M_S::: novo)
+                                           (H:n:horário:M_S::anr_np-def: horário)
+                                           (N<:pp 
+                                             (H:prp:de:::: de)
+                                             (P<:np 
+                                               (H:n:funcionamento:M_S::np-idf: funcionamento)))
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:Mercado_de_Manuel_Firmino:M_S::np-def: Mercado_de_Manuel_Firmino)))
+                                           (,)
+                                           (N<PRED:fcl 
+                                             (SUBJ:np 
+                                               (H:pron-indp:que:M_S::rel: que))
+                                             (P:vp 
+                                               (MV:v-fin:estipular:IMPF_3S_IND::fs-rel: estipulava))
+                                             (ACC:np 
+                                               (>N:art:um:M_S::arti: um)
+                                               (>N:adj:novo:M_S::: novo)
+                                               (H:n:período:M_S::anr_np-idf: período)
+                                               (N<:pp 
+                                                 (H:prp:de:::: de)
+                                                 (P<:np 
+                                                   (H:n:abertura:F_S::np-idf: abertura)))
+                                               (N<:pp 
+                                                 (H:prp:entre:::: entre)
+                                                 (P<:cu 
+                                                   (CJT:np 
+                                                     (>N:art:o:F_P::artd: as)
+                                                     (H:n:17h00:F_P::np-def: 17h00))
+                                                   (CO:conj-c:e:::co-prparg: e)
+                                                   (CJT:np 
+                                                     (>N:art:o:F_P::artd: as)
+                                                     (H:n:20h00:F_P::np-def: 20h00))))))
+                                           (,)))))))
+                        (P:vp (AUX:v-fin:ser:PS_3S_IND::: foi)
+                              (MV:v-pcp:decidir:M_S::anr_pass:passive: decidido))
+                        (SUBJ:icl (P:vp (AUX:v-inf:voltar:::: voltar)
+                                        (PRT-AUX:prp:a:::: a)
+                                        (MV:v-inf:encerrar:::icl-subst: encerrar))
+                                  (ACC:np 
+                                    (>N:art:o:M_S::artd: o)
+                                    (H:n:mercado:M_S::np-def: mercado))
+                                  (ADVL:pp 
+                                    (H:prp:da_parte_de:::: da_parte_de+)
+                                    (P<:np 
+                                      (>N:art:o:F_S::artd: a)
+                                      (H:n:tarde:F_S::anr_np-idf: tarde))))
+                        (.)))

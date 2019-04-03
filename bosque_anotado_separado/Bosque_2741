@@ -1,0 +1,61 @@
+(FRASE CP524-5 (STA:fcl (ADVL:pp (H:prp:com:: Com)
+                                 (P<:np (H:n:adversário:M_P::np-idf: adversários)
+                                        (N<PRED:acl 
+                                          (COM:adv:como:::rel: como)
+                                          (SC:cu 
+                                            (CJT:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:grego:M_P::np-def: gregos)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:prop:Olympiakos:M_S::: Olympiakos))))
+                                            (,)
+                                            (CJT:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:espanhol:M_P::np-def: espanhóis)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:prop:Gran_Canaria:M_S::: Gran_Canaria))))
+                                            (CO:conj-c:e:::: e)
+                                            (CJT:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n-adj:italiano:M_P::np-def: italianos)
+                                              (N<:pp 
+                                                (H:prp:de:::: de+)
+                                                (P<:np 
+                                                  (>N:art:o:M_S::artd: o)
+                                                  (H:prop:Alpitour_Cuneo:M_S::: Alpitour_Cuneo)))
+                                              ({)
+                                              (N<PRED:np 
+                                                (>N:adj:actual:M_P::: actuais)
+                                                (H:n:detentor:M_P::anr_np-idf: detentores)
+                                                (N<:pp 
+                                                  (H:prp:de:::: de+)
+                                                  (P<:np 
+                                                    (>N:art:o:M_S::artd: o)
+                                                    (H:n:troféu:M_S::np-def: troféu))))
+                                              (}))))))
+                        (,)
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:M_S::artd: o)
+                                       (H:prop:Castelo_da_Maia:M_S::: Castelo_da_Maia)))
+                        (ADVL:advp- (>A:adv:pouco:::quant: pouco)
+                                    (H:adv:mais:_::KOMP:quant: mais))
+                        (P:vp (MV:v-fin:restar:PR_3S_IND::nosubj: resta))
+                        (-ADVL:advp (KOMP<:icl 
+                                      (COM:conj-s:do_que:::: do_que)
+                                      (P:vp 
+                                        (MV:v-inf:tentar:::: tentar))
+                                      (ACC:icl 
+                                        (P:vp 
+                                          (MV:v-inf:ter:::icl-subst: ter))
+                                        (ACC:np 
+                                          (>N:art:um:F_S::arti: uma)
+                                          (H:n:participação:F_S::np-idf: participação)
+                                          (N<:adjp 
+                                            (H:adj:digna:F_S::: digna))))))
+                        (.)))

@@ -1,0 +1,54 @@
+(FRASE CP590-4 (STA:fcl (ADVL:pp (H:prp:segundo:: Segundo)
+                                 (P<:np (H:cu 
+                                          (CJT:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:escritor:M_S::np-def: escritor))
+                                          (CO:conj-c:e:::co-subj: e)
+                                          (CJT:np 
+                                            (H:n:realizador:M_S::np-idf: realizador)
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (H:n:cinema:M_S::np-idf: cinema)))))
+                                        (N<:np 
+                                          (H:prop:Nicholas_Meyer:M_S::: Nicholas_Meyer))))
+                        (FOC:advp (H:adv:era:::: era))
+                        (ADVL:pp (H:prp:em:::: em+)
+                                 (P<:np (>N:pron-det:este:F_S::dem: esta)
+                                        (H:n:percentagem:F_S::np-def: percentagem)))
+                        (FOC:advp (H:adv:que:::: que))
+                        (SUBJ:np (H:prop:Sherlock_Holmes:M_S::: Sherlock_Holmes))
+                        (P:vp (MV:v-fin:diluir:IMPF_3S_IND::: diluía))
+                        (ACC:np (>N:art:o:F_S::artd: a)
+                                (>N:pron-det:seu:F_S::si: sua)
+                                (H:n:cocaína:F_S::anr_np-def: cocaína))
+                        (,)
+                        (ADVL:advp (H:adv:antes:::: antes)
+                                   (A<arg:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:icl 
+                                       (P:vp 
+                                         (AUX:v-inf:ter:::: ter)
+                                         (AUX:v-pcp:ser:::: sido)
+                                         (MV:v-pcp:curar:M_S::anr_pass:passive: curado))
+                                       (PIV:pp 
+                                         (H:prp:de:::: de+)
+                                         (P<:np 
+                                           (>N:art:o:M_S::artd: o)
+                                           (>N:pron-det:seu:M_S::si: seu)
+                                           (>N:adj:mau:M_S::: mau)
+                                           (H:n:hábito:M_S::anr_np-def: hábito)))
+                                       (PASS:pp 
+                                         (H:prp:por:::: por+)
+                                         (P<:np 
+                                           (>N:art:o:M_P::artd: os)
+                                           (H:n:amistoso:M_P::np-def: amistosos)
+                                           (N<:v-pcp:cuidar:M_P::: cuidados)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_S::artd: o)
+                                               (H:n:dr.:M_S::np-def: dr.)
+                                               (N<:np 
+                                                 (H:prop:Watson:M_S::: Watson)))))))))
+                        (.)))

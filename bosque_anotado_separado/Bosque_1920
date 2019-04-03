@@ -1,0 +1,64 @@
+(FRASE CP366-5 (EXC:fcl (CO:conj-c:mas:: Mas)
+                        (SUBJ:np (H:pron-det:o:M_S::dem: o)
+                                 (N<:fcl 
+                                   (SUBJ:np 
+                                     (H:pron-indp:que:M_S::rel: que))
+                                   (P:vp 
+                                     (MV:v-fin:ser:PR_3S_IND::fs-rel: é))
+                                   (SC:adjp 
+                                     (>A:adv:mais:_::KOMP:quant: mais)
+                                     (H:adj:espantoso:M_S::: espantoso))
+                                   (ADVL:pp 
+                                     (H:prp:no_meio_de:::: no_meio_de)
+                                     (P<:np 
+                                       (H:pron-indp:tudo_isto:M_S::quant: tudo_isto)))))
+                        (P:vp (MV:v-fin:ser:PR_3S_IND::: é))
+                        (SC:fcl (SUB:conj-s:que:::: que)
+                                (SUBJ:np 
+                                  (>N:pron-det:todo:F_S::quant: toda)
+                                  (>N:pron-det:este:F_S::dem: esta)
+                                  (H:n:bagunça:F_S::np-def: bagunça)
+                                  (N<:icl::::pcp: 
+                                    (P:vp 
+                                      (MV:v-pcp:provocar:F_S::: provocada))
+                                    (PASS:pp 
+                                      (H:prp:por:::: por+)
+                                      (P<:np 
+                                        (>N:art:o:M_S::artd: o)
+                                        (H:n:senhor:M_S::np-def: senhor)
+                                        (N<:np 
+                                          (H:prop:Mesquita_Montes:M_S::: Mesquita_Montes))))))
+                                (P:vp (AUX:v-fin:ter:PR_3S_IND::: tem)
+                                      (MV:v-pcp:contar:::fs-subst: contado))
+                                (PIV:pp (H:prp:com:::: com)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:complacência:F_S::np-def: complacência)
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (>N:adj:sucessivo:M_P::: sucessivos)
+                                              (H:n:governo:M_P::anr_np-def: governos)
+                                              (,)
+                                              (N<PRED:cu 
+                                                (>N:adv:nomeadamente:::: nomeadamente)
+                                                (H:cu 
+                                                  (CJT:np 
+                                                    (>N:art:o:M_P::artd: os)
+                                                    (>N:pron-det:seu:M_P::: seus)
+                                                    (>N:pron-det:vários:M_P::quant: vários)
+                                                    (H:n:ministro:M_P::anr_np-def: ministros))
+                                                  (CO:conj-c:e:::co-pred: e)
+                                                  (CJT:np 
+                                                    (H:n:secretário:M_P::np-idf: secretários)
+                                                    (N<:pp 
+                                                      (H:prp:de:::: de)
+                                                      (P<:np 
+                                                        (H:prop:Estado:M_S::np-idf: Estado)))
+                                                    (N<:pp 
+                                                      (H:prp:de:::: de+)
+                                                      (P<:np 
+                                                        (N<:art:o:F_S::artd: a)
+                                                        (H:n:tutela:F_S::np-def: tutela)))))))))))
+                        (!)))

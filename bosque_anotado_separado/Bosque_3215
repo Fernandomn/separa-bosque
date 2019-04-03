@@ -1,0 +1,53 @@
+(FRASE CP616-1 (STA:fcl (ADVL:pp (H:prp:quanto_a:: Quanto_a+)
+                                 (P<:np (>N:art:o:M_S::artd: o)
+                                        (H:n:peso:M_S::np-def: peso)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:M_P::artd: os)
+                                            (H:n:encargo:M_P::np-def: encargos)
+                                            (N<:adjp 
+                                              (H:adj:financeiro:M_P::: financeiros))))
+                                        (N<:pp 
+                                          (H:prp:em:::: em+)
+                                          (P<:np 
+                                            (>N:art:o:M_S::artd: o)
+                                            (H:n:valor:M_S::np-def: valor)
+                                            (N<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:F_P::artd: as)
+                                                (H:n:venda:F_P::np-def: vendas)))))))
+                        (,)
+                        (SUBJ:np (>N:num:57:M_P::card: 57)
+                                 (H:n:por_cento:M_S::anr_np-count:anr_np-def: por_cento)
+                                 (N<:pp (H:prp:de:::: de+)
+                                        (P<:np 
+                                          (>N:art:o:F_P::artd: as)
+                                          (H:n:empresa:F_P::np-def: empresas))))
+                        (P:vp (MV:v-fin:declarar:PR_3S_IND::: declara))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (P:vp (MV:v-fin:ser:PR_3P_IND::fs-subst:nosubj: são))
+                                 (SC:adjp 
+                                   (H:adj:inferior:M_P::KOMP: inferiores)
+                                   (A<:pp 
+                                     (H:prp:a:::: a)
+                                     (P<:np 
+                                       (>N:num:cinco:M_P::card: cinco)
+                                       (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento)))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:ao_passo_que:::rel: ao_passo_que)
+                                  (SUBJ:np 
+                                    (>N:num:três:M_P::card: três)
+                                    (H:n:por_cento:M_S::anr_np-count:anr_np-def: por_cento))
+                                  (P:vp (MV:v-fin:revelar:PR_3S_IND::: revela))
+                                  (ACC:np 
+                                    (H:n:encargo:M_P::np-idf: encargos)
+                                    (N<:adjp 
+                                      (H:adj:alto:M_P::KOMP: superiores)
+                                      (A<:pp 
+                                        (H:prp:a:::: a)
+                                        (P<:np 
+                                          (>N:num:20:M_P::card: 20)
+                                          (H:n:por_cento:M_P::anr_np-count:anr_np-def: por_cento))))))
+                        (.)))

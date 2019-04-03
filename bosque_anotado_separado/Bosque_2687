@@ -1,0 +1,73 @@
+(FRASE CP512-4 (STA:fcl (SUBJ:np (H:prop:Francisco_Costa:M_S: Francisco_Costa)
+                                 (,))
+                        (ADVL:pp (H:prp:há:::: há)
+                                 (P<:np (>N:num:três:M_P::card: três)
+                                        (H:n:ano:M_P::anr_np-count:anr_np-def: anos)
+                                        (H:prp:em:::: em+)
+                                        (P<:np 
+                                          (>N:art:o:F_S::artd: a)
+                                          (H:n:comissão:F_S::np-def: comissão)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:ligação:F_S::np-idf: ligação)
+                                              (N<:adjp 
+                                                (H:adj:hospitalar:F_S::: hospitalar))))
+                                          (N<:icl::::pcp: 
+                                            (P:vp 
+                                              (MV:v-pcp:criar:F_S::: criada))
+                                            (PASS:pp 
+                                              (H:prp:por:::: por+)
+                                              (P<:np 
+                                                (>N:art:o:F_P::artd: as)
+                                                (H:prop:Testemunha:F_P::: Testemunhas)))))))
+                        (,)
+                        (P:vp (MV:v-fin:referir:PR_3S_IND::DERP: refere))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (SUBJ:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:posição:F_S::np-def: posição)
+                                   (N<:pp 
+                                     (H:prp:de:::: de+)
+                                     (P<:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:prop:HDL:M_S::: HDL))))
+                                 (ADVL:advp 
+                                   (H:adv:não:::: não))
+                                 (P:vp (MV:v-fin:ter:PR_3S_IND::fs-subst: tem))
+                                 (ACC:np 
+                                   (H:n:semelhança:F_P::np-idf: semelhanças)
+                                   (N<:pp 
+                                     (H:prp:com:::: com)
+                                     (P<:np 
+                                       (>N:art:o:M_P::artd: os)
+                                       (H:n:procedimento:M_P::np-def: procedimentos)
+                                       (N<:pp 
+                                         (H:prp:de:::: de)
+                                         (P<:np 
+                                           (>N:pron-det:outro:M_P::KOMP:diff: outros)
+                                           (H:n:hospital:M_P::anr_np-idf: hospitais)
+                                           (N<:pp 
+                                             (H:prp:de:::: de+)
+                                             (P<:np 
+                                               (>N:art:o:M_P::artd: os)
+                                               (H:n:distrito:M_P::np-def: distritos)
+                                               (N<:pp 
+                                                 (H:prp:a:::: a+)
+                                                 (P<:np 
+                                                   (>N:art:o:F_S::artd: a)
+                                                   (H:n:volta:F_S::np-def: volta)))))))))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:citar:::: citando))
+                          (ACC:np (>N:art:o:M_P::artd: os)
+                                  (H:n:caso:M_P::np-def: casos)
+                                  (N<:pp 
+                                    (H:prp:de:::: de)
+                                    (P<:cu 
+                                      (CJT:np 
+                                        (H:prop:Coimbra:MF_S::: Coimbra))
+                                      (CO:conj-c:e:::co-prparg: e)
+                                      (CJT:np 
+                                        (H:prop:Santarém:MF_S::: Santarém))))))
+                        (.)))

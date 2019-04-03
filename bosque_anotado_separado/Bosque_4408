@@ -1,0 +1,29 @@
+(FRASE CP857-9 (STA:cu (CJT:fcl (SUBJ:np 
+                                  (H:pron-indp:isto:M_S::dem: Isto))
+                                (P:vp (MV:v-fin:diminuir:PR_3S_COND: diminuiria))
+                                (ACC:np (>N:art:o:F_S::artd: a)
+                                        (H:n:criminalidade:F_S::np-def: criminalidade)))
+                       (,)
+                       (CJT:fcl (P:vp (MV:v-fin:haver:COND_3S::nofsubj: haveria))
+                                (ACC:np (>N:pron-det:pouco:F_P::KOMP:quant: menos)
+                                        (H:n:morte:F_P::anr_np-idf: mortes)
+                                        (N<:cu 
+                                          (CJT:pp 
+                                            (H:prp:por:::: por)
+                                            («)
+                                            (P<:np 
+                                              (H:n:overdose:F_S::np-idf: overdose))
+                                            (»))
+                                          (CO:conj-c:e:::co-postnom: e)
+                                          (CJT:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (>N:pron-det:outro:F_P::KOMP:diff: outras)
+                                              (H:n:doença:F_P::anr_np-idf: doenças)
+                                              (,)
+                                              (N<PRED:acl 
+                                                (COM:adv:como:::: como)
+                                                (SUBJ:np 
+                                                  (>N:pron-indp:o:F_S::artd: a)
+                                                  (H:n:sida:F_S::np-def: sida))))))))
+                       (.)))

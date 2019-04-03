@@ -1,0 +1,71 @@
+(FRASE CP501-4 (STA:fcl (SUBJ:cu (CJT:np 
+                                   (>N:art:o:F_S::artd: A)
+                                   (>N:pron-det:seu:F_S: sua)
+                                   (H:n:forma:F_S::anr_np-def: forma)
+                                   (N<:adjp 
+                                     (H:adj:estranho:F_S::: estranha)))
+                                 (,)
+                                 (CJT:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:mudança:F_S::np-def: mudança)
+                                   (N<ARGO:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:posição:F_S::np-idf: posição)))
+                                   (N<:pp 
+                                     (H:prp:relativamente_a:::: relativamente_a+)
+                                     (P<:np 
+                                       (>N:art:o:F_P::artd: as)
+                                       (H:n:estrela:F_P::anr_np-idf: estrelas))))
+                                 (CO:conj-c:e:::co-subj: e)
+                                 (CJT:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:alteração:F_S::np-def: alteração)
+                                   (N<ARGO:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:forma:F_S::np-idf: forma)))))
+                        (P:vp (MV:v-fin:sugerir:IMPF_3P_IND::: sugeriam))
+                        (ACC:cu (CJT:np (H:n:interpretação:F_P::np-idf: interpretações)
+                                        (N<ARGO:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:alma:F_P::np-idf: almas)
+                                            (N<:adjp 
+                                              (H:adj:vagabundo:F_P::: vagabundas))
+                                            (N<:pp 
+                                              (H:prp:de:::: de)
+                                              (P<:np 
+                                                (>N:adj:grande:M_P::: grandes)
+                                                (H:n:homem:M_P::anr_np-idf: homens)
+                                                (N<:v-pcp:desaparecer:M_P::: desaparecidos))))))
+                                (,)
+                                (CO:conj-c:ou:::co-acc: ou)
+                                (CJT:np (H:n:sinal:M_P::np-idf: sinais)
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:icl::::ger: 
+                                            (SUBJ:np 
+                                              (>N:art:o:M_P::artd: os)
+                                              (H:n:deus:M_P::np-def: deuses))
+                                            (P:vp 
+                                              (MV:v-ger:anunciar:::: anunciando))
+                                            (OC:adjp 
+                                              (H:adj:próximo:F_S::: próxima))
+                                            (ACC:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:vingança:F_S::np-def: vingança)
+                                              (N<ARGO:pp 
+                                                (H:prp:de:::: de)
+                                                (P<:np 
+                                                  (>N:pron-det:algum:M_S::quant: algum)
+                                                  (H:n:comportamento:M_S::anr_np-idf: comportamento)
+                                                  (N<:adjp 
+                                                    (>A:adv:menos:_::KOMP:quant: menos)
+                                                    (H:v-pcp:ajuizar:M_S::: ajuizado))
+                                                  (N<ARGS:pp 
+                                                    (H:prp:de:::: de+)
+                                                    (P<:np 
+                                                      (>N:art:o:M_P::artd: os)
+                                                      (H:n-adj:terrestre:M_P::np-def: terrestres))))))))))
+                        (.)))

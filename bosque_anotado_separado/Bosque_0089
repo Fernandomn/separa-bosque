@@ -1,0 +1,61 @@
+(FRASE CP17-3 (STA:fcl (SUBJ:np (>N:pron-det:este:M_S::dem: Este)
+                                («)
+                                (H:n:golpe:M_S::anr_np-idf: golpe)
+                                (N<:pp (H:prp:de:: de)
+                                       (P<:np 
+                                         (H:n:estado:M_S::np-idf: Estado)))
+                                (»"))
+                       (P:vp (MV:v-fin:deixar:PR_3S_IND::: deixa))
+                       (OC:adjp (H:adj:céptico:F_S::: céptica))
+                       (ACC:np (>N:art:o:F_S::artd: a)
+                               (>N:adj:grande:F_S::: maior)
+                               (H:n:parte:F_S::anr_np-def: parte)
+                               (N<ARG:pp 
+                                 (H:prp:de:_::new: de+)
+                                 (P<:np (>N:art:o:M_P::new: os)
+                                        (>N:adj:grande:M_P::: grandes)
+                                        (H:n:mestre:M_P::anr_np-idf:np-partitive2: mestres)
+                                        (N<:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:np 
+                                            (H:n:xadrez:F_S::np-idf: xadrez)))
+                                        ({)
+                                        (N<PRED:adjp 
+                                          (>A:adv:cerca_de:::: cerca_de)
+                                          (H:num:300:M_P::card: 300)
+                                          (A<:pp 
+                                            (H:prp:em:::: em)
+                                            (P<:np 
+                                              (>N:pron-indp:todo:M_S::: todo)
+                                              (>N:art:o:M_S::artd: o)
+                                              (H:n:mundo:M_S::np-def: mundo))))
+                                        (})
+                                        (,)
+                                        (N<:fcl 
+                                          (SUBJ:np 
+                                            (H:pron-indp:que:M_P::rel: que))
+                                          (P:vp 
+                                            (MV:v-fin:esperar:PR_3P_IND::fs-rel: esperam))
+                                          (ACC:icl 
+                                            (P:vp 
+                                              (MV:v-inf:ver:::icl-subst: ver))
+                                            (ACC:np 
+                                              (>N:art:o:F_S::artd: a)
+                                              (H:n:situação:F_S::np-def: situação))
+                                            (OC:v-pcp:clarificar:F_S::: clarificada))
+                                          (,)
+                                          (ADVL:adjp 
+                                            (H:adv:independentemente:::: independentemente)
+                                            (A<:pp 
+                                              (H:prp:de:::: de+)
+                                              (P<:np 
+                                                (>N:art:o:S::artd: a)
+                                                (H:n:parte:F_S::np-def: parte)
+                                                (N<:fcl 
+                                                  (SUBJ:np 
+                                                    (H:pron-indp:que:F_S::rel: que))
+                                                  (P:vp 
+                                                    (MV:v-fin:acabar:PR_3S_SUBJ::fs-rel: acabe))
+                                                  (SC:adjp 
+                                                    (H:adj:vencedor:F_S::: vencedora))))))))))
+                       (.)))

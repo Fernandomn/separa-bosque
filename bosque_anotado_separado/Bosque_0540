@@ -1,0 +1,61 @@
+(FRASE CP103-4 (STA:fcl (SUBJ:np (>N:art:o:M_S::artd: O)
+                                 (H:n:bacalhau:M_S::np-def: bacalhau)
+                                 (N<:v-pcp:queimar:M_S: queimado))
+                        (X:cu (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:estar:IMPF_3S_IND::: estava))
+                                (ADVL:advp 
+                                  (H:adv:já:::premod: já))
+                                (SC:cu (CJT:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:embalar:M_S::: embalado))
+                                         (ADVL:pp::::postmod: 
+                                           (H:prp:em:::: em)
+                                           (P<:np 
+                                             (H:n:fardo:M_P::np-idf: fardos))))
+                                       (CO:conj-c:ou:::co-sc: ou)
+                                       (CJT:icl::::pcp: 
+                                         (P:vp 
+                                           (MV:v-pcp:dispor:M_S::: disposto))
+                                         (ADVL:pp::::postmod: 
+                                           (H:prp:em:::: em+)
+                                           (P<:np 
+                                             (>N:art:o:M_P::artd: os)
+                                             (H:n:tabuleiro:M_P::np-def: tabuleiros)
+                                             (N<:pp 
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n:secagem:F_S::np-idf: secagem))))))))
+                              (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                              (CJT:x::::predicate: 
+                                (P:vp (MV:v-fin:pertencer:IMPF_3S_IND::nosubj: pertencia))
+                                (PIV:pp (H:prp:a:::: a)
+                                        (P<:np 
+                                          (H:n:lote:M_P::np-idf: lotes)
+                                          (N<:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:produção:F_S::np-idf: produção)))
+                                          (N<:pp 
+                                            (H:prp:de:::: de+)
+                                            (P<:np 
+                                              (>N:art:o:S::artd: a)
+                                              (H:n:empresa:F_S::np-def: empresa)))))))
+                        (,)
+                        (ADVL:icl::::ger: 
+                          (P:vp (MV:v-ger:ser:::: sendo))
+                          (SUBJ:np (>N:art:o:M_S::artd: o)
+                                   (H:n:peixe:M_S::np-def: peixe)
+                                   (N<:icl::::pcp: 
+                                     (P:vp 
+                                       (MV:v-pcp:importar:M_S::: importado))
+                                     (ADVL:pp::::postmod: 
+                                       (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:S::artd: a)
+                                         (H:cu 
+                                           (CJT:np 
+                                             (H:prop:Noruega:F_S::: Noruega))
+                                           (CO:conj-c:e:::co-prparg: e)
+                                           (CJT:np 
+                                             (H:prop:Dinamarca:F_S::: Dinamarca))))))))
+                        (.)))

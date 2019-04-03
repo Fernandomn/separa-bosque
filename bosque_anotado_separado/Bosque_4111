@@ -1,0 +1,72 @@
+(FRASE CP802-1 (STA:fcl (ADVL:pp (H:prp:em:: Em+)
+                                 (P<:np (>N:art:o:F_S::artd: a)
+                                        (H:n:semana:F_S::np-def: semana)
+                                        (N<:v-pcp:passar:F_S::: passada)))
+                        (,)
+                        (SUBJ:np (H:prop:Fidel_Castro:M_S::: Fidel_Castro))
+                        (P:vp (MV:v-fin:avisar:MQP_3S_IND::: avisara))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (ADVL:fcl 
+                                   (SUB:conj-s:se:::: se)
+                                   (SUBJ:np 
+                                     (H:prop:Washington:MF_S::: Washington))
+                                   (ADVL:advp 
+                                     (H:adv:não:::: não))
+                                   (P:vp 
+                                     (MV:v-fin:alterar:FUT_3S_SUBJ::: alterar))
+                                   (ACC:np 
+                                     (>N:art:o:F_S::artd: a)
+                                     (H:n:política:F_S::np-def: política)
+                                     (N<:pp 
+                                       (H:prp:quanto_a:::: quanto_a+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:n:emigrante:M_P::np-def: emigrantes)
+                                         (N<:adjp 
+                                           (H:adj:cubano:M_P::: cubanos)))))))
+                        (P:vp (AUX:v-fin:poder:FUT_3S_IND::: poderá)
+                              (MV:v-inf:ficar:::: ficar))
+                        (SC:icl::::pcp: (P:vp 
+                                          (MV:v-pcp:sujeitar:F_S::: sujeita))
+                                        (PIV:pp 
+                                          (H:prp:a:::: a)
+                                          (P<:np 
+                                            (>N:art:um:F_S::arti: uma)
+                                            (H:n:inundação:F_S::np-idf: inundação))))
+                        (,)
+                        (ADVL:fcl (SUB:conj-s:pois_que:::: pois_que)
+                                  (SUBJ:np 
+                                    (>N:art:o:F_S::artd: a)
+                                    (H:n:Havana:F_S::np-def:prop: Havana))
+                                  (P:vp (AUX:v-fin:deixar:FUT_3S_IND::: deixará)
+                                        (PRT-AUX:prp:de:::: de)
+                                        (MV:v-inf:tentar:::: tentar))
+                                  (ACC:icl 
+                                    (P:vp 
+                                      (MV:v-inf:impedir:::icl-subst: impedir))
+                                    (X:cu 
+                                      (CJT:x 
+                                        (ACC:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (>N:pron-det:seu:M_P::si: seus)
+                                          (H:n:cidadão:M_P::anr_np-def: cidadãos))
+                                        (PIV:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:v-inf:partir:::: partir)))
+                                      (CO:conj-c:e:::: e)
+                                      (CJT:x 
+                                        (ACC:np 
+                                          (>N:art:o:M_P::artd: os)
+                                          (H:n:parente:M_P::np-def: parentes))
+                                        (PIV:pp 
+                                          (H:prp:de:::: de)
+                                          (P<:icl 
+                                            (ADVL:icl- 
+                                              (ACC:np 
+                                                (H:pron-pers:eles:M_3P_ACC::: os)))
+                                            (P:vp 
+                                              (MV:v-inf:vir:3P::: virem))
+                                            (-ADVL:icl 
+                                              (P:vp 
+                                                (MV:v-inf:buscar:::: buscar)))))))))
+                        (.)))

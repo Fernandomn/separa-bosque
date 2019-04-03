@@ -1,0 +1,52 @@
+(FRASE CP122-2 (STA:fcl (SUBJ:np (H:n:fonte:F_P::np-idf: Fontes)
+                                 (N<:pp (H:prp:em:: em)
+                                        (P<:np 
+                                          (H:prop:Washington:MF_S::: Washington))))
+                        (P:vp (MV:v-fin:dizer:PS_3P_IND::: disseram))
+                        (PIV:pp (H:prp:a:::: a+)
+                                (P<:np (>N:art:o:S::artd: a)
+                                       (H:prop:France_Presse:F_S::: France_Presse)))
+                        (ACC:fcl (SUB:conj-s:que:::: que)
+                                 (,)
+                                 (ADVL:pp 
+                                   (H:prp:para:::: para)
+                                   (P<:icl 
+                                     (P:vp 
+                                       (MV:v-inf:desbloquear:::icl-fin: desbloquear))
+                                     (ACC:np 
+                                       (>N:art:o:M_S::artd: o)
+                                       (H:n:impasse:M_S::np-def: impasse))))
+                                 (,)
+                                 (SUBJ:np 
+                                   (H:prop:Israel:M_S::: Israel))
+                                 (P:vp (AUX:v-fin:ir:PR_3S_IND::: vai)
+                                       (MV:v-inf:propor:::icl-subst: propor))
+                                 (ACC:np 
+                                   (>N:art:o:F_S::artd: a)
+                                   (H:n:realização:F_S::np-def: realização)
+                                   (N<:adjp 
+                                     (H:adj:simultâneo:F_S::: simultânea))
+                                   (N<ARGO:pp 
+                                     (H:prp:de:::: de)
+                                     (P<:np 
+                                       (H:n:conversação:F_P::np-idf: conversações)
+                                       (N<:cu 
+                                         (CJT:pp 
+                                           (H:prp:com:::: com)
+                                           (P<:np 
+                                             (>N:art:um:F_S::arti: uma)
+                                             (H:n:delegação:F_S::np-idf: delegação)
+                                             (N<:adjp 
+                                               (H:adj:jordano-palestiniana:F_S::: jordano-palestiniana))))
+                                         (CO:conj-c:e:::co-advl: e)
+                                         (CJT:pp 
+                                           (H:prp:com:::: com)
+                                           (P<:np 
+                                             (>N:art:um:F_S::arti: uma)
+                                             (H:n:delegação:F_S::np-idf: delegação)
+                                             (N<:pp 
+                                               (>P:adv:só:::: só)
+                                               (H:prp:de:::: de)
+                                               (P<:np 
+                                                 (H:n-adj:palestiniano:M_P::np-idf: palestinianos))))))))))
+                        (.)))

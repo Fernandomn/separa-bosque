@@ -1,0 +1,41 @@
+(FRASE CP413-10 (STA:fcl (SUBJ:np (>N:art:o:F_S::artd: A)
+                                  (>N:adj:segundo:F_S::NUM-ord: segunda)
+                                  (H:n:rede:F_S::anr_np-def: rede)
+                                  (N<:adjp 
+                                    (H:adj:digital:F_S: digital))
+                                  (,)
+                                  (N<PRED:fcl 
+                                    (SUBJ:np 
+                                      (H:pron-indp:que:F_S::rel: que))
+                                    (P:vp 
+                                      (AUX:v-fin:ser:FUT_3S_IND::: será)
+                                      (MV:v-pcp:instalar:F_S::anr_pass:fs-rel:passive: instalada))
+                                    (SA:pp 
+                                      (H:prp:em:::: em+)
+                                      (P<:np 
+                                        (>N:art:o:M_P::artd: os)
+                                        (H:prop:Açores:M_P::: Açores)))
+                                    (ADVL:pp 
+                                      (H:prp:entre:::: entre)
+                                      (P<:cu 
+                                        (CJT:np 
+                                          (H:num:1997:M_S::: 1997))
+                                        (CO:conj-c:e:::co-prparg: e)
+                                        (CJT:np 
+                                          (H:num:99:M_S::: 99)))))
+                                  (,))
+                         (X:cu (CJT:x::::predicate: 
+                                 (P:vp (MV:v-fin:ter:FUT_3S_IND::: terá))
+                                 (ACC:np 
+                                   (>N:num:12:F_P::card: 12)
+                                   (H:n:estação:F_P::anr_np-count:anr_np-def: estações)))
+                               (CO:conj-c:e:_::co-fmc:co-vfin: e)
+                               (CJT:x::::predicate: 
+                                 (P:vp (MV:v-fin:custar:FUT_3S_IND::nosubj: custará))
+                                 (SA:np (>N:np 
+                                          (>N:adjp 
+                                            (>A:adv:cerca_de:::: cerca_de)
+                                            (H:num:200:M_P::card: 200))
+                                          (H:n:mil:M_P::card:num: mil))
+                                        (H:n:conto:M_P::anr_np-count:anr_np-def: contos))))
+                         (.)))
