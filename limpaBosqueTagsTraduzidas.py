@@ -92,7 +92,7 @@ def tradutor(tag):
             'SA': 'IN',
             'OA': 'IN',  # adj. adverbiaiSUB:conj-s do objecto
             'ADVL': 'IN',  # adj. adverbiSUB:conj-sis livres - pode ser pp, advp, flc, icl, np, cu. principalmente pp ou advp. esses dois ultimos quase em igual proporção. vou chutar pp
-            'SC': 'NP',  # predicativosSUB:conj-sdo sujeito - mais um caso multiplo. pode ser np, advp, pp, icl, adjp, cu. np e advp com grandes chances. deliberadamente vou escolher np
+            'SC': 'NP',  # predicativosSUB:conj-sdo sujeito - mais um caso múltiplo. pode ser np, advp, pp, icl, adjp, cu. np e advp com grandes chances. deliberadamente vou escolher np
             'OC': 'ADVP',  # predicativosSUB:conj-sdo objecto - pode ser adjp, advp, acl, cu, v-pcp, np, pp, icl. maior parte noa amostra foi acl
             # predicativos verbo-nominaisSUB:conj-s- podem ser icl, np, pp, adjp, cu, adj, pron-det. icl maioria.
             'PRED': 'VP',
@@ -100,7 +100,7 @@ def tradutor(tag):
             'APP': 'NP',  # apostos normaSUB:conj-s - pode ser fcl, np, adjp, cu, advp. np maioria
             'N<PRED': 'NP',  # apostos epit. predicativo - pode ser fcl, np, pp, cu. É bem distribuido, mas a priori, a maior parte é NP
             '>S': 'JJ',  # apostos da oração - se for >S, é sempre adj.
-            'S<': 'NP',  # apostos da oração - se for S<, pode ser fcl ou np. mais seguro ir no np
+            'S<': 'NP',  # apostos da oração - se for S<, pode ser fcl ou np. Mais seguro ir no np
             # 'N<ARG.*': '_',  # compl. nominais - não existe
             'N<ARGS': 'IN',  # compl. nominais do sujeito - só tem pp, ufa
             'N<ARGO': 'IN',  # compl. nominais do objecto - só tem pp
@@ -113,8 +113,8 @@ def tradutor(tag):
             # Palavra
             'H': 'NN',  # núcleo - pqp. maior parte é n (substantivo)
             'MV': 'VBP',  # verbo principal - maioria v-fin
-            'PMV': 'VBP',  # verbo principal - maioria são verbos finitos. inflexões verbais do portugues muito diferentes da do inglês
-            # verbo auxiliar (pra que por duas tags pramsm função? tnc). maioria v-fin
+            'PMV': 'VBP',  # verbo principal - maioria são verbos finitos. Inflexões verbais do portugues muito diferentes da do inglês
+            # verbo auxiliar (pra que por duas tags pramsm função? tnc). Maioria v-fin
             'AUX': 'VBP',
             'PAUX': 'VBP',  # verbo auxiliar
             'PRT-AUX': 'IN',  # part. lig. verbal - MAIOR PARTE DISPARADA PRP
@@ -138,17 +138,17 @@ def tradutor(tag):
         tag = tag[1:]
     if tag[-1] == '-':
         tag = tag[:-1]
-    print(tag)
+    # print(tag)
     return tabela[tag]
 
 
 def ehFolha(linha, inicio):
     for i in range(inicio, len(linha)):
         if linha[i] == ')':
-            print('folha')
+            # print('folha')
             return True
         elif linha[i] == '(' or linha[i] == '\n':
-            print('no')
+            # print('no')
             return False
         else:
             continue
@@ -172,6 +172,7 @@ def tratarNumero(numero):
 
 
 a = []
+nomeArquivoAbertoAtual = ''
 originalFile = open(nomeArquivo, 'r', encoding='latin-1')
 os.chdir('bosque_anotado_separado_limpo_traduzido')
 with open('Bosque_0001', 'w') as finalFile:
@@ -182,35 +183,50 @@ with open('Bosque_0001', 'w') as finalFile:
             numero = line[1:].split(' ')[0]
             if numero.isdigit():
                 numeroTratado = tratarNumero(numero)
-                finalFile = open('Bosque_'+numeroTratado, 'w')
+                nomeArquivoAbertoAtual = 'Bosque_'+numeroTratado
+                finalFile = open(nomeArquivoAbertoAtual, 'w')
                 # print('Abrindo arquivo Bosque_'+numero)
         elif line.strip() == '':
             if not finalFile.closed:
                 finalFile.close()
                 # print('Fechou arquivo')
         else:
+            if finalFile.closed:
+                continue
+            # print('Escrevendo linha:', line)
+
+            for index in range(len(line)-1, 0, -1):
+                if(index >= len(line)):
+                    break
+                # print(index)
+                # print(line)
+                # print('len line', len(line))
+                char = line[index]
+                if(char != '('):
+                    continue
+                # print(char)
+                inicio = index
+                # inicio = line.index(char)
+                try:
+                    final = inicio + line[inicio:].index(' ')
+                    listaClasse = line[inicio+1:final].split(':')
+                    if len(listaClasse) > 1:
+                        funcao = listaClasse[0]
+                        classe = listaClasse[1]
+                        if classe == 'x' or funcao == 'X':
+                            finalFile.close()
+                            os.remove(nomeArquivoAbertoAtual)
+                            break
+                        # if ehFolha(line, inicio):
+                        # print(classe)
+                        newLine = line.replace(
+                            line[inicio:final], '(' + tradutor(classe))
+                        # else:
+                        # print(funcao)
+                        # newLine = line.replace(
+                        #     line[inicio:final], '(' + tradutor(funcao))
+                        line = newLine
+                except ValueError:
+                    continue
             if not finalFile.closed:
-                # print('Escrevendo linha:', line)
-                for index in range(len(line)-1, 0, -1):
-                    char = line[index]
-                    if(char == '('):
-                        inicio = index
-                        # inicio = line.index(char)
-                        try:
-                            final = inicio + line[inicio:].index(' ')
-                            listaClasse = line[inicio+1:final].split(':')
-                            if len(listaClasse) > 1:
-                                funcao = listaClasse[0]
-                                classe = listaClasse[1]
-                                if ehFolha(line, inicio):
-                                    print(classe)
-                                    newLine = line.replace(
-                                        line[inicio:final], '(' + tradutor(classe))
-                                else:
-                                    print(funcao)
-                                    newLine = line.replace(
-                                        line[inicio:final], '(' + tradutor(funcao))
-                                line = newLine
-                        except ValueError:
-                            continue
                 finalFile.write(line)

@@ -1,51 +1,51 @@
-(FRASE CP2-2 (NP (-OBJ (CC E)
-                               (-SBJ (DT o)
+(FRASE CP2-2 (VP (VP (CC E)
+                               (NP (DT o)
                                         (NN dinheiro))
                                («)
-                               (IN 
-                                 (NN não))
+                               (RB 
+                                 (RB não))
                                (VB (VBP falta))
                                (IN (RB só)
-                                       (NN a+)
+                                       (IN a+)
                                        (NP 
                                          (DT as)
                                          (NN câmaras)))
                                (»"))
                       (,)
                       (VB (VBP lembra))
-                      (-SBJ (DT o)
+                      (NP (DT o)
                                (NN secretário)
-                               (IN (NN de)
+                               (IN (IN de)
                                       (NP 
-                                        (NN Estado)))
+                                        (NNP Estado)))
                                (,)
-                               (NP 
-                                 (-SBJ 
-                                   (NN que))
+                               (VP 
+                                 (NP 
+                                   (PRP que))
                                  (VB (VBP considera))
-                                 (-OBJ 
+                                 (VP 
                                    (IN que)
-                                   (-SBJ 
+                                   (NP 
                                      (DT a)
                                      (NN solução)
                                      (IN 
-                                       (NN para)
+                                       (IN para)
                                        (NP 
                                          (DT as)
                                          (NN autarquias))))
                                    (VB 
                                      (VBP é))
                                    («)
-                                   (NP 
+                                   (VP 
                                      (VB 
-                                       (VBP especializarem-))
-                                     (-OBJ 
-                                       (NN se))
+                                       (VB especializarem-))
+                                     (NP 
+                                       (PRP se))
                                      (IN 
-                                       (NN em)
+                                       (IN em)
                                        (NP 
                                          (NN fundos)
-                                         (IN 
-                                           (NN comunitários)))))
+                                         (JJ 
+                                           (JJ comunitários)))))
                                    (»"))))
                       (.)))
