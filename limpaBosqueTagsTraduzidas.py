@@ -40,7 +40,7 @@ def tradutor(tag):
             'advp-': 'RB',  # Sintagma adverbiais
             'vp': 'VB',  # Sintagma verbais
             'vp-': 'VB',  # Sintagma verbais
-            'pp': 'IN',  # Sintagma preposicionais
+            'pp': 'PP',  # Sintagma preposicionais
             'pp-': 'IN',  # Sintagma preposicionais
             'cu': 'CC',  # Sintagma evidenciador coordenação
             'cu-': 'CC',  # Sintagma evidenciador coordenação
