@@ -37,7 +37,7 @@ def tradutor(tag):
             # Sintagmas
             'np': 'NP',  # Sintagma nominais
             'np-': 'NP',  # descobrir se essa tag é um erro ou não
-            'adjp': 'JJ',  # Sintagma adjectivais
+            'adjp': 'ADJP',  # Sintagma adjectivais
             'advp': 'RB',  # Sintagma adverbiais
             'advp-': 'RB',  # Sintagma adverbiais
             'vp': 'VB',  # Sintagma verbais

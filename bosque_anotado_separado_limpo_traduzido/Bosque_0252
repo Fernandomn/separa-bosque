@@ -1,9 +1,9 @@
-(S (VP (IN (IN De_acordo)
-                                (IN (IN com)
+(S (VP (PP (PP De_acordo)
+                                (PP (IN com)
                                        (NP 
                                          (DT o)
                                          (NN testemunho)
-                                         (IN 
+                                         (PP 
                                            (IN de)
                                            (NP 
                                              (NN informadores))))))
@@ -14,13 +14,13 @@
                              (VB manter))
                        (NP (DT uma)
                                (NN arrogância)
-                               (JJ (JJ excessiva)))
-                       (IN (IN em_relação_a+)
+                               (ADJP (JJ excessiva)))
+                       (PP (IN em_relação_a+)
                                        (NP 
                                          (DT os)
                                          (JJ velhos)
                                          (NN membros)
-                                         (IN 
+                                         (PP 
                                            (IN de+)
                                            (NP 
                                              (DT o)
@@ -28,19 +28,19 @@
                        (,)
                        (VP 
                          (VB (VBG indo))
-                         (IN (IN a+)
+                         (PP (IN a+)
                                 (NP (DT o)
                                        (NN ponto)
-                                       (IN 
+                                       (PP 
                                          (IN de)
                                          (VP 
                                            (VB 
                                              (VB reclamar))
                                            (NP 
                                              (NN somas)
-                                             (JJ 
+                                             (ADJP 
                                                (JJ superiores)
-                                               (IN 
+                                               (PP 
                                                  (IN a+)
                                                  (NP 
                                                    (PRP o)
@@ -49,6 +49,6 @@
                                                        (PRP que))
                                                      (VB 
                                                        (VBP era))
-                                                     (JJ 
+                                                     (ADJP 
                                                        (JJ habitual))))))))))))
                        (.)))
