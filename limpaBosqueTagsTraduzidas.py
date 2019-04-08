@@ -13,7 +13,8 @@ import os
 
 #  IDEIA DE NOME:
 # Como treinar seu parser??
-
+# Comentar como foi uma merda remover varias tags, como tem tags que foi um cu pra descobrir a tradução,
+# e como levou muito tempo até eu fazer a substituição de FRASE
 
 endereco = "~/stanford-parser/BOSQUE/"
 nomeArquivo = "Bosque_CP_8.0.PennTreebank.txt"
@@ -26,6 +27,7 @@ def tradutor(tag):
     if not tabela:
         tabela = {
             # Formas Oracionais
+
             'fcl': 'VP',  # Forma Oracional Finita -> usa verbos não no infinitivo -> sintagma verbal
             'fcl-': 'VP',  # Forma Oracional Finita -> usa verbos não no infinitivo -> sintagma verbal
             'icl': 'VP',  # Forma Oracional não finita
@@ -40,8 +42,8 @@ def tradutor(tag):
             'advp-': 'RB',  # Sintagma adverbiais
             'vp': 'VB',  # Sintagma verbais
             'vp-': 'VB',  # Sintagma verbais
-            'pp': 'IN',  # Sintagma preposicionais
-            'pp-': 'IN',  # Sintagma preposicionais
+            'pp': 'PP',  # Sintagma preposicionais
+            'pp-': 'PP',  # Sintagma preposicionais
             'cu': 'CC',  # Sintagma evidenciador coordenação
             'cu-': 'CC',  # Sintagma evidenciador coordenação
             'sq': 'NP',  # Sintagma sequências discursivas - (pnc dessa tag)
@@ -134,12 +136,16 @@ def tradutor(tag):
             '>P': 'RB',  # Adjuntos preposicionais - maioria adv
             'P<': 'NP'  # Adjuntos preposicionais - maioria np
         }
+
+    # remove o travessão da tag
     if tag[0] == '-':
         tag = tag[1:]
     if tag[-1] == '-':
         tag = tag[:-1]
     # print(tag)
     return tabela[tag]
+
+# Verifica se o o nó aaliado é uma folha ou não
 
 
 def ehFolha(linha, inicio):
@@ -152,6 +158,8 @@ def ehFolha(linha, inicio):
             return False
         else:
             continue
+
+# trata o numero para fazer o nome do arquivo bonitinho
 
 
 def tratarNumero(numero):
@@ -174,39 +182,49 @@ def tratarNumero(numero):
 a = []
 nomeArquivoAbertoAtual = ''
 originalFile = open(nomeArquivo, 'r', encoding='latin-1')
+originalLines = originalFile.readlines()
 os.chdir('bosque_anotado_separado_limpo_traduzido')
+
 with open('Bosque_0001', 'w') as finalFile:
     # eu quero declarar a variavel de arquivo aqui
-    for line in originalFile:
-        # print ('line: ', line)
+    for i in range(len(originalLines)):
+        line = originalLines[i]
+
         if line[0] == '#':
             numero = line[1:].split(' ')[0]
             if numero.isdigit():
                 numeroTratado = tratarNumero(numero)
                 nomeArquivoAbertoAtual = 'Bosque_'+numeroTratado
                 finalFile = open(nomeArquivoAbertoAtual, 'w')
-                # print('Abrindo arquivo Bosque_'+numero)
+
         elif line.strip() == '':
             if not finalFile.closed:
                 finalFile.close()
-                # print('Fechou arquivo')
+
         else:
             if finalFile.closed:
                 continue
-            # print('Escrevendo linha:', line)
+
+            # remove a tag FRASE
+            tagRemover = '(FRASE'
+            tamTagRemover = len(tagRemover)
+
+            if(line.find(tagRemover) >= 0):
+                # o 2 é uma correção de quantidade de caracteres
+                aSubstituir = line[tamTagRemover +
+                                   1:].index(' ')+tamTagRemover+2
+                line = line.replace(line[:aSubstituir], '(S ')
 
             for index in range(len(line)-1, 0, -1):
                 if(index >= len(line)):
                     break
-                # print(index)
-                # print(line)
-                # print('len line', len(line))
+
                 char = line[index]
                 if(char != '('):
                     continue
-                # print(char)
+
                 inicio = index
-                # inicio = line.index(char)
+
                 try:
                     final = inicio + line[inicio:].index(' ')
                     listaClasse = line[inicio+1:final].split(':')
@@ -215,16 +233,16 @@ with open('Bosque_0001', 'w') as finalFile:
                         classe = listaClasse[1]
                         if classe == 'x' or funcao == 'X':
                             finalFile.close()
-                            os.remove(nomeArquivoAbertoAtual)
+                            os.remove(finalFile.name)
                             break
-                        # if ehFolha(line, inicio):
-                        # print(classe)
+
                         newLine = line.replace(
                             line[inicio:final], '(' + tradutor(classe))
                         # else:
                         # print(funcao)
                         # newLine = line.replace(
                         #     line[inicio:final], '(' + tradutor(funcao))
+
                         line = newLine
                 except ValueError:
                     continue
