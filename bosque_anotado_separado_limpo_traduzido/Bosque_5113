@@ -1,32 +1,32 @@
-(S (CC (VP (NP 
-                                  (DT o)
-                                  (NN filho)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (NNP Marcelo_Rebelo_de_Sousa))))
-                                (VB (VBP fazia))
-                                (NP (NN anos)))
-                       (CC e)
-                       (VP (NP 
-                                  (DT o)
-                                  (I- ex-)
-                                  (NN comissário)
-                                  (PP 
-                                    (IN de)
-                                    («)
-                                    (NP 
-                                      (NNP Lisboa_94))
-                                    (»)))
-                                (VB (VBP promovia))
-                                (NP (DT uma)
-                                        (NN festa)
-                                        (,)
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (NN local)
-                                            (ADJP 
-                                              (RB mais_ou_menos)
-                                              (JJ secreto))))))
-                       (.)))
+(S (NP (VP (NP 
+              (DT o)
+              (NN filho)
+              (PP 
+                (IN de)
+                (NP 
+                  (NNP Marcelo_Rebelo_de_Sousa))))
+            (VB (VBP fazia))
+            (NP (NN anos)))
+    (CC e)
+    (VP (NP 
+          o
+          ex-
+          comissário
+          (PP 
+            (IN de)
+            («)
+            (NP 
+              (NNP Lisboa_94))
+            (»)))
+        (VB (VBP promovia))
+        (NP (DT uma)
+                (NN festa)
+                (,)
+                (PP 
+                  (IN em)
+                  (NP 
+                    (NN local)
+                    (ADJP 
+                      (RB mais_ou_menos)
+                      (JJ secreto))))))
+(.)))

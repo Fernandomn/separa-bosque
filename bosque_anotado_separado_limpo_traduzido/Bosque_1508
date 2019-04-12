@@ -1,12 +1,12 @@
-(S (VP (RB (RB É))
+(S (VP (ADVP (RB É))
                         (PP (IN para)
                                  (NP (PRP isso)))
-                        (RB (RB que))
+                        (ADVP (RB que))
                         (PP (IN em)
                                  (NP (PRP todos_os)
                                         (NN países)
                                         (,)
-                                        (CC 
+                                        (NP 
                                           (ADJP 
                                             (JJ grandes))
                                           (CC ou)
@@ -14,7 +14,7 @@
                                             (JJ pequenos)))
                                         (,)))
                         (VB (VBP existe))
-                        (CC (NP 
+                        (NP (NP 
                                    (DT uma)
                                    (NN autarquia)
                                    (ADJP 
@@ -26,7 +26,7 @@
                                    (CD duas))
                                  (}))
                         (PP (IN entre)
-                                 (CC (NP 
+                                 (NP (NP 
                                           (DT o)
                                           (NN Estado))
                                         (CC e)

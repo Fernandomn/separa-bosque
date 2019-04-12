@@ -1,10 +1,10 @@
-(S (VP (CC (VP 
-                                  (RB 
+(S (VP (NP (VP 
+                                  (ADVP 
                                     (RB Às_vezes))
                                   (VB (VBP cheguei)
                                         (IN a)
                                         (VB ser))
-                                  (CC 
+                                  (NP 
                                     (ADJP 
                                       (JJ radical))
                                     (CC e)
@@ -19,7 +19,7 @@
                                     (NP 
                                       (DT a)
                                       (NN gente))
-                                    (RB 
+                                    (ADVP 
                                       (RB só))
                                     (VB 
                                       (VBP interfere))
@@ -35,23 +35,23 @@
                         (»)
                         (,)
                         (VB (VBP declarou))
-                        (NP (DT a)
-                                 (I- ex-)
-                                 (NN prefeita))
-                        (PP (IN a+)
-                                (NP (DT a)
-                                       (NN imprensa)
-                                       (ADJP 
-                                         (JJ paulista))))
-                        (,)
-                        (PP (IN a+)
-                                 (NP (DT o)
-                                        (VP 
-                                          (VB 
-                                            (VB justificar))
-                                          (NP 
-                                            (DT a)
-                                            (PRP sua)
-                                            (JJ presente)
-                                            (NN decisão)))))
-                        (.)))
+                        (NP a
+                            ex-
+                            prefeita)
+                  (PP (IN a+)
+                          (NP (DT a)
+                                  (NN imprensa)
+                                  (ADJP 
+                                    (JJ paulista))))
+                  (,)
+                  (PP (IN a+)
+                            (NP (DT o)
+                                  (VP 
+                                    (VB 
+                                      (VB justificar))
+                                    (NP 
+                                      (DT a)
+                                      (PRP sua)
+                                      (JJ presente)
+                                      (NN decisão)))))
+                  (.)))

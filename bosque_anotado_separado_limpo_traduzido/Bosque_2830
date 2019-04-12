@@ -1,86 +1,86 @@
-(S (VP (CC (NP 
-                                   (NNP Carlos_Cidade))
-                                 (,)
-                                 (NP 
-                                   (NNP Linhares_de_Castro))
-                                 (,)
-                                 (NP 
-                                   (NNP Luís_Januário))
-                                 (,)
-                                 (NP 
-                                   (NNP Leal_Amado))
-                                 (CC e)
-                                 (NP 
-                                   (NNP Moura_e_Sá)
-                                   (--)
-                                   (NP 
-                                     (DT o)
-                                     (NN único)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (RB 
-                                         (RB não))
-                                       (VB 
-                                         (VBP é))
-                                       (NP 
-                                         (I- ex-)
-                                         (NN militante)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT o)
-                                             (NNP PCP))))))
-                                   (--)))
-                        (VB (VBP são))
-                        (NP (DT os)
-                               (NN nomes)
-                               (VP 
-                                 (CC (VBN escolhidos)
-                                       (CC e)
-                                       (VP 
-                                         (RB 
-                                           (RB já))
-                                         (VB 
-                                           (VBN ratificados))))
-                                 (PP 
-                                   (IN por+)
-                                   (NP 
-                                     (DT o)
-                                     (NNP Núcleo_de_Coimbra_da_Plataforma_de_Esquerda)))
-                                 (PP 
-                                   (IN para)
-                                   (VP 
-                                     (VB 
-                                       (VB integrar))
-                                     (NP 
-                                       (DT as)
-                                       (NN listas)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP PS)))
-                                       (PP 
-                                         (IN a+)
-                                         (NP 
-                                           (CC 
-                                             (NP 
-                                               (DT a)
-                                               (NN câmara))
-                                             (CC e)
-                                             (NP 
-                                               (NN assembleia)
-                                               (ADJP 
-                                                 (JJ municipais))))
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT a)
-                                               (NN capital)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT o)
-                                                   (NN distrito))))))))))))
-                        (.)))
+(S (VP (NP (NP 
+                (NNP Carlos_Cidade))
+              (,)
+              (NP 
+                (NNP Linhares_de_Castro))
+              (,)
+              (NP 
+                (NNP Luís_Januário))
+              (,)
+              (NP 
+                (NNP Leal_Amado))
+              (CC e)
+              (NP 
+                (NNP Moura_e_Sá)
+                (--)
+                (NP 
+                  (DT o)
+                  (NN único)
+                  (VP 
+                    (NP 
+                      (PRP que))
+                    (ADVP 
+                      (RB não))
+                    (VB 
+                      (VBP é))
+                    (NP 
+                      ex-
+                      militante
+                      (PP 
+                        (IN de+)
+                        (NP 
+                          (DT o)
+                          (NNP PCP))))))
+                (--)))
+    (VB (VBP são))
+    (NP (DT os)
+            (NN nomes)
+            (VP 
+              (NP (VBN escolhidos)
+                    (CC e)
+                    (VP 
+                      (ADVP 
+                        (RB já))
+                      (VB 
+                        (VBN ratificados))))
+              (PP 
+                (IN por+)
+                (NP 
+                  (DT o)
+                  (NNP Núcleo_de_Coimbra_da_Plataforma_de_Esquerda)))
+              (PP 
+                (IN para)
+                (VP 
+                  (VB 
+                    (VB integrar))
+                  (NP 
+                    (DT as)
+                    (NN listas)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT o)
+                        (NNP PS)))
+                    (PP 
+                      (IN a+)
+                      (NP 
+                        (NP 
+                          (NP 
+                            (DT a)
+                            (NN câmara))
+                          (CC e)
+                          (NP 
+                            (NN assembleia)
+                            (ADJP 
+                              (JJ municipais))))
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT a)
+                            (NN capital)
+                            (PP 
+                              (IN de+)
+                              (NP 
+                                (DT o)
+                                (NN distrito))))))))))))
+    (.)))

@@ -10,11 +10,24 @@ import os
 # https://www.todamateria.com.br/passive-voice/
 # https://www.infoescola.com/portugues/funcoes-do-se/
 # https://www.linguateca.pt/floresta/BibliaFlorestal/sec09.html
+# https://catalog.ldc.upenn.edu/LDC99T42
+# https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/as-formas-finitas-e-nao-finitas-dos-verbos/32776
 
 #  IDEIA DE NOME:
 # Como treinar seu parser??
-# Comentar como foi uma merda remover varias tags, como tem tags que foi um cu pra descobrir a tradução,
-# e como levou muito tempo até eu fazer a substituição de FRASE
+# Comentar como foi uma merda remover varias tags, como tem tags que foi um cu
+# pra descobrir a tradução, e como levou muito tempo até eu fazer a
+# substituição de FRASE
+# Salientar, na escrita final, que palavras com hifem tiveram sua estrutura
+# modificada para seguir o padrão do PTB.
+# Algumas árvores tem mais de uma forma. Descobrir como gerar arquivos tipo 0, a, b
+# Citar o StyleGuide oficial (trabalho da porra de achar: https://catalog.ldc.upenn.edu/LDC99T42)
+# Arquivos que precisaram ser modificados: 0002,0067,0261,0262,0275,0293,0409,
+# 0501,0560,0666,0747,0791, 0998,1403,1482,1502,1517,1573,1607,1794,1798,1807,
+# 1887,1893,1925,1938,2033,2035,2381,2489,2505,2668,2748,2780,2830,2907,3056,
+# 3082,3138,3168,3236,3331,3478,3547,3581,3583,3592,3820,3833,3853,3881,3882,
+# 3898,3898,3976,4028,4096,4117,4160,4300,4320,4338,4426,4517,4519,4553,4565,
+# 4580,4622,4710,4856,4973,5086,5099,5101,5113,5139
 
 endereco = "~/stanford-parser/BOSQUE/"
 nomeArquivo = "Bosque_CP_8.0.PennTreebank.txt"
@@ -38,14 +51,14 @@ def tradutor(tag):
             'np': 'NP',  # Sintagma nominais
             'np-': 'NP',  # descobrir se essa tag é um erro ou não
             'adjp': 'ADJP',  # Sintagma adjectivais
-            'advp': 'RB',  # Sintagma adverbiais
-            'advp-': 'RB',  # Sintagma adverbiais
-            'vp': 'VB',  # Sintagma verbais
+            'advp': 'ADVP',  # Sintagma adverbiais
+            'advp-': 'ADVP',  # Sintagma adverbiais
+            'vp': 'VP',  # Sintagma verbais
             'vp-': 'VB',  # Sintagma verbais
             'pp': 'PP',  # Sintagma preposicionais
             'pp-': 'PP',  # Sintagma preposicionais
-            'cu': 'CC',  # Sintagma evidenciador coordenação
-            'cu-': 'CC',  # Sintagma evidenciador coordenação
+            'cu': 'NP',  # Sintagma evidenciador coordenação
+            'cu-': 'NP',  # Sintagma evidenciador coordenação
             'sq': 'NP',  # Sintagma sequências discursivas - (pnc dessa tag)
 
             # Classes de palavras
@@ -143,6 +156,7 @@ def tradutor(tag):
     if tag[-1] == '-':
         tag = tag[:-1]
     # print(tag)
+
     return tabela[tag]
 
 # Verifica se o o nó aaliado é uma folha ou não

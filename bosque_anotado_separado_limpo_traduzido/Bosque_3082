@@ -1,32 +1,32 @@
-(S (VP (NP (DT O)
-                                 (I- ex-)
-                                 (NN beatle)
-                                 (NP (NNP Paul_McCartney)))
-                        (VB (VBP iniciará))
-                        (RB (RB em_breve))
-                        (NP (ADJP 
-                                  (RB mais)
-                                  (CD uma))
-                                (JJ extenuante)
-                                («)
-                                (NN tournée)
-                                (»)
-                                (PP (IN de)
-                                       (NP 
-                                         (CD um)
-                                         (NN ano)))
-                                (PP (IN por+)
-                                       (NP 
-                                         (DT o)
-                                         (NN mundo))))
-                        (,)
-                        (PP (IN para)
-                                 (NP (NN promoção)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (PRP seu)
-                                            (JJ novo)
-                                            (NN álbum)))))
-                        (.)))
+(S (VP (NP O
+            ex-
+            beatle
+            (NP (NNP Paul_McCartney)))
+  (VB (VBP iniciará))
+  (ADVP (RB em_breve))
+  (NP (ADJP 
+            (RB mais)
+            (CD uma))
+          (JJ extenuante)
+          («)
+          (NN tournée)
+          (»)
+          (PP (IN de)
+                  (NP 
+                    (CD um)
+                    (NN ano)))
+          (PP (IN por+)
+                  (NP 
+                    (DT o)
+                    (NN mundo))))
+  (,)
+  (PP (IN para)
+            (NP (NN promoção)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (PRP seu)
+                      (JJ novo)
+                      (NN álbum)))))
+  (.)))
