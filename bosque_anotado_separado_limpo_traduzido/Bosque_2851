@@ -1,26 +1,26 @@
-(S (VP (VB (VBP Diga))
+(S (VP (VP (VBP Diga))
                         (NP (PRP se))
                         (,)
-                        (NP (PP 
+                        (_CU_ (PP 
                                    (IN de)
                                    (RB uma_vez))
                                  (CC e)
                                  (ADVP 
                                    (RB claramente)))
                         (,)
-                        (NP (VP 
+                        (_CU_ (VP 
                                   (NP 
                                     (PRP o_que))
                                   (NP 
                                     (PRP se))
-                                  (VB (VBP quer)))
+                                  (VP (VBP quer)))
                                 (CC ou)
                                 (VP 
                                   (NP 
                                     (PRP o_que))
                                   (NP 
                                     (PRP se))
-                                  (VB (VBP quer))
+                                  (VP (VBP quer))
                                   (ADVP 
                                     (RB mais))))
                         (.)))

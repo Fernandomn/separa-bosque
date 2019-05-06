@@ -1,9 +1,9 @@
-(S (NP (VP (PP 
+(S (_CU_ (VP (PP 
                                   (IN Em)
                                   (ADJP 
                                     (CD 1990)))
                                 (,)
-                                (VB (VBP existiam))
+                                (VP (VBP existiam))
                                 (NP 
                                   (CD 800)
                                   (NN supercomputadores))
@@ -17,12 +17,12 @@
                                 (,)
                                 (NP 
                                   (VP 
-                                    (VB 
-                                      (VBN distribuídos))
+                                    (VP 
+                                      (VBN distribu�dos))
                                     (PP 
                                       (IN por)
                                       (NP 
-                                        (NP 
+                                        (_CU_ 
                                           (NP 
                                             (JJ grandes)
                                             (NN empresas))
@@ -30,11 +30,11 @@
                                           (NP 
                                             (NN organismos)
                                             (ADJP 
-                                              (JJ públicos))))
+                                              (JJ p�blicos))))
                                         (VP 
                                           (NP 
                                             (PRP que))
-                                          (VB 
+                                          (VP 
                                             (VBP investem))
                                           (PP 
                                             (IN em+)
@@ -46,18 +46,18 @@
                                             (VP 
                                               (NP 
                                                 (PRP os))
-                                              (VB 
+                                              (VP 
                                                 (VB disponibilizar))
                                               (PP 
                                                 (IN a)
                                                 (NP 
-                                                  (NN instituições)
+                                                  (NN institui��es)
                                                   (ADJP 
-                                                    (JJ científicas))
+                                                    (JJ cient�ficas))
                                                   (VP 
                                                     (NP 
                                                       (PRP que))
-                                                    (VB 
+                                                    (VP 
                                                       (VBP pagam))
                                                     (PP 
                                                       (IN por+)
@@ -67,7 +67,7 @@
                                                         (PP 
                                                           (IN de)
                                                           (NP 
-                                                            (NN utilização)))))))))))
+                                                            (NN utiliza��o)))))))))))
                                         (--)
                                         (ADVP 
                                           (RB como)
@@ -79,9 +79,9 @@
                                               (NP 
                                                 (NNP Portugal))))))))))
                        ({)
-                       (VP (VB (VB ver))
-                                («)
+                       (VP (VP (VB ver))
+                                (�)
                                 (NP (NNP Universidades_nacionais_sem_supercomputador))
-                                (»))
+                                (�))
                        (})
                        (.)))

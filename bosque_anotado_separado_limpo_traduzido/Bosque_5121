@@ -1,7 +1,7 @@
-(S (NP (NP (CD Quatro)
+(S (_CU_ (NP (CD Quatro)
                                (NN quartos)
                                (,)
-                               (NP 
+                               (_CU_ 
                                  (ADJP 
                                    (JJ simples)
                                    (PP 
@@ -16,13 +16,13 @@
                                      (ADJP 
                                        (CD 980000))))))
                        (;)
-                       (VP (VB (VBP servem))
-                                (NP (NN refeições))
+                       (VP (VP (VBP servem))
+                                (NP (NN refei��es))
                                 (VP 
                                   (ADVP 
                                     (RB quando))
-                                  (VB (VBN solicitado))))
+                                  (VP (VBN solicitado))))
                        (CC e)
-                       (VP (VB (VBP admitem))
+                       (VP (VP (VBP admitem))
                                 (NP (NN animais)))
                        (.)))

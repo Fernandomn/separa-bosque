@@ -1,6 +1,6 @@
 (S (VP (PP (IN Entre)
                                  (ADJP 
-                                   (NP 
+                                   (_CU_ 
                                      (ADJP 
                                        (CD 1))
                                      (CC e)
@@ -10,17 +10,17 @@
                                      (IN de)
                                      (NP 
                                        (NN Setembro)))))
-                        (VB (VBP decorreu))
+                        (VP (VBP decorreu))
                         (PP (IN em)
-                                 (NP (NNP Düsseldorf)))
+                                 (NP (NNP D�sseldorf)))
                         (,)
                         (NP (DT a)
-                                (NN edição)
-                                (NP (NP 
+                                (NN edi��o)
+                                (_CU_ (NP 
                                          (NNP Primavera))
                                        (-)
                                        (NP 
-                                         (NNP Verão)))
+                                         (NNP Ver�o)))
                                 (ADJP 
                                   (CD 1992))
                                 (PP (IN de+)
@@ -33,7 +33,7 @@
                                            (PP 
                                              (IN de)
                                              (NP 
-                                               (NN vestuário)))
+                                               (NN vestu�rio)))
                                            (,)
                                            (VP 
                                              (PP 
@@ -42,10 +42,10 @@
                                                  (PRP o_qual)))
                                              (NP 
                                                (NNP Portugal))
-                                             (VB 
+                                             (VP 
                                                (VBP participou))
                                              (ADVP 
                                                (RB como)
                                                (NP 
-                                                 (NN país-parceiro))))))))
+                                                 (NN pa�s-parceiro))))))))
                         (.)))

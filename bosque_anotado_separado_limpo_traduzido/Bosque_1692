@@ -1,6 +1,6 @@
-(S (VP (VB (VBP Foi))
+(S (VP (VP (VBP Foi))
                         (ADVP (RB anteontem))
-                        (VB (VBN empossado))
+                        (VP (VBN empossado))
                         (NP (DT o)
                                  (NN grupo)
                                  (PP (IN de)
@@ -11,15 +11,15 @@
                                  (VP 
                                    (NP 
                                      (PRP que))
-                                   (VB 
+                                   (VP 
                                      (VBP vai)
                                      (VB preparar))
                                    (NP 
                                      (DT a)
-                                     (NN articulação)
+                                     (NN articula��o)
                                      (PP 
                                        (IN entre)
-                                       (NP 
+                                       (_CU_ 
                                          (NP 
                                            (DT as)
                                            (NN bibliotecas)
@@ -38,5 +38,5 @@
                                                  (NP 
                                                    (NN leitura)
                                                    (ADJP 
-                                                     (JJ pública))))))))))))
+                                                     (JJ p�blica))))))))))))
                         (.)))

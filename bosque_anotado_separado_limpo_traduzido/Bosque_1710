@@ -1,16 +1,16 @@
-(S (VP (VB (VBP Queremos))
+(S (VP (VP (VBP Queremos))
                         (VP (IN que)
-                                 (VB (VBP cumpra))
+                                 (VP (VBP cumpra))
                                  (NP 
                                    (DT a)
                                    (NN promessa)))
                         (,)
-                        (NP (CC mas)
+                        (_CU_ (CC mas)
                                  (PP 
                                    (IN de)
                                    (NP 
                                      (NN maneira)
-                                     (NP 
+                                     (_CU_ 
                                        (ADJP 
                                          (JJ digna))
                                        (CC e)

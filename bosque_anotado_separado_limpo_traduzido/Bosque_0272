@@ -1,15 +1,15 @@
-(S (VP («)
-                       (VB (VBP Queremos))
+(S (VP (�)
+                       (VP (VBP Queremos))
                        (VP (IN que)
                                 (NP 
                                   (NN especialistas)
-                                  (NP 
+                                  (_CU_ 
                                     (ADJP 
                                       (JJ internacionais))
                                     (CC e)
                                     (ADJP 
                                       (JJ nacionais))))
-                                (VB (VBP pensem))
+                                (VP (VBP pensem))
                                 (PP (IN em+)
                                         (NP 
                                           (DT as)
@@ -17,7 +17,7 @@
                                           (VP 
                                             (NP 
                                               (PRP que))
-                                            (VB 
+                                            (VP 
                                               (VBP existem)))
                                           (PP 
                                             (IN de)
@@ -42,5 +42,5 @@
                                                         (IN de+)
                                                         (NP 
                                                           (DT a)
-                                                          (NN informação))))))))))))
+                                                          (NN informa��o))))))))))))
                        (;)))

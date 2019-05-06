@@ -1,4 +1,4 @@
-(S (NP (VP (VP 
+(S (_CU_ (VP (VP 
                                    (NP 
                                      (DT A)
                                      ([)
@@ -6,13 +6,13 @@
                                      (])
                                      (NNP Meyer)))
                                  (ADVP 
-                                   (RB não))
-                                 (VB (VBP sei))
+                                   (RB n�o))
+                                 (VP (VBP sei))
                                  (VP 
                                    (IN se)
-                                   (VB 
-                                     (VBP escolherá))
-                                   (NP 
+                                   (VP 
+                                     (VBP escolher�))
+                                   (_CU_ 
                                      (NP 
                                        (DT os)
                                        (CD 10.000m))
@@ -21,12 +21,12 @@
                                        (DT a)
                                        (NN maratona)))))
                         (CC e)
-                        (NP (VP 
+                        (_CU_ (VP 
                                   (NP 
                                     (DT as)
                                     (NN chinesas))
-                                  (VB (VBP apresentam))
-                                  (NP 
+                                  (VP (VBP apresentam))
+                                  (_CU_ 
                                     (NP 
                                       (NN altos))
                                     (CC e)
@@ -36,7 +36,7 @@
                                 (VP 
                                   (ADVP 
                                     (RB nunca))
-                                  (VB (VBP repetiram))
+                                  (VP (VBP repetiram))
                                   (NP 
                                     (DT as)
                                     (NN marcas)
@@ -45,4 +45,4 @@
                                       (ADJP 
                                         (CD 1993))))))
                         (.)
-                        (»)))
+                        (�)))

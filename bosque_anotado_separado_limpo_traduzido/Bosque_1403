@@ -1,6 +1,6 @@
-(S (VP (VB (VBP Pense-))
+(S (VP (VP (VBP Pense-))
                         (NP (PRP se))
-                        (NP (PP (IN em+)
+                        (_CU_ (PP (IN em+)
                                         (NP 
                                           (DT um)
                                           (NN enredo)
@@ -8,19 +8,19 @@
                                             (JJ mirabolante))
                                           (,)
                                           (VP 
-                                            (VB 
+                                            (VP 
                                               (VBN centrado))
                                             (PP 
                                               (IN em+)
                                               (NP 
                                                 (DT um)
-                                                (NN herói)
+                                                (NN her�i)
                                                 (VBN desfeito)
                                                 (,)
                                                 (NP 
-                                                  o
-                                                  anti-
-                                                  herói
+                                                  (DT o)
+                                                  (_EC_ anti-)
+                                                  (NN her�i)
                                                   (NP 
                                                     (NNP Maurice_Allington)))
                                                 (,))))))
@@ -34,7 +34,7 @@
                                               (RB como))
                                             (NP 
                                               (DT o)
-                                              (NN impensável)
+                                              (NN impens�vel)
                                               (--)
                                               (NP 
                                                 (DT o)
@@ -46,6 +46,6 @@
                                               (--))
                                             (NP 
                                               (PRP o))
-                                            (VB 
+                                            (VP 
                                               (VBP cerca))))))
                         (.)))

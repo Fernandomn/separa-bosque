@@ -1,15 +1,15 @@
-(S (NP (VP (VB (VBP Estava))
+(S (_CU_ (VP (VP (VBP Estava))
                                 (PP (IN sem)
                                        (NP 
                                          (NN trabalho))))
                        (,)
-                       (VP (VB (VBP fazia))
-                                (NP 
+                       (VP (VP (VBP fazia))
+                                (_CU_ 
                                   (NP 
                                     (PRP uns)
                                     (NN biscates)))
                                 (PP de_vez_em_quando)
-                                (NP 
+                                (_CU_ 
                                   (,)
                                   (CC mas)
                                   (NP 
@@ -17,5 +17,5 @@
                                     (PP 
                                       (IN de)
                                       (NP 
-                                        (NN sério))))))
+                                        (NN s�rio))))))
                        (.)))

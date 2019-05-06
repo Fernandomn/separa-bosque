@@ -1,10 +1,10 @@
-(S (NP (VP (VB (VBP Partiram))
+(S (_CU_ (VP (VP (VBP Partiram))
                                 (PP (IN para)
                                        (NP 
                                          (DT um)
                                          (NNP El_Dorado))))
                        (,)
-                       (VP (VB (VBP deparam-))
+                       (VP (VP (VBP deparam-))
                                 (NP (PRP se))
                                 (ADVP 
                                   (RB agora))
@@ -12,7 +12,7 @@
                                         (NP 
                                           (DT a)
                                           (NN perspectiva)
-                                          (NP 
+                                          (_CU_ 
                                             (PP 
                                               (IN de)
                                               (NP 
@@ -25,5 +25,5 @@
                                               (NP 
                                                 (DT o)
                                                 (NN desemprego)
-                                                (VBN forçado)))))))
+                                                (VBN for�ado)))))))
                        (.)))

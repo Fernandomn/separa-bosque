@@ -1,19 +1,19 @@
-(S (VP («)
+(S (VP (�)
                        (NP (DT O)
-                                (JJ único)
+                                (JJ �nico)
                                 (NN trabalho)
                                 (PP (IN de+)
                                        (NP 
                                          (DT as)
                                          (NN pessoas))))
-                       (VB (VBP é))
-                       (NP (VP (VB 
+                       (VP (VBP �))
+                       (_CU_ (VP (VP 
                                          (VB separar))
                                        (NP 
                                          (DT o)
                                          (NN lixo)))
                               (CC e)
-                              (VP (VB 
+                              (VP (VP 
                                          (VB colocar))
                                        (PP 
                                          (IN em+)
@@ -24,7 +24,7 @@
                                              (JJ certos))))
                                        (NP 
                                          (DT os)
-                                         (NP 
+                                         (_CU_ 
                                            (NP 
                                              (NN contentores))
                                            (CC e)
@@ -32,7 +32,7 @@
                                              (NN cestos)))
                                          (PP 
                                            (IN para)
-                                           (VB 
+                                           (VP 
                                              (VB serem)
                                              (VBN recolhidos))))))
                        (.)))

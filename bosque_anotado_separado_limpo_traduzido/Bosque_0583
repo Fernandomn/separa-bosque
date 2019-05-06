@@ -1,14 +1,14 @@
-(S (NP (VP (VB (VBP Bateu-))
+(S (_CU_ (VP (VP (VBP Bateu-))
                                 (NP (PRP se))
                                 (ADVP 
                                   (RB bem)))
                        (,)
-                       (VP (VB (VBP ganhou-))
+                       (VP (VP (VBP ganhou-))
                                 (NP (PRP lhes))
                                 (NP (PRP muitos)
                                         (NN lances)))
                        (CC e)
-                       (VP (VB (VBP anulou))
+                       (VP (VP (VBP anulou))
                                 (NP (DT o)
                                         (NN flanco)
                                         (ADJP 
@@ -25,7 +25,7 @@
                                                 (NN visitantes)))))))
                        (,)
                        (CC mas)
-                       (VP (VB (VBP acabou)
+                       (VP (VP (VBP acabou)
                                       (IN por)
                                       (VB ver))
                                 (VP 
@@ -39,7 +39,7 @@
                                       (NP 
                                         (DT a)
                                         (NN partida))))
-                                  (VB (VB tabelar))
+                                  (VP (VB tabelar))
                                   (PP 
                                     (IN em+)
                                     (NP 
@@ -54,7 +54,7 @@
                                         (NP 
                                           (DT a)
                                           (NN bola))
-                                        (VB 
+                                        (VP 
                                           (VB chegar))
                                         (PP 
                                           (IN a+)

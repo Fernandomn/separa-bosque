@@ -1,87 +1,87 @@
-(S (VP (NP (PP (IN Por)
-                                        (NP 
-                                          (PRP isso)))
-                                (,)
-                                (CC e)
-                                (VP 
-                                  (ADVP 
-                                    (RB também))
-                                  (IN porque)
-                                  (NP 
-                                    (DT os)
-                                    (NN russos))
-                                  (VB (VBP estavam))
-                                  (VP 
-                                    (ADVP 
-                                      (RB mais)
-                                      (RB bem))
-                                    (VB 
-                                      (VBN adaptados))
-                                    (PP 
-                                      (IN a+)
-                                      (NP 
-                                        (DT o)
-                                        (NP 
-                                          (NP 
-                                            (VP 
-                                              (ADVP 
-                                                (RB muito))
-                                              (VB 
-                                                (VBN enlameado)))
-                                            (CC e)
-                                            (ADJP 
-                                              (JJ escorregadio)))
-                                          (NN relvado)))))))
-                       (,)
-                       (NP (DT o)
-                                (NNP Lokomotiv))
-                       (VB (VBP era))
-                       (ADJP (RB mais)
-                                (JJ rápido)
-                                (PP (IN sobre)
-                                       (NP 
-                                         (DT a)
-                                         (NN bola))))
-                       (,)
-                       (VP 
-                         (VB (VBG ganhando))
-                         (NP (DT a)
-                                 (JJ maior)
-                                 (NN parte)
-                                 (PP 
-                                   (IN de+)
-                                   (NP 
-                                     (DT os)
-                                     (NN duelos)
-                                     (PP 
-                                       (IN em+)
-                                       (NP 
-                                         (DT a)
-                                         (NN zona)
-                                         (ADJP 
-                                           (JJ fulcral))
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT o)
-                                             (NN terreno)))
-                                         (,)
-                                         (VP 
-                                           (VB 
-                                             (VBN situada))
-                                           (NP 
-                                             (PP 
-                                               (IN entre)
-                                               (NP 
-                                                 (DT o)
-                                                 (NN meio-campo)))
-                                             (CC e)
-                                             (NP 
-                                               (DT a)
-                                               (NN defesa)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT o)
-                                                   (NNP Benfica))))))))))))
-                       (.)))
+(S (VP (_CU_ (PP (IN Por)
+                      (NP 
+                        (PRP isso)))
+              (,)
+              (CC e)
+              (VP 
+                (ADVP 
+                  (RB tamb�m))
+                (IN porque)
+                (NP 
+                  (DT os)
+                  (NN russos))
+                (VP (VBP estavam))
+                (VP 
+                  (ADVP 
+                    (RB mais)
+                    (RB bem))
+                  (VP 
+                    (VBN adaptados))
+                  (PP 
+                    (IN a+)
+                    (NP 
+                      (DT o)
+                      (NP 
+                        (_CU_ 
+                          (VP 
+                            (ADVP 
+                              (RB muito))
+                            (VP 
+                              (VBN enlameado)))
+                          (CC e)
+                          (ADJP 
+                            (JJ escorregadio)))
+                        (NN relvado)))))))
+      (,)
+      (NP (DT o)
+              (NNP Lokomotiv))
+      (VP (VBP era))
+      (ADJP (RB mais)
+              (JJ r�pido)
+              (PP (IN sobre)
+                      (NP 
+                        (DT a)
+                        (NN bola))))
+      (,)
+      (VP 
+        (VP (VBG ganhando))
+        (NP (DT a)
+                (JJ maior)
+                (NN parte)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT os)
+                    (NN duelos)
+                    (PP 
+                      (IN em+)
+                      (NP 
+                        (DT a)
+                        (NN zona)
+                        (ADJP 
+                          (JJ fulcral))
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT o)
+                            (NN terreno)))
+                        (,)
+                        (VP 
+                          (VP 
+                            (VBN situada))
+                          (_CU_ 
+                            (PP 
+                              (IN entre)
+                              (NP 
+                                (DT o)
+                                (NN meio-campo)))
+                            (CC e)
+                            (NP 
+                              (DT a)
+                              (NN defesa)
+                              (PP 
+                                (IN de+)
+                                (NP 
+                                  (DT o)
+                                  (NNP Benfica))))))))))))
+      (.)))

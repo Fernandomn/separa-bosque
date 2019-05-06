@@ -1,12 +1,12 @@
-(S (VP (ADVP (RB É))
+(S (VP (ADVP (RB �))
                         (NP (PRP este)
                                  (NN material)
                                  (ADJP 
                                    (JJ super-resistente)))
                         (ADVP (RB que))
-                        (VB (VBP permite))
-                        (NP (VP 
-                                  (VB (VB roer))
+                        (VP (VBP permite))
+                        (_CU_ (VP 
+                                  (VP (VB roer))
                                   (NP 
                                     (DT a)
                                     (NN rocha))
@@ -14,8 +14,8 @@
                                     (IN a+)
                                     (NP 
                                       (DT a)
-                                      (NN média)
-                                      (NP 
+                                      (NN m�dia)
+                                      (_CU_ 
                                         (PP 
                                           (IN de)
                                           (ADJP 
@@ -23,7 +23,7 @@
                                         (PP 
                                           (IN a)
                                           (NP 
-                                            (CD três)
+                                            (CD tr�s)
                                             (NN voltas))))
                                       (PP 
                                         (IN por)
@@ -31,7 +31,7 @@
                                           (NN minuto))))))
                                 (CC e)
                                 (VP 
-                                  (VB (VB avançar))
+                                  (VP (VB avan�ar))
                                   (PP 
                                     (IN a+)
                                     (NP 

@@ -21,45 +21,38 @@ import os
 # Salientar, na escrita final, que palavras com hifem tiveram sua estrutura
 # modificada para seguir o padrão do PTB.
 # Algumas árvores tem mais de uma forma. Descobrir como gerar arquivos tipo 0, a, b
-# Citar o StyleGuide oficial (trabalho da porra de achar: https://catalog.ldc.upenn.edu/LDC99T42)
-# Arquivos que precisaram ser modificados: 0002,0067,0261,0262,0275,0293,0409,
-# 0501,0560,0666,0747,0791, 0998,1403,1482,1502,1517,1573,1607,1794,1798,1807,
-# 1887,1893,1925,1938,2033,2035,2381,2489,2505,2668,2748,2780,2830,2907,3056,
-# 3082,3138,3168,3236,3331,3478,3547,3581,3583,3592,3820,3833,3853,3881,3882,
-# 3898,3898,3976,4028,4096,4117,4160,4300,4320,4338,4426,4517,4519,4553,4565,
-# 4580,4622,4710,4856,4973,5086,5099,5101,5113,5139
-
-endereco = "~/stanford-parser/BOSQUE/"
-nomeArquivo = "Bosque_CP_8.0.PennTreebank.txt"
+# Citar o StyleGuide oficial (trabalho da porra de achar:
+#  https://catalog.ldc.upenn.edu/LDC99T42)
+# Arquivos que precisaram ser modificados:
+# 0002,0067,0261,0262,0275,0293,0349,0409,0501,0560,0666,0747,0791,0998,1403,
+# 1482,1502,1517,1573,1607,1794,1798,1807,1887,1893,1925,1938,2033,2035,2381,
+# 2489,2505,2668,2748,2780,2830,2907,3056,3082,3138,3168,3236,3331,3478,3547,
+# 3581,3583,3592,3820,3833,3853,3881,3882,3898,3898,3976,4028,4096,4117,4160,
+# 4300,4320,4338,4426,4517,4519,4553,4565,4580,4622,4710,4856,4973,5086,5099,
+# 5101,5113,5139
 
 tabela = {}
 
 
-def tradutor(tag):
+def tradutor(tag, i, originalLines):
     global tabela
     if not tabela:
         tabela = {
             # Formas Oracionais
-
             'fcl': 'VP',  # Forma Oracional Finita -> usa verbos não no infinitivo -> sintagma verbal
-            'fcl-': 'VP',  # Forma Oracional Finita -> usa verbos não no infinitivo -> sintagma verbal
             'icl': 'VP',  # Forma Oracional não finita
-            'icl-': 'VP',  # Forma Oracional não finita TODO
             'acl': 'ADVP',  # Forma Oracional adverbial
 
             # Sintagmas
             'np': 'NP',  # Sintagma nominais
-            'np-': 'NP',  # descobrir se essa tag é um erro ou não
             'adjp': 'ADJP',  # Sintagma adjectivais
             'advp': 'ADVP',  # Sintagma adverbiais
-            'advp-': 'ADVP',  # Sintagma adverbiais
             'vp': 'VP',  # Sintagma verbais
-            'vp-': 'VB',  # Sintagma verbais
             'pp': 'PP',  # Sintagma preposicionais
-            'pp-': 'PP',  # Sintagma preposicionais
-            'cu': 'NP',  # Sintagma evidenciador coordenação
-            'cu-': 'NP',  # Sintagma evidenciador coordenação
-            'sq': 'NP',  # Sintagma sequências discursivas - (pnc dessa tag)
+            # Sintagma evidenciador coordenação
+            'cu': '_CU_',
+            # Sintagma sequências discursivas - (pnc dessa tag). Substituir por NP, por ser a tag filha imediata desta
+            'sq': 'NP',
 
             # Classes de palavras
             'n': 'NN',  # substantivos
@@ -87,13 +80,13 @@ def tradutor(tag):
             'intj': 'UH',  # interjeições
             'conj-s': 'IN',  # conjunções subordinativa
             'conj-c': 'CC',  # conjunções coordenativa
-            'ec': 'I-',  # prefixos - ativei o modo Elza e let it go
+            'ec': '_EC_',  # prefixos - ativei o modo Elza e let it go
 
             # Enunciados
             'UTT': 'NP',  # enunciados - não tem muito o que fazer aqui...
             'STA': 'NP',  # declarativo - outra tag aleatória
             'QUE': 'NP',  # interrogativo
-            '11CMD': 'VP',  # imperativo - caraio, não tem tag pra isso.
+            'CMD': 'VP',  # imperativo - caraio, não tem tag pra isso.
             'EXC': 'NP',  # exclamativo - pode ser literalmente qualquer um
 
             # Orações
@@ -159,7 +152,7 @@ def tradutor(tag):
 
     return tabela[tag]
 
-# Verifica se o o nó aaliado é uma folha ou não
+# Verifica se o o nó aliado é uma folha ou não
 
 
 def ehFolha(linha, inicio):
@@ -193,9 +186,14 @@ def tratarNumero(numero):
         return '0000'
 
 
+endereco = "~/stanford-parser/BOSQUE/"
+nomeArquivo = "Bosque_CP_8.0.PennTreebank.txt"
+
 a = []
 nomeArquivoAbertoAtual = ''
-originalFile = open(nomeArquivo, 'r', encoding='latin-1')
+# originalFile = open(nomeArquivo, 'r')
+originalFile = open(nomeArquivo, 'r', encoding='utf-8')
+
 originalLines = originalFile.readlines()
 os.chdir('bosque_anotado_separado_limpo_traduzido')
 
@@ -209,7 +207,7 @@ with open('Bosque_0001', 'w') as finalFile:
             if numero.isdigit():
                 numeroTratado = tratarNumero(numero)
                 nomeArquivoAbertoAtual = 'Bosque_'+numeroTratado
-                finalFile = open(nomeArquivoAbertoAtual, 'w')
+                finalFile = open(nomeArquivoAbertoAtual, 'w', encoding='utf-8')
 
         elif line.strip() == '':
             if not finalFile.closed:
@@ -229,15 +227,15 @@ with open('Bosque_0001', 'w') as finalFile:
                                    1:].index(' ')+tamTagRemover+2
                 line = line.replace(line[:aSubstituir], '(S ')
 
-            for index in range(len(line)-1, 0, -1):
-                if(index >= len(line)):
+            for j in range(len(line)-1, 0, -1):
+                if(j >= len(line)):
                     break
 
-                char = line[index]
+                char = line[j]
                 if(char != '('):
                     continue
 
-                inicio = index
+                inicio = j
 
                 try:
                     final = inicio + line[inicio:].index(' ')
@@ -251,11 +249,7 @@ with open('Bosque_0001', 'w') as finalFile:
                             break
 
                         newLine = line.replace(
-                            line[inicio:final], '(' + tradutor(classe))
-                        # else:
-                        # print(funcao)
-                        # newLine = line.replace(
-                        #     line[inicio:final], '(' + tradutor(funcao))
+                            line[inicio:final], '(' + tradutor(classe, i, j, originalLines))
 
                         line = newLine
                 except ValueError:

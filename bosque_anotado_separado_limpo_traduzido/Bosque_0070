@@ -1,9 +1,9 @@
 (S (VP (NP (DT O)
                                 (NN jogo))
-                       (VB (VBP chegou)
+                       (VP (VBP chegou)
                              (IN a)
                              (VB estar))
-                       (VP (VB (VBN complicado))
+                       (VP (VP (VBN complicado))
                                (PP (IN para)
                                         (NP 
                                           (DT a)
@@ -13,14 +13,14 @@
                                             (NP 
                                               (NNP Paulo_Autuori))))))
                        (,)
-                       (NP (VP 
+                       (_CU_ (VP 
                                   (ADVP 
                                     (RB essencialmente))
                                   (IN porque)
                                   (NP 
                                     (DT o)
                                     (NNP Lokomotiv))
-                                  (VB (VBP marcou))
+                                  (VP (VBP marcou))
                                   (ADVP 
                                     (RB muito)
                                     (RB cedo)
@@ -36,10 +36,10 @@
                                     (ADJP 
                                       (JJ portugueses)))
                                   (ADVP 
-                                    (RB não))
-                                  (VB (VBP conseguiam))
+                                    (RB n�o))
+                                  (VP (VBP conseguiam))
                                   (VP 
-                                    (VB 
+                                    (VP 
                                       (VB adaptar-))
                                     (NP 
                                       (PRP se))

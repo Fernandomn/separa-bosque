@@ -1,7 +1,7 @@
-(S (NP (VP (NP 
+(S (_CU_ (VP (NP 
                                   (DT O)
-                                  (NP (NP 
-                                          (NNP República_da_Irlanda))
+                                  (_CU_ (NP 
+                                          (NNP Rep�blica_da_Irlanda))
                                         (-)
                                         (NP 
                                           (NNP Espanha)))
@@ -9,21 +9,21 @@
                                     (IN de)
                                     (RB hoje)))
                                 (ADVP 
-                                  (RB já))
-                                (VB (VBP ajudará))
+                                  (RB j�))
+                                (VP (VBP ajudar�))
                                 (PP 
                                   (IN a)
                                   (VP 
-                                    (VB 
+                                    (VP 
                                       (VB definir))
                                     (NP 
-                                      (NN posições)))))
+                                      (NN posi��es)))))
                        (,)
                        (CC mas)
-                       (VP (VB (VBP deverá)
+                       (VP (VP (VBP dever�)
                                       (VB ser))
                                 (NP (DT o)
-                                       (NP 
+                                       (_CU_ 
                                          (NP 
                                            (NNP Espanha))
                                          (-)
@@ -42,6 +42,6 @@
                                            (PRP que))
                                          (NP 
                                            (PRP tudo))
-                                         (VB 
-                                           (VBP esclarecerá)))))
+                                         (VP 
+                                           (VBP esclarecer�)))))
                        (.)))
