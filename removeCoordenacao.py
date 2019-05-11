@@ -3,6 +3,20 @@ import os
 tagCoordenacao = '_CU_'
 tagConjCoord = 'CC'
 
+# dicionario com unico objetivo de devolver o sintagma equivalente À cordenação de partes de mesma POS
+dicSintagma = {
+    'NN': 'NP',
+    'VBP': 'VP',  # verbos finitos - Verbo "normal". conferir inflexão da 3ª pessoa do inglês
+    'VBG': 'VP',  # verbos gerúndios
+    'VBN': 'VP',  # verbos particípios
+    'VB': 'VP',
+    'JJ': 'ADJP',  # Sintagma adjectivais
+    'RB': 'ADVP',  # Sintagma adverbiais
+    'IN': 'PP',  # não deve se aplicar
+}
+
+# def descobreSintagma(lista):
+
 
 def reconstroiProf(frase, indice, lista):
     i = 0
@@ -46,7 +60,11 @@ def verificaCasosCU(arvore):
     if arvore[0] == '_CU_':
         listaClasses = []
 
+        wordLevel = True
         for filho in arvore[1]:
+            if type(filho[1]) is list:
+                wordLevel = False
+            # TODO verificar AQUI se os filhos da coordenação são todos folha (ou seja, coordenação word level)
             if filho[0] != '.' and filho[0] != ',' and filho[0] != tagConjCoord:
                 listaClasses.append(filho[0])
             # if filho[0] == 'CC':
@@ -56,7 +74,14 @@ def verificaCasosCU(arvore):
             #     arvore[1].insert(indice, palavra)
 
         # TODO: Verificar se as classes são puramente POS. Se forem, a classe tem que ter o sintagma apropriado
-        classeCoord = listaClasses[0] if classesIguais(listaClasses) else "UCP"
+        if not wordLevel:
+            classeCoord = listaClasses[0] if classesIguais(
+                listaClasses) else "UCP"
+        else:
+            if classesIguais(listaClasses):
+                classeCoord = dicSintagma[listaClasses[0]]
+            else:
+                classeCoord = descobreSintagma(listaClasses)
         arvore[0] = classeCoord
 
     if numFilhos > 0:

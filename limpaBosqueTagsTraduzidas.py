@@ -61,7 +61,7 @@ def tradutor(tag, i, originalLines):
             'adj': 'JJ',  # adjectivos
             'prop': 'NNP',  # nomes próprios
             'adv': 'RB',  # advérbios
-            'num': 'CD',
+            'num': 'CD',  # numeral
             'v-fin': 'VBP',  # verbos finitos - Verbo "normal". conferir inflexão da 3ª pessoa do inglês
             'v-ger': 'VBG',  # verbos gerúndios
             'v-pcp': 'VBN',  # verbos particípios
