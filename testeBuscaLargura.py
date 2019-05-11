@@ -1,3 +1,6 @@
+tagCoordenacao = 'CC'
+
+
 def reconstroiProf(frase, indice, lista):
     i = 0
     while i < len(frase):
@@ -16,35 +19,54 @@ def reconstroiProf(frase, indice, lista):
                 classe = palavra
             if len(lista) > 0:
                 return i+indice, [classe, lista]
+                # return i+indice, {'classe': classe, 'lista': lista}
             else:
                 return i+indice, [classe, palavra]
+                # return i+indice, {'classe': classe, 'palavra': palavra}
         else:
             i += 1
     return i, lista
 
 
 def verificaCasosCU(arvore):
-    numFilhos = len(arvore[0][1])
+    numFilhos = 0
+    global tagCoordenacao
+    # if (arvore[0]['lista']):
+    if type(arvore[0][1])is list:
+        numFilhos = len(arvore[0][1])
+        # numFilhos = len(arvore[0]['lista'])
+
+    # if arvore[0]['classe'] != '_CU_':
     if arvore[0] != '_CU_':
         if numFilhos > 0:
             for i in range(numFilhos):
                 verificaCasosCU(arvore[0][1][i])
+                # verificaCasosCU(arvore[0]['lista'][i])
         else:
             return
     else:
         listaClasses = []
+
+        # for filho in arvore['lista']:
         for filho in arvore[1]:
             listaClasses.append(filho[0])
-        a = listaClasses[0]
+
+        meioCoordenacao = listaClasses.index(tagCoordenacao)
+        coordenacao = arvore[1][meioCoordenacao][1]
+        if listaClasses.index('.') >= 0:
+            listaClasses.remove('.')
+        if listaClasses.index(',') >= 0:
+            listaClasses.remove(',')
+        if listaClasses.index(tagCoordenacao) >= 0:
+            listaClasses.remove(tagCoordenacao)
         print(listaClasses)
 
 
-# frase = '012345'
-# frase = 'a vida é bela'
 frase = '(S (_CU_ (VP (NP (PRP Alguns))(ADVP (RB at�))(ADVP (RB j�))(VP (VBP desapareceram))(,)(NP (ADVP (RB como)(NP (PRP o)(PP (IN de)(NP (NNP Castro_Verde)))))))(,)(CC e)(VP (NP (PRP outros))(VP (VBP t�m)(VBN vindo)(IN a)(VB perder))(NP (NN quadros)))(.)))'
 
 a = []
 
 i, b = reconstroiProf(frase, 0, a)
-verificaCasosCU(b)
 print(b)
+
+verificaCasosCU(b)

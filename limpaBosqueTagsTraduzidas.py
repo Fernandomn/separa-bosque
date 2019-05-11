@@ -186,16 +186,30 @@ def tratarNumero(numero):
         return '0000'
 
 
+# portugues = 'br'
+portugues = 'pt'
+
 endereco = "~/stanford-parser/BOSQUE/"
-nomeArquivo = "Bosque_CP_8.0.PennTreebank.txt"
+# CENTEMPublico (portugues de portugual)
+arquivoPortugal = "Bosque_CP_8.0.PennTreebank.txt"
+# CENTEMFolha (portugues brasileiro)
+arquivoBrasil = "Bosque_CF_8.0.PennTreebank.txt"
+# NOTA: dentro do arquivo, a indicação está invertida: Aponta o CP como sendo
+# centemFolha, e viceversa. ignorar.
+
+nomeArquivo = arquivoPortugal if portugues == 'pt' else arquivoBrasil
 
 a = []
 nomeArquivoAbertoAtual = ''
 # originalFile = open(nomeArquivo, 'r')
-originalFile = open(nomeArquivo, 'r', encoding='utf-8')
+originalFile = open(nomeArquivo, 'r', encoding='ISO-8859-1')
 
 originalLines = originalFile.readlines()
-os.chdir('bosque_anotado_separado_limpo_traduzido')
+
+dirBrasil = 'bosque_br_limpo_traduzido'
+dirPortugal = 'bosque_pt_limpo_traduzido'
+diretorio = dirPortugal if portugues == 'pt' else dirBrasil
+os.chdir(diretorio)
 
 with open('Bosque_0001', 'w') as finalFile:
     # eu quero declarar a variavel de arquivo aqui
@@ -249,7 +263,7 @@ with open('Bosque_0001', 'w') as finalFile:
                             break
 
                         newLine = line.replace(
-                            line[inicio:final], '(' + tradutor(classe, i, j, originalLines))
+                            line[inicio:final], '(' + tradutor(classe, i,  originalLines))
 
                         line = newLine
                 except ValueError:
