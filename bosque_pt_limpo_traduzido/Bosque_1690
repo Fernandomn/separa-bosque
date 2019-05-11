@@ -1,14 +1,32 @@
-(S (VP (NP (NN MinistÃ©rios)
-                                 (PP (IN de+)
-                                        (_CU_ 
-                                          (NP 
-                                            (DT a)
-                                            (NNP Cultura))
-                                          (CC e)
-                                          (NP 
-                                            (NNP EducaÃ§Ã£o)))))
-                        (VP (VBP criam))
-                        (NP (NN grupo)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN trabalho))))))
+(S 
+  (VP 
+    (NP 
+      (NN Ministérios)
+      (PP 
+        (IN de+)
+        (NP 
+          (NP 
+            (DT a)
+            (NNP Cultura)
+          )
+          (CC e)
+          (NP 
+            (NNP Educação)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP criam)
+    )
+    (NP 
+      (NN grupo)
+      (PP 
+        (IN de)
+        (NP 
+          (NN trabalho)
+        )
+      )
+    )
+  )
+)

@@ -1,80 +1,123 @@
-(S (VP (PP (IN Por)
-                                 (VP 
-                                   (VP 
-                                     (VB saber))
-                                   (VP 
-                                     (IN que)
-                                     (VP 
-                                       (VBP desempenha))
-                                     (NP 
-                                       (DT um)
-                                       (NN papel)
-                                       (ADJP 
-                                         (JJ decisivo))
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT a)
-                                           (PRP sua)
-                                           (JJ nova)
-                                           (NN funÃ§Ã£o)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (Â«)
-                                               (NN construtor)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT a)
-                                                   (NN paz)
-                                                   (Â»)
-                                                   (PP 
-                                                     (IN em+)
-                                                     (NP 
-                                                       (DT a)
-                                                       (NNP BÃ³snia))))))))))
-                                     (--)
-                                     (PP 
-                                       (IN sob)
-                                       (NP 
-                                         (DT os)
-                                         (NN desÃ­gnios)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NNP Pax_Americana)
-                                             (VP 
-                                               (VP 
-                                                 (VBN delineada))
-                                               (PP 
-                                                 (IN em)
-                                                 (NP 
-                                                   (NNP Dayton)
-                                                   (,)
-                                                   (NP 
-                                                     (NNP Ohio)))))))))
-                                     (--))))
-                        (NP (NNP Milosevic))
-                        (VP (VBP espera))
-                        (VP (IN que)
-                                 (_CU_ 
-                                   (NP 
-                                     (PRP ele)
-                                     (NP 
-                                       (PRP prÃ³prio)))
-                                   (CC e)
-                                   (NP 
-                                     (DT o)
-                                     (PRP seu)
-                                     (NN regime)
-                                     (PP 
-                                       (IN em+)
-                                       (NP 
-                                         (DT a)
-                                         (NNP SÃ©rvia)))))
-                                 (VP (VBP possam)
-                                       (VB estar))
-                                 (PP a_salvo))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Por)
+      (VP 
+        (VP 
+          (VB saber)
+        )
+        (VP 
+          (IN que)
+          (VP 
+            (VBP desempenha)
+          )
+          (NP 
+            (DT um)
+            (NN papel)
+            (ADJP 
+              (JJ decisivo)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (PRP sua)
+                (JJ nova)
+                (NN função)
+                (PP 
+                  (IN de)
+                  (NP 
+                    («)
+                    (NN construtor)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT a)
+                        (NN paz)
+                        (»)
+                        (PP 
+                          (IN em+)
+                          (NP 
+                            (DT a)
+                            (NNP Bósnia)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (--)
+          (PP 
+            (IN sob)
+            (NP 
+              (DT os)
+              (NN desígnios)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NNP Pax_Americana)
+                  (VP 
+                    (VP 
+                      (VBN delineada)
+                    )
+                    (PP 
+                      (IN em)
+                      (NP 
+                        (NNP Dayton)
+                        (,)
+                        (NP 
+                          (NNP Ohio)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (--)
+        )
+      )
+    )
+    (NP 
+      (NNP Milosevic)
+    )
+    (VP 
+      (VBP espera)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (NP 
+          (PRP ele)
+          (NP 
+            (PRP próprio)
+          )
+        )
+        (CC e)
+        (NP 
+          (DT o)
+          (PRP seu)
+          (NN regime)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NNP Sérvia)
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP possam)
+        (VB estar)
+      )
+      (PP a_salvo)
+    )
+    (.)
+  )
+)

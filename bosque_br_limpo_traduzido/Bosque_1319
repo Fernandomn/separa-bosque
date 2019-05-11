@@ -1,36 +1,67 @@
-(S (VP (NP (PRP Outros)
-                                 (NN prÃªmios))
-                        (VP (VBP incluem))
-                        (_CU_ (NP (NN personalidade)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN ano))))
-                                (,)
-                                (NP (JJ melhor)
-                                        (NN produÃ§Ã£o)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN Ã³pera))))
-                                (,)
-                                (NP (JJ melhor)
-                                        (NN transmissÃ£o)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN TV))))
-                                (,)
-                                (NP (JJ melhor)
-                                        (NN grupo)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN mÃºsica)
-                                            (ADJP 
-                                              (JJ antiga))))))
-                        (,)
-                        (PP (IN entre)
-                                 (NP (PRP outros)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Outros)
+      (NN prêmios)
+    )
+    (VP 
+      (VBP incluem)
+    )
+    (NP 
+      (NP 
+        (NN personalidade)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN ano)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (JJ melhor)
+        (NN produção)
+        (PP 
+          (IN de)
+          (NP 
+            (NN ópera)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (JJ melhor)
+        (NN transmissão)
+        (PP 
+          (IN de)
+          (NP 
+            (NN TV)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (JJ melhor)
+        (NN grupo)
+        (PP 
+          (IN de)
+          (NP 
+            (NN música)
+            (ADJP 
+              (JJ antiga)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN entre)
+      (NP 
+        (PRP outros)
+      )
+    )
+    (.)
+  )
+)

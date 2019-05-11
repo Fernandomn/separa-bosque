@@ -1,46 +1,82 @@
-(S (VP (PP (IN Com)
-                                (NP (DT o)
-                                       (NN regresso)
-                                       (PP 
-                                         (IN de)
-                                         (_CU_ 
-                                           (NP 
-                                             (NNP Medane))
-                                           (CC e)
-                                           (NP 
-                                             (NNP Menad))))))
-                       (,)
-                       (NP (DT o)
-                                (NN treinador)
-                                (ADJP 
-                                  (JJ jugoslavo))
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NNP Famalic√£o))))
-                       (VP (VBP tem))
-                       (PP (IN a+)
-                                (NP (DT a)
-                                       (PRP sua)
-                                       (NN disposi√ß√£o)))
-                       (NP (PRP todos_os)
-                               (NN jogadores))
-                       (,)
-                       (PP (IN com)
-                                (NP (NN excep√ß√£o)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (JJ jovem)
-                                           (NNP Manuel_Jos√©)
-                                           (,)
-                                           (VP 
-                                             (NP 
-                                               (PRP que))
-                                             (NP 
-                                               (PRP se))
-                                             (VP 
-                                               (VBP encontra))
-                                             (VBN lesionado))))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Com)
+      (NP 
+        (DT o)
+        (NN regresso)
+        (PP 
+          (IN de)
+          (NP 
+            (NP 
+              (NNP Medane)
+            )
+            (CC e)
+            (NP 
+              (NNP Menad)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN treinador)
+      (ADJP 
+        (JJ jugoslavo)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NNP Famalic„o)
+        )
+      )
+    )
+    (VP 
+      (VBP tem)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT a)
+        (PRP sua)
+        (NN disposiÁ„o)
+      )
+    )
+    (NP 
+      (PRP todos_os)
+      (NN jogadores)
+    )
+    (,)
+    (PP 
+      (IN com)
+      (NP 
+        (NN excepÁ„o)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (JJ jovem)
+            (NNP Manuel_JosÈ)
+            (,)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (NP 
+                (PRP se)
+              )
+              (VP 
+                (VBP encontra)
+              )
+              (VBN lesionado)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,107 +1,167 @@
-(S (VP (VP (VP 
-                                          (VBG Considerando))
-                                        (VP 
-                                          (IN que)
-                                          (NP 
-                                            (DT a)
-                                            (NN fÃ¡brica))
-                                          (VP 
-                                            (VBP estÃ¡))
-                                          (_CU_ 
-                                            (VP 
-                                              (ADVP 
-                                                (RB tecnologicamente))
-                                              (ADVP 
-                                                (RB bem))
-                                              (VP 
-                                                (VBN apretechada)))
-                                            (,)
-                                            (PP 
-                                              (IN com)
-                                              (NP 
-                                                (VBN elevados)
-                                                (NN nÃ­veis)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (NN produtividade)))))
-                                            (CC e)
-                                            (PP 
-                                              (IN com)
-                                              (NP 
-                                                (DT uma)
-                                                (JJ excelente)
-                                                (NN situaÃ§Ã£o)
-                                                (ADJP 
-                                                  (JJ financeira)))))))
-                        (,)
-                        (NP (DT os)
-                                 (NN parlamentares))
-                        (VP (VBP insistiram))
-                        (PP (IN em+)
-                                (NP (DT a)
-                                       (NN necessidade)
-                                       (_CU_ 
-                                         (PP 
-                                           (IN de+)
-                                           (VP 
-                                             (_CU_ 
-                                               (NP 
-                                                 (DT a)
-                                                 (NNP Comunidade))
-                                               (CC e)))))
-                                       (_CU_ 
-                                         (PP 
-                                           (IN de+)
-                                           (VP 
-                                             (_CU_ 
-                                               (NP 
-                                                 (DT os)
-                                                 (NN estados-membros)))
-                                             (VP 
-                                               (VB exigirem))
-                                             (PP 
-                                               (IN a+)
-                                               (NP 
-                                                 (DT os)
-                                                 (NN parceiros)
-                                                 (ADJP 
-                                                   (JJ comerciais))))
-                                             (,)
-                                             (NP 
-                                               (NN respeito)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT as)
-                                                   (NN condiÃ§Ãµes)
-                                                   (ADJP 
-                                                     (JJ sociais))
-                                                   (ADJP 
-                                                     (JJ mÃ­nimas)))))
-                                             (,)
-                                             (VP 
-                                               (VP 
-                                                 (VBG tendo))
-                                               (PP 
-                                                 (IN por)
-                                                 (NP 
-                                                   (NN base)))
-                                               (NP 
-                                                 (_CU_ 
-                                                   (NP 
-                                                     (DT as)
-                                                     (NN convenÃ§Ãµes))
-                                                   (CC e)
-                                                   (NP 
-                                                     (NN recomendaÃ§Ãµes)))
-                                                 (PP 
-                                                   (IN de+)
-                                                   (NP 
-                                                     (DT a)
-                                                     (NNP OrganizaÃ§Ã£o_Internacional_do_Trabalho)
-                                                     ({)
-                                                     (NP 
-                                                       (NNP OIT))
-                                                     (}))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBG Considerando)
+      )
+      (VP 
+        (IN que)
+        (NP 
+          (DT a)
+          (NN fábrica)
+        )
+        (VP 
+          (VBP está)
+        )
+        (UCP 
+          (VP 
+            (ADVP 
+              (RB tecnologicamente)
+            )
+            (ADVP 
+              (RB bem)
+            )
+            (VP 
+              (VBN apretechada)
+            )
+          )
+          (,)
+          (PP 
+            (IN com)
+            (NP 
+              (VBN elevados)
+              (NN níveis)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN produtividade)
+                )
+              )
+            )
+          )
+          (CC e)
+          (PP 
+            (IN com)
+            (NP 
+              (DT uma)
+              (JJ excelente)
+              (NN situação)
+              (ADJP 
+                (JJ financeira)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT os)
+      (NN parlamentares)
+    )
+    (VP 
+      (VBP insistiram)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN necessidade)
+        (PP 
+          (PP 
+            (IN de+)
+            (VP 
+              (NP 
+                (NP 
+                  (DT a)
+                  (NNP Comunidade)
+                )
+                (CC e)
+              )
+            )
+          )
+        )
+        (PP 
+          (PP 
+            (IN de+)
+            (VP 
+              (NP 
+                (NP 
+                  (DT os)
+                  (NN estados-membros)
+                )
+              )
+              (VP 
+                (VB exigirem)
+              )
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT os)
+                  (NN parceiros)
+                  (ADJP 
+                    (JJ comerciais)
+                  )
+                )
+              )
+              (,)
+              (NP 
+                (NN respeito)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT as)
+                    (NN condições)
+                    (ADJP 
+                      (JJ sociais)
+                    )
+                    (ADJP 
+                      (JJ mínimas)
+                    )
+                  )
+                )
+              )
+              (,)
+              (VP 
+                (VP 
+                  (VBG tendo)
+                )
+                (PP 
+                  (IN por)
+                  (NP 
+                    (NN base)
+                  )
+                )
+                (NP 
+                  (NP 
+                    (NP 
+                      (DT as)
+                      (NN convenções)
+                    )
+                    (CC e)
+                    (NP 
+                      (NN recomendações)
+                    )
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NNP Organização_Internacional_do_Trabalho)
+                      ({)
+                      (NP 
+                        (NNP OIT)
+                      )
+                      (})
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

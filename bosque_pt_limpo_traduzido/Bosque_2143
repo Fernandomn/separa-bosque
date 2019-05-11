@@ -1,68 +1,117 @@
-(S (VP (NP (DT O)
-                                 (NN cineasta)
-                                 (ADJP 
-                                   (JJ americano))
-                                 (NP (NNP Steven_Spielberg)))
-                        (VP (VBP apresentou))
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NN quinta-feira)))
-                        (,)
-                        (PP (IN em)
-                                 (NP (NN estreia)
-                                        (ADJP 
-                                          (JJ mundial))))
-                        (,)
-                        (PP (IN em+)
-                                 (NP (DT um)
-                                        (NN pÃ¡tio)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NNP Liceu_Sophie_Charlotte)
-                                            (,)
-                                            (PP 
-                                              (IN em)
-                                              (NP 
-                                                (NNP Berlim)))
-                                            (,)))))
-                        (PP (IN na_presenÃ§a_de)
-                                 (NP (DT uma)
-                                        (NN plateia)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (JJ jovens)
-                                            (NN alunos)
-                                            (_CU_ 
-                                              (VBN impressionados)
-                                              (CC e)
-                                              (ADJP 
-                                                (JJ atentos)))))))
-                        (,)
-                        (NP (DT um)
-                                (NN documentÃ¡rio)
-                                (ADJP 
-                                  (RB bastante)
-                                  (JJ emotivo))
-                                (PP (IN sobre)
-                                       (NP 
-                                         (DT os)
-                                         (NN sobreviventes)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT o)
-                                             (NN holocausto)))))
-                                (,)
-                                (NP (DT um)
-                                        (NN CD-Rom)
-                                        (,)
-                                        (VP 
-                                          (VP 
-                                            (VBN intitulado))
-                                          (Â«)
-                                          (NP 
-                                            (NNP O_Futuro_da_EducaÃ§Ã£o))
-                                          (Â»))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN cineasta)
+      (ADJP 
+        (JJ americano)
+      )
+      (NP 
+        (NNP Steven_Spielberg)
+      )
+    )
+    (VP 
+      (VBP apresentou)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN quinta-feira)
+      )
+    )
+    (,)
+    (PP 
+      (IN em)
+      (NP 
+        (NN estreia)
+        (ADJP 
+          (JJ mundial)
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT um)
+        (NN pátio)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Liceu_Sophie_Charlotte)
+            (,)
+            (PP 
+              (IN em)
+              (NP 
+                (NNP Berlim)
+              )
+            )
+            (,)
+          )
+        )
+      )
+    )
+    (PP 
+      (IN na_presença_de)
+      (NP 
+        (DT uma)
+        (NN plateia)
+        (PP 
+          (IN de)
+          (NP 
+            (JJ jovens)
+            (NN alunos)
+            (UCP 
+              (VBN impressionados)
+              (CC e)
+              (ADJP 
+                (JJ atentos)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT um)
+      (NN documentário)
+      (ADJP 
+        (RB bastante)
+        (JJ emotivo)
+      )
+      (PP 
+        (IN sobre)
+        (NP 
+          (DT os)
+          (NN sobreviventes)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN holocausto)
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (DT um)
+        (NN CD-Rom)
+        (,)
+        (VP 
+          (VP 
+            (VBN intitulado)
+          )
+          («)
+          (NP 
+            (NNP O_Futuro_da_Educação)
+          )
+          (»)
+        )
+      )
+    )
+    (.)
+  )
+)

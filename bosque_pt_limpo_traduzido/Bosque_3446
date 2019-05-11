@@ -1,75 +1,117 @@
-(S (VP (NP (DT A)
-                                 (NN agÃªncia))
-                        (VP (VBP referiu))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT um)
-                                   (NN indivÃ­duo)
-                                   (_CU_ 
-                                     (VP 
-                                       (ADVP 
-                                         (RB nÃ£o))
-                                       (VP 
-                                         (VBN identificado)))
-                                     (CC e)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (NP 
-                                         (PRP se))
-                                       (VP 
-                                         (VBP exprimia))
-                                       (ADVP 
-                                         (RB mal))
-                                       (PP 
-                                         (IN em)
-                                         (NP 
-                                           (NN turco))))))
-                                 (VP (VBP telefonou))
-                                 (PP 
-                                   (IN de)
-                                   (NP 
-                                     (DT um)
-                                     (NN paÃ­s)
-                                     (ADJP 
-                                       (JJ estrangeiro))))
-                                 (PP 
-                                   (IN para)
-                                   (VP 
-                                     (VP 
-                                       (VB afirmar))
-                                     (VP 
-                                       (IN que)
-                                       (NP 
-                                         (DT o)
-                                         (NN grupo))
-                                       (VP 
-                                         (VBP tinha))
-                                       (PP 
-                                         (IN em)
-                                         (NP 
-                                           (PRP seu)
-                                           (NN poder)))
-                                       (_CU_ 
-                                         (NP 
-                                           (DT o)
-                                           (NN tenente-coronel)
-                                           (NP 
-                                             (NNP Mike_Couillard))
-                                           (,)
-                                           (NP 
-                                             (CD 37)
-                                             (NN anos))
-                                           (,))
-                                         (CC e)
-                                         (NP 
-                                           (DT o)
-                                           (PRP seu)
-                                           (NN filho)
-                                           (NP 
-                                             (NNP Matthew))
-                                           (,)
-                                           (NP 
-                                             (CD dez)
-                                             (NN anos))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN agência)
+    )
+    (VP 
+      (VBP referiu)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT um)
+        (NN indivíduo)
+        (VP 
+          (VP 
+            (ADVP 
+              (RB não)
+            )
+            (VP 
+              (VBN identificado)
+            )
+          )
+          (CC e)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (NP 
+              (PRP se)
+            )
+            (VP 
+              (VBP exprimia)
+            )
+            (ADVP 
+              (RB mal)
+            )
+            (PP 
+              (IN em)
+              (NP 
+                (NN turco)
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP telefonou)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (DT um)
+          (NN país)
+          (ADJP 
+            (JJ estrangeiro)
+          )
+        )
+      )
+      (PP 
+        (IN para)
+        (VP 
+          (VP 
+            (VB afirmar)
+          )
+          (VP 
+            (IN que)
+            (NP 
+              (DT o)
+              (NN grupo)
+            )
+            (VP 
+              (VBP tinha)
+            )
+            (PP 
+              (IN em)
+              (NP 
+                (PRP seu)
+                (NN poder)
+              )
+            )
+            (NP 
+              (NP 
+                (DT o)
+                (NN tenente-coronel)
+                (NP 
+                  (NNP Mike_Couillard)
+                )
+                (,)
+                (NP 
+                  (CD 37)
+                  (NN anos)
+                )
+                (,)
+              )
+              (CC e)
+              (NP 
+                (DT o)
+                (PRP seu)
+                (NN filho)
+                (NP 
+                  (NNP Matthew)
+                )
+                (,)
+                (NP 
+                  (CD dez)
+                  (NN anos)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

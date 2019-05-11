@@ -1,46 +1,74 @@
-(S (VP (VP 
-                                (VP (VBG Considerando))
-                                (VP 
-                                  (VP (VB ser))
-                                  (NP 
-                                    (NN competÃªncia)
-                                    (ADJP 
-                                      (JJ comum))
-                                    (_CU_ 
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN UniÃ£o))
-                                        (CC e)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (NN Estados))))))))
-                              (VP (VB velar))
-                              (PP (IN por+)
-                                      (NP 
-                                        (DT a)
-                                        (NN guarda)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN ConstituiÃ§Ã£o)))
-                                          (,)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT as)
-                                              (NN Leis)))
-                                          (CC e)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT as)
-                                              (NN instituiÃ§Ãµes)
-                                              (ADJP 
-                                                (JJ democrÃ¡ticas)))))))
-                              (;)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBG Considerando)
+      )
+      (VP 
+        (VP 
+          (VB ser)
+        )
+        (NP 
+          (NN competência)
+          (ADJP 
+            (JJ comum)
+          )
+          (PP 
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN União)
+              )
+              e              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NN Estados)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VB velar)
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT a)
+        (NN guarda)
+        (PP 
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN Constituição)
+            )
+          )
+          (,)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT as)
+              (NN Leis)
+            )
+          )
+          e          (PP 
+            (IN de+)
+            (NP 
+              (DT as)
+              (NN instituições)
+              (ADJP 
+                (JJ democráticas)
+              )
+            )
+          )
+        )
+      )
+    )
+    (;)
+  )
+)

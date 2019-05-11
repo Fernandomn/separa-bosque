@@ -1,9 +1,23 @@
-(S (VP (NP (NN Designers))
-                        (VP (VBP querem))
-                        (VP (VP (VB casar))
-                                 (_CU_ 
-                                   (NP 
-                                     (NN tecnologia))
-                                   (CC e)
-                                   (NP 
-                                     (NN espÃ­rito))))))
+(S 
+  (VP 
+    (NP 
+      (NN Designers)
+    )
+    (VP 
+      (VBP querem)
+    )
+    (VP 
+      (VP 
+        (VB casar)
+      )
+      (NP 
+        (NP 
+          (NN tecnologia)
+        )
+        e        (NP 
+          (NN espírito)
+        )
+      )
+    )
+  )
+)

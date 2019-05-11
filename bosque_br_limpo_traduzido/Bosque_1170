@@ -1,12 +1,29 @@
-(S (_CU_ (VP (VP (VBP Ã‰))
-                                (NP (DT um)
-                                       (NN continente)))
-                       (CC e)
-                       (VP (VP (VBP Ã©))
-                                (NP (DT um)
-                                       (NN paÃ­s)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NNP Terceiro_Mundo)))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP É)
+      )
+      (NP 
+        (DT um)
+        (NN continente)
+      )
+    )
+    e    (VP 
+      (VP 
+        (VBP é)
+      )
+      (NP 
+        (DT um)
+        (NN país)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Terceiro_Mundo)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

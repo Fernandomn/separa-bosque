@@ -1,44 +1,73 @@
-(S (VP (NP (DT O)
-                                  (NN cantor))
-                         (ADVP (RB n√£o))
-                         (VP (VBP esteve))
-                         (ADJP (JJ livre)
-                                  (_CU_ 
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NN ass√©dio)))
-                                    (CC e)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NN culto)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (PRP seus)
-                                            (NN f√£s)))))))
-                         (PP (RB nem_mesmo)
-                                  (IN durante)
-                                  (NP 
-                                    (DT os)
-                                    (CD dois)
-                                    (NN anos)
-                                    (VP 
-                                      (PP 
-                                        (IN em)
-                                        (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP esteve))
-                                        (VP 
-                                          (VP 
-                                            (VBN ligado))
-                                          (PP 
-                                            (IN a+)
-                                            (NP 
-                                              (DT o)
-                                              (NN ex√©rcito))))))))
-                         (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN cantor)
+    )
+    (ADVP 
+      (RB n„o)
+    )
+    (VP 
+      (VBP esteve)
+    )
+    (ADJP 
+      (JJ livre)
+      (PP 
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN assÈdio)
+          )
+        )
+        e        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN culto)
+            (PP 
+              (IN de)
+              (NP 
+                (PRP seus)
+                (NN f„s)
+              )
+            )
+          )
+        )
+      )
+    )
+    (PP 
+      (RB nem_mesmo)
+      (IN durante)
+      (NP 
+        (DT os)
+        (CD dois)
+        (NN anos)
+        (VP 
+          (PP 
+            (IN em)
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP esteve)
+            )
+            (VP 
+              (VP 
+                (VBN ligado)
+              )
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT o)
+                  (NN exÈrcito)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,189 +1,273 @@
-(S (VP (NP (DT Os)
-                                (NN temas)
-                                (VBN escolhidos))
-                       (VP (VBP sÃ£o))
-                       (ADJP (CD cinco)
-                                (;)
-                                (_CU_ 
-                                  (NP 
-                                    (Â«)
-                                    (NNP PatrimÃ³nio_Virtual)
-                                    (Â»)
-                                    ({)
-                                    (NP 
-                                      (NN exploraÃ§Ã£o)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN monumentos)
-                                          (ADJP 
-                                            (JJ portugueses))))
-                                      (VP 
-                                        (VP 
-                                          (VBG usando))
-                                        (NP 
-                                          (DT as)
-                                          (NN tecnologias)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN realidade)
-                                              (ADJP 
-                                                (JJ virtual)))))))
-                                    (}))
-                                  (;)
-                                  (NP 
-                                    (Â«)
-                                    (NNP Portugal_Global)
-                                    (Â»)
-                                    ({)
-                                    (NP 
-                                      (NNP Sagres)
-                                      (ADVP 
-                                        (RB como)
-                                        (NP 
-                                          (NN antena)
-                                          (PP 
-                                            (IN de)
-                                            (_CU_ 
-                                              (NP 
-                                                (NN expansÃ£o))
-                                              (CC e)
-                                              (NP 
-                                                (NN comunicaÃ§Ã£o)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (NN expansÃ£o)
-                                                    (_CU_ 
-                                                      (ADJP 
-                                                        (JJ global))
-                                                      (CC e)
-                                                      (ADJP 
-                                                        (JJ local)))
-                                                    (PP 
-                                                      (IN de+)
-                                                      (NP 
-                                                        (DT os)
-                                                        (NN portugueses)))))))))))
-                                    (}))
-                                  (;)
-                                  (NP 
-                                    (Â«)
-                                    (NNP Sacra_Saturni)
-                                    (Â»)
-                                    ({)
-                                    (NP 
-                                      (NP 
-                                        (NNP Sagres)
-                                        (ADVP 
-                                          (RB como)
-                                          (NP 
-                                            (NN lugar)
-                                            (PP 
-                                              (IN de)
-                                              (_CU_ 
-                                                (NP 
-                                                  (NN mistÃ©rio))
-                                                (CC e)
-                                                (NP 
-                                                  (NN simbologia)))))))
-                                      (,)
-                                      (NP 
-                                        (NN tema)
-                                        (ADJP 
-                                          (JJ ideal))
-                                        (PP 
-                                          (IN para)
-                                          (NP 
-                                            (DT um)
-                                            (NN jogo)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN aventura)
-                                                (ADJP 
-                                                  (JJ grÃ¡fica))))))))
-                                    (}))
-                                  (;)
-                                  (NP 
-                                    (Â«)
-                                    (NNP Um_MilhÃ£o_de_Navegadores)
-                                    (Â»)
-                                    ({)
-                                    (NP 
-                                      (NNP Sagres)
-                                      (ADVP 
-                                        (RB como)
-                                        (NP 
-                                          (NN centro)
-                                          (VBN privilegiado)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN turismo)
-                                              (ADJP 
-                                                (JJ cultural))))))
-                                      (,)
-                                      (PP 
-                                        (IN com)
-                                        (NP 
-                                          (DT um)
-                                          (NN milhÃ£o)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN visitantes)))
-                                          (PP 
-                                            (IN por)
-                                            (NP 
-                                              (NN ano))))))
-                                    (}))
-                                  (CC e)
-                                  (NP 
-                                    (Â«)
-                                    (NNP TerrÃ vista)
-                                    (Â»)
-                                    ({)
-                                    (NP 
-                                      (NNP Sagres)
-                                      (ADVP 
-                                        (RB como)
-                                        (NP 
-                                          (NN ponto)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN partida)))
-                                          (PP 
-                                            (IN para)
-                                            (NP 
-                                              (DT uma)
-                                              (NN abordagem)
-                                              (ADJP 
-                                                (JJ pedagÃ³gica)))))))
-                                    (,)
-                                    (VP 
-                                      (VP 
-                                        (VBG pondo))
-                                      (NP 
-                                        (DT os)
-                                        (NN alunos))
-                                      (PP 
-                                        (IN em+)
-                                        (NP 
-                                          (DT o)
-                                          (NN papel)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN produtores)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN informaÃ§Ã£o))))))))
-                                    (}))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN temas)
+      (VBN escolhidos)
+    )
+    (VP 
+      (VBP são)
+    )
+    (ADJP 
+      (CD cinco)
+      (;)
+      (UCP 
+        (NP 
+          («)
+          (NNP Património_Virtual)
+          (»)
+          ({)
+          (NP 
+            (NN exploração)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT os)
+                (NN monumentos)
+                (ADJP 
+                  (JJ portugueses)
+                )
+              )
+            )
+            (VP 
+              (VP 
+                (VBG usando)
+              )
+              (NP 
+                (DT as)
+                (NN tecnologias)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NN realidade)
+                    (ADJP 
+                      (JJ virtual)
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (})
+        )
+        (;)
+        (NP 
+          («)
+          (NNP Portugal_Global)
+          (»)
+          ({)
+          (NP 
+            (NNP Sagres)
+            (ADVP 
+              (RB como)
+              (NP 
+                (NN antena)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NP 
+                      (NN expansão)
+                    )
+                    (CC e)
+                    (NP 
+                      (NN comunicação)
+                      (PP 
+                        (IN de+)
+                        (NP 
+                          (DT a)
+                          (NN expansão)
+                          (ADJP 
+                            (ADJP 
+                              (JJ global)
+                            )
+                            (CC e)
+                            (ADJP 
+                              (JJ local)
+                            )
+                          )
+                          (PP 
+                            (IN de+)
+                            (NP 
+                              (DT os)
+                              (NN portugueses)
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (})
+        )
+        (;)
+        (NP 
+          («)
+          (NNP Sacra_Saturni)
+          (»)
+          ({)
+          (NP 
+            (NP 
+              (NNP Sagres)
+              (ADVP 
+                (RB como)
+                (NP 
+                  (NN lugar)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NP 
+                        (NN mistério)
+                      )
+                      (CC e)
+                      (NP 
+                        (NN simbologia)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+            (,)
+            (NP 
+              (NN tema)
+              (ADJP 
+                (JJ ideal)
+              )
+              (PP 
+                (IN para)
+                (NP 
+                  (DT um)
+                  (NN jogo)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN aventura)
+                      (ADJP 
+                        (JJ gráfica)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (})
+        )
+        (;)
+        (NP 
+          («)
+          (NNP Um_Milhão_de_Navegadores)
+          (»)
+          ({)
+          (NP 
+            (NNP Sagres)
+            (ADVP 
+              (RB como)
+              (NP 
+                (NN centro)
+                (VBN privilegiado)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN turismo)
+                    (ADJP 
+                      (JJ cultural)
+                    )
+                  )
+                )
+              )
+            )
+            (,)
+            (PP 
+              (IN com)
+              (NP 
+                (DT um)
+                (NN milhão)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN visitantes)
+                  )
+                )
+                (PP 
+                  (IN por)
+                  (NP 
+                    (NN ano)
+                  )
+                )
+              )
+            )
+          )
+          (})
+        )
+        (CC e)
+        (NP 
+          («)
+          (NNP Terràvista)
+          (»)
+          ({)
+          (NP 
+            (NNP Sagres)
+            (ADVP 
+              (RB como)
+              (NP 
+                (NN ponto)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN partida)
+                  )
+                )
+                (PP 
+                  (IN para)
+                  (NP 
+                    (DT uma)
+                    (NN abordagem)
+                    (ADJP 
+                      (JJ pedagógica)
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (,)
+          (VP 
+            (VP 
+              (VBG pondo)
+            )
+            (NP 
+              (DT os)
+              (NN alunos)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NN papel)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN produtores)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NN informação)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (})
+        )
+      )
+    )
+    (.)
+  )
+)

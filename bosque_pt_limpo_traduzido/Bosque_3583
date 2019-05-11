@@ -1,33 +1,56 @@
-(S (VP (NP (DT O)
-                                 (VBN citado)
-                                 (NN desvio)
-                                 (,)
-                                 (PP 
-                                   (IN por+)
-                                   (NP 
-                                     (DT a)
-                                     (NN escarpa)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN ObservatÃ³rio)))))
-                                 (,))
-                        (VP (VBP aproxima-))
-                        (NP (PRP se))
-                        (PP (IN de+)
-                                (NP (DT os)
-                                       (NN acessos)
-                                       (_CU_ 
-                                         (PP 
-                                           (IN a+)
-                                           (NP 
-                                             (DT a)
-                                             (NNP Ponte_do_Freixo)))
-                                         (CC e)
-                                         (PP 
-                                           (IN a+)
-                                           (NP 
-                                             (DT a)
-                                             (NP auto-estrada))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (VBN citado)
+      (NN desvio)
+      (,)
+      (PP 
+        (IN por+)
+        (NP 
+          (DT a)
+          (NN escarpa)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN Observatório)
+            )
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP aproxima-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN de+)
+      (NP 
+        (DT os)
+        (NN acessos)
+        (PP 
+          (PP 
+            (IN a+)
+            (NP 
+              (DT a)
+              (NNP Ponte_do_Freixo)
+            )
+          )
+          (CC e)
+          (PP 
+            (IN a+)
+            (NP 
+              (DT a)
+              (NP auto-estrada)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,14 +1,24 @@
-(S (NP (NNP McCartney)
-                       (PP de_volta)
-                       (,)
-                       (PP (IN em+)
-                                  (NP 
-                                    (DT uma)
-                                    (_CU_ 
-                                      (ADJP 
-                                        (JJ longa))
-                                      (CC e)
-                                      (VBN agitada))
-                                    (NN digress√£o)
-                                    (ADJP 
-                                      (JJ mundial))))))
+(S 
+  (NP 
+    (NNP McCartney)
+    (PP de_volta)
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT uma)
+        (UCP 
+          (ADJP 
+            (JJ longa)
+          )
+          (CC e)
+          (VBN agitada)
+        )
+        (NN digress„o)
+        (ADJP 
+          (JJ mundial)
+        )
+      )
+    )
+  )
+)

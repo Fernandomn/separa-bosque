@@ -1,106 +1,162 @@
-(S (VP (NP (_CU_ (NP 
-                                         (DT A)
-                                         (NN fase)
-                                         (ADJP 
-                                           (JJ II))
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT o)
-                                             (NN terminal)
-                                             (Â«)
-                                             (NP 
-                                               (NN multipurpose))
-                                             (Â»))))
-                                       (,)
-                                       (NP 
-                                         (DT o)
-                                         (JJ novo)
-                                         (NN porto)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN pesca)))
-                                         (PP 
-                                           (IN com)
-                                           (NP 
-                                             (DT a)
-                                             (JJ respectiva)
-                                             (NN lota))))
-                                       (,)
-                                       (NP 
-                                         (DT o)
-                                         (NN sistema)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (_CU_ 
-                                               (NP 
-                                                 (NN comando))
-                                               (CC e)
-                                               (NP 
-                                                 (NN controlo)))
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT os)
-                                                 (NN terminais)
-                                                 (_CU_ 
-                                                   (ADJP 
-                                                     (JJ petrolÃ­fero))
-                                                   (CC e)
-                                                   (ADJP 
-                                                     (JJ petroquÃ­mico))))))))
-                                       (,)
-                                       (NP 
-                                         (PRP diversos)
-                                         (NN acessos)
-                                         (ADJP 
-                                           (JJ rodo-ferroviÃ¡rios)))
-                                       (CC e)
-                                       (NP 
-                                         (_CU_ 
-                                           (NP 
-                                             (DT a)
-                                             (NN beneficiaÃ§Ã£o))
-                                           (CC e)
-                                           (NP 
-                                             (NN tratamento)
-                                             (ADJP 
-                                               (JJ paisagÃ­sticos))))
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NN zona)
-                                             (ADJP 
-                                               (JJ marginal))
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NNP Sines)))))))
-                                 (,)
-                                 (NP 
-                                   (NN investimentos)
-                                   (VP 
-                                     (VP 
-                                       (VBG rondando))
-                                     (NP 
-                                       (DT os)
-                                       (CD 4,7)
-                                       (NN milhÃµes)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN contos))))))
-                                 (,))
-                        (VP (VBP foram))
-                        (NP (DT as)
-                               (NN infra-estruturas)
-                               (VP (NP 
-                                         (PRP que))
-                                       (NP 
-                                         (NNP Azevedo_Soares))
-                                       (VP 
-                                         (VBP inaugurou))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (NP 
+          (DT A)
+          (NN fase)
+          (ADJP 
+            (JJ II)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN terminal)
+              («)
+              (NP 
+                (NN multipurpose)
+              )
+              (»)
+            )
+          )
+        )
+        (,)
+        (NP 
+          (DT o)
+          (JJ novo)
+          (NN porto)
+          (PP 
+            (IN de)
+            (NP 
+              (NN pesca)
+            )
+          )
+          (PP 
+            (IN com)
+            (NP 
+              (DT a)
+              (JJ respectiva)
+              (NN lota)
+            )
+          )
+        )
+        (,)
+        (NP 
+          (DT o)
+          (NN sistema)
+          (PP 
+            (IN de)
+            (NP 
+              (NP 
+                (NP 
+                  (NN comando)
+                )
+                (CC e)
+                (NP 
+                  (NN controlo)
+                )
+              )
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NN terminais)
+                  (ADJP 
+                    (ADJP 
+                      (JJ petrolífero)
+                    )
+                    (CC e)
+                    (ADJP 
+                      (JJ petroquímico)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+        (,)
+        (NP 
+          (PRP diversos)
+          (NN acessos)
+          (ADJP 
+            (JJ rodo-ferroviários)
+          )
+        )
+        (CC e)
+        (NP 
+          (NP 
+            (NP 
+              (DT a)
+              (NN beneficiação)
+            )
+            (CC e)
+            (NP 
+              (NN tratamento)
+              (ADJP 
+                (JJ paisagísticos)
+              )
+            )
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN zona)
+              (ADJP 
+                (JJ marginal)
+              )
+              (PP 
+                (IN de)
+                (NP 
+                  (NNP Sines)
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NN investimentos)
+        (VP 
+          (VP 
+            (VBG rondando)
+          )
+          (NP 
+            (DT os)
+            (CD 4,7)
+            (NN milhões)
+            (PP 
+              (IN de)
+              (NP 
+                (NN contos)
+              )
+            )
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP foram)
+    )
+    (NP 
+      (DT as)
+      (NN infra-estruturas)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (NP 
+          (NNP Azevedo_Soares)
+        )
+        (VP 
+          (VBP inaugurou)
+        )
+      )
+    )
+    (.)
+  )
+)

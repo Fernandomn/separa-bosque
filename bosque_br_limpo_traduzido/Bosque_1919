@@ -1,15 +1,34 @@
-(S (_CU_ (VP (NP 
-                                  (NP Ex-presidente))
-                                (ADVP 
-                                  (RB n√£o))
-                                (VP (VBP fala))
-                                (PP (IN a+)
-                                        (NP 
-                                          (DT a)
-                                          (NN imprensa)))
-                                (,))
-                       (CC mas)
-                       (VP (VP (VBP posa))
-                                (PP (IN para)
-                                        (NP 
-                                          (NN fotos))))))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (NP Ex-presidente)
+      )
+      (ADVP 
+        (RB n„o)
+      )
+      (VP 
+        (VBP fala)
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT a)
+          (NN imprensa)
+        )
+      )
+      (,)
+    )
+    mas    (VP 
+      (VP 
+        (VBP posa)
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (NN fotos)
+        )
+      )
+    )
+  )
+)

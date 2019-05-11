@@ -1,23 +1,44 @@
-(S (VP (_CU_ (ADVP 
-                                   (RB Hoje))
-                                 (CC e)
-                                 (ADVP 
-                                   (RB amanhÃ£)))
-                        (,)
-                        (VP (VBP decorrem))
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NNP Sala_Polivalente_do_Acarte)))
-                        (NP (DT as)
-                                 (NN Ãºltimas)
-                                 (PP (IN de)
-                                        (Â«)
-                                        (NP 
-                                          (NNP Josa_com_o_Violino_MÃ¡gico)
-                                          (Â»)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT os)
-                                              (NNP London_Puppet_Players))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (ADVP 
+        (RB Hoje)
+      )
+      (CC e)
+      (ADVP 
+        (RB amanhã)
+      )
+    )
+    (,)
+    (VP 
+      (VBP decorrem)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NNP Sala_Polivalente_do_Acarte)
+      )
+    )
+    (NP 
+      (DT as)
+      (NN últimas)
+      (PP 
+        (IN de)
+        («)
+        (NP 
+          (NNP Josa_com_o_Violino_Mágico)
+          (»)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (NNP London_Puppet_Players)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

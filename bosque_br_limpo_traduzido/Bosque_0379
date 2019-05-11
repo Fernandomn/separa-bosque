@@ -1,35 +1,67 @@
-(S (_CU_ (VP (VP 
-                                 (ADVP 
-                                   (RB Quando))
-                                 (NP 
-                                   (DT os)
-                                   (NN brit√¢nicos))
-                                 (VP (VBP retomaram))
-                                 (NP 
-                                   (DT o)
-                                   (NNP Egito))
-                                 (PP 
-                                   (IN em)
-                                   (ADJP 
-                                     (CD 1801))))
-                               (NP (DT a)
-                                        (NN pedra))
-                               (VP (VBP foi))
-                               (VP (VP 
-                                         (VB parar))
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP Museu_Brit√¢nico)))))
-                      (,)
-                      (CC mas)
-                      (VP (NP (DT os)
-                                        (NN franceses))
-                               (VP (VBP fizeram))
-                               (NP (NN c√≥pias)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (PRP ela)))))
-                      (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (ADVP 
+          (RB Quando)
+        )
+        (NP 
+          (DT os)
+          (NN brit‚nicos)
+        )
+        (VP 
+          (VBP retomaram)
+        )
+        (NP 
+          (DT o)
+          (NNP Egito)
+        )
+        (PP 
+          (IN em)
+          (ADJP 
+            (CD 1801)
+          )
+        )
+      )
+      (NP 
+        (DT a)
+        (NN pedra)
+      )
+      (VP 
+        (VBP foi)
+      )
+      (VP 
+        (VP 
+          (VB parar)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NNP Museu_Brit‚nico)
+          )
+        )
+      )
+    )
+    (,)
+    mas    (VP 
+      (NP 
+        (DT os)
+        (NN franceses)
+      )
+      (VP 
+        (VBP fizeram)
+      )
+      (NP 
+        (NN cÛpias)
+        (PP 
+          (IN de+)
+          (NP 
+            (PRP ela)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

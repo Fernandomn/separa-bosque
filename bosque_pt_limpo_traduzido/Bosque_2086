@@ -1,63 +1,100 @@
-(S (VP (ADVP (RB Depois)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (PRP isso))))
-                        (,)
-                        (NP (DT a)
-                                 (NNP Kaos))
-                        (VP (VBP tem))
-                        (VBN prevista)
-                        (_CU_ (NP (DT a)
-                                        (NN estreia)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NNP LL_Project)
-                                              (,)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN DJ)
-                                                  (NP 
-                                                    (NNP LuÃ­s_Leite))))))
-                                          (,)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (DT um)
-                                              (JJ novo)
-                                              (NN projecto)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NNP Porto)))
-                                              (VP 
-                                                (VP 
-                                                  (VBN designado))
-                                                (NP 
-                                                  (NNP Algo_RÃ­tmico)))))))
-                                (,)
-                                (NP (DT um)
-                                        (JJ novo)
-                                        (NN maxi)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (NNP Ozone))))
-                                (,)
-                                (CC e)
-                                (NP (NN Ã¡lbuns)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (PRP estes)
-                                            (CD dois)
-                                            (JJ Ãºltimos)
-                                            (NN projectos)))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Depois)
+      (PP 
+        (IN de+)
+        (NP 
+          (PRP isso)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NNP Kaos)
+    )
+    (VP 
+      (VBP tem)
+    )
+    (VBN prevista)
+    (NP 
+      (NP 
+        (DT a)
+        (NN estreia)
+        (PP 
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP LL_Project)
+              (,)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN DJ)
+                  (NP 
+                    (NNP Luís_Leite)
+                  )
+                )
+              )
+            )
+          )
+          (,)
+          (PP 
+            (IN de)
+            (NP 
+              (DT um)
+              (JJ novo)
+              (NN projecto)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NNP Porto)
+                )
+              )
+              (VP 
+                (VP 
+                  (VBN designado)
+                )
+                (NP 
+                  (NNP Algo_Rítmico)
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (DT um)
+        (JJ novo)
+        (NN maxi)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NNP Ozone)
+          )
+        )
+      )
+      (,)
+      (CC e)
+      (NP 
+        (NN álbuns)
+        (PP 
+          (IN de+)
+          (NP 
+            (PRP estes)
+            (CD dois)
+            (JJ últimos)
+            (NN projectos)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

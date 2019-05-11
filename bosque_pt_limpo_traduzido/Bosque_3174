@@ -1,43 +1,81 @@
-(S (_CU_ (VP (VP (VBP Foi))
-                                (NP (NN colaborador)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NNP Pompidou))))
-                                (,)
-                                (_CU_ 
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (CD 1969)))
-                                  (PP 
-                                    (IN atÃ©)
-                                    (NP 
-                                      (CD 1974))))
-                                (,))
-                       (VP (ADVP 
-                                  (RB depois))
-                                (VP (VBP administrou))
-                                (NP (CD trÃªs)
-                                        (NN empresas)))
-                       (CC e)
-                       (VP (,)
-                                (PP 
-                                  (IN em)
-                                  (ADJP 
-                                    (CD 1986)))
-                                (,)
-                                (VP (VBP entrou))
-                                (PP (IN em+)
-                                       (NP 
-                                         (DT o)
-                                         (NN parlamento)))
-                                (ADVP (RB como)
-                                        (NP 
-                                          (NN deputado)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NNP RPR))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP Foi)
+      )
+      (NP 
+        (NN colaborador)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Pompidou)
+          )
+        )
+      )
+      (,)
+      (PP 
+        (PP 
+          (IN de)
+          (NP 
+            (CD 1969)
+          )
+        )
+        (PP 
+          (IN até)
+          (NP 
+            (CD 1974)
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (ADVP 
+        (RB depois)
+      )
+      (VP 
+        (VBP administrou)
+      )
+      (NP 
+        (CD três)
+        (NN empresas)
+      )
+    )
+    (CC e)
+    (VP 
+      (,)
+      (PP 
+        (IN em)
+        (ADJP 
+          (CD 1986)
+        )
+      )
+      (,)
+      (VP 
+        (VBP entrou)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN parlamento)
+        )
+      )
+      (ADVP 
+        (RB como)
+        (NP 
+          (NN deputado)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP RPR)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

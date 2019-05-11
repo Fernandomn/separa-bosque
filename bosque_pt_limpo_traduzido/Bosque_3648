@@ -1,41 +1,70 @@
-(S (VP (PP (IN Apesar_de)
-                                 (VP 
-                                   (NP 
-                                     (DT a)
-                                     (NN economia)
-                                     (ADJP 
-                                       (JJ norte-americana)))
-                                   (VP 
-                                     (VB estar)
-                                     (IN a)
-                                     (VB dar))
-                                   (NP 
-                                     (NN mostras)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (DT um)
-                                         (NN arrefecimento))))))
-                        (,)
-                        (NP (DT as)
-                                 (NN acÃ§Ãµes)
-                                 (VP 
-                                   (VP 
-                                     (VBN cotadas))
-                                   (PP 
-                                     (IN em)
-                                     (NP 
-                                       (NNP Wall_Street)))))
-                        (VP (VBP continuam)
-                              (IN a)
-                              (VB valorizar-))
-                        (NP (PRP se))
-                        (PP (IN de)
-                                 (NP (DT uma)
-                                        (NN forma)
-                                        (_CU_ 
-                                          (ADJP 
-                                            (JJ progressiva))
-                                          (CC e)
-                                          (VBN continuada))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Apesar_de)
+      (VP 
+        (NP 
+          (DT a)
+          (NN economia)
+          (ADJP 
+            (JJ norte-americana)
+          )
+        )
+        (VP 
+          (VB estar)
+          (IN a)
+          (VB dar)
+        )
+        (NP 
+          (NN mostras)
+          (PP 
+            (IN de)
+            (NP 
+              (DT um)
+              (NN arrefecimento)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT as)
+      (NN acções)
+      (VP 
+        (VP 
+          (VBN cotadas)
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (NNP Wall_Street)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP continuam)
+      (IN a)
+      (VB valorizar-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN de)
+      (NP 
+        (DT uma)
+        (NN forma)
+        (UCP 
+          (ADJP 
+            (JJ progressiva)
+          )
+          (CC e)
+          (VBN continuada)
+        )
+      )
+    )
+    (.)
+  )
+)

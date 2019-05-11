@@ -1,14 +1,29 @@
-(S (VP (PP Em_troca)
-                       (,)
-                       (VP (VBP assinava-))
-                       (NP (PRP se))
-                       (NP (DT o)
-                               (NN contrato-promessa)
-                               (PP (IN de)
-                                      (_CU_ 
-                                        (NP 
-                                          (NN compra))
-                                        (CC e)
-                                        (NP 
-                                          (NN venda)))))
-                       (.)))
+(S 
+  (VP 
+    (PP Em_troca)
+    (,)
+    (VP 
+      (VBP assinava-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (NP 
+      (DT o)
+      (NN contrato-promessa)
+      (PP 
+        (IN de)
+        (NP 
+          (NP 
+            (NN compra)
+          )
+          (CC e)
+          (NP 
+            (NN venda)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

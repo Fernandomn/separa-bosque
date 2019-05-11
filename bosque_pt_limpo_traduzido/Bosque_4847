@@ -1,104 +1,161 @@
-(S (VP (PP (IN Apesar_de)
-                                 (VP 
-                                   (VP 
-                                     (VB ter)
-                                     (VBN herdado))
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (NNP Executivo)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NNP John_Major)))))
-                                   (NP 
-                                     (DT as)
-                                     (ADJP 
-                                       (RB mais)
-                                       (JJ polÃ©micas))
-                                     (NN licenÃ§as)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN exportaÃ§Ã£o)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN armas)))
-                                         (PP 
-                                           (IN para)
-                                           (NP 
-                                             (NNP Jacarta))))))))
-                        (,)
-                        (NP (DT o)
-                                 (NNP Executivo)
-                                 (ADJP 
-                                   (JJ trabalhista)))
-                        (ADVP (RB nÃ£o))
-                        (VP (VBP escapou))
-                        (PP (IN a+)
-                                (NP (DT as)
-                                       (NN crÃ­ticas)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT os)
-                                           (NN activistas)
-                                           (ADJP 
-                                             (JJ prÃ³-direitos_humanos))
-                                           (,)
-                                           (VP 
-                                             (NP 
-                                               (PRP que))
-                                             (VP 
-                                               (VBP acusam))
-                                             (NP 
-                                               (DT os)
-                                               (JJ novos)
-                                               (NN governantes))
-                                             (PP 
-                                               (IN de)
-                                               (VP 
-                                                 (ADVP 
-                                                   (RB nÃ£o))
-                                                 (VP 
-                                                   (VB terem)
-                                                   (VBN travado))
-                                                 (NP 
-                                                   (DT os)
-                                                   (NN negÃ³cios)
-                                                   (,)
-                                                   (NP 
-                                                     (RB nomeadamente)
-                                                     (DT a)
-                                                     (NN venda)
-                                                     (PP 
-                                                       (IN de+)
-                                                       (NP 
-                                                         (DT os)
-                                                         (NN caÃ§as)
-                                                         (Â«)
-                                                         (NP 
-                                                           (NNP Hawk))
-                                                         (Â»)
-                                                         (_CU_ 
-                                                           (VP 
-                                                             (VP 
-                                                               (VBN fabricados))
-                                                             (PP 
-                                                               (IN por+)
-                                                               (NP 
-                                                                 (DT a)
-                                                                 (NNP British_Aerospace))))
-                                                           (CC e)
-                                                           (VP 
-                                                             (ADVP 
-                                                               (RB alegadamente))
-                                                             (VP 
-                                                               (VBN utilizados))
-                                                             (PP 
-                                                               (IN em)
-                                                               (NP 
-                                                                 (NNP Timor))))))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Apesar_de)
+      (VP 
+        (VP 
+          (VB ter)
+          (VBN herdado)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NNP Executivo)
+            (PP 
+              (IN de)
+              (NP 
+                (NNP John_Major)
+              )
+            )
+          )
+        )
+        (NP 
+          (DT as)
+          (ADJP 
+            (RB mais)
+            (JJ polémicas)
+          )
+          (NN licenças)
+          (PP 
+            (IN de)
+            (NP 
+              (NN exportação)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN armas)
+                )
+              )
+              (PP 
+                (IN para)
+                (NP 
+                  (NNP Jacarta)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NNP Executivo)
+      (ADJP 
+        (JJ trabalhista)
+      )
+    )
+    (ADVP 
+      (RB não)
+    )
+    (VP 
+      (VBP escapou)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT as)
+        (NN críticas)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN activistas)
+            (ADJP 
+              (JJ pró-direitos_humanos)
+            )
+            (,)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP acusam)
+              )
+              (NP 
+                (DT os)
+                (JJ novos)
+                (NN governantes)
+              )
+              (PP 
+                (IN de)
+                (VP 
+                  (ADVP 
+                    (RB não)
+                  )
+                  (VP 
+                    (VB terem)
+                    (VBN travado)
+                  )
+                  (NP 
+                    (DT os)
+                    (NN negócios)
+                    (,)
+                    (NP 
+                      (RB nomeadamente)
+                      (DT a)
+                      (NN venda)
+                      (PP 
+                        (IN de+)
+                        (NP 
+                          (DT os)
+                          (NN caças)
+                          («)
+                          (NP 
+                            (NNP Hawk)
+                          )
+                          (»)
+                          (VP 
+                            (VP 
+                              (VP 
+                                (VBN fabricados)
+                              )
+                              (PP 
+                                (IN por+)
+                                (NP 
+                                  (DT a)
+                                  (NNP British_Aerospace)
+                                )
+                              )
+                            )
+                            (CC e)
+                            (VP 
+                              (ADVP 
+                                (RB alegadamente)
+                              )
+                              (VP 
+                                (VBN utilizados)
+                              )
+                              (PP 
+                                (IN em)
+                                (NP 
+                                  (NNP Timor)
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

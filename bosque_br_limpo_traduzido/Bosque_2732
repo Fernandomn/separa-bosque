@@ -1,40 +1,70 @@
-(S (VP (NP (NNP Ricupero))
-                        (,)
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NN verdade)))
-                        (,)
-                        (VP (VBP foi))
-                        (NP (DT o)
-                               (NN Ãºltimo)
-                               (PP (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NN grupo)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (NP 
-                                            (PRP o))
-                                          (VP 
-                                            (VBP acompanhava)))
-                                        (_CU_ 
-                                          (NP 
-                                            (NN familiares))
-                                          (CC e)
-                                          (NP 
-                                            (NN assessores)))))
-                               (PP (IN a)
-                                      (VP 
-                                        (VP 
-                                          (VB sucumbir))
-                                        (PP 
-                                          (IN a+)
-                                          (NP 
-                                            (DT a)
-                                            (NN emoÃ§Ã£o)))
-                                        (,)
-                                        (ADVP 
-                                          (RB pelo_menos)
-                                          (RB publicamente)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Ricupero)
+    )
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN verdade)
+      )
+    )
+    (,)
+    (VP 
+      (VBP foi)
+    )
+    (NP 
+      (DT o)
+      (NN último)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN grupo)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (NP 
+              (PRP o)
+            )
+            (VP 
+              (VBP acompanhava)
+            )
+          )
+          (NP 
+            (NP 
+              (NN familiares)
+            )
+            e            (NP 
+              (NN assessores)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN a)
+        (VP 
+          (VP 
+            (VB sucumbir)
+          )
+          (PP 
+            (IN a+)
+            (NP 
+              (DT a)
+              (NN emoção)
+            )
+          )
+          (,)
+          (ADVP 
+            (RB pelo_menos)
+            (RB publicamente)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

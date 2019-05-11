@@ -1,58 +1,94 @@
-(S (VP (_CU_ (NP 
-                                   (PRP Nada)))
-                       (VP (VBP fez))
-                       (VP (VP (VB parar))
-                                (NP 
-                                  (PRP esta)
-                                  (NN compilaÃ§Ã£o)
-                                  (PP 
-                                    (IN de)
-                                    (VBN dados))))
-                       (,)
-                       (_CU_ (CC nem)
-                                 (NP 
-                                   (DT o)
-                                   (NN receio)
-                                   (PP 
-                                     (IN de)
-                                     (VP 
-                                       (IN que)
-                                       (NP 
-                                         (DT os)
-                                         (NN endereÃ§os))
-                                       (VP 
-                                         (VBP pudessem)
-                                         (VB cair))
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT as)
-                                           (NN mÃ£os)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN grupos)
-                                               (ADJP 
-                                                 (JJ nazis))
-                                               (VP 
-                                                 (NP 
-                                                   (PRP que))
-                                                 (VP 
-                                                   (VBP ficariam))
-                                                 (ADVP 
-                                                   (RB assim))
-                                                 (VP 
-                                                   (IN a)
-                                                   (VB conhecer))
-                                                 (VP 
-                                                   (ADVP 
-                                                     (RB onde))
-                                                   (VP 
-                                                     (VBP moram))
-                                                   (NP 
-                                                     (DT os)
-                                                     (PRP seus)
-                                                     (Â«)
-                                                     (NN alvos)
-                                                     (Â»))))))))))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (PRP Nada)
+      )
+    )
+    (VP 
+      (VBP fez)
+    )
+    (VP 
+      (VP 
+        (VB parar)
+      )
+      (NP 
+        (PRP esta)
+        (NN compilação)
+        (PP 
+          (IN de)
+          (VBN dados)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (CC nem)
+      (NP 
+        (DT o)
+        (NN receio)
+        (PP 
+          (IN de)
+          (VP 
+            (IN que)
+            (NP 
+              (DT os)
+              (NN endereços)
+            )
+            (VP 
+              (VBP pudessem)
+              (VB cair)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT as)
+                (NN mãos)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN grupos)
+                    (ADJP 
+                      (JJ nazis)
+                    )
+                    (VP 
+                      (NP 
+                        (PRP que)
+                      )
+                      (VP 
+                        (VBP ficariam)
+                      )
+                      (ADVP 
+                        (RB assim)
+                      )
+                      (VP 
+                        (IN a)
+                        (VB conhecer)
+                      )
+                      (VP 
+                        (ADVP 
+                          (RB onde)
+                        )
+                        (VP 
+                          (VBP moram)
+                        )
+                        (NP 
+                          (DT os)
+                          (PRP seus)
+                          («)
+                          (NN alvos)
+                          (»)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

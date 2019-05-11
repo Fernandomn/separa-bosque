@@ -1,70 +1,110 @@
-(S (VP (NP (DT A)
-                                 (NN soluÃ§Ã£o)
-                                 (VBN encontrada))
-                        (VP (VBP parece)
-                              (VB ser))
-                        (NP (PRP a)
-                               (PP (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NN encaminhamento)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN populaÃ§Ã£o)
-                                            (ADJP 
-                                              (JJ escolar))))
-                                        (PP 
-                                          (IN para)
-                                          (NP 
-                                            (DT os)
-                                            (NN centros)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN saÃºde))))
-                                          (NP 
-                                            (,)
-                                            (VP 
-                                              (VP 
-                                                (VBN entregue))
-                                              (PP 
-                                                (IN a+)
-                                                (NP 
-                                                  (DT os)
-                                                  (NN cuidados)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT o)
-                                                      (JJ respectivo)
-                                                      (NN mÃ©dico)
-                                                      (PP 
-                                                        (IN de)
-                                                        (NP 
-                                                          (NN famÃ­lia)))))))))))))
-                        (,)
-                        (_CU_ (CC mas)
-                                 (VP 
-                                   (VP 
-                                     (VBG capacitando))
-                                   (NP 
-                                     (PRP estes)
-                                     (NN serviÃ§os)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (PRP seu)
-                                         (NN papel)
-                                         (ADJP 
-                                           (JJ crescente)
-                                           (PP 
-                                             (IN em+)
-                                             (NP 
-                                               (DT a)
-                                               (NN saÃºde)
-                                               (ADJP 
-                                                 (JJ escolar))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN solução)
+      (VBN encontrada)
+    )
+    (VP 
+      (VBP parece)
+      (VB ser)
+    )
+    (NP 
+      (PRP a)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN encaminhamento)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN população)
+              (ADJP 
+                (JJ escolar)
+              )
+            )
+          )
+          (PP 
+            (IN para)
+            (NP 
+              (DT os)
+              (NN centros)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN saúde)
+                )
+              )
+            )
+            (NP 
+              (,)
+              (VP 
+                (VP 
+                  (VBN entregue)
+                )
+                (PP 
+                  (IN a+)
+                  (NP 
+                    (DT os)
+                    (NN cuidados)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT o)
+                        (JJ respectivo)
+                        (NN médico)
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (NN família)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (CC mas)
+      (VP 
+        (VP 
+          (VBG capacitando)
+        )
+        (NP 
+          (PRP estes)
+          (NN serviços)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (PRP seu)
+              (NN papel)
+              (ADJP 
+                (JJ crescente)
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT a)
+                    (NN saúde)
+                    (ADJP 
+                      (JJ escolar)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

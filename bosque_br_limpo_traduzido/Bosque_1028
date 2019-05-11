@@ -1,10 +1,21 @@
-(S (VP (VP (VBP Elogiou))
-                        (_CU_ (NP (CD dois)
-                                        (NN jogadores)
-                                        (ADJP 
-                                          (JJ flamenguistas)))
-                                (CC e)
-                                (NP 
-                                  (CD um)
-                                  (JJ corintiano)))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Elogiou)
+    )
+    (NP 
+      (NP 
+        (CD dois)
+        (NN jogadores)
+        (ADJP 
+          (JJ flamenguistas)
+        )
+      )
+      e      (NP 
+        (CD um)
+        (JJ corintiano)
+      )
+    )
+    (.)
+  )
+)

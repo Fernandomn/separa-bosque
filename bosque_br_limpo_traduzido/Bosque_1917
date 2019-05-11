@@ -1,42 +1,65 @@
-(S (VP (_CU_ (NP 
-                                   (DT A)
-                                   (NN taxaÃ§Ã£o)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (JJ grandes)
-                                       (NN fortunas))))
-                                 (CC e)
-                                 (NP 
-                                   (DT o)
-                                   (NN dinheiro)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN privatizaÃ§Ã£o)
-                                       (--)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN estatais)
-                                           (ADJP 
-                                             (JJ nÃ£o-estratÃ©gicas))))
-                                       ({)
-                                       (VP 
-                                         (VP 
-                                           (VBP exclui))
-                                         (_CU_ 
-                                           (NP 
-                                             (NN minÃ©rios))
-                                           (,)
-                                           (NP 
-                                             (NN petrÃ³leo))
-                                           (CC e)
-                                           (NP 
-                                             (NN telecomunicaÃ§Ãµes))))
-                                       (})))))
-                        (,)
-                        (VP (VBP complementaria))
-                        (NP (PRP esses)
-                                (NN fundos))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (DT A)
+        (NN taxação)
+        (PP 
+          (IN de)
+          (NP 
+            (JJ grandes)
+            (NN fortunas)
+          )
+        )
+      )
+      e      (NP 
+        (DT o)
+        (NN dinheiro)
+        (PP 
+          (IN de)
+          (NP 
+            (NN privatização)
+            (--)
+            (PP 
+              (IN de)
+              (NP 
+                (NN estatais)
+                (ADJP 
+                  (JJ não-estratégicas)
+                )
+              )
+            )
+            ({)
+            (VP 
+              (VP 
+                (VBP exclui)
+              )
+              (NP 
+                (NP 
+                  (NN minérios)
+                )
+                (,)
+                (NP 
+                  (NN petróleo)
+                )
+                e                (NP 
+                  (NN telecomunicações)
+                )
+              )
+            )
+            (})
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP complementaria)
+    )
+    (NP 
+      (PRP esses)
+      (NN fundos)
+    )
+    (.)
+  )
+)

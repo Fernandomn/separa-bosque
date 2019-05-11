@@ -1,57 +1,96 @@
-(S (VP (PP (IN Em+)
-                               (NP (DT a)
-                                      (NN cerimÃ³nia)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN inauguraÃ§Ã£o)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NN edifÃ­cio)))))))
-                      (,)
-                      (NP (NNP Ieltsin))
-                      (VP (VBP declarou))
-                      (PP (IN perante)
-                               (NP (NP 
-                                        (ADJP 
-                                          (RB mais_de)
-                                          (CD cem))
-                                        (NN mil))
-                                      (NN pessoas)))
-                      (_CU_ (VP (IN que)
-                                       (Â«)
-                                       (NP 
-                                         (DT a)
-                                         (NNP RÃºssia))
-                                       (VP 
-                                         (VBP estÃ¡))
-                                       (PP 
-                                         (IN perto_de)
-                                         (NP 
-                                           (DT a)
-                                           (NN estabilidade)
-                                           (ADJP 
-                                             (JJ polÃ­tica)))))
-                              (CC e)
-                              (VP (IN que)
-                                       (NP 
-                                         (PRP todos_os)
-                                         (NN problemas))
-                                       (VP 
-                                         (VBP podem)
-                                         (VB ser)
-                                         (VBN resolvidos))
-                                       (PP 
-                                         (IN a+)
-                                         (NP 
-                                           (DT a)
-                                           (NN mesa)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT as)
-                                               (NN conversaÃ§Ãµes)))))
-                                       (Â»")))
-                      (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT a)
+        (NN cerimónia)
+        (PP 
+          (IN de)
+          (NP 
+            (NN inauguração)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN edifício)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP Ieltsin)
+    )
+    (VP 
+      (VBP declarou)
+    )
+    (PP 
+      (IN perante)
+      (NP 
+        (NP 
+          (ADJP 
+            (RB mais_de)
+            (CD cem)
+          )
+          (NN mil)
+        )
+        (NN pessoas)
+      )
+    )
+    (VP 
+      (VP 
+        (IN que)
+        («)
+        (NP 
+          (DT a)
+          (NNP Rússia)
+        )
+        (VP 
+          (VBP está)
+        )
+        (PP 
+          (IN perto_de)
+          (NP 
+            (DT a)
+            (NN estabilidade)
+            (ADJP 
+              (JJ política)
+            )
+          )
+        )
+      )
+      (CC e)
+      (VP 
+        (IN que)
+        (NP 
+          (PRP todos_os)
+          (NN problemas)
+        )
+        (VP 
+          (VBP podem)
+          (VB ser)
+          (VBN resolvidos)
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (DT a)
+            (NN mesa)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT as)
+                (NN conversações)
+              )
+            )
+          )
+        )
+        (»")
+      )
+    )
+    (.)
+  )
+)

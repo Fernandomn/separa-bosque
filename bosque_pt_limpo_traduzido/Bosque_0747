@@ -1,123 +1,187 @@
-(S (VP (PP (IN De)
-                                 (NP (DT um)
-                                        (NN modo)
-                                        (_CU_ 
-                                          (ADJP 
-                                            (RB aparentemente)
-                                            (JJ displicente))
-                                          (,)
-                                          (CC mas)
-                                          (VP 
-                                            (ADVP 
-                                              (RB evidentemente))
-                                            (VP 
-                                              (VBN estudado))
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT os)
-                                                (PRP seus)
-                                                (NN efeitos)))))))
-                        (,)
-                        (VP (VBP surgem))
-                        (NP (NN referÃªncias)
-                                 (NP (_CU_ 
-                                          (PP 
-                                            (IN a)
-                                            (NP 
-                                              (NNP Nitsch_Hermann)))
-                                          (CC e)
-                                          (PP 
-                                            (IN a)
-                                            (NP 
-                                              (NNP Rodolf_Schwarzkogler))))
-                                        (,)
-                                        (RB por_exemplo)
-                                        (,)
-                                        (NP 
-                                          (NN personagens)
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (,)
-                                            (PP 
-                                              (IN com)
-                                              (_CU_ 
-                                                (NP 
-                                                  (NNP Arnulf_Rainer))
-                                                (CC e)
-                                                (NP 
-                                                  (NNP GÃ¼nter_Brus))))
-                                            (,)
-                                            (VP 
-                                              (VBP compuseram))
-                                            (NP 
-                                              (DT um)
-                                              (NN grupo)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN artistas)
-                                                  (ADJP 
-                                                    (JJ vienenses))))
-                                              (ADJP 
-                                                (JJ capaz)
-                                                (PP 
-                                                  (IN de)
-                                                  (VP 
-                                                    (,)
-                                                    (PP 
-                                                      (IN em+)
-                                                      (NP 
-                                                        (DT os)
-                                                        (NN anos)
-                                                        (ADJP 
-                                                          (CD 60))))
-                                                    (,)
-                                                    (VP 
-                                                      (VB provocar))
-                                                    (NP 
-                                                      (NN escÃ¢ndalo))
-                                                    (_CU_ 
-                                                      (ADVP 
-                                                        (RB nÃ£o)
-                                                        (RB sÃ³))
-                                                      (PP 
-                                                        (IN em+)
-                                                        (NP 
-                                                          (DT a)
-                                                          (NN cena)
-                                                          (_CU_ 
-                                                            (ADJP 
-                                                              (JJ pantanosa))
-                                                            (CC e)
-                                                            (ADJP 
-                                                              (JJ hipÃ³crita)))
-                                                          (PP 
-                                                            (IN de+)
-                                                            (NP 
-                                                              (DT a)
-                                                              (NN arte)
-                                                              (ADJP 
-                                                                (JJ austrÃ­aca))
-                                                              (PP 
-                                                                (IN de+)
-                                                                (NP 
-                                                                  (DT o)
-                                                                  (NP pÃ³s-guerra)))))))
-                                                      (,)
-                                                      (ADVP 
-                                                        (RB como))
-                                                      (PP 
-                                                        (IN em+)
-                                                        (NP 
-                                                          (DT o)
-                                                          (NN conjunto)
-                                                          (PP 
-                                                            (IN de+)
-                                                            (NP 
-                                                              (DT a)
-                                                              (NN arte)
-                                                              (ADJP 
-                                                                (JJ ocidental)))))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN De)
+      (NP 
+        (DT um)
+        (NN modo)
+        (UCP 
+          (ADJP 
+            (RB aparentemente)
+            (JJ displicente)
+          )
+          (,)
+          (CC mas)
+          (VP 
+            (ADVP 
+              (RB evidentemente)
+            )
+            (VP 
+              (VBN estudado)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT os)
+                (PRP seus)
+                (NN efeitos)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP surgem)
+    )
+    (NP 
+      (NN referências)
+      (NP 
+        (PP 
+          (PP 
+            (IN a)
+            (NP 
+              (NNP Nitsch_Hermann)
+            )
+          )
+          (CC e)
+          (PP 
+            (IN a)
+            (NP 
+              (NNP Rodolf_Schwarzkogler)
+            )
+          )
+        )
+        (,)
+        (RB por_exemplo)
+        (,)
+        (NP 
+          (NN personagens)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (,)
+            (PP 
+              (IN com)
+              (NP 
+                (NP 
+                  (NNP Arnulf_Rainer)
+                )
+                (CC e)
+                (NP 
+                  (NNP Günter_Brus)
+                )
+              )
+            )
+            (,)
+            (VP 
+              (VBP compuseram)
+            )
+            (NP 
+              (DT um)
+              (NN grupo)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN artistas)
+                  (ADJP 
+                    (JJ vienenses)
+                  )
+                )
+              )
+              (ADJP 
+                (JJ capaz)
+                (PP 
+                  (IN de)
+                  (VP 
+                    (,)
+                    (PP 
+                      (IN em+)
+                      (NP 
+                        (DT os)
+                        (NN anos)
+                        (ADJP 
+                          (CD 60)
+                        )
+                      )
+                    )
+                    (,)
+                    (VP 
+                      (VB provocar)
+                    )
+                    (NP 
+                      (NN escândalo)
+                    )
+                    (UCP 
+                      (ADVP 
+                        (RB não)
+                        (RB só)
+                      )
+                      (PP 
+                        (IN em+)
+                        (NP 
+                          (DT a)
+                          (NN cena)
+                          (ADJP 
+                            (ADJP 
+                              (JJ pantanosa)
+                            )
+                            (CC e)
+                            (ADJP 
+                              (JJ hipócrita)
+                            )
+                          )
+                          (PP 
+                            (IN de+)
+                            (NP 
+                              (DT a)
+                              (NN arte)
+                              (ADJP 
+                                (JJ austríaca)
+                              )
+                              (PP 
+                                (IN de+)
+                                (NP 
+                                  (DT o)
+                                  (NP pós-guerra)
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                      (,)
+                      (ADVP 
+                        (RB como)
+                      )
+                      (PP 
+                        (IN em+)
+                        (NP 
+                          (DT o)
+                          (NN conjunto)
+                          (PP 
+                            (IN de+)
+                            (NP 
+                              (DT a)
+                              (NN arte)
+                              (ADJP 
+                                (JJ ocidental)
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,50 +1,85 @@
-(S (VP (NP (PRP Cada_um)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN acusados))))
-                        (VP (VBP arrisca-))
-                        (NP (PRP se))
-                        (ADVP (RB agora))
-                        (_CU_ (PP (IN a)
-                                        (NP 
-                                          (DT uma)
-                                          (NN pena)
-                                          (ADJP 
-                                            (JJ m√°xima))
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (CD cinco)
-                                              (NN anos)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN pris√£o)))))))
-                                (CC e)
-                                (PP (IN a)
-                                        (NP 
-                                          (DT uma)
-                                          (NN multa)
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (VP 
-                                              (VBP pode)
-                                              (VB ir))
-                                            (PP 
-                                              (IN at√©)
-                                              (PP 
-                                                (IN a+)
-                                                (NP 
-                                                  (DT os)
-                                                  (CD 250)
-                                                  (NN mil)
-                                                  (NN d√≥lares)
-                                                  ({)
-                                                  (NP 
-                                                    (CD 45)
-                                                    (NN mil)
-                                                    (NN contos))
-                                                  (}))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Cada_um)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN acusados)
+        )
+      )
+    )
+    (VP 
+      (VBP arrisca-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (ADVP 
+      (RB agora)
+    )
+    (PP 
+      (PP 
+        (IN a)
+        (NP 
+          (DT uma)
+          (NN pena)
+          (ADJP 
+            (JJ m·xima)
+          )
+          (PP 
+            (IN de)
+            (NP 
+              (CD cinco)
+              (NN anos)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN pris„o)
+                )
+              )
+            )
+          )
+        )
+      )
+      (CC e)
+      (PP 
+        (IN a)
+        (NP 
+          (DT uma)
+          (NN multa)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP pode)
+              (VB ir)
+            )
+            (PP 
+              (IN atÈ)
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT os)
+                  (CD 250)
+                  (NN mil)
+                  (NN dÛlares)
+                  ({)
+                  (NP 
+                    (CD 45)
+                    (NN mil)
+                    (NN contos)
+                  )
+                  (})
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

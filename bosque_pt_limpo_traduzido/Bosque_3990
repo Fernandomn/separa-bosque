@@ -1,24 +1,44 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT a)
-                                        (PRP nossa)
-                                        (NN vizinhanÃ§a)
-                                        (ADJP 
-                                          (JJ imediata))))
-                        (VP (VBP existiam))
-                        (_CU_ (NP 
-                                   (CD quatro)
-                                   (NN agÃªncias)
-                                   (ADJP 
-                                     (JJ funerÃ¡rias)))
-                                 (CC e)
-                                 (NP 
-                                   (CD duas)
-                                   (NN lojas)
-                                   (VP 
-                                     (VP 
-                                       (VBN especializadas))
-                                     (PP 
-                                       (IN em)
-                                       (NP 
-                                         (NN queijos))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT a)
+        (PRP nossa)
+        (NN vizinhança)
+        (ADJP 
+          (JJ imediata)
+        )
+      )
+    )
+    (VP 
+      (VBP existiam)
+    )
+    (NP 
+      (NP 
+        (CD quatro)
+        (NN agências)
+        (ADJP 
+          (JJ funerárias)
+        )
+      )
+      (CC e)
+      (NP 
+        (CD duas)
+        (NN lojas)
+        (VP 
+          (VP 
+            (VBN especializadas)
+          )
+          (PP 
+            (IN em)
+            (NP 
+              (NN queijos)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

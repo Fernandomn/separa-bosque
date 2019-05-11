@@ -1,46 +1,81 @@
-(S (_CU_ (VP (NP 
-                                  (DT O)
-                                  (NN pÃºblico))
-                                (VP (VBP tem))
-                                (NP (DT o)
-                                        (NN direito)
-                                        (PP 
-                                          (IN a)
-                                          (VP 
-                                            (VP 
-                                              (VB escolher))
-                                            (VP 
-                                              (NP 
-                                                (PRP o_que))
-                                              (NP 
-                                                (PRP lhe))
-                                              (VP 
-                                                (VBP interessa)))))))
-                       (CC e)
-                       (VP (ADVP 
-                                  (RB nÃ£o))
-                                (VP (VBP creio))
-                                (VP 
-                                  (IN que)
-                                  (VP (VBP seja))
-                                  (ADJP 
-                                    (JJ necessÃ¡rio))
-                                  (VP 
-                                    (VP 
-                                      (VB conduzi-))
-                                    (NP 
-                                      (PRP lo))
-                                    (PP 
-                                      (IN por+)
-                                      (NP 
-                                        (DT a)
-                                        (NN mÃ£o)))
-                                    (VP 
-                                      (IN como_se)
-                                      (VP 
-                                        (VBP fosse))
-                                      (NP 
-                                        (DT um)
-                                        (NN indigente))))))
-                       (Â»)
-                       (.)))
+(S 
+  (UCP 
+    (VP 
+      (NP 
+        (DT O)
+        (NN público)
+      )
+      (VP 
+        (VBP tem)
+      )
+      (NP 
+        (DT o)
+        (NN direito)
+        (PP 
+          (IN a)
+          (VP 
+            (VP 
+              (VB escolher)
+            )
+            (VP 
+              (NP 
+                (PRP o_que)
+              )
+              (NP 
+                (PRP lhe)
+              )
+              (VP 
+                (VBP interessa)
+              )
+            )
+          )
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VBP creio)
+      )
+      (VP 
+        (IN que)
+        (VP 
+          (VBP seja)
+        )
+        (ADJP 
+          (JJ necessário)
+        )
+        (VP 
+          (VP 
+            (VB conduzi-)
+          )
+          (NP 
+            (PRP lo)
+          )
+          (PP 
+            (IN por+)
+            (NP 
+              (DT a)
+              (NN mão)
+            )
+          )
+          (VP 
+            (IN como_se)
+            (VP 
+              (VBP fosse)
+            )
+            (NP 
+              (DT um)
+              (NN indigente)
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (.)
+  )
+)

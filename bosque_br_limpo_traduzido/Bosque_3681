@@ -1,41 +1,71 @@
-(S (VP (_CU_ (Â«)
-                                (VP 
-                                  (VP (VBP Compramos))
-                                  (NP 
-                                    (DT o)
-                                    (NN tÃ­tulo))
-                                  (IN para)
-                                  (VB verificar))
-                                (,)
-                                (VP 
-                                  (VP (VBP levei))
-                                  (PP 
-                                    (IN para)
-                                    (NP 
-                                      (NN casa))))
-                                (CC e)
-                                (VP 
-                                  (ADVP 
-                                    (RB nÃ£o))
-                                  (VP (VBP enxerguei))
-                                  (NP 
-                                    (PRP nada)))
-                                (Â»))
-                        (,)
-                        (VP (VBP disse))
-                        (ADVP (RB ontem))
-                        (NP (NNP Vera_Melo_AraÃºjo)
-                                 (,)
-                                 (NP 
-                                   (NN chefe)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (NNP Departamento_de_FiscalizaÃ§Ã£o)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NNP Susep)))))))
-                        (.)))
+(S 
+  (VP 
+    (UCP 
+      («)
+      (VP 
+        (VP 
+          (VBP Compramos)
+        )
+        (NP 
+          (DT o)
+          (NN título)
+        )
+        (IN para)
+        (VB verificar)
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBP levei)
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (NN casa)
+          )
+        )
+      )
+      e      (VP 
+        (ADVP 
+          (RB não)
+        )
+        (VP 
+          (VBP enxerguei)
+        )
+        (NP 
+          (PRP nada)
+        )
+      )
+      (»)
+    )
+    (,)
+    (VP 
+      (VBP disse)
+    )
+    (ADVP 
+      (RB ontem)
+    )
+    (NP 
+      (NNP Vera_Melo_Araújo)
+      (,)
+      (NP 
+        (NN chefe)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NNP Departamento_de_Fiscalização)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NNP Susep)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

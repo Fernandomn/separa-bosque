@@ -1,19 +1,35 @@
-(S (VP (NP (PRP Quantos)
-                                (NN artistas)
-                                (,)
-                                (_CU_ 
-                                  (CC quer)
-                                  (ADJP 
-                                    (JJ estrangeiros))
-                                  (CC quer)
-                                  (ADJP 
-                                    (JJ nacionais))))
-                        (,)
-                        (NP (DT a)
-                                 (NN festa)
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN toiros))))
-                        (VP (VBP tem)
-                              (VBN motivado))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Quantos)
+      (NN artistas)
+      (,)
+      (ADJP 
+        (CC quer)
+        (ADJP 
+          (JJ estrangeiros)
+        )
+        (CC quer)
+        (ADJP 
+          (JJ nacionais)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NN festa)
+      (PP 
+        (IN de)
+        (NP 
+          (NN toiros)
+        )
+      )
+    )
+    (VP 
+      (VBP tem)
+      (VBN motivado)
+    )
+    (.)
+  )
+)

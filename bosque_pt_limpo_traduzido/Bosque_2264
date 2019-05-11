@@ -1,19 +1,36 @@
-(S (NP (NN Palavras)
-                       (_CU_ (ADJP (JJ lacÃ³nicas))
-                              (,)
-                              (CC mas)
-                              (VP (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP fizeram))
-                                       (VP 
-                                         (VP 
-                                           (VB explodir))
-                                         (NP 
-                                           (DT a)
-                                           (NN sala))
-                                         (PP 
-                                           (IN em)
-                                           (NP 
-                                             (NN aplausos))))))
-                       (;)))
+(S 
+  (NP 
+    (NN Palavras)
+    (UCP 
+      (ADJP 
+        (JJ lacónicas)
+      )
+      (,)
+      (CC mas)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP fizeram)
+        )
+        (VP 
+          (VP 
+            (VB explodir)
+          )
+          (NP 
+            (DT a)
+            (NN sala)
+          )
+          (PP 
+            (IN em)
+            (NP 
+              (NN aplausos)
+            )
+          )
+        )
+      )
+    )
+    (;)
+  )
+)

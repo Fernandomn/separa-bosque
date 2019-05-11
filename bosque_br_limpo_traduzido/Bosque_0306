@@ -1,46 +1,72 @@
-(S (VP (VP (VBP Mostrou))
-                       (VP (IN que)
-                                (NP 
-                                  (DT a)
-                                  (NN maioria)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT os)
-                                      (PRP seus)
-                                      (NN polÃ­ticos)
-                                      (ADJP 
-                                        (JJ profissionais))
-                                      (VP 
-                                        (NP 
-                                          (PRP cuja)
-                                          (NN respeitabilidade))
-                                        (ADVP 
-                                          (RB nÃ£o))
-                                        (VP 
-                                          (VBP pode)
-                                          (VB ser)
-                                          (VBN posta))
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (NN dÃºvida)))))))
-                                (VP (VBP oscilava))
-                                (PP 
-                                  (IN entre)
-                                  (_CU_ 
-                                    (NP 
-                                      (DT o)
-                                      (NN centro)
-                                      (ADJP 
-                                        (JJ nacionalista)))
-                                    (CC e)
-                                    (NP 
-                                      (DT os)
-                                      (NN radicais)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP PMDB)))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Mostrou)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT a)
+        (NN maioria)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (PRP seus)
+            (NN políticos)
+            (ADJP 
+              (JJ profissionais)
+            )
+            (VP 
+              (NP 
+                (PRP cuja)
+                (NN respeitabilidade)
+              )
+              (ADVP 
+                (RB não)
+              )
+              (VP 
+                (VBP pode)
+                (VB ser)
+                (VBN posta)
+              )
+              (PP 
+                (IN em)
+                (NP 
+                  (NN dúvida)
+                )
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP oscilava)
+      )
+      (PP 
+        (IN entre)
+        (NP 
+          (NP 
+            (DT o)
+            (NN centro)
+            (ADJP 
+              (JJ nacionalista)
+            )
+          )
+          e          (NP 
+            (DT os)
+            (NN radicais)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NNP PMDB)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

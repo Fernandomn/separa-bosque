@@ -1,67 +1,107 @@
-(S (VP (PP (IN Em+)
-                                 (NP (PRP esta)
-                                        (NN onda)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (VBN apertada)
-                                            (NN concorrÃªncia)
-                                            (VP 
-                                              (PP 
-                                                (IN em)
-                                                (NP 
-                                                  (PRP que)))
-                                              (NP 
-                                                (DT os)
-                                                (NN bancos))
-                                              (VP 
-                                                (VBP tÃªm)
-                                                (VBN vivido))
-                                              (PP 
-                                                (IN em+)
-                                                (NP 
-                                                  (DT os)
-                                                  (JJ Ãºltimos)
-                                                  (NN anos))))))))
-                        (,)
-                        (VP (VBP parece))
-                        (VP (IN que)
-                                  (ADVP 
-                                    (RB nÃ£o))
-                                  (VP (VBP sÃ£o))
-                                  (NP 
-                                    (RB apenas)
-                                    (DT os)
-                                    (NN clientes)
-                                    (VP 
-                                      (NP 
-                                        (PRP que))
-                                      (PP por_vezes)
-                                      (VP 
-                                        (VBP ficam))
-                                      (VP 
-                                        (VP 
-                                          (VBN baralhados))
-                                        (PP 
-                                          (IN com)
-                                          (_CU_ 
-                                            (NP 
-                                              (PRP tantos)
-                                              (NN produtos)
-                                              (ADJP 
-                                                (JJ novos)))
-                                            (,)
-                                            (NP 
-                                              (NN taxas)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN juro)
-                                                  (ADJP 
-                                                    (JJ irrecusÃ¡veis)))))
-                                            (CC e)
-                                            (NP 
-                                              (NN remuneraÃ§Ãµes)
-                                              (ADJP 
-                                                (JJ estonteantes)))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (PRP esta)
+        (NN onda)
+        (PP 
+          (IN de)
+          (NP 
+            (VBN apertada)
+            (NN concorrência)
+            (VP 
+              (PP 
+                (IN em)
+                (NP 
+                  (PRP que)
+                )
+              )
+              (NP 
+                (DT os)
+                (NN bancos)
+              )
+              (VP 
+                (VBP têm)
+                (VBN vivido)
+              )
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT os)
+                  (JJ últimos)
+                  (NN anos)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP parece)
+    )
+    (VP 
+      (IN que)
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VBP são)
+      )
+      (NP 
+        (RB apenas)
+        (DT os)
+        (NN clientes)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (PP por_vezes)
+          (VP 
+            (VBP ficam)
+          )
+          (VP 
+            (VP 
+              (VBN baralhados)
+            )
+            (PP 
+              (IN com)
+              (NP 
+                (NP 
+                  (PRP tantos)
+                  (NN produtos)
+                  (ADJP 
+                    (JJ novos)
+                  )
+                )
+                (,)
+                (NP 
+                  (NN taxas)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN juro)
+                      (ADJP 
+                        (JJ irrecusáveis)
+                      )
+                    )
+                  )
+                )
+                (CC e)
+                (NP 
+                  (NN remunerações)
+                  (ADJP 
+                    (JJ estonteantes)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

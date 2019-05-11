@@ -1,42 +1,72 @@
-(S (_CU_ (VP (NP 
-                                  (DT A)
-                                  (NN crise)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT a)
-                                      (NN saÃºde))))
-                                (VP (VBP tem))
-                                (NP (NN soluÃ§Ã£o)))
-                       (,)
-                       (VP (VP (VBP basta))
-                                (VP 
-                                  (VP (VB vacinar-))
-                                  (NP 
-                                    (PRP la))
-                                  (PP 
-                                    (IN contra)
-                                    (_CU_ 
-                                      (NP 
-                                        (DT as)
-                                        (NN ingerÃªncias)
-                                        (ADJP 
-                                          (JJ polÃ­tico-partidÃ¡rias)))
-                                      (,)
-                                      (NP 
-                                        (DT as)
-                                        (NN omissÃµes))
-                                      (CC e)
-                                      (NP 
-                                        (NN desacertos)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (NN responsÃ¡veis)
-                                            (PP 
-                                              (IN por+)
-                                              (NP 
-                                                (DT o)
-                                                (NN setor))))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT A)
+        (NN crise)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN saúde)
+          )
+        )
+      )
+      (VP 
+        (VBP tem)
+      )
+      (NP 
+        (NN solução)
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBP basta)
+      )
+      (VP 
+        (VP 
+          (VB vacinar-)
+        )
+        (NP 
+          (PRP la)
+        )
+        (PP 
+          (IN contra)
+          (NP 
+            (NP 
+              (DT as)
+              (NN ingerências)
+              (ADJP 
+                (JJ político-partidárias)
+              )
+            )
+            (,)
+            (NP 
+              (DT as)
+              (NN omissões)
+            )
+            e            (NP 
+              (NN desacertos)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NN responsáveis)
+                  (PP 
+                    (IN por+)
+                    (NP 
+                      (DT o)
+                      (NN setor)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

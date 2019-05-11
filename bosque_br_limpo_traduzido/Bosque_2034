@@ -1,10 +1,25 @@
-(S (VP (NP (NN MÃ©dia))
-                        (VP (VBP Ã©))
-                        (PP (IN de)
-                               (NP (CD 4)
-                                      (_CU_ 
-                                        (NP 
-                                          (NN passageiros))
-                                        (IN $/)
-                                        (NP 
-                                          (NN viagem)))))))
+(S 
+  (VP 
+    (NP 
+      (NN Média)
+    )
+    (VP 
+      (VBP é)
+    )
+    (PP 
+      (IN de)
+      (NP 
+        (CD 4)
+        (UCP 
+          (NP 
+            (NN passageiros)
+          )
+          (IN $/)
+          (NP 
+            (NN viagem)
+          )
+        )
+      )
+    )
+  )
+)

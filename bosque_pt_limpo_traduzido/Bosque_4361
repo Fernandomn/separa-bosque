@@ -1,88 +1,139 @@
-(S (_CU_ (VP (PP 
-                                  (IN Para)
-                                  (NP 
-                                    (DT os)
-                                    (NN empregados)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT a)
-                                        (NNP Microsoft)))))
-                                (VP (VBP Ã©))
-                                (ADJP 
-                                  (JJ comum))
-                                (VP 
-                                  (VP (VB encontrarem))
-                                  (NP 
-                                    (NNP Bill_Gates))
-                                  (ADVP 
-                                    (RB electronicamente))
-                                  (ADVP 
-                                    (RB antes)
-                                    (PP 
-                                      (IN de)
-                                      (VP 
-                                        (NP 
-                                          (PRP o))
-                                        (VP 
-                                          (VB conhecerem))
-                                        (ADVP 
-                                          (RB pessoalmente)))))))
-                       (CC e)
-                       (VP (,)
-                                (PP 
-                                  (IN a+)
-                                  (NP 
-                                    (DT a)
-                                    (NN imagem)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NN chefe)
-                                        (--)
-                                        (NP 
-                                          (DT o)
-                                          (Â«)
-                                          (ADJP 
-                                            (RB mais)
-                                            (JJ esperto)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (PRP todos))))
-                                          (Â»))
-                                        (--)))))
-                                (,)
-                                (VP (VBP passam))
-                                (NP (DT a)
-                                        (NN vida))
-                                (PP 
-                                  (IN a)
-                                  (VP 
-                                    (VP 
-                                      (VB descreverem-))
-                                    (NP 
-                                      (PRP se))))
-                                (NP 
-                                  (PRP uns))
-                                (PP 
-                                  (VP 
-                                    (PP 
-                                      (IN a+)
-                                      (NP 
-                                        (DT os)
-                                        (PRP outros)))
-                                    (ADVP 
-                                      (RB como)
-                                      (_CU_ 
-                                        (Â«)
-                                        (ADJP 
-                                          (JJ espertos))
-                                        (Â»)
-                                        (CC e)
-                                        (Â«)
-                                        (ADJP 
-                                          (JJ superespertos))
-                                        (Â»))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (PP 
+        (IN Para)
+        (NP 
+          (DT os)
+          (NN empregados)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Microsoft)
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP é)
+      )
+      (ADJP 
+        (JJ comum)
+      )
+      (VP 
+        (VP 
+          (VB encontrarem)
+        )
+        (NP 
+          (NNP Bill_Gates)
+        )
+        (ADVP 
+          (RB electronicamente)
+        )
+        (ADVP 
+          (RB antes)
+          (PP 
+            (IN de)
+            (VP 
+              (NP 
+                (PRP o)
+              )
+              (VP 
+                (VB conhecerem)
+              )
+              (ADVP 
+                (RB pessoalmente)
+              )
+            )
+          )
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (,)
+      (PP 
+        (IN a+)
+        (NP 
+          (DT a)
+          (NN imagem)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN chefe)
+              (--)
+              (NP 
+                (DT o)
+                («)
+                (ADJP 
+                  (RB mais)
+                  (JJ esperto)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (PRP todos)
+                    )
+                  )
+                )
+                (»)
+              )
+              (--)
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VBP passam)
+      )
+      (NP 
+        (DT a)
+        (NN vida)
+      )
+      (PP 
+        (IN a)
+        (VP 
+          (VP 
+            (VB descreverem-)
+          )
+          (NP 
+            (PRP se)
+          )
+        )
+      )
+      (NP 
+        (PRP uns)
+      )
+      (PP 
+        (VP 
+          (PP 
+            (IN a+)
+            (NP 
+              (DT os)
+              (PRP outros)
+            )
+          )
+          (ADVP 
+            (RB como)
+            (UCP 
+              («)
+              (ADJP 
+                (JJ espertos)
+              )
+              (»)
+              (CC e)
+              («)
+              (ADJP 
+                (JJ superespertos)
+              )
+              (»)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,38 +1,67 @@
-(S (_CU_ (VP (NP 
-                                  (NNP Reinaldo_Teles)
-                                  (,)
-                                  (VP 
-                                    (NP 
-                                      (PRP que))
-                                    (VP 
-                                      (VBP chefia))
-                                    (NP 
-                                      (DT a)
-                                      (NN comitiva))))
-                                (VP (VBP Ã©))
-                                (NP (DT o)
-                                       (JJ Ãºnico)
-                                       (NN dirigente)
-                                       (ADJP 
-                                         (JJ presente))))
-                       (CC e)
-                       (VP (ADVP 
-                                  (RB nÃ£o))
-                                (NP 
-                                  (PRP se))
-                                (VP (VBP espera))
-                                (NP (DT a)
-                                        (NN presenÃ§a)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (PRP mais)
-                                            (PRP nenhum)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT os)
-                                                (NN altos)
-                                                (ADJP 
-                                                  (JJ responsÃ¡veis))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (NNP Reinaldo_Teles)
+        (,)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP chefia)
+          )
+          (NP 
+            (DT a)
+            (NN comitiva)
+          )
+        )
+      )
+      (VP 
+        (VBP é)
+      )
+      (NP 
+        (DT o)
+        (JJ único)
+        (NN dirigente)
+        (ADJP 
+          (JJ presente)
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (ADVP 
+        (RB não)
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP espera)
+      )
+      (NP 
+        (DT a)
+        (NN presença)
+        (PP 
+          (IN de)
+          (NP 
+            (PRP mais)
+            (PRP nenhum)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT os)
+                (NN altos)
+                (ADJP 
+                  (JJ responsáveis)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,62 +1,98 @@
-(S (VP (VP (NP 
-                                   (DT O)
-                                   (NN repÃ³rter)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       (Â«)
-                                       (NNP RÃ¡dio_Elmo)
-                                       (Â»)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NNP Pinhel)))))
-                                   (,)
-                                   (NP 
-                                     (NNP Craveiro_Lopes))
-                                   (,))
-                                 (VP (VBP foi)
-                                       (VBN condenado))
-                                 (PP 
-                                   (IN em)
-                                   (NP 
-                                     (NN tribunal)))
-                                 (PP 
-                                   (IN a)
-                                   (_CU_ 
-                                     (NP 
-                                       (CD 14)
-                                       (NN meses)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN prisÃ£o))))
-                                     (CC e)
-                                     (NP 
-                                       (CD 60)
-                                       (NN dias)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN multa))))))
-                                 (PP 
-                                   (IN por)
-                                   (VP 
-                                     (VP 
-                                       (VB ter)
-                                       (VBN criticado))
-                                     (NP 
-                                       (DT a)
-                                       (NN actuaÃ§Ã£o)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NNP PSP)))))))
-                        (,)
-                        (VP (VBP informou))
-                        (ADVP (RB ontem))
-                        (NP (DT a)
-                                 (NNP Lusa))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (NN repórter)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            («)
+            (NNP Rádio_Elmo)
+            (»)
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Pinhel)
+              )
+            )
+          )
+        )
+        (,)
+        (NP 
+          (NNP Craveiro_Lopes)
+        )
+        (,)
+      )
+      (VP 
+        (VBP foi)
+        (VBN condenado)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NN tribunal)
+        )
+      )
+      (PP 
+        (IN a)
+        (NP 
+          (NP 
+            (CD 14)
+            (NN meses)
+            (PP 
+              (IN de)
+              (NP 
+                (NN prisão)
+              )
+            )
+          )
+          (CC e)
+          (NP 
+            (CD 60)
+            (NN dias)
+            (PP 
+              (IN de)
+              (NP 
+                (NN multa)
+              )
+            )
+          )
+        )
+      )
+      (PP 
+        (IN por)
+        (VP 
+          (VP 
+            (VB ter)
+            (VBN criticado)
+          )
+          (NP 
+            (DT a)
+            (NN actuação)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NNP PSP)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP informou)
+    )
+    (ADVP 
+      (RB ontem)
+    )
+    (NP 
+      (DT a)
+      (NNP Lusa)
+    )
+    (.)
+  )
+)

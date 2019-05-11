@@ -1,73 +1,111 @@
-(S (PP (IN Por)
-                       (NP (CD dois)
-                              (NN motivos)
-                              (;)
-                              (_CU_ 
-                                (NP (RB primeiro)
-                                        (,)
-                                        (DT a)
-                                        (NN indisponibilidade)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN escritor)
-                                            (,)
-                                            (VP 
-                                              (NP 
-                                                (PRP que))
-                                              (ADVP 
-                                                (RB simplesmente))
-                                              (ADVP 
-                                                (RB nÃ£o))
-                                              (VP 
-                                                (VBP estava))
-                                              (VP 
-                                                (VP 
-                                                  (VBN interessado))
-                                                (PP 
-                                                  (IN em)
-                                                  (_CU_ 
-                                                    (VP 
-                                                      (VP 
-                                                        (VB percorrer))
-                                                      (NP 
-                                                        (DT os)
-                                                        (NNP Estados_Unidos)))
-                                                    (CC ou)
-                                                    (VP 
-                                                      (VP 
-                                                        (VB debater))
-                                                      (NP 
-                                                        (PRP suas)
-                                                        (NN idÃ©ias))))))))))
-                                (;)
-                                (VP 
-                                  (ADVP 
-                                    (RB segundo))
-                                  (,)
-                                  (NP 
-                                    (PRP seus)
-                                    (NN comentÃ¡rios)
-                                    (PP 
-                                      (IN sobre)
-                                      (NP 
-                                        (DT a)
-                                        (Â«)
-                                        (NN decadÃªncia)
-                                        (ADJP 
-                                          (JJ moral))
-                                        (Â»)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN Ocidente))))))
-                                  (ADVP 
-                                    (RB logo))
-                                  (NP 
-                                    (PRP o))
-                                  (VP (VBP tornaram))
-                                  (NP 
-                                    (NN inconveniente)))))
-                       (.)))
+(S 
+  (PP 
+    (IN Por)
+    (NP 
+      (CD dois)
+      (NN motivos)
+      (;)
+      (UCP 
+        (NP 
+          (RB primeiro)
+          (,)
+          (DT a)
+          (NN indisponibilidade)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN escritor)
+              (,)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (ADVP 
+                  (RB simplesmente)
+                )
+                (ADVP 
+                  (RB não)
+                )
+                (VP 
+                  (VBP estava)
+                )
+                (VP 
+                  (VP 
+                    (VBN interessado)
+                  )
+                  (PP 
+                    (IN em)
+                    (VP 
+                      (VP 
+                        (VP 
+                          (VB percorrer)
+                        )
+                        (NP 
+                          (DT os)
+                          (NNP Estados_Unidos)
+                        )
+                      )
+                      ou                      (VP 
+                        (VP 
+                          (VB debater)
+                        )
+                        (NP 
+                          (PRP suas)
+                          (NN idéias)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+        (;)
+        (VP 
+          (ADVP 
+            (RB segundo)
+          )
+          (,)
+          (NP 
+            (PRP seus)
+            (NN comentários)
+            (PP 
+              (IN sobre)
+              (NP 
+                (DT a)
+                («)
+                (NN decadência)
+                (ADJP 
+                  (JJ moral)
+                )
+                (»)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN Ocidente)
+                  )
+                )
+              )
+            )
+          )
+          (ADVP 
+            (RB logo)
+          )
+          (NP 
+            (PRP o)
+          )
+          (VP 
+            (VBP tornaram)
+          )
+          (NP 
+            (NN inconveniente)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

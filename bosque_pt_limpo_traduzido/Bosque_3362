@@ -1,42 +1,71 @@
-(S (VP (PP (IN A_partir_de)
-                                  (NP 
-                                    (NN Maio)))
-                         (,)
-                         (NP (PRP outra)
-                                  (NN embarca√ß√£o)
-                                  (PP 
-                                    (IN com)
-                                    (NP 
-                                      (NN capacidade)
-                                      (PP 
-                                        (IN para)
-                                        (NP 
-                                          (CD 150)
-                                          (NN passageiros))))))
-                         (VP (VBP ser√°)
-                               (VBN alugada))
-                         (PP (IN por+)
-                                  (NP 
-                                    (DT o)
-                                    (NN governo)
-                                    (ADJP 
-                                      (JJ regional))))
-                         (PP (IN para)
-                                  (VP 
-                                    (VP 
-                                      (VB ligar))
-                                    (NP 
-                                      (DT as)
-                                      (NN ilhas)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN grupos)
-                                          (_CU_ 
-                                            (ADJP 
-                                              (JJ central))
-                                            (CC e)
-                                            (ADJP 
-                                              (JJ oriental))))))))
-                         (.)))
+(S 
+  (VP 
+    (PP 
+      (IN A_partir_de)
+      (NP 
+        (NN Maio)
+      )
+    )
+    (,)
+    (NP 
+      (PRP outra)
+      (NN embarcaÁ„o)
+      (PP 
+        (IN com)
+        (NP 
+          (NN capacidade)
+          (PP 
+            (IN para)
+            (NP 
+              (CD 150)
+              (NN passageiros)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP ser·)
+      (VBN alugada)
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT o)
+        (NN governo)
+        (ADJP 
+          (JJ regional)
+        )
+      )
+    )
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VB ligar)
+        )
+        (NP 
+          (DT as)
+          (NN ilhas)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (NN grupos)
+              (ADJP 
+                (ADJP 
+                  (JJ central)
+                )
+                (CC e)
+                (ADJP 
+                  (JJ oriental)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

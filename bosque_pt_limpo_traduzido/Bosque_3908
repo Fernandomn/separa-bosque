@@ -1,47 +1,80 @@
-(S (VP (NP (NN Casos)
-                                 (ADVP 
-                                   (RB como)
-                                   (NP 
-                                     (PRP o)
-                                     (PP 
-                                       (IN de+)
-                                       (_CU_ 
-                                         (NP 
-                                           (DT a)
-                                           (NNP Sopete))
-                                         (,)
-                                         (NP 
-                                           (NNP Lusotur))
-                                         (CC ou)
-                                         (NP 
-                                           (NNP Alian√ßa_Seguradora)))))))
-                        (VP (VBP ilustram))
-                        (PP (IN de)
-                                 (NP (NN forma)
-                                        (ADJP 
-                                          (RB pouco)
-                                          (JJ favor√°vel))))
-                        (NP (DT a)
-                                (NN seguran√ßa)
-                                (VP (NP 
-                                          (PRP que))
-                                        (NP 
-                                          (DT os)
-                                          (NN investidores))
-                                        (VP 
-                                          (VBP podem)
-                                          (VB ter))
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT as)
-                                            (NN previs√µes)
-                                            (VP 
-                                              (VP 
-                                                (VBN adiantadas))
-                                              (PP 
-                                                (IN por)
-                                                (NP 
-                                                  (PRP algumas)
-                                                  (NN empresas))))))))
-                        (...)))
+(S 
+  (VP 
+    (NP 
+      (NN Casos)
+      (ADVP 
+        (RB como)
+        (NP 
+          (PRP o)
+          (PP 
+            (IN de+)
+            (NP 
+              (NP 
+                (DT a)
+                (NNP Sopete)
+              )
+              (,)
+              (NP 
+                (NNP Lusotur)
+              )
+              (CC ou)
+              (NP 
+                (NNP AlianÁa_Seguradora)
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP ilustram)
+    )
+    (PP 
+      (IN de)
+      (NP 
+        (NN forma)
+        (ADJP 
+          (RB pouco)
+          (JJ favor·vel)
+        )
+      )
+    )
+    (NP 
+      (DT a)
+      (NN seguranÁa)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (NP 
+          (DT os)
+          (NN investidores)
+        )
+        (VP 
+          (VBP podem)
+          (VB ter)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT as)
+            (NN previsıes)
+            (VP 
+              (VP 
+                (VBN adiantadas)
+              )
+              (PP 
+                (IN por)
+                (NP 
+                  (PRP algumas)
+                  (NN empresas)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (...)
+  )
+)

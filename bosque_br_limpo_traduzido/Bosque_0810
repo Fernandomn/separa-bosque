@@ -1,59 +1,95 @@
-(S (VP (NP (DT O)
-                                 (NN governo))
-                        (VP (VBP concordou))
-                        (PP (IN em)
-                                (_CU_ (VP 
-                                         (VP 
-                                           (VB incluir))
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT o)
-                                             (NN OrÃ§amento)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (CD 94)))))
-                                         (NP 
-                                           (NN investimentos)
-                                           (PP 
-                                             (IN em)
-                                             (NP 
-                                               (NN educaÃ§Ã£o))))
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT os)
-                                             (PRP mesmos)
-                                             (NN nÃ­veis)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NN ano)
-                                                 (VBN passado))))))
-                                       (CC e)
-                                       (VP 
-                                         (VP 
-                                           (VB destinar))
-                                         (PP 
-                                           (IN para)
-                                           (NP 
-                                             (NN habitaÃ§Ã£o)))
-                                         (NP 
-                                           (CD trÃªs)
-                                           (NN vezes)
-                                           (NP 
-                                             (PRP mais))
-                                           (ADVP 
-                                             (IN do_que)
-                                             (NP 
-                                               (PRP o)
-                                               (VP 
-                                                 (VP 
-                                                   (VBN registrado))
-                                                 (PP 
-                                                   (IN em)
-                                                   (ADJP 
-                                                     (CD 1992))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN governo)
+    )
+    (VP 
+      (VBP concordou)
+    )
+    (PP 
+      (IN em)
+      (VP 
+        (VP 
+          (VP 
+            (VB incluir)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT o)
+              (NN Orçamento)
+              (PP 
+                (IN de)
+                (NP 
+                  (CD 94)
+                )
+              )
+            )
+          )
+          (NP 
+            (NN investimentos)
+            (PP 
+              (IN em)
+              (NP 
+                (NN educação)
+              )
+            )
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT os)
+              (PRP mesmos)
+              (NN níveis)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN ano)
+                  (VBN passado)
+                )
+              )
+            )
+          )
+        )
+        e        (VP 
+          (VP 
+            (VB destinar)
+          )
+          (PP 
+            (IN para)
+            (NP 
+              (NN habitação)
+            )
+          )
+          (NP 
+            (CD três)
+            (NN vezes)
+            (NP 
+              (PRP mais)
+            )
+            (ADVP 
+              (IN do_que)
+              (NP 
+                (PRP o)
+                (VP 
+                  (VP 
+                    (VBN registrado)
+                  )
+                  (PP 
+                    (IN em)
+                    (ADJP 
+                      (CD 1992)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

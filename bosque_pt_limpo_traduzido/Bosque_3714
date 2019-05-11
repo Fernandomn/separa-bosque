@@ -1,76 +1,123 @@
-(S (VP (PP (IN Quanto_a)
-                                 (NP (NN horas)
-                                        (ADJP 
-                                          (JJ extraordinÃ¡rias))))
-                        (,)
-                        (NP (DT os)
-                                 (NN enfermeiros))
-                        (VP (VBP salientam))
-                        (VP (ADVP 
-                                   (RB nÃ£o))
-                                 (VP (VB terem))
-                                 (NP 
-                                   (NN acesso)
-                                   (PP 
-                                     (IN a+)
-                                     (NP 
-                                       (DT as)
-                                       (Â«)
-                                       (JJ vultuosas)
-                                       (NN verbas)
-                                       (Â»)
-                                       (_CU_ 
-                                         (VP 
-                                           (NP 
-                                             (PRP que))
-                                           (PP 
-                                             (IN em+)
-                                             (NP 
-                                               (PRP elas)))
-                                           (NP 
-                                             (PRP se))
-                                           (VP 
-                                             (VBP consomem)))
-                                         (CC e)
-                                         (VP 
-                                           (NP 
-                                             (PRP que))
-                                           (PP 
-                                             (IN para)
-                                             (NP 
-                                               (PRP alguns)
-                                               (NN profissionais)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT a)
-                                                   (NN saÃºde)))))
-                                           (VP 
-                                             (VBP funcionam))
-                                           (Â«)
-                                           (ADVP 
-                                             (RB mais)
-                                             (ADVP 
-                                               (RB como)
-                                               (NP 
-                                                 (NN complementos)
-                                                 (VP 
-                                                   (VP 
-                                                     (VBN disfarÃ§ados))
-                                                   (PP 
-                                                     (IN de)
-                                                     (NP 
-                                                       (NN vencimento))))))
-                                             (ADVP 
-                                               (IN do_que)
-                                               (RB como)
-                                               (NP 
-                                                 (NN resposta)
-                                                 (PP 
-                                                   (IN a)
-                                                   (NP 
-                                                     (NN necessidades)
-                                                     (ADJP 
-                                                       (JJ efectivas)))))))
-                                           (Â»)))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Quanto_a)
+      (NP 
+        (NN horas)
+        (ADJP 
+          (JJ extraordinárias)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT os)
+      (NN enfermeiros)
+    )
+    (VP 
+      (VBP salientam)
+    )
+    (VP 
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VB terem)
+      )
+      (NP 
+        (NN acesso)
+        (PP 
+          (IN a+)
+          (NP 
+            (DT as)
+            («)
+            (JJ vultuosas)
+            (NN verbas)
+            (»)
+            (VP 
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (PRP elas)
+                  )
+                )
+                (NP 
+                  (PRP se)
+                )
+                (VP 
+                  (VBP consomem)
+                )
+              )
+              (CC e)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (PP 
+                  (IN para)
+                  (NP 
+                    (PRP alguns)
+                    (NN profissionais)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT a)
+                        (NN saúde)
+                      )
+                    )
+                  )
+                )
+                (VP 
+                  (VBP funcionam)
+                )
+                («)
+                (ADVP 
+                  (RB mais)
+                  (ADVP 
+                    (RB como)
+                    (NP 
+                      (NN complementos)
+                      (VP 
+                        (VP 
+                          (VBN disfarçados)
+                        )
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (NN vencimento)
+                          )
+                        )
+                      )
+                    )
+                  )
+                  (ADVP 
+                    (IN do_que)
+                    (RB como)
+                    (NP 
+                      (NN resposta)
+                      (PP 
+                        (IN a)
+                        (NP 
+                          (NN necessidades)
+                          (ADJP 
+                            (JJ efectivas)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+                (»)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

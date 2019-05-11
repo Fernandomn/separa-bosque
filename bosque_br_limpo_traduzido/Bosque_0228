@@ -1,58 +1,89 @@
-(S (VP (PP (IN Em)
-                                (NP (PRP todo)
-                                       (DT o)
-                                       (NN shopping)
-                                       (,)
-                                       (VP 
-                                         (NP 
-                                           (PRP que))
-                                         (VP 
-                                           (VBP est√°))
-                                         (VBN decorado)
-                                         (PP 
-                                           (IN com)
-                                           (_CU_ 
-                                             (NP 
-                                               (NN lanternas))
-                                             (,)
-                                             (NP 
-                                               (NN leques))
-                                             (CC e)
-                                             (NP 
-                                               (RB at√©)
-                                               (DT um)
-                                               (NN portal)
-                                               (ADJP 
-                                                 (JJ japon√™s))))))))
-                       (,)
-                       (VP (VBP h√°))
-                       (NP (NN exposi√ß√µes)
-                               (PP (IN de)
-                                      (_CU_ 
-                                        (NP 
-                                          (NN iquebana)
-                                          ({)
-                                          (NP 
-                                            (NN arranjos)
-                                            (ADJP 
-                                              (JJ florais))
-                                            (})))
-                                        (,)
-                                        (NP 
-                                          (NN bonecas))
-                                        (,)
-                                        (NP 
-                                          (NN cer√¢micas))
-                                        (,)
-                                        (NP 
-                                          (NN armaduras))
-                                        (,)
-                                        (NP 
-                                          (NN m√°scaras))
-                                        (,)
-                                        (NP 
-                                          (NN quimonos))
-                                        (CC e)
-                                        (NP 
-                                          (NN espadas)))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em)
+      (NP 
+        (PRP todo)
+        (DT o)
+        (NN shopping)
+        (,)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP est·)
+          )
+          (VBN decorado)
+          (PP 
+            (IN com)
+            (NP 
+              (NP 
+                (NN lanternas)
+              )
+              (,)
+              (NP 
+                (NN leques)
+              )
+              e              (NP 
+                (RB atÈ)
+                (DT um)
+                (NN portal)
+                (ADJP 
+                  (JJ japonÍs)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP h·)
+    )
+    (NP 
+      (NN exposiÁıes)
+      (PP 
+        (IN de)
+        (NP 
+          (NP 
+            (NN iquebana)
+            ({)
+            (NP 
+              (NN arranjos)
+              (ADJP 
+                (JJ florais)
+              )
+              (})
+            )
+          )
+          (,)
+          (NP 
+            (NN bonecas)
+          )
+          (,)
+          (NP 
+            (NN cer‚micas)
+          )
+          (,)
+          (NP 
+            (NN armaduras)
+          )
+          (,)
+          (NP 
+            (NN m·scaras)
+          )
+          (,)
+          (NP 
+            (NN quimonos)
+          )
+          e          (NP 
+            (NN espadas)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

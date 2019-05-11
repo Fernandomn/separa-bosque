@@ -1,17 +1,35 @@
-(S (VP (NP (NNP VERA_LÃšCIA_DA_COSTA_ANTUNES))
-                        (VP (VBP Ã©))
-                        (NP (NN coordenadora)
-                               (PP (IN de)
-                                      (NP 
-                                        (NN geografia)))
-                               (PP (IN de+)
-                                      (_CU_ 
-                                        (NP 
-                                          (DT o)
-                                          (NN curso))
-                                        (CC e)
-                                        (NP 
-                                          (NN colÃ©gio)
-                                          (NP 
-                                            (NNP Objetivo))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP VERA_LÚCIA_DA_COSTA_ANTUNES)
+    )
+    (VP 
+      (VBP é)
+    )
+    (NP 
+      (NN coordenadora)
+      (PP 
+        (IN de)
+        (NP 
+          (NN geografia)
+        )
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (NP 
+            (DT o)
+            (NN curso)
+          )
+          e          (NP 
+            (NN colégio)
+            (NP 
+              (NNP Objetivo)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

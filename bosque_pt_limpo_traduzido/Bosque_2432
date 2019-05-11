@@ -1,19 +1,36 @@
-(S (VP (ADVP (RB NÃ£o))
-                        (VP (VBP foi)
-                              (VBN divulgado))
-                        (NP (DT o)
-                                 (NN valor)
-                                 (PP (IN de+)
-                                        (_CU_ 
-                                          (NP 
-                                            (DT os)
-                                            (NN objectos)
-                                            (PP 
-                                              (IN em)
-                                              (NP 
-                                                (NN ouro))))
-                                          (CC e)
-                                          (NP 
-                                            (NN electrodomÃ©sticos)
-                                            (VBN roubados)))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Não)
+    )
+    (VP 
+      (VBP foi)
+      (VBN divulgado)
+    )
+    (NP 
+      (DT o)
+      (NN valor)
+      (PP 
+        (IN de+)
+        (NP 
+          (NP 
+            (DT os)
+            (NN objectos)
+            (PP 
+              (IN em)
+              (NP 
+                (NN ouro)
+              )
+            )
+          )
+          (CC e)
+          (NP 
+            (NN electrodomésticos)
+            (VBN roubados)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

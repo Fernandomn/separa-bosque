@@ -1,53 +1,89 @@
-(S (VP (PP (IN Sem)
-                                 (NP (PRP estas)
-                                        (NN reduÃ§Ãµes)))
-                        (,)
-                        (NP (DT o)
-                                 (NN dÃ©fice)
-                                 (ADJP 
-                                   (JJ pÃºblico)))
-                        (VP (VBP representaria))
-                        (NP (_CU_ (NP 
-                                        (CD 6,1)
-                                        (NN por_cento)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NNP Produto_Interno_Bruto)
-                                            ({)
-                                            (NP 
-                                              (NNP PIB))
-                                            (})))
-                                        (NP 
-                                          (PRP este)
-                                          (NN ano)))
-                                      (CC e)
-                                      (NP 
-                                        (CD 6,5)
-                                        (PP 
-                                          (IN em)
-                                          (ADJP 
-                                            (CD 1997)))))
-                                (,)
-                                (NP (NN valores)
-                                        (PP 
-                                          (PP 
-                                            (PRP muito)
-                                            (IN acima_de+))
-                                          (NP 
-                                            (DT o)
-                                            (NN limite)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (CD trÃªs)
-                                                (NN por_cento)))
-                                            (VP 
-                                              (VP 
-                                                (VBN imposto))
-                                              (PP 
-                                                (IN por)
-                                                (NP 
-                                                  (NNP Maastricht))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Sem)
+      (NP 
+        (PRP estas)
+        (NN reduções)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN défice)
+      (ADJP 
+        (JJ público)
+      )
+    )
+    (VP 
+      (VBP representaria)
+    )
+    (NP 
+      (NP 
+        (NP 
+          (CD 6,1)
+          (NN por_cento)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Produto_Interno_Bruto)
+              ({)
+              (NP 
+                (NNP PIB)
+              )
+              (})
+            )
+          )
+          (NP 
+            (PRP este)
+            (NN ano)
+          )
+        )
+        (CC e)
+        (NP 
+          (CD 6,5)
+          (PP 
+            (IN em)
+            (ADJP 
+              (CD 1997)
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NN valores)
+        (PP 
+          (PP 
+            (PRP muito)
+            (IN acima_de+)
+          )
+          (NP 
+            (DT o)
+            (NN limite)
+            (PP 
+              (IN de)
+              (NP 
+                (CD três)
+                (NN por_cento)
+              )
+            )
+            (VP 
+              (VP 
+                (VBN imposto)
+              )
+              (PP 
+                (IN por)
+                (NP 
+                  (NNP Maastricht)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

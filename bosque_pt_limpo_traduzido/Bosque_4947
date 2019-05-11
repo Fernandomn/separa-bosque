@@ -1,29 +1,55 @@
-(S (VP (NP (DT O)
-                                 (NN primeiro))
-                        (VP (VBP deixou))
-                        (NP (DT um)
-                                 (NN bilhete))
-                        (PP (IN a+)
-                                (NP (DT os)
-                                       (NN pais)))
-                        (NP (VP 
-                                   (VP 
-                                     (VBG dizendo))
-                                   (_CU_ 
-                                     (VP 
-                                       (IN que)
-                                       (ADVP 
-                                         (RB n√£o))
-                                       (NP 
-                                         (PRP se))
-                                       (VP 
-                                         (VBP preocupassem)))
-                                     (CC e)
-                                     (VP 
-                                       (IN que)
-                                       (ADVP 
-                                         (RB n√£o))
-                                       (VP 
-                                         (VBP ia)
-                                         (VB fugir))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN primeiro)
+    )
+    (VP 
+      (VBP deixou)
+    )
+    (NP 
+      (DT um)
+      (NN bilhete)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT os)
+        (NN pais)
+      )
+    )
+    (NP 
+      (VP 
+        (VP 
+          (VBG dizendo)
+        )
+        (VP 
+          (VP 
+            (IN que)
+            (ADVP 
+              (RB n„o)
+            )
+            (NP 
+              (PRP se)
+            )
+            (VP 
+              (VBP preocupassem)
+            )
+          )
+          (CC e)
+          (VP 
+            (IN que)
+            (ADVP 
+              (RB n„o)
+            )
+            (VP 
+              (VBP ia)
+              (VB fugir)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

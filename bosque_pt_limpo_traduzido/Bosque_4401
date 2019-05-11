@@ -1,30 +1,51 @@
-(S (NP (ADJP (RB Mais)
-                                (CD um))
-                       (NN argumento)
-                       (;)
-                       (VP (NP 
-                                  (DT o)
-                                  (NN consumo)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT o)
-                                      (NN haxixe))))
-                                (ADVP 
-                                  (RB nÃ£o))
-                                (VP (VBP provoca))
-                                (NP (NN dependÃªncia))
-                                (,)
-                                (_CU_ 
-                                  (PP 
-                                    (IN ao_contrÃ¡rio_de+)
-                                    (NP 
-                                      (DT o)
-                                      (NN Ã¡lcool)))
-                                  (CC ou)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT a)
-                                      (NN nicotina)))))
-                       (.)))
+(S 
+  (NP 
+    (ADJP 
+      (RB Mais)
+      (CD um)
+    )
+    (NN argumento)
+    (;)
+    (VP 
+      (NP 
+        (DT o)
+        (NN consumo)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN haxixe)
+          )
+        )
+      )
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VBP provoca)
+      )
+      (NP 
+        (NN dependência)
+      )
+      (,)
+      (PP 
+        (PP 
+          (IN ao_contrário_de+)
+          (NP 
+            (DT o)
+            (NN álcool)
+          )
+        )
+        (CC ou)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN nicotina)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

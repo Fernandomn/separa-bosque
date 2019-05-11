@@ -1,33 +1,57 @@
-(S (VP (NP (DT O)
-                                  (JJ primeiro)
-                                  (NN concerto))
-                        (VP (VBP √©)
-                              (VBN dirigido))
-                        (PP (IN por)
-                                 (NP (NNP Piero_Bellugi)))
-                        (NP (,)
-                                  (PP 
-                                    (IN com)
-                                    (NP 
-                                      (DT os)
-                                      (NN solistas)
-                                      (_CU_ 
-                                        (NP 
-                                          (NNP Pedro_Corostola)
-                                          ({)
-                                          (NP 
-                                            (NN violoncelo))
-                                          (}))
-                                        (,)
-                                        (NP 
-                                          (_CU_ 
-                                            (NP 
-                                              (NNP Maria_do_Ros√°rio_Ferreira))
-                                            (CC e)
-                                            (NP 
-                                              (NNP Palmira_Troufa)))
-                                          ({)
-                                          (NP 
-                                            (NN sopranos))
-                                          (}))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (JJ primeiro)
+      (NN concerto)
+    )
+    (VP 
+      (VBP È)
+      (VBN dirigido)
+    )
+    (PP 
+      (IN por)
+      (NP 
+        (NNP Piero_Bellugi)
+      )
+    )
+    (NP 
+      (,)
+      (PP 
+        (IN com)
+        (NP 
+          (DT os)
+          (NN solistas)
+          (NP 
+            (NP 
+              (NNP Pedro_Corostola)
+              ({)
+              (NP 
+                (NN violoncelo)
+              )
+              (})
+            )
+            (,)
+            (NP 
+              (NP 
+                (NP 
+                  (NNP Maria_do_Ros·rio_Ferreira)
+                )
+                (CC e)
+                (NP 
+                  (NNP Palmira_Troufa)
+                )
+              )
+              ({)
+              (NP 
+                (NN sopranos)
+              )
+              (})
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

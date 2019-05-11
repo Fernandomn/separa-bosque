@@ -1,36 +1,64 @@
-(S (_CU_ (VP (PP 
-                                  (IN Segundo)
-                                  (NP 
-                                    (DT o)
-                                    (NN mÃ©dico)
-                                    (NP 
-                                      (NNP FlÃ¡vio_Pozzuto))))
-                                (,)
-                                (NP 
-                                  (DT as)
-                                  (NN funÃ§Ãµes)
-                                  (ADJP 
-                                    (JJ neurolÃ³gicas))
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT o)
-                                      (NN torcedor))))
-                                (NP (PRP se))
-                                (VP (VBP mantÃªm))
-                                (PP 
-                                  (IN sem)
-                                  (NP 
-                                    (NN alteraÃ§Ã£o))))
-                       (VP (NP 
-                                  (PRP ele))
-                                (VP (VBP respira))
-                                (PP 
-                                  (IN com)
-                                  (NP 
-                                    (NN ajuda)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (NN aparelhos))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (PP 
+        (IN Segundo)
+        (NP 
+          (DT o)
+          (NN médico)
+          (NP 
+            (NNP Flávio_Pozzuto)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (DT as)
+        (NN funções)
+        (ADJP 
+          (JJ neurológicas)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN torcedor)
+          )
+        )
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP mantêm)
+      )
+      (PP 
+        (IN sem)
+        (NP 
+          (NN alteração)
+        )
+      )
+    )
+    (VP 
+      (NP 
+        (PRP ele)
+      )
+      (VP 
+        (VBP respira)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (NN ajuda)
+          (PP 
+            (IN de)
+            (NP 
+              (NN aparelhos)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

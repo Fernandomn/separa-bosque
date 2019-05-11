@@ -1,24 +1,43 @@
-(S (VP (VP 
-                           (VP (VBN Levados))
-                           (PP de_volta)
-                           (PP (IN a)
-                                  (NP 
-                                    (NNP Vila_Franca))))
-                         (,)
-                         (NP (DT os)
-                                  (NN assaltantes)
-                                  (,)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (_CU_ 
-                                        (NP 
-                                          (CD 28))
-                                        (CC e)
-                                        (ADJP 
-                                          (CD 31)))
-                                      (NN anos)))
-                                  (,))
-                         (VP (VBP foram)
-                               (VBN identificados))
-                         (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBN Levados)
+      )
+      (PP de_volta)
+      (PP 
+        (IN a)
+        (NP 
+          (NNP Vila_Franca)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT os)
+      (NN assaltantes)
+      (,)
+      (PP 
+        (IN de)
+        (NP 
+          (UCP 
+            (NP 
+              (CD 28)
+            )
+            (CC e)
+            (ADJP 
+              (CD 31)
+            )
+          )
+          (NN anos)
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP foram)
+      (VBN identificados)
+    )
+    (.)
+  )
+)

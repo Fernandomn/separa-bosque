@@ -1,46 +1,79 @@
-(S (VP (PP (IN Segundo)
-                                 (NP (NNP Francisco_Manso)))
-                        (,)
-                        (NP (DT os)
-                                 (NN custos)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (PRP seu)
-                                          (NN filme))))
-                        (VP (VBP deverÃ£o)
-                              (VB situar-))
-                        (NP (PRP se))
-                        (PP (IN entre)
-                               (NP (DT os)
-                                      (_CU_ 
-                                        (NP 
-                                          (CD 250)
-                                          (NN mil))
-                                        (CC e)
-                                        (NP 
-                                          (CD 300)
-                                          (NN mil)))
-                                      (NN contos)
-                                      (,)
-                                      (NP 
-                                        (NN orÃ§amento)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (NP 
-                                            (PRP ele))
-                                          (VP 
-                                            (VBP considera))
-                                          (Â«)
-                                          (ADJP 
-                                            (JJ razoÃ¡vel))
-                                          (Â»)
-                                          (PP 
-                                            (IN para)
-                                            (NP 
-                                              (DT os)
-                                              (NN padrÃµes)
-                                              (ADJP 
-                                                (JJ portugueses))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Segundo)
+      (NP 
+        (NNP Francisco_Manso)
+      )
+    )
+    (,)
+    (NP 
+      (DT os)
+      (NN custos)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (PRP seu)
+          (NN filme)
+        )
+      )
+    )
+    (VP 
+      (VBP deverão)
+      (VB situar-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN entre)
+      (NP 
+        (DT os)
+        (NP 
+          (NP 
+            (CD 250)
+            (NN mil)
+          )
+          (CC e)
+          (NP 
+            (CD 300)
+            (NN mil)
+          )
+        )
+        (NN contos)
+        (,)
+        (NP 
+          (NN orçamento)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (NP 
+              (PRP ele)
+            )
+            (VP 
+              (VBP considera)
+            )
+            («)
+            (ADJP 
+              (JJ razoável)
+            )
+            (»)
+            (PP 
+              (IN para)
+              (NP 
+                (DT os)
+                (NN padrões)
+                (ADJP 
+                  (JJ portugueses)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

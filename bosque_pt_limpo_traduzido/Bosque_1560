@@ -1,41 +1,73 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT a)
-                                        (NNP F√≥rmula_Ford)))
-                        (,)
-                        (NP (NNP Carlos_Azevedo)
-                                 ({)
-                                 (NP 
-                                   (NNP Swift))
-                                 (}))
-                        (VP (VBP regressou))
-                        (PP (IN a+)
-                               (NP (DT as)
-                                      (NN vit√≥rias)))
-                        (,)
-                        (VP 
-                          (VP (VBG terminando))
-                          (PP (IN com)
-                                  (NP 
-                                    (DT uma)
-                                    (NN vantagem)
-                                    (PP 
-                                      (IN de)
-                                      (_CU_ 
-                                        (ADJP 
-                                          (CD 2,328'')
-                                          (PP 
-                                            (IN sobre)
-                                            (NP 
-                                              (NNP Rui_√Åguas)
-                                              ({)
-                                              (NP 
-                                                (NNP Van_Diemen))
-                                              (}))))
-                                        (CC e)
-                                        (ADJP 
-                                          (CD 3,040'')
-                                          (PP 
-                                            (IN sobre)
-                                            (NP 
-                                              (NNP Frederico_Viegas)))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT a)
+        (NNP FÛrmula_Ford)
+      )
+    )
+    (,)
+    (NP 
+      (NNP Carlos_Azevedo)
+      ({)
+      (NP 
+        (NNP Swift)
+      )
+      (})
+    )
+    (VP 
+      (VBP regressou)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT as)
+        (NN vitÛrias)
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG terminando)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (DT uma)
+          (NN vantagem)
+          (PP 
+            (IN de)
+            (ADJP 
+              (ADJP 
+                (CD 2,328'')
+                (PP 
+                  (IN sobre)
+                  (NP 
+                    (NNP Rui_¡guas)
+                    ({)
+                    (NP 
+                      (NNP Van_Diemen)
+                    )
+                    (})
+                  )
+                )
+              )
+              (CC e)
+              (ADJP 
+                (CD 3,040'')
+                (PP 
+                  (IN sobre)
+                  (NP 
+                    (NNP Frederico_Viegas)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,145 +1,224 @@
-(S (VP (VP (VP (VBN Implantado))
-                                  (PP 
-                                    (IN em)
-                                    (NP 
-                                      (NN terrenos)
-                                      (VP 
-                                        (ADVP 
-                                          (RB antes))
-                                        (VP 
-                                          (VBN ocupados))
-                                        (PP 
-                                          (IN por)
-                                          (NP 
-                                            (NN indÃºstrias)
-                                            (_CU_ 
-                                              (VP 
-                                                (VP 
-                                                  (VBN desarticuladas))
-                                                (PP 
-                                                  (IN por+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (NN reconversÃ£o)
-                                                    (ADJP 
-                                                      (JJ industrial))
-                                                    (PP 
-                                                      (IN de+)
-                                                      (NP 
-                                                        (DT os)
-                                                        (NN anos)
-                                                        (ADJP 
-                                                          (CD 80)))))))
-                                              (CC e)
-                                              (VP 
-                                                (NP 
-                                                  (PRP cujo)
-                                                  (Â«)
-                                                  (NN ferro)
-                                                  (ADJP 
-                                                    (JJ velho))
-                                                  (Â»))
-                                                (VP 
-                                                  (VBP permanecia))
-                                                (PP 
-                                                  (IN como)
-                                                  (NP 
-                                                    (NN legado)
-                                                    (PP 
-                                                      (IN de+)
-                                                      (NP 
-                                                        (DT a)
-                                                        (NN crise)
-                                                        (ADJP 
-                                                          (JJ econÃ³mica))
-                                                        (PP 
-                                                          (IN de+)
-                                                          (NP 
-                                                            (DT a)
-                                                            (ADJP 
-                                                              (RB outrora)
-                                                              (JJ laboriosa))
-                                                            (NN cidade)
-                                                            (PP 
-                                                              (IN de)
-                                                              (NP 
-                                                                (NNP Bilbau)))))))))))))))))
-                        (,)
-                        (NP (DT o)
-                                 (NN Museu))
-                        (VP (VBP pretende))
-                        (VP (VP (VB ser))
-                                 (NP (DT um)
-                                        (NN sÃ­mbolo)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN regeneraÃ§Ã£o)
-                                              (ADJP 
-                                                (JJ basca))))
-                                          (;)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (DT uma)
-                                              (NN sociedade)
-                                              (VP 
-                                                (NP 
-                                                  (PRP que))
-                                                (VP 
-                                                  (VBP quer))
-                                                (_CU_ 
-                                                  (VP 
-                                                    (VP 
-                                                      (VB vencer))
-                                                    (NP 
-                                                      (DT as)
-                                                      (NN dificuldades)
-                                                      (ADJP 
-                                                        (JJ presentes))))
-                                                  (CC e)
-                                                  (,)
-                                                  (VP 
-                                                    (PP 
-                                                      (IN em)
-                                                      (NP 
-                                                        (NN vÃ©speras)
-                                                        (PP 
-                                                          (IN de+)
-                                                          (NP 
-                                                            (DT o)
-                                                            (NN sÃ©culo)
-                                                            (ADJP 
-                                                              (JJ XXI)))))))
-                                                  (,)
-                                                  (VP 
-                                                    (VP 
-                                                      (VB dar))
-                                                    (NP 
-                                                      (JJ novos)
-                                                      (NN argumentos)
-                                                      (--)
-                                                      (NP 
-                                                        (PRP os)
-                                                        (_CU_ 
-                                                          (PP 
-                                                            (IN de+)
-                                                            (NP 
-                                                              (DT a)
-                                                              (NN esperanÃ§a)))
-                                                          (CC e)
-                                                          (PP 
-                                                            (IN de+)
-                                                            (NP 
-                                                              (DT a)
-                                                              (NN paz)))))
-                                                      (--))
-                                                    (PP 
-                                                      (IN a+)
-                                                      (NP 
-                                                        (DT os)
-                                                        (PRP seus)
-                                                        (NN cidadÃ£os)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBN Implantado)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NN terrenos)
+          (VP 
+            (ADVP 
+              (RB antes)
+            )
+            (VP 
+              (VBN ocupados)
+            )
+            (PP 
+              (IN por)
+              (NP 
+                (NN indústrias)
+                (VP 
+                  (VP 
+                    (VP 
+                      (VBN desarticuladas)
+                    )
+                    (PP 
+                      (IN por+)
+                      (NP 
+                        (DT a)
+                        (NN reconversão)
+                        (ADJP 
+                          (JJ industrial)
+                        )
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT os)
+                            (NN anos)
+                            (ADJP 
+                              (CD 80)
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                  (CC e)
+                  (VP 
+                    (NP 
+                      (PRP cujo)
+                      («)
+                      (NN ferro)
+                      (ADJP 
+                        (JJ velho)
+                      )
+                      (»)
+                    )
+                    (VP 
+                      (VBP permanecia)
+                    )
+                    (PP 
+                      (IN como)
+                      (NP 
+                        (NN legado)
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT a)
+                            (NN crise)
+                            (ADJP 
+                              (JJ económica)
+                            )
+                            (PP 
+                              (IN de+)
+                              (NP 
+                                (DT a)
+                                (ADJP 
+                                  (RB outrora)
+                                  (JJ laboriosa)
+                                )
+                                (NN cidade)
+                                (PP 
+                                  (IN de)
+                                  (NP 
+                                    (NNP Bilbau)
+                                  )
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN Museu)
+    )
+    (VP 
+      (VBP pretende)
+    )
+    (VP 
+      (VP 
+        (VB ser)
+      )
+      (NP 
+        (DT um)
+        (NN símbolo)
+        (UCP 
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN regeneração)
+              (ADJP 
+                (JJ basca)
+              )
+            )
+          )
+          (;)
+          (PP 
+            (IN de)
+            (NP 
+              (DT uma)
+              (NN sociedade)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP quer)
+                )
+                (VP 
+                  (VP 
+                    (VP 
+                      (VB vencer)
+                    )
+                    (NP 
+                      (DT as)
+                      (NN dificuldades)
+                      (ADJP 
+                        (JJ presentes)
+                      )
+                    )
+                  )
+                  (CC e)
+                  (,)
+                  (VP 
+                    (PP 
+                      (IN em)
+                      (NP 
+                        (NN vésperas)
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT o)
+                            (NN século)
+                            (ADJP 
+                              (JJ XXI)
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                  (,)
+                  (VP 
+                    (VP 
+                      (VB dar)
+                    )
+                    (NP 
+                      (JJ novos)
+                      (NN argumentos)
+                      (--)
+                      (NP 
+                        (PRP os)
+                        (PP 
+                          (PP 
+                            (IN de+)
+                            (NP 
+                              (DT a)
+                              (NN esperança)
+                            )
+                          )
+                          (CC e)
+                          (PP 
+                            (IN de+)
+                            (NP 
+                              (DT a)
+                              (NN paz)
+                            )
+                          )
+                        )
+                      )
+                      (--)
+                    )
+                    (PP 
+                      (IN a+)
+                      (NP 
+                        (DT os)
+                        (PRP seus)
+                        (NN cidadãos)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

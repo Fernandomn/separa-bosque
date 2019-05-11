@@ -1,20 +1,38 @@
-(S (VP (VP (VBP Foi))
-                        (ADVP (RB tamb√©m))
-                        (NP (DT o)
-                               (NN caso)
-                               (PP (IN de)
-                                      (NP 
-                                        (NN candidatos)
-                                        (PP 
-                                          (IN a)
-                                          (_CU_ 
-                                            (NP 
-                                              (NN cargos)
-                                              (ADJP 
-                                                (JJ majorit√°rios)))
-                                            (CC ou)
-                                            (NP 
-                                              (NN dirigentes)
-                                              (ADJP 
-                                                (JJ regionais))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Foi)
+    )
+    (ADVP 
+      (RB tambÈm)
+    )
+    (NP 
+      (DT o)
+      (NN caso)
+      (PP 
+        (IN de)
+        (NP 
+          (NN candidatos)
+          (PP 
+            (IN a)
+            (NP 
+              (NP 
+                (NN cargos)
+                (ADJP 
+                  (JJ majorit·rios)
+                )
+              )
+              ou              (NP 
+                (NN dirigentes)
+                (ADJP 
+                  (JJ regionais)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

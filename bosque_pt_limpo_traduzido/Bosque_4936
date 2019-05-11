@@ -1,8 +1,22 @@
-(S (PP (IN Com)
-                       (_CU_ (NP (NNP Chevy_Chase))
-                              (,)
-                              (NP (NNP Dan_Akroyd))
-                              (,)
-                              (NP (NNP John_Candy))
-                              (,)
-                              (NP (NNP Demi_Moore)))))
+(S 
+  (PP 
+    (IN Com)
+    (NP 
+      (NP 
+        (NNP Chevy_Chase)
+      )
+      (,)
+      (NP 
+        (NNP Dan_Akroyd)
+      )
+      (,)
+      (NP 
+        (NNP John_Candy)
+      )
+      (,)
+      (NP 
+        (NNP Demi_Moore)
+      )
+    )
+  )
+)

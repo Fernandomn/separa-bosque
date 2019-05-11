@@ -1,37 +1,62 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT os)
-                                        (NN jogos)
-                                        (PP 
-                                          (IN com)
-                                          (NP 
-                                            (DT o)
-                                            (NNP Ekranes)))))
-                        (,)
-                        (NP (DT os)
-                                 (CD dois)
-                                 (NN golos))
-                        (VP (VBP foram)
-                              (VBN marcados))
-                        (PP (IN por+)
-                                 (NP (DT o)
-                                        (NN lÃ­bero)
-                                        (NP 
-                                          (NNP Buttigieg))
-                                        (,)
-                                        (NP 
-                                          (DT um)
-                                          (NN jogador)
-                                          (_CU_ 
-                                            (ADJP 
-                                              (JJ elegante))
-                                            (CC e)
-                                            (ADJP 
-                                              (RB talvez)
-                                              (DT o)
-                                              (JJ melhor)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN paÃ­s))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT os)
+        (NN jogos)
+        (PP 
+          (IN com)
+          (NP 
+            (DT o)
+            (NNP Ekranes)
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT os)
+      (CD dois)
+      (NN golos)
+    )
+    (VP 
+      (VBP foram)
+      (VBN marcados)
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT o)
+        (NN líbero)
+        (NP 
+          (NNP Buttigieg)
+        )
+        (,)
+        (NP 
+          (DT um)
+          (NN jogador)
+          (ADJP 
+            (ADJP 
+              (JJ elegante)
+            )
+            (CC e)
+            (ADJP 
+              (RB talvez)
+              (DT o)
+              (JJ melhor)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN país)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

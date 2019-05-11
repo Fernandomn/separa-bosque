@@ -1,68 +1,107 @@
-(S (VP (NP (DT O)
-                                 (NN relatÃ³rio))
-                        (VP (VBP adianta))
-                        (VP (IN que)
-                                 (Â«)
-                                 (NP 
-                                   (PRP todos_os)
-                                   (NN relatos)
-                                   (PP 
-                                     (IN de)
-                                     (_CU_ 
-                                       (NP 
-                                         (NN tortura))
-                                       (CC e)
-                                       (NP 
-                                         (JJ maus)
-                                         (NN tratos)))))
-                                 (NP 
-                                   (PRP se))
-                                 (VP (VBP referiam))
-                                 (PP 
-                                   (IN a)
-                                   (NP 
-                                     (NN pessoas)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP tinham)
-                                         (VBN sido)
-                                         (VBN detidas))
-                                       (PP 
-                                         (IN sob)
-                                         (NP 
-                                           (NN suspeita)
-                                           (PP 
-                                             (IN de)
-                                             (VP 
-                                               (VP 
-                                                 (VB terem)
-                                                 (VBN cometido))
-                                               (NP 
-                                                 (NN delitos)
-                                                 (ADJP 
-                                                   (JJ criminais))))))))
-                                     (,)
-                                     (VP 
-                                       (VP 
-                                         (VBG tendo))
-                                       (PP 
-                                         (IN em)
-                                         (NP 
-                                           (PRP muitos)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT os)
-                                               (NN casos)))))
-                                       (VP 
-                                         (VBN sido)
-                                         (VBN libertadas))
-                                       (PP 
-                                         (IN sem)
-                                         (VP 
-                                           (VB serem)
-                                           (VBN inculpadas))))))
-                                 (Â»))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN relatório)
+    )
+    (VP 
+      (VBP adianta)
+    )
+    (VP 
+      (IN que)
+      («)
+      (NP 
+        (PRP todos_os)
+        (NN relatos)
+        (PP 
+          (IN de)
+          (NP 
+            (NP 
+              (NN tortura)
+            )
+            (CC e)
+            (NP 
+              (JJ maus)
+              (NN tratos)
+            )
+          )
+        )
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP referiam)
+      )
+      (PP 
+        (IN a)
+        (NP 
+          (NN pessoas)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP tinham)
+              (VBN sido)
+              (VBN detidas)
+            )
+            (PP 
+              (IN sob)
+              (NP 
+                (NN suspeita)
+                (PP 
+                  (IN de)
+                  (VP 
+                    (VP 
+                      (VB terem)
+                      (VBN cometido)
+                    )
+                    (NP 
+                      (NN delitos)
+                      (ADJP 
+                        (JJ criminais)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (,)
+          (VP 
+            (VP 
+              (VBG tendo)
+            )
+            (PP 
+              (IN em)
+              (NP 
+                (PRP muitos)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT os)
+                    (NN casos)
+                  )
+                )
+              )
+            )
+            (VP 
+              (VBN sido)
+              (VBN libertadas)
+            )
+            (PP 
+              (IN sem)
+              (VP 
+                (VB serem)
+                (VBN inculpadas)
+              )
+            )
+          )
+        )
+      )
+      (»)
+    )
+    (.)
+  )
+)

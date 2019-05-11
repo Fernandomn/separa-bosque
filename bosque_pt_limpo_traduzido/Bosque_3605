@@ -1,52 +1,86 @@
-(S (VP (ADVP (RB Ã€_primeira_vista))
-                        (,)
-                        (VP (IN se)
-                                  (VP (VBP compararmos))
-                                  (NP 
-                                    (DT os)
-                                    (NN nÃºmeros)
-                                    (--)
-                                    (PP 
-                                      (_CU_ 
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN jornalistas)))
-                                        (CC e)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN telefones))))
-                                      (,)
-                                      (RB por_exemplo))
-                                    (--)))
-                        (,)
-                        (ADVP (RB nÃ£o))
-                        (VP (VBP parece)
-                              (VB estar))
-                        (VP (VP 
-                                          (VBN garantido))
-                                        (PP de_antemÃ£o))
-                        (VP (IN que)
-                                  (,)
-                                  (PP 
-                                    (IN em+)
-                                    (NP 
-                                      (DT as)
-                                      (NN horas)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN ponta)))))
-                                  (,)
-                                  (VP 
-                                    (NP 
-                                      (PRP se))
-                                    (VP 
-                                      (VBP evitem))
-                                    (NP 
-                                      (DT os)
-                                      (Â«)
-                                      (NN engarrafamentos)
-                                      (Â»))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB À_primeira_vista)
+    )
+    (,)
+    (VP 
+      (IN se)
+      (VP 
+        (VBP compararmos)
+      )
+      (NP 
+        (DT os)
+        (NN números)
+        (--)
+        (PP 
+          (PP 
+            (PP 
+              (IN de)
+              (NP 
+                (NN jornalistas)
+              )
+            )
+            (CC e)
+            (PP 
+              (IN de)
+              (NP 
+                (NN telefones)
+              )
+            )
+          )
+          (,)
+          (RB por_exemplo)
+        )
+        (--)
+      )
+    )
+    (,)
+    (ADVP 
+      (RB não)
+    )
+    (VP 
+      (VBP parece)
+      (VB estar)
+    )
+    (VP 
+      (VP 
+        (VBN garantido)
+      )
+      (PP de_antemão)
+    )
+    (VP 
+      (IN que)
+      (,)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT as)
+          (NN horas)
+          (PP 
+            (IN de)
+            (NP 
+              (NN ponta)
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (NP 
+          (PRP se)
+        )
+        (VP 
+          (VBP evitem)
+        )
+        (NP 
+          (DT os)
+          («)
+          (NN engarrafamentos)
+          (»)
+        )
+      )
+    )
+    (.)
+  )
+)

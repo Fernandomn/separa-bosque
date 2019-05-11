@@ -1,56 +1,94 @@
-(S (VP (PP (IN De+)
-                                 (NP (DT o)
-                                        (NN lado)
-                                        (ADJP 
-                                          (JJ portista))))
-                        (,)
-                        (NP (DT o)
-                                 (NN dia))
-                        (VP (VBP foi))
-                        (_CU_ (ADJP 
-                                 (JJ calmo))
-                               (CC e)
-                               (PP (IN sem)
-                                       (NP 
-                                         (NN problemas))))
-                        (,)
-                        (PP (IN entre)
-                                 (_CU_ (NP 
-                                          (NNP Montechoro))
-                                        (CC e)
-                                        (NP 
-                                          (DT as)
-                                          (NNP AÃ§oteias)
-                                          (,)
-                                          (VP 
-                                            (PP 
-                                              (IN em)
-                                              (NP 
-                                                (PRP cujo)
-                                                (NN complexo)
-                                                (ADJP 
-                                                  (JJ desportivo))))
-                                            (NP 
-                                              (DT a)
-                                              (NN equipa))
-                                            (VP 
-                                              (VBP fez))
-                                            (ADVP 
-                                              (RB ontem)
-                                              (PP 
-                                                (IN a+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN tarde))))
-                                            (NP 
-                                              (DT o)
-                                              (JJ Ãºltimo)
-                                              (NN treino)
-                                              (ADVP 
-                                                (RB antes)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (NN partida)))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN De+)
+      (NP 
+        (DT o)
+        (NN lado)
+        (ADJP 
+          (JJ portista)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN dia)
+    )
+    (VP 
+      (VBP foi)
+    )
+    (UCP 
+      (ADJP 
+        (JJ calmo)
+      )
+      (CC e)
+      (PP 
+        (IN sem)
+        (NP 
+          (NN problemas)
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN entre)
+      (NP 
+        (NP 
+          (NNP Montechoro)
+        )
+        (CC e)
+        (NP 
+          (DT as)
+          (NNP Açoteias)
+          (,)
+          (VP 
+            (PP 
+              (IN em)
+              (NP 
+                (PRP cujo)
+                (NN complexo)
+                (ADJP 
+                  (JJ desportivo)
+                )
+              )
+            )
+            (NP 
+              (DT a)
+              (NN equipa)
+            )
+            (VP 
+              (VBP fez)
+            )
+            (ADVP 
+              (RB ontem)
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT a)
+                  (NN tarde)
+                )
+              )
+            )
+            (NP 
+              (DT o)
+              (JJ último)
+              (NN treino)
+              (ADVP 
+                (RB antes)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NN partida)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

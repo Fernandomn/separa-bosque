@@ -1,24 +1,46 @@
-(S (VP (_CU_ (NP 
-                                   (NNP Itamar))
-                                 (CC e)
-                                 (NP 
-                                   (DT as)
-                                   (NN autoridades)
-                                   (VP 
-                                     (NP 
-                                       (PRP que))
-                                     (NP 
-                                       (PRP o))
-                                     (VP 
-                                       (VBP acompanhavam)))))
-                        (VP (VBP chegaram))
-                        (PP (IN a+)
-                               (NP (DT o)
-                                      (NN cemitÃ©rio)))
-                        (PP (IN a+)
-                                 (NP (DT a)
-                                        (NN 1h50)
-                                        (PP 
-                                          (IN de)
-                                          (RB ontem))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (NNP Itamar)
+      )
+      e      (NP 
+        (DT as)
+        (NN autoridades)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (NP 
+            (PRP o)
+          )
+          (VP 
+            (VBP acompanhavam)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP chegaram)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT o)
+        (NN cemitério)
+      )
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT a)
+        (NN 1h50)
+        (PP 
+          (IN de)
+          (RB ontem)
+        )
+      )
+    )
+    (.)
+  )
+)

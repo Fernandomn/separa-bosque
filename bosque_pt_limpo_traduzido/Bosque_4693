@@ -1,41 +1,68 @@
-(S (VP (NP (NNP Chung))
-                        (VP (VBP afirma))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT o)
-                                   (NN problema))
-                                 (VP (VBP Ã©))
-                                 (VP 
-                                   (VP 
-                                     (VB haver))
-                                   (_CU_ 
-                                     (NP 
-                                       (JJ demasiada)
-                                       (NN interferÃªncia)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP Governo)))
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT as)
-                                           (NN finanÃ§as))))
-                                     (CC e)
-                                     (NP 
-                                       (PRP poucas)
-                                       (NN medidas)
-                                       (PP 
-                                         (IN contra)
-                                         (NP 
-                                           (DT as)
-                                           (NN barreiras)
-                                           (ADJP 
-                                             (JJ proteccionistas))
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT os)
-                                               (NN japoneses)))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Chung)
+    )
+    (VP 
+      (VBP afirma)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT o)
+        (NN problema)
+      )
+      (VP 
+        (VBP é)
+      )
+      (VP 
+        (VP 
+          (VB haver)
+        )
+        (NP 
+          (NP 
+            (JJ demasiada)
+            (NN interferência)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NNP Governo)
+              )
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT as)
+                (NN finanças)
+              )
+            )
+          )
+          (CC e)
+          (NP 
+            (PRP poucas)
+            (NN medidas)
+            (PP 
+              (IN contra)
+              (NP 
+                (DT as)
+                (NN barreiras)
+                (ADJP 
+                  (JJ proteccionistas)
+                )
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT os)
+                    (NN japoneses)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

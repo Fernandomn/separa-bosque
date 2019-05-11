@@ -1,33 +1,55 @@
-(S (VP (Â«)
-                        (VP (ADVP 
-                                   (RB Normalmente))
-                                 (NP 
-                                   (PRP nÃ³s))
-                                 (VP (VBP utilizamos))
-                                 (NP 
-                                   (NN dados)
-                                   (ADJP 
-                                     (JJ histÃ³ricos))
-                                   (PP 
-                                     (IN sobre)
-                                     (_CU_ 
-                                       (NP 
-                                         (DT a)
-                                         (NN produtividade)
-                                         (PP 
-                                           (IN em)
-                                           (NP 
-                                             (PRP cada)
-                                             (NN regiÃ£o))))
-                                       (,)
-                                       (IN alÃ©m_de)
-                                       (NP 
-                                         (NN informaÃ§Ãµes)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN agricultores))))))))
-                        (Â»)
-                        (,)
-                        (VP (VBP diz))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (VP 
+      (ADVP 
+        (RB Normalmente)
+      )
+      (NP 
+        (PRP nós)
+      )
+      (VP 
+        (VBP utilizamos)
+      )
+      (NP 
+        (NN dados)
+        (ADJP 
+          (JJ históricos)
+        )
+        (PP 
+          (IN sobre)
+          (UCP 
+            (NP 
+              (DT a)
+              (NN produtividade)
+              (PP 
+                (IN em)
+                (NP 
+                  (PRP cada)
+                  (NN região)
+                )
+              )
+            )
+            (,)
+            (IN além_de)
+            (NP 
+              (NN informações)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN agricultores)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (,)
+    (VP 
+      (VBP diz)
+    )
+    (.)
+  )
+)

@@ -1,62 +1,93 @@
-(S (VP (PP (IN Apesar_de)
-                                 (VP 
-                                   (VP 
-                                     (VB ter)
-                                     (VBN dito))
-                                   (PP 
-                                     (IN hÃ¡)
-                                     (NP 
-                                       (NN dias)))
-                                   (VP 
-                                     (IN que)
-                                     (PP 
-                                       (Â«)
-                                       (IN entre)
-                                       (_CU_ 
-                                         (NP 
-                                           (DT o)
-                                           (_CU_ 
-                                             (NN justo)
-                                             (CC e)
-                                             (NN legÃ­timo)))
-                                         (CC e)
-                                         (NP 
-                                           (DT o)
-                                           (NN legal)))
-                                       (Â»))
-                                     (,)
-                                     (VP 
-                                       (VBP opta))
-                                     (PP 
-                                       (IN por+)
-                                       (NP 
-                                         (DT o)
-                                         (_CU_ 
-                                           (NN justo)
-                                           (CC e)
-                                           (NN legÃ­timo)))))))
-                        (,)
-                        (NP (NNP Lula))
-                        (VP (VBP disse))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT a)
-                                   (NN reforma)
-                                   (ADJP 
-                                     (JJ agrÃ¡ria)))
-                                 (,)
-                                 (PP 
-                                   (IN em)
-                                   (NP 
-                                     (PRP sua)
-                                     (JJ eventual)
-                                     (NN governo)))
-                                 (,)
-                                 (VP (VBP serÃ¡)
-                                       (VBN feito))
-                                 (PP 
-                                   (IN dentro_de+)
-                                   (NP 
-                                     (DT a)
-                                     (NN lei))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Apesar_de)
+      (VP 
+        (VP 
+          (VB ter)
+          (VBN dito)
+        )
+        (PP 
+          (IN há)
+          (NP 
+            (NN dias)
+          )
+        )
+        (VP 
+          (IN que)
+          (PP 
+            («)
+            (IN entre)
+            (NP 
+              (NP 
+                (DT o)
+                (NN 
+                  (NN justo)
+                  e                  (NN legítimo)
+                )
+              )
+              e              (NP 
+                (DT o)
+                (NN legal)
+              )
+            )
+            (»)
+          )
+          (,)
+          (VP 
+            (VBP opta)
+          )
+          (PP 
+            (IN por+)
+            (NP 
+              (DT o)
+              (NN 
+                (NN justo)
+                e                (NN legítimo)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP Lula)
+    )
+    (VP 
+      (VBP disse)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT a)
+        (NN reforma)
+        (ADJP 
+          (JJ agrária)
+        )
+      )
+      (,)
+      (PP 
+        (IN em)
+        (NP 
+          (PRP sua)
+          (JJ eventual)
+          (NN governo)
+        )
+      )
+      (,)
+      (VP 
+        (VBP será)
+        (VBN feito)
+      )
+      (PP 
+        (IN dentro_de+)
+        (NP 
+          (DT a)
+          (NN lei)
+        )
+      )
+    )
+    (.)
+  )
+)

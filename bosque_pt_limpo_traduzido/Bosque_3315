@@ -1,59 +1,93 @@
-(S (VP (VP (VP 
-                                          (VBG Mantendo))
-                                        (NP 
-                                          (DT uma)
-                                          (NN relaÃ§Ã£o)
-                                          (ADJP 
-                                            (JJ evidente))
-                                          (PP 
-                                            (IN com)
-                                            (NP 
-                                              (DT a)
-                                              (NN estrutura)
-                                              (ADJP 
-                                                (JJ histÃ³rica))
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT os)
-                                                  (NN encontros)))))))
-                        (,)
-                        (NP (NNP Albano_da_Silva_Pereira)
-                                 (,)
-                                 (NP 
-                                   (NN organizador)
-                                   (ADJP 
-                                     (JJ principal)))
-                                 (,))
-                        (VP (VBP articula))
-                        (NP (DT as)
-                                (NN escolhas)
-                                (PP (IN entre)
-                                       (_CU_ 
-                                         (_CU_ 
-                                           (NP 
-                                             (DT o)
-                                             (NN nacional))
-                                           (CC e)
-                                           (NP 
-                                             (DT o)
-                                             (NN internacional)))
-                                         (,)
-                                         (_CU_ 
-                                           (NP 
-                                             (DT a)
-                                             (NN consagraÃ§Ã£o))
-                                           (CC e)
-                                           (NP 
-                                             (DT a)
-                                             (NN revelaÃ§Ã£o)))
-                                         (,)
-                                         (_CU_ 
-                                           (NP 
-                                             (DT o)
-                                             (NN pedagÃ³gico))
-                                           (CC e)
-                                           (NP 
-                                             (DT o)
-                                             (NN experimental))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBG Mantendo)
+      )
+      (NP 
+        (DT uma)
+        (NN relação)
+        (ADJP 
+          (JJ evidente)
+        )
+        (PP 
+          (IN com)
+          (NP 
+            (DT a)
+            (NN estrutura)
+            (ADJP 
+              (JJ histórica)
+            )
+            (PP 
+              (IN de+)
+              (NP 
+                (DT os)
+                (NN encontros)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP Albano_da_Silva_Pereira)
+      (,)
+      (NP 
+        (NN organizador)
+        (ADJP 
+          (JJ principal)
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP articula)
+    )
+    (NP 
+      (DT as)
+      (NN escolhas)
+      (PP 
+        (IN entre)
+        (NP 
+          (NP 
+            (NP 
+              (DT o)
+              (NN nacional)
+            )
+            (CC e)
+            (NP 
+              (DT o)
+              (NN internacional)
+            )
+          )
+          (,)
+          (NP 
+            (NP 
+              (DT a)
+              (NN consagração)
+            )
+            (CC e)
+            (NP 
+              (DT a)
+              (NN revelação)
+            )
+          )
+          (,)
+          (NP 
+            (NP 
+              (DT o)
+              (NN pedagógico)
+            )
+            (CC e)
+            (NP 
+              (DT o)
+              (NN experimental)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

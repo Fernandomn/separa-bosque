@@ -1,42 +1,70 @@
-(S (VP (VP (VBP HÃ¡))
-                        (NP (PRP algo)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN novo))))
-                        (PP (IN em+)
-                                 (NP (PRP estes)
-                                        (CD quatro)
-                                        (NN filmes)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (NP 
-                                            (NNP CacÃ¡_Diegues))
-                                          (VP 
-                                            (VBP fez))
-                                          (PP 
-                                            (IN para)
-                                            (NP 
-                                              (DT a)
-                                              (NNP TV_Cultura)))
-                                          (,)
-                                          (PP 
-                                            (IN em_cima_de)
-                                            (NP 
-                                              (CD quatro)
-                                              (NN canÃ§Ãµes)
-                                              (PP 
-                                                (IN de)
-                                                (_CU_ 
-                                                  (NP 
-                                                    (NNP Gil))
-                                                  (,)
-                                                  (NP 
-                                                    (NNP Caetano))
-                                                  (,)
-                                                  (NP 
-                                                    (NNP Chico))
-                                                  (CC e)
-                                                  (NP 
-                                                    (NNP Jorge_Ben_Jor)))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Há)
+    )
+    (NP 
+      (PRP algo)
+      (PP 
+        (IN de)
+        (NP 
+          (NN novo)
+        )
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (PRP estes)
+        (CD quatro)
+        (NN filmes)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (NP 
+            (NNP Cacá_Diegues)
+          )
+          (VP 
+            (VBP fez)
+          )
+          (PP 
+            (IN para)
+            (NP 
+              (DT a)
+              (NNP TV_Cultura)
+            )
+          )
+          (,)
+          (PP 
+            (IN em_cima_de)
+            (NP 
+              (CD quatro)
+              (NN canções)
+              (PP 
+                (IN de)
+                (NP 
+                  (NP 
+                    (NNP Gil)
+                  )
+                  (,)
+                  (NP 
+                    (NNP Caetano)
+                  )
+                  (,)
+                  (NP 
+                    (NNP Chico)
+                  )
+                  e                  (NP 
+                    (NNP Jorge_Ben_Jor)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

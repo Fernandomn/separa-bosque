@@ -1,84 +1,133 @@
-(S (VP (_CU_ (VP 
-                                   (VP 
-                                     (VBN Isolada))
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT os)
-                                       (NN passeios)
-                                       (VP 
-                                         (NP 
-                                           (PRP que))
-                                         (VP 
-                                           (VBP bordejam))
-                                         (NP 
-                                           (DT os)
-                                           (NN quarteirÃµes))))))
-                                 (,)
-                                 (VP 
-                                   (VP 
-                                     (VBN frequentada))
-                                   (PP 
-                                     (IN por)
-                                     (NP 
-                                       (DT uma)
-                                       (Â«)
-                                       (NN populaÃ§Ã£o)
-                                       (Â»)
-                                       (_CU_ 
-                                         (ADJP 
-                                           (JJ mÃ³vel))
-                                         (,)
-                                         (ADJP 
-                                           (JJ provisÃ³ria))
-                                         (CC e)
-                                         (PP 
-                                           (IN em)
-                                           (NP 
-                                             (JJ constante)
-                                             (NN renovaÃ§Ã£o))))))))
-                        (,)
-                        (NP (DT a)
-                                 (NN ilha))
-                        (VP (VBP serve))
-                        (PP (IN de)
-                                (NP (NP 
-                                         (NN plataforma)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN comunicaÃ§Ãµes))))
-                                       (;)
-                                       (_CU_ 
-                                         (VP 
-                                           (VP 
-                                             (VB apanhar))
-                                           (NP 
-                                             (DT um)
-                                             (NN transporte)))
-                                         (,)
-                                         (VP 
-                                           (VP 
-                                             (VB comprar))
-                                           (NP 
-                                             (DT um)
-                                             (NN jornal)
-                                             (PP 
-                                               (IN com)
-                                               (NP 
-                                                 (NN notÃ­cias)))))
-                                         (,)
-                                         (VP 
-                                           (VP 
-                                             (VB enviar))
-                                           (NP 
-                                             (DT uma)
-                                             (NN carta)))
-                                         (,)
-                                         (VP 
-                                           (VP 
-                                             (VB fazer))
-                                           (NP 
-                                             (DT um)
-                                             (NN telefonema))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VP 
+          (VBN Isolada)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN passeios)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP bordejam)
+              )
+              (NP 
+                (DT os)
+                (NN quarteirões)
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBN frequentada)
+        )
+        (PP 
+          (IN por)
+          (NP 
+            (DT uma)
+            («)
+            (NN população)
+            (»)
+            (UCP 
+              (ADJP 
+                (JJ móvel)
+              )
+              (,)
+              (ADJP 
+                (JJ provisória)
+              )
+              (CC e)
+              (PP 
+                (IN em)
+                (NP 
+                  (JJ constante)
+                  (NN renovação)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NN ilha)
+    )
+    (VP 
+      (VBP serve)
+    )
+    (PP 
+      (IN de)
+      (NP 
+        (NP 
+          (NN plataforma)
+          (PP 
+            (IN de)
+            (NP 
+              (NN comunicações)
+            )
+          )
+        )
+        (;)
+        (VP 
+          (VP 
+            (VP 
+              (VB apanhar)
+            )
+            (NP 
+              (DT um)
+              (NN transporte)
+            )
+          )
+          (,)
+          (VP 
+            (VP 
+              (VB comprar)
+            )
+            (NP 
+              (DT um)
+              (NN jornal)
+              (PP 
+                (IN com)
+                (NP 
+                  (NN notícias)
+                )
+              )
+            )
+          )
+          (,)
+          (VP 
+            (VP 
+              (VB enviar)
+            )
+            (NP 
+              (DT uma)
+              (NN carta)
+            )
+          )
+          (,)
+          (VP 
+            (VP 
+              (VB fazer)
+            )
+            (NP 
+              (DT um)
+              (NN telefonema)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

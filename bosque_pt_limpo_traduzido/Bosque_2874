@@ -1,39 +1,71 @@
-(S (NP (NP (NN R.))
-                       (--)
-                       (VP (ADVP 
-                                  (RB Porque))
-                                (NP 
-                                  (DT o)
-                                  (NN simbolismo)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT as)
-                                      (NN escadas))))
-                                (VP (VBP est√°))
-                                (PP (IN em)
-                                       (NP 
-                                         (PRP todo_o)
-                                         (NN lado)))
-                                (;))
-                       (VP (VP (VBP servem))
-                                (PP (IN para)
-                                        (_CU_ 
-                                          (VP 
-                                            (VP 
-                                              (VB descer))
-                                            (PP 
-                                              (IN a+)
-                                              (NP 
-                                                (DT o)
-                                                (NN inferno))))
-                                          (CC ou)
-                                          (VP 
-                                            (VP 
-                                              (VB subir))
-                                            (PP 
-                                              (IN a+)
-                                              (NP 
-                                                (DT o)
-                                                (NN c√©u))))))
-                                (.))))
+(S 
+  (NP 
+    (NP 
+      (NN R.)
+    )
+    (--)
+    (VP 
+      (ADVP 
+        (RB Porque)
+      )
+      (NP 
+        (DT o)
+        (NN simbolismo)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT as)
+            (NN escadas)
+          )
+        )
+      )
+      (VP 
+        (VBP est·)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (PRP todo_o)
+          (NN lado)
+        )
+      )
+      (;)
+    )
+    (VP 
+      (VP 
+        (VBP servem)
+      )
+      (PP 
+        (IN para)
+        (VP 
+          (VP 
+            (VP 
+              (VB descer)
+            )
+            (PP 
+              (IN a+)
+              (NP 
+                (DT o)
+                (NN inferno)
+              )
+            )
+          )
+          (CC ou)
+          (VP 
+            (VP 
+              (VB subir)
+            )
+            (PP 
+              (IN a+)
+              (NP 
+                (DT o)
+                (NN cÈu)
+              )
+            )
+          )
+        )
+      )
+      (.)
+    )
+  )
+)

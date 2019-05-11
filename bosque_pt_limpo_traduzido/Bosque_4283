@@ -1,42 +1,66 @@
-(S (_CU_ (VBN Pirateada)
-                       (CC e)
-                       (VP (VP 
-                                          (VBN distribuÃ­da))
-                                        (ADVP 
-                                          (RB gratuitamente))
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT o)
-                                            (NNP Natal)
-                                            (PP 
-                                              (IN de)
-                                              (ADJP 
-                                                (CD 1992)))))
-                                        (PP 
-                                          (IN por)
-                                          (NP 
-                                            (NNP JosÃ©_MagalhÃ£es)))
-                                        (PP 
-                                          (IN a)
-                                          (NP 
-                                            (_CU_ 
-                                              (NP 
-                                                (PRP todo))
-                                              (CC e)
-                                              (NP 
-                                                (PRP qualquer)))
-                                            (NN interessado)
-                                            (,)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (_CU_ 
-                                                  (ADJP 
-                                                    (JJ boa))
-                                                  (CC ou)
-                                                  (ADJP 
-                                                    (JJ mÃ¡)))
-                                                (NN fÃ©))))))
-                       (Â»)
-                       (.)))
+(S 
+  (UCP 
+    (VBN Pirateada)
+    (CC e)
+    (VP 
+      (VP 
+        (VBN distribuída)
+      )
+      (ADVP 
+        (RB gratuitamente)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NNP Natal)
+          (PP 
+            (IN de)
+            (ADJP 
+              (CD 1992)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN por)
+        (NP 
+          (NNP José_Magalhães)
+        )
+      )
+      (PP 
+        (IN a)
+        (NP 
+          (NP 
+            (NP 
+              (PRP todo)
+            )
+            (CC e)
+            (NP 
+              (PRP qualquer)
+            )
+          )
+          (NN interessado)
+          (,)
+          (PP 
+            (IN de)
+            (NP 
+              (ADJP 
+                (ADJP 
+                  (JJ boa)
+                )
+                (CC ou)
+                (ADJP 
+                  (JJ má)
+                )
+              )
+              (NN fé)
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (.)
+  )
+)

@@ -1,20 +1,35 @@
-(S (VP (PP (IN A)
-                                 (NP (NN venda)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (NN bancas)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN jornal)))))
-                                          (CC ou)
-                                          (PP 
-                                            (IN por+)
-                                            (NP 
-                                              (DT o)
-                                              (NN telefone)
-                                              (ADJP 
-                                                (CD {0800}_11-5353)))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN A)
+      (NP 
+        (NN venda)
+        (PP 
+          (PP 
+            (IN em)
+            (NP 
+              (NN bancas)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN jornal)
+                )
+              )
+            )
+          )
+          ou          (PP 
+            (IN por+)
+            (NP 
+              (DT o)
+              (NN telefone)
+              (ADJP 
+                (CD {0800}_11-5353)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

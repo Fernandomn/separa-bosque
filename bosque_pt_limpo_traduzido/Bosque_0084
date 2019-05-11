@@ -1,62 +1,95 @@
-(S (NP (NN Concertos)
-                      (_CU_ (PP (IN em)
-                                     (NP 
-                                       (NN mi)
-                                       (ADJP 
-                                         (JJ menor))
-                                       (,)
-                                       (NP 
-                                         (NNP RV)
-                                         (ADJP 
-                                           (CD 277))
-                                         ({)
-                                         (Â«)
-                                         (NP 
-                                           (NNP Il_Favorito))
-                                         (Â»")
-                                         (}))))
-                             (,)
-                             (PP (IN em)
-                                     (NP 
-                                       (NN mi)
-                                       (NP 
-                                         (NN bemol))
-                                       (,)
-                                       (NP 
-                                         (NNP RV)
-                                         (ADJP 
-                                           (CD 253))
-                                         ({)
-                                         (Â«)
-                                         (NP 
-                                           (NNP La_tempesta_di_mare))
-                                         (Â»")
-                                         (}))))
-                             (,)
-                             (PP (IN em)
-                                     (NP 
-                                       (NN lÃ¡)
-                                       (ADJP 
-                                         (JJ maior))
-                                       (,)
-                                       (NP 
-                                         (NNP RV)
-                                         (ADJP 
-                                           (CD 353)))))
-                             (,)
-                             (PP (IN em)
-                                     (NP 
-                                       (NN mi)
-                                       (ADJP 
-                                         (JJ maior))
-                                       (,)
-                                       (NP 
-                                         (NNP RV)
-                                         (ADJP 
-                                           (CD 271))
-                                         ({)
-                                         (Â«)
-                                         (NP 
-                                           (NN L'amoroso))
-                                         (Â»")
-                                         (})))))))
+(S 
+  (NP 
+    (NN Concertos)
+    (PP 
+      (PP 
+        (IN em)
+        (NP 
+          (NN mi)
+          (ADJP 
+            (JJ menor)
+          )
+          (,)
+          (NP 
+            (NNP RV)
+            (ADJP 
+              (CD 277)
+            )
+            ({)
+            («)
+            (NP 
+              (NNP Il_Favorito)
+            )
+            (»")
+            (})
+          )
+        )
+      )
+      (,)
+      (PP 
+        (IN em)
+        (NP 
+          (NN mi)
+          (NP 
+            (NN bemol)
+          )
+          (,)
+          (NP 
+            (NNP RV)
+            (ADJP 
+              (CD 253)
+            )
+            ({)
+            («)
+            (NP 
+              (NNP La_tempesta_di_mare)
+            )
+            (»")
+            (})
+          )
+        )
+      )
+      (,)
+      (PP 
+        (IN em)
+        (NP 
+          (NN lá)
+          (ADJP 
+            (JJ maior)
+          )
+          (,)
+          (NP 
+            (NNP RV)
+            (ADJP 
+              (CD 353)
+            )
+          )
+        )
+      )
+      (,)
+      (PP 
+        (IN em)
+        (NP 
+          (NN mi)
+          (ADJP 
+            (JJ maior)
+          )
+          (,)
+          (NP 
+            (NNP RV)
+            (ADJP 
+              (CD 271)
+            )
+            ({)
+            («)
+            (NP 
+              (NN L'amoroso)
+            )
+            (»")
+            (})
+          )
+        )
+      )
+    )
+  )
+)

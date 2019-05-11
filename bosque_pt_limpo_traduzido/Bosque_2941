@@ -1,28 +1,49 @@
-(S (VP (PP Por_outro_lado)
-                        (,)
-                        (NP (DT a)
-                                 (_CU_ (VBN dita)
-                                        (CC e)
-                                        (VBN gabada))
-                                 (Â«)
-                                 (NN prova)
-                                 (ADJP 
-                                   (JJ desportiva))
-                                 (ADJP 
-                                   (JJ nacional))
-                                 (ADJP 
-                                   (RB mais)
-                                   (JJ popular))
-                                 (Â»)
-                                 (,)
-                                 (NP 
-                                   (DT a)
-                                   (NNP Volta_a_Portugal_em_Bicicleta))
-                                 (,))
-                        (VP (VBP parece))
-                        (VP (IN que)
-                                (ADVP 
-                                  (RB nÃ£o))
-                                (NP (PRP o))
-                                (VP (VBP Ã©)))
-                        (;)))
+(S 
+  (VP 
+    (PP Por_outro_lado)
+    (,)
+    (NP 
+      (DT a)
+      (VBN 
+        (VBN dita)
+        (CC e)
+        (VBN gabada)
+      )
+      («)
+      (NN prova)
+      (ADJP 
+        (JJ desportiva)
+      )
+      (ADJP 
+        (JJ nacional)
+      )
+      (ADJP 
+        (RB mais)
+        (JJ popular)
+      )
+      (»)
+      (,)
+      (NP 
+        (DT a)
+        (NNP Volta_a_Portugal_em_Bicicleta)
+      )
+      (,)
+    )
+    (VP 
+      (VBP parece)
+    )
+    (VP 
+      (IN que)
+      (ADVP 
+        (RB não)
+      )
+      (NP 
+        (PRP o)
+      )
+      (VP 
+        (VBP é)
+      )
+    )
+    (;)
+  )
+)

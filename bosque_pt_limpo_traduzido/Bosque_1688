@@ -1,65 +1,103 @@
-(S (VP (NP (DT Um)
-                                  (NN par)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (NN presenÃ§as)
-                                      (VBN enlutadas))))
-                        (VP (VBP fazem))
-                        (ADVP (RB aqui))
-                        (NP (DT as)
-                                (NN vezes)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN personagens)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT as)
-                                             (NN trevas))))))
-                        (,)
-                        (NP (PP 
-                                    (IN no_meio_de)
-                                    (NP 
-                                      (DT uma)
-                                      (NN vitrina)
-                                      (PP 
-                                        (IN de)
-                                        (_CU_ 
-                                          (NP 
-                                            (NN bordados)
-                                            (ADJP 
-                                              (JJ barrocos)))
-                                          (,)
-                                          (NP 
-                                            (NN azuis)
-                                            (VBN debruados))
-                                          (CC e)
-                                          (NP 
-                                            (NN rendas)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN brilho)
-                                                (ADJP 
-                                                  (JJ transparente)))))))))
-                                  (;)
-                                  (NP 
-                                    (DT os)
-                                    (NN personagens)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT as)
-                                        (NN peÃ§as)
-                                        (_CU_ 
-                                          (Â«)
-                                          (NP 
-                                            (NNP Vida_do_Glorioso_D.Quixote_de_La_Mancha_e_do_Gordo_Sancho_PanÃ§a))
-                                          (Â»)
-                                          (CC e)
-                                          (Â«)
-                                          (NP 
-                                            (NNP Guerras_do_Alecrim_e_da_Manjerona))
-                                          (Â»))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Um)
+      (NN par)
+      (PP 
+        (IN de)
+        (NP 
+          (NN presenças)
+          (VBN enlutadas)
+        )
+      )
+    )
+    (VP 
+      (VBP fazem)
+    )
+    (ADVP 
+      (RB aqui)
+    )
+    (NP 
+      (DT as)
+      (NN vezes)
+      (PP 
+        (IN de)
+        (NP 
+          (NN personagens)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT as)
+              (NN trevas)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (PP 
+        (IN no_meio_de)
+        (NP 
+          (DT uma)
+          (NN vitrina)
+          (PP 
+            (IN de)
+            (NP 
+              (NP 
+                (NN bordados)
+                (ADJP 
+                  (JJ barrocos)
+                )
+              )
+              (,)
+              (NP 
+                (NN azuis)
+                (VBN debruados)
+              )
+              (CC e)
+              (NP 
+                (NN rendas)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN brilho)
+                    (ADJP 
+                      (JJ transparente)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (;)
+      (NP 
+        (DT os)
+        (NN personagens)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT as)
+            (NN peças)
+            (UCP 
+              («)
+              (NP 
+                (NNP Vida_do_Glorioso_D.Quixote_de_La_Mancha_e_do_Gordo_Sancho_Pança)
+              )
+              (»)
+              (CC e)
+              («)
+              (NP 
+                (NNP Guerras_do_Alecrim_e_da_Manjerona)
+              )
+              (»)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

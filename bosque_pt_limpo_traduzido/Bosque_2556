@@ -1,28 +1,53 @@
-(S (VP (VP (VBP Referem-))
-                        (NP (PRP se))
-                        (PP (IN a)
-                                (_CU_ (NP 
-                                         (NN normas)
-                                         (_CU_ 
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN seguranÃ§a)))
-                                           (CC e)
-                                           (PP 
-                                             (IN de)
-                                             (_CU_ 
-                                               (NP 
-                                                 (NN saÃºde))
-                                               (CC e)
-                                               (NP 
-                                                 (NN higiene))))))
-                                       (,)
-                                       (NP 
-                                         (NN regras)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN iluminaÃ§Ã£o))))))
-                        (,)
-                        (ADVP (RB etc.))))
+(S 
+  (VP 
+    (VP 
+      (VBP Referem-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN a)
+      (NP 
+        (NP 
+          (NN normas)
+          (PP 
+            (PP 
+              (IN de)
+              (NP 
+                (NN segurança)
+              )
+            )
+            (CC e)
+            (PP 
+              (IN de)
+              (NP 
+                (NP 
+                  (NN saúde)
+                )
+                (CC e)
+                (NP 
+                  (NN higiene)
+                )
+              )
+            )
+          )
+        )
+        (,)
+        (NP 
+          (NN regras)
+          (PP 
+            (IN de)
+            (NP 
+              (NN iluminação)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (ADVP 
+      (RB etc.)
+    )
+  )
+)

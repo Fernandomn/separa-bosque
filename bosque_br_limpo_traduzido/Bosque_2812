@@ -1,38 +1,67 @@
-(S (_CU_ (VP (NP 
-                                   (DT O)
-                                   (NN paÃ­s))
-                                 (VP (VBP convive))
-                                 (PP 
-                                   (IN com)
-                                   (NP 
-                                     (DT o)
-                                     (JJ novo)
-                                     (NN indexador)))
-                                 (PP 
-                                   (IN hÃ¡)
-                                   (NP 
-                                     (CD um)
-                                     (NN mÃªs))))
-                        (,)
-                        (VP (NP 
-                                   (DT o)
-                                   (NN ministro))
-                                 (VP (VBP virou))
-                                 (NP (NN candidato)))
-                        (CC e)
-                        (VP (NP 
-                                   (DT os)
-                                   (NN preÃ§os)
-                                   (VP 
-                                     (VP 
-                                       (VBN chamados))
-                                     (PP 
-                                       (IN de)
-                                       (Â«)
-                                       (ADJP 
-                                         (JJ abusivos))
-                                       (Â»))))
-                                 (VP (VBP continuam))
-                                 (ADVP 
-                                   (RB em_vigor)))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (NN país)
+      )
+      (VP 
+        (VBP convive)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (DT o)
+          (JJ novo)
+          (NN indexador)
+        )
+      )
+      (PP 
+        (IN há)
+        (NP 
+          (CD um)
+          (NN mês)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (NP 
+        (DT o)
+        (NN ministro)
+      )
+      (VP 
+        (VBP virou)
+      )
+      (NP 
+        (NN candidato)
+      )
+    )
+    e    (VP 
+      (NP 
+        (DT os)
+        (NN preços)
+        (VP 
+          (VP 
+            (VBN chamados)
+          )
+          (PP 
+            (IN de)
+            («)
+            (ADJP 
+              (JJ abusivos)
+            )
+            (»)
+          )
+        )
+      )
+      (VP 
+        (VBP continuam)
+      )
+      (ADVP 
+        (RB em_vigor)
+      )
+    )
+    (.)
+  )
+)

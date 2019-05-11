@@ -1,79 +1,125 @@
-(S (VP (VP (VBP Trata-))
-                        (NP (PRP se))
-                        (,)
-                        (PP (IN segundo)
-                                 (NP (DT o)
-                                        (NN projectista)
-                                        (NP 
-                                          (NNP Martins_de_Oliveira))
-                                        (,)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP concebeu))
-                                          (NP 
-                                            (DT o)
-                                            (NN molde)))
-                                        (,)))
-                        (PP (IN de)
-                                (NP (DT uma)
-                                       (NN conduta)
-                                       (ADJP 
-                                         (JJ visitÃ¡vel))
-                                       (,)
-                                       (ADJP 
-                                         (JJ capaz)
-                                         (PP 
-                                           (IN de)
-                                           (VP 
-                                             (VP 
-                                               (VB reduzir))
-                                             (Â«)
-                                             (PP 
-                                               (IN a+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NN limite)
-                                                 (ADJP 
-                                                   (JJ mÃ¡ximo))))
-                                             (Â»)
-                                             (NP 
-                                               (PRP todos_os)
-                                               (NN inconvenientes)
-                                               (VP 
-                                                 (VP 
-                                                   (VBN produzidos))
-                                                 (PP 
-                                                   (IN por+)
-                                                   (NP 
-                                                     (DT as)
-                                                     (JJ permanente)
-                                                     (NN operaÃ§Ãµes)
-                                                     (PP 
-                                                       (IN de)
-                                                       (NP 
-                                                         (NN manutenÃ§Ã£o)))
-                                                     (VP 
-                                                       (VP 
-                                                         (VBN levadas))
-                                                       (PP 
-                                                         (IN a)
-                                                         (NP 
-                                                           (NN cabo)))
-                                                       (PP 
-                                                         (IN por+)
-                                                         (_CU_ 
-                                                           (NP 
-                                                             (DT a)
-                                                             (NNP CÃ¢mara_Municipal))
-                                                           (,)
-                                                           (NP 
-                                                             (NNP EDP))
-                                                           (,)
-                                                           (NP 
-                                                             (NNP Telecom))
-                                                           (CC e)
-                                                           (NP 
-                                                             (NNP TLP))))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Trata-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (,)
+    (PP 
+      (IN segundo)
+      (NP 
+        (DT o)
+        (NN projectista)
+        (NP 
+          (NNP Martins_de_Oliveira)
+        )
+        (,)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP concebeu)
+          )
+          (NP 
+            (DT o)
+            (NN molde)
+          )
+        )
+        (,)
+      )
+    )
+    (PP 
+      (IN de)
+      (NP 
+        (DT uma)
+        (NN conduta)
+        (ADJP 
+          (JJ visitável)
+        )
+        (,)
+        (ADJP 
+          (JJ capaz)
+          (PP 
+            (IN de)
+            (VP 
+              (VP 
+                (VB reduzir)
+              )
+              («)
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT o)
+                  (NN limite)
+                  (ADJP 
+                    (JJ máximo)
+                  )
+                )
+              )
+              (»)
+              (NP 
+                (PRP todos_os)
+                (NN inconvenientes)
+                (VP 
+                  (VP 
+                    (VBN produzidos)
+                  )
+                  (PP 
+                    (IN por+)
+                    (NP 
+                      (DT as)
+                      (JJ permanente)
+                      (NN operações)
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (NN manutenção)
+                        )
+                      )
+                      (VP 
+                        (VP 
+                          (VBN levadas)
+                        )
+                        (PP 
+                          (IN a)
+                          (NP 
+                            (NN cabo)
+                          )
+                        )
+                        (PP 
+                          (IN por+)
+                          (NP 
+                            (NP 
+                              (DT a)
+                              (NNP Câmara_Municipal)
+                            )
+                            (,)
+                            (NP 
+                              (NNP EDP)
+                            )
+                            (,)
+                            (NP 
+                              (NNP Telecom)
+                            )
+                            (CC e)
+                            (NP 
+                              (NNP TLP)
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

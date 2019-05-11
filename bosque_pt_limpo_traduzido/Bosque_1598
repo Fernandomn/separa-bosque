@@ -1,53 +1,88 @@
-(S (VP (PP (IN Em)
-                                 (NP (NNP Rosmalen)
-                                        ({)
-                                        (NP 
-                                          (NP 
-                                            (CD 500)
-                                            (NN mil))
-                                          (NN dÃ³lares))
-                                        (})
-                                        (,)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP Holanda)))
-                                          (CC e)
-                                          (PP 
-                                            (RB tambÃ©m)
-                                            (IN em)
-                                            (NP 
-                                              (NN relva))))
-                                        (,)))
-                        (NP (DT o)
-                                 (NN vencedor))
-                        (VP (VBP foi))
-                        (NP (DT o)
-                               (NN norte-americano)
-                               (NP (NNP Richey_Reneberg))
-                               (,)
-                               (VP 
-                                 (NP 
-                                   (PRP que))
-                                 (VP (VBP bateu))
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT a)
-                                     (NN final)))
-                                 (NP 
-                                   (DT o)
-                                   (NN francÃªs)
-                                   (NP 
-                                     (NNP StÃ©phane_Simian)))
-                                 (PP 
-                                   (IN por)
-                                   (_CU_ 
-                                     (NP 
-                                       (CD 6-4))
-                                     (,)
-                                     (ADJP 
-                                       (CD 6-0))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em)
+      (NP 
+        (NNP Rosmalen)
+        ({)
+        (NP 
+          (NP 
+            (CD 500)
+            (NN mil)
+          )
+          (NN dólares)
+        )
+        (})
+        (,)
+        (PP 
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NNP Holanda)
+            )
+          )
+          (CC e)
+          (PP 
+            (RB também)
+            (IN em)
+            (NP 
+              (NN relva)
+            )
+          )
+        )
+        (,)
+      )
+    )
+    (NP 
+      (DT o)
+      (NN vencedor)
+    )
+    (VP 
+      (VBP foi)
+    )
+    (NP 
+      (DT o)
+      (NN norte-americano)
+      (NP 
+        (NNP Richey_Reneberg)
+      )
+      (,)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP bateu)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT a)
+            (NN final)
+          )
+        )
+        (NP 
+          (DT o)
+          (NN francês)
+          (NP 
+            (NNP Stéphane_Simian)
+          )
+        )
+        (PP 
+          (IN por)
+          (UCP 
+            (NP 
+              (CD 6-4)
+            )
+            (,)
+            (ADJP 
+              (CD 6-0)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

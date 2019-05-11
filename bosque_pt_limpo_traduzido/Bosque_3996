@@ -1,46 +1,78 @@
-(S (_CU_ (VP (NP 
-                                   (NNP James_Joyce))
-                                 (VP (VBP chamou))
-                                 (NP 
-                                   (DT o)
-                                   (NN queijo))
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN defunto)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NN leite))))))
-                        (,)
-                        (CC e)
-                        (VP (NP 
-                                   (DT a)
-                                   (NN qualidade)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (DT um)
-                                       (NN queijo))))
-                                 (VP (VBP Ã©))
-                                 (NP (DT o)
-                                        (NN resultado)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN acÃ§Ã£o)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN bactÃ©rias)
-                                                (ADJP 
-                                                  (JJ vivas))))
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT um)
-                                                (NN corpo)
-                                                (ADJP 
-                                                  (JJ morto))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (NNP James_Joyce)
+      )
+      (VP 
+        (VBP chamou)
+      )
+      (NP 
+        (DT o)
+        (NN queijo)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NN defunto)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN leite)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (CC e)
+    (VP 
+      (NP 
+        (DT a)
+        (NN qualidade)
+        (PP 
+          (IN de)
+          (NP 
+            (DT um)
+            (NN queijo)
+          )
+        )
+      )
+      (VP 
+        (VBP é)
+      )
+      (NP 
+        (DT o)
+        (NN resultado)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN acção)
+            (PP 
+              (IN de)
+              (NP 
+                (NN bactérias)
+                (ADJP 
+                  (JJ vivas)
+                )
+              )
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT um)
+                (NN corpo)
+                (ADJP 
+                  (JJ morto)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

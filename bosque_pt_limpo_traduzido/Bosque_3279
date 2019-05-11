@@ -1,12 +1,27 @@
-(S (VP (NP (PRP Quem))
-                        (VP (VBP s√£o))
-                        (NP (DT os)
-                               (NN doentes))
-                        (NP (;)
-                                  (_CU_ 
-                                    (NP 
-                                      (PRP eles))
-                                    (CC ou)
-                                    (NP 
-                                      (PRP n√≥s))))
-                        (?)))
+(S 
+  (VP 
+    (NP 
+      (PRP Quem)
+    )
+    (VP 
+      (VBP s„o)
+    )
+    (NP 
+      (DT os)
+      (NN doentes)
+    )
+    (NP 
+      (;)
+      (NP 
+        (NP 
+          (PRP eles)
+        )
+        (CC ou)
+        (NP 
+          (PRP nÛs)
+        )
+      )
+    )
+    (?)
+  )
+)

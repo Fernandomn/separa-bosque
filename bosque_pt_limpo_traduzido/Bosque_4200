@@ -1,10 +1,20 @@
-(S (NP (NNP Ensemble)
-                       (,)
-                       (_CU_ (PP 
-                                    (IN de)
-                                    (NP 
-                                      (NN actores)))
-                                  (PP 
-                                    (IN para)
-                                    (NP 
-                                      (NN actores))))))
+(S 
+  (NP 
+    (NNP Ensemble)
+    (,)
+    (PP 
+      (PP 
+        (IN de)
+        (NP 
+          (NN actores)
+        )
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (NN actores)
+        )
+      )
+    )
+  )
+)

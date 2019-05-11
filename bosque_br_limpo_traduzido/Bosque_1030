@@ -1,59 +1,97 @@
-(S (VP (NP (NN PrimogÃªnito)
-                                 (PP (IN de)
-                                        (NP 
-                                          (NNP Tsunezaemon_Maeda))))
-                        (,)
-                        (NP (NNP Takayuki))
-                        (VP (VBP tinha))
-                        (NP (CD trÃªs)
-                                (NN anos))
-                        (VP (ADVP 
-                                    (RB quando))
-                                  (_CU_ 
-                                    (NP 
-                                      (DT o)
-                                      (NN pai))
-                                    (,)
-                                    (NP 
-                                      (DT a)
-                                      (NN mÃ£e))
-                                    (CC e)
-                                    (NP 
-                                      (CD seis)
-                                      (NN irmÃ£os)))
-                                  (VP (VBP chegaram))
-                                  (PP 
-                                    (IN a)
-                                    (NP 
-                                      (NNP Ituverava)
-                                      (,)
-                                      (ADJP 
-                                        (JJ procedente)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NNP Sagaken))))
-                                      (,)))
-                                  (PP 
-                                    (IN em+)
-                                    (NP 
-                                      (DT o)
-                                      (NNP JapÃ£o)))
-                                  (,)
-                                  (PP 
-                                    (IN para)
-                                    (VP 
-                                      (VP 
-                                        (VB trabalhar))
-                                      (ADVP 
-                                        (RB como)
-                                        (NP 
-                                          (NN colonos)))
-                                      (PP 
-                                        (IN em+)
-                                        (NP 
-                                          (DT a)
-                                          (NN fazenda)
-                                          (NP 
-                                            (NNP Santa_Tereza)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Primogênito)
+      (PP 
+        (IN de)
+        (NP 
+          (NNP Tsunezaemon_Maeda)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP Takayuki)
+    )
+    (VP 
+      (VBP tinha)
+    )
+    (NP 
+      (CD três)
+      (NN anos)
+    )
+    (VP 
+      (ADVP 
+        (RB quando)
+      )
+      (NP 
+        (NP 
+          (DT o)
+          (NN pai)
+        )
+        (,)
+        (NP 
+          (DT a)
+          (NN mãe)
+        )
+        e        (NP 
+          (CD seis)
+          (NN irmãos)
+        )
+      )
+      (VP 
+        (VBP chegaram)
+      )
+      (PP 
+        (IN a)
+        (NP 
+          (NNP Ituverava)
+          (,)
+          (ADJP 
+            (JJ procedente)
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Sagaken)
+              )
+            )
+          )
+          (,)
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NNP Japão)
+        )
+      )
+      (,)
+      (PP 
+        (IN para)
+        (VP 
+          (VP 
+            (VB trabalhar)
+          )
+          (ADVP 
+            (RB como)
+            (NP 
+              (NN colonos)
+            )
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN fazenda)
+              (NP 
+                (NNP Santa_Tereza)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

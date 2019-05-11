@@ -1,22 +1,43 @@
-(S (_CU_ (VP (NP (NNP Receita))
-                               (VP (VBP Recebe))
-                               (NP (NN US$)
-                                       (NP 
-                                         (CD 1,5)
-                                         (NN Milh√£o))
-                                       (PP 
-                                         (IN De)
-                                         (VBN Envolvidos))))
-                      (,)
-                      (NP (NNP EDNA_Dantas)
-                              ({)
-                              (PP 
-                                (IN De+)
-                                (NP (DT a)
-                                       (NN Sucursal)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP Rio)))))
-                              (}))))
+(S 
+  (UCP 
+    (VP 
+      (NP 
+        (NNP Receita)
+      )
+      (VP 
+        (VBP Recebe)
+      )
+      (NP 
+        (NN US$)
+        (NP 
+          (CD 1,5)
+          (NN Milh„o)
+        )
+        (PP 
+          (IN De)
+          (VBN Envolvidos)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP EDNA_Dantas)
+      ({)
+      (PP 
+        (IN De+)
+        (NP 
+          (DT a)
+          (NN Sucursal)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Rio)
+            )
+          )
+        )
+      )
+      (})
+    )
+  )
+)

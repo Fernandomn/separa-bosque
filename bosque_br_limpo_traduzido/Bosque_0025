@@ -1,31 +1,54 @@
-(S (VP (NP (NN Parte)
-                               (PP 
-                                 (IN de+)
-                                 (NP (DT os)
-                                        (NN recursos)
-                                        (PP 
-                                          (IN para)
-                                          (NP 
-                                            (DT a)
-                                            (NN formaÃ§Ã£o)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT o)
-                                                (NNP FSE))))))))
-                      (VP (VBP foi)
-                            (VBN deslocado))
-                      (PP (IN de+)
-                              (NP (DT o)
-                                     (NN orÃ§amento)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (_CU_ 
-                                           (NP 
-                                             (NN saÃºde))
-                                           (CC e)
-                                           (NP 
-                                             (NN educaÃ§Ã£o)))))))
-                      (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Parte)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN recursos)
+          (PP 
+            (IN para)
+            (NP 
+              (DT a)
+              (NN formação)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NNP FSE)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP foi)
+      (VBN deslocado)
+    )
+    (PP 
+      (IN de+)
+      (NP 
+        (DT o)
+        (NN orçamento)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NP 
+              (NP 
+                (NN saúde)
+              )
+              e              (NP 
+                (NN educação)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

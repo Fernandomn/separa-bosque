@@ -1,35 +1,59 @@
-(S (VP (NP (PRP Este)
-                                 (NN ano))
-                        (VP (VBP vai)
-                              (VB ser)
-                              (VBN aberto))
-                        (NP (DT um)
-                                 (NN concurso)
-                                 (PP (IN para)
-                                        (NP 
-                                          (NN projectos)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN investigaÃ§Ã£o)
-                                              (PP 
-                                                (IN sobre)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN desigualdade)
-                                                  (PP 
-                                                    (IN entre)
-                                                    (_CU_ 
-                                                      (NP 
-                                                        (NN homens))
-                                                      (CC e)
-                                                      (NP 
-                                                        (NN mulheres))))
-                                                  (PP 
-                                                    (IN em+)
-                                                    (NP 
-                                                      (DT a)
-                                                      (NN sociedade)
-                                                      (ADJP 
-                                                        (JJ portuguesa)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Este)
+      (NN ano)
+    )
+    (VP 
+      (VBP vai)
+      (VB ser)
+      (VBN aberto)
+    )
+    (NP 
+      (DT um)
+      (NN concurso)
+      (PP 
+        (IN para)
+        (NP 
+          (NN projectos)
+          (PP 
+            (IN de)
+            (NP 
+              (NN investigação)
+              (PP 
+                (IN sobre)
+                (NP 
+                  (DT a)
+                  (NN desigualdade)
+                  (PP 
+                    (IN entre)
+                    (NP 
+                      (NP 
+                        (NN homens)
+                      )
+                      (CC e)
+                      (NP 
+                        (NN mulheres)
+                      )
+                    )
+                  )
+                  (PP 
+                    (IN em+)
+                    (NP 
+                      (DT a)
+                      (NN sociedade)
+                      (ADJP 
+                        (JJ portuguesa)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

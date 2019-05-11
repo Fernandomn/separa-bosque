@@ -1,50 +1,85 @@
-(S (VP (NP (DT Um)
-                                 (NN industrial)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP Porto)))
-                                 (,)
-                                 (NP 
-                                   (NNP Manuel_Magalh√£es)
-                                   (,)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (CD 48)
-                                       (NN anos))))
-                                 (,))
-                        (VP (VBP abate))
-                        (PP (IN a)
-                                 (NP (NN tiro)))
-                        (NP (CD dois)
-                                (NN s√≥cios))
-                        (,)
-                        (_CU_ (NP 
-                                   (CD quatro)
-                                   (NN disparos)
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (PRP um))))
-                                 (,)
-                                 (ADJP 
-                                   (CD seis)
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (PRP outro)))))
-                        (,)
-                        (PP (IN por)
-                                 (VP 
-                                   (VP 
-                                     (VB terem)
-                                     (VBN passado))
-                                   (NP 
-                                     (NN cheques)
-                                     (PP 
-                                       (IN em)
-                                       (NP 
-                                         (PRP seu)
-                                         (NN nome))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Um)
+      (NN industrial)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NNP Porto)
+        )
+      )
+      (,)
+      (NP 
+        (NNP Manuel_Magalh„es)
+        (,)
+        (PP 
+          (IN de)
+          (NP 
+            (CD 48)
+            (NN anos)
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP abate)
+    )
+    (PP 
+      (IN a)
+      (NP 
+        (NN tiro)
+      )
+    )
+    (NP 
+      (CD dois)
+      (NN sÛcios)
+    )
+    (,)
+    (UCP 
+      (NP 
+        (CD quatro)
+        (NN disparos)
+        (PP 
+          (IN em+)
+          (NP 
+            (PRP um)
+          )
+        )
+      )
+      (,)
+      (ADJP 
+        (CD seis)
+        (PP 
+          (IN em+)
+          (NP 
+            (PRP outro)
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN por)
+      (VP 
+        (VP 
+          (VB terem)
+          (VBN passado)
+        )
+        (NP 
+          (NN cheques)
+          (PP 
+            (IN em)
+            (NP 
+              (PRP seu)
+              (NN nome)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

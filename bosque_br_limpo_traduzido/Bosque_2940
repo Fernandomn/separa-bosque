@@ -1,14 +1,29 @@
-(S (VP (ADVP (RB TambÃ©m))
-                        (VP (VBP sÃ£o))
-                        (NP (NN obras)
-                               (NP (PRP suas)))
-                        (_CU_ (Â«)
-                                 (NP 
-                                   (NNP Labyrinthe_de_la_LumiÃ¨re))
-                                 (Â»)
-                                 (CC e)
-                                 (Â«)
-                                 (NP 
-                                   (NNP Turbulences_d'Abysses))
-                                 (Â»))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Também)
+    )
+    (VP 
+      (VBP são)
+    )
+    (NP 
+      (NN obras)
+      (NP 
+        (PRP suas)
+      )
+    )
+    (UCP 
+      («)
+      (NP 
+        (NNP Labyrinthe_de_la_Lumière)
+      )
+      (»)
+      e      («)
+      (NP 
+        (NNP Turbulences_d'Abysses)
+      )
+      (»)
+    )
+    (.)
+  )
+)

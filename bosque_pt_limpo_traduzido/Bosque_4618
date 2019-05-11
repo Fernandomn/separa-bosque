@@ -1,71 +1,116 @@
-(S (_CU_ (VP (VP (VBP Fotografa))
-                                 (NP 
-                                   (DT um)
-                                   (NN lado)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       (NN condiÃ§Ã£o)
-                                       (ADJP 
-                                         (JJ humana))))))
-                        (,)
-                        (CC mas)
-                        (VP (VP (VBP faz-))
-                                 (NP 
-                                   (PRP lo))
-                                 (_CU_ 
-                                   (PP 
-                                     (IN sem)
-                                     (NP 
-                                       (NN pragmatismo)))
-                                   (,)
-                                   (PP 
-                                     (IN sem)
-                                     (NP 
-                                       (NN intuito)
-                                       (ADJP 
-                                         (JJ propagandÃ­stico))))
-                                   (,)
-                                   (PP 
-                                     (IN sem)
-                                     (NP 
-                                       (PRP outra)
-                                       (NN intenÃ§Ã£o)
-                                       (VP 
-                                         (NP 
-                                           (PRP que))
-                                         (ADVP 
-                                           (RB nÃ£o))
-                                         (VP 
-                                           (VBP seja))
-                                         (VP 
-                                           (VP 
-                                             (VB mostrar-))
-                                           (NP 
-                                             (PRP nos))
-                                           (_CU_ 
-                                             (VP 
-                                               (NP 
-                                                 (PRP o_que))
-                                               (NP 
-                                                 (PRP ele))
-                                               (VP 
-                                                 (VBP vÃª)))
-                                             (,)
-                                             (VP 
-                                               (ADVP 
-                                                 (RB como))
-                                               (NP 
-                                                 (PRP ele))
-                                               (VP 
-                                                 (VBP vÃª)))
-                                             (,)
-                                             (VP 
-                                               (NP 
-                                                 (PRP o_que))
-                                               (NP 
-                                                 (PRP ele))
-                                               (VP 
-                                                 (VBP prefere))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP Fotografa)
+      )
+      (NP 
+        (DT um)
+        (NN lado)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN condição)
+            (ADJP 
+              (JJ humana)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (CC mas)
+    (VP 
+      (VP 
+        (VBP faz-)
+      )
+      (NP 
+        (PRP lo)
+      )
+      (PP 
+        (PP 
+          (IN sem)
+          (NP 
+            (NN pragmatismo)
+          )
+        )
+        (,)
+        (PP 
+          (IN sem)
+          (NP 
+            (NN intuito)
+            (ADJP 
+              (JJ propagandístico)
+            )
+          )
+        )
+        (,)
+        (PP 
+          (IN sem)
+          (NP 
+            (PRP outra)
+            (NN intenção)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (ADVP 
+                (RB não)
+              )
+              (VP 
+                (VBP seja)
+              )
+              (VP 
+                (VP 
+                  (VB mostrar-)
+                )
+                (NP 
+                  (PRP nos)
+                )
+                (VP 
+                  (VP 
+                    (NP 
+                      (PRP o_que)
+                    )
+                    (NP 
+                      (PRP ele)
+                    )
+                    (VP 
+                      (VBP vê)
+                    )
+                  )
+                  (,)
+                  (VP 
+                    (ADVP 
+                      (RB como)
+                    )
+                    (NP 
+                      (PRP ele)
+                    )
+                    (VP 
+                      (VBP vê)
+                    )
+                  )
+                  (,)
+                  (VP 
+                    (NP 
+                      (PRP o_que)
+                    )
+                    (NP 
+                      (PRP ele)
+                    )
+                    (VP 
+                      (VBP prefere)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

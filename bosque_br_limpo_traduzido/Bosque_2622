@@ -1,46 +1,79 @@
-(S (VP (VP (ADVP 
-                                    (RB Quando))
-                                  (NP 
-                                    (DT o)
-                                    (NN secretÃ¡rio)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT a)
-                                        (NN Receita))
-                                      (VP 
-                                        (VBP era))
-                                      (NP 
-                                        (NNP Osires_Lopes_Filho)))))
-                        (,)
-                        (NP (PRP vÃ¡rias)
-                                 (NN cartas))
-                        (VP (VBP foram)
-                              (VBN expedidas))
-                        (PP (IN a)
-                                (_CU_ (NP 
-                                         (NN profissionais)
-                                         (ADJP 
-                                           (JJ liberais)))
-                                       (CC e)
-                                       (NP 
-                                         (NN empresas))))
-                        (VP (Â«)
-                                  (VP (VBG convidando-))
-                                  (NP 
-                                    (PRP os))
-                                  (Â»)
-                                  (PP 
-                                    (IN a)
-                                    (VP 
-                                      (VP 
-                                        (VB acertar))
-                                      (NP 
-                                        (DT as)
-                                        (NN contas))
-                                      (PP 
-                                        (IN com)
-                                        (NP 
-                                          (DT o)
-                                          (NN leÃ£o))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (ADVP 
+        (RB Quando)
+      )
+      (NP 
+        (DT o)
+        (NN secretário)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN Receita)
+          )
+          (VP 
+            (VBP era)
+          )
+          (NP 
+            (NNP Osires_Lopes_Filho)
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (PRP várias)
+      (NN cartas)
+    )
+    (VP 
+      (VBP foram)
+      (VBN expedidas)
+    )
+    (PP 
+      (IN a)
+      (NP 
+        (NP 
+          (NN profissionais)
+          (ADJP 
+            (JJ liberais)
+          )
+        )
+        e        (NP 
+          (NN empresas)
+        )
+      )
+    )
+    (VP 
+      («)
+      (VP 
+        (VBG convidando-)
+      )
+      (NP 
+        (PRP os)
+      )
+      (»)
+      (PP 
+        (IN a)
+        (VP 
+          (VP 
+            (VB acertar)
+          )
+          (NP 
+            (DT as)
+            (NN contas)
+          )
+          (PP 
+            (IN com)
+            (NP 
+              (DT o)
+              (NN leão)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

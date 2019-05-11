@@ -1,86 +1,132 @@
-(S (VP (PP (IN Segundo)
-                                 (NP (NNP JoÃ£o_Bernardo_Rodrigues)))
-                        (VP (VBP foram)
-                              (VBN aprovados))
-                        (NP (CD 60)
-                                 (NN projectos)
-                                 (,)
-                                 (Â«)
-                                 (VP 
-                                   (NP 
-                                     (PRP cujo)
-                                     (NN valor)
-                                     (ADJP 
-                                       (JJ total))
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN investimento))))
-                                   (VP 
-                                     (VBP Ã©))
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       (NN ordem)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT os)
-                                           (CD nove)
-                                           (NN milhÃµes)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN contos)))
-                                           (Â»)
-                                           (,)
-                                           (_CU_ 
-                                             (VP 
-                                               (VP 
-                                                 (VBN distribuidos))
-                                               (,)
-                                               (NP 
-                                                 (NP 
-                                                   (PP 
-                                                     (IN entre)
-                                                     (NP 
-                                                       (PRP outros)))))
-                                               (,)
-                                               (PP 
-                                                 (IN por+)
-                                                 (NP 
-                                                   (_CU_ 
-                                                     (NP 
-                                                       (DT a)
-                                                       (NN agro-pecuÃ¡ria))
-                                                     (,)
-                                                     (NP 
-                                                       (NN construÃ§Ã£o)
-                                                       (ADJP 
-                                                         (JJ civil)))
-                                                     (,)
-                                                     (NP 
-                                                       (NN basaltos))
-                                                     (,)
-                                                     (NP 
-                                                       (NN cimentos))))))
-                                             (CC e)
-                                             (PP 
-                                               (IN para)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN realiazaÃ§Ã£o)
-                                                 (PP 
-                                                   (IN de)
-                                                   (NP 
-                                                     (DT uma)
-                                                     (JJ nova)
-                                                     (NN unidade)
-                                                     (ADJP 
-                                                       (JJ fabril))
-                                                     (PP 
-                                                       (IN de)
-                                                       (NP 
-                                                         (NN cerveja))))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Segundo)
+      (NP 
+        (NNP João_Bernardo_Rodrigues)
+      )
+    )
+    (VP 
+      (VBP foram)
+      (VBN aprovados)
+    )
+    (NP 
+      (CD 60)
+      (NN projectos)
+      (,)
+      («)
+      (VP 
+        (NP 
+          (PRP cujo)
+          (NN valor)
+          (ADJP 
+            (JJ total)
+          )
+          (PP 
+            (IN de)
+            (NP 
+              (NN investimento)
+            )
+          )
+        )
+        (VP 
+          (VBP é)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN ordem)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT os)
+                (CD nove)
+                (NN milhões)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN contos)
+                  )
+                )
+                (»)
+                (,)
+                (UCP 
+                  (VP 
+                    (VP 
+                      (VBN distribuidos)
+                    )
+                    (,)
+                    (NP 
+                      (NP 
+                        (PP 
+                          (IN entre)
+                          (NP 
+                            (PRP outros)
+                          )
+                        )
+                      )
+                    )
+                    (,)
+                    (PP 
+                      (IN por+)
+                      (NP 
+                        (NP 
+                          (NP 
+                            (DT a)
+                            (NN agro-pecuária)
+                          )
+                          (,)
+                          (NP 
+                            (NN construção)
+                            (ADJP 
+                              (JJ civil)
+                            )
+                          )
+                          (,)
+                          (NP 
+                            (NN basaltos)
+                          )
+                          (,)
+                          (NP 
+                            (NN cimentos)
+                          )
+                        )
+                      )
+                    )
+                  )
+                  (CC e)
+                  (PP 
+                    (IN para)
+                    (NP 
+                      (DT a)
+                      (NN realiazação)
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (DT uma)
+                          (JJ nova)
+                          (NN unidade)
+                          (ADJP 
+                            (JJ fabril)
+                          )
+                          (PP 
+                            (IN de)
+                            (NP 
+                              (NN cerveja)
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

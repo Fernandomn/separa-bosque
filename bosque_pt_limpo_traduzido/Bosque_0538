@@ -1,21 +1,44 @@
-(S (VP (NP (_CU_ (NP 
-                                         (DT Os)
-                                         (NN armazÃ©ns))
-                                       (CC e)
-                                       (NP 
-                                         (DT uma)
-                                         (NN habitaÃ§Ã£o)))
-                                 (ADJP 
-                                   (JJ contÃ­guas)
-                                   (PP 
-                                     (IN a+)
-                                     (NP 
-                                       (DT a)
-                                       (NN empresa)))))
-                        (VP (VBP foram))
-                        (ADVP (RB tambÃ©m))
-                        (VP (VBN danificados))
-                        (PP (IN por+)
-                                 (NP (DT o)
-                                        (NN sinistro)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (NP 
+          (DT Os)
+          (NN armazéns)
+        )
+        (CC e)
+        (NP 
+          (DT uma)
+          (NN habitação)
+        )
+      )
+      (ADJP 
+        (JJ contíguas)
+        (PP 
+          (IN a+)
+          (NP 
+            (DT a)
+            (NN empresa)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP foram)
+    )
+    (ADVP 
+      (RB também)
+    )
+    (VP 
+      (VBN danificados)
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT o)
+        (NN sinistro)
+      )
+    )
+    (.)
+  )
+)

@@ -1,51 +1,85 @@
-(S (VP (CC Mas)
-                        (ADVP (RB depois)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       (JJ nova)
-                                       (NN ofensiva)
-                                       (ADJP 
-                                         (JJ azerbaijana))
-                                       (,)
-                                       (PP 
-                                         (IN com)
-                                         (NP 
-                                           (NN centenas)
-                                           (PP 
-                                             (IN de)
-                                             (_CU_ 
-                                               (NP 
-                                                 (NN tanques))
-                                               (,)
-                                               (NP 
-                                                 (NN helic√≥pteros))
-                                               (CC e)
-                                               (NP 
-                                                 (NN avi√µes)
-                                                 (PP 
-                                                   (IN de)
-                                                   (NP 
-                                                     (NN ataque))))))))
-                                       (,))))
-                        (NP (DT os)
-                                 (NN dirigentes)
-                                 (ADJP 
-                                   (JJ arm√©nios))
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN enclave))))
-                        (VP (VBP disseram))
-                        (VP (IN que)
-                                 (ADVP 
-                                   (RB n√£o))
-                                 (VP (VBP conseguiam))
-                                 (VP 
-                                   (VP 
-                                     (VB sair))
-                                   (PP 
-                                     (IN de)
-                                     (RB l√°))))
-                        (.)))
+(S 
+  (VP 
+    (CC Mas)
+    (ADVP 
+      (RB depois)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (JJ nova)
+          (NN ofensiva)
+          (ADJP 
+            (JJ azerbaijana)
+          )
+          (,)
+          (PP 
+            (IN com)
+            (NP 
+              (NN centenas)
+              (PP 
+                (IN de)
+                (NP 
+                  (NP 
+                    (NN tanques)
+                  )
+                  (,)
+                  (NP 
+                    (NN helicÛpteros)
+                  )
+                  (CC e)
+                  (NP 
+                    (NN aviıes)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NN ataque)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (,)
+        )
+      )
+    )
+    (NP 
+      (DT os)
+      (NN dirigentes)
+      (ADJP 
+        (JJ armÈnios)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN enclave)
+        )
+      )
+    )
+    (VP 
+      (VBP disseram)
+    )
+    (VP 
+      (IN que)
+      (ADVP 
+        (RB n„o)
+      )
+      (VP 
+        (VBP conseguiam)
+      )
+      (VP 
+        (VP 
+          (VB sair)
+        )
+        (PP 
+          (IN de)
+          (RB l·)
+        )
+      )
+    )
+    (.)
+  )
+)

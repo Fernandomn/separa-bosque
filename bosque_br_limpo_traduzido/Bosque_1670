@@ -1,41 +1,74 @@
-(S (VP (PP (IN Por)
-                                 (NP (PRP isso)))
-                        (,)
-                        (VP 
-                          (VP (VBG estando))
-                          (NP (DT o)
-                                   (Â«)
-                                   (NN demos)
-                                   (Â»))
-                          (_CU_ (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT a)
-                                       (NN recepÃ§Ã£o)))
-                                   (CC e)
-                                   (PP 
-                                     (RB nÃ£o)
-                                     (IN em+)
-                                     (NP 
-                                       (DT a)
-                                       (NN produÃ§Ã£o)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NN discurso)
-                                           (ADJP 
-                                             (JJ polÃ­tico))))))))
-                        (,)
-                        (VP (VBP Ã©))
-                        (ADJP (JJ melhor))
-                        (VP (VP (VB dizer))
-                                  (NP 
-                                    (NN regime)
-                                    (ADJP 
-                                      (JJ demÃ³tico)
-                                      (ADVP 
-                                        (IN que)
-                                        (ADJP 
-                                          (JJ democrÃ¡tico))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Por)
+      (NP 
+        (PRP isso)
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG estando)
+      )
+      (NP 
+        (DT o)
+        («)
+        (NN demos)
+        (»)
+      )
+      (PP 
+        (PP 
+          (IN em+)
+          (NP 
+            (DT a)
+            (NN recepção)
+          )
+        )
+        e        (PP 
+          (RB não)
+          (IN em+)
+          (NP 
+            (DT a)
+            (NN produção)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN discurso)
+                (ADJP 
+                  (JJ político)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP é)
+    )
+    (ADJP 
+      (JJ melhor)
+    )
+    (VP 
+      (VP 
+        (VB dizer)
+      )
+      (NP 
+        (NN regime)
+        (ADJP 
+          (JJ demótico)
+          (ADVP 
+            (IN que)
+            (ADJP 
+              (JJ democrático)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

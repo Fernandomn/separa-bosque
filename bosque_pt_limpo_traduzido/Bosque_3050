@@ -1,42 +1,76 @@
-(S (VP (Â«)
-                        (VP (ADVP 
-                                    (RB Quando))
-                                  (VP (VBP vim))
-                                  (PP 
-                                    (IN para)
-                                    (NP 
-                                      (DT o)
-                                      (NNP Sporting))))
-                        (ADVP (RB nem))
-                        (VP (VBP havia))
-                        (ADVP (RB praticamente))
-                        (NP (NN equipa)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN pista))))
-                        (VBN formada)
-                        (,)
-                        (_CU_ (VP 
-                                   (VP 
-                                     (VBP houve))
-                                   (NP 
-                                     (DT uma)
-                                     (NN reduÃ§Ã£o)
-                                     (ADJP 
-                                       (JJ drÃ¡stica))
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN orÃ§amento)))))
-                                 (CC e)
-                                 (VP 
-                                   (VP 
-                                     (VBP estava))
-                                   (NP 
-                                     (RB quase)
-                                     (PRP tudo))
-                                   (PP 
-                                     (IN por)
-                                     (VB reconstruir))))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (VP 
+      (ADVP 
+        (RB Quando)
+      )
+      (VP 
+        (VBP vim)
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (DT o)
+          (NNP Sporting)
+        )
+      )
+    )
+    (ADVP 
+      (RB nem)
+    )
+    (VP 
+      (VBP havia)
+    )
+    (ADVP 
+      (RB praticamente)
+    )
+    (NP 
+      (NN equipa)
+      (PP 
+        (IN de)
+        (NP 
+          (NN pista)
+        )
+      )
+    )
+    (VBN formada)
+    (,)
+    (VP 
+      (VP 
+        (VP 
+          (VBP houve)
+        )
+        (NP 
+          (DT uma)
+          (NN redução)
+          (ADJP 
+            (JJ drástica)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN orçamento)
+            )
+          )
+        )
+      )
+      (CC e)
+      (VP 
+        (VP 
+          (VBP estava)
+        )
+        (NP 
+          (RB quase)
+          (PRP tudo)
+        )
+        (PP 
+          (IN por)
+          (VB reconstruir)
+        )
+      )
+    )
+    (.)
+  )
+)

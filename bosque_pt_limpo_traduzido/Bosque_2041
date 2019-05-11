@@ -1,48 +1,78 @@
-(S (VP (NP (DT A)
-                                 (NN pena))
-                        (VP (VBP foi)
-                              (VBN suspensa))
-                        (PP (IN por)
-                                 (NP (CD 28)
-                                        (NN meses)))
-                        (,)
-                        (_CU_ (VP 
-                                   (VP 
-                                     (VBG atendendo))
-                                   (PP 
-                                     (IN a+)
-                                     (NP 
-                                       (DT a)
-                                       (NN conduta)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (VBN arguido)
-                                           (PP 
-                                             (RB anteriormente)
-                                             (IN a+)
-                                             (NP 
-                                               (DT os)
-                                               (NN factos))))))))
-                                 (CC e)
-                                 (PP 
-                                   (IN por)
-                                   (VP 
-                                     (VP 
-                                       (VB ter)
-                                       (VBN demonstrado))
-                                     (Â«)
-                                     (NP 
-                                       (PRP algum)
-                                       (NN arrependimento)
-                                       (PP 
-                                         (IN por)
-                                         (VP 
-                                           (NP 
-                                             (PRP os))
-                                           (VP 
-                                             (VB haver)
-                                             (VBN praticado)))))
-                                     (Â»))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN pena)
+    )
+    (VP 
+      (VBP foi)
+      (VBN suspensa)
+    )
+    (PP 
+      (IN por)
+      (NP 
+        (CD 28)
+        (NN meses)
+      )
+    )
+    (,)
+    (UCP 
+      (VP 
+        (VP 
+          (VBG atendendo)
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (DT a)
+            (NN conduta)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (VBN arguido)
+                (PP 
+                  (RB anteriormente)
+                  (IN a+)
+                  (NP 
+                    (DT os)
+                    (NN factos)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (CC e)
+      (PP 
+        (IN por)
+        (VP 
+          (VP 
+            (VB ter)
+            (VBN demonstrado)
+          )
+          («)
+          (NP 
+            (PRP algum)
+            (NN arrependimento)
+            (PP 
+              (IN por)
+              (VP 
+                (NP 
+                  (PRP os)
+                )
+                (VP 
+                  (VB haver)
+                  (VBN praticado)
+                )
+              )
+            )
+          )
+          (»)
+        )
+      )
+    )
+    (.)
+  )
+)

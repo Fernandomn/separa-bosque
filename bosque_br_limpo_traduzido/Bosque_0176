@@ -1,53 +1,88 @@
-(S (VP (VP (NP 
-                                  (NN Pa√≠ses)
-                                  (_CU_ 
-                                    (ADJP 
-                                      (JJ produtores))
-                                    (CC e)
-                                    (ADJP 
-                                      (JJ consumidores)))
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (NN caf√©))))
-                                (VP (VBP entraram))
-                                (PP (IN em)
-                                       (NP 
-                                         (DT um)
-                                         (NN tipo)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NP pr√©-pacto)
-                                             (ADJP 
-                                               (JJ internacional))
-                                             (VP 
-                                               (NP 
-                                                 (PRP que))
-                                               (ADVP 
-                                                 (RB n√£o))
-                                               (VP 
-                                                 (VBP intervenha))
-                                               (PP 
-                                                 (IN em+)
-                                                 (NP 
-                                                   (DT os)
-                                                   (NN pre√ßos)
-                                                   (PP 
-                                                     (IN de+)
-                                                     (NP 
-                                                       (DT o)
-                                                       (NN produto)))))))))))
-                       (,)
-                       (VP (VBP afirmou))
-                       (NP (DT o)
-                                (NN porta-voz)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NNP Organiza√ß√£o_Internacional_do_Caf√©)
-                                         ({)
-                                         (NP 
-                                           (NNP OIC))
-                                         (}))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (NN PaÌses)
+        (ADJP 
+          (ADJP 
+            (JJ produtores)
+          )
+          e          (ADJP 
+            (JJ consumidores)
+          )
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (NN cafÈ)
+          )
+        )
+      )
+      (VP 
+        (VBP entraram)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (DT um)
+          (NN tipo)
+          (PP 
+            (IN de)
+            (NP 
+              (NP prÈ-pacto)
+              (ADJP 
+                (JJ internacional)
+              )
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (ADVP 
+                  (RB n„o)
+                )
+                (VP 
+                  (VBP intervenha)
+                )
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT os)
+                    (NN preÁos)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT o)
+                        (NN produto)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP afirmou)
+    )
+    (NP 
+      (DT o)
+      (NN porta-voz)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP OrganizaÁ„o_Internacional_do_CafÈ)
+          ({)
+          (NP 
+            (NNP OIC)
+          )
+          (})
+        )
+      )
+    )
+    (.)
+  )
+)

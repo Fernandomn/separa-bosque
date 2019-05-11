@@ -1,36 +1,67 @@
-(S (VP (NP (DT O)
-                                 (JJ incr√©dulo)
-                                 (NN automobilista))
-                        (,)
-                        (PP (IN por)
-                                 (VP 
-                                   (ADVP 
-                                     (RB n√£o))
-                                   (VP 
-                                     (VB ter))
-                                   (NP 
-                                     (NN interlocutor))))
-                        (,)
-                        (VP (VBP achou))
-                        (PP (IN por)
-                                 (RB bem))
-                        (_CU_ (VP 
-                                  (VP (VB chamar))
-                                  (NP 
-                                    (DT a)
-                                    (NN pol√≠cia)))
-                                (CC e)
-                                (VP 
-                                  (VP (VB relatar-))
-                                  (NP 
-                                    (PRP lhe))
-                                  (VP 
-                                    (ADVP 
-                                      (RB como))
-                                    (NP 
-                                      (PRP tudo))
-                                    (NP 
-                                      (PRP se))
-                                    (VP 
-                                      (VBP passou)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (JJ incrÈdulo)
+      (NN automobilista)
+    )
+    (,)
+    (PP 
+      (IN por)
+      (VP 
+        (ADVP 
+          (RB n„o)
+        )
+        (VP 
+          (VB ter)
+        )
+        (NP 
+          (NN interlocutor)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP achou)
+    )
+    (PP 
+      (IN por)
+      (RB bem)
+    )
+    (VP 
+      (VP 
+        (VP 
+          (VB chamar)
+        )
+        (NP 
+          (DT a)
+          (NN polÌcia)
+        )
+      )
+      (CC e)
+      (VP 
+        (VP 
+          (VB relatar-)
+        )
+        (NP 
+          (PRP lhe)
+        )
+        (VP 
+          (ADVP 
+            (RB como)
+          )
+          (NP 
+            (PRP tudo)
+          )
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VBP passou)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

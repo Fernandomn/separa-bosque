@@ -1,29 +1,54 @@
-(S (_CU_ (VP (VP (VBP Iam))
-                                (PP (IN a+)
-                                       (NP 
-                                         (DT os)
-                                         (NN bailes)))
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (DT o)
-                                    (NNP AutomÃ³vel_Clube))))
-                       (CC e)
-                       (VP (VP (VBP reparavam))
-                                (PP (IN em+)
-                                        (NP 
-                                          (DT as)
-                                          (PRP poucas)
-                                          (NN donzelas)
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (VP 
-                                              (VBP ousavam))
-                                            (VP 
-                                              (VP 
-                                                (VB frequentar))
-                                              (NP 
-                                                (DT os)
-                                                (NN cafÃ©s)))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP Iam)
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT os)
+          (NN bailes)
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NNP Automóvel_Clube)
+        )
+      )
+    )
+    e    (VP 
+      (VP 
+        (VBP reparavam)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT as)
+          (PRP poucas)
+          (NN donzelas)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP ousavam)
+            )
+            (VP 
+              (VP 
+                (VB frequentar)
+              )
+              (NP 
+                (DT os)
+                (NN cafés)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

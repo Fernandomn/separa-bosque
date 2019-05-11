@@ -1,42 +1,66 @@
-(S (VP (--)
-                        (NP (Â«)
-                                 (NNP The_Edge)
-                                 (Â»)
-                                 (,)
-                                 (_CU_ 
-                                   (VP 
-                                     (VP 
-                                       (VBN realizado))
-                                     (PP 
-                                       (IN por)
-                                       (NP 
-                                         (DT um)
-                                         (NN neozelandÃªs)))
-                                     (PP 
-                                       (IN em)
-                                       (NP 
-                                         (NNP Hollywood)))
-                                     (NP 
-                                       (NP 
-                                         (,)
-                                         (NP 
-                                           (NNP Lee_Tamahori))
-                                         (,))))
-                                   (CC e)
-                                   (VP 
-                                     (VP 
-                                       (VBN baseado))
-                                     (PP 
-                                       (IN em+)
-                                       (NP 
-                                         (DT uma)
-                                         (NN peÃ§a)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NNP David_Mamet))))))))
-                        (,)
-                        (VP (VBP acabou)
-                              (IN de)
-                              (VB estrear))
-                        (.)))
+(S 
+  (VP 
+    (--)
+    (NP 
+      («)
+      (NNP The_Edge)
+      (»)
+      (,)
+      (VP 
+        (VP 
+          (VP 
+            (VBN realizado)
+          )
+          (PP 
+            (IN por)
+            (NP 
+              (DT um)
+              (NN neozelandês)
+            )
+          )
+          (PP 
+            (IN em)
+            (NP 
+              (NNP Hollywood)
+            )
+          )
+          (NP 
+            (NP 
+              (,)
+              (NP 
+                (NNP Lee_Tamahori)
+              )
+              (,)
+            )
+          )
+        )
+        (CC e)
+        (VP 
+          (VP 
+            (VBN baseado)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT uma)
+              (NN peça)
+              (PP 
+                (IN de)
+                (NP 
+                  (NNP David_Mamet)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP acabou)
+      (IN de)
+      (VB estrear)
+    )
+    (.)
+  )
+)

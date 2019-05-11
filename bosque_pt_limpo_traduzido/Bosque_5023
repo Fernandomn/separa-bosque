@@ -1,45 +1,77 @@
-(S (VP (NP (DT O)
-                                 (Â«)
-                                 (NN caso)
-                                 (NP (NNP Quilengues))
-                                 (Â»)
-                                 (,)
-                                 (VP 
-                                   (PP 
-                                     (IN em)
-                                     (NP 
-                                       (PRP que)))
-                                   (VP 
-                                     (VBP morreram))
-                                   (_CU_ 
-                                     (NP 
-                                       (CD trÃªs)
-                                       (NN turistas)
-                                       (ADJP 
-                                         (JJ britÃ¢nicos)))
-                                     (CC e)
-                                     (NP 
-                                       (DT um)
-                                       (NN neo-zelandÃªs)))))
-                        (,)
-                        (VP (VBP foi))
-                        (ADJP (CD um)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN assuntos)
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (NN discussÃ£o))))))
-                        (,)
-                        (VP (VP (VBN dada))
-                                  (NP 
-                                    (DT a)
-                                    (NN contradiÃ§Ã£o)
-                                    (PP 
-                                      (IN entre)
-                                      (NP 
-                                        (DT as)
-                                        (NN partes)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      («)
+      (NN caso)
+      (NP 
+        (NNP Quilengues)
+      )
+      (»)
+      (,)
+      (VP 
+        (PP 
+          (IN em)
+          (NP 
+            (PRP que)
+          )
+        )
+        (VP 
+          (VBP morreram)
+        )
+        (NP 
+          (NP 
+            (CD três)
+            (NN turistas)
+            (ADJP 
+              (JJ britânicos)
+            )
+          )
+          (CC e)
+          (NP 
+            (DT um)
+            (NN neo-zelandês)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP foi)
+    )
+    (ADJP 
+      (CD um)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN assuntos)
+          (PP 
+            (IN em)
+            (NP 
+              (NN discussão)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBN dada)
+      )
+      (NP 
+        (DT a)
+        (NN contradição)
+        (PP 
+          (IN entre)
+          (NP 
+            (DT as)
+            (NN partes)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

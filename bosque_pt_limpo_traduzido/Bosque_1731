@@ -1,48 +1,82 @@
-(S (VP (NP (PRP VÃ¡rias)
-                                 (NN vezes))
-                        (,)
-                        (PP (IN em+)
-                                 (NP (DT os)
-                                        (JJ Ãºltimos)
-                                        (CD dois)
-                                        (NN meses)))
-                        (,)
-                        (_CU_ (NP 
-                                   (NN afegÃ£os))
-                                 (CC e)
-                                 (NP 
-                                   (NN iranianos)))
-                        (VP (VBP trocaram))
-                        (NP (NN acusaÃ§Ãµes)
-                                (PP (IN sobre)
-                                       (NP 
-                                         (NN violaÃ§Ãµes)
-                                         (_CU_ 
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT o)
-                                               (NN territÃ³rio)))
-                                           (CC ou)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT o)
-                                               (NN espaÃ§o)
-                                               (ADJP 
-                                                 (JJ aÃ©reo)))))))
-                                (,)
-                                (NP 
-                                  (NN alegaÃ§Ãµes)
-                                  (VP 
-                                    (ADVP 
-                                      (RB nunca))
-                                    (VP 
-                                      (VBN confirmadas))
-                                    (PP 
-                                      (IN por)
-                                      (NP 
-                                        (NN fontes)
-                                        (ADJP 
-                                          (JJ independentes)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Várias)
+      (NN vezes)
+    )
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT os)
+        (JJ últimos)
+        (CD dois)
+        (NN meses)
+      )
+    )
+    (,)
+    (NP 
+      (NP 
+        (NN afegãos)
+      )
+      (CC e)
+      (NP 
+        (NN iranianos)
+      )
+    )
+    (VP 
+      (VBP trocaram)
+    )
+    (NP 
+      (NN acusações)
+      (PP 
+        (IN sobre)
+        (NP 
+          (NN violações)
+          (PP 
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN território)
+              )
+            )
+            (CC ou)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN espaço)
+                (ADJP 
+                  (JJ aéreo)
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NN alegações)
+        (VP 
+          (ADVP 
+            (RB nunca)
+          )
+          (VP 
+            (VBN confirmadas)
+          )
+          (PP 
+            (IN por)
+            (NP 
+              (NN fontes)
+              (ADJP 
+                (JJ independentes)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

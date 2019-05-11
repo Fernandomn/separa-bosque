@@ -1,31 +1,58 @@
-(S (_CU_ (VP (NP 
-                                  (PRP Eu))
-                                (VP (VBP estava))
-                                (PP (IN em+)
-                                       (NP 
-                                         (DT a)
-                                         (NN cozinha)
-                                         (,)
-                                         (VP 
-                                           (ADVP 
-                                             (RB onde))
-                                           (NP 
-                                             (RB quase)
-                                             (PRP tudo)
-                                             (PP 
-                                               (IN de)
-                                               (ADJP 
-                                                 (JJ importante))))
-                                           (VP 
-                                             (VBP acontece))
-                                           (PP 
-                                             (PP 
-                                               (IN em+)
-                                               (NP 
-                                                 (PRP aquela)
-                                                 (NN casa)))))
-                                         (,))))
-                       (CC e)
-                       (VP (VP (VBP telefonaram-))
-                                (NP (PRP me)))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (PRP Eu)
+      )
+      (VP 
+        (VBP estava)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NN cozinha)
+          (,)
+          (VP 
+            (ADVP 
+              (RB onde)
+            )
+            (NP 
+              (RB quase)
+              (PRP tudo)
+              (PP 
+                (IN de)
+                (ADJP 
+                  (JJ importante)
+                )
+              )
+            )
+            (VP 
+              (VBP acontece)
+            )
+            (PP 
+              (PP 
+                (IN em+)
+                (NP 
+                  (PRP aquela)
+                  (NN casa)
+                )
+              )
+            )
+          )
+          (,)
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (VP 
+        (VBP telefonaram-)
+      )
+      (NP 
+        (PRP me)
+      )
+    )
+    (.)
+  )
+)

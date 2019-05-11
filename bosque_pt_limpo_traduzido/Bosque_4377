@@ -1,20 +1,38 @@
-(S (NP (NN Ponto)
-                       (ADJP (JJ fraco))
-                       (--)
-                       (_CU_ (VP (ADVP 
-                                          (RB Tecnicamente))
-                                        (VP 
-                                          (VBP Ã©)
-                                          (VBN limitado)))
-                               (,)
-                               (VP (NP 
-                                          (DT a)
-                                          (NN velocidade)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN ponta))))
-                                        (VP 
-                                          (VBP Ã©)
-                                          (VBN reduzida))))
-                       (.)))
+(S 
+  (NP 
+    (NN Ponto)
+    (ADJP 
+      (JJ fraco)
+    )
+    (--)
+    (VP 
+      (VP 
+        (ADVP 
+          (RB Tecnicamente)
+        )
+        (VP 
+          (VBP é)
+          (VBN limitado)
+        )
+      )
+      (,)
+      (VP 
+        (NP 
+          (DT a)
+          (NN velocidade)
+          (PP 
+            (IN de)
+            (NP 
+              (NN ponta)
+            )
+          )
+        )
+        (VP 
+          (VBP é)
+          (VBN reduzida)
+        )
+      )
+    )
+    (.)
+  )
+)

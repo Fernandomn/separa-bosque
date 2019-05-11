@@ -1,11 +1,27 @@
-(S (_CU_ (VP (NP 
-                                  (NNP Roma))
-                                (VP (VBP derrota))
-                                (NP (NNP Lazio)))
-                       (CC e)
-                       (VP (NP 
-                                  (NNP Batistuta))
-                                (VP (VBP faz))
-                                (ADJP 
-                                  (PRP mais)
-                                  (CD um)))))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (NNP Roma)
+      )
+      (VP 
+        (VBP derrota)
+      )
+      (NP 
+        (NNP Lazio)
+      )
+    )
+    e    (VP 
+      (NP 
+        (NNP Batistuta)
+      )
+      (VP 
+        (VBP faz)
+      )
+      (ADJP 
+        (PRP mais)
+        (CD um)
+      )
+    )
+  )
+)

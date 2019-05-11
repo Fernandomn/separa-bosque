@@ -1,43 +1,70 @@
-(S (NP (NP (NN P.))
-                      (--)
-                      (VP (...)
-                               (ADVP 
-                                 (CC e)
-                                 (RB mais))
-                               (;)
-                               (ADVP 
-                                 (RB j√°)
-                                 (RB depois)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN derrota))))
-                               (VP (VBP continuou)
-                                     (IN a)
-                                     (VB tentar))
-                               (PP (IN em+)
-                                       (NP 
-                                         (_CU_ 
-                                           (NP 
-                                             (DT os)
-                                             (NN jornalistas))
-                                           (,)
-                                           (CC e)))
-                                       (IN em+)
-                                       (NP 
-                                         (_CU_ 
-                                           (NP 
-                                             (DT a)
-                                             (NN comunica√ß√£o)
-                                             (ADJP 
-                                               (JJ social))))
-                                         (,)
-                                         (NP 
-                                           (DT os)
-                                           (NN bodes_expiat√≥rios)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT a)
-                                               (NN derrota))))))
-                               (...))))
+(S 
+  (NP 
+    (NP 
+      (NN P.)
+    )
+    (--)
+    (VP 
+      (...)
+      (ADVP 
+        (CC e)
+        (RB mais)
+      )
+      (;)
+      (ADVP 
+        (RB j·)
+        (RB depois)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN derrota)
+          )
+        )
+      )
+      (VP 
+        (VBP continuou)
+        (IN a)
+        (VB tentar)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (NP 
+            (NP 
+              (DT os)
+              (NN jornalistas)
+            )
+            (,)
+            (CC e)
+          )
+        )
+        (IN em+)
+        (NP 
+          (NP 
+            (NP 
+              (DT a)
+              (NN comunicaÁ„o)
+              (ADJP 
+                (JJ social)
+              )
+            )
+          )
+          (,)
+          (NP 
+            (DT os)
+            (NN bodes_expiatÛrios)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN derrota)
+              )
+            )
+          )
+        )
+      )
+      (...)
+    )
+  )
+)

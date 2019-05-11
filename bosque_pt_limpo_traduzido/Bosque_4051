@@ -1,81 +1,131 @@
-(S (_CU_ (VP (VP 
-                                   (VP 
-                                     (VBN Marcada))
-                                   (ADVP 
-                                     (RB inicialmente))
-                                   (PP 
-                                     (IN para)
-                                     (NP 
-                                       (DT o)
-                                       (NN fim)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NN presidÃªncia)
-                                           (ADJP 
-                                             (JJ portuguesa))
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT as)
-                                               (NNP Comunidades)))))
-                                       (,)
-                                       (PP 
-                                         (IN em)
-                                         (NP 
-                                           (NN Junho)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (CD 1992)))))
-                                       (,))))
-                                 (VP 
-                                   (ADVP 
-                                     (RB depois))
-                                   (VP 
-                                     (VBN anunciada))
-                                   (PP 
-                                     (IN para)
-                                     (NP 
-                                       (NN Abril)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (CD 1994)))))
-                                   (,)
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT o)
-                                       (NNP Centro_Cultural_de_BelÃ©m)))))
-                       ({)
-                       (VP (VP (VB ver))
-                                (NP (NNP PÃšBLICO)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN 10/2/1992)))))
-                       (})
-                       (VP (NP 
-                                   (DT a)
-                                   (NN Ã³pera))
-                                 (ADVP 
-                                   (RB sÃ³))
-                                 (VP (VBP poderÃ¡)
-                                       (VB ser)
-                                       (VBN apresentada))
-                                 (PP 
-                                   (IN em)
-                                   (NP 
-                                     (_CU_ 
-                                       (NP 
-                                         (NN Janeiro))
-                                       (/)
-                                       (NP 
-                                         (NN Fevereiro)))
-                                     (PP 
-                                       (IN de)
-                                       (ADJP 
-                                         (CD 1995))))))
-                       (.)))
+(S 
+  (UCP 
+    (VP 
+      (VP 
+        (VP 
+          (VBN Marcada)
+        )
+        (ADVP 
+          (RB inicialmente)
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (DT o)
+            (NN fim)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN presidência)
+                (ADJP 
+                  (JJ portuguesa)
+                )
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT as)
+                    (NNP Comunidades)
+                  )
+                )
+              )
+            )
+            (,)
+            (PP 
+              (IN em)
+              (NP 
+                (NN Junho)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (CD 1992)
+                  )
+                )
+              )
+            )
+            (,)
+          )
+        )
+      )
+      (VP 
+        (ADVP 
+          (RB depois)
+        )
+        (VP 
+          (VBN anunciada)
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (NN Abril)
+            (PP 
+              (IN de)
+              (NP 
+                (CD 1994)
+              )
+            )
+          )
+        )
+        (,)
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NNP Centro_Cultural_de_Belém)
+          )
+        )
+      )
+    )
+    ({)
+    (VP 
+      (VP 
+        (VB ver)
+      )
+      (NP 
+        (NNP PÚBLICO)
+        (PP 
+          (IN de)
+          (NP 
+            (NN 10/2/1992)
+          )
+        )
+      )
+    )
+    (})
+    (VP 
+      (NP 
+        (DT a)
+        (NN ópera)
+      )
+      (ADVP 
+        (RB só)
+      )
+      (VP 
+        (VBP poderá)
+        (VB ser)
+        (VBN apresentada)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (UCP 
+            (NP 
+              (NN Janeiro)
+            )
+            (/)
+            (NP 
+              (NN Fevereiro)
+            )
+          )
+          (PP 
+            (IN de)
+            (ADJP 
+              (CD 1995)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,37 +1,60 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT a)
-                                        (NN lista)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (NN assuntos)))))
-                        (VP (VBP est√£o))
-                        (_CU_ (NP 
-                                   (DT a)
-                                   (NN campanha)
-                                   (PP 
-                                     (IN contra)
-                                     (NP 
-                                       (DT a)
-                                       (NN fome))))
-                                 (,)
-                                 (NP 
-                                   (NN racismo))
-                                 (,)
-                                 (NP 
-                                   (NN imigra√ß√£o)
-                                   (ADJP 
-                                     (JJ nordestina)))
-                                 (,)
-                                 (NP 
-                                   (NN aborto))
-                                 (,)
-                                 (NP 
-                                   (NN corrup√ß√£o)
-                                   (ADJP 
-                                     (JJ pol√≠tica)))
-                                 (CC e)
-                                 (NP 
-                                   (NN aborto)))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT a)
+        (NN lista)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN assuntos)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP est„o)
+    )
+    (NP 
+      (NP 
+        (DT a)
+        (NN campanha)
+        (PP 
+          (IN contra)
+          (NP 
+            (DT a)
+            (NN fome)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NN racismo)
+      )
+      (,)
+      (NP 
+        (NN imigraÁ„o)
+        (ADJP 
+          (JJ nordestina)
+        )
+      )
+      (,)
+      (NP 
+        (NN aborto)
+      )
+      (,)
+      (NP 
+        (NN corrupÁ„o)
+        (ADJP 
+          (JJ polÌtica)
+        )
+      )
+      e      (NP 
+        (NN aborto)
+      )
+    )
+    (.)
+  )
+)

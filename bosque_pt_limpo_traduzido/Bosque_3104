@@ -1,96 +1,152 @@
-(S (VP (NP (DT A)
-                                 (NN entidade)
-                                 (ADJP 
-                                   (JJ patronal))
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP Guial)
-                                          (,)
-                                          (NP 
-                                            (DT a)
-                                            (NN empresa)
-                                            (ADJP 
-                                              (JJ tÃªxtil))
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NNP Barcelos)))
-                                            (VP 
-                                              (NP 
-                                                (PRP cujos)
-                                                (NN trabalhadores))
-                                              (NP 
-                                                (PRP se))
-                                              (VP 
-                                                (VBP mantÃªm))
-                                              (PP 
-                                                (IN em)
-                                                (NP 
-                                                  (NN greve)))
-                                              (PP 
-                                                (IN desde)
-                                                (NP 
-                                                  (DT a)
-                                                  (VBN passada)
-                                                  (NN quinta-feira)))))
-                                          (,))))
-                        (VP (VBP requereu))
-                        (PP (IN a+)
-                                (NP (DT o)
-                                       (NNP Tribunal_Judicial)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NNP Barcelos)))))
-                        (NP (DT a)
-                                (NN ilegalidade)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NN medida)
-                                         (_CU_ 
-                                           (VP 
-                                             (VP 
-                                               (VBN tomada))
-                                             (ADVP 
-                                               (RB recentemente))
-                                             (PP 
-                                               (IN por+)
-                                               (NP 
-                                                 (DT os)
-                                                 (NN trabalhadores))))
-                                           (CC e)
-                                           (VP 
-                                             (NP 
-                                               (PRP que))
-                                             (VP 
-                                               (VBP consistiu))
-                                             (PP 
-                                               (IN em+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NN impedimento)
-                                                 (PP 
-                                                   (IN de+)
-                                                   (NP 
-                                                     (DT a)
-                                                     (NN saÃ­da)
-                                                     (PP 
-                                                       (IN de)
-                                                       (NP 
-                                                         (CD quatro)
-                                                         (NN carrinhas)
-                                                         (PP 
-                                                           (IN de+)
-                                                           (NP 
-                                                             (DT a)
-                                                             (NN companhia)))
-                                                         (VP 
-                                                           (VP 
-                                                             (VBN carregadas))
-                                                           (PP 
-                                                             (IN de)
-                                                             (NP 
-                                                               (NN mercadoria)))))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN entidade)
+      (ADJP 
+        (JJ patronal)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP Guial)
+          (,)
+          (NP 
+            (DT a)
+            (NN empresa)
+            (ADJP 
+              (JJ têxtil)
+            )
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Barcelos)
+              )
+            )
+            (VP 
+              (NP 
+                (PRP cujos)
+                (NN trabalhadores)
+              )
+              (NP 
+                (PRP se)
+              )
+              (VP 
+                (VBP mantêm)
+              )
+              (PP 
+                (IN em)
+                (NP 
+                  (NN greve)
+                )
+              )
+              (PP 
+                (IN desde)
+                (NP 
+                  (DT a)
+                  (VBN passada)
+                  (NN quinta-feira)
+                )
+              )
+            )
+          )
+          (,)
+        )
+      )
+    )
+    (VP 
+      (VBP requereu)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT o)
+        (NNP Tribunal_Judicial)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Barcelos)
+          )
+        )
+      )
+    )
+    (NP 
+      (DT a)
+      (NN ilegalidade)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN medida)
+          (VP 
+            (VP 
+              (VP 
+                (VBN tomada)
+              )
+              (ADVP 
+                (RB recentemente)
+              )
+              (PP 
+                (IN por+)
+                (NP 
+                  (DT os)
+                  (NN trabalhadores)
+                )
+              )
+            )
+            (CC e)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP consistiu)
+              )
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT o)
+                  (NN impedimento)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN saída)
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (CD quatro)
+                          (NN carrinhas)
+                          (PP 
+                            (IN de+)
+                            (NP 
+                              (DT a)
+                              (NN companhia)
+                            )
+                          )
+                          (VP 
+                            (VP 
+                              (VBN carregadas)
+                            )
+                            (PP 
+                              (IN de)
+                              (NP 
+                                (NN mercadoria)
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

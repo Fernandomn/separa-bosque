@@ -1,18 +1,38 @@
-(S (VP (NP (PRP Elas))
-                       (VP (VBP est√£o))
-                       (VP (VP (VBN separadas))
-                               (PP (IN por)
-                                        (NP 
-                                          (NN espa√ßos)
-                                          (_CU_ 
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (CD 80)
-                                                (NN km)))
-                                            (PP 
-                                              (IN a)
-                                              (NP 
-                                                (CD 100)
-                                                (NN km)))))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Elas)
+    )
+    (VP 
+      (VBP est„o)
+    )
+    (VP 
+      (VP 
+        (VBN separadas)
+      )
+      (PP 
+        (IN por)
+        (NP 
+          (NN espaÁos)
+          (PP 
+            (PP 
+              (IN de)
+              (NP 
+                (CD 80)
+                (NN km)
+              )
+            )
+            (PP 
+              (IN a)
+              (NP 
+                (CD 100)
+                (NN km)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

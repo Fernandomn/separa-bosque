@@ -1,13 +1,31 @@
-(S (VP (NP (DT O)
-                                 (_CU_ (NP 
-                                         (NNP Holanda))
-                                       (-)
-                                       (NP 
-                                         (NNP Inglaterra))))
-                        (VP (VBP decide))
-                        (NP (RB quase)
-                                (PRP tudo))
-                        (PP (IN em+)
-                                 (NP (PRP este)
-                                        (NN grupo)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (UCP 
+        (NP 
+          (NNP Holanda)
+        )
+        (-)
+        (NP 
+          (NNP Inglaterra)
+        )
+      )
+    )
+    (VP 
+      (VBP decide)
+    )
+    (NP 
+      (RB quase)
+      (PRP tudo)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (PRP este)
+        (NN grupo)
+      )
+    )
+    (.)
+  )
+)

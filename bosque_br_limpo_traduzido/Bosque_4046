@@ -1,41 +1,67 @@
-(S (VP (Â«)
-                        (VP (NP (DT O)
-                                        (NN importante))
-                                 (VP (VBP Ã©))
-                                 (_CU_ 
-                                   (VP 
-                                     (VP 
-                                       (VB levantar))
-                                     (ADVP 
-                                       (RB bem))
-                                     (NP 
-                                       (DT o)
-                                       (NN joelho)))
-                                   (,)
-                                   (VP 
-                                     (VP 
-                                       (VB manter))
-                                     (NP 
-                                       (DT o)
-                                       (NN ritmo)))
-                                   (CC e)
-                                   (VP 
-                                     (VP 
-                                       (VB encostar))
-                                     (NP 
-                                       (DT o)
-                                       (NN calcanhar)
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT o)
-                                           (NN chÃ£o))))
-                                     (PP 
-                                       (IN a)
-                                       (NP 
-                                         (PRP cada)
-                                         (NN movimento))))))
-                        (Â»)
-                        (,)
-                        (VP (VBP diz))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (VP 
+      (NP 
+        (DT O)
+        (NN importante)
+      )
+      (VP 
+        (VBP é)
+      )
+      (VP 
+        (VP 
+          (VP 
+            (VB levantar)
+          )
+          (ADVP 
+            (RB bem)
+          )
+          (NP 
+            (DT o)
+            (NN joelho)
+          )
+        )
+        (,)
+        (VP 
+          (VP 
+            (VB manter)
+          )
+          (NP 
+            (DT o)
+            (NN ritmo)
+          )
+        )
+        e        (VP 
+          (VP 
+            (VB encostar)
+          )
+          (NP 
+            (DT o)
+            (NN calcanhar)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NN chão)
+              )
+            )
+          )
+          (PP 
+            (IN a)
+            (NP 
+              (PRP cada)
+              (NN movimento)
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (,)
+    (VP 
+      (VBP diz)
+    )
+    (.)
+  )
+)

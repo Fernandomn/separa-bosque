@@ -1,52 +1,91 @@
-(S (VP (PP (IN Face_a+)
-                                 (NP (DT o)
-                                        (NN marco)))
-                        (,)
-                        (NP (DT a)
-                                 (NN nota)
-                                 (ADJP 
-                                   (JJ verde)))
-                        (ADVP (RB nÃ£o))
-                        (VP (VBP apresentou))
-                        (NP (DT uma)
-                                (NN tendÃªncia)
-                                (VBN definida))
-                        (,)
-                        (VP 
-                          (VP (VBG oscilando))
-                          (PP (IN entre)
-                                   (NP 
-                                     (_CU_ 
-                                       (NP 
-                                         (DT os)
-                                         (CD 1,79))
-                                       (CC e)
-                                       (NP 
-                                         (DT os)
-                                         (CD 1,80)))
-                                     (NN marcos)
-                                     (PP 
-                                       (IN por)
-                                       (NP 
-                                         (NN dÃ³lar))))))
-                        (,)
-                        (VP (ADVP 
-                                    (RB enquanto))
-                                  (PP 
-                                    (IN em+)
-                                    (NP 
-                                      (DT o)
-                                      (NN Ã¢mbito)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP SME)))))
-                                  (NP 
-                                    (PRP se))
-                                  (VP (VBP mantinha))
-                                  (NP 
-                                    (DT a)
-                                    (JJ tradicional)
-                                    (NN apatia)))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Face_a+)
+      (NP 
+        (DT o)
+        (NN marco)
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NN nota)
+      (ADJP 
+        (JJ verde)
+      )
+    )
+    (ADVP 
+      (RB não)
+    )
+    (VP 
+      (VBP apresentou)
+    )
+    (NP 
+      (DT uma)
+      (NN tendência)
+      (VBN definida)
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG oscilando)
+      )
+      (PP 
+        (IN entre)
+        (NP 
+          (NP 
+            (NP 
+              (DT os)
+              (CD 1,79)
+            )
+            (CC e)
+            (NP 
+              (DT os)
+              (CD 1,80)
+            )
+          )
+          (NN marcos)
+          (PP 
+            (IN por)
+            (NP 
+              (NN dólar)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (ADVP 
+        (RB enquanto)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN âmbito)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP SME)
+            )
+          )
+        )
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP mantinha)
+      )
+      (NP 
+        (DT a)
+        (JJ tradicional)
+        (NN apatia)
+      )
+    )
+    (.)
+  )
+)

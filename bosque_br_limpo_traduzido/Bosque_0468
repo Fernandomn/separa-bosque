@@ -1,40 +1,65 @@
-(S (VP (NP (DT Os)
-                                 (NN empres√°rios))
-                        (VP (VBP ofereceram))
-                        (_CU_ (NP (CD 10,4)
-                                        (NN %))
-                                (PP 
-                                  (IN em)
-                                  (NP 
-                                    (NN novembro)))
-                                (PP 
-                                  (IN para)
-                                  (_CU_ 
-                                    (NP 
-                                      (NNP S√£o_Paulo))
-                                    (,)
-                                    (NP 
-                                      (NNP Osasco))
-                                    (CC e)
-                                    (NP 
-                                      (NNP Guarulhos))))
-                                (CC e)
-                                (_CU_ 
-                                  (NP 
-                                    (CD 6)
-                                    (NN %))
-                                  (ADVP 
-                                    (RB mais))
-                                  (NP 
-                                    (CD 6,27)
-                                    (NN %)))
-                                (PP 
-                                  (IN em)
-                                  (NP 
-                                    (NN mar√ßo)))
-                                (PP 
-                                  (IN para)
-                                  (NP 
-                                    (DT o)
-                                    (NN interior))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN empres·rios)
+    )
+    (VP 
+      (VBP ofereceram)
+    )
+    (UCP 
+      (NP 
+        (CD 10,4)
+        (NN %)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NN novembro)
+        )
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (NP 
+            (NNP S„o_Paulo)
+          )
+          (,)
+          (NP 
+            (NNP Osasco)
+          )
+          e          (NP 
+            (NNP Guarulhos)
+          )
+        )
+      )
+      e      (UCP 
+        (NP 
+          (CD 6)
+          (NN %)
+        )
+        (ADVP 
+          (RB mais)
+        )
+        (NP 
+          (CD 6,27)
+          (NN %)
+        )
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NN marÁo)
+        )
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (DT o)
+          (NN interior)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,70 +1,104 @@
-(S (VP (_CU_ (NP 
-                                   (NN Accionismo))
-                                 (,)
-                                 (NP 
-                                   (JJ novo)
-                                   (NN realismo))
-                                 (,)
-                                 (Â«)
-                                 (NP 
-                                   (NN happening))
-                                 (Â»)
-                                 (,)
-                                 (NP 
-                                   (NN poesia)
-                                   (ADJP 
-                                     (JJ sonora)))
-                                 (,)
-                                 (NP 
-                                   (NNP Fluxus))
-                                 (,)
-                                 (Â«)
-                                 (NP 
-                                   (NN performance))
-                                 (Â»)
-                                 (,)
-                                 (NP 
-                                   (NN arte)
-                                   (ADJP 
-                                     (JJ corporal)))
-                                 (,)
-                                 (Â«)
-                                 (NP 
-                                   (NN environnements))
-                                 (Â»))
-                        (,)
-                        (VP (VBP sÃ£o))
-                        (NP (PRP alguns)
-                               (PP (IN de+)
-                                      (NP 
-                                        (DT os)
-                                        (NN nomes)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (,)
-                                          (PP 
-                                            (IN segundo)
-                                            (_CU_ 
-                                              (NP 
-                                                (DT os)
-                                                (NN perÃ­odos))
-                                              (CC e)
-                                              (NP 
-                                                (DT os)
-                                                (NN paÃ­ses))))
-                                          (,)
-                                          (VP 
-                                            (VBP foram)
-                                            (VBN dados))
-                                          (PP 
-                                            (IN a)
-                                            (NP 
-                                              (PRP estas)
-                                              (JJ novas)
-                                              (NN formas)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN arte)))))))))
-                        (.)))
+(S 
+  (VP 
+    (UCP 
+      (NP 
+        (NN Accionismo)
+      )
+      (,)
+      (NP 
+        (JJ novo)
+        (NN realismo)
+      )
+      (,)
+      («)
+      (NP 
+        (NN happening)
+      )
+      (»)
+      (,)
+      (NP 
+        (NN poesia)
+        (ADJP 
+          (JJ sonora)
+        )
+      )
+      (,)
+      (NP 
+        (NNP Fluxus)
+      )
+      (,)
+      («)
+      (NP 
+        (NN performance)
+      )
+      (»)
+      (,)
+      (NP 
+        (NN arte)
+        (ADJP 
+          (JJ corporal)
+        )
+      )
+      (,)
+      («)
+      (NP 
+        (NN environnements)
+      )
+      (»)
+    )
+    (,)
+    (VP 
+      (VBP são)
+    )
+    (NP 
+      (PRP alguns)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN nomes)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (,)
+            (PP 
+              (IN segundo)
+              (NP 
+                (NP 
+                  (DT os)
+                  (NN períodos)
+                )
+                (CC e)
+                (NP 
+                  (DT os)
+                  (NN países)
+                )
+              )
+            )
+            (,)
+            (VP 
+              (VBP foram)
+              (VBN dados)
+            )
+            (PP 
+              (IN a)
+              (NP 
+                (PRP estas)
+                (JJ novas)
+                (NN formas)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN arte)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

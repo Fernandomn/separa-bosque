@@ -1,25 +1,47 @@
-(S (VP (NP (DT A)
-                                 (NN relaÃ§Ã£o)
-                                 (ADJP 
-                                   (JJ cambial))
-                                 (PP 
-                                   (IN entre)
-                                   (_CU_ 
-                                     (NP 
-                                       (DT o)
-                                       (NN escudo))
-                                     (CC e)
-                                     (NP 
-                                       (DT a)
-                                       (NN peseta)))))
-                        (ADVP (RB nÃ£o))
-                        (VP (VBP tem)
-                              (VBN constituÃ­do))
-                        (NP (NN matÃ©ria)
-                                (ADJP 
-                                  (JJ pacÃ­fica)))
-                        (PP (IN em+)
-                                 (NP (DT os)
-                                        (JJ Ãºltimos)
-                                        (NN meses)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN relação)
+      (ADJP 
+        (JJ cambial)
+      )
+      (PP 
+        (IN entre)
+        (NP 
+          (NP 
+            (DT o)
+            (NN escudo)
+          )
+          (CC e)
+          (NP 
+            (DT a)
+            (NN peseta)
+          )
+        )
+      )
+    )
+    (ADVP 
+      (RB não)
+    )
+    (VP 
+      (VBP tem)
+      (VBN constituído)
+    )
+    (NP 
+      (NN matéria)
+      (ADJP 
+        (JJ pacífica)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT os)
+        (JJ últimos)
+        (NN meses)
+      )
+    )
+    (.)
+  )
+)

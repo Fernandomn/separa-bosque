@@ -1,68 +1,107 @@
-(S (VP (NP (NNP FraÃºsto_da_Silva)
-                                 (,)
-                                 (_CU_ 
-                                   (NP 
-                                     (NP ex-ministro)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NNP EducaÃ§Ã£o))))
-                                   (CC e)
-                                   (NP 
-                                     (JJ actual)
-                                     (NN presidente)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NNP Instituto_Nacional_de_AdministraÃ§Ã£o)))))
-                                 (,))
-                        (VP (VBP admitiu))
-                        (VP (VP (VB ter)
-                                       (VBN sido)
-                                       (VBN sondado))
-                                 (PP 
-                                   (IN para)
-                                   (NP 
-                                     (DT o)
-                                     (NN lugar)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NNP Antero_Ferreira)))
-                                     (PP 
-                                       (IN em+)
-                                       (NP 
-                                         (DT os)
-                                         (NN conselhos)
-                                         (_CU_ 
-                                           (ADJP 
-                                             (JJ directivo))
-                                           (CC e)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN administraÃ§Ã£o))))
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NNP FundaÃ§Ã£o_das_Descobertas))))))))
-                        (,)
-                        (PP (IN tal_como)
-                                 (VP 
-                                   (VP 
-                                     (VBP noticiou))
-                                   (NP 
-                                     (DT a)
-                                     (NN ediÃ§Ã£o)
-                                     (PP 
-                                       (IN de)
-                                       (RB ontem))
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NNP PÃšBLICO))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Fraústo_da_Silva)
+      (,)
+      (NP 
+        (NP 
+          (NP ex-ministro)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Educação)
+            )
+          )
+        )
+        (CC e)
+        (NP 
+          (JJ actual)
+          (NN presidente)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Instituto_Nacional_de_Administração)
+            )
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP admitiu)
+    )
+    (VP 
+      (VP 
+        (VB ter)
+        (VBN sido)
+        (VBN sondado)
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (DT o)
+          (NN lugar)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Antero_Ferreira)
+            )
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT os)
+              (NN conselhos)
+              (UCP 
+                (ADJP 
+                  (JJ directivo)
+                )
+                (CC e)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN administração)
+                  )
+                )
+              )
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NNP Fundação_das_Descobertas)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN tal_como)
+      (VP 
+        (VP 
+          (VBP noticiou)
+        )
+        (NP 
+          (DT a)
+          (NN edição)
+          (PP 
+            (IN de)
+            (RB ontem)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP PÚBLICO)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

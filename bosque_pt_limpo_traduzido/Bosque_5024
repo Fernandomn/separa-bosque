@@ -1,36 +1,61 @@
-(S (VP (NP (DT A)
-                                 (NNP UNITA))
-                        (VP (VBP apresentou))
-                        (ADVP (RB recentemente))
-                        (NP (DT um)
-                                (JJ suposto)
-                                (NN chefe)
-                                (_CU_ 
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT o)
-                                      (NN grupo)
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP assassinou))
-                                        (NP 
-                                          (DT os)
-                                          (NN turistas)))))
-                                  (CC e)
-                                  (VP 
-                                    (NP 
-                                      (PRP que))
-                                    (VP 
-                                      (VBP seria))
-                                    (NP 
-                                      (DT um)
-                                      (NN oficial)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP ex-ministÃ©rio_da_SeguranÃ§a_de_Estado)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NNP UNITA)
+    )
+    (VP 
+      (VBP apresentou)
+    )
+    (ADVP 
+      (RB recentemente)
+    )
+    (NP 
+      (DT um)
+      (JJ suposto)
+      (NN chefe)
+      (UCP 
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN grupo)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP assassinou)
+              )
+              (NP 
+                (DT os)
+                (NN turistas)
+              )
+            )
+          )
+        )
+        (CC e)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP seria)
+          )
+          (NP 
+            (DT um)
+            (NN oficial)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NNP ex-ministério_da_Segurança_de_Estado)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,24 +1,45 @@
-(S (_CU_ (VP (NP 
-                                  (NNP George))
-                                (VP (VBP era))
-                                (NP (DT um)
-                                       (NN dÃ­namo)
-                                       (,)
-                                       (_CU_ 
-                                         (ADJP 
-                                           (JJ boÃªmio))
-                                         (CC e)
-                                         (ADJP 
-                                           (JJ namorador)))))
-                       (;)
-                       (VP (NP 
-                                  (NNP Ira))
-                                (VP (VBP era))
-                                (_CU_ (ADJP 
-                                         (RB mais)
-                                         (JJ recluso))
-                                       (CC e)
-                                       (ADJP 
-                                         (RB solidamente)
-                                         (VBN casado))))
-                       (.)))
+(S 
+  (UCP 
+    (VP 
+      (NP 
+        (NNP George)
+      )
+      (VP 
+        (VBP era)
+      )
+      (NP 
+        (DT um)
+        (NN dínamo)
+        (,)
+        (ADJP 
+          (ADJP 
+            (JJ boêmio)
+          )
+          e          (ADJP 
+            (JJ namorador)
+          )
+        )
+      )
+    )
+    (;)
+    (VP 
+      (NP 
+        (NNP Ira)
+      )
+      (VP 
+        (VBP era)
+      )
+      (ADJP 
+        (ADJP 
+          (RB mais)
+          (JJ recluso)
+        )
+        e        (ADJP 
+          (RB solidamente)
+          (VBN casado)
+        )
+      )
+    )
+    (.)
+  )
+)

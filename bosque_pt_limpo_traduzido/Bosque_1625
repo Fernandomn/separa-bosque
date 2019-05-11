@@ -1,161 +1,243 @@
-(S (VP (ADVP (RB Depois)
-                                   (_CU_ 
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (_CU_ 
-                                           (ADJP 
-                                             (JJ segundo))
-                                           (CC e)
-                                           (ADJP 
-                                             (JJ terceiro)))
-                                         (NN lugares)
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT o)
-                                             (NNP GP_de_San_Marino)
-                                             (,)
-                                             (PP 
-                                               (IN h√°)
-                                               (NP 
-                                                 (CD duas)
-                                                 (NN semanas)))
-                                             (,)))))
-                                     (CC e)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT os)
-                                         (JJ bons)
-                                         (NN resultados)
-                                         (VP 
-                                           (VP 
-                                             (VBN conseguidos))
-                                           (PP 
-                                             (IN em+)
-                                             (NP 
-                                               (DT os)
-                                               (NN testes)
-                                               (VP 
-                                                 (VP 
-                                                   (VBN realizados))
-                                                 (PP 
-                                                   (IN em+)
-                                                   (NP 
-                                                     (DT os)
-                                                     (NN dias)
-                                                     (ADJP 
-                                                       (JJ seguintes))))
-                                                 (,)
-                                                 (PP 
-                                                   (RB tamb√©m)
-                                                   (IN em+)
-                                                   (NP 
-                                                     (DT o)
-                                                     (NN circuito)
-                                                     (PP 
-                                                       (IN de)
-                                                       (NP 
-                                                         (NNP √çmola)))))))))
-                                         ({)
-                                         (VP 
-                                           (NP 
-                                             (NNP Berger))
-                                           (VP 
-                                             (VBP foi))
-                                           (NP 
-                                             (PRP o)
-                                             (ADJP 
-                                               (RB mais)
-                                               (JJ r√°pido)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT os)
-                                                   (CD 16)
-                                                   (NN pilotos)
-                                                   (VP 
-                                                     (NP 
-                                                       (PRP que))
-                                                     (VP 
-                                                       (VBP estiveram))
-                                                     (PP 
-                                                       (IN em)
-                                                       (NP 
-                                                         (NN pista))))))))
-                                           (,)
-                                           (VP 
-                                             (VP 
-                                               (VBG batendo))
-                                             (_CU_ 
-                                               (NP 
-                                                 (NNP Schumacher))
-                                               (CC e)
-                                               (NP 
-                                                 (NNP Hill)))))
-                                         (})))))
-                        (,)
-                        (NP (DT a)
-                                 (NNP Ferrari))
-                        (VP (VBP mostra))
-                        (PP (IN em)
-                                 (NP (NNP Barcelona)))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT a)
-                                   (PRP sua)
-                                   (NN competitividade))
-                                 (VP (VBP est√°)
-                                       (IN a)
-                                       (VB aumentar))
-                                 (,)
-                                 (VP 
-                                   (VP 
-                                     (VBG refor√ßando))
-                                   (NP 
-                                     (DT a)
-                                     (NN ideia)
-                                     (PP 
-                                       (IN de)
-                                       (VP 
-                                         (IN que)
-                                         (NP 
-                                           (PRP se))
-                                         (VP 
-                                           (VBP poder√°)
-                                           (VB bater))
-                                         (PP 
-                                           (IN em)
-                                           (NP 
-                                             (NN igualdade)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN circunst√¢ncias)))))
-                                         (PP 
-                                           (IN com)
-                                           (NP 
-                                             (_CU_ 
-                                               (NP 
-                                                 (DT a)
-                                                 (NNP Benetton))
-                                               (CC e)
-                                               (NP 
-                                                 (DT a)
-                                                 (NNP Williams)))
-                                             (,)
-                                             (NP 
-                                               (DT as)
-                                               (CD duas)
-                                               (NN equipas)
-                                               (VP 
-                                                 (VP 
-                                                   (VBN motorizadas))
-                                                 (PP 
-                                                   (IN por+)
-                                                   (NP 
-                                                     (DT a)
-                                                     (NNP Renault))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Depois)
+      (PP 
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (ADJP 
+              (ADJP 
+                (JJ segundo)
+              )
+              (CC e)
+              (ADJP 
+                (JJ terceiro)
+              )
+            )
+            (NN lugares)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NNP GP_de_San_Marino)
+                (,)
+                (PP 
+                  (IN h·)
+                  (NP 
+                    (CD duas)
+                    (NN semanas)
+                  )
+                )
+                (,)
+              )
+            )
+          )
+        )
+        (CC e)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (JJ bons)
+            (NN resultados)
+            (VP 
+              (VP 
+                (VBN conseguidos)
+              )
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT os)
+                  (NN testes)
+                  (VP 
+                    (VP 
+                      (VBN realizados)
+                    )
+                    (PP 
+                      (IN em+)
+                      (NP 
+                        (DT os)
+                        (NN dias)
+                        (ADJP 
+                          (JJ seguintes)
+                        )
+                      )
+                    )
+                    (,)
+                    (PP 
+                      (RB tambÈm)
+                      (IN em+)
+                      (NP 
+                        (DT o)
+                        (NN circuito)
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (NNP Õmola)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+            ({)
+            (VP 
+              (NP 
+                (NNP Berger)
+              )
+              (VP 
+                (VBP foi)
+              )
+              (NP 
+                (PRP o)
+                (ADJP 
+                  (RB mais)
+                  (JJ r·pido)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT os)
+                      (CD 16)
+                      (NN pilotos)
+                      (VP 
+                        (NP 
+                          (PRP que)
+                        )
+                        (VP 
+                          (VBP estiveram)
+                        )
+                        (PP 
+                          (IN em)
+                          (NP 
+                            (NN pista)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+              (,)
+              (VP 
+                (VP 
+                  (VBG batendo)
+                )
+                (NP 
+                  (NP 
+                    (NNP Schumacher)
+                  )
+                  (CC e)
+                  (NP 
+                    (NNP Hill)
+                  )
+                )
+              )
+            )
+            (})
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NNP Ferrari)
+    )
+    (VP 
+      (VBP mostra)
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NNP Barcelona)
+      )
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT a)
+        (PRP sua)
+        (NN competitividade)
+      )
+      (VP 
+        (VBP est·)
+        (IN a)
+        (VB aumentar)
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBG reforÁando)
+        )
+        (NP 
+          (DT a)
+          (NN ideia)
+          (PP 
+            (IN de)
+            (VP 
+              (IN que)
+              (NP 
+                (PRP se)
+              )
+              (VP 
+                (VBP poder·)
+                (VB bater)
+              )
+              (PP 
+                (IN em)
+                (NP 
+                  (NN igualdade)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN circunst‚ncias)
+                    )
+                  )
+                )
+              )
+              (PP 
+                (IN com)
+                (NP 
+                  (NP 
+                    (NP 
+                      (DT a)
+                      (NNP Benetton)
+                    )
+                    (CC e)
+                    (NP 
+                      (DT a)
+                      (NNP Williams)
+                    )
+                  )
+                  (,)
+                  (NP 
+                    (DT as)
+                    (CD duas)
+                    (NN equipas)
+                    (VP 
+                      (VP 
+                        (VBN motorizadas)
+                      )
+                      (PP 
+                        (IN por+)
+                        (NP 
+                          (DT a)
+                          (NNP Renault)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

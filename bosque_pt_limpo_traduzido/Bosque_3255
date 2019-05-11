@@ -1,37 +1,62 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT os)
-                                        (NN vinhos)))
-                        (NP (DT a)
-                                 (NN coisa))
-                        (VP (VBP melhorava))
-                        (NP (PRP um_pouco))
-                        (;)
-                        (_CU_ (NP 
-                                   (PRP uns)
-                                   (JJ borbas))
-                                 (CC e)
-                                 (NP 
-                                   (PRP uns)
-                                   (JJ reguengos)
-                                   (ADJP 
-                                     (JJ razo√°veis)))
-                                 (,)
-                                 (NP 
-                                   (DT um)
-                                   (NNP Paulo_da_Silva)
-                                   ({)
-                                   (NP 
-                                     (NNP Colares))
-                                   (}))
-                                 (CC e)
-                                 (NP 
-                                   (PRP alguns)
-                                   (NNP Bairrada)
-                                   (,)
-                                   (_CU_ 
-                                     (NP 
-                                       (NN vinho))
-                                     (CC e)
-                                     (NP 
-                                       (NN espumante)))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT os)
+        (NN vinhos)
+      )
+    )
+    (NP 
+      (DT a)
+      (NN coisa)
+    )
+    (VP 
+      (VBP melhorava)
+    )
+    (NP 
+      (PRP um_pouco)
+    )
+    (;)
+    (NP 
+      (NP 
+        (PRP uns)
+        (JJ borbas)
+      )
+      (CC e)
+      (NP 
+        (PRP uns)
+        (JJ reguengos)
+        (ADJP 
+          (JJ razo·veis)
+        )
+      )
+      (,)
+      (NP 
+        (DT um)
+        (NNP Paulo_da_Silva)
+        ({)
+        (NP 
+          (NNP Colares)
+        )
+        (})
+      )
+      (CC e)
+      (NP 
+        (PRP alguns)
+        (NNP Bairrada)
+        (,)
+        (NP 
+          (NP 
+            (NN vinho)
+          )
+          (CC e)
+          (NP 
+            (NN espumante)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

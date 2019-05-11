@@ -1,54 +1,94 @@
-(S (_CU_ (VP (_CU_ 
-                                  (NP 
-                                    (DT O)
-                                    (NP vice-primeiro-ministro))
-                                  (CC e)
-                                  (NP 
-                                    (NN ministro)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT os)
-                                        (NNP Neg√≥cios_Estrangeiros)))
-                                    (ADJP 
-                                      (JJ iemenita))
-                                    (,)
-                                    (NP 
-                                      (NNP Abdel_Kader_Bajamal))
-                                    (,)))
-                                (VP (VBP dever√°)
-                                      (VB deslocar-))
-                                (NP (PRP se))
-                                (ADVP 
-                                  (RB hoje))
-                                (PP (IN a+)
-                                       (NP 
-                                         (DT a)
-                                         (NNP Ar√°bia_Saudita)))
-                                (PP 
-                                  (IN para)
-                                  (VP 
-                                    (VP 
-                                      (VB tentar))
-                                    (VP 
-                                      (VP 
-                                        (VB desbloquear))
-                                      (NP 
-                                        (DT a)
-                                        (NN querela))))))
-                       (,)
-                       (VP (VBP disse))
-                       (PP (IN a+)
-                               (NP (DT a)
-                                      (NNP AFP)))
-                       (NP (DT um)
-                                (NN diplomata)
-                                (PP (IN em)
-                                       (NP 
-                                         (NNP Sanaa)
-                                         (,)
-                                         (NP 
-                                           (NN capital)
-                                           (ADJP 
-                                             (JJ iemenita))))))
-                       (.)))
+(S 
+  (UCP 
+    (VP 
+      (NP 
+        (NP 
+          (DT O)
+          (NP vice-primeiro-ministro)
+        )
+        (CC e)
+        (NP 
+          (NN ministro)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (NNP NegÛcios_Estrangeiros)
+            )
+          )
+          (ADJP 
+            (JJ iemenita)
+          )
+          (,)
+          (NP 
+            (NNP Abdel_Kader_Bajamal)
+          )
+          (,)
+        )
+      )
+      (VP 
+        (VBP dever·)
+        (VB deslocar-)
+      )
+      (NP 
+        (PRP se)
+      )
+      (ADVP 
+        (RB hoje)
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT a)
+          (NNP Ar·bia_Saudita)
+        )
+      )
+      (PP 
+        (IN para)
+        (VP 
+          (VP 
+            (VB tentar)
+          )
+          (VP 
+            (VP 
+              (VB desbloquear)
+            )
+            (NP 
+              (DT a)
+              (NN querela)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP disse)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT a)
+        (NNP AFP)
+      )
+    )
+    (NP 
+      (DT um)
+      (NN diplomata)
+      (PP 
+        (IN em)
+        (NP 
+          (NNP Sanaa)
+          (,)
+          (NP 
+            (NN capital)
+            (ADJP 
+              (JJ iemenita)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

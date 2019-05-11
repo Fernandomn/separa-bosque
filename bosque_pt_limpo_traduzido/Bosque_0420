@@ -1,35 +1,60 @@
-(S (VP (PP (IN No_caso_de+)
-                                (NP (DT o)
-                                       (NNP Hospital_de_Faro)
-                                       (,)
-                                       (VP 
-                                         (ADVP 
-                                           (RB onde))
-                                         (VP 
-                                           (VBP existe))
-                                         (NP 
-                                           (DT um)
-                                           (NN conflito)
-                                           (PP 
-                                             (IN entre)
-                                             (_CU_ 
-                                               (NP 
-                                                 (DT os)
-                                                 (NN cardiologistas))
-                                               (CC e)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN administra√ß√£o))))))
-                                       (,)))
-                       (VP (VBP renovou))
-                       (NP (DT a)
-                               (NN confian√ßa)
-                               (PP (IN em+)
-                                      (NP 
-                                        (DT o)
-                                        (NN √≥rg√£o)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN gest√£o))))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN No_caso_de+)
+      (NP 
+        (DT o)
+        (NNP Hospital_de_Faro)
+        (,)
+        (VP 
+          (ADVP 
+            (RB onde)
+          )
+          (VP 
+            (VBP existe)
+          )
+          (NP 
+            (DT um)
+            (NN conflito)
+            (PP 
+              (IN entre)
+              (NP 
+                (NP 
+                  (DT os)
+                  (NN cardiologistas)
+                )
+                (CC e)
+                (NP 
+                  (DT a)
+                  (NN administraÁ„o)
+                )
+              )
+            )
+          )
+        )
+        (,)
+      )
+    )
+    (VP 
+      (VBP renovou)
+    )
+    (NP 
+      (DT a)
+      (NN confianÁa)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN Ûrg„o)
+          (PP 
+            (IN de)
+            (NP 
+              (NN gest„o)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

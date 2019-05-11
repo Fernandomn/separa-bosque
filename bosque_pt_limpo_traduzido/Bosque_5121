@@ -1,28 +1,57 @@
-(S (_CU_ (NP (CD Quatro)
-                               (NN quartos)
-                               (,)
-                               (_CU_ 
-                                 (ADJP 
-                                   (JJ simples)
-                                   (PP 
-                                     (IN por)
-                                     (NP 
-                                       (CD 850000))))
-                                 (CC e)
-                                 (ADJP 
-                                   (JJ duplos)
-                                   (PP 
-                                     (IN por)
-                                     (ADJP 
-                                       (CD 980000))))))
-                       (;)
-                       (VP (VP (VBP servem))
-                                (NP (NN refeiÃ§Ãµes))
-                                (VP 
-                                  (ADVP 
-                                    (RB quando))
-                                  (VP (VBN solicitado))))
-                       (CC e)
-                       (VP (VP (VBP admitem))
-                                (NP (NN animais)))
-                       (.)))
+(S 
+  (UCP 
+    (NP 
+      (CD Quatro)
+      (NN quartos)
+      (,)
+      (ADJP 
+        (ADJP 
+          (JJ simples)
+          (PP 
+            (IN por)
+            (NP 
+              (CD 850000)
+            )
+          )
+        )
+        (CC e)
+        (ADJP 
+          (JJ duplos)
+          (PP 
+            (IN por)
+            (ADJP 
+              (CD 980000)
+            )
+          )
+        )
+      )
+    )
+    (;)
+    (VP 
+      (VP 
+        (VBP servem)
+      )
+      (NP 
+        (NN refeições)
+      )
+      (VP 
+        (ADVP 
+          (RB quando)
+        )
+        (VP 
+          (VBN solicitado)
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (VP 
+        (VBP admitem)
+      )
+      (NP 
+        (NN animais)
+      )
+    )
+    (.)
+  )
+)

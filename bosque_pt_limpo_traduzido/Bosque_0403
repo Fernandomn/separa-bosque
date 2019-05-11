@@ -1,126 +1,193 @@
-(S (VP (VP (IN Se)
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT a)
-                                     (JJ primeira)
-                                     (NN metade)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NN dÃ©cada)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (CD 80)))))))
-                                 (NP 
-                                   (DT o)
-                                   (NN balanÃ§o)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT os)
-                                       (NN confrontos)
-                                       (PP 
-                                         (IN entre)
-                                         (NP 
-                                           (DT os)
-                                           (CD dois)
-                                           (Â«)
-                                           (JJ eternos)
-                                           (NN rivais)
-                                           (Â»))))))
-                                 (VP (VBP era))
-                                 (ADVP 
-                                   (RB francamente))
-                                 (VBN equilibrado))
-                       (,)
-                       (PP (IN em+)
-                                (NP (DT a)
-                                       (JJ segunda)
-                                       (NN metade)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (PRP mesma)
-                                           (NN dÃ©cada)))))
-                       (-)
-                       (VP 
-                         (NP (NN excepÃ§Ã£o))
-                         (VP (VBN feita))
-                         (PP (IN a+)
-                                 (NP (DT os)
-                                        (JJ fabulosos)
-                                        (CD 7-1)
-                                        (VP 
-                                          (PP 
-                                            (IN com)
-                                            (NP 
-                                              (PRP que)))
-                                          (NP 
-                                            (DT o)
-                                            (NNP Sporting))
-                                          (VP 
-                                            (VBP venceu))
-                                          (NP 
-                                            (DT o)
-                                            (NNP Benfica))
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT a)
-                                              (NN tarde)
-                                              (PP 
-                                                (IN de)
-                                                (ADJP 
-                                                  (CD 14)
-                                                  (PP 
-                                                    (IN de)
-                                                    (NP 
-                                                      (NN Dezembro)
-                                                      (PP 
-                                                        (IN de)
-                                                        (ADJP 
-                                                          (CD 1986)))))))))
-                                          (,)
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (NNP Alvalade)))))))
-                       (-)
-                       (NP (DT os)
-                                (Â«)
-                                (NN encarnados)
-                                (Â»)
-                                (VP (VBP foram)
-                                      (VBG ganhando))
-                                (NP (NN vantagem))
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (PRP este)
-                                    (ADJP 
-                                      (RB muito)
-                                      (JJ especial))
-                                    (Â«)
-                                    (NN campeonato)
-                                    (Â»)
-                                    (PP 
-                                      (IN entre)
-                                      (NP 
-                                        (DT as)
-                                        (NN equipas)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP Luz)))
-                                          (CC e)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NNP Alvalade)))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (IN Se)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (JJ primeira)
+          (NN metade)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN década)
+              (PP 
+                (IN de)
+                (NP 
+                  (CD 80)
+                )
+              )
+            )
+          )
+        )
+      )
+      (NP 
+        (DT o)
+        (NN balanço)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN confrontos)
+            (PP 
+              (IN entre)
+              (NP 
+                (DT os)
+                (CD dois)
+                («)
+                (JJ eternos)
+                (NN rivais)
+                (»)
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP era)
+      )
+      (ADVP 
+        (RB francamente)
+      )
+      (VBN equilibrado)
+    )
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (JJ segunda)
+        (NN metade)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (PRP mesma)
+            (NN década)
+          )
+        )
+      )
+    )
+    (-)
+    (VP 
+      (NP 
+        (NN excepção)
+      )
+      (VP 
+        (VBN feita)
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT os)
+          (JJ fabulosos)
+          (CD 7-1)
+          (VP 
+            (PP 
+              (IN com)
+              (NP 
+                (PRP que)
+              )
+            )
+            (NP 
+              (DT o)
+              (NNP Sporting)
+            )
+            (VP 
+              (VBP venceu)
+            )
+            (NP 
+              (DT o)
+              (NNP Benfica)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NN tarde)
+                (PP 
+                  (IN de)
+                  (ADJP 
+                    (CD 14)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NN Dezembro)
+                        (PP 
+                          (IN de)
+                          (ADJP 
+                            (CD 1986)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+            (,)
+            (PP 
+              (IN em)
+              (NP 
+                (NNP Alvalade)
+              )
+            )
+          )
+        )
+      )
+    )
+    (-)
+    (NP 
+      (DT os)
+      («)
+      (NN encarnados)
+      (»)
+      (VP 
+        (VBP foram)
+        (VBG ganhando)
+      )
+      (NP 
+        (NN vantagem)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (PRP este)
+          (ADJP 
+            (RB muito)
+            (JJ especial)
+          )
+          («)
+          (NN campeonato)
+          (»)
+          (PP 
+            (IN entre)
+            (NP 
+              (DT as)
+              (NN equipas)
+              (PP 
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NNP Luz)
+                  )
+                )
+                (CC e)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NNP Alvalade)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

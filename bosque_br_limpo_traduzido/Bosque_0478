@@ -1,56 +1,89 @@
-(S (VP (NP (NNP Chiles)
-                                 (,)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP pertence))
-                                   (_CU_ 
-                                     (PP 
-                                       (IN a+)
-                                       (NP 
-                                         (DT o)
-                                         (NNP Partido_Democrata)))
-                                     (CC e)
-                                     (PP 
-                                       (IN a+)
-                                       (NP 
-                                         (DT o)
-                                         (PRP mesmo)
-                                         (NN grupo)
-                                         (ADJP 
-                                           (JJ neoconservador))
-                                         (VP 
-                                           (NP 
-                                             (PRP que))
-                                           (VP 
-                                             (VBP ajudou))
-                                           (NP 
-                                             (NNP Bill_Clinton))
-                                           (PP 
-                                             (IN a)
-                                             (VP 
-                                               (VP 
-                                                 (VB chegar))
-                                               (PP 
-                                                 (IN a+)
-                                                 (NP 
-                                                   (DT a)
-                                                   (NNP Casa_Branca)))))))))))
-                        (,)
-                        (VP (VBP vai)
-                              (VB tentar)
-                              (VP (NP 
-                                         (PRP se))
-                                       (VP 
-                                         (VB reeleger))
-                                       (PP 
-                                         (IN em)
-                                         (NP 
-                                           (NN novembro)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (PRP este)
-                                               (NN ano)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Chiles)
+      (,)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP pertence)
+        )
+        (PP 
+          (PP 
+            (IN a+)
+            (NP 
+              (DT o)
+              (NNP Partido_Democrata)
+            )
+          )
+          e          (PP 
+            (IN a+)
+            (NP 
+              (DT o)
+              (PRP mesmo)
+              (NN grupo)
+              (ADJP 
+                (JJ neoconservador)
+              )
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP ajudou)
+                )
+                (NP 
+                  (NNP Bill_Clinton)
+                )
+                (PP 
+                  (IN a)
+                  (VP 
+                    (VP 
+                      (VB chegar)
+                    )
+                    (PP 
+                      (IN a+)
+                      (NP 
+                        (DT a)
+                        (NNP Casa_Branca)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP vai)
+      (VB tentar)
+      (VP 
+        (NP 
+          (PRP se)
+        )
+        (VP 
+          (VB reeleger)
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (NN novembro)
+            (PP 
+              (IN de+)
+              (NP 
+                (PRP este)
+                (NN ano)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,81 +1,125 @@
-(S (VP (_CU_ (NP 
-                                   (NP ex-primeiro-ministro)
-                                   (,)
-                                   (PP 
-                                     (IN de)
-                                     (ADJP 
-                                       (CD 1974)
-                                       (PP 
-                                         (IN a)
-                                         (NP 
-                                           (CD 1978))))))
-                                 (,)
-                                 (CC e)
-                                 (NP 
-                                   (NP ex-ministro)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT os)
-                                       (NNP Neg√≥cios_Estrangeiros)))
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       (NNP B√©lgica)))
-                                   (,)
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT o)
-                                       (NN in√≠cio)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NN d√©cada)
-                                           (PP 
-                                             (IN de)
-                                             (ADJP 
-                                               (CD 80)))))))))
-                        (,)
-                        (NP (NNP Leo_Tindemans))
-                        (VP (VBP √©))
-                        (,)
-                        (ADVP (RB hoje))
-                        (,)
-                        (NP (DT o)
-                               (NN presidente)
-                               (PP (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NNP Grupo_Democrata_Crist√£o)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NNP Parlamento_Europeu)))
-                                        (,)
-                                        (NP 
-                                          (DT o)
-                                          (JJ segundo)
-                                          (JJ maior)
-                                          (NN agrupamento)
-                                          (ADJP 
-                                            (JJ parlamentar))
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NNP Estrasburgo)))
-                                          (,)
-                                          (PP 
-                                            (IN a)
-                                            (VP 
-                                              (VP 
-                                                (VB seguir))
-                                              (PP 
-                                                (IN a+)
-                                                (NP 
-                                                  (DT os)
-                                                  (NN socialistas)))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (NP ex-primeiro-ministro)
+        (,)
+        (PP 
+          (IN de)
+          (ADJP 
+            (CD 1974)
+            (PP 
+              (IN a)
+              (NP 
+                (CD 1978)
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (CC e)
+      (NP 
+        (NP ex-ministro)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NNP NegÛcios_Estrangeiros)
+          )
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP BÈlgica)
+          )
+        )
+        (,)
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NN inÌcio)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN dÈcada)
+                (PP 
+                  (IN de)
+                  (ADJP 
+                    (CD 80)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP Leo_Tindemans)
+    )
+    (VP 
+      (VBP È)
+    )
+    (,)
+    (ADVP 
+      (RB hoje)
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN presidente)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NNP Grupo_Democrata_Crist„o)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Parlamento_Europeu)
+            )
+          )
+          (,)
+          (NP 
+            (DT o)
+            (JJ segundo)
+            (JJ maior)
+            (NN agrupamento)
+            (ADJP 
+              (JJ parlamentar)
+            )
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Estrasburgo)
+              )
+            )
+            (,)
+            (PP 
+              (IN a)
+              (VP 
+                (VP 
+                  (VB seguir)
+                )
+                (PP 
+                  (IN a+)
+                  (NP 
+                    (DT os)
+                    (NN socialistas)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,94 +1,138 @@
-(S (VP (VP (VBP Terminava))
-                        (NP (DT uma)
-                                (NN rota)
-                                (ADJP 
-                                  (JJ oce√¢nica))
-                                (PP (IN de)
-                                       (NP 
-                                         (CD 10)
-                                         (NN mil)
-                                         (NN milhas)
-                                         (ADJP 
-                                           (JJ n√°uticas))))
-                                (ADVP 
-                                  (RB atrav√©s)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT os)
-                                      (NN portos)
-                                      (PP 
-                                        (IN de)
-                                        (_CU_ 
-                                          (NP 
-                                            (NNP Lisboa)
-                                            ({)
-                                            (NP 
-                                              (NNP Portugal))
-                                            (}))
-                                          (,)
-                                          (NP 
-                                            (NNP C√°diz)
-                                            ({)
-                                            (NP 
-                                              (NNP Espanha))
-                                            (}))
-                                          (,)
-                                          (NP 
-                                            (NNP Las_Palmas)
-                                            ({)
-                                            (NP 
-                                              (NNP Can√°rias))
-                                            (}))
-                                          (,)
-                                          (NP 
-                                            (NNP San_Juan)
-                                            ({)
-                                            (NP 
-                                              (NNP Porto_Rico))
-                                            (}))
-                                          (,)
-                                          (NP 
-                                            (_CU_ 
-                                              (NP 
-                                                (NNP Nova_Iorque))
-                                              (CC e)
-                                              (NP 
-                                                (NNP Boston)))
-                                            ({)
-                                            (NP 
-                                              (NNP EUA))
-                                            (}))
-                                          (CC e)
-                                          (NP 
-                                            (NNP Liverpool)
-                                            ({)
-                                            (NP 
-                                              (NNP Inglaterra))
-                                            (})))))))
-                                (PP (IN em+)
-                                       (NP 
-                                         (DT a)
-                                         (NNP Regata_Colombo_92)
-                                         (,)
-                                         (NP 
-                                           (DT uma)
-                                           (NN viagem)
-                                           (ADJP 
-                                             (JJ comemorativa)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT os)
-                                                 (CD 500)
-                                                 (NN anos)
-                                                 (PP 
-                                                   (IN de)
-                                                   (NP 
-                                                     (NN descoberta)
-                                                     (PP 
-                                                       (IN de+)
-                                                       (NP 
-                                                         (DT o)
-                                                         (NNP Novo_Mundo))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Terminava)
+    )
+    (NP 
+      (DT uma)
+      (NN rota)
+      (ADJP 
+        (JJ oce‚nica)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (CD 10)
+          (NN mil)
+          (NN milhas)
+          (ADJP 
+            (JJ n·uticas)
+          )
+        )
+      )
+      (ADVP 
+        (RB atravÈs)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN portos)
+            (PP 
+              (IN de)
+              (NP 
+                (NP 
+                  (NNP Lisboa)
+                  ({)
+                  (NP 
+                    (NNP Portugal)
+                  )
+                  (})
+                )
+                (,)
+                (NP 
+                  (NNP C·diz)
+                  ({)
+                  (NP 
+                    (NNP Espanha)
+                  )
+                  (})
+                )
+                (,)
+                (NP 
+                  (NNP Las_Palmas)
+                  ({)
+                  (NP 
+                    (NNP Can·rias)
+                  )
+                  (})
+                )
+                (,)
+                (NP 
+                  (NNP San_Juan)
+                  ({)
+                  (NP 
+                    (NNP Porto_Rico)
+                  )
+                  (})
+                )
+                (,)
+                (NP 
+                  (NP 
+                    (NP 
+                      (NNP Nova_Iorque)
+                    )
+                    (CC e)
+                    (NP 
+                      (NNP Boston)
+                    )
+                  )
+                  ({)
+                  (NP 
+                    (NNP EUA)
+                  )
+                  (})
+                )
+                (CC e)
+                (NP 
+                  (NNP Liverpool)
+                  ({)
+                  (NP 
+                    (NNP Inglaterra)
+                  )
+                  (})
+                )
+              )
+            )
+          )
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NNP Regata_Colombo_92)
+          (,)
+          (NP 
+            (DT uma)
+            (NN viagem)
+            (ADJP 
+              (JJ comemorativa)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (CD 500)
+                  (NN anos)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN descoberta)
+                      (PP 
+                        (IN de+)
+                        (NP 
+                          (DT o)
+                          (NNP Novo_Mundo)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

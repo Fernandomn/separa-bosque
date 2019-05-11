@@ -1,24 +1,42 @@
-(S (VP (Â«)
-                        (VP (IN Se)
-                                  (ADVP 
-                                    (RB hoje))
-                                  (VP 
-                                    (VBP tiver)
-                                    (IN de))
-                                  (_CU_ 
-                                    (VB fazer)
-                                    (CC e)
-                                    (VP 
-                                      (VB dizer)
-                                      (NP 
-                                        (PRP o)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP disse)))))))
-                        (,)
-                        (ADVP (RB nÃ£o))
-                        (VP (VBP hesitarei))
-                        (Â»)
-                        (.)))
+(S 
+  (VP 
+    («)
+    (VP 
+      (IN Se)
+      (ADVP 
+        (RB hoje)
+      )
+      (VP 
+        (VBP tiver)
+        (IN de)
+      )
+      (UCP 
+        (VB fazer)
+        (CC e)
+        (VP 
+          (VB dizer)
+          (NP 
+            (PRP o)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP disse)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (ADVP 
+      (RB não)
+    )
+    (VP 
+      (VBP hesitarei)
+    )
+    (»)
+    (.)
+  )
+)

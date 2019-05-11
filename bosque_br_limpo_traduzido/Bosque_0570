@@ -1,21 +1,39 @@
-(S (_CU_ (VP (PP 
-                                  (IN Para)
-                                  (NP 
-                                    (PRP outros)
-                                    (CD 9)
-                                    (NN %)))
-                                (,)
-                                (VP (VBP haverÃ¡))
-                                (NP (NN resistÃªncias)))
-                       (CC mas)
-                       (ADVP (ADVP 
-                                         (RB nÃ£o)
-                                         (PP 
-                                           (IN a_ponto_de)
-                                           (VP 
-                                             (VP 
-                                               (VB inviabilizar))
-                                             (NP 
-                                               (DT a)
-                                               (NN posse))))))
-                       (.)))
+(S 
+  (UCP 
+    (VP 
+      (PP 
+        (IN Para)
+        (NP 
+          (PRP outros)
+          (CD 9)
+          (NN %)
+        )
+      )
+      (,)
+      (VP 
+        (VBP haverá)
+      )
+      (NP 
+        (NN resistências)
+      )
+    )
+    mas    (ADVP 
+      (ADVP 
+        (RB não)
+        (PP 
+          (IN a_ponto_de)
+          (VP 
+            (VP 
+              (VB inviabilizar)
+            )
+            (NP 
+              (DT a)
+              (NN posse)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

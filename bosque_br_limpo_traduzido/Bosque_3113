@@ -1,42 +1,64 @@
-(S (NP (NN Consulta)
-                        (VP (VP (VBN realizada))
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (DT os)
-                                    (NN dias)
-                                    (_CU_ 
-                                      (NP 
-                                        (CD 28))
-                                      (CC e)
-                                      (ADJP 
-                                        (CD 29/03/94)))))
-                                (ADVP 
-                                  (RB junto)
-                                  (PP 
-                                    (IN a+)
-                                    (NP 
-                                      (DT as)
-                                      (NN locadoras)
-                                      (_CU_ 
-                                        (NP 
-                                          (NNP Cine_Arte_VÃ­deo))
-                                        (,)
-                                        (NP 
-                                          (NNP Gentile_VÃ­deo_Hobby_VÃ­deo))
-                                        (,)
-                                        (NP 
-                                          (NNP Over_VÃ­deo))
-                                        (,)
-                                        (NP 
-                                          (NNP Real_VÃ­deo))
-                                        (,)
-                                        (NP 
-                                          (NNP VÃ­deo_Clube_do_Brasil))
-                                        (,)
-                                        (NP 
-                                          (NNP VÃ­deo_Factory))
-                                        (CC e)
-                                        (NP 
-                                          (NNP Wolf_VÃ­deo)))))))
-                        (.)))
+(S 
+  (NP 
+    (NN Consulta)
+    (VP 
+      (VP 
+        (VBN realizada)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT os)
+          (NN dias)
+          (UCP 
+            (NP 
+              (CD 28)
+            )
+            e            (ADJP 
+              (CD 29/03/94)
+            )
+          )
+        )
+      )
+      (ADVP 
+        (RB junto)
+        (PP 
+          (IN a+)
+          (NP 
+            (DT as)
+            (NN locadoras)
+            (NP 
+              (NP 
+                (NNP Cine_Arte_Vídeo)
+              )
+              (,)
+              (NP 
+                (NNP Gentile_Vídeo_Hobby_Vídeo)
+              )
+              (,)
+              (NP 
+                (NNP Over_Vídeo)
+              )
+              (,)
+              (NP 
+                (NNP Real_Vídeo)
+              )
+              (,)
+              (NP 
+                (NNP Vídeo_Clube_do_Brasil)
+              )
+              (,)
+              (NP 
+                (NNP Vídeo_Factory)
+              )
+              e              (NP 
+                (NNP Wolf_Vídeo)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

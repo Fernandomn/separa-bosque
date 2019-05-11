@@ -1,71 +1,111 @@
-(S (VP (CC Mas)
-                        (,)
-                        (PP (IN com)
-                                 (NP (DT a)
-                                        (JJ normal)
-                                        (NN tendÃªncia)
-                                        (PP 
-                                          (IN para)
-                                          (NP 
-                                            (DT a)
-                                            (NN reduÃ§Ã£o)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT a)
-                                                (NN realidade)))))))
-                        (,)
-                        (VP (VBP passou-))
-                        (NP (PRP se))
-                        (PP (IN a)
-                                (VP (VP 
-                                          (VB falar))
-                                        (_CU_ 
-                                          (PP 
-                                            (ADVP 
-                                              (RB nÃ£o)
-                                              (RB apenas))
-                                            (IN em+)
-                                            (NP 
-                                              (DT a)
-                                              (Â«)
-                                              (NNP Escola_do_Porto)
-                                              (Â»)
-                                              (,)
-                                              (NP 
-                                                (NN conceito)
-                                                (PP 
-                                                  (IN com)
-                                                  (NP 
-                                                    (NN origem)
-                                                    (PP 
-                                                      (IN em+)
-                                                      (NP 
-                                                        (DT uma)
-                                                        (NN falÃ¡cia)
-                                                        (ADJP 
-                                                          (JJ regionalista))
-                                                        (VP 
-                                                          (ADVP 
-                                                            (RB jÃ¡)
-                                                            (RB muito))
-                                                          (VP 
-                                                            (VBN afastada))))))))))
-                                          (,)
-                                          (CC mas)
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT uma)
-                                              (ADJP 
-                                                (RB jÃ¡)
-                                                (_CU_ 
-                                                  (ADJP 
-                                                    (JJ mesquinha))
-                                                  (CC e)
-                                                  (ADJP 
-                                                    (JJ inexistente))))
-                                              (Â«)
-                                              (NNP Escola_do_Siza)
-                                              (Â»))))))
-                        (.)))
+(S 
+  (VP 
+    (CC Mas)
+    (,)
+    (PP 
+      (IN com)
+      (NP 
+        (DT a)
+        (JJ normal)
+        (NN tendência)
+        (PP 
+          (IN para)
+          (NP 
+            (DT a)
+            (NN redução)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN realidade)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP passou-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN a)
+      (VP 
+        (VP 
+          (VB falar)
+        )
+        (PP 
+          (PP 
+            (ADVP 
+              (RB não)
+              (RB apenas)
+            )
+            (IN em+)
+            (NP 
+              (DT a)
+              («)
+              (NNP Escola_do_Porto)
+              (»)
+              (,)
+              (NP 
+                (NN conceito)
+                (PP 
+                  (IN com)
+                  (NP 
+                    (NN origem)
+                    (PP 
+                      (IN em+)
+                      (NP 
+                        (DT uma)
+                        (NN falácia)
+                        (ADJP 
+                          (JJ regionalista)
+                        )
+                        (VP 
+                          (ADVP 
+                            (RB já)
+                            (RB muito)
+                          )
+                          (VP 
+                            (VBN afastada)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (,)
+          (CC mas)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT uma)
+              (ADJP 
+                (RB já)
+                (ADJP 
+                  (ADJP 
+                    (JJ mesquinha)
+                  )
+                  (CC e)
+                  (ADJP 
+                    (JJ inexistente)
+                  )
+                )
+              )
+              («)
+              (NNP Escola_do_Siza)
+              (»)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

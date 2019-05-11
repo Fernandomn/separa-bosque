@@ -1,69 +1,113 @@
-(S (VP (PP (IN a)
-                                 (NP (PRP o)
-                                        (NN lado)
-                                        (NP 
-                                          (_CU_ 
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NNP LuÃ­s_Miguel_Cintra)))
-                                            (CC e)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NNP Leonor_Silveira))))
-                                          (,)
-                                          (VP 
-                                            (VP 
-                                              (VBN apresentados))
-                                            (ADVP 
-                                              (RB como)
-                                              (NP 
-                                                (PRP os)
-                                                (NN guardiÃµes)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (PRP a)
-                                                    (NN casa)
-                                                    (PP 
-                                                      (IN de)
-                                                      (NP 
-                                                        (NNP Oliveira)))))))))))
-                        (,)
-                        (_CU_ (NP 
-                                   (NNP Deneuve))
-                                 (CC e)
-                                 (NP 
-                                   (NNP Malkovich)))
-                        (VP (VBP eram))
-                        (NP (PRP os)
-                               (NN estranhos)
-                               (VP 
-                                 (VP (VBN seduzidos))
-                                 (PP 
-                                   (IN por+)
-                                   (NP 
-                                     (PRP a)
-                                     (Â«)
-                                     (NN obscuridade)
-                                     (Â»)
-                                     (--)
-                                     (NP 
-                                       (NN palavra)
-                                       (PP 
-                                         (IN de)
-                                         (VP 
-                                           (NP 
-                                             (NNP Deneuve))
-                                           (,)
-                                           (VP 
-                                             (VP 
-                                               (VBG lembrando-))
-                                             (NP 
-                                               (PRP se))
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NNP BuÃ±uel)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN a)
+      (NP 
+        (PRP o)
+        (NN lado)
+        (NP 
+          (PP 
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Luís_Miguel_Cintra)
+              )
+            )
+            (CC e)
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Leonor_Silveira)
+              )
+            )
+          )
+          (,)
+          (VP 
+            (VP 
+              (VBN apresentados)
+            )
+            (ADVP 
+              (RB como)
+              (NP 
+                (PRP os)
+                (NN guardiões)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (PRP a)
+                    (NN casa)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NNP Oliveira)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NP 
+        (NNP Deneuve)
+      )
+      (CC e)
+      (NP 
+        (NNP Malkovich)
+      )
+    )
+    (VP 
+      (VBP eram)
+    )
+    (NP 
+      (PRP os)
+      (NN estranhos)
+      (VP 
+        (VP 
+          (VBN seduzidos)
+        )
+        (PP 
+          (IN por+)
+          (NP 
+            (PRP a)
+            («)
+            (NN obscuridade)
+            (»)
+            (--)
+            (NP 
+              (NN palavra)
+              (PP 
+                (IN de)
+                (VP 
+                  (NP 
+                    (NNP Deneuve)
+                  )
+                  (,)
+                  (VP 
+                    (VP 
+                      (VBG lembrando-)
+                    )
+                    (NP 
+                      (PRP se)
+                    )
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NNP Buñuel)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,53 +1,86 @@
-(S (NP (_CU_ (NP (NN Perplexidade))
-                             (CC e)
-                             (NP (NN desorientaÃ§Ã£o)))
-                       (;)
-                       (_CU_ (VP 
-                                    (NP 
-                                      (DT a)
-                                      (NNP SIC))
-                                    (ADVP 
-                                      (RB tambÃ©m))
-                                    (VP 
-                                      (VBP transmite))
-                                    (NP 
-                                      (NN homenagens)
-                                      (_CU_ 
-                                        (PP 
-                                          (IN a+)
-                                          (NP 
-                                            (DT as)
-                                            (NN mÃ£ezinhas)))
-                                        (CC e)
-                                        (PP 
-                                          (IN a+)
-                                          (NP 
-                                            (DT os)
-                                            (NN paizinhos))))))
-                                  (,)
-                                  (VP 
-                                    (NP 
-                                      (DT a)
-                                      (JJ Ãºnica)
-                                      (NN diferenÃ§a))
-                                    (VP 
-                                      (VBP estÃ¡))
-                                    (PP 
-                                      (IN em)
-                                      (VP 
-                                        (IN que)
-                                        (,)
-                                        (PP 
-                                          (IN em_vez_de)
-                                          (NP 
-                                            (NN flores)))
-                                        (,)
-                                        (VP 
-                                          (VBP dÃ£o-))
-                                        (NP 
-                                          (PRP lhes))
-                                        (NP 
-                                          (NN mÃºsica)
-                                          (ADJP 
-                                            (JJ pimba)))))))
-                       (.)))
+(S 
+  (NP 
+    (NP 
+      (NP 
+        (NN Perplexidade)
+      )
+      (CC e)
+      (NP 
+        (NN desorientação)
+      )
+    )
+    (;)
+    (VP 
+      (VP 
+        (NP 
+          (DT a)
+          (NNP SIC)
+        )
+        (ADVP 
+          (RB também)
+        )
+        (VP 
+          (VBP transmite)
+        )
+        (NP 
+          (NN homenagens)
+          (PP 
+            (PP 
+              (IN a+)
+              (NP 
+                (DT as)
+                (NN mãezinhas)
+              )
+            )
+            (CC e)
+            (PP 
+              (IN a+)
+              (NP 
+                (DT os)
+                (NN paizinhos)
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (NP 
+          (DT a)
+          (JJ única)
+          (NN diferença)
+        )
+        (VP 
+          (VBP está)
+        )
+        (PP 
+          (IN em)
+          (VP 
+            (IN que)
+            (,)
+            (PP 
+              (IN em_vez_de)
+              (NP 
+                (NN flores)
+              )
+            )
+            (,)
+            (VP 
+              (VBP dão-)
+            )
+            (NP 
+              (PRP lhes)
+            )
+            (NP 
+              (NN música)
+              (ADJP 
+                (JJ pimba)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

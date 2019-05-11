@@ -1,8 +1,22 @@
-(S (PP (IN Com)
-                       (_CU_ (NP (NNP Jeff_Goldblum))
-                              (,)
-                              (NP (NNP Alan_Bates))
-                              (,)
-                              (NP (NNP Kathy_Baker))
-                              (CC e)
-                              (NP (NNP Jean-Pierre_Cassel)))))
+(S 
+  (PP 
+    (IN Com)
+    (NP 
+      (NP 
+        (NNP Jeff_Goldblum)
+      )
+      (,)
+      (NP 
+        (NNP Alan_Bates)
+      )
+      (,)
+      (NP 
+        (NNP Kathy_Baker)
+      )
+      (CC e)
+      (NP 
+        (NNP Jean-Pierre_Cassel)
+      )
+    )
+  )
+)

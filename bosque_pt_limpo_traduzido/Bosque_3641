@@ -1,45 +1,80 @@
-(S (VP (PP (IN Para)
-                                 (VP 
-                                   (VP 
-                                     (VB resolver))
-                                   (NP 
-                                     (DT o)
-                                     (NN problema))))
-                        (,)
-                        (NP (DT o)
-                                 (NN director)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN institui√ß√£o)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN ensino)
-                                              (ADJP 
-                                                (JJ universit√°rio)))))))
-                        (VP (VBP vai))
-                        (ADVP (RB hoje))
-                        (VP (VB reunir))
-                        (PP (IN com)
-                                (NP (_CU_ 
-                                         (NP 
-                                           (DT o)
-                                           (NN presidente)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT a)
-                                               (NNP C√¢mara))))
-                                         (CC e)
-                                         (NP 
-                                           (DT o)
-                                           (NN comandante)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT a)
-                                               (NNP GNR)))))
-                                       (ADJP 
-                                         (JJ locais))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Para)
+      (VP 
+        (VP 
+          (VB resolver)
+        )
+        (NP 
+          (DT o)
+          (NN problema)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN director)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN instituiÁ„o)
+          (PP 
+            (IN de)
+            (NP 
+              (NN ensino)
+              (ADJP 
+                (JJ universit·rio)
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP vai)
+    )
+    (ADVP 
+      (RB hoje)
+    )
+    (VP 
+      (VB reunir)
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (NP 
+          (NP 
+            (DT o)
+            (NN presidente)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NNP C‚mara)
+              )
+            )
+          )
+          (CC e)
+          (NP 
+            (DT o)
+            (NN comandante)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NNP GNR)
+              )
+            )
+          )
+        )
+        (ADJP 
+          (JJ locais)
+        )
+      )
+    )
+    (.)
+  )
+)

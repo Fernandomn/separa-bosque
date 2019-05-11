@@ -1,91 +1,138 @@
-(S (VP (VP (VP 
-                                          (VBG Sendo))
-                                        (NP 
-                                          (DT a)
-                                          (NN fotografia))
-                                        (NP 
-                                          (DT um)
-                                          (NN lugar)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN registo)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT os)
-                                                  (NN corpos)))))))
-                        (,)
-                        (VP (VBP parece))
-                        (VP (IN que)
-                                  (,)
-                                  (NP 
-                                    (PRP este)
-                                    (NN ano))
-                                  (,)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT o)
-                                      (NN conjunto)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN exposiÃ§Ãµes)))))
-                                  (NP 
-                                    (PRP se))
-                                  (VP (VBP desprende))
-                                  (ADJP 
-                                    (ADJP 
-                                      (RB mais)
-                                      (CD uma))
-                                    (NN atitude)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (NN registo)))
-                                    (,)
-                                    (NP 
-                                      (DT a)
-                                      (NN participaÃ§Ã£o)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN fotÃ³grafo)
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (_CU_ 
-                                                (NP 
-                                                  (DT a)
-                                                  (NN construÃ§Ã£o))
-                                                (CC e)
-                                                (NP 
-                                                  (NN selecÃ§Ã£o)))
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN imagem))))))))
-                                    (ADJP 
-                                      (ADVP 
-                                        (IN do_que)
-                                        (NP 
-                                          (DT a)
-                                          (NN afirmaÃ§Ã£o)
-                                          (_CU_ 
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT as)
-                                                (PRP prÃ³prias)
-                                                (NN imagens)))
-                                            (,)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT o)
-                                                (PRP seu)
-                                                (NN corpo)))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBG Sendo)
+      )
+      (NP 
+        (DT a)
+        (NN fotografia)
+      )
+      (NP 
+        (DT um)
+        (NN lugar)
+        (PP 
+          (IN de)
+          (NP 
+            (NN registo)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT os)
+                (NN corpos)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP parece)
+    )
+    (VP 
+      (IN que)
+      (,)
+      (NP 
+        (PRP este)
+        (NN ano)
+      )
+      (,)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN conjunto)
+          (PP 
+            (IN de)
+            (NP 
+              (NN exposições)
+            )
+          )
+        )
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP desprende)
+      )
+      (ADJP 
+        (ADJP 
+          (RB mais)
+          (CD uma)
+        )
+        (NN atitude)
+        (PP 
+          (IN de)
+          (NP 
+            (NN registo)
+          )
+        )
+        (,)
+        (NP 
+          (DT a)
+          (NN participação)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN fotógrafo)
+              (PP 
+                (IN em+)
+                (NP 
+                  (NP 
+                    (NP 
+                      (DT a)
+                      (NN construção)
+                    )
+                    (CC e)
+                    (NP 
+                      (NN selecção)
+                    )
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN imagem)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+        (ADJP 
+          (ADVP 
+            (IN do_que)
+            (NP 
+              (DT a)
+              (NN afirmação)
+              (PP 
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT as)
+                    (PRP próprias)
+                    (NN imagens)
+                  )
+                )
+                (,)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (PRP seu)
+                    (NN corpo)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,46 +1,80 @@
-(S (VP (VP (ADVP 
-                                   (RB Quando))
-                                 (NP 
-                                   (NNP GuÃ­maro))
-                                 (VP (VBP foi)
-                                       (VBN detido))
-                                 (,)
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT a)
-                                     (NN sequÃªncia)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (DT um)
-                                         (NN processo)
-                                         (VP 
-                                           (VP 
-                                             (VBN desencadeado))
-                                           (PP 
-                                             (IN com_base_em)
-                                             (NP 
-                                               (NN denÃºncias)
-                                               (ADJP 
-                                                 (JJ anÃ³nimas))
-                                               (VP 
-                                                 (VP 
-                                                   (VBN feitas))
-                                                 (PP 
-                                                   (IN para)
-                                                   (NP 
-                                                     (DT a)
-                                                     (_CU_ 
-                                                       (NP 
-                                                         (NNP FederaÃ§Ã£o_Portuguesa_de_Futebol))
-                                                       (CC e)
-                                                       (NP 
-                                                         (NNP PolÃ­cia_JudiciÃ¡ria)))))))))))))
-                                 (,))
-                       (ADVP (RB desde_logo))
-                       (NP (PRP se))
-                       (VP (VBP levantou))
-                       (NP (DT uma)
-                               (NN questÃ£o))
-                       (;)))
+(S 
+  (VP 
+    (VP 
+      (ADVP 
+        (RB Quando)
+      )
+      (NP 
+        (NNP Guímaro)
+      )
+      (VP 
+        (VBP foi)
+        (VBN detido)
+      )
+      (,)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NN sequência)
+          (PP 
+            (IN de)
+            (NP 
+              (DT um)
+              (NN processo)
+              (VP 
+                (VP 
+                  (VBN desencadeado)
+                )
+                (PP 
+                  (IN com_base_em)
+                  (NP 
+                    (NN denúncias)
+                    (ADJP 
+                      (JJ anónimas)
+                    )
+                    (VP 
+                      (VP 
+                        (VBN feitas)
+                      )
+                      (PP 
+                        (IN para)
+                        (NP 
+                          (DT a)
+                          (NP 
+                            (NP 
+                              (NNP Federação_Portuguesa_de_Futebol)
+                            )
+                            (CC e)
+                            (NP 
+                              (NNP Polícia_Judiciária)
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+    )
+    (ADVP 
+      (RB desde_logo)
+    )
+    (NP 
+      (PRP se)
+    )
+    (VP 
+      (VBP levantou)
+    )
+    (NP 
+      (DT uma)
+      (NN questão)
+    )
+    (;)
+  )
+)

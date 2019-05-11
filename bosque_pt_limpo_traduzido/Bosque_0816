@@ -1,44 +1,74 @@
-(S (VP (VP (VBP Disse))
-                        (NP (NN vezes)
-                                 (PP sem_conta))
-                        (NP (NNP Manuel_Machado))
-                        (VP (IN que)
-                                 (,)
-                                 (Â«)
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (PRP o)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP for))
-                                       (_CU_ 
-                                         (ADJP 
-                                           (JJ vÃ¡lido))
-                                         (CC e)
-                                         (ADJP 
-                                           (JJ legÃ­timo))))))
-                                 (Â»)
-                                 (,)
-                                 (NP 
-                                   (DT a)
-                                   (NN edilidade))
-                                 (VP (VBP estÃ¡))
-                                 (VP 
-                                   (VP 
-                                     (VBN disposta))
-                                   (PP 
-                                     (IN a)
-                                     (VP 
-                                       (VP 
-                                         (VB encontrar))
-                                       (Â«)
-                                       (NP 
-                                         (DT uma)
-                                         (NN alternativa)
-                                         (ADJP 
-                                           (JJ possÃ­vel)))
-                                       (Â»)))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Disse)
+    )
+    (NP 
+      (NN vezes)
+      (PP sem_conta)
+    )
+    (NP 
+      (NNP Manuel_Machado)
+    )
+    (VP 
+      (IN que)
+      (,)
+      («)
+      (PP 
+        (IN em+)
+        (NP 
+          (PRP o)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP for)
+            )
+            (ADJP 
+              (ADJP 
+                (JJ válido)
+              )
+              (CC e)
+              (ADJP 
+                (JJ legítimo)
+              )
+            )
+          )
+        )
+      )
+      (»)
+      (,)
+      (NP 
+        (DT a)
+        (NN edilidade)
+      )
+      (VP 
+        (VBP está)
+      )
+      (VP 
+        (VP 
+          (VBN disposta)
+        )
+        (PP 
+          (IN a)
+          (VP 
+            (VP 
+              (VB encontrar)
+            )
+            («)
+            (NP 
+              (DT uma)
+              (NN alternativa)
+              (ADJP 
+                (JJ possível)
+              )
+            )
+            (»)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

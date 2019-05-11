@@ -1,73 +1,119 @@
-(S (VP (_CU_ (VP 
-                                   (VP 
-                                     (VBG Sendo))
-                                   (NP 
-                                     (,)
-                                     (PP 
-                                       (IN alÃ©m_de)
-                                       (NP 
-                                         (NN crÃ­tico)
-                                         (PP 
-                                           (IN de)
-                                           (_CU_ 
-                                             (NP 
-                                               (NN Ã³pera))
-                                             (CC e)
-                                             (NP 
-                                               (NN fotografia))))))
-                                     (,)
-                                     (NN professor)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN quÃ­mica)))))
-                                 (,)
-                                 (VP 
-                                   (VP 
-                                     (VBG trabalhando))
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT o)
-                                       (NN domÃ­nio)
-                                       (_CU_ 
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NN termodinÃ¢mica)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT os)
-                                                 (NN objectos)
-                                                 (ADJP 
-                                                   (JJ moleculares))))))
-                                         (CC e)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT as)
-                                             (NN relaÃ§Ãµes)
-                                             (PP 
-                                               (IN entre)
-                                               (_CU_ 
-                                                 (NP 
-                                                   (NN artes))
-                                                 (CC e)
-                                                 (NP 
-                                                   (NN ciÃªncias)))))))))))
-                        (,)
-                        (NP (NNP Calado))
-                        (VP (VBP estava))
-                        (VBN habilitado)
-                        (ADVP (RB como)
-                                  (NP 
-                                    (PRP ninguÃ©m)))
-                        (PP (IN a)
-                                (VP (VP 
-                                          (VB comissariar))
-                                        (NP 
-                                          (PRP esta)
-                                          (NN exposiÃ§Ã£o))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VP 
+          (VBG Sendo)
+        )
+        (NP 
+          (,)
+          (PP 
+            (IN além_de)
+            (NP 
+              (NN crítico)
+              (PP 
+                (IN de)
+                (NP 
+                  (NP 
+                    (NN ópera)
+                  )
+                  (CC e)
+                  (NP 
+                    (NN fotografia)
+                  )
+                )
+              )
+            )
+          )
+          (,)
+          (NN professor)
+          (PP 
+            (IN de)
+            (NP 
+              (NN química)
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBG trabalhando)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NN domínio)
+            (PP 
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NN termodinâmica)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT os)
+                      (NN objectos)
+                      (ADJP 
+                        (JJ moleculares)
+                      )
+                    )
+                  )
+                )
+              )
+              (CC e)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT as)
+                  (NN relações)
+                  (PP 
+                    (IN entre)
+                    (NP 
+                      (NP 
+                        (NN artes)
+                      )
+                      (CC e)
+                      (NP 
+                        (NN ciências)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP Calado)
+    )
+    (VP 
+      (VBP estava)
+    )
+    (VBN habilitado)
+    (ADVP 
+      (RB como)
+      (NP 
+        (PRP ninguém)
+      )
+    )
+    (PP 
+      (IN a)
+      (VP 
+        (VP 
+          (VB comissariar)
+        )
+        (NP 
+          (PRP esta)
+          (NN exposição)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,42 +1,76 @@
-(S (VP (PP (IN Ap√≥s)
-                                 (NP (PRP algum)
-                                        (NN treino)))
-                        (,)
-                        (NP (DT os)
-                                 (NN comandos))
-                        (VP (VBP s√£o))
-                        (ADJP (JJ f√°ceis)
-                                 (PP 
-                                   (IN de)
-                                   (VB manejar)))
-                        (,)
-                        (VP 
-                          (VP (VBG permitindo))
-                          (PP (IN a+)
-                                  (NP 
-                                    (DT o)
-                                    (NN jogador)))
-                          (_CU_ (VP 
-                                    (VP 
-                                      (VB executar))
-                                    (NP 
-                                      (NN piruetas)))
-                                  (CC ou)
-                                  (VP 
-                                    (VP 
-                                      (VB utilizar))
-                                    (NP 
-                                      (DT o)
-                                      (NN propulsor))
-                                    (PP 
-                                      (IN para)
-                                      (VP 
-                                        (VP 
-                                          (VB acelerar))
-                                        (ADVP 
-                                          (RB momentaneamente))
-                                        (NP 
-                                          (DT a)
-                                          (PRP sua)
-                                          (NN nave)))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN ApÛs)
+      (NP 
+        (PRP algum)
+        (NN treino)
+      )
+    )
+    (,)
+    (NP 
+      (DT os)
+      (NN comandos)
+    )
+    (VP 
+      (VBP s„o)
+    )
+    (ADJP 
+      (JJ f·ceis)
+      (PP 
+        (IN de)
+        (VB manejar)
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG permitindo)
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT o)
+          (NN jogador)
+        )
+      )
+      (VP 
+        (VP 
+          (VP 
+            (VB executar)
+          )
+          (NP 
+            (NN piruetas)
+          )
+        )
+        (CC ou)
+        (VP 
+          (VP 
+            (VB utilizar)
+          )
+          (NP 
+            (DT o)
+            (NN propulsor)
+          )
+          (PP 
+            (IN para)
+            (VP 
+              (VP 
+                (VB acelerar)
+              )
+              (ADVP 
+                (RB momentaneamente)
+              )
+              (NP 
+                (DT a)
+                (PRP sua)
+                (NN nave)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

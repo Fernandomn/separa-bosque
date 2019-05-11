@@ -1,47 +1,82 @@
-(S (VP (NP (DT O)
-                                 (NN substitutivo))
-                        (VP (VBP d√°))
-                        (PP (IN a+)
-                                (NP (DT os)
-                                       (NN minist√©rios)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (_CU_ 
-                                             (NP 
-                                               (NN Fazenda))
-                                             (CC e)
-                                             (NP 
-                                               (NN Justi√ßa)))))))
-                        (NP (NN poder)
-                                (PP (IN de)
-                                       (VP 
-                                         (VP 
-                                           (VB pedir))
-                                         (NP 
-                                           (NN interven√ß√£o)
-                                           (ADJP 
-                                             (JJ judicial)))
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT as)
-                                             (NN empresas)
-                                             (VP 
-                                               (VP 
-                                                 (VBN acusadas))
-                                               (PP 
-                                                 (IN de)
-                                                 (VP 
-                                                   (VP 
-                                                     (VB praticar))
-                                                   (NP 
-                                                     (NN aumento)
-                                                     (ADJP 
-                                                       (JJ injustificado))
-                                                     (PP 
-                                                       (IN de)
-                                                       (NP 
-                                                         (NN pre√ßos))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN substitutivo)
+    )
+    (VP 
+      (VBP d·)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT os)
+        (NN ministÈrios)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NP 
+              (NP 
+                (NN Fazenda)
+              )
+              e              (NP 
+                (NN JustiÁa)
+              )
+            )
+          )
+        )
+      )
+    )
+    (NP 
+      (NN poder)
+      (PP 
+        (IN de)
+        (VP 
+          (VP 
+            (VB pedir)
+          )
+          (NP 
+            (NN intervenÁ„o)
+            (ADJP 
+              (JJ judicial)
+            )
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT as)
+              (NN empresas)
+              (VP 
+                (VP 
+                  (VBN acusadas)
+                )
+                (PP 
+                  (IN de)
+                  (VP 
+                    (VP 
+                      (VB praticar)
+                    )
+                    (NP 
+                      (NN aumento)
+                      (ADJP 
+                        (JJ injustificado)
+                      )
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (NN preÁos)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

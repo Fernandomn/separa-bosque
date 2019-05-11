@@ -1,18 +1,36 @@
-(S (VP (NP (DT As)
-                                (NN descidas))
-                       (VP (VBP oscilam))
-                       (,)
-                       (ADVP (RB consoante)
-                                 (NP 
-                                   (DT os)
-                                   (NN produtos)))
-                       (,)
-                       (PP (IN entre)
-                                (NP (_CU_ 
-                                         (NP 
-                                           (CD 9,8))
-                                         (CC e)
-                                         (ADJP 
-                                           (CD 26,9)))
-                                       (NN por_cento)))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN descidas)
+    )
+    (VP 
+      (VBP oscilam)
+    )
+    (,)
+    (ADVP 
+      (RB consoante)
+      (NP 
+        (DT os)
+        (NN produtos)
+      )
+    )
+    (,)
+    (PP 
+      (IN entre)
+      (NP 
+        (UCP 
+          (NP 
+            (CD 9,8)
+          )
+          (CC e)
+          (ADJP 
+            (CD 26,9)
+          )
+        )
+        (NN por_cento)
+      )
+    )
+    (.)
+  )
+)

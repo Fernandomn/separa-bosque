@@ -1,38 +1,65 @@
-(S (VP (NP (PRP Este)
-                                 (NN responsÃ¡vel))
-                        (VP (VBP adianta))
-                        (VP (IN que)
-                                 (Â«)
-                                 (NP 
-                                   (NNP Carlos_AndrÃ©))
-                                 (VP (VBP Ã©))
-                                 (NP (DT um)
-                                        (NN nome)
-                                        (_CU_ 
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (VP 
-                                              (VBP foi)
-                                              (VBN falado))
-                                            (PP 
-                                              (IN para)
-                                              (NP 
-                                                (DT o)
-                                                (NN cargo))))
-                                          (CC e)
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (VP 
-                                              (VBP reÃºne))
-                                            (NP 
-                                              (DT a)
-                                              (NN totalidade)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT as)
-                                                  (NN caracterÃ­sticas)
-                                                  (VBN pretendidas))))))))
-                        (;)))
+(S 
+  (VP 
+    (NP 
+      (PRP Este)
+      (NN responsável)
+    )
+    (VP 
+      (VBP adianta)
+    )
+    (VP 
+      (IN que)
+      («)
+      (NP 
+        (NNP Carlos_André)
+      )
+      (VP 
+        (VBP é)
+      )
+      (NP 
+        (DT um)
+        (NN nome)
+        (VP 
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP foi)
+              (VBN falado)
+            )
+            (PP 
+              (IN para)
+              (NP 
+                (DT o)
+                (NN cargo)
+              )
+            )
+          )
+          (CC e)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP reúne)
+            )
+            (NP 
+              (DT a)
+              (NN totalidade)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT as)
+                  (NN características)
+                  (VBN pretendidas)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (;)
+  )
+)

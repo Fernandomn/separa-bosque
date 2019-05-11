@@ -1,24 +1,44 @@
-(S (VP (NP (DT O)
-                                 (Â«)
-                                 (NNP DiÃ¡rio_da_RepÃºblica)
-                                 (Â»))
-                        (ADVP (RB nÃ£o))
-                        (VP (VBP tem))
-                        (NP (DT o)
-                                (NN exclusivo)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN publicaÃ§Ã£o)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT as)
-                                             (JJ boas)
-                                             (NN notÃ­cias)
-                                             (_CU_ 
-                                               (ADJP 
-                                                 (JJ legais))
-                                               (CC ou)
-                                               (ADJP 
-                                                 (JJ regulamentares))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      («)
+      (NNP Diário_da_República)
+      (»)
+    )
+    (ADVP 
+      (RB não)
+    )
+    (VP 
+      (VBP tem)
+    )
+    (NP 
+      (DT o)
+      (NN exclusivo)
+      (PP 
+        (IN de)
+        (NP 
+          (NN publicação)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT as)
+              (JJ boas)
+              (NN notícias)
+              (ADJP 
+                (ADJP 
+                  (JJ legais)
+                )
+                (CC ou)
+                (ADJP 
+                  (JJ regulamentares)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

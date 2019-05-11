@@ -1,143 +1,215 @@
-(S (VP (NP (DT A)
-                                 (NN hist√≥ria))
-                        (VP (VBP remonta))
-                        (PP (IN a)
-                                (ADJP 
-                                  (CD 1983)
-                                  (,)
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN histÛria)
+    )
+    (VP 
+      (VBP remonta)
+    )
+    (PP 
+      (IN a)
+      (ADJP 
+        (CD 1983)
+        (,)
+        (NP 
+          (NN altura)
+          (VP 
+            (PP 
+              (IN em)
+              (NP 
+                (PRP que)
+              )
+            )
+            (NP 
+              (DT o)
+              (NNP Governo)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NNP Bloco_Central)
+                )
+              )
+            )
+            (,)
+            (ADVP 
+              (RB atravÈs)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NNP MinistÈrio_do_Equipamento_Social)
+                  (,)
+                  (VP 
+                    (VP 
+                      (VBN titulado)
+                    )
+                    (PP 
+                      (IN por+)
+                      (NP 
+                        (DT o)
+                        (NN socialista)
+                        (NP 
+                          (NNP Rosado_Correia)
+                        )
+                      )
+                    )
+                  )
+                  (,)
+                )
+              )
+            )
+            (VP 
+              (VBP assinou)
+            )
+            (PP 
+              (IN com)
+              (NP 
+                (DT a)
+                (NNP C‚mara_de_Fafe)
+              )
+            )
+            (NP 
+              (DT um)
+              (NN protocolo)
+              (VP 
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (PRP o_qual)
+                  )
+                )
+                (NP 
+                  (PRP se)
+                )
+                (VP 
+                  (VBP comprometia)
+                )
+                (NP 
+                  (PP 
+                    (PP 
+                      (IN a)
+                      (VP 
+                        (VP 
+                          (VB custear)
+                        )
+                        (NP 
+                          (DT um)
+                          (NN centro)
+                          (ADJP 
+                            (JJ coordenador)
+                            (PP 
+                              (IN de)
+                              (NP 
+                                (NN transportes)
+                              )
+                            )
+                          )
+                        )
+                        (PP 
+                          (IN atÈ)
+                          (PP 
+                            (IN a+)
+                            (NP 
+                              (DT o)
+                              (NN montante)
+                              (PP 
+                                (IN de)
+                                (NP 
                                   (NP 
-                                    (NN altura)
-                                    (VP 
-                                      (PP 
-                                        (IN em)
-                                        (NP 
-                                          (PRP que)))
-                                      (NP 
-                                        (DT o)
-                                        (NNP Governo)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NNP Bloco_Central))))
-                                      (,)
-                                      (ADVP 
-                                        (RB atrav√©s)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NNP Minist√©rio_do_Equipamento_Social)
-                                            (,)
-                                            (VP 
-                                              (VP 
-                                                (VBN titulado))
-                                              (PP 
-                                                (IN por+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN socialista)
-                                                  (NP 
-                                                    (NNP Rosado_Correia)))))
-                                            (,))))
-                                      (VP 
-                                        (VBP assinou))
-                                      (PP 
-                                        (IN com)
-                                        (NP 
-                                          (DT a)
-                                          (NNP C√¢mara_de_Fafe)))
-                                      (NP 
-                                        (DT um)
-                                        (NN protocolo)
-                                        (VP 
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (PRP o_qual)))
-                                          (NP 
-                                            (PRP se))
-                                          (VP 
-                                            (VBP comprometia))
-                                          (NP 
-                                            (_CU_ 
-                                              (PP 
-                                                (IN a)
-                                                (VP 
-                                                  (VP 
-                                                    (VB custear))
-                                                  (NP 
-                                                    (DT um)
-                                                    (NN centro)
-                                                    (ADJP 
-                                                      (JJ coordenador)
-                                                      (PP 
-                                                        (IN de)
-                                                        (NP 
-                                                          (NN transportes)))))
-                                                  (PP 
-                                                    (IN at√©)
-                                                    (PP 
-                                                      (IN a+)
-                                                      (NP 
-                                                        (DT o)
-                                                        (NN montante)
-                                                        (PP 
-                                                          (IN de)
-                                                          (NP 
-                                                            (NP 
-                                                              (CD cem)
-                                                              (NN mil))
-                                                            (NN contos))))))))
-                                              (CC e)
-                                              (PP 
-                                                (IN a)
-                                                (VP 
-                                                  (VP 
-                                                    (VB financiar))
-                                                  (PP 
-                                                    (IN em)
-                                                    (NP 
-                                                      (CD 90)
-                                                      (NN por_cento)))
-                                                  (NP 
-                                                    (DT a)
-                                                    (NN constru√ß√£o)
-                                                    (PP 
-                                                      (IN de)
-                                                      (NP 
-                                                        (DT uma)
-                                                        (NN via)
-                                                        (ADJP 
-                                                          (JJ circular))
-                                                        (PP 
-                                                          (IN a+)
-                                                          (NP 
-                                                            (DT a)
-                                                            (NN cidade)))))))))
-                                            (,)
-                                            (ADVP 
-                                              (RB como)
-                                              (NP 
-                                                (NN contrapartidas)
-                                                (PP 
-                                                  (IN a+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (NN desactiva√ß√£o)
-                                                    (PP 
-                                                      (IN de+)
-                                                      (NP 
-                                                        (DT a)
-                                                        (NN linha)
-                                                        (ADJP 
-                                                          (JJ f√©rrea))
-                                                        (PP 
-                                                          (IN entre)
-                                                          (_CU_ 
-                                                            (NP 
-                                                              (NNP Guimar√£es))
-                                                            (CC e)
-                                                            (NP 
-                                                              (NNP Fafe)))))))))))))))))
-                        (.)))
+                                    (CD cem)
+                                    (NN mil)
+                                  )
+                                  (NN contos)
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                    (CC e)
+                    (PP 
+                      (IN a)
+                      (VP 
+                        (VP 
+                          (VB financiar)
+                        )
+                        (PP 
+                          (IN em)
+                          (NP 
+                            (CD 90)
+                            (NN por_cento)
+                          )
+                        )
+                        (NP 
+                          (DT a)
+                          (NN construÁ„o)
+                          (PP 
+                            (IN de)
+                            (NP 
+                              (DT uma)
+                              (NN via)
+                              (ADJP 
+                                (JJ circular)
+                              )
+                              (PP 
+                                (IN a+)
+                                (NP 
+                                  (DT a)
+                                  (NN cidade)
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                  (,)
+                  (ADVP 
+                    (RB como)
+                    (NP 
+                      (NN contrapartidas)
+                      (PP 
+                        (IN a+)
+                        (NP 
+                          (DT a)
+                          (NN desactivaÁ„o)
+                          (PP 
+                            (IN de+)
+                            (NP 
+                              (DT a)
+                              (NN linha)
+                              (ADJP 
+                                (JJ fÈrrea)
+                              )
+                              (PP 
+                                (IN entre)
+                                (NP 
+                                  (NP 
+                                    (NNP Guimar„es)
+                                  )
+                                  (CC e)
+                                  (NP 
+                                    (NNP Fafe)
+                                  )
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

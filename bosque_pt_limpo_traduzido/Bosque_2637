@@ -1,17 +1,30 @@
-(S (VP (VP (VBP Resta))
-                        (,)
-                        (PP por_exclus√£o)
-                        (,)
-                        (NP (DT o)
-                                 (NN governo)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN pobrezinhos)
-                                          (,)
-                                          (_CU_ 
-                                            (ADJP 
-                                              (JJ humildes))
-                                            (CC mas)
-                                            (VBN honrados)))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Resta)
+    )
+    (,)
+    (PP por_exclus„o)
+    (,)
+    (NP 
+      (DT o)
+      (NN governo)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN pobrezinhos)
+          (,)
+          (UCP 
+            (ADJP 
+              (JJ humildes)
+            )
+            (CC mas)
+            (VBN honrados)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

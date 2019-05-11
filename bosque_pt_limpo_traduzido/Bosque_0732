@@ -1,14 +1,32 @@
-(S (VP (PP (IN atÃ©)
-                                 (RB agora))
-                        (,)
-                        (NP (DT as)
-                                 (NN pessoas))
-                        (VP (VBP morriam))
-                        (_CU_ (PP (IN de)
-                                        (NP 
-                                          (NN doenÃ§a)))
-                                (CC ou)
-                                (PP (IN de)
-                                        (NP 
-                                          (NN velhice))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN até)
+      (RB agora)
+    )
+    (,)
+    (NP 
+      (DT as)
+      (NN pessoas)
+    )
+    (VP 
+      (VBP morriam)
+    )
+    (PP 
+      (PP 
+        (IN de)
+        (NP 
+          (NN doença)
+        )
+      )
+      (CC ou)
+      (PP 
+        (IN de)
+        (NP 
+          (NN velhice)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,71 +1,112 @@
-(S (VP (NP (NN Documento)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP Minist√©rio_das_Rela√ß√µes_Exteriores)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NNP Canad√°)))))
-                                 (,)
-                                 (VP 
-                                   (VP 
-                                     (VBN obtido))
-                                   (PP 
-                                     (IN por+)
-                                     (NP 
-                                       (DT a)
-                                       (NNP Folha))))
-                                 (,))
-                        (VP (VBP d√°))
-                        (NP (NN apoio)
-                                (PP (IN a+)
-                                       (NP 
-                                         (DT o)
-                                         (NN lobby)
-                                         ({)
-                                         (NP 
-                                           (NN grupo)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN press√£o))))
-                                         (})
-                                         (VP 
-                                           (VP 
-                                             (VBN feito))
-                                           (PP 
-                                             (IN por+)
-                                             (NP 
-                                               (DT a)
-                                               (NN Embaixada)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT o)
-                                                   (NNP Canad√°)))))
-                                           (ADVP 
-                                             (RB junto)
-                                             (PP 
-                                               (IN a)
-                                               (NP 
-                                                 (_CU_ 
-                                                   (NP 
-                                                     (NN senadores))
-                                                   (CC e)
-                                                   (NP 
-                                                     (NN deputados)))
-                                                 (ADJP 
-                                                   (JJ brasileiros)))))
-                                           (PP 
-                                             (IN para)
-                                             (VP 
-                                               (IN que)
-                                               (NP 
-                                                 (DT os)
-                                                 (NN canadenses))
-                                               (VP 
-                                                 (VBP sejam)
-                                                 (VBN expulsos))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Documento)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NNP MinistÈrio_das_RelaÁıes_Exteriores)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Canad·)
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBN obtido)
+        )
+        (PP 
+          (IN por+)
+          (NP 
+            (DT a)
+            (NNP Folha)
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP d·)
+    )
+    (NP 
+      (NN apoio)
+      (PP 
+        (IN a+)
+        (NP 
+          (DT o)
+          (NN lobby)
+          ({)
+          (NP 
+            (NN grupo)
+            (PP 
+              (IN de)
+              (NP 
+                (NN press„o)
+              )
+            )
+          )
+          (})
+          (VP 
+            (VP 
+              (VBN feito)
+            )
+            (PP 
+              (IN por+)
+              (NP 
+                (DT a)
+                (NN Embaixada)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NNP Canad·)
+                  )
+                )
+              )
+            )
+            (ADVP 
+              (RB junto)
+              (PP 
+                (IN a)
+                (NP 
+                  (NP 
+                    (NP 
+                      (NN senadores)
+                    )
+                    e                    (NP 
+                      (NN deputados)
+                    )
+                  )
+                  (ADJP 
+                    (JJ brasileiros)
+                  )
+                )
+              )
+            )
+            (PP 
+              (IN para)
+              (VP 
+                (IN que)
+                (NP 
+                  (DT os)
+                  (NN canadenses)
+                )
+                (VP 
+                  (VBP sejam)
+                  (VBN expulsos)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

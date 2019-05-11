@@ -1,46 +1,75 @@
-(S (_CU_ (VP (PP 
-                                  (IN Em+)
-                                  (NP 
-                                    (DT os)
-                                    (NNP EUA)))
-                                (,)
-                                (NP 
-                                  (DT o)
-                                  (NN Museu)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT a)
-                                      (NNP OEA)
-                                      ({)
-                                      (NP 
-                                        (NNP OrganizaÃ§Ã£o_dos_Estados_Americanos))
-                                      (}))))
-                                (ADVP 
-                                  (RB jÃ¡))
-                                (VP (VBP tem)
-                                      (VBN agendada))
-                                (NP (DT uma)
-                                        (NN exposiÃ§Ã£o)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NNP AmÃ©lia)))))
-                       (,)
-                       (CC mas)
-                       (VP (NP 
-                                  (PRP ela))
-                                (ADVP 
-                                  (RB nÃ£o))
-                                (VP (VBP sabe))
-                                (VP 
-                                  (IN se)
-                                  (VP (VBP instala))
-                                  (ADVP 
-                                    (RB lÃ¡))
-                                  (NP 
-                                    (PRP suas)
-                                    (Â«)
-                                    (NNP Sete_Ondas)
-                                    (Â»))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (PP 
+        (IN Em+)
+        (NP 
+          (DT os)
+          (NNP EUA)
+        )
+      )
+      (,)
+      (NP 
+        (DT o)
+        (NN Museu)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP OEA)
+            ({)
+            (NP 
+              (NNP Organização_dos_Estados_Americanos)
+            )
+            (})
+          )
+        )
+      )
+      (ADVP 
+        (RB já)
+      )
+      (VP 
+        (VBP tem)
+        (VBN agendada)
+      )
+      (NP 
+        (DT uma)
+        (NN exposição)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Amélia)
+          )
+        )
+      )
+    )
+    (,)
+    mas    (VP 
+      (NP 
+        (PRP ela)
+      )
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VBP sabe)
+      )
+      (VP 
+        (IN se)
+        (VP 
+          (VBP instala)
+        )
+        (ADVP 
+          (RB lá)
+        )
+        (NP 
+          (PRP suas)
+          («)
+          (NNP Sete_Ondas)
+          (»)
+        )
+      )
+    )
+    (.)
+  )
+)

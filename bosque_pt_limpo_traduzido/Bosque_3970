@@ -1,60 +1,95 @@
-(S (VP (NP (NNP Clinton)
-                                 (,)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (ADVP 
-                                     (RB afinal_de_contas))
-                                   (ADVP 
-                                     (RB n√£o))
-                                   (VP 
-                                     (VBP teve)
-                                     (IN de)
-                                     (VB lan√ßar))
-                                   (NP 
-                                     (NN invas√£o)
-                                     (NP 
-                                       (PRP nenhuma))))
-                                 (,))
-                        (VP (VBP deu))
-                        (NP (NN exemplos)
-                                (PP (IN de)
-                                       (NP 
-                                         (PRP outras)
-                                         (NN interven√ß√µes)
-                                         (ADJP 
-                                           (JJ militares))
-                                         (,)
-                                         (ADVP 
-                                           (RB como)
-                                           (_CU_ 
-                                             (PP 
-                                               (IN em)
-                                               (VBN Granada))
-                                             (CC ou)
-                                             (PP 
-                                               (IN em+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NNP Panam√°)))))
-                                         (,)
-                                         (VP 
-                                           (PP 
-                                             (IN em)
-                                             (NP 
-                                               (PRP que)))
-                                           (NP 
-                                             (DT os)
-                                             (NN Presidentes))
-                                           (ADVP 
-                                             (RB n√£o))
-                                           (VP 
-                                             (VBP pediram))
-                                           (NP 
-                                             (NN autoriza√ß√£o))
-                                           (PP 
-                                             (IN a+)
-                                             (NP 
-                                               (DT o)
-                                               (NNP Congresso)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Clinton)
+      (,)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (ADVP 
+          (RB afinal_de_contas)
+        )
+        (ADVP 
+          (RB n„o)
+        )
+        (VP 
+          (VBP teve)
+          (IN de)
+          (VB lanÁar)
+        )
+        (NP 
+          (NN invas„o)
+          (NP 
+            (PRP nenhuma)
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP deu)
+    )
+    (NP 
+      (NN exemplos)
+      (PP 
+        (IN de)
+        (NP 
+          (PRP outras)
+          (NN intervenÁıes)
+          (ADJP 
+            (JJ militares)
+          )
+          (,)
+          (ADVP 
+            (RB como)
+            (PP 
+              (PP 
+                (IN em)
+                (VBN Granada)
+              )
+              (CC ou)
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT o)
+                  (NNP Panam·)
+                )
+              )
+            )
+          )
+          (,)
+          (VP 
+            (PP 
+              (IN em)
+              (NP 
+                (PRP que)
+              )
+            )
+            (NP 
+              (DT os)
+              (NN Presidentes)
+            )
+            (ADVP 
+              (RB n„o)
+            )
+            (VP 
+              (VBP pediram)
+            )
+            (NP 
+              (NN autorizaÁ„o)
+            )
+            (PP 
+              (IN a+)
+              (NP 
+                (DT o)
+                (NNP Congresso)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

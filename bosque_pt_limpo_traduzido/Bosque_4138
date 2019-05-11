@@ -1,23 +1,48 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT o)
-                                        (NN dia)
-                                        (ADJP 
-                                          (JJ seguinte))))
-                        (,)
-                        (_CU_ (NP 
-                                   (NNP Armanda))
-                                 (CC e)
-                                 (NP 
-                                   (NNP Moreira)))
-                        (VP (VBP voltaram))
-                        (PP (IN a+)
-                               (NP (DT o)
-                                      (NN cartÃ³rio)))
-                        (,)
-                        (VP 
-                          (VP (VBN acompanhados))
-                          (PP (IN de+)
-                                   (NP 
-                                     (DT as)
-                                     (NN testemunhas))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT o)
+        (NN dia)
+        (ADJP 
+          (JJ seguinte)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NP 
+        (NNP Armanda)
+      )
+      (CC e)
+      (NP 
+        (NNP Moreira)
+      )
+    )
+    (VP 
+      (VBP voltaram)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT o)
+        (NN cartório)
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBN acompanhados)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (NN testemunhas)
+        )
+      )
+    )
+    (.)
+  )
+)

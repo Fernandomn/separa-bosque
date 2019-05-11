@@ -1,40 +1,70 @@
-(S (VP (NP (DT As)
-                                 (NN delegaÃ§Ãµes)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP Governo)
-                                          (_CU_ 
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NNP Luanda)))
-                                            (CC e)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT a)
-                                                (NNP Unita)))))))
-                        (VP (VBP rubricam))
-                        (NP (DT o)
-                                (NN protocolo)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT as)
-                                         (NN conversaÃ§Ãµes)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NNP Lusaca))))))
-                        (PP (IN para)
-                                 (VP 
-                                   (IN que)
-                                   (VP 
-                                     (VBP haja))
-                                   (NP 
-                                     (NN paz))
-                                   (PP 
-                                     (IN em)
-                                     (NP 
-                                       (NNP Angola)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN delegações)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NNP Governo)
+          (PP 
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Luanda)
+              )
+            )
+            (CC e)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NNP Unita)
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP rubricam)
+    )
+    (NP 
+      (DT o)
+      (NN protocolo)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (NN conversações)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Lusaca)
+            )
+          )
+        )
+      )
+    )
+    (PP 
+      (IN para)
+      (VP 
+        (IN que)
+        (VP 
+          (VBP haja)
+        )
+        (NP 
+          (NN paz)
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (NNP Angola)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,66 +1,106 @@
-(S (VP (PP (IN Para)
-                                 (NP (DT o)
-                                        (NN autarca)
-                                        (NP 
-                                          (NNP JosÃ©_Noras))
-                                        (,)
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (NN declaraÃ§Ãµes)
-                                            (PP 
-                                              (IN a+)
-                                              (NP 
-                                                (DT a)
-                                                (NNP agÃªncia_Lusa)))))))
-                        (,)
-                        (NP (DT o)
-                                 (NN achado)
-                                 (ADJP 
-                                   (JJ arqueolÃ³gico)))
-                        (Â«)
-                        (VP (VBP permite))
-                        (_CU_ (VP 
-                                  (VP (VB descodificar))
-                                  (NP 
-                                    (DT a)
-                                    (NN presenÃ§a)
-                                    (ADJP 
-                                      (JJ romana))
-                                    (PP 
-                                      (IN em+)
-                                      (NP 
-                                        (DT a)
-                                        (JJ velha)
-                                        (Â«)
-                                        (NNP Scalabis)
-                                        (Â»)))))
-                                (CC e)
-                                (VP 
-                                  (VP (VB explicar))
-                                  (NP 
-                                    (DT a)
-                                    (NN importÃ¢ncia)
-                                    (ADJP 
-                                      (JJ estratÃ©gica))
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (NNP SantarÃ©m)))
-                                    (PP 
-                                      (IN em+)
-                                      (NP 
-                                        (DT o)
-                                        (NN contexto)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN PenÃ­nsula)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (PRP essa)
-                                                (NN Ã©poca))))))))))
-                        (Â»)
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Para)
+      (NP 
+        (DT o)
+        (NN autarca)
+        (NP 
+          (NNP José_Noras)
+        )
+        (,)
+        (PP 
+          (IN em)
+          (NP 
+            (NN declarações)
+            (PP 
+              (IN a+)
+              (NP 
+                (DT a)
+                (NNP agência_Lusa)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN achado)
+      (ADJP 
+        (JJ arqueológico)
+      )
+    )
+    («)
+    (VP 
+      (VBP permite)
+    )
+    (VP 
+      (VP 
+        (VP 
+          (VB descodificar)
+        )
+        (NP 
+          (DT a)
+          (NN presença)
+          (ADJP 
+            (JJ romana)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (JJ velha)
+              («)
+              (NNP Scalabis)
+              (»)
+            )
+          )
+        )
+      )
+      (CC e)
+      (VP 
+        (VP 
+          (VB explicar)
+        )
+        (NP 
+          (DT a)
+          (NN importância)
+          (ADJP 
+            (JJ estratégica)
+          )
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Santarém)
+            )
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT o)
+              (NN contexto)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NN Península)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (PRP essa)
+                      (NN época)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (.)
+  )
+)

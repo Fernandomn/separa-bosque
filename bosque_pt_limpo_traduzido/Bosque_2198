@@ -1,10 +1,23 @@
-(S (NP (NN Dias)
-                       (_CU_ (NP (CD 5))
-                              (CC e)
-                              (ADJP (CD 7)))
-                       (,)
-                       (PP (IN a+)
-                                  (NP 
-                                    (DT as)
-                                    (NN 18h00)))
-                       (.)))
+(S 
+  (NP 
+    (NN Dias)
+    (UCP 
+      (NP 
+        (CD 5)
+      )
+      (CC e)
+      (ADJP 
+        (CD 7)
+      )
+    )
+    (,)
+    (PP 
+      (IN a+)
+      (NP 
+        (DT as)
+        (NN 18h00)
+      )
+    )
+    (.)
+  )
+)

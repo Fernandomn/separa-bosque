@@ -1,65 +1,101 @@
-(S (VP (NP (DT O)
-                                 (NN jornal)
-                                 (ADJP 
-                                   (JJ carioca))
-                                 (Â«)
-                                 (NP (NNP O_Globo))
-                                 (Â»))
-                        (VP (VBP recolheu))
-                        (NP (NN depoimentos)
-                                (PP (IN sobre)
-                                       (NP 
-                                         (DT a)
-                                         (Â«)
-                                         (NN pisada)
-                                         (Â»)
-                                         (_CU_ 
-                                           (VP 
-                                             (ADVP 
-                                               (RB nÃ£o))
-                                             (VP 
-                                               (VBN confirmada))
-                                             (PP 
-                                               (RB nem)
-                                               (IN por+)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN polÃ­cia))))
-                                           (CC e)
-                                           (VP 
-                                             (VP 
-                                               (VBN explicada))
-                                             (PP 
-                                               (IN por)
-                                               (NP 
-                                                 (NNP Cavalera)))
-                                             (ADVP 
-                                               (RB como)
-                                               (NP 
-                                                 (DT um)
-                                                 (JJ simples)
-                                                 (NN tropeÃ§o)
-                                                 (,)
-                                                 (ADJP 
-                                                   (JJ normal)
-                                                   (PP 
-                                                     (IN em+)
-                                                     (NP 
-                                                       (DT a)
-                                                       (NN movimentaÃ§Ã£o)
-                                                       (PP 
-                                                         (IN de)
-                                                         (NP 
-                                                           (NN palco))))))))
-                                             (,)
-                                             (PP 
-                                               (IN em)
-                                               (NP 
-                                                 (PRP seu)
-                                                 (NN depoimento)))
-                                             (PP 
-                                               (IN em+)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN delegacia))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN jornal)
+      (ADJP 
+        (JJ carioca)
+      )
+      («)
+      (NP 
+        (NNP O_Globo)
+      )
+      (»)
+    )
+    (VP 
+      (VBP recolheu)
+    )
+    (NP 
+      (NN depoimentos)
+      (PP 
+        (IN sobre)
+        (NP 
+          (DT a)
+          («)
+          (NN pisada)
+          (»)
+          (VP 
+            (VP 
+              (ADVP 
+                (RB não)
+              )
+              (VP 
+                (VBN confirmada)
+              )
+              (PP 
+                (RB nem)
+                (IN por+)
+                (NP 
+                  (DT a)
+                  (NN polícia)
+                )
+              )
+            )
+            e            (VP 
+              (VP 
+                (VBN explicada)
+              )
+              (PP 
+                (IN por)
+                (NP 
+                  (NNP Cavalera)
+                )
+              )
+              (ADVP 
+                (RB como)
+                (NP 
+                  (DT um)
+                  (JJ simples)
+                  (NN tropeço)
+                  (,)
+                  (ADJP 
+                    (JJ normal)
+                    (PP 
+                      (IN em+)
+                      (NP 
+                        (DT a)
+                        (NN movimentação)
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (NN palco)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+              (,)
+              (PP 
+                (IN em)
+                (NP 
+                  (PRP seu)
+                  (NN depoimento)
+                )
+              )
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT a)
+                  (NN delegacia)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

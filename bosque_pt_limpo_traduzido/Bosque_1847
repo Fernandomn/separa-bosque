@@ -1,47 +1,83 @@
-(S (VP (VP (ADVP 
-                                    (RB Quando))
-                                  (NP 
-                                    (NNP Borges))
-                                  (VP (VBP morreu)))
-                        (,)
-                        (NP (DT a)
-                                 (NN criada))
-                        (VP (VBP apareceu))
-                        (PP (IN com)
-                                 (NP (PRP outro)
-                                        (NN testamento)
-                                        (,)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP era))
-                                          (NP 
-                                            (PRP o)
-                                            (_CU_ 
-                                              (VP 
-                                                (NP 
-                                                  (PRP que))
-                                                (VP 
-                                                  (VBP desaparecera)))
-                                              (CC e)
-                                              (VP 
-                                                (NP 
-                                                  (PRP que))
-                                                (NP 
-                                                  (PRP ele))
-                                                (VP 
-                                                  (VBP tinha)
-                                                  (VBN procurado))
-                                                (ADVP 
-                                                  (RB antes)
-                                                  (PP 
-                                                    (IN de)
-                                                    (VP 
-                                                      (VP 
-                                                        (VB partir))
-                                                      (PP 
-                                                        (IN para)
-                                                        (NP 
-                                                          (NNP Genebra))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (ADVP 
+        (RB Quando)
+      )
+      (NP 
+        (NNP Borges)
+      )
+      (VP 
+        (VBP morreu)
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NN criada)
+    )
+    (VP 
+      (VBP apareceu)
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (PRP outro)
+        (NN testamento)
+        (,)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP era)
+          )
+          (NP 
+            (PRP o)
+            (VP 
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP desaparecera)
+                )
+              )
+              (CC e)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (NP 
+                  (PRP ele)
+                )
+                (VP 
+                  (VBP tinha)
+                  (VBN procurado)
+                )
+                (ADVP 
+                  (RB antes)
+                  (PP 
+                    (IN de)
+                    (VP 
+                      (VP 
+                        (VB partir)
+                      )
+                      (PP 
+                        (IN para)
+                        (NP 
+                          (NNP Genebra)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

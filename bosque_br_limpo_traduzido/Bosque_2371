@@ -1,26 +1,45 @@
-(S (_CU_ (VP (NP 
-                                  (DT As)
-                                  (NN paulistas)
-                                  (_CU_ 
-                                    (NP 
-                                      (NNP Mancha_Verde)
-                                      ({)
-                                      (NP 
-                                        (NNP Palmeiras))
-                                      (}))
-                                    (CC e)
-                                    (NP 
-                                      (NNP Gavi√µes_da_Fiel)
-                                      ({)
-                                      (NP 
-                                        (NNP Corinthians))
-                                      (}))))
-                                (VP (VBP aceitaram)))
-                       (,)
-                       (CC mas)
-                       (VP (NP 
-                                  (DT as)
-                                  (NN cariocas))
-                                (NP (PRP se))
-                                (VP (VBP recusaram)))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT As)
+        (NN paulistas)
+        (NP 
+          (NP 
+            (NNP Mancha_Verde)
+            ({)
+            (NP 
+              (NNP Palmeiras)
+            )
+            (})
+          )
+          e          (NP 
+            (NNP Gaviıes_da_Fiel)
+            ({)
+            (NP 
+              (NNP Corinthians)
+            )
+            (})
+          )
+        )
+      )
+      (VP 
+        (VBP aceitaram)
+      )
+    )
+    (,)
+    mas    (VP 
+      (NP 
+        (DT as)
+        (NN cariocas)
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP recusaram)
+      )
+    )
+    (.)
+  )
+)

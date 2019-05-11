@@ -1,65 +1,102 @@
-(S (VP (NP (CD Duas)
-                                 (NN organizaÃ§Ãµes)
-                                 (ADJP 
-                                   (JJ francesas))
-                                 (,)
-                                 (_CU_ 
-                                   (NP 
-                                     (DT a)
-                                     (NNP AssociaÃ§Ã£o_ForÃ§a_OperÃ¡ria_Consumidores)
-                                     ({)
-                                     (NP 
-                                       (NNP AFOC)
-                                       (,)
-                                       (NP 
-                                         (NNP Altos_Alpes)))
-                                     (}))
-                                   (CC e)
-                                   (NP 
-                                     (DT a)
-                                     (NNP UniÃ£o_Departamental_das_AssociaÃ§Ãµes_Familiares)
-                                     ({)
-                                     (NP 
-                                       (NNP UDAF))
-                                     (})))
-                                 (,))
-                        (VP (VBP assinaram))
-                        (NP (DT um)
-                                (NN acordo)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN cooperaÃ§Ã£o)
-                                         (PP 
-                                           (IN com)
-                                           (NP 
-                                             (NN associaÃ§Ãµes)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN consumidores)))
-                                             (ADJP 
-                                               (JJ italianas))))))
-                                (VP (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP levou))
-                                        (PP 
-                                          (IN a+)
-                                          (NP 
-                                            (DT a)
-                                            (NN criaÃ§Ã£o)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (DT uma)
-                                                (NN estrutura)
-                                                (ADJP 
-                                                  (JJ franco-italiana))
-                                                (VP 
-                                                  (VP 
-                                                    (VBN denominada))
-                                                  (Â«)
-                                                  (NP 
-                                                    (NNP Consumidores_sem_Fronteiras))
-                                                  (Â»))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (CD Duas)
+      (NN organizações)
+      (ADJP 
+        (JJ francesas)
+      )
+      (,)
+      (NP 
+        (NP 
+          (DT a)
+          (NNP Associação_Força_Operária_Consumidores)
+          ({)
+          (NP 
+            (NNP AFOC)
+            (,)
+            (NP 
+              (NNP Altos_Alpes)
+            )
+          )
+          (})
+        )
+        (CC e)
+        (NP 
+          (DT a)
+          (NNP União_Departamental_das_Associações_Familiares)
+          ({)
+          (NP 
+            (NNP UDAF)
+          )
+          (})
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP assinaram)
+    )
+    (NP 
+      (DT um)
+      (NN acordo)
+      (PP 
+        (IN de)
+        (NP 
+          (NN cooperação)
+          (PP 
+            (IN com)
+            (NP 
+              (NN associações)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN consumidores)
+                )
+              )
+              (ADJP 
+                (JJ italianas)
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP levou)
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (DT a)
+            (NN criação)
+            (PP 
+              (IN de)
+              (NP 
+                (DT uma)
+                (NN estrutura)
+                (ADJP 
+                  (JJ franco-italiana)
+                )
+                (VP 
+                  (VP 
+                    (VBN denominada)
+                  )
+                  («)
+                  (NP 
+                    (NNP Consumidores_sem_Fronteiras)
+                  )
+                  (»)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

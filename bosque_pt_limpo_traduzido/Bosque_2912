@@ -1,69 +1,110 @@
-(S (VP (NP (DT O)
-                                 (NNP IPCC))
-                        (VP (VBP reÃºne))
-                        (PP (IN em+)
-                                 (NP (PRP esse)
-                                        (NN documento)))
-                        (NP (DT a)
-                                (NN opiniÃ£o)
-                                (PP (IN de)
-                                       (NP 
-                                         (CD 2.000)
-                                         (NN meteorologistas)
-                                         (VP 
-                                           (NP 
-                                             (PRP que))
-                                           (VP 
-                                             (VBP prevÃªem))
-                                           (PP 
-                                             (IN em+)
-                                             (NP 
-                                               (DT o)
-                                               (NN futuro)))
-                                           (_CU_ 
-                                             (NP 
-                                               (DT uma)
-                                               (JJ maior)
-                                               (NN incidÃªncia)
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (NN doenÃ§as)
-                                                   (ADJP 
-                                                     (JJ tropicais)))))
-                                             (,)
-                                             (NP 
-                                               (DT o)
-                                               (NN aumento)
-                                               (PP 
-                                                 (IN de)
-                                                 (_CU_ 
-                                                   (NP 
-                                                     (NN secas))
-                                                   (CC e)
-                                                   (NP 
-                                                     (NN cheias)))))
-                                             (,)
-                                             (NP 
-                                               (DT a)
-                                               (NN morte)
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (NN florestas))))
-                                             (CC e)
-                                             (NP 
-                                               (DT a)
-                                               (NN diminuiÃ§Ã£o)
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (NN colheitas)
-                                                   (PP 
-                                                     (IN em+)
-                                                     (NP 
-                                                       (DT os)
-                                                       (NN paÃ­ses)
-                                                       (ADJP 
-                                                         (JJ pobres))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NNP IPCC)
+    )
+    (VP 
+      (VBP reúne)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (PRP esse)
+        (NN documento)
+      )
+    )
+    (NP 
+      (DT a)
+      (NN opinião)
+      (PP 
+        (IN de)
+        (NP 
+          (CD 2.000)
+          (NN meteorologistas)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP prevêem)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NN futuro)
+              )
+            )
+            (NP 
+              (NP 
+                (DT uma)
+                (JJ maior)
+                (NN incidência)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN doenças)
+                    (ADJP 
+                      (JJ tropicais)
+                    )
+                  )
+                )
+              )
+              (,)
+              (NP 
+                (DT o)
+                (NN aumento)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NP 
+                      (NN secas)
+                    )
+                    (CC e)
+                    (NP 
+                      (NN cheias)
+                    )
+                  )
+                )
+              )
+              (,)
+              (NP 
+                (DT a)
+                (NN morte)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN florestas)
+                  )
+                )
+              )
+              (CC e)
+              (NP 
+                (DT a)
+                (NN diminuição)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN colheitas)
+                    (PP 
+                      (IN em+)
+                      (NP 
+                        (DT os)
+                        (NN países)
+                        (ADJP 
+                          (JJ pobres)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

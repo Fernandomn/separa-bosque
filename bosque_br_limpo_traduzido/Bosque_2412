@@ -1,37 +1,64 @@
-(S (VP (ADVP (RB Agora))
-                        (VP (VBP suponha))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT a)
-                                   (NN economia)
-                                   (NP 
-                                     (PRP toda)))
-                                 (VP (VBP vire))
-                                 (NP 
-                                   (DT um)
-                                   (NN bando)
-                                   (_CU_ 
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN gente)
-                                         (VP 
-                                           (NP 
-                                             (PRP que))
-                                           (VP 
-                                             (VBP ganha))
-                                           (NP 
-                                             (NN mesada)))))
-                                     (CC e)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN gente)
-                                         (VP 
-                                           (NP 
-                                             (PRP que))
-                                           (VP 
-                                             (VBP d√°))
-                                           (NP 
-                                             (NN mesada))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Agora)
+    )
+    (VP 
+      (VBP suponha)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT a)
+        (NN economia)
+        (NP 
+          (PRP toda)
+        )
+      )
+      (VP 
+        (VBP vire)
+      )
+      (NP 
+        (DT um)
+        (NN bando)
+        (PP 
+          (PP 
+            (IN de)
+            (NP 
+              (NN gente)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP ganha)
+                )
+                (NP 
+                  (NN mesada)
+                )
+              )
+            )
+          )
+          e          (PP 
+            (IN de)
+            (NP 
+              (NN gente)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP d·)
+                )
+                (NP 
+                  (NN mesada)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

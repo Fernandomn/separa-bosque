@@ -1,60 +1,96 @@
-(S (VP (NP (PRP Esta)
-                                 (NN tarde))
-                        (VP (VBP tem))
-                        (NP (NN inÃ­cio))
-                        (NP (DT o)
-                                 (NN colÃ³quio)
-                                 (,)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP conta))
-                                   (PP 
-                                     (IN com)
-                                     (NP 
-                                       (DT a)
-                                       (NN participaÃ§Ã£o)
-                                       (PP 
-                                         (IN de)
-                                         (_CU_ 
-                                           (NP 
-                                             (NN especialistas)
-                                             (_CU_ 
-                                               (ADJP 
-                                                 (JJ nacinais))
-                                               (CC e)
-                                               (ADJP 
-                                                 (JJ estrangeiros)))
-                                             (PP 
-                                               (IN em)
-                                               (_CU_ 
-                                                 (NP 
-                                                   (NN aquariofilia))
-                                                 (CC e)
-                                                 (NP 
-                                                   (NN actividades)
-                                                   (ADJP 
-                                                     (JJ subaquÃ¡ticas))))))
-                                           (,)
-                                           (ADVP 
-                                             (RB bem_como))
-                                           (ADJP 
-                                             (JJ responsÃ¡veis)
-                                             (PP 
-                                               (IN por)
-                                               (NP 
-                                                 (PRP alguns)
-                                                 (NN aquÃ¡rios)
-                                                 (ADJP 
-                                                   (JJ europeus)))))
-                                           (CC e)
-                                           (NP 
-                                             (DT o)
-                                             (NN director)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NNP OceanÃ¡rio_da_Expo'98))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Esta)
+      (NN tarde)
+    )
+    (VP 
+      (VBP tem)
+    )
+    (NP 
+      (NN início)
+    )
+    (NP 
+      (DT o)
+      (NN colóquio)
+      (,)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP conta)
+        )
+        (PP 
+          (IN com)
+          (NP 
+            (DT a)
+            (NN participação)
+            (PP 
+              (IN de)
+              (UCP 
+                (NP 
+                  (NN especialistas)
+                  (ADJP 
+                    (ADJP 
+                      (JJ nacinais)
+                    )
+                    (CC e)
+                    (ADJP 
+                      (JJ estrangeiros)
+                    )
+                  )
+                  (PP 
+                    (IN em)
+                    (NP 
+                      (NP 
+                        (NN aquariofilia)
+                      )
+                      (CC e)
+                      (NP 
+                        (NN actividades)
+                        (ADJP 
+                          (JJ subaquáticas)
+                        )
+                      )
+                    )
+                  )
+                )
+                (,)
+                (ADVP 
+                  (RB bem_como)
+                )
+                (ADJP 
+                  (JJ responsáveis)
+                  (PP 
+                    (IN por)
+                    (NP 
+                      (PRP alguns)
+                      (NN aquários)
+                      (ADJP 
+                        (JJ europeus)
+                      )
+                    )
+                  )
+                )
+                (CC e)
+                (NP 
+                  (DT o)
+                  (NN director)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NNP Oceanário_da_Expo'98)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,34 +1,58 @@
-(S (VP (NP (DT O)
-                                 (NN problema))
-                        (VP (VBP Ã©))
-                        (ADJP (JJ polÃ­tico))
-                        (VP (IN porque)
-                                  (VP (VBP envolve))
-                                  (,)
-                                  (ADVP 
-                                    (RB por_exemplo))
-                                  (,)
-                                  (NP 
-                                    (DT a)
-                                    (NN gratuidade)
-                                    (_CU_ 
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN educaÃ§Ã£o)))
-                                      (,)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN saÃºde)))
-                                      (,)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN previdÃªncia)
-                                          (ADJP 
-                                            (JJ mÃ­nima)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN problema)
+    )
+    (VP 
+      (VBP é)
+    )
+    (ADJP 
+      (JJ político)
+    )
+    (VP 
+      (IN porque)
+      (VP 
+        (VBP envolve)
+      )
+      (,)
+      (ADVP 
+        (RB por_exemplo)
+      )
+      (,)
+      (NP 
+        (DT a)
+        (NN gratuidade)
+        (PP 
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN educação)
+            )
+          )
+          (,)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN saúde)
+            )
+          )
+          (,)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN previdência)
+              (ADJP 
+                (JJ mínima)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

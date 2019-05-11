@@ -1,91 +1,137 @@
-(S (VP (Â«)
-                        (VP (VP 
-                                   (ADVP 
-                                     (RB Quando))
-                                   (VP 
-                                     (VBP esperÃ¡vamos))
-                                   (NP 
-                                     (DT a)
-                                     (NN presenÃ§a)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN ministro)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT as)
-                                             (NNP FinanÃ§as)))
-                                         (,)
-                                         (NP 
-                                           (NNP Braga_de_Macedo))
-                                         (,)))))
-                                 (VP (VBP surgiu))
-                                 (_CU_ 
-                                   (NP 
-                                     (RB nÃ£o)
-                                     (DT o)
-                                     (NN ministro))
-                                   (,)
-                                   (CC nem)
-                                   (NP 
-                                     (DT a)
-                                     (NN secretÃ¡ria)
-                                     (_CU_ 
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN Estado))))
-                                     (NP 
-                                       (NN adjunta))
-                                     (_CU_ 
-                                       (CC e)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP OrÃ§amento)))))
-                                   (,)
-                                   (CC mas)
-                                   (NP 
-                                     (RB sim)
-                                     (DT um)
-                                     (NN subsecretÃ¡rio)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NNP Estado)))
-                                     (ADJP 
-                                       (JJ adjunto)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NN secretÃ¡ria)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NNP Estado)))
-                                           (ADJP 
-                                             (JJ adjunta)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NN ministro)
-                                                 (ADJP 
-                                                   (JJ adjunto)
-                                                   (PP 
-                                                     (IN de+)
-                                                     (NP 
-                                                       (DT o)
-                                                       (NN primeiro-ministro)))))))))))))
-                        (Â»)
-                        (,)
-                        (VP (VBP referiu))
-                        (NP (DT o)
-                                 (NN deputado)
-                                 (ADJP 
-                                   (JJ socialista)))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (VP 
+      (VP 
+        (ADVP 
+          (RB Quando)
+        )
+        (VP 
+          (VBP esperávamos)
+        )
+        (NP 
+          (DT a)
+          (NN presença)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN ministro)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT as)
+                  (NNP Finanças)
+                )
+              )
+              (,)
+              (NP 
+                (NNP Braga_de_Macedo)
+              )
+              (,)
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP surgiu)
+      )
+      (NP 
+        (NP 
+          (RB não)
+          (DT o)
+          (NN ministro)
+        )
+        (,)
+        (CC nem)
+        (NP 
+          (DT a)
+          (NN secretária)
+          (PP 
+            (PP 
+              (IN de)
+              (NP 
+                (NN Estado)
+              )
+            )
+          )
+          (NP 
+            (NN adjunta)
+          )
+          (PP 
+            (CC e)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NNP Orçamento)
+              )
+            )
+          )
+        )
+        (,)
+        (CC mas)
+        (NP 
+          (RB sim)
+          (DT um)
+          (NN subsecretário)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Estado)
+            )
+          )
+          (ADJP 
+            (JJ adjunto)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN secretária)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NNP Estado)
+                  )
+                )
+                (ADJP 
+                  (JJ adjunta)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NN ministro)
+                      (ADJP 
+                        (JJ adjunto)
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT o)
+                            (NN primeiro-ministro)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (,)
+    (VP 
+      (VBP referiu)
+    )
+    (NP 
+      (DT o)
+      (NN deputado)
+      (ADJP 
+        (JJ socialista)
+      )
+    )
+    (.)
+  )
+)

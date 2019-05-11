@@ -1,41 +1,67 @@
-(S (_CU_ (VP (NP 
-                                   (PRP Ele))
-                                 (VP (VBP fala))
-                                 (VP 
-                                   (IN que)
-                                   (VP 
-                                     (VBP tem))
-                                   (_CU_ 
-                                     (NP 
-                                       (NN idÃ©ias))
-                                     (CC e)
-                                     (NP 
-                                       (RB nÃ£o)
-                                       (DT um)
-                                       (NN programa)))))
-                        (,)
-                        (CC mas)
-                        (VP (ADVP 
-                                   (RB muitas_vezes))
-                                 (,)
-                                 (VP 
-                                   (ADVP 
-                                     (RB quando))
-                                   (VP 
-                                     (VBN perguntado)))
-                                 (NP 
-                                   (PRP ele))
-                                 (VP (VBP mostra))
-                                 (VP 
-                                   (IN que)
-                                   (ADVP 
-                                     (RB tambÃ©m))
-                                   (ADVP 
-                                     (RB nÃ£o))
-                                   (VP 
-                                     (VBP tem))
-                                   (NP 
-                                     (RB nem)
-                                     (NN idÃ©ia))))
-                        (.)
-                        (Â»)))
+(S 
+  (UCP 
+    (VP 
+      (NP 
+        (PRP Ele)
+      )
+      (VP 
+        (VBP fala)
+      )
+      (VP 
+        (IN que)
+        (VP 
+          (VBP tem)
+        )
+        (NP 
+          (NP 
+            (NN idéias)
+          )
+          e          (NP 
+            (RB não)
+            (DT um)
+            (NN programa)
+          )
+        )
+      )
+    )
+    (,)
+    mas    (VP 
+      (ADVP 
+        (RB muitas_vezes)
+      )
+      (,)
+      (VP 
+        (ADVP 
+          (RB quando)
+        )
+        (VP 
+          (VBN perguntado)
+        )
+      )
+      (NP 
+        (PRP ele)
+      )
+      (VP 
+        (VBP mostra)
+      )
+      (VP 
+        (IN que)
+        (ADVP 
+          (RB também)
+        )
+        (ADVP 
+          (RB não)
+        )
+        (VP 
+          (VBP tem)
+        )
+        (NP 
+          (RB nem)
+          (NN idéia)
+        )
+      )
+    )
+    (.)
+    (»)
+  )
+)

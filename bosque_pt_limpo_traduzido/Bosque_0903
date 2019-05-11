@@ -1,30 +1,52 @@
-(S (VP (Â«)
-                         (NP (NNP A_Marca_de_Fogo))
-                         (Â»)
-                         (VP (VBP foi)
-                               (VBN filmado))
-                         (PP (IN em)
-                                  (ADJP 
-                                    (CD 1914)))
-                         (PP (IN em)
-                                  (ADJP 
-                                    (JJ simultÃ¢neo)
-                                    (PP 
-                                      (IN com)
-                                      (Â«)
-                                      (NP 
-                                        (NNP The_Golden_Chance))
-                                      (Â»))))
-                         (,)
-                         (_CU_ (ADVP 
-                                    (NP 
-                                      (DT o)
-                                      (JJ primeiro))
-                                    (PP de_dia))
-                                  (CC e)
-                                  (ADVP 
-                                    (NP 
-                                      (DT o)
-                                      (JJ segundo))
-                                    (PP de_noite)))
-                         (.)))
+(S 
+  (VP 
+    («)
+    (NP 
+      (NNP A_Marca_de_Fogo)
+    )
+    (»)
+    (VP 
+      (VBP foi)
+      (VBN filmado)
+    )
+    (PP 
+      (IN em)
+      (ADJP 
+        (CD 1914)
+      )
+    )
+    (PP 
+      (IN em)
+      (ADJP 
+        (JJ simultâneo)
+        (PP 
+          (IN com)
+          («)
+          (NP 
+            (NNP The_Golden_Chance)
+          )
+          (»)
+        )
+      )
+    )
+    (,)
+    (ADVP 
+      (ADVP 
+        (NP 
+          (DT o)
+          (JJ primeiro)
+        )
+        (PP de_dia)
+      )
+      (CC e)
+      (ADVP 
+        (NP 
+          (DT o)
+          (JJ segundo)
+        )
+        (PP de_noite)
+      )
+    )
+    (.)
+  )
+)

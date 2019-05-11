@@ -1,77 +1,124 @@
-(S (VP (NP (NNP Clinton))
-                        (VP (VBP balbuciou))
-                        (NP (PRP qualquer)
-                                (NN coisa)
-                                (PP (IN sobre)
-                                       (NP 
-                                         (DT a)
-                                         (NN inutilidade)
-                                         (PP 
-                                           (IN de+)
-                                           (_CU_ 
-                                             (NP 
-                                               (DT os)
-                                               (NN ressentimentos))
-                                             (CC e)
-                                             (NP 
-                                               (NN vingan√ßas)))))))
-                        (,)
-                        (VP 
-                          (VP (VBG citando))
-                          (NP (NNP Jean-Bertrand_Aristide)
-                                  (,)
-                                  (NP 
-                                    (DT o)
-                                    (NN Presidente)
-                                    (VBN exilado)
-                                    (_CU_ 
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP dever√°))
-                                        (,)
-                                        (PP 
-                                          (IN at√©)
-                                          (ADJP 
-                                            (CD 15)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN Outubro)))))
-                                        (,)
-                                        (VP 
-                                          (VB regressar))
-                                        (PP 
-                                          (IN a+)
-                                          (NP 
-                                            (DT o)
-                                            (NNP Haiti))))
-                                      (,)
-                                      (CC e)
-                                      (VP 
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (PRP quem)))
-                                        (PP 
-                                          (IN a)
-                                          (NP 
-                                            (NNP CIA)))
-                                        (VP 
-                                          (VBP diz))
-                                        (VP 
-                                          (VP 
-                                            (VB ser))
-                                          (NP 
-                                            (DT um)
-                                            (NN doente)
-                                            (ADJP 
-                                              (JJ mental))
-                                            (PP 
-                                              (IN com)
-                                              (NP 
-                                                (JJ perigosas)
-                                                (NN ideias)
-                                                (ADJP 
-                                                  (NP anti-americanas)))))))))))))
+(S 
+  (VP 
+    (NP 
+      (NNP Clinton)
+    )
+    (VP 
+      (VBP balbuciou)
+    )
+    (NP 
+      (PRP qualquer)
+      (NN coisa)
+      (PP 
+        (IN sobre)
+        (NP 
+          (DT a)
+          (NN inutilidade)
+          (PP 
+            (IN de+)
+            (NP 
+              (NP 
+                (DT os)
+                (NN ressentimentos)
+              )
+              (CC e)
+              (NP 
+                (NN vinganÁas)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG citando)
+      )
+      (NP 
+        (NNP Jean-Bertrand_Aristide)
+        (,)
+        (NP 
+          (DT o)
+          (NN Presidente)
+          (VBN exilado)
+          (VP 
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP dever·)
+              )
+              (,)
+              (PP 
+                (IN atÈ)
+                (ADJP 
+                  (CD 15)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN Outubro)
+                    )
+                  )
+                )
+              )
+              (,)
+              (VP 
+                (VB regressar)
+              )
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT o)
+                  (NNP Haiti)
+                )
+              )
+            )
+            (,)
+            (CC e)
+            (VP 
+              (PP 
+                (IN de)
+                (NP 
+                  (PRP quem)
+                )
+              )
+              (PP 
+                (IN a)
+                (NP 
+                  (NNP CIA)
+                )
+              )
+              (VP 
+                (VBP diz)
+              )
+              (VP 
+                (VP 
+                  (VB ser)
+                )
+                (NP 
+                  (DT um)
+                  (NN doente)
+                  (ADJP 
+                    (JJ mental)
+                  )
+                  (PP 
+                    (IN com)
+                    (NP 
+                      (JJ perigosas)
+                      (NN ideias)
+                      (ADJP 
+                        (NP anti-americanas)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+)

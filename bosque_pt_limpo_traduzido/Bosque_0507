@@ -1,11 +1,22 @@
-(S (PP (IN Entre)
-                      (NP (_CU_ (ADJP 
-                                      (CD um))
-                                    (CC e)
-                                    (ADJP 
-                                      (CD dez)))
-                             (NN contos)
-                             (,)
-                             (ADVP 
-                               (RB exactamente)))
-                      (.)))
+(S 
+  (PP 
+    (IN Entre)
+    (NP 
+      (ADJP 
+        (ADJP 
+          (CD um)
+        )
+        (CC e)
+        (ADJP 
+          (CD dez)
+        )
+      )
+      (NN contos)
+      (,)
+      (ADVP 
+        (RB exactamente)
+      )
+    )
+    (.)
+  )
+)

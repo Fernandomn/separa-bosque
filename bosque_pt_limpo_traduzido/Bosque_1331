@@ -1,34 +1,58 @@
-(S (VP (PP (IN Em+)
-                                 (NP (PRP a)
-                                        (PRP outra)
-                                        (NN partida)))
-                        (,)
-                        (NP (PRP a)
-                                 (NNP Oliveirense))
-                        (VP (VBP joga))
-                        (PP em_casa)
-                        (PP (IN com)
-                                 (NP (PRP o)
-                                        (JJ sensacional)
-                                        (NNP PaÃ§o_d'Arcos)
-                                        (,)
-                                        (NP 
-                                          (RB actualmente)
-                                          (_CU_ 
-                                            (PP 
-                                              (IN em)
-                                              (NP 
-                                                (JJ quarto)
-                                                (NN lugar)))
-                                            (,)
-                                            (PP 
-                                              (IN a)
-                                              (NP 
-                                                (CD trÃªs)
-                                                (NN pontos)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (PRP o)
-                                                    (NN lÃ­der)))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (PRP a)
+        (PRP outra)
+        (NN partida)
+      )
+    )
+    (,)
+    (NP 
+      (PRP a)
+      (NNP Oliveirense)
+    )
+    (VP 
+      (VBP joga)
+    )
+    (PP em_casa)
+    (PP 
+      (IN com)
+      (NP 
+        (PRP o)
+        (JJ sensacional)
+        (NNP Paço_d'Arcos)
+        (,)
+        (NP 
+          (RB actualmente)
+          (PP 
+            (PP 
+              (IN em)
+              (NP 
+                (JJ quarto)
+                (NN lugar)
+              )
+            )
+            (,)
+            (PP 
+              (IN a)
+              (NP 
+                (CD três)
+                (NN pontos)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (PRP o)
+                    (NN líder)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,34 +1,61 @@
-(S (VP (Â«)
-                        (PP (IN Com)
-                                 (NP (DT os)
-                                        (PRP meus)
-                                        (NN colegas)))
-                        (,)
-                        (VP (VBP tencionamos))
-                        (ADVP (RB agora))
-                        (VP (VP (VB tentar))
-                                 (VP 
-                                   (VP 
-                                     (VB desenvolver))
-                                   (NP 
-                                     (NN vacinas)
-                                     (_CU_ 
-                                       (VP 
-                                         (VP 
-                                           (VBN destinadas))
-                                         (PP 
-                                           (IN a+)
-                                           (NP 
-                                             (DT o)
-                                             (NN ser_humano))))
-                                       (,)
-                                       (CC e)
-                                       (PP 
-                                         (PP em_particular)
-                                         (IN contra)
-                                         (NP 
-                                           (DT o)
-                                           (NN vÃ­rus)
-                                           (NP 
-                                             (NNP HIV2))))))))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (PP 
+      (IN Com)
+      (NP 
+        (DT os)
+        (PRP meus)
+        (NN colegas)
+      )
+    )
+    (,)
+    (VP 
+      (VBP tencionamos)
+    )
+    (ADVP 
+      (RB agora)
+    )
+    (VP 
+      (VP 
+        (VB tentar)
+      )
+      (VP 
+        (VP 
+          (VB desenvolver)
+        )
+        (NP 
+          (NN vacinas)
+          (UCP 
+            (VP 
+              (VP 
+                (VBN destinadas)
+              )
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT o)
+                  (NN ser_humano)
+                )
+              )
+            )
+            (,)
+            (CC e)
+            (PP 
+              (PP em_particular)
+              (IN contra)
+              (NP 
+                (DT o)
+                (NN vírus)
+                (NP 
+                  (NNP HIV2)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,23 +1,41 @@
-(S (VP (PP (IN Desde)
-                                 (NP (DT a)
-                                        (NNP Idade_M√©dia)))
-                        (,)
-                        (NP (PRP esse)
-                                 (NN caminho))
-                        (VP (VBP √©)
-                              (VBN feito))
-                        (ADVP (RB atrav√©s)
-                                   (_CU_ 
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN intelecto)))
-                                     (CC e)
-                                     (PP 
-                                       (RB n√£o)
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN corpo)))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Desde)
+      (NP 
+        (DT a)
+        (NNP Idade_MÈdia)
+      )
+    )
+    (,)
+    (NP 
+      (PRP esse)
+      (NN caminho)
+    )
+    (VP 
+      (VBP È)
+      (VBN feito)
+    )
+    (ADVP 
+      (RB atravÈs)
+      (PP 
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN intelecto)
+          )
+        )
+        e        (PP 
+          (RB n„o)
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN corpo)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

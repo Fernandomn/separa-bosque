@@ -1,36 +1,59 @@
-(S (VP (NP (DT a)
-                                 (JJ maior)
-                                 (NN parte)
-                                 (PP 
-                                   (IN de+)
-                                   (NP 
-                                     (DT as)
-                                     (NN vezes))))
-                        (VP (VBP consomem))
-                        (NP (NN coisas)
-                                (ADJP 
-                                  (JJ inacreditÃ¡veis))
-                                (,)
-                                (ADVP 
-                                  (RB como)
-                                  (_CU_ 
-                                    (NP 
-                                      (NN pÃ³)
-                                      (VP 
-                                        (VP 
-                                          (VBN feito))
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN lÃ¢mpadas)
-                                            (ADJP 
-                                              (JJ fluorescentes))))))
-                                    (,)
-                                    (NP 
-                                      (NN talco))
-                                    (,)
-                                    (NP 
-                                      (NN aÃ§Ãºcar))
-                                    (CC ou)
-                                    (VBN comprimidos))))
-                        (;)))
+(S 
+  (VP 
+    (NP 
+      (DT a)
+      (JJ maior)
+      (NN parte)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (NN vezes)
+        )
+      )
+    )
+    (VP 
+      (VBP consomem)
+    )
+    (NP 
+      (NN coisas)
+      (ADJP 
+        (JJ inacreditáveis)
+      )
+      (,)
+      (ADVP 
+        (RB como)
+        (UCP 
+          (NP 
+            (NN pó)
+            (VP 
+              (VP 
+                (VBN feito)
+              )
+              (PP 
+                (IN de)
+                (NP 
+                  (NN lâmpadas)
+                  (ADJP 
+                    (JJ fluorescentes)
+                  )
+                )
+              )
+            )
+          )
+          (,)
+          (NP 
+            (NN talco)
+          )
+          (,)
+          (NP 
+            (NN açúcar)
+          )
+          (CC ou)
+          (VBN comprimidos)
+        )
+      )
+    )
+    (;)
+  )
+)

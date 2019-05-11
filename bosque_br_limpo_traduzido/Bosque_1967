@@ -1,18 +1,36 @@
-(S (_CU_ (VP (NP 
-                                  (PRP Este))
-                                (VP (VBP foi))
-                                (NP (PRP meu)
-                                       (JJ primeiro)
-                                       (NN filme))
-                                (,))
-                       (CC mas)
-                       (VP (VP (VBP sei))
-                                (VP 
-                                  (IN que)
-                                  (VP (VBP posso)
-                                        (VB ser))
-                                  (NP 
-                                    (DT uma)
-                                    (JJ grande)
-                                    (NN atriz))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (PRP Este)
+      )
+      (VP 
+        (VBP foi)
+      )
+      (NP 
+        (PRP meu)
+        (JJ primeiro)
+        (NN filme)
+      )
+      (,)
+    )
+    mas    (VP 
+      (VP 
+        (VBP sei)
+      )
+      (VP 
+        (IN que)
+        (VP 
+          (VBP posso)
+          (VB ser)
+        )
+        (NP 
+          (DT uma)
+          (JJ grande)
+          (NN atriz)
+        )
+      )
+    )
+    (.)
+  )
+)

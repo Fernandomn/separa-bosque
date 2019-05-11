@@ -1,24 +1,45 @@
-(S (VP (VP (VBP Tem)
-                               (IN que))
-                        (NP (PRP se))
-                        (VP (VB demonstrar))
-                        (ADVP (RB atrav√©s)
-                                   (_CU_ 
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN contas)))
-                                     (CC e)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN racioc√≠nios)))))
-                        (VP (IN que)
-                                      (NP 
-                                        (DT o)
-                                        (NN expurgo))
-                                      (VP 
-                                        (VBP significar√°))
-                                      (NP 
-                                        (NN perda)))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Tem)
+      (IN que)
+    )
+    (NP 
+      (PRP se)
+    )
+    (VP 
+      (VB demonstrar)
+    )
+    (ADVP 
+      (RB atravÈs)
+      (PP 
+        (PP 
+          (IN de)
+          (NP 
+            (NN contas)
+          )
+        )
+        e        (PP 
+          (IN de)
+          (NP 
+            (NN raciocÌnios)
+          )
+        )
+      )
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT o)
+        (NN expurgo)
+      )
+      (VP 
+        (VBP significar·)
+      )
+      (NP 
+        (NN perda)
+      )
+    )
+    (.)
+  )
+)

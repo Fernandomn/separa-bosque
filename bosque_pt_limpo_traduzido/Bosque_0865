@@ -1,30 +1,56 @@
-(S (_CU_ (VP (NP 
-                                  (DT as)
-                                  (NN professoras)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (NNP TÃªxteis))))
-                                (ADVP 
-                                  (RB sÃ³))
-                                (VP (VBP ensinam))
-                                (NP (NNP TÃªxteis)))
-                       (,)
-                       (VP (NP 
-                                  (DT os)
-                                  (NN professores)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (NNP Electrotecnia))))
-                                (ADVP 
-                                  (RB sÃ³))
-                                (VP (VBP dÃ£o))
-                                (NP (DT a)
-                                        (Â«)
-                                        (PRP sua)
-                                        (Â»)
-                                        (NN matÃ©ria)))
-                       (ADVP (RB e_por_aÃ­)
-                                 (RB adiante))
-                       (.)))
+(S 
+  (UCP 
+    (VP 
+      (NP 
+        (DT as)
+        (NN professoras)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Têxteis)
+          )
+        )
+      )
+      (ADVP 
+        (RB só)
+      )
+      (VP 
+        (VBP ensinam)
+      )
+      (NP 
+        (NNP Têxteis)
+      )
+    )
+    (,)
+    (VP 
+      (NP 
+        (DT os)
+        (NN professores)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Electrotecnia)
+          )
+        )
+      )
+      (ADVP 
+        (RB só)
+      )
+      (VP 
+        (VBP dão)
+      )
+      (NP 
+        (DT a)
+        («)
+        (PRP sua)
+        (»)
+        (NN matéria)
+      )
+    )
+    (ADVP 
+      (RB e_por_aí)
+      (RB adiante)
+    )
+    (.)
+  )
+)

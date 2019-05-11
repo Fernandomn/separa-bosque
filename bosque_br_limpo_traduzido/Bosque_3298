@@ -1,38 +1,65 @@
-(S (VP (CC Mas)
-                        (NP (PRP tudo)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP ganho))))
-                        (VP (VBP reverto))
-                        (ADVP (RB tamb√©m))
-                        (PP (IN em)
-                                (NP (NN ajuda)
-                                       (PP 
-                                         (IN para)
-                                         (NP 
-                                           (DT o)
-                                           (NN povo)
-                                           (,)
-                                           (VP 
-                                             (NP 
-                                               (PRP que))
-                                             (VP 
-                                               (VBP recebe))
-                                             (_CU_ 
-                                               (NP 
-                                                 (NN rem√©dios))
-                                               (,)
-                                               (NP 
-                                                 (NN feira))
-                                               (CC e)
-                                               (NP 
-                                                 (NN dinheiro)))
-                                             (VP 
-                                               (ADVP 
-                                                 (RB quando))
-                                               (VP 
-                                                 (VBP est√°)
-                                                 (VBG precisando))))))))
-                        (.)))
+(S 
+  (VP 
+    Mas    (NP 
+      (PRP tudo)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP ganho)
+        )
+      )
+    )
+    (VP 
+      (VBP reverto)
+    )
+    (ADVP 
+      (RB tambÈm)
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NN ajuda)
+        (PP 
+          (IN para)
+          (NP 
+            (DT o)
+            (NN povo)
+            (,)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP recebe)
+              )
+              (NP 
+                (NP 
+                  (NN remÈdios)
+                )
+                (,)
+                (NP 
+                  (NN feira)
+                )
+                e                (NP 
+                  (NN dinheiro)
+                )
+              )
+              (VP 
+                (ADVP 
+                  (RB quando)
+                )
+                (VP 
+                  (VBP est·)
+                  (VBG precisando)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

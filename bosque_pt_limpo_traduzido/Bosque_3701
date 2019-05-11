@@ -1,164 +1,245 @@
-(S (VP (ADVP (RB Assim))
-                        (,)
-                        (VP 
-                          (VP (VBN encorajado))
-                          (PP (IN por+)
-                                   (NP 
-                                     (DT a)
-                                     (JJ total)
-                                     (NN disponibilidade)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (PRP meu)
-                                         (NN interlocutor))))))
-                        (,)
-                        (VP (VP 
-                                    (NP 
-                                      (PRP que))))
-                        (ADVP (RB igualmente))
-                        (VP (VBP admito))
-                        (,)
-                        (VP (VP (VBP tentaria))
-                                  (VP 
-                                    (IN que)
-                                    (VP 
-                                      (VBP entendesse))
-                                    (,)
-                                    (ADVP 
-                                      (RB pelo_menos))
-                                    (,)
-                                    (NP 
-                                      (DT as)
-                                      (NN vantagens)
-                                      (ADJP 
-                                        (JJ econ√≥micas))
-                                      (,)
-                                      (PP 
-                                        (IN em_termos_de)
-                                        (NP 
-                                          (NN desenvolvimento)
-                                          (ADJP 
-                                            (JJ local))
-                                          ({)
-                                          (ADJP 
-                                            (JJ tur√≠stico)
-                                            (,)
-                                            (RB por_exemplo))
-                                          (})))
-                                      (,)
-                                      (_CU_ 
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN salvaguarda)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT a)
-                                                (ADJP 
-                                                  (RB invulgarmente)
-                                                  (NN importante)
-                                                  (,)
-                                                  (PP 
-                                                    (RB mesmo)
-                                                    (IN a+)
-                                                    (NP 
-                                                      (DT a)
-                                                      (NN escala)
-                                                      (ADJP 
-                                                        (JJ mundial))))
-                                                  (,))
-                                                (NN jazida)
-                                                (PP 
-                                                  (IN com)
-                                                  (NP 
-                                                    (NN pegadas)
-                                                    (PP 
-                                                      (IN de)
-                                                      (NP 
-                                                        (NN dinoss√°urios)))))
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (NNP serra_d'Aire)))
-                                                (,)
-                                                (VP 
-                                                  (NP 
-                                                    (PRP cujo)
-                                                    (NN valor)
-                                                    (ADJP 
-                                                      (JJ cient√≠fico)))
-                                                  (ADVP 
-                                                    (RB j√°))
-                                                  (VP 
-                                                    (VBP trouxe))
-                                                  (ADVP 
-                                                    (RB aqui))
-                                                  (NP 
-                                                    (NN cientistas)
-                                                    (PP 
-                                                      (IN de)
-                                                      (NP 
-                                                        (PRP todo_o_mundo)))
-                                                    ({)
-                                                    (PP 
-                                                      (IN de+)
-                                                      (NP 
-                                                        (DT os)
-                                                        (NNP EUA)
-                                                        (PP 
-                                                          (IN a+)
-                                                          (NP 
-                                                            (DT a)
-                                                            (NNP China)))))
-                                                    (})))
-                                                (,)))))
-                                        (CC e)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN transforma√ß√£o)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT o)
-                                                (NN s√≠tio)))
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT um)
-                                                (NN local)
-                                                (ADJP 
-                                                  (JJ p√∫blico))
-                                                (PP 
-                                                  (IN com)
-                                                  (NP 
-                                                    (PRP todos_os)
-                                                    (NN equipamentos)
-                                                    (ADJP 
-                                                      (JJ necess√°rios)
-                                                      (PP 
-                                                        (IN a+)
-                                                        (NP 
-                                                          (DT a)
-                                                          (PRP sua)
-                                                          (NN frui√ß√£o))))))
-                                                (ADVP 
-                                                  (RB como)
-                                                  (NP 
-                                                    (NN bem)
-                                                    (_CU_ 
-                                                      (ADJP 
-                                                        (JJ cultural))
-                                                      (,)
-                                                      (ADJP 
-                                                        (JJ cient√≠fico))
-                                                      (CC e)
-                                                      (ADJP 
-                                                        (JJ pedag√≥gico)))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Assim)
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBN encorajado)
+      )
+      (PP 
+        (IN por+)
+        (NP 
+          (DT a)
+          (JJ total)
+          (NN disponibilidade)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (PRP meu)
+              (NN interlocutor)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (NP 
+          (PRP que)
+        )
+      )
+    )
+    (ADVP 
+      (RB igualmente)
+    )
+    (VP 
+      (VBP admito)
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBP tentaria)
+      )
+      (VP 
+        (IN que)
+        (VP 
+          (VBP entendesse)
+        )
+        (,)
+        (ADVP 
+          (RB pelo_menos)
+        )
+        (,)
+        (NP 
+          (DT as)
+          (NN vantagens)
+          (ADJP 
+            (JJ econÛmicas)
+          )
+          (,)
+          (PP 
+            (IN em_termos_de)
+            (NP 
+              (NN desenvolvimento)
+              (ADJP 
+                (JJ local)
+              )
+              ({)
+              (ADJP 
+                (JJ turÌstico)
+                (,)
+                (RB por_exemplo)
+              )
+              (})
+            )
+          )
+          (,)
+          (PP 
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN salvaguarda)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (ADJP 
+                      (RB invulgarmente)
+                      (NN importante)
+                      (,)
+                      (PP 
+                        (RB mesmo)
+                        (IN a+)
+                        (NP 
+                          (DT a)
+                          (NN escala)
+                          (ADJP 
+                            (JJ mundial)
+                          )
+                        )
+                      )
+                      (,)
+                    )
+                    (NN jazida)
+                    (PP 
+                      (IN com)
+                      (NP 
+                        (NN pegadas)
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (NN dinoss·urios)
+                          )
+                        )
+                      )
+                    )
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT a)
+                        (NNP serra_d'Aire)
+                      )
+                    )
+                    (,)
+                    (VP 
+                      (NP 
+                        (PRP cujo)
+                        (NN valor)
+                        (ADJP 
+                          (JJ cientÌfico)
+                        )
+                      )
+                      (ADVP 
+                        (RB j·)
+                      )
+                      (VP 
+                        (VBP trouxe)
+                      )
+                      (ADVP 
+                        (RB aqui)
+                      )
+                      (NP 
+                        (NN cientistas)
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (PRP todo_o_mundo)
+                          )
+                        )
+                        ({)
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT os)
+                            (NNP EUA)
+                            (PP 
+                              (IN a+)
+                              (NP 
+                                (DT a)
+                                (NNP China)
+                              )
+                            )
+                          )
+                        )
+                        (})
+                      )
+                    )
+                    (,)
+                  )
+                )
+              )
+            )
+            (CC e)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN transformaÁ„o)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN sÌtio)
+                  )
+                )
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT um)
+                    (NN local)
+                    (ADJP 
+                      (JJ p˙blico)
+                    )
+                    (PP 
+                      (IN com)
+                      (NP 
+                        (PRP todos_os)
+                        (NN equipamentos)
+                        (ADJP 
+                          (JJ necess·rios)
+                          (PP 
+                            (IN a+)
+                            (NP 
+                              (DT a)
+                              (PRP sua)
+                              (NN fruiÁ„o)
+                            )
+                          )
+                        )
+                      )
+                    )
+                    (ADVP 
+                      (RB como)
+                      (NP 
+                        (NN bem)
+                        (ADJP 
+                          (ADJP 
+                            (JJ cultural)
+                          )
+                          (,)
+                          (ADJP 
+                            (JJ cientÌfico)
+                          )
+                          (CC e)
+                          (ADJP 
+                            (JJ pedagÛgico)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

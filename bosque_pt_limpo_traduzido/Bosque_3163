@@ -1,56 +1,89 @@
-(S (VP (NP 
-                          (NN Parte)
-                          (_CU_ (ADJP 
-                                   (JJ significativa))
-                                 (,)
-                                 (CC mas)
-                                 (NP 
-                                   (RB n√£o)
-                                   (NN integral))
-                                 (,))
-                          (PP (IN de+)
-                                    (NP 
-                                      (DT o)
-                                      (PRP seu)
-                                      (NN report√≥rio)
-                                      (VP 
-                                        (VP 
-                                          (VBN gravado))
-                                        (PP 
-                                          (IN para)
-                                          (NP 
-                                            (PRP essa)
-                                            (NN companhia)))))))
-                        (VP (VBP foi)
-                              (VBN reeditado))
-                        (PP (IN em+)
-                                 (NP (DT uma)
-                                        (NN compila√ß√£o)
-                                        (ADJP 
-                                          (JJ tem√°tica))
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (CD seis)
-                                            (NN LP)))
-                                        (,)
-                                        (VP 
-                                          (ADVP 
-                                            (RB primeiro))
-                                          (VP 
-                                            (VBN editada))
-                                          (PP 
-                                            (IN por+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP CBS)
-                                              ({)
-                                              (NP 
-                                                (JJ actual)
-                                                (NNP Sonny))
-                                              (})))
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (NN 1986))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Parte)
+      (UCP 
+        (ADJP 
+          (JJ significativa)
+        )
+        (,)
+        (CC mas)
+        (NP 
+          (RB n„o)
+          (NN integral)
+        )
+        (,)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (PRP seu)
+          (NN reportÛrio)
+          (VP 
+            (VP 
+              (VBN gravado)
+            )
+            (PP 
+              (IN para)
+              (NP 
+                (PRP essa)
+                (NN companhia)
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP foi)
+      (VBN reeditado)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT uma)
+        (NN compilaÁ„o)
+        (ADJP 
+          (JJ tem·tica)
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (CD seis)
+            (NN LP)
+          )
+        )
+        (,)
+        (VP 
+          (ADVP 
+            (RB primeiro)
+          )
+          (VP 
+            (VBN editada)
+          )
+          (PP 
+            (IN por+)
+            (NP 
+              (DT a)
+              (NNP CBS)
+              ({)
+              (NP 
+                (JJ actual)
+                (NNP Sonny)
+              )
+              (})
+            )
+          )
+          (PP 
+            (IN em)
+            (NP 
+              (NN 1986)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

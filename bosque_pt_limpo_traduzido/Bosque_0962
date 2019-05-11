@@ -1,38 +1,67 @@
-(S (VP (PP (IN Em_vez_de)
-                                 (VP 
-                                   (VP 
-                                     (VB acrescentar))
-                                   (NP 
-                                     (DT uma)
-                                     (NN infinidade)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN caracterÃ­sticas)
-                                         (ADJP 
-                                           (JJ novas)))))))
-                        (,)
-                        (NP (DT o)
-                                 (JJ novo)
-                                 (NNP Word))
-                        (VP (VBP privilegiou))
-                        (_CU_ (NP (DT a)
-                                        (NN consistÃªncia)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN funcionamento))))
-                                (CC e)
-                                (NP (DT a)
-                                        (NN facilidade)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN acesso)))
-                                          (CC e)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN aprendizagem))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em_vez_de)
+      (VP 
+        (VP 
+          (VB acrescentar)
+        )
+        (NP 
+          (DT uma)
+          (NN infinidade)
+          (PP 
+            (IN de)
+            (NP 
+              (NN características)
+              (ADJP 
+                (JJ novas)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (JJ novo)
+      (NNP Word)
+    )
+    (VP 
+      (VBP privilegiou)
+    )
+    (NP 
+      (NP 
+        (DT a)
+        (NN consistência)
+        (PP 
+          (IN de)
+          (NP 
+            (NN funcionamento)
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (DT a)
+        (NN facilidade)
+        (PP 
+          (PP 
+            (IN de)
+            (NP 
+              (NN acesso)
+            )
+          )
+          (CC e)
+          (PP 
+            (IN de)
+            (NP 
+              (NN aprendizagem)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,30 +1,53 @@
-(S (_CU_ (VP (NP 
-                                  (DT A)
-                                  (NN cidade))
-                                (VP (VBP tem))
-                                (NP (DT uma)
-                                        (JJ larga)
-                                        (NN populaÃ§Ã£o)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN origem)
-                                            (ADJP 
-                                              (JJ japonesa))))))
-                       (CC e)
-                       (VP (NP 
-                                  (PRP isso))
-                                (VP (VBP sustenta))
-                                (_CU_ (NP 
-                                          (DT a)
-                                          (NN proliferaÃ§Ã£o))
-                                        (CC e)
-                                        (NP 
-                                          (DT a)
-                                          (NN qualidade)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (PRP seus)
-                                              (NN restaurantes))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT A)
+        (NN cidade)
+      )
+      (VP 
+        (VBP tem)
+      )
+      (NP 
+        (DT uma)
+        (JJ larga)
+        (NN população)
+        (PP 
+          (IN de)
+          (NP 
+            (NN origem)
+            (ADJP 
+              (JJ japonesa)
+            )
+          )
+        )
+      )
+    )
+    e    (VP 
+      (NP 
+        (PRP isso)
+      )
+      (VP 
+        (VBP sustenta)
+      )
+      (NP 
+        (NP 
+          (DT a)
+          (NN proliferação)
+        )
+        e        (NP 
+          (DT a)
+          (NN qualidade)
+          (PP 
+            (IN de)
+            (NP 
+              (PRP seus)
+              (NN restaurantes)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

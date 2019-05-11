@@ -1,62 +1,100 @@
-(S (VP (NP (DT As)
-                                 (NN apostas)
-                                 (PP (IN sobre)
-                                        (NP 
-                                          (DT os)
-                                          (NN resultados)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NN jogo)))))
-                                 (,)
-                                 (VP 
-                                   (VP 
-                                     (VBN feitas))
-                                   (_CU_ 
-                                     (PP 
-                                       (IN por)
-                                       (NP 
-                                         (NN telefone)))
-                                     (CC ou)
-                                     (PP 
-                                       (IN por+)
-                                       (NP 
-                                         (DT a)
-                                         (NNP Internet)))))
-                                 (,))
-                        (VP (VBP custavam))
-                        (PP (IN entre)
-                                 (NP (_CU_ 
-                                          (NP 
-                                            (CD dez))
-                                          (CC e)
-                                          (NP 
-                                            (CD 50)))
-                                        (NN dÃ³lares)
-                                        ({)
-                                        (_CU_ 
-                                          (NP 
-                                            (CD 1.85000))
-                                          (PP 
-                                            (IN a)
-                                            (ADJP 
-                                              (CD 9.25000))))
-                                        (})
-                                        (--)
-                                        (NP 
-                                          (NN valores)
-                                          (VP 
-                                            (PP 
-                                              (IN sobre)
-                                              (NP 
-                                                (PRP os_quais)))
-                                            (NP 
-                                              (DT as)
-                                              (NN empresas))
-                                            (VP 
-                                              (VBP retinham))
-                                            (NP 
-                                              (CD dez)
-                                              (NN por_cento))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN apostas)
+      (PP 
+        (IN sobre)
+        (NP 
+          (DT os)
+          (NN resultados)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN jogo)
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBN feitas)
+        )
+        (PP 
+          (PP 
+            (IN por)
+            (NP 
+              (NN telefone)
+            )
+          )
+          (CC ou)
+          (PP 
+            (IN por+)
+            (NP 
+              (DT a)
+              (NNP Internet)
+            )
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP custavam)
+    )
+    (PP 
+      (IN entre)
+      (NP 
+        (NP 
+          (NP 
+            (CD dez)
+          )
+          (CC e)
+          (NP 
+            (CD 50)
+          )
+        )
+        (NN dólares)
+        ({)
+        (UCP 
+          (NP 
+            (CD 1.85000)
+          )
+          (PP 
+            (IN a)
+            (ADJP 
+              (CD 9.25000)
+            )
+          )
+        )
+        (})
+        (--)
+        (NP 
+          (NN valores)
+          (VP 
+            (PP 
+              (IN sobre)
+              (NP 
+                (PRP os_quais)
+              )
+            )
+            (NP 
+              (DT as)
+              (NN empresas)
+            )
+            (VP 
+              (VBP retinham)
+            )
+            (NP 
+              (CD dez)
+              (NN por_cento)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

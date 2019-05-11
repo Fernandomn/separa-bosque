@@ -1,33 +1,61 @@
-(S (VP (ADVP (RB Ontem))
-                        (,)
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NNP Casa_Branca)))
-                        (,)
-                        (VP (VBP reuniu-))
-                        (NP (PRP se))
-                        (ADVP (RB pela_primeira_vez))
-                        (NP (DT uma)
-                                 (NN comiss√£o)
-                                 (VP 
-                                   (VP 
-                                     (VBN constitu√≠da))
-                                   (PP 
-                                     (IN por)
-                                     (NP 
-                                       (CD 21)
-                                       (NN especialistas)
-                                       (PP 
-                                         (IN em)
-                                         (_CU_ 
-                                           (NP 
-                                             (NN sistemas)
-                                             (PP 
-                                               (IN de)
-                                               (VBN defesa)))
-                                           (CC e)
-                                           (NP 
-                                             (NN contramedidas)
-                                             (ADJP 
-                                               (JJ electr√≥nicas)))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Ontem)
+    )
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NNP Casa_Branca)
+      )
+    )
+    (,)
+    (VP 
+      (VBP reuniu-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (ADVP 
+      (RB pela_primeira_vez)
+    )
+    (NP 
+      (DT uma)
+      (NN comiss„o)
+      (VP 
+        (VP 
+          (VBN constituÌda)
+        )
+        (PP 
+          (IN por)
+          (NP 
+            (CD 21)
+            (NN especialistas)
+            (PP 
+              (IN em)
+              (NP 
+                (NP 
+                  (NN sistemas)
+                  (PP 
+                    (IN de)
+                    (VBN defesa)
+                  )
+                )
+                (CC e)
+                (NP 
+                  (NN contramedidas)
+                  (ADJP 
+                    (JJ electrÛnicas)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

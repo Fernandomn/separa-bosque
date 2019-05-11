@@ -1,39 +1,67 @@
-(S (VP (NP (DT O)
-                                (NNP Benfica))
-                       (VP (VBP apresentou))
-                       (NP (DT o)
-                               (PRP seu)
-                               (NN esquema)
-                               (ADJP (JJ habitual))
-                               (,)
-                               (_CU_ (PP 
-                                        (IN com)
-                                        (NP 
-                                          (_CU_ 
-                                            (NP 
-                                              (NNP Jamir))
-                                            (CC e)
-                                            (NP 
-                                              (NNP Tahar)))
-                                          (ADJP 
-                                            (RB mais)
-                                            (VBN recuados))))
-                                      (CC e)
-                                      (VP 
-                                        (VP 
-                                          (VBG insistindo))
-                                        (PP 
-                                          (IN com)
-                                          (NP 
-                                            (DT a)
-                                            (NN utilizaÃ§Ã£o)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NNP Valdo)))
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT a)
-                                                (NN esquerda))))))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NNP Benfica)
+    )
+    (VP 
+      (VBP apresentou)
+    )
+    (NP 
+      (DT o)
+      (PRP seu)
+      (NN esquema)
+      (ADJP 
+        (JJ habitual)
+      )
+      (,)
+      (UCP 
+        (PP 
+          (IN com)
+          (NP 
+            (NP 
+              (NP 
+                (NNP Jamir)
+              )
+              (CC e)
+              (NP 
+                (NNP Tahar)
+              )
+            )
+            (ADJP 
+              (RB mais)
+              (VBN recuados)
+            )
+          )
+        )
+        (CC e)
+        (VP 
+          (VP 
+            (VBG insistindo)
+          )
+          (PP 
+            (IN com)
+            (NP 
+              (DT a)
+              (NN utilização)
+              (PP 
+                (IN de)
+                (NP 
+                  (NNP Valdo)
+                )
+              )
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT a)
+                  (NN esquerda)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

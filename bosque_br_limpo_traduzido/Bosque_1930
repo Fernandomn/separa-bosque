@@ -1,31 +1,55 @@
-(S (VP (NP (NN Restaurante))
-                        (VP (VBP tem))
-                        (NP (PRP seu)
-                                (NN ponto)
-                                (ADJP 
-                                  (JJ forte)))
-                        (PP (IN em+)
-                                 (NP (DT o)
-                                        (NN balc√£o)
-                                        (PP 
-                                          (IN de)
-                                          (VBN grelhados))
-                                        (,)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (NP 
-                                            (PRP se))
-                                          (VP 
-                                            (VBP sobrep√µe))
-                                          (PP 
-                                            (IN a+)
-                                            (NP 
-                                              (DT os)
-                                              (JJ prosaicos)
-                                              (_CU_ 
-                                                (NP 
-                                                  (NN sushis))
-                                                (CC e)
-                                                (NP 
-                                                  (NN sashimis))))))))))
+(S 
+  (VP 
+    (NP 
+      (NN Restaurante)
+    )
+    (VP 
+      (VBP tem)
+    )
+    (NP 
+      (PRP seu)
+      (NN ponto)
+      (ADJP 
+        (JJ forte)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT o)
+        (NN balc„o)
+        (PP 
+          (IN de)
+          (VBN grelhados)
+        )
+        (,)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VBP sobrepıe)
+          )
+          (PP 
+            (IN a+)
+            (NP 
+              (DT os)
+              (JJ prosaicos)
+              (NP 
+                (NP 
+                  (NN sushis)
+                )
+                e                (NP 
+                  (NN sashimis)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+)

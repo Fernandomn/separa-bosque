@@ -1,29 +1,54 @@
-(S (_CU_ (VP (VP (VBP Esperavam))
-                                (,)
-                                (IN pois)
-                                (,)
-                                (VP 
-                                  (VP (VB encontrar))
-                                  (NP 
-                                    (DT uma)
-                                    (NN cidade))
-                                  (PP 
-                                    (IN em)
-                                    (NP 
-                                      (NN estado)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN sÃ­tio)))))))
-                       (,)
-                       (CC mas)
-                       (VP (VP (VBP depararam-))
-                                (NP (PRP se))
-                                (PP (IN com)
-                                        (NP 
-                                          (DT uma)
-                                          (Â«)
-                                          (JJ estranha)
-                                          (NN normalidade)
-                                          (Â»))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP Esperavam)
+      )
+      (,)
+      (IN pois)
+      (,)
+      (VP 
+        (VP 
+          (VB encontrar)
+        )
+        (NP 
+          (DT uma)
+          (NN cidade)
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (NN estado)
+            (PP 
+              (IN de)
+              (NP 
+                (NN sítio)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (CC mas)
+    (VP 
+      (VP 
+        (VBP depararam-)
+      )
+      (NP 
+        (PRP se)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (DT uma)
+          («)
+          (JJ estranha)
+          (NN normalidade)
+          (»)
+        )
+      )
+    )
+    (.)
+  )
+)

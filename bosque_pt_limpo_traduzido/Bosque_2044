@@ -1,50 +1,82 @@
-(S (VP (PP (IN Em)
-                                 (NP (NN tribunal)))
-                        (,)
-                        (NP (DT o)
-                                 (NN repÃ³rter))
-                        (VP (VBP afirmou))
-                        (VP (ADVP 
-                                   (RB nÃ£o))
-                                 (VP (VB ter)
-                                       (VBN tido))
-                                 (NP 
-                                   (NN intenÃ§Ã£o)
-                                   (_CU_ 
-                                     (PP 
-                                       (IN de)
-                                       (VB difamar))
-                                     (,)
-                                     (Â«)
-                                     (CC mas)
-                                     (PP 
-                                       (ADVP 
-                                         (RB tÃ£o)
-                                         (RB sÃ³))
-                                       (IN de)
-                                       (VB informar))
-                                     (Â»)
-                                     (,)))
-                                 (VP 
-                                   (ADVP 
-                                     (RB nÃ£o))
-                                   (VP 
-                                     (VBG pretendendo))
-                                   (Â«)
-                                   (VP 
-                                     (VP 
-                                       (VB atingir))
-                                     (_CU_ 
-                                       (NP 
-                                         (DT a)
-                                         (NN honra))
-                                       (CC e)
-                                       (NP 
-                                         (NN consideraÃ§Ã£o)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT os)
-                                             (VBN visados))))))
-                                   (Â»)))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em)
+      (NP 
+        (NN tribunal)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN repórter)
+    )
+    (VP 
+      (VBP afirmou)
+    )
+    (VP 
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VB ter)
+        (VBN tido)
+      )
+      (NP 
+        (NN intenção)
+        (UCP 
+          (PP 
+            (IN de)
+            (VB difamar)
+          )
+          (,)
+          («)
+          (CC mas)
+          (PP 
+            (ADVP 
+              (RB tão)
+              (RB só)
+            )
+            (IN de)
+            (VB informar)
+          )
+          (»)
+          (,)
+        )
+      )
+      (VP 
+        (ADVP 
+          (RB não)
+        )
+        (VP 
+          (VBG pretendendo)
+        )
+        («)
+        (VP 
+          (VP 
+            (VB atingir)
+          )
+          (NP 
+            (NP 
+              (DT a)
+              (NN honra)
+            )
+            (CC e)
+            (NP 
+              (NN consideração)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (VBN visados)
+                )
+              )
+            )
+          )
+        )
+        (»)
+      )
+    )
+    (.)
+  )
+)

@@ -1,15 +1,34 @@
-(S (VP (PP (IN De+)
-                                 (NP (PRP esse)
-                                        (NN total)))
-                        (,)
-                        (ADJP (CD 40))
-                        (VP (VBP s√£o))
-                        (NP (_CU_ (NP 
-                                       (NN parentes))
-                                     (CC e)
-                                     (NN amigos))
-                               (PP (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NP ex-jogador))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN De+)
+      (NP 
+        (PRP esse)
+        (NN total)
+      )
+    )
+    (,)
+    (ADJP 
+      (CD 40)
+    )
+    (VP 
+      (VBP s„o)
+    )
+    (NP 
+      (UCP 
+        (NP 
+          (NN parentes)
+        )
+        e        (NN amigos)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NP ex-jogador)
+        )
+      )
+    )
+    (.)
+  )
+)

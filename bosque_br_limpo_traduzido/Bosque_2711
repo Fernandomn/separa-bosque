@@ -1,21 +1,40 @@
-(S (VP (NP (PRP Este))
-                        (VP (VBP Ã©))
-                        (NP (DT um)
-                               (NN vinho)
-                               (_CU_ (ADJP 
-                                        (RB bem)
-                                        (JJ seco))
-                                      (CC e)
-                                      (VBN encorpado))
-                               (ADJP (JJ capaz)
-                                        (PP 
-                                          (IN de)
-                                          (VP 
-                                            (VP 
-                                              (VB escoltar))
-                                            (NP 
-                                              (DT uma)
-                                              (NN refeiÃ§Ã£o)
-                                              (ADJP 
-                                                (JJ completa)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Este)
+    )
+    (VP 
+      (VBP é)
+    )
+    (NP 
+      (DT um)
+      (NN vinho)
+      (UCP 
+        (ADJP 
+          (RB bem)
+          (JJ seco)
+        )
+        e        (VBN encorpado)
+      )
+      (ADJP 
+        (JJ capaz)
+        (PP 
+          (IN de)
+          (VP 
+            (VP 
+              (VB escoltar)
+            )
+            (NP 
+              (DT uma)
+              (NN refeição)
+              (ADJP 
+                (JJ completa)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

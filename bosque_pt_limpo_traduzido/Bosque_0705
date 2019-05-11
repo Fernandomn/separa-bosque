@@ -1,29 +1,53 @@
-(S (_CU_ (VP (NP 
-                                  (PRP Nada))
-                                (VP (VBP Ã©))
-                                (ADJP 
-                                  (RB mais)
-                                  (JJ previsÃ­vel)))
-                       (,)
-                       (VP (NP 
-                                  (PRP nada))
-                                (VP (VBP Ã©))
-                                (ADJP 
-                                  (RB mais)
-                                  (RB desesperadamente)
-                                  (_CU_ (ADJP 
-                                          (JJ igual))
-                                        (CC e)
-                                        (ADJP 
-                                          (JJ repetitivo)))
-                                  (ADVP 
-                                    (IN do_que)
-                                    (NP 
-                                      (DT o)
-                                      (NN discurso)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP PCP)))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (PRP Nada)
+      )
+      (VP 
+        (VBP é)
+      )
+      (ADJP 
+        (RB mais)
+        (JJ previsível)
+      )
+    )
+    (,)
+    (VP 
+      (NP 
+        (PRP nada)
+      )
+      (VP 
+        (VBP é)
+      )
+      (ADJP 
+        (RB mais)
+        (RB desesperadamente)
+        (ADJP 
+          (ADJP 
+            (JJ igual)
+          )
+          (CC e)
+          (ADJP 
+            (JJ repetitivo)
+          )
+        )
+        (ADVP 
+          (IN do_que)
+          (NP 
+            (DT o)
+            (NN discurso)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NNP PCP)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

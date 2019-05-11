@@ -1,68 +1,105 @@
-(S (_CU_ (VP (VP (VBP Foi))
-                                (PP (IN n')
-                                       (Â«)
-                                       (NP 
-                                         (NNP A_Lei_do_Desejo))
-                                       (Â»)))
-                       (,)
-                       (CC e)
-                       (VP (ADVP 
-                                  (RB depois))
-                                (VP (VBP aconteceu))
-                                (_CU_ 
-                                  (NP 
-                                    (Â«)
-                                    (NNP Mulheres_Ã _Beira_de_um_Ataque_de_Nervos)
-                                    (Â»)
-                                    (--)
-                                    (VP 
-                                      (VP 
-                                        (VBP dormiu))
-                                      (PP 
-                                        (IN durante)
-                                        (NP 
-                                          (DT o)
-                                          (NN filme)
-                                          (NP 
-                                            (PRP todo))))
-                                      (,)
-                                      (PP 
-                                        (IN apÃ³s)
-                                        (_CU_ 
-                                          (NP 
-                                            (DT um)
-                                            (NN jarro)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN sumo)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (NN tomate))))))
-                                          (CC e)
-                                          (NP 
-                                            (NN soporÃ­feros)))))
-                                    (--))
-                                  (,)
-                                  (Â«)
-                                  (NP 
-                                    (NNP Ata_-me_!))
-                                  (Â»)
-                                  (CC e)
-                                  (NP 
-                                    (RB agora)
-                                    (,)
-                                    (PP 
-                                      (IN em)
-                                      (NP 
-                                        (NN rodagem)
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (NNP Madrid)))))
-                                    (,)
-                                    (Â«)
-                                    (NNP Kika)
-                                    (Â»))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP Foi)
+      )
+      (PP 
+        (IN n')
+        («)
+        (NP 
+          (NNP A_Lei_do_Desejo)
+        )
+        (»)
+      )
+    )
+    (,)
+    (CC e)
+    (VP 
+      (ADVP 
+        (RB depois)
+      )
+      (VP 
+        (VBP aconteceu)
+      )
+      (UCP 
+        (NP 
+          («)
+          (NNP Mulheres_à_Beira_de_um_Ataque_de_Nervos)
+          (»)
+          (--)
+          (VP 
+            (VP 
+              (VBP dormiu)
+            )
+            (PP 
+              (IN durante)
+              (NP 
+                (DT o)
+                (NN filme)
+                (NP 
+                  (PRP todo)
+                )
+              )
+            )
+            (,)
+            (PP 
+              (IN após)
+              (NP 
+                (NP 
+                  (DT um)
+                  (NN jarro)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN sumo)
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (NN tomate)
+                        )
+                      )
+                    )
+                  )
+                )
+                (CC e)
+                (NP 
+                  (NN soporíferos)
+                )
+              )
+            )
+          )
+          (--)
+        )
+        (,)
+        («)
+        (NP 
+          (NNP Ata_-me_!)
+        )
+        (»)
+        (CC e)
+        (NP 
+          (RB agora)
+          (,)
+          (PP 
+            (IN em)
+            (NP 
+              (NN rodagem)
+              (PP 
+                (IN em)
+                (NP 
+                  (NNP Madrid)
+                )
+              )
+            )
+          )
+          (,)
+          («)
+          (NNP Kika)
+          (»)
+        )
+      )
+    )
+    (.)
+  )
+)

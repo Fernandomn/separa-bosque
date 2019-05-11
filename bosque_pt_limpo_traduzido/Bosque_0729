@@ -1,15 +1,32 @@
-(S (VP (NP (DT A)
-                                 (NN impopularidade)
-                                 (_CU_ (ADJP 
-                                          (JJ pessoal))
-                                        (CC e)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (PRP seu)
-                                            (NN executivo)))))
-                        (VP (VBP tornara-))
-                        (NP (PRP se))
-                        (ADJP (JJ demasiada))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN impopularidade)
+      (UCP 
+        (ADJP 
+          (JJ pessoal)
+        )
+        (CC e)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (PRP seu)
+            (NN executivo)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP tornara-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (ADJP 
+      (JJ demasiada)
+    )
+    (.)
+  )
+)

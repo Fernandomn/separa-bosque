@@ -1,17 +1,33 @@
-(S (VP (NP (DT As)
-                                 (NN penas))
-                        (VP (VBP foram))
-                        (PP (IN para)
-                                 (_CU_ (NP 
-                                          (NN sequestro))
-                                        (,)
-                                        (NP 
-                                          (NN violaÃ§Ã£o))
-                                        (CC e)
-                                        (NP 
-                                          (NN tentativa)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN homicÃ­dio))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN penas)
+    )
+    (VP 
+      (VBP foram)
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (NP 
+          (NN sequestro)
+        )
+        (,)
+        (NP 
+          (NN violação)
+        )
+        e        (NP 
+          (NN tentativa)
+          (PP 
+            (IN de)
+            (NP 
+              (NN homicídio)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

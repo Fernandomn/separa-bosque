@@ -1,46 +1,73 @@
-(S (VP (NP (DT A)
-                                 (NNP Comunidade_EconÃ³mica))
-                        (,)
-                        (PP por_outro_lado)
-                        (,)
-                        (VP (VBP deverÃ¡)
-                              (VB preparar))
-                        (NP (DT as)
-                                (NN condiÃ§Ãµes)
-                                (PP (IN para)
-                                       (NP 
-                                         (DT a)
-                                         (Â«)
-                                         (NN transiÃ§Ã£o)
-                                         (ADJP 
-                                           (JJ gradual))
-                                         (PP 
-                                           (IN para)
-                                           (NP 
-                                             (DT a)
-                                             (JJ livre)
-                                             (NN circulaÃ§Ã£o)
-                                             (PP 
-                                               (IN de)
-                                               (_CU_ 
-                                                 (NP 
-                                                   (NN mercadorias))
-                                                 (CC e)
-                                                 (NP 
-                                                   (NN serviÃ§os))))
-                                             (Â»)
-                                             (PP 
-                                               (IN em)
-                                               (NP 
-                                                 (PRP todos_os)
-                                                 (NN Estados)
-                                                 (VP 
-                                                   (NP 
-                                                     (PRP que))
-                                                   (PP 
-                                                     (IN a)
-                                                     (NP 
-                                                       (PRP ela)))
-                                                   (VP 
-                                                     (VBP aderirem))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NNP Comunidade_Económica)
+    )
+    (,)
+    (PP por_outro_lado)
+    (,)
+    (VP 
+      (VBP deverá)
+      (VB preparar)
+    )
+    (NP 
+      (DT as)
+      (NN condições)
+      (PP 
+        (IN para)
+        (NP 
+          (DT a)
+          («)
+          (NN transição)
+          (ADJP 
+            (JJ gradual)
+          )
+          (PP 
+            (IN para)
+            (NP 
+              (DT a)
+              (JJ livre)
+              (NN circulação)
+              (PP 
+                (IN de)
+                (NP 
+                  (NP 
+                    (NN mercadorias)
+                  )
+                  (CC e)
+                  (NP 
+                    (NN serviços)
+                  )
+                )
+              )
+              (»)
+              (PP 
+                (IN em)
+                (NP 
+                  (PRP todos_os)
+                  (NN Estados)
+                  (VP 
+                    (NP 
+                      (PRP que)
+                    )
+                    (PP 
+                      (IN a)
+                      (NP 
+                        (PRP ela)
+                      )
+                    )
+                    (VP 
+                      (VBP aderirem)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

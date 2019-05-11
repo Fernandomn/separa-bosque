@@ -1,24 +1,42 @@
-(S (VP (CC Mas)
-                        (NP (DT a)
-                                 (NN magnitude)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN diferen√ßa)
-                                          (PP 
-                                            (IN entre)
-                                            (_CU_ 
-                                              (NN negros)
-                                              (CC e)
-                                              (NN brancos)))
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT os)
-                                              (NN desvios)
-                                              (NP 
-                                                (NN padr√µes)))))))
-                        (ADVP (RB n√£o))
-                        (NP (PRP se))
-                        (VP (VBP reduz))
-                        (.)))
+(S 
+  (VP 
+    Mas    (NP 
+      (DT a)
+      (NN magnitude)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN diferenÁa)
+          (PP 
+            (IN entre)
+            (NN 
+              (NN negros)
+              e              (NN brancos)
+            )
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT os)
+              (NN desvios)
+              (NP 
+                (NN padrıes)
+              )
+            )
+          )
+        )
+      )
+    )
+    (ADVP 
+      (RB n„o)
+    )
+    (NP 
+      (PRP se)
+    )
+    (VP 
+      (VBP reduz)
+    )
+    (.)
+  )
+)

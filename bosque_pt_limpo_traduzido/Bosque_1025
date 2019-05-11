@@ -1,28 +1,50 @@
-(S (VP (NP (CD Dois)
-                                 (NN empresÃ¡rios)
-                                 (,)
-                                 (_CU_ 
-                                   (NP 
-                                     (DT um)
-                                     (NN chinÃªs)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NNP Hong_Kong))))
-                                   (CC e)
-                                   (NP 
-                                     (PRP outro)
-                                     (ADJP 
-                                       (JJ portuguÃªs))))
-                                 (,))
-                        (VP (VBP encontram-))
-                        (NP (PRP se))
-                        (PP (IN para)
-                                 (VP 
-                                   (VP 
-                                     (VB falar))
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN negÃ³cios)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (CD Dois)
+      (NN empresários)
+      (,)
+      (NP 
+        (NP 
+          (DT um)
+          (NN chinês)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Hong_Kong)
+            )
+          )
+        )
+        (CC e)
+        (NP 
+          (PRP outro)
+          (ADJP 
+            (JJ português)
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP encontram-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VB falar)
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (NN negócios)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

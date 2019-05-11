@@ -1,61 +1,100 @@
-(S (VP (Â«)
-                        (_CU_ (VP 
-                                  (NP 
-                                    (DT A)
-                                    (PRP minha)
-                                    (NN decisÃ£o))
-                                  (ADVP 
-                                    (RB nÃ£o))
-                                  (VP (VBP foi))
-                                  (ADJP 
-                                    (JJ pacÃ­fica)))
-                                (,)
-                                (VP 
-                                  (ADVP 
-                                    (RB nÃ£o))
-                                  (VP (VBP seria))
-                                  (ADJP 
-                                    (JJ honesto))
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT a)
-                                      (PRP minha)
-                                      (NN parte)))
-                                  (VP 
-                                    (VP 
-                                      (VBP dize-))
-                                    (NP 
-                                      (PRP lo))))
-                                (,)
-                                (VP 
-                                  (VP (VBP posso)
-                                        (VB dizer))
-                                  (ADVP 
-                                    (RB Ã©_que))
-                                  (VP 
-                                    (VP 
-                                      (VBP foi))
-                                    (_CU_ 
-                                      (ADJP 
-                                        (JJ pacÃ­fica))
-                                      (CC e)
-                                      (PP 
-                                        (IN sem)
-                                        (NP 
-                                          (NN equÃ­vocos))))
-                                    (NP 
-                                      (DT a)
-                                      (NN maneira)
-                                      (VP 
-                                        (ADVP 
-                                          (RB como))
-                                        (NP 
-                                          (DT o)
-                                          (NN processo))
-                                        (VP 
-                                          (VBP aconteceu)))))))
-                        (Â»)
-                        (,)
-                        (VP (VBP declarou))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (VP 
+      (VP 
+        (NP 
+          (DT A)
+          (PRP minha)
+          (NN decisão)
+        )
+        (ADVP 
+          (RB não)
+        )
+        (VP 
+          (VBP foi)
+        )
+        (ADJP 
+          (JJ pacífica)
+        )
+      )
+      (,)
+      (VP 
+        (ADVP 
+          (RB não)
+        )
+        (VP 
+          (VBP seria)
+        )
+        (ADJP 
+          (JJ honesto)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (PRP minha)
+            (NN parte)
+          )
+        )
+        (VP 
+          (VP 
+            (VBP dize-)
+          )
+          (NP 
+            (PRP lo)
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBP posso)
+          (VB dizer)
+        )
+        (ADVP 
+          (RB é_que)
+        )
+        (VP 
+          (VP 
+            (VBP foi)
+          )
+          (UCP 
+            (ADJP 
+              (JJ pacífica)
+            )
+            (CC e)
+            (PP 
+              (IN sem)
+              (NP 
+                (NN equívocos)
+              )
+            )
+          )
+          (NP 
+            (DT a)
+            (NN maneira)
+            (VP 
+              (ADVP 
+                (RB como)
+              )
+              (NP 
+                (DT o)
+                (NN processo)
+              )
+              (VP 
+                (VBP aconteceu)
+              )
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (,)
+    (VP 
+      (VBP declarou)
+    )
+    (.)
+  )
+)

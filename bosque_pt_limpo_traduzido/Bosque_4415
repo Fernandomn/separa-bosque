@@ -1,52 +1,84 @@
-(S (VP (NP (DT Os)
-                                 (JJ futuros)
-                                 (Â«)
-                                 (NN chips)
-                                 (Â»)
-                                 (PP (IN de)
-                                        (NP 
-                                          (CD 256)
-                                          (NN megabits))))
-                        (VP (VBP poderÃ£o)
-                              (VB ser)
-                              (VBN usados))
-                        (PP (IN em)
-                                 (NP (NN aplicaÃ§Ãµes)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP exigem))
-                                          (NP 
-                                            (JJ grandes)
-                                            (NN quantidades)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN memÃ³ria)))))
-                                        (,)
-                                        (ADVP 
-                                          (RB como)
-                                          (NP 
-                                            (DT o)
-                                            (NN processamento)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN imagens)))
-                                            (_CU_ 
-                                              (PP 
-                                                (IN em)
-                                                (NP 
-                                                  (NN supercomputadores)))
-                                              (CC e)
-                                              (PP 
-                                                (IN em+)
-                                                (NP 
-                                                  (PRP outras)
-                                                  (NN tecnologias)
-                                                  (PP 
-                                                    (IN de)
-                                                    (NP 
-                                                      (NN ponta))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (JJ futuros)
+      («)
+      (NN chips)
+      (»)
+      (PP 
+        (IN de)
+        (NP 
+          (CD 256)
+          (NN megabits)
+        )
+      )
+    )
+    (VP 
+      (VBP poderão)
+      (VB ser)
+      (VBN usados)
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NN aplicações)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP exigem)
+          )
+          (NP 
+            (JJ grandes)
+            (NN quantidades)
+            (PP 
+              (IN de)
+              (NP 
+                (NN memória)
+              )
+            )
+          )
+        )
+        (,)
+        (ADVP 
+          (RB como)
+          (NP 
+            (DT o)
+            (NN processamento)
+            (PP 
+              (IN de)
+              (NP 
+                (NN imagens)
+              )
+            )
+            (PP 
+              (PP 
+                (IN em)
+                (NP 
+                  (NN supercomputadores)
+                )
+              )
+              (CC e)
+              (PP 
+                (IN em+)
+                (NP 
+                  (PRP outras)
+                  (NN tecnologias)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN ponta)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

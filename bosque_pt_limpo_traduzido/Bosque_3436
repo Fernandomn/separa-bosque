@@ -1,67 +1,111 @@
-(S (VP (_CU_ (PP 
-                                   (IN Para)
-                                   (NP 
-                                     (DT um)
-                                     (NN utilizador)
-                                     (ADJP 
-                                       (JJ experiente))))
-                                 (CC ou)
-                                 (PP 
-                                   (IN para)
-                                   (NP 
-                                     (DT um)
-                                     (NN principiante))))
-                        (,)
-                        (NP (DT uma)
-                                 (NN liga√ß√£o)
-                                 (_CU_ (ADJP 
-                                          (JJ r√°pida))
-                                        (,)
-                                        (ADJP 
-                                          (JJ eficaz))
-                                        (CC e)
-                                        (ADJP 
-                                          (JJ econ√≥mica)))
-                                 (PP (IN a+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP Internet)))
-                                 (PP (IN em)
-                                        (NP 
-                                          (NNP Portugal))))
-                        (ADVP (RB s√≥))
-                        (VP (VBP √©)
-                              (VBN assegurada))
-                        (ADVP (RB atrav√©s)
-                                   (NP 
-                                     (_CU_ 
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NNP Teleweb)))
-                                       (CC ou)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NNP Esot√©rica))))
-                                     (,)
-                                     (ADJP 
-                                       (CD dois)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT os)
-                                           (CD cinco)
-                                           (NN fornecedores)
-                                           (VP 
-                                             (NP 
-                                               (PRP que))
-                                             (VP 
-                                               (VBP operam))
-                                             (PP 
-                                               (IN em)
-                                               (NP 
-                                                 (NNP Portugal)))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (PP 
+        (IN Para)
+        (NP 
+          (DT um)
+          (NN utilizador)
+          (ADJP 
+            (JJ experiente)
+          )
+        )
+      )
+      (CC ou)
+      (PP 
+        (IN para)
+        (NP 
+          (DT um)
+          (NN principiante)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT uma)
+      (NN ligaÁ„o)
+      (ADJP 
+        (ADJP 
+          (JJ r·pida)
+        )
+        (,)
+        (ADJP 
+          (JJ eficaz)
+        )
+        (CC e)
+        (ADJP 
+          (JJ econÛmica)
+        )
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT a)
+          (NNP Internet)
+        )
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NNP Portugal)
+        )
+      )
+    )
+    (ADVP 
+      (RB sÛ)
+    )
+    (VP 
+      (VBP È)
+      (VBN assegurada)
+    )
+    (ADVP 
+      (RB atravÈs)
+      (NP 
+        (PP 
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Teleweb)
+            )
+          )
+          (CC ou)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP EsotÈrica)
+            )
+          )
+        )
+        (,)
+        (ADJP 
+          (CD dois)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (CD cinco)
+              (NN fornecedores)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP operam)
+                )
+                (PP 
+                  (IN em)
+                  (NP 
+                    (NNP Portugal)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

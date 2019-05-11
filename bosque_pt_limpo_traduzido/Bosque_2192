@@ -1,36 +1,67 @@
-(S (VP (RB AtÃ©)
-                        (IN porque)
-                        (NP (NNP Fuzeta_da_Ponte))
-                        (,)
-                        (PP (IN em+)
-                                 (NP (DT as)
-                                        (NN palavras)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NNP Alberto_JoÃ£o)))))
-                        (,)
-                        (ADVP (RB nÃ£o))
-                        (VP (VBP era))
-                        (_CU_ (Â«)
-                               (NP (JJ grande)
-                                       (NN espingarda))
-                               (Â»)
-                               (CC e)
-                               (Â«)
-                               (ADJP 
-                                 (JJ antipÃ¡tico))
-                               (Â»))
-                        (,)
-                        (VP 
-                          (VP (VBG devendo))
-                          (PP (IN por)
-                                   (NP 
-                                     (PRP isso)))
-                          (VP (VB ter)
-                                 (VBN sido)
-                                 (Â«)
-                                 (VBN demitido))
-                          (ADVP (RB logo)))
-                        (Â»)
-                        (.)))
+(S 
+  (VP 
+    (RB Até)
+    (IN porque)
+    (NP 
+      (NNP Fuzeta_da_Ponte)
+    )
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT as)
+        (NN palavras)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Alberto_João)
+          )
+        )
+      )
+    )
+    (,)
+    (ADVP 
+      (RB não)
+    )
+    (VP 
+      (VBP era)
+    )
+    (UCP 
+      («)
+      (NP 
+        (JJ grande)
+        (NN espingarda)
+      )
+      (»)
+      (CC e)
+      («)
+      (ADJP 
+        (JJ antipático)
+      )
+      (»)
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG devendo)
+      )
+      (PP 
+        (IN por)
+        (NP 
+          (PRP isso)
+        )
+      )
+      (VP 
+        (VB ter)
+        (VBN sido)
+        («)
+        (VBN demitido)
+      )
+      (ADVP 
+        (RB logo)
+      )
+    )
+    (»)
+    (.)
+  )
+)

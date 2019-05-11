@@ -1,16 +1,31 @@
-(S (_CU_ (PP (IN Por+)
-                               (NP (DT o)
-                                      (NN veredicto)))
-                       (,)
-                       (PP (IN por+)
-                               (NP (DT a)
-                                      (NN maneira)
-                                      (VP 
-                                        (RB como)
-                                        (NP 
-                                          (DT o)
-                                          (NN processo))
-                                        (VP 
-                                          (VBP foi)
-                                          (VBN conduzido)))))
-                       (.)))
+(S 
+  (PP 
+    (PP 
+      (IN Por+)
+      (NP 
+        (DT o)
+        (NN veredicto)
+      )
+    )
+    (,)
+    (PP 
+      (IN por+)
+      (NP 
+        (DT a)
+        (NN maneira)
+        (VP 
+          (RB como)
+          (NP 
+            (DT o)
+            (NN processo)
+          )
+          (VP 
+            (VBP foi)
+            (VBN conduzido)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

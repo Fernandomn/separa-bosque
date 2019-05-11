@@ -1,47 +1,73 @@
-(S (VP (NP (DT A)
-                                 (Â«)
-                                 (NNP RÃ¡scal_Pizza_&_Cozinha)
-                                 (Â»))
-                        (VP (VBP criou))
-                        (NP (DT um)
-                                (NN cardÃ¡pio)
-                                (ADJP 
-                                  (JJ especial)))
-                        (PP (IN para)
-                                        (NP 
-                                          (DT o)
-                                          (NN almoÃ§o)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP PÃ¡scoa)
-                                              (PP 
-                                                (IN de)
-                                                (RB amanhÃ£))))
-                                          (,)
-                                          (PP 
-                                            (IN com)
-                                            (NP 
-                                              (DT uma)
-                                              (NN massa)
-                                              (_CU_ 
-                                                (PP 
-                                                  (IN com)
-                                                  (NP 
-                                                    (DT um)
-                                                    (NN recheio)))
-                                                (CC e)
-                                                (NP 
-                                                  (DT um)
-                                                  (NN molho)
-                                                  (PP 
-                                                    (IN a+)
-                                                    (NP 
-                                                      (DT a)
-                                                      (NN base)
-                                                      (PP 
-                                                        (IN de)
-                                                        (NP 
-                                                          (NN peixes)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      («)
+      (NNP Ráscal_Pizza_&_Cozinha)
+      (»)
+    )
+    (VP 
+      (VBP criou)
+    )
+    (NP 
+      (DT um)
+      (NN cardápio)
+      (ADJP 
+        (JJ especial)
+      )
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (DT o)
+        (NN almoço)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP Páscoa)
+            (PP 
+              (IN de)
+              (RB amanhã)
+            )
+          )
+        )
+        (,)
+        (PP 
+          (IN com)
+          (NP 
+            (DT uma)
+            (NN massa)
+            (UCP 
+              (PP 
+                (IN com)
+                (NP 
+                  (DT um)
+                  (NN recheio)
+                )
+              )
+              e              (NP 
+                (DT um)
+                (NN molho)
+                (PP 
+                  (IN a+)
+                  (NP 
+                    (DT a)
+                    (NN base)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NN peixes)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

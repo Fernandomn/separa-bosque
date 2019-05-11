@@ -1,73 +1,119 @@
-(S (VP (PP (IN Com)
-                                 (NP (CD 57)
-                                        (NN anos)
-                                        (PP de_profiss√£o)))
-                        (,)
-                        (NP (NNP Carlos_dos_Santos))
-                        (,)
-                        (VP (VBP tornou-))
-                        (NP (PRP se))
-                        (NP (NN popular))
-                        (_CU_ (PP 
-                                   (IN por+)
-                                   (NP 
-                                     (DT os)
-                                     (NN preg√µes)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP usava))
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT a)
-                                           (NN venda)
-                                           (_CU_ 
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN jornais)))
-                                             (CC e)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN lotaria))))))
-                                       (,)
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT a)
-                                           (NN zona)
-                                           (PP 
-                                             (IN de+)
-                                             (_CU_ 
-                                               (NP 
-                                                 (DT a)
-                                                 (NNP Baixa))
-                                               (CC e)
-                                               (NP 
-                                                 (NNP Bairro_Alto)))))))))
-                                 (,)
-                                 (CC e)
-                                 (PP 
-                                   (IN por+)
-                                   (NP 
-                                     (DT a)
-                                     (NN maneira)
-                                     (ADJP 
-                                       (JJ af√°vel))
-                                     (VP 
-                                       (PP 
-                                         (IN com)
-                                         (NP 
-                                           (PRP que)))
-                                       (NP 
-                                         (PRP se))
-                                       (VP 
-                                         (VBP relacionava))
-                                       (PP 
-                                         (IN com)
-                                         (NP 
-                                           (PRP toda_a_gente)))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Com)
+      (NP 
+        (CD 57)
+        (NN anos)
+        (PP de_profiss„o)
+      )
+    )
+    (,)
+    (NP 
+      (NNP Carlos_dos_Santos)
+    )
+    (,)
+    (VP 
+      (VBP tornou-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (NP 
+      (NN popular)
+    )
+    (PP 
+      (PP 
+        (IN por+)
+        (NP 
+          (DT os)
+          (NN pregıes)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP usava)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NN venda)
+                (PP 
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN jornais)
+                    )
+                  )
+                  (CC e)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN lotaria)
+                    )
+                  )
+                )
+              )
+            )
+            (,)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NN zona)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (NP 
+                      (DT a)
+                      (NNP Baixa)
+                    )
+                    (CC e)
+                    (NP 
+                      (NNP Bairro_Alto)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (CC e)
+      (PP 
+        (IN por+)
+        (NP 
+          (DT a)
+          (NN maneira)
+          (ADJP 
+            (JJ af·vel)
+          )
+          (VP 
+            (PP 
+              (IN com)
+              (NP 
+                (PRP que)
+              )
+            )
+            (NP 
+              (PRP se)
+            )
+            (VP 
+              (VBP relacionava)
+            )
+            (PP 
+              (IN com)
+              (NP 
+                (PRP toda_a_gente)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

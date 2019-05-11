@@ -1,36 +1,62 @@
-(S (VP (VP (VBP Antevi-))
-                        (NP (PRP me))
-                        (,)
-                        (PP (_CU_ (IN com)
-                                       (CC ou)
-                                       (IN sem))
-                                 (NP (NN sandes)))
-                        (,)
-                        (PP (IN a)
-                                 (VP 
-                                   (VB ser)
-                                   (_CU_ 
-                                     (VBN interpelado)
-                                     (--)
-                                     (CC ou)
-                                     (VP 
-                                       (ADVP 
-                                         (RB mesmo))
-                                       (VBN revistado))
-                                     (--))
-                                   (PP 
-                                     (IN por)
-                                     (NP 
-                                       (DT um)
-                                       (PRP qualquer)
-                                       (NN seguranÃ§a)
-                                       (VP 
-                                         (VP 
-                                           (VBN imbuÃ­do))
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (DT uma)
-                                             (NN autoridade)
-                                             (VBN disparatada))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Antevi-)
+    )
+    (NP 
+      (PRP me)
+    )
+    (,)
+    (PP 
+      (IN 
+        (IN com)
+        (CC ou)
+        (IN sem)
+      )
+      (NP 
+        (NN sandes)
+      )
+    )
+    (,)
+    (PP 
+      (IN a)
+      (VP 
+        (VB ser)
+        (UCP 
+          (VBN interpelado)
+          (--)
+          (CC ou)
+          (VP 
+            (ADVP 
+              (RB mesmo)
+            )
+            (VBN revistado)
+          )
+          (--)
+        )
+        (PP 
+          (IN por)
+          (NP 
+            (DT um)
+            (PRP qualquer)
+            (NN segurança)
+            (VP 
+              (VP 
+                (VBN imbuído)
+              )
+              (PP 
+                (IN de)
+                (NP 
+                  (DT uma)
+                  (NN autoridade)
+                  (VBN disparatada)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

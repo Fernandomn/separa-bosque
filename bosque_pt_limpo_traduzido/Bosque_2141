@@ -1,13 +1,32 @@
-(S (_CU_ (VP (VP (VBP Rodeaste-))
-                                (NP (PRP te))
-                                (PP (IN de)
-                                        (NP 
-                                          (PRP algum)
-                                          (NN material)
-                                          (ADJP 
-                                            (JJ especial)))))
-                       (,)
-                       (VP (ADVP 
-                                  (RB como))
-                                (VP (VBP foi)))
-                       (?)))
+(S 
+  (UCP 
+    (VP 
+      (VP 
+        (VBP Rodeaste-)
+      )
+      (NP 
+        (PRP te)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (PRP algum)
+          (NN material)
+          (ADJP 
+            (JJ especial)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (ADVP 
+        (RB como)
+      )
+      (VP 
+        (VBP foi)
+      )
+    )
+    (?)
+  )
+)

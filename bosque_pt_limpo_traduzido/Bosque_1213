@@ -1,82 +1,127 @@
-(S (VP (NP (DT Uma)
-                                 (NN explicaÃ§Ã£o)
-                                 (ADJP 
-                                   (JJ possÃ­vel))
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN hegemonia)
-                                          (ADJP 
-                                            (JJ dextrÃ­mana)))))
-                        (VP (VBP poderÃ¡)
-                              (VB ser))
-                        (NP (DT o)
-                               (NN facto)
-                               (PP (IN de)
-                                      (,)
-                                      (VP 
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT os)
-                                            (NN dextrÃ­manos)))
-                                        (,)
-                                        (NP 
-                                          (DT o)
-                                          (NN hemisfÃ©rio)
-                                          (ADJP 
-                                            (JJ cerebral))
-                                          (ADJP 
-                                            (JJ esquerdo)))
-                                        (VP 
-                                          (VB possuir))
-                                        (NP 
-                                          (NN ligaÃ§Ãµes)
-                                          (ADJP 
-                                            (JJ nervosas))
-                                          (_CU_ 
-                                            (ADJP 
-                                              (JJ sensoriais))
-                                            (CC e)
-                                            (ADJP 
-                                              (JJ motoras)))
-                                          (PP 
-                                            (IN para)
-                                            (NP 
-                                              (DT os)
-                                              (CD dois)
-                                              (NN lados)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN corpo))))))
-                                        (,)
-                                        (VP 
-                                          (ADVP 
-                                            (RB enquanto))
-                                          (NP 
-                                            (DT o)
-                                            (NN hemisfÃ©rio)
-                                            (ADJP 
-                                              (JJ direito)))
-                                          (VP 
-                                            (VBP estÃ¡))
-                                          (ADVP 
-                                            (RB quase)
-                                            (RB sÃ³))
-                                          (VP 
-                                            (VP 
-                                              (VBN ligado))
-                                            (PP 
-                                              (IN a)
-                                              (NP 
-                                                (DT um)
-                                                (JJ Ãºnico)
-                                                (NN lado)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NN corpo))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Uma)
+      (NN explicação)
+      (ADJP 
+        (JJ possível)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN hegemonia)
+          (ADJP 
+            (JJ dextrímana)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP poderá)
+      (VB ser)
+    )
+    (NP 
+      (DT o)
+      (NN facto)
+      (PP 
+        (IN de)
+        (,)
+        (VP 
+          (PP 
+            (IN em+)
+            (NP 
+              (DT os)
+              (NN dextrímanos)
+            )
+          )
+          (,)
+          (NP 
+            (DT o)
+            (NN hemisfério)
+            (ADJP 
+              (JJ cerebral)
+            )
+            (ADJP 
+              (JJ esquerdo)
+            )
+          )
+          (VP 
+            (VB possuir)
+          )
+          (NP 
+            (NN ligações)
+            (ADJP 
+              (JJ nervosas)
+            )
+            (ADJP 
+              (ADJP 
+                (JJ sensoriais)
+              )
+              (CC e)
+              (ADJP 
+                (JJ motoras)
+              )
+            )
+            (PP 
+              (IN para)
+              (NP 
+                (DT os)
+                (CD dois)
+                (NN lados)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN corpo)
+                  )
+                )
+              )
+            )
+          )
+          (,)
+          (VP 
+            (ADVP 
+              (RB enquanto)
+            )
+            (NP 
+              (DT o)
+              (NN hemisfério)
+              (ADJP 
+                (JJ direito)
+              )
+            )
+            (VP 
+              (VBP está)
+            )
+            (ADVP 
+              (RB quase)
+              (RB só)
+            )
+            (VP 
+              (VP 
+                (VBN ligado)
+              )
+              (PP 
+                (IN a)
+                (NP 
+                  (DT um)
+                  (JJ único)
+                  (NN lado)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NN corpo)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

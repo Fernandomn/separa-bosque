@@ -1,13 +1,29 @@
-(S (_CU_ (Â«)
-                       (VP (VP (VBP Tenho))
-                                (NP (DT os)
-                                        (NN papÃ©is)))
-                       (,)
-                       (CC mas)
-                       (VP (ADVP 
-                                  (RB nÃ£o))
-                                (VP (VBP tenho))
-                                (NP (DT a)
-                                        (PRP minha)
-                                        (NN filha)))
-                       (.)))
+(S 
+  (UCP 
+    («)
+    (VP 
+      (VP 
+        (VBP Tenho)
+      )
+      (NP 
+        (DT os)
+        (NN papéis)
+      )
+    )
+    (,)
+    mas    (VP 
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VBP tenho)
+      )
+      (NP 
+        (DT a)
+        (PRP minha)
+        (NN filha)
+      )
+    )
+    (.)
+  )
+)

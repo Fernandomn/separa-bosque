@@ -1,66 +1,110 @@
-(S (VP (NP (DT O)
-                                 (NN ministro)
-                                 (ADJP 
-                                   (JJ portuguÃªs))
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP AdministraÃ§Ã£o_Interna))))
-                        (VP (VBP avistou-))
-                        (NP (PRP se))
-                        (ADVP (RB ontem))
-                        (PP (IN com)
-                                (NP (DT o)
-                                       (NN ministro)
-                                       (ADJP 
-                                         (JJ holandÃªs))
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NNP JustiÃ§a)))))
-                        (PP (IN para)
-                                 (VP 
-                                   (VP 
-                                     (VB receber))
-                                   (NP 
-                                     (DT os)
-                                     (Â«)
-                                     (NN dossiers)
-                                     (Â»)
-                                     (_CU_ 
-                                       (PP 
-                                         (IN sobre)
-                                         (NP 
-                                           (DT a)
-                                           (NN imigraÃ§Ã£o)))
-                                       (CC e)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP Grupo_de_Trevi))))
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP transitam))
-                                       (_CU_ 
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NN presidÃªncia)
-                                             (ADJP 
-                                               (JJ holandesa))
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN Comunidade)))))
-                                         (PP 
-                                           (IN para)
-                                           (NP 
-                                             (DT a)
-                                             (JJ portuguesa))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN ministro)
+      (ADJP 
+        (JJ português)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP Administração_Interna)
+        )
+      )
+    )
+    (VP 
+      (VBP avistou-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (ADVP 
+      (RB ontem)
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (DT o)
+        (NN ministro)
+        (ADJP 
+          (JJ holandês)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP Justiça)
+          )
+        )
+      )
+    )
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VB receber)
+        )
+        (NP 
+          (DT os)
+          («)
+          (NN dossiers)
+          (»)
+          (PP 
+            (PP 
+              (IN sobre)
+              (NP 
+                (DT a)
+                (NN imigração)
+              )
+            )
+            (CC e)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NNP Grupo_de_Trevi)
+              )
+            )
+          )
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP transitam)
+            )
+            (PP 
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NN presidência)
+                  (ADJP 
+                    (JJ holandesa)
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN Comunidade)
+                    )
+                  )
+                )
+              )
+              (PP 
+                (IN para)
+                (NP 
+                  (DT a)
+                  (JJ portuguesa)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

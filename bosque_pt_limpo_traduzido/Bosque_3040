@@ -1,36 +1,63 @@
-(S (VP (NP (PRP O)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP ficar))
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (PRP mim)))))
-                        (VP (VBP Ã©))
-                        (NP (DT a)
-                               (NN consciÃªncia)
-                               (PP (IN de+)
-                                      (NP 
-                                        (PRP o)
-                                        (_CU_ 
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (VP 
-                                              (VBP fui)))
-                                          (CC e)
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (NP 
-                                              (DT os)
-                                              (PRP outros))
-                                            (_CU_ 
-                                              (VBP recordarÃ£o)
-                                              (--)
-                                              (CC ou)
-                                              (ADVP 
-                                                (RB nÃ£o))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP O)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP ficar)
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (PRP mim)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP é)
+    )
+    (NP 
+      (DT a)
+      (NN consciência)
+      (PP 
+        (IN de+)
+        (NP 
+          (PRP o)
+          (VP 
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP fui)
+              )
+            )
+            (CC e)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (NP 
+                (DT os)
+                (PRP outros)
+              )
+              (UCP 
+                (VBP recordarão)
+                (--)
+                (CC ou)
+                (ADVP 
+                  (RB não)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

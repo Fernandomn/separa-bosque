@@ -1,5 +1,15 @@
-(S (NP (DT O)
-                       (_CU_ (NP (NNP Brasil))
-                             (-)
-                             (NP (NNP Dinamarca)))
-                       (?)))
+(S 
+  (NP 
+    (DT O)
+    (UCP 
+      (NP 
+        (NNP Brasil)
+      )
+      (-)
+      (NP 
+        (NNP Dinamarca)
+      )
+    )
+    (?)
+  )
+)

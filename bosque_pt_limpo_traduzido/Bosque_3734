@@ -1,74 +1,116 @@
-(S (_CU_ (VP (NP 
-                                  (DT Os)
-                                  (_CU_ 
-                                    (ADJP 
-                                      (JJ antigos))
-                                    ({)
-                                    (CC e)
-                                    (ADJP 
-                                      (RB agora)
-                                      (Â«)
-                                      (VBN reformados)
-                                      (Â»))
-                                    (}))
-                                  (NN comunistas))
-                                (VP (VBP conseguiram))
-                                (VP 
-                                  (VP (VB regressar))
-                                  (PP 
-                                    (IN a+)
-                                    (NP 
-                                      (DT o)
-                                      (NN poder)))
-                                  (PP 
-                                    (IN em)
-                                    (NP 
-                                      (PRP diversos)
-                                      (NN paÃ­ses)
-                                      ({)
-                                      (_CU_ 
-                                        (NP 
-                                          (NNP Hungria))
-                                        (,)
-                                        (NP 
-                                          (NNP PolÃ³nia))
-                                        (,)
-                                        (NP 
-                                          (NNP BulgÃ¡ria)))
-                                      (})))))
-                       (CC e)
-                       (VP (NP 
-                                  (DT uma)
-                                  (NN opÃ§Ã£o)
-                                  (ADJP 
-                                    (JJ polÃ­tica))
-                                  (ADJP 
-                                    (JJ similar)))
-                                (VP (VBP tem))
-                                (ADVP 
-                                  (RB tambÃ©m)
-                                  (RB agora))
-                                (NP (JJ boas)
-                                        (NN possibilidades)
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT as)
-                                            (JJ prÃ³ximas)
-                                            (NN eleiÃ§Ãµes)
-                                            (ADJP 
-                                              (JJ presidenciais))
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT a)
-                                                (NNP RÃºssia)))
-                                            (,)
-                                            (VP 
-                                              (VP 
-                                                (VBN marcadas))
-                                              (PP 
-                                                (IN para)
-                                                (NP 
-                                                  (NN Junho))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT Os)
+        (UCP 
+          (ADJP 
+            (JJ antigos)
+          )
+          ({)
+          (CC e)
+          (ADJP 
+            (RB agora)
+            («)
+            (VBN reformados)
+            (»)
+          )
+          (})
+        )
+        (NN comunistas)
+      )
+      (VP 
+        (VBP conseguiram)
+      )
+      (VP 
+        (VP 
+          (VB regressar)
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (DT o)
+            (NN poder)
+          )
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (PRP diversos)
+            (NN países)
+            ({)
+            (NP 
+              (NP 
+                (NNP Hungria)
+              )
+              (,)
+              (NP 
+                (NNP Polónia)
+              )
+              (,)
+              (NP 
+                (NNP Bulgária)
+              )
+            )
+            (})
+          )
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (NP 
+        (DT uma)
+        (NN opção)
+        (ADJP 
+          (JJ política)
+        )
+        (ADJP 
+          (JJ similar)
+        )
+      )
+      (VP 
+        (VBP tem)
+      )
+      (ADVP 
+        (RB também)
+        (RB agora)
+      )
+      (NP 
+        (JJ boas)
+        (NN possibilidades)
+        (PP 
+          (IN em+)
+          (NP 
+            (DT as)
+            (JJ próximas)
+            (NN eleições)
+            (ADJP 
+              (JJ presidenciais)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NNP Rússia)
+              )
+            )
+            (,)
+            (VP 
+              (VP 
+                (VBN marcadas)
+              )
+              (PP 
+                (IN para)
+                (NP 
+                  (NN Junho)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

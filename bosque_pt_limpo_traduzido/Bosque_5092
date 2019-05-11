@@ -1,82 +1,142 @@
-(S (VP (CC E)
-                        (ADVP (RB foi))
-                        (ADVP (RB assim))
-                        (ADVP (RB que))
-                        (ADVP (RB ontem))
-                        (--)
-                        (PP (RB precisamente)
-                                 (IN por_causa_de+)
-                                 (NP (DT o)
-                                        (_CU_ 
-                                          (NP 
-                                            (NNP Portugal))
-                                          (-)
-                                          (NP 
-                                            (NNP Turquia)))))
-                        (--)
-                        (NP (DT a)
-                                 (NN televis√£o)
-                                 (ADJP 
-                                   (JJ guineense)))
-                        (VP (VBP reabriu))
-                        (...)
-                        (PP (IN a+)
-                                 (NP (DT a)
-                                        (NN hora)
-                                        (ADJP 
-                                          (JJ necess√°ria)
-                                          (PP 
-                                            (IN para)
-                                            (VP 
-                                              (VP 
-                                                (VB transmitir))
-                                              (NP 
-                                                (DT o)
-                                                (_CU_ 
-                                                  (NP 
-                                                    (NNP Portugal))
-                                                  (-)
-                                                  (NP 
-                                                    (NNP Turquia)))))))))
-                        (,)
-                        (VP (NP 
-                                  (PRP o_que))
-                                (VP (VBP motivou))
-                                (NP (JJ grandes)
-                                        (NN ajuntamentos)
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (NN locais)
-                                            (ADJP 
-                                              (JJ p√∫blicos))
-                                            (VP 
-                                              (NP 
-                                                (PRP que))
-                                              (VP 
-                                                (VBP dispunham))
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN televisores))))))
-                                        (,)
-                                        (PP 
-                                          (ADJP 
-                                            (RB tanto))
-                                          (IN em)
-                                          (NP 
-                                            (NNP Bissau))
-                                          (ADJP 
-                                            (ADVP 
-                                              (RB como)
-                                              (PP 
-                                                (IN em+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN interior)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT o)
-                                                      (NN pa√≠s))))))))))
-                        (.)))
+(S 
+  (VP 
+    (CC E)
+    (ADVP 
+      (RB foi)
+    )
+    (ADVP 
+      (RB assim)
+    )
+    (ADVP 
+      (RB que)
+    )
+    (ADVP 
+      (RB ontem)
+    )
+    (--)
+    (PP 
+      (RB precisamente)
+      (IN por_causa_de+)
+      (NP 
+        (DT o)
+        (UCP 
+          (NP 
+            (NNP Portugal)
+          )
+          (-)
+          (NP 
+            (NNP Turquia)
+          )
+        )
+      )
+    )
+    (--)
+    (NP 
+      (DT a)
+      (NN televis„o)
+      (ADJP 
+        (JJ guineense)
+      )
+    )
+    (VP 
+      (VBP reabriu)
+    )
+    (...)
+    (PP 
+      (IN a+)
+      (NP 
+        (DT a)
+        (NN hora)
+        (ADJP 
+          (JJ necess·ria)
+          (PP 
+            (IN para)
+            (VP 
+              (VP 
+                (VB transmitir)
+              )
+              (NP 
+                (DT o)
+                (UCP 
+                  (NP 
+                    (NNP Portugal)
+                  )
+                  (-)
+                  (NP 
+                    (NNP Turquia)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (NP 
+        (PRP o_que)
+      )
+      (VP 
+        (VBP motivou)
+      )
+      (NP 
+        (JJ grandes)
+        (NN ajuntamentos)
+        (PP 
+          (IN em)
+          (NP 
+            (NN locais)
+            (ADJP 
+              (JJ p˙blicos)
+            )
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP dispunham)
+              )
+              (PP 
+                (IN de)
+                (NP 
+                  (NN televisores)
+                )
+              )
+            )
+          )
+        )
+        (,)
+        (PP 
+          (ADJP 
+            (RB tanto)
+          )
+          (IN em)
+          (NP 
+            (NNP Bissau)
+          )
+          (ADJP 
+            (ADVP 
+              (RB como)
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT o)
+                  (NN interior)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NN paÌs)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

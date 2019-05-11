@@ -1,32 +1,56 @@
-(S (VP (NP (PRP Eles))
-                        (VP (VBP temem))
-                        (,)
-                        (ADVP (RB porÃ©m))
-                        (,)
-                        (VP (IN que)
-                                 (NP 
-                                   (DT um)
-                                   (NN relacionamento)
-                                   (ADJP 
-                                     (JJ especial))
-                                   (PP 
-                                     (IN entre)
-                                     (_CU_ 
-                                       (NP 
-                                         (NNP Moscou))
-                                       (CC e)
-                                       (NP 
-                                         (DT a)
-                                         (NN alianÃ§a)))))
-                                 (NP 
-                                   (PRP os))
-                                 (VP (VBP deixe))
-                                 (PP 
-                                   (IN sem)
-                                   (NP 
-                                     (NN garantias)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN seguranÃ§a))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Eles)
+    )
+    (VP 
+      (VBP temem)
+    )
+    (,)
+    (ADVP 
+      (RB porém)
+    )
+    (,)
+    (VP 
+      (IN que)
+      (NP 
+        (DT um)
+        (NN relacionamento)
+        (ADJP 
+          (JJ especial)
+        )
+        (PP 
+          (IN entre)
+          (NP 
+            (NP 
+              (NNP Moscou)
+            )
+            e            (NP 
+              (DT a)
+              (NN aliança)
+            )
+          )
+        )
+      )
+      (NP 
+        (PRP os)
+      )
+      (VP 
+        (VBP deixe)
+      )
+      (PP 
+        (IN sem)
+        (NP 
+          (NN garantias)
+          (PP 
+            (IN de)
+            (NP 
+              (NN segurança)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,54 +1,88 @@
-(S (NP (NP (NNP E.G.))
-                       (;)
-                       (_CU_ (VP (NP 
-                                          (DT A)
-                                          (NNP A.B.P.))
-                                        (VP 
-                                          (VBP ganhou))
-                                        (ADVP 
-                                          (RB bastante)))
-                               (CC e)
-                               (VP (VP 
-                                          (VBP acrescento))
-                                        (VP 
-                                          (IN que)
-                                          (ADVP 
-                                            (RB nunca))
-                                          (VP 
-                                            (VBP houve))
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (NN DelegaÃ§Ã£o)
-                                              (NP 
-                                                (PRP nenhuma))))
-                                          (,)
-                                          (NP 
-                                            (CD uma)
-                                            (ADJP 
-                                              (RB tÃ£o)
-                                              (JJ grande))
-                                            (NN afluÃªncia)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN sÃ³cios)))
-                                            (PP 
-                                              (IN para)
-                                              (NP 
-                                                (DT a)
-                                                (NN votaÃ§Ã£o)))
-                                            (,)
-                                            (VP 
-                                              (ADVP 
-                                                (RB como))
-                                              (NP 
-                                                (PRP se))
-                                              (VP 
-                                                (VBP verificou))
-                                              (PP 
-                                                (IN em+)
-                                                (NP 
-                                                  (PRP estas)
-                                                  (NN EleiÃ§Ãµes)))))))
-                               (.))))
+(S 
+  (NP 
+    (NP 
+      (NNP E.G.)
+    )
+    (;)
+    (VP 
+      (VP 
+        (NP 
+          (DT A)
+          (NNP A.B.P.)
+        )
+        (VP 
+          (VBP ganhou)
+        )
+        (ADVP 
+          (RB bastante)
+        )
+      )
+      (CC e)
+      (VP 
+        (VP 
+          (VBP acrescento)
+        )
+        (VP 
+          (IN que)
+          (ADVP 
+            (RB nunca)
+          )
+          (VP 
+            (VBP houve)
+          )
+          (PP 
+            (IN em)
+            (NP 
+              (NN Delegação)
+              (NP 
+                (PRP nenhuma)
+              )
+            )
+          )
+          (,)
+          (NP 
+            (CD uma)
+            (ADJP 
+              (RB tão)
+              (JJ grande)
+            )
+            (NN afluência)
+            (PP 
+              (IN de)
+              (NP 
+                (NN sócios)
+              )
+            )
+            (PP 
+              (IN para)
+              (NP 
+                (DT a)
+                (NN votação)
+              )
+            )
+            (,)
+            (VP 
+              (ADVP 
+                (RB como)
+              )
+              (NP 
+                (PRP se)
+              )
+              (VP 
+                (VBP verificou)
+              )
+              (PP 
+                (IN em+)
+                (NP 
+                  (PRP estas)
+                  (NN Eleições)
+                )
+              )
+            )
+          )
+        )
+      )
+      (.)
+    )
+  )
+)

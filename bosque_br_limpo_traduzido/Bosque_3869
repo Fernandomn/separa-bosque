@@ -1,31 +1,53 @@
-(S (VP (NP (DT As)
-                                 (NN evidÃªncias)
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN superfaturamento))))
-                        (VP (VBP foram)
-                              (VBN levantadas))
-                        (PP (IN por+)
-                                 (NP (DT os)
-                                        (NN professores)
-                                        (_CU_ 
-                                          (NP 
-                                            (NNP Armando_LaganÃ¡))
-                                          (CC e)
-                                          (NP 
-                                            (NNP MÃ¡rcio_Rillo)))
-                                        (,)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NNP USP)))
-                                        (,)
-                                        (ADVP 
-                                          (RB a_pedido)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP Folha))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN evidências)
+      (PP 
+        (IN de)
+        (NP 
+          (NN superfaturamento)
+        )
+      )
+    )
+    (VP 
+      (VBP foram)
+      (VBN levantadas)
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT os)
+        (NN professores)
+        (NP 
+          (NP 
+            (NNP Armando_Laganá)
+          )
+          e          (NP 
+            (NNP Márcio_Rillo)
+          )
+        )
+        (,)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP USP)
+          )
+        )
+        (,)
+        (ADVP 
+          (RB a_pedido)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Folha)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,14 +1,28 @@
-(S (_CU_ (CC E)
-                        (VP (NP 
-                                   (PRP ele))
-                                 (VP (VBP gostava))
-                                 (PP 
-                                   (IN de)
-                                   (NP 
-                                     (NNP Roosevelt))))
-                        (CC e)
-                        (VP (VP (VBP detestava))
-                                 (NP 
-                                   (DT os)
-                                   (NN nazistas)))
-                        (.)))
+(S 
+  (VP 
+    E    (VP 
+      (NP 
+        (PRP ele)
+      )
+      (VP 
+        (VBP gostava)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NNP Roosevelt)
+        )
+      )
+    )
+    e    (VP 
+      (VP 
+        (VBP detestava)
+      )
+      (NP 
+        (DT os)
+        (NN nazistas)
+      )
+    )
+    (.)
+  )
+)

@@ -1,67 +1,102 @@
-(S (VP (NP (DT O)
-                                 (NN programa))
-                        (VP (VBP propÃµe))
-                        (NP (DT a)
-                                (NN monetizaÃ§Ã£o)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NN dÃ­vida)
-                                         (ADJP 
-                                           (JJ interna))
-                                         ({)
-                                         (NP 
-                                           (NN pagamento)
-                                           (PP 
-                                             (IN com)
-                                             (NP 
-                                               (NN dinheiro)
-                                               (VBN impresso))))
-                                         (})
-                                         (VP 
-                                           (VP 
-                                             (VBN acompanhada))
-                                           (PP 
-                                             (IN de+)
-                                             (_CU_ 
-                                               (NP 
-                                                 (DT a)
-                                                 (NN criaÃ§Ã£o)
-                                                 (PP 
-                                                   (IN de)
-                                                   (NP 
-                                                     (DT uma)
-                                                     (JJ nova)
-                                                     (NN moeda)
-                                                     ({)
-                                                     (Â«)
-                                                     (VP 
-                                                       (VP 
-                                                         (VBN assegurada))
-                                                       (NP 
-                                                         (DT a)
-                                                         (NN conversÃ£o)
-                                                         (PP 
-                                                           (IN de+)
-                                                           (NP 
-                                                             (DT a)
-                                                             (NN poupanÃ§a)))
-                                                         (PP 
-                                                           (IN em)
-                                                           (NP 
-                                                             (NN termos)
-                                                             (ADJP 
-                                                               (JJ favorÃ¡veis))))))
-                                                     (Â»)
-                                                     (}))))
-                                               (CC e)
-                                               (NP 
-                                                 (NN imposiÃ§Ã£o)
-                                                 (PP 
-                                                   (IN de)
-                                                   (NP 
-                                                     (JJ rÃ­gido)
-                                                     (NN controle)
-                                                     (ADJP 
-                                                       (JJ monetÃ¡rio)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN programa)
+    )
+    (VP 
+      (VBP propõe)
+    )
+    (NP 
+      (DT a)
+      (NN monetização)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN dívida)
+          (ADJP 
+            (JJ interna)
+          )
+          ({)
+          (NP 
+            (NN pagamento)
+            (PP 
+              (IN com)
+              (NP 
+                (NN dinheiro)
+                (VBN impresso)
+              )
+            )
+          )
+          (})
+          (VP 
+            (VP 
+              (VBN acompanhada)
+            )
+            (PP 
+              (IN de+)
+              (NP 
+                (NP 
+                  (DT a)
+                  (NN criação)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (DT uma)
+                      (JJ nova)
+                      (NN moeda)
+                      ({)
+                      («)
+                      (VP 
+                        (VP 
+                          (VBN assegurada)
+                        )
+                        (NP 
+                          (DT a)
+                          (NN conversão)
+                          (PP 
+                            (IN de+)
+                            (NP 
+                              (DT a)
+                              (NN poupança)
+                            )
+                          )
+                          (PP 
+                            (IN em)
+                            (NP 
+                              (NN termos)
+                              (ADJP 
+                                (JJ favoráveis)
+                              )
+                            )
+                          )
+                        )
+                      )
+                      (»)
+                      (})
+                    )
+                  )
+                )
+                e                (NP 
+                  (NN imposição)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (JJ rígido)
+                      (NN controle)
+                      (ADJP 
+                        (JJ monetário)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

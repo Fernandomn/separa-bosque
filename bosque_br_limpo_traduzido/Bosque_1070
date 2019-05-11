@@ -1,57 +1,86 @@
-(S (VP (NP (DT O)
-                                 (NN n√∫mero))
-                        (VP (VBP √©))
-                        (NP (DT a)
-                               (NN soma)
-                               (PP 
-                                 (IN de+)
-                                 (_CU_ (NP 
-                                          (DT os)
-                                          (NN US$)
-                                          (NP 
-                                            (CD 8,6)
-                                            (NN bilh√µes))
-                                          (VBN arrecadados))
-                                        (CC mais)
-                                        (NP 
-                                          (NN US$)
-                                          (NP 
-                                            (CD 3,3)
-                                            (NN bilh√µes))
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN d√≠vidas)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT as)
-                                                  (NN empresas)
-                                                  ({)
-                                                  (VP 
-                                                    (VP 
-                                                      (VBN transferidas))
-                                                    (PP 
-                                                      (IN para)
-                                                      (NP 
-                                                        (DT os)
-                                                        (JJ novos)
-                                                        (NN controladores))))
-                                                  (}))))))
-                                        (CC mais)
-                                        (NP 
-                                          (NN US$)
-                                          (NP 
-                                            (CD 3)
-                                            (NN bilh√µes))
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (NP 
-                                              (DT o)
-                                              (NN governo))
-                                            (VP 
-                                              (VBP deixou)
-                                              (IN de)
-                                              (VB investir)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN n˙mero)
+    )
+    (VP 
+      (VBP È)
+    )
+    (NP 
+      (DT a)
+      (NN soma)
+      (PP 
+        (IN de+)
+        (NP 
+          (NP 
+            (DT os)
+            (NN US$)
+            (NP 
+              (CD 8,6)
+              (NN bilhıes)
+            )
+            (VBN arrecadados)
+          )
+          mais          (NP 
+            (NN US$)
+            (NP 
+              (CD 3,3)
+              (NN bilhıes)
+            )
+            (PP 
+              (IN de)
+              (NP 
+                (NN dÌvidas)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT as)
+                    (NN empresas)
+                    ({)
+                    (VP 
+                      (VP 
+                        (VBN transferidas)
+                      )
+                      (PP 
+                        (IN para)
+                        (NP 
+                          (DT os)
+                          (JJ novos)
+                          (NN controladores)
+                        )
+                      )
+                    )
+                    (})
+                  )
+                )
+              )
+            )
+          )
+          mais          (NP 
+            (NN US$)
+            (NP 
+              (CD 3)
+              (NN bilhıes)
+            )
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (NP 
+                (DT o)
+                (NN governo)
+              )
+              (VP 
+                (VBP deixou)
+                (IN de)
+                (VB investir)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

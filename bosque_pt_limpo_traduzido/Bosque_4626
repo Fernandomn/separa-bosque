@@ -1,96 +1,146 @@
-(S (VP (NP (RB TambÃ©m)
-                                 (DT a)
-                                 (NN perda)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN mercado)
-                                          (ADJP 
-                                            (JJ angolano)))))
-                        (VP (VBP levou))
-                        (NP (DT a)
-                                (NN administraÃ§Ã£o)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NNP F._Ramada))))
-                        (PP (IN a)
-                                (VP (VP 
-                                          (VB preparar))
-                                        (,)
-                                        (ADVP 
-                                          (RB atravÃ©s)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (VBN recÃ©m-formada)
-                                              (NN empresa)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (Â«)
-                                                  (NN import-export)
-                                                  (Â»)
-                                                  (NP 
-                                                    (NNP Ramada_Internacional)))))))
-                                        (,)
-                                        (NP 
-                                          (DT a)
-                                          (NN conquista)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN mercados)
-                                              (ADJP 
-                                                (JJ alternativos))
-                                              (,)
-                                              (NP 
-                                                (RB nomeadamente)
-                                                (PRP os)
-                                                (_CU_ 
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT os)
-                                                      (NN paÃ­ses)
-                                                      (_CU_ 
-                                                        (PP 
-                                                          (IN de+)
-                                                          (NP 
-                                                            (DT o)
-                                                            (NNP Magrebe)))
-                                                        (,)
-                                                        (PP 
-                                                          (IN de+)
-                                                          (NP 
-                                                            (DT a)
-                                                            (NNP AmÃ©rica_do_Sul))))))
-                                                  (CC e)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT a)
-                                                      (NNP Espanha)
-                                                      (,)
-                                                      (ADVP 
-                                                        (NP 
-                                                          (PRP esta)
-                                                          (NN Ãºltima))
-                                                        (ADJP 
-                                                          (CD uma)
-                                                          (PP 
-                                                            (IN de+)
-                                                            (NP 
-                                                              (DT as)
-                                                              (JJ grandes)
-                                                              (NN apostas)
-                                                              (PP 
-                                                                (,)
-                                                                (RB precisamente)
-                                                                (,)
-                                                                (IN de+)
-                                                                (NP 
-                                                                  (DT a)
-                                                                  (NNP Cortal))))))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (RB Também)
+      (DT a)
+      (NN perda)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN mercado)
+          (ADJP 
+            (JJ angolano)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP levou)
+    )
+    (NP 
+      (DT a)
+      (NN administração)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP F._Ramada)
+        )
+      )
+    )
+    (PP 
+      (IN a)
+      (VP 
+        (VP 
+          (VB preparar)
+        )
+        (,)
+        (ADVP 
+          (RB através)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (VBN recém-formada)
+              (NN empresa)
+              (PP 
+                (IN de)
+                (NP 
+                  («)
+                  (NN import-export)
+                  (»)
+                  (NP 
+                    (NNP Ramada_Internacional)
+                  )
+                )
+              )
+            )
+          )
+        )
+        (,)
+        (NP 
+          (DT a)
+          (NN conquista)
+          (PP 
+            (IN de)
+            (NP 
+              (NN mercados)
+              (ADJP 
+                (JJ alternativos)
+              )
+              (,)
+              (NP 
+                (RB nomeadamente)
+                (PRP os)
+                (PP 
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT os)
+                      (NN países)
+                      (PP 
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT o)
+                            (NNP Magrebe)
+                          )
+                        )
+                        (,)
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT a)
+                            (NNP América_do_Sul)
+                          )
+                        )
+                      )
+                    )
+                  )
+                  (CC e)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NNP Espanha)
+                      (,)
+                      (ADVP 
+                        (NP 
+                          (PRP esta)
+                          (NN última)
+                        )
+                        (ADJP 
+                          (CD uma)
+                          (PP 
+                            (IN de+)
+                            (NP 
+                              (DT as)
+                              (JJ grandes)
+                              (NN apostas)
+                              (PP 
+                                (,)
+                                (RB precisamente)
+                                (,)
+                                (IN de+)
+                                (NP 
+                                  (DT a)
+                                  (NNP Cortal)
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

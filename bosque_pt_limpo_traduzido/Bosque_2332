@@ -1,36 +1,63 @@
-(S (_CU_ (VP (PP 
-                                  (IN Em)
-                                  (NP 
-                                    (NNP Hong-Kong)))
-                                (,)
-                                (ADVP 
-                                  (RB no_entanto))
-                                (,)
-                                (VP (VBP houve))
-                                (NP (DT uma)
-                                        (NN quebra)))
-                       (CC e)
-                       (VP (NP 
-                                  (DT o)
-                                  (NN Ã­ndice)
-                                  (NP 
-                                    (NNP Hang-Seng)))
-                                (VP (VBP atingiu))
-                                (NP (CD 61)
-                                        (NN pontos)
-                                        (ADJP 
-                                          (JJ negativos)))
-                                (,)
-                                (PP 
-                                  (IN com)
-                                  (NP 
-                                    (DT uma)
-                                    (NN subida)
-                                    (ADJP 
-                                      (JJ posterior))
-                                    (PP 
-                                      (IN para)
-                                      (NP 
-                                        (CD 46)
-                                        (NN pontos))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (PP 
+        (IN Em)
+        (NP 
+          (NNP Hong-Kong)
+        )
+      )
+      (,)
+      (ADVP 
+        (RB no_entanto)
+      )
+      (,)
+      (VP 
+        (VBP houve)
+      )
+      (NP 
+        (DT uma)
+        (NN quebra)
+      )
+    )
+    (CC e)
+    (VP 
+      (NP 
+        (DT o)
+        (NN índice)
+        (NP 
+          (NNP Hang-Seng)
+        )
+      )
+      (VP 
+        (VBP atingiu)
+      )
+      (NP 
+        (CD 61)
+        (NN pontos)
+        (ADJP 
+          (JJ negativos)
+        )
+      )
+      (,)
+      (PP 
+        (IN com)
+        (NP 
+          (DT uma)
+          (NN subida)
+          (ADJP 
+            (JJ posterior)
+          )
+          (PP 
+            (IN para)
+            (NP 
+              (CD 46)
+              (NN pontos)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

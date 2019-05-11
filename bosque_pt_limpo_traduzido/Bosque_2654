@@ -1,26 +1,46 @@
-(S (VP (NP (DT O)
-                                 (NN tempo)
-                                 (PP de_estudo)
-                                 (,)
-                                 (NP 
-                                   (PRP esses)
-                                   (_CU_ 
-                                     (VBN aborrecidos)
-                                     (,)
-                                     (ADJP 
-                                       (JJ inÃºteis))
-                                     (CC e)
-                                     (ADJP 
-                                       (JJ interminÃ¡veis)))
-                                   (NN minutos)
-                                   (ADJP 
-                                     (JJ iniciais))))
-                        (,)
-                        (VP (VBP deram))
-                        (NP (NN lugar))
-                        (PP (IN a+)
-                                (NP (DT o)
-                                       (NN jogo)
-                                       (ADJP 
-                                         (JJ claro))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN tempo)
+      (PP de_estudo)
+      (,)
+      (NP 
+        (PRP esses)
+        (UCP 
+          (VBN aborrecidos)
+          (,)
+          (ADJP 
+            (JJ inúteis)
+          )
+          (CC e)
+          (ADJP 
+            (JJ intermináveis)
+          )
+        )
+        (NN minutos)
+        (ADJP 
+          (JJ iniciais)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP deram)
+    )
+    (NP 
+      (NN lugar)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT o)
+        (NN jogo)
+        (ADJP 
+          (JJ claro)
+        )
+      )
+    )
+    (.)
+  )
+)

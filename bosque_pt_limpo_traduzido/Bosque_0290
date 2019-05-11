@@ -1,36 +1,66 @@
-(S (VP (PP (IN Em+)
-                                (NP (DT o)
-                                       (NN quiosque)))
-                       (VP (VBP vendem-))
-                       (NP (PRP se))
-                       (PP (IN de+)
-                                (NP (PRP essas)
-                                       (NN revistas)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN viagens)))
-                                       (_CU_ 
-                                         (VP 
-                                           (NP 
-                                             (PRP que))
-                                           (ADVP 
-                                             (RB agora))
-                                           (VP 
-                                             (VBP proliferam)))
-                                         (CC e)
-                                         (VP 
-                                           (NP 
-                                             (PRP que))
-                                           (VP 
-                                             (VBP perpetuam))
-                                           (NP 
-                                             (DT as)
-                                             (NN fantasias)
-                                             (PP 
-                                               (IN sobre)
-                                               (NP 
-                                                 (NN ilhas)
-                                                 (ADJP 
-                                                   (JJ exÃ³ticas)))))))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT o)
+        (NN quiosque)
+      )
+    )
+    (VP 
+      (VBP vendem-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN de+)
+      (NP 
+        (PRP essas)
+        (NN revistas)
+        (PP 
+          (IN de)
+          (NP 
+            (NN viagens)
+          )
+        )
+        (VP 
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (ADVP 
+              (RB agora)
+            )
+            (VP 
+              (VBP proliferam)
+            )
+          )
+          (CC e)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP perpetuam)
+            )
+            (NP 
+              (DT as)
+              (NN fantasias)
+              (PP 
+                (IN sobre)
+                (NP 
+                  (NN ilhas)
+                  (ADJP 
+                    (JJ exóticas)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

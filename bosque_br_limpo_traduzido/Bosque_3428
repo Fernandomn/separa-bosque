@@ -1,17 +1,32 @@
-(S (PP (ADJP (JJ I))
-                       (--)
-                       (IN em+)
-                       (_CU_ (NP (DT os)
-                                      (NN preÃ§os)
-                                      (ADJP 
-                                        (JJ pÃºblicos)))
-                              (CC e)
-                              (NP (NN tarifas)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN serviÃ§os)
-                                          (ADJP 
-                                            (JJ pÃºblicos))))))
-                       (;)))
+(S 
+  (PP 
+    (ADJP 
+      (JJ I)
+    )
+    (--)
+    (IN em+)
+    (NP 
+      (NP 
+        (DT os)
+        (NN preços)
+        (ADJP 
+          (JJ públicos)
+        )
+      )
+      e      (NP 
+        (NN tarifas)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN serviços)
+            (ADJP 
+              (JJ públicos)
+            )
+          )
+        )
+      )
+    )
+    (;)
+  )
+)

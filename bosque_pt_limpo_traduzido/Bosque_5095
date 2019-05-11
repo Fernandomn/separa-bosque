@@ -1,43 +1,72 @@
-(S (VP (ADVP (RB No_que_se_refere)
-                                   (PP 
-                                     (IN a)
-                                     (NP 
-                                       (NN resultados)
-                                       (ADJP 
-                                         (JJ correntes)))))
-                        (,)
-                        (NP (DT as)
-                                 (NN estimativas))
-                        (VP (VBP apontavam))
-                        (PP (IN para)
-                                (NP (DT um)
-                                       (NN valor)
-                                       (ADJP 
-                                         (JJ negativo))
-                                       (_CU_ 
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (CD 2,6)
-                                             (NN milh√µes)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN contos)))))
-                                         (,)
-                                         (CC mas)
-                                         (VP 
-                                           (NP 
-                                             (PRP que))
-                                           (PP 
-                                             (IN em+)
-                                             (NP 
-                                               (DT a)
-                                               (NN realidade)))
-                                           (VP 
-                                             (VBP ultrapassou))
-                                           (NP 
-                                             (DT os)
-                                             (CD seis)
-                                             (NN milh√µes))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB No_que_se_refere)
+      (PP 
+        (IN a)
+        (NP 
+          (NN resultados)
+          (ADJP 
+            (JJ correntes)
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT as)
+      (NN estimativas)
+    )
+    (VP 
+      (VBP apontavam)
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (DT um)
+        (NN valor)
+        (ADJP 
+          (JJ negativo)
+        )
+        (UCP 
+          (PP 
+            (IN de)
+            (NP 
+              (CD 2,6)
+              (NN milhıes)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN contos)
+                )
+              )
+            )
+          )
+          (,)
+          (CC mas)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NN realidade)
+              )
+            )
+            (VP 
+              (VBP ultrapassou)
+            )
+            (NP 
+              (DT os)
+              (CD seis)
+              (NN milhıes)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,64 +1,104 @@
-(S (VP (PP (IN A)
-                                 (VP 
-                                   (VP 
-                                     (VB preparar))
-                                   (NP 
-                                     (DT um)
-                                     (NNP Livro_Verde)
-                                     (PP 
-                                       (IN sobre)
-                                       (NP 
-                                         (DT a)
-                                         (NN polÃ­tica)
-                                         (ADJP 
-                                           (JJ europeia))
-                                         (PP 
-                                           (IN para)
-                                           (NP 
-                                             (DT o)
-                                             (NN sector))))))))
-                        (,)
-                        (NP (NNP JoÃ£o_de_Deus_Pinheiro))
-                        (,)
-                        (VP 
-                          (VP (VBG falando))
-                          (PP (IN em+)
-                                   (NP 
-                                     (DT um)
-                                     (NN seminÃ¡rio)
-                                     (PP 
-                                       (IN sobre)
-                                       (NP 
-                                         (DT os)
-                                         (NN media))))))
-                        (,)
-                        (VP (VBP considerou))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT a)
-                                   (NNP UniÃ£o_Europeia))
-                                 (VP (VBP devia)
-                                       (Â«)
-                                       (VB encorajar))
-                                 (NP 
-                                   (DT o)
-                                   (NN desenvolvimento)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (_CU_ 
-                                         (ADJP 
-                                           (JJ novas))
-                                         (CC e)
-                                         (ADJP 
-                                           (RB mais)
-                                           (JJ eficazes)))
-                                       (NN redes)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN comunicaÃ§Ã£o)
-                                           (ADJP 
-                                             (JJ transeuropeias))))))
-                                   (Â»)))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN A)
+      (VP 
+        (VP 
+          (VB preparar)
+        )
+        (NP 
+          (DT um)
+          (NNP Livro_Verde)
+          (PP 
+            (IN sobre)
+            (NP 
+              (DT a)
+              (NN política)
+              (ADJP 
+                (JJ europeia)
+              )
+              (PP 
+                (IN para)
+                (NP 
+                  (DT o)
+                  (NN sector)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP João_de_Deus_Pinheiro)
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG falando)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT um)
+          (NN seminário)
+          (PP 
+            (IN sobre)
+            (NP 
+              (DT os)
+              (NN media)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP considerou)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT a)
+        (NNP União_Europeia)
+      )
+      (VP 
+        (VBP devia)
+        («)
+        (VB encorajar)
+      )
+      (NP 
+        (DT o)
+        (NN desenvolvimento)
+        (PP 
+          (IN de)
+          (NP 
+            (ADJP 
+              (ADJP 
+                (JJ novas)
+              )
+              (CC e)
+              (ADJP 
+                (RB mais)
+                (JJ eficazes)
+              )
+            )
+            (NN redes)
+            (PP 
+              (IN de)
+              (NP 
+                (NN comunicação)
+                (ADJP 
+                  (JJ transeuropeias)
+                )
+              )
+            )
+          )
+        )
+        (»)
+      )
+    )
+    (.)
+  )
+)

@@ -1,21 +1,42 @@
-(S (_CU_ (VP (VP (VBP Estava))
-                                (PP (IN sem)
-                                       (NP 
-                                         (NN trabalho))))
-                       (,)
-                       (VP (VP (VBP fazia))
-                                (_CU_ 
-                                  (NP 
-                                    (PRP uns)
-                                    (NN biscates)))
-                                (PP de_vez_em_quando)
-                                (_CU_ 
-                                  (,)
-                                  (CC mas)
-                                  (NP 
-                                    (PRP nada)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (NN sÃ©rio))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP Estava)
+      )
+      (PP 
+        (IN sem)
+        (NP 
+          (NN trabalho)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBP fazia)
+      )
+      (NP 
+        (NP 
+          (PRP uns)
+          (NN biscates)
+        )
+      )
+      (PP de_vez_em_quando)
+      (NP 
+        (,)
+        (CC mas)
+        (NP 
+          (PRP nada)
+          (PP 
+            (IN de)
+            (NP 
+              (NN sério)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

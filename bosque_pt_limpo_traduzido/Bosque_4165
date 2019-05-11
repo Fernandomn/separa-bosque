@@ -1,14 +1,34 @@
-(S (VP (Â«)
-                        (NP (NN Doutor)
-                                 (NP (NNP Dinis)))
-                        (Â»)
-                        (VP (VBP dava))
-                        (NP (NN consultas))
-                        (PP (_CU_ (ADVP 
-                                         (RB dentro))
-                                       (CC e)
-                                       (IN fora_de+))
-                                 (NP (DT o)
-                                        (NN hospital)
-                                        (ADJP 
-                                          (JJ lisboeta))))))
+(S 
+  (VP 
+    («)
+    (NP 
+      (NN Doutor)
+      (NP 
+        (NNP Dinis)
+      )
+    )
+    (»)
+    (VP 
+      (VBP dava)
+    )
+    (NP 
+      (NN consultas)
+    )
+    (PP 
+      (UCP 
+        (ADVP 
+          (RB dentro)
+        )
+        (CC e)
+        (IN fora_de+)
+      )
+      (NP 
+        (DT o)
+        (NN hospital)
+        (ADJP 
+          (JJ lisboeta)
+        )
+      )
+    )
+  )
+)

@@ -1,37 +1,69 @@
-(S (VP (VP (NP 
-                                    (PRP O_que))
-                                  (NP 
-                                    (DT os)
-                                    (NN hÃºngaros))
-                                  (VP (VBP temem)))
-                        (VP (VBP Ã©))
-                        (NP (DT uma)
-                               (NN onda)
-                               (PP (IN de)
-                                      (NP 
-                                        (NN nacionalismo)))
-                               (PP (IN em+)
-                                      (NP 
-                                        (DT os)
-                                        (NN paÃ­ses)
-                                        (ADJP 
-                                          (JJ vizinhos))))
-                               (VP (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP perigue))
-                                       (NP 
-                                         (_CU_ 
-                                           (NP 
-                                             (DT as)
-                                             (NN escolas))
-                                           (CC e)
-                                           (NP 
-                                             (NN instituiÃ§Ãµes)
-                                             (ADJP 
-                                               (JJ culturais))))
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN hÃºngaras))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (PRP O_que)
+      )
+      (NP 
+        (DT os)
+        (NN húngaros)
+      )
+      (VP 
+        (VBP temem)
+      )
+    )
+    (VP 
+      (VBP é)
+    )
+    (NP 
+      (DT uma)
+      (NN onda)
+      (PP 
+        (IN de)
+        (NP 
+          (NN nacionalismo)
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT os)
+          (NN países)
+          (ADJP 
+            (JJ vizinhos)
+          )
+        )
+      )
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP perigue)
+        )
+        (NP 
+          (NP 
+            (NP 
+              (DT as)
+              (NN escolas)
+            )
+            (CC e)
+            (NP 
+              (NN instituições)
+              (ADJP 
+                (JJ culturais)
+              )
+            )
+          )
+          (PP 
+            (IN de)
+            (NP 
+              (NN húngaras)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

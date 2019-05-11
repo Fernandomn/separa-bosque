@@ -1,84 +1,128 @@
-(S (VP (PP (IN Entre)
-                               (NP (DT as)
-                                      (NN raz√µes)
-                                      (VP 
-                                        (VP 
-                                          (VBN apontadas))
-                                        (PP 
-                                          (IN por+)
-                                          (NP 
-                                            (DT o)
-                                            (PRP mesmo)
-                                            (NN respons√°vel))))
-                                      (PP 
-                                        (IN para)
-                                        (NP 
-                                          (DT a)
-                                          (NN fuga)
-                                          (PP 
-                                            (IN a+)
-                                            (NP 
-                                              (DT a)
-                                              (NN escolaridade)
-                                              (ADJP 
-                                                (JJ obrigat√≥ria))))
-                                          (,)
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (NNP S√£o_Jorge)))
-                                          (,)))))
-                        (VP (VBP est√£o))
-                        (_CU_ (NP 
-                                   (NN dificuldades)
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT o)
-                                       (NN pagamento)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NN almo√ßo)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT as)
-                                               (NN crian√ßas)))
-                                           (PP 
-                                             (IN em+)
-                                             (NP 
-                                               (DT as)
-                                               (NN cantinas)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT as)
-                                                   (NN escolas))))))))))
-                                 (,)
-                                 (NP 
-                                   (DT a)
-                                   (NN falta)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN dinheiro)
-                                       (PP 
-                                         (IN para)
-                                         (NP 
-                                           (DT a)
-                                           (NN compra)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN livros))))))))
-                                 (CC e)
-                                 (NP 
-                                   (DT a)
-                                   (NN car√™ncia)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN transportes)))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Entre)
+      (NP 
+        (DT as)
+        (NN razıes)
+        (VP 
+          (VP 
+            (VBN apontadas)
+          )
+          (PP 
+            (IN por+)
+            (NP 
+              (DT o)
+              (PRP mesmo)
+              (NN respons·vel)
+            )
+          )
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (DT a)
+            (NN fuga)
+            (PP 
+              (IN a+)
+              (NP 
+                (DT a)
+                (NN escolaridade)
+                (ADJP 
+                  (JJ obrigatÛria)
+                )
+              )
+            )
+            (,)
+            (PP 
+              (IN em)
+              (NP 
+                (NNP S„o_Jorge)
+              )
+            )
+            (,)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP est„o)
+    )
+    (NP 
+      (NP 
+        (NN dificuldades)
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NN pagamento)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN almoÁo)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT as)
+                    (NN crianÁas)
+                  )
+                )
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT as)
+                    (NN cantinas)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT as)
+                        (NN escolas)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (DT a)
+        (NN falta)
+        (PP 
+          (IN de)
+          (NP 
+            (NN dinheiro)
+            (PP 
+              (IN para)
+              (NP 
+                (DT a)
+                (NN compra)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN livros)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (DT a)
+        (NN carÍncia)
+        (PP 
+          (IN de)
+          (NP 
+            (NN transportes)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

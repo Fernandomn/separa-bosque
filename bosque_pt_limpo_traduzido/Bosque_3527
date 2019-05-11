@@ -1,20 +1,38 @@
-(S (_CU_ (NP (NNP Art_Deco)
-                               (,)
-                               (ADJP 
-                                 (DT a)
-                                 (RB mais)
-                                 (JJ nova)
-                                 (PP 
-                                   (IN de+)
-                                   (NP 
-                                     (DT as)
-                                     (NN antiguidades)))))
-                       (CC ou)
-                       (VP (NP 
-                                  (NNP Art_Deco))
-                                (VP (VBP rivaliza))
-                                (PP (IN com)
-                                        (NP 
-                                          (NN pe√ßas)
-                                          (ADJP 
-                                            (JJ cl√°ssicas)))))))
+(S 
+  (UCP 
+    (NP 
+      (NNP Art_Deco)
+      (,)
+      (ADJP 
+        (DT a)
+        (RB mais)
+        (JJ nova)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT as)
+            (NN antiguidades)
+          )
+        )
+      )
+    )
+    (CC ou)
+    (VP 
+      (NP 
+        (NNP Art_Deco)
+      )
+      (VP 
+        (VBP rivaliza)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (NN peÁas)
+          (ADJP 
+            (JJ cl·ssicas)
+          )
+        )
+      )
+    )
+  )
+)

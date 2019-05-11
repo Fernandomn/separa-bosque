@@ -1,51 +1,78 @@
-(S (VP (PP Em_debate)
-                        (VP (VBP est√£o))
-                        (_CU_ (NP 
-                                   (PRP a)
-                                   (NN rela√ß√£o)
-                                   (PP 
-                                     (IN entre)
-                                     (NP 
-                                       (PRP os)
-                                       (NN problemas)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (PRP os)
-                                           (NN agricultores)
-                                           (ADJP 
-                                             (JJ europeus)))))))
-                                 (CC e)
-                                 (NP 
-                                   (PRP as)
-                                   (NN quest√µes)
-                                   (VP 
-                                     (VP 
-                                       (VBN relacionadas))
-                                     (PP 
-                                       (IN com)
-                                       (_CU_ 
-                                         (NP 
-                                           (PRP a)
-                                           (NN defesa)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (PRP o)
-                                               (NN meio_ambiente))))
-                                         (,)
-                                         (NP 
-                                           (PRP o)
-                                           (NN desenvolvimento)
-                                           (ADJP 
-                                             (JJ regional)))
-                                         (CC e)
-                                         (NP 
-                                           (PRP os)
-                                           (NN direitos)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (PRP os)
-                                               (NN consumidores)))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP Em_debate)
+    (VP 
+      (VBP est„o)
+    )
+    (NP 
+      (NP 
+        (PRP a)
+        (NN relaÁ„o)
+        (PP 
+          (IN entre)
+          (NP 
+            (PRP os)
+            (NN problemas)
+            (PP 
+              (IN de+)
+              (NP 
+                (PRP os)
+                (NN agricultores)
+                (ADJP 
+                  (JJ europeus)
+                )
+              )
+            )
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (PRP as)
+        (NN questıes)
+        (VP 
+          (VP 
+            (VBN relacionadas)
+          )
+          (PP 
+            (IN com)
+            (NP 
+              (NP 
+                (PRP a)
+                (NN defesa)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (PRP o)
+                    (NN meio_ambiente)
+                  )
+                )
+              )
+              (,)
+              (NP 
+                (PRP o)
+                (NN desenvolvimento)
+                (ADJP 
+                  (JJ regional)
+                )
+              )
+              (CC e)
+              (NP 
+                (PRP os)
+                (NN direitos)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (PRP os)
+                    (NN consumidores)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

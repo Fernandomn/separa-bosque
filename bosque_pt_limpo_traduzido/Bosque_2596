@@ -1,72 +1,111 @@
-(S (VP (NP (PRP Estes)
-                                 (NN investigadores))
-                        (¬´)
-                        (VP (VBP vacinaram))
-                        (¬ª)
-                        (NP (CD quatro)
-                                (NN macacos))
-                        (PP (IN com)
-                                 (NP (DT uma)
-                                        (NN estirpe)
-                                        (ADJP 
-                                          (RB pouco)
-                                          (JJ virulenta))
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN v√≠rus)
-                                            (NP 
-                                              (NNP HIV2))
-                                            (ADJP 
-                                              (JJ humano))
-                                            ({)
-                                            (NP 
-                                              (DT o)
-                                              (NN v√≠rus)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN sida)))
-                                              (ADJP 
-                                                (RB mais)
-                                                (JJ vulgar)
-                                                (PP 
-                                                  (IN em+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (NNP √Åfrica)))))
-                                            (})
-                                            (,)
-                                            (_CU_ 
-                                              (VP 
-                                                (NP 
-                                                  (PRP que))
-                                                (ADVP 
-                                                  (RB n√£o))
-                                                (VP 
-                                                  (VBP provoca))
-                                                (NP 
-                                                  (DT a)
-                                                  (NN doen√ßa))
-                                                (PP 
-                                                  (IN em+)
-                                                  (NP 
-                                                    (PRP estes)
-                                                    (NN animais))))
-                                              (CC e)
-                                              (VP 
-                                                (NP 
-                                                  (PRP que))
-                                                (VP 
-                                                  (VBP desaparece))
-                                                (ADVP 
-                                                  (RB rapidamente))
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (PRP seu)
-                                                    (NN organismo)))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Estes)
+      (NN investigadores)
+    )
+    (´)
+    (VP 
+      (VBP vacinaram)
+    )
+    (ª)
+    (NP 
+      (CD quatro)
+      (NN macacos)
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (DT uma)
+        (NN estirpe)
+        (ADJP 
+          (RB pouco)
+          (JJ virulenta)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN vÌrus)
+            (NP 
+              (NNP HIV2)
+            )
+            (ADJP 
+              (JJ humano)
+            )
+            ({)
+            (NP 
+              (DT o)
+              (NN vÌrus)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NN sida)
+                )
+              )
+              (ADJP 
+                (RB mais)
+                (JJ vulgar)
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT a)
+                    (NNP ¡frica)
+                  )
+                )
+              )
+            )
+            (})
+            (,)
+            (VP 
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (ADVP 
+                  (RB n„o)
+                )
+                (VP 
+                  (VBP provoca)
+                )
+                (NP 
+                  (DT a)
+                  (NN doenÁa)
+                )
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (PRP estes)
+                    (NN animais)
+                  )
+                )
+              )
+              (CC e)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP desaparece)
+                )
+                (ADVP 
+                  (RB rapidamente)
+                )
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (PRP seu)
+                    (NN organismo)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

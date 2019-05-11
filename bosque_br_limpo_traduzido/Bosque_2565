@@ -1,29 +1,51 @@
-(S (VP (_CU_ (Â«)
-                                (VP 
-                                  (VP (VBP Sei))
-                                  (VP 
-                                    (IN que)
-                                    (ADVP 
-                                      (RB nÃ£o))
-                                    (VP 
-                                      (VBP estou)
-                                      (VBG rendendo))
-                                    (NP 
-                                      (PRP tudo)
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP posso))))))
-                                (,)
-                                (CC mas)
-                                (VP 
-                                  (VP (VBP estou))
-                                  (PP 
-                                    (IN em)
-                                    (NP 
-                                      (NN evoluÃ§Ã£o))))
-                                (Â»))
-                        (,)
-                        (VP (VBP disse))
-                        (.)))
+(S 
+  (VP 
+    (UCP 
+      («)
+      (VP 
+        (VP 
+          (VBP Sei)
+        )
+        (VP 
+          (IN que)
+          (ADVP 
+            (RB não)
+          )
+          (VP 
+            (VBP estou)
+            (VBG rendendo)
+          )
+          (NP 
+            (PRP tudo)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP posso)
+              )
+            )
+          )
+        )
+      )
+      (,)
+      mas      (VP 
+        (VP 
+          (VBP estou)
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (NN evolução)
+          )
+        )
+      )
+      (»)
+    )
+    (,)
+    (VP 
+      (VBP disse)
+    )
+    (.)
+  )
+)

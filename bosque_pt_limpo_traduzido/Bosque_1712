@@ -1,50 +1,85 @@
-(S (VP (PP (IN Em)
-                                 (NP (NN senhoras)))
-                        (,)
-                        (NP (NNP Paula_Laneiro))
-                        (ADVP (RB tambÃ©m))
-                        (ADVP (RB nÃ£o))
-                        (VP (VBP teve))
-                        (NP (NN dificuldades)
-                                (PP (IN em)
-                                       (VP 
-                                         (VP 
-                                           (VB bater))
-                                         (_CU_ 
-                                           (NP 
-                                             (NNP Umbelina_Nunes)
-                                             (,)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NNP Casal_PrivilÃ©gio)))
-                                             ({)
-                                             (_CU_ 
-                                               (ADJP 
-                                                 (JJ 267Âª)
-                                                 (PP 
-                                                   (IN de+)
-                                                   (NP 
-                                                     (DT a)
-                                                     (NN geral))))
-                                               (CC e)
-                                               (NP 
-                                                 (JJ primeira)
-                                                 (NN veterana)))
-                                             (}))
-                                           (,)
-                                           (CC e)
-                                           (NP 
-                                             (NNP LuÃ­sa_Almeida)
-                                             (,)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NNP Cruz_Quebradense)))
-                                             ({)
-                                             (ADJP 
-                                               (JJ 295Âª))
-                                             (}))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em)
+      (NP 
+        (NN senhoras)
+      )
+    )
+    (,)
+    (NP 
+      (NNP Paula_Laneiro)
+    )
+    (ADVP 
+      (RB também)
+    )
+    (ADVP 
+      (RB não)
+    )
+    (VP 
+      (VBP teve)
+    )
+    (NP 
+      (NN dificuldades)
+      (PP 
+        (IN em)
+        (VP 
+          (VP 
+            (VB bater)
+          )
+          (NP 
+            (NP 
+              (NNP Umbelina_Nunes)
+              (,)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NNP Casal_Privilégio)
+                )
+              )
+              ({)
+              (UCP 
+                (ADJP 
+                  (JJ 267ª)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN geral)
+                    )
+                  )
+                )
+                (CC e)
+                (NP 
+                  (JJ primeira)
+                  (NN veterana)
+                )
+              )
+              (})
+            )
+            (,)
+            (CC e)
+            (NP 
+              (NNP Luísa_Almeida)
+              (,)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NNP Cruz_Quebradense)
+                )
+              )
+              ({)
+              (ADJP 
+                (JJ 295ª)
+              )
+              (})
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

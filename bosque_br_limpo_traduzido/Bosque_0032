@@ -1,58 +1,91 @@
-(S (VP (VP (VBP Quebraram))
-                      (NP (PRP aquelas)
-                               (VP (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP estavam))
-                                       (Â«)
-                                       (VBN descasadas)
-                                       (Â»))
-                               (,)
-                               (ADVP 
-                                 (RB ou_seja))
-                               (,)
-                               (VP 
-                                 (NP 
-                                   (PRP que))
-                                 (VP (VBP financiavam))
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT o)
-                                     (NN mercado)
-                                     (ADJP 
-                                       (JJ interbancÃ¡rio))
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (CD um)
-                                         (NN dia)
-                                         ({)
-                                         (NP 
-                                           (NNP CDI))
-                                         (})))))
-                                 (NP 
-                                   (DT os)
-                                   (_CU_ 
-                                     (NP 
-                                       (NN emprÃ©stimos))
-                                     (CC e)
-                                     (NP 
-                                       (NN carteiras)))
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN tÃ­tulos)
-                                       (_CU_ 
-                                         (ADJP 
-                                           (JJ estaduais))
-                                         (CC e)
-                                         (ADJP 
-                                           (JJ municipais)))
-                                       (PP 
-                                         (IN com)
-                                         (NP 
-                                           (NN prazos)
-                                           (ADJP 
-                                             (JJ longos)))))))))
-                      (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Quebraram)
+    )
+    (NP 
+      (PRP aquelas)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP estavam)
+        )
+        («)
+        (VBN descasadas)
+        (»)
+      )
+      (,)
+      (ADVP 
+        (RB ou_seja)
+      )
+      (,)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP financiavam)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NN mercado)
+            (ADJP 
+              (JJ interbancário)
+            )
+            (PP 
+              (IN de)
+              (NP 
+                (CD um)
+                (NN dia)
+                ({)
+                (NP 
+                  (NNP CDI)
+                )
+                (})
+              )
+            )
+          )
+        )
+        (NP 
+          (DT os)
+          (NP 
+            (NP 
+              (NN empréstimos)
+            )
+            e            (NP 
+              (NN carteiras)
+            )
+          )
+          (PP 
+            (IN de)
+            (NP 
+              (NN títulos)
+              (ADJP 
+                (ADJP 
+                  (JJ estaduais)
+                )
+                e                (ADJP 
+                  (JJ municipais)
+                )
+              )
+              (PP 
+                (IN com)
+                (NP 
+                  (NN prazos)
+                  (ADJP 
+                    (JJ longos)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

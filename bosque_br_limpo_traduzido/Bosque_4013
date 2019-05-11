@@ -1,14 +1,30 @@
-(S (_CU_ (Â«)
-                       (VP (NP 
-                                  (NN Cantor))
-                                (VP (VBP tem))
-                                (ADVP 
-                                  (RB vÃ¡rios)))
-                       (;)
-                       (CC mas)
-                       (VP (NP 
-                                  (NN cantora))
-                                (VP (VBP Ã©))
-                                (NP (DT a)
-                                       (NNP Maria_Carey)))
-                       (Â»)))
+(S 
+  (UCP 
+    («)
+    (VP 
+      (NP 
+        (NN Cantor)
+      )
+      (VP 
+        (VBP tem)
+      )
+      (ADVP 
+        (RB vários)
+      )
+    )
+    (;)
+    mas    (VP 
+      (NP 
+        (NN cantora)
+      )
+      (VP 
+        (VBP é)
+      )
+      (NP 
+        (DT a)
+        (NNP Maria_Carey)
+      )
+    )
+    (»)
+  )
+)

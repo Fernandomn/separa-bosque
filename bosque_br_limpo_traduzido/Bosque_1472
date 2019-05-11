@@ -1,42 +1,73 @@
-(S (VP (NP (DT O)
-                                 (NN rendimento)
-                                 (VBN projetado)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT as)
-                                          (NN cadernetas))))
-                        (VP (VBP saiu))
-                        (_CU_ (PP (IN de)
-                                        (NP 
-                                          (DT um)
-                                          (NN patamar)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (CD 42)
-                                              (NN %)
-                                              (PP 
-                                                (IN em+)
-                                                (NP 
-                                                  (DT os)
-                                                  (NN depÃ³sitos))))))
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT a)
-                                            (NN semana)
-                                            (VBN passada)))))
-                        (PP (IN para)
-                                 (NP (CD 46)
-                                        (NN %)
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT as)
-                                            (NN aplicaÃ§Ãµes))))
-                                 (PP (IN em+)
-                                        (NP 
-                                          (DT os)
-                                          (JJ prÃ³ximos)
-                                          (NN dias))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN rendimento)
+      (VBN projetado)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (NN cadernetas)
+        )
+      )
+    )
+    (VP 
+      (VBP saiu)
+    )
+    (PP 
+      (PP 
+        (IN de)
+        (NP 
+          (DT um)
+          (NN patamar)
+          (PP 
+            (IN de)
+            (NP 
+              (CD 42)
+              (NN %)
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT os)
+                  (NN depósitos)
+                )
+              )
+            )
+          )
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT a)
+            (NN semana)
+            (VBN passada)
+          )
+        )
+      )
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (CD 46)
+        (NN %)
+        (PP 
+          (IN em+)
+          (NP 
+            (DT as)
+            (NN aplicações)
+          )
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT os)
+          (JJ próximos)
+          (NN dias)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,101 +1,159 @@
-(S (VP (_CU_ (NP 
-                                   (NN Gestor)
-                                   (ADJP 
-                                     (JJ genial)))
-                                 (,)
-                                 (NP 
-                                   (NN reformista)
-                                   (VBN moderado))
-                                 (CC e)
-                                 (NP 
-                                   (NN autor)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (NN programa)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN privatiza√ß√µes)))
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP Governo)))))))
-                        (,)
-                        (NP (NNP Chubais))
-                        (VP (VBP tem))
-                        (PP (IN a)
-                                 (NP (PRP seu)
-                                        (NN favor)))
-                        (NP (DT o)
-                                (NN apoio)
-                                (_CU_ 
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (_CU_ 
-                                        (NP 
-                                          (DT os)
-                                          (NN governos)
-                                          (ADJP 
-                                            (JJ ocidentais)))
-                                        (CC e))))
-                                  (PP 
-                                    (IN de+))
-                                  (PP 
-                                    (NP 
-                                      (_CU_ 
-                                        (NP 
-                                          (DT o)
-                                          (NNP FMI)))
-                                      (,)
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP tender√£o))
-                                        (PP 
-                                          (IN a)
-                                          (VP 
-                                            (VP 
-                                              (VB ver))
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (PRP ele)))
-                                            (NP 
-                                              (DT o)
-                                              (NN garante)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN continuidade)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT a)
-                                                      (NN pol√≠tica)
-                                                      (PP 
-                                                        (IN de+)
-                                                        (NP 
-                                                          (DT as)
-                                                          (NN reformas)))))))
-                                              (,)
-                                              (VP 
-                                                (ADVP 
-                                                  (RB quando))
-                                                (NP 
-                                                  (NNP Ieltsin))
-                                                (ADVP 
-                                                  (RB j√°_n√£o))
-                                                (VP 
-                                                  (VBP puder)
-                                                  (VB impor))
-                                                (NP 
-                                                  (DT a)
-                                                  (PRP sua)
-                                                  (NN vontade)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (NN Gestor)
+        (ADJP 
+          (JJ genial)
+        )
+      )
+      (,)
+      (NP 
+        (NN reformista)
+        (VBN moderado)
+      )
+      (CC e)
+      (NP 
+        (NN autor)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN programa)
+            (PP 
+              (IN de)
+              (NP 
+                (NN privatizaÁıes)
+              )
+            )
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NNP Governo)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP Chubais)
+    )
+    (VP 
+      (VBP tem)
+    )
+    (PP 
+      (IN a)
+      (NP 
+        (PRP seu)
+        (NN favor)
+      )
+    )
+    (NP 
+      (DT o)
+      (NN apoio)
+      (PP 
+        (PP 
+          (IN de+)
+          (NP 
+            (NP 
+              (NP 
+                (DT os)
+                (NN governos)
+                (ADJP 
+                  (JJ ocidentais)
+                )
+              )
+              (CC e)
+            )
+          )
+        )
+        (PP 
+          (IN de+)
+        )
+        (PP 
+          (NP 
+            (NP 
+              (NP 
+                (DT o)
+                (NNP FMI)
+              )
+            )
+            (,)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP tender„o)
+              )
+              (PP 
+                (IN a)
+                (VP 
+                  (VP 
+                    (VB ver)
+                  )
+                  (PP 
+                    (IN em+)
+                    (NP 
+                      (PRP ele)
+                    )
+                  )
+                  (NP 
+                    (DT o)
+                    (NN garante)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT a)
+                        (NN continuidade)
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT a)
+                            (NN polÌtica)
+                            (PP 
+                              (IN de+)
+                              (NP 
+                                (DT as)
+                                (NN reformas)
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                    (,)
+                    (VP 
+                      (ADVP 
+                        (RB quando)
+                      )
+                      (NP 
+                        (NNP Ieltsin)
+                      )
+                      (ADVP 
+                        (RB j·_n„o)
+                      )
+                      (VP 
+                        (VBP puder)
+                        (VB impor)
+                      )
+                      (NP 
+                        (DT a)
+                        (PRP sua)
+                        (NN vontade)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

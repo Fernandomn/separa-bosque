@@ -1,37 +1,63 @@
-(S (VP (NP (DT O)
-                                 (NNP PÃšBLICO))
-                        (VP (VBP apurou))
-                        (ADVP (RB tambÃ©m))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT as)
-                                   (NN negociaÃ§Ãµes)
-                                   (PP 
-                                     (IN entre)
-                                     (_CU_ 
-                                       (NP 
-                                         (DT a)
-                                         (NNP Marconi))
-                                       (CC e)
-                                       (NP 
-                                         (DT a)
-                                         (NNP CN))))
-                                   (PP 
-                                     (IN sobre)
-                                     (NP 
-                                       (DT a)
-                                       (NN redistribuiÃ§Ã£o)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT as)
-                                           (NN participaÃ§Ãµes)
-                                           (ADJP 
-                                             (JJ estatais)))))))
-                                 (ADVP 
-                                   (RB jÃ¡))
-                                 (VP (VBP estÃ£o))
-                                 (ADJP 
-                                   (RB bastante)
-                                   (VBN avanÃ§adas)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NNP PÚBLICO)
+    )
+    (VP 
+      (VBP apurou)
+    )
+    (ADVP 
+      (RB também)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT as)
+        (NN negociações)
+        (PP 
+          (IN entre)
+          (NP 
+            (NP 
+              (DT a)
+              (NNP Marconi)
+            )
+            (CC e)
+            (NP 
+              (DT a)
+              (NNP CN)
+            )
+          )
+        )
+        (PP 
+          (IN sobre)
+          (NP 
+            (DT a)
+            (NN redistribuição)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT as)
+                (NN participações)
+                (ADJP 
+                  (JJ estatais)
+                )
+              )
+            )
+          )
+        )
+      )
+      (ADVP 
+        (RB já)
+      )
+      (VP 
+        (VBP estão)
+      )
+      (ADJP 
+        (RB bastante)
+        (VBN avançadas)
+      )
+    )
+    (.)
+  )
+)

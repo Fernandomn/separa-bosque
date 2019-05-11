@@ -1,12 +1,28 @@
-(S (VP (NP (NNP IBGE))
-                        (VP (VBP mostra))
-                        (NP (NN inflaÃ§Ã£o)
-                                (ADJP 
-                                  (JJ menor)))
-                        (PP (IN em+)
-                                 (_CU_ (NP 
-                                          (DT o)
-                                          (NNP Rio))
-                                        (CC e)
-                                        (NP 
-                                          (NNP SP))))))
+(S 
+  (VP 
+    (NP 
+      (NNP IBGE)
+    )
+    (VP 
+      (VBP mostra)
+    )
+    (NP 
+      (NN inflação)
+      (ADJP 
+        (JJ menor)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (NP 
+          (DT o)
+          (NNP Rio)
+        )
+        e        (NP 
+          (NNP SP)
+        )
+      )
+    )
+  )
+)

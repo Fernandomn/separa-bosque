@@ -1,87 +1,133 @@
-(S (VP (NP (DT A)
-                                 (JJ multinacional)
-                                 (NN farmacÃªutica))
-                        (VP (VBP desmentiu))
-                        (NP (DT as)
-                                (NN notÃ­cias))
-                        (,)
-                        (_CU_ (VP 
-                                   (VP 
-                                     (VBG acusando))
-                                   (NP 
-                                     (DT o)
-                                     (NN jornal))
-                                   (PP 
-                                     (IN de)
-                                     (Â«)
-                                     (NP 
-                                       (NN afirmaÃ§Ãµes)
-                                       (ADJP 
-                                         (JJ incorrectas)))
-                                     (Â»)))
-                                 (CC e)
-                                 (VP 
-                                   (VP 
-                                     (VBG sublinhando))
-                                   (VP 
-                                     (VP 
-                                       (VB ter))
-                                     (Â«)
-                                     (NP 
-                                       (PRP toda_a)
-                                       (NN confianÃ§a)
-                                       (_CU_ 
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT a)
-                                             (NN seguranÃ§a)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN emprego)))))
-                                         (CC e)
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT a)
-                                             (NN eficÃ¡cia)
-                                             (Â»)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NN sedativo)))))))
-                                     (,)
-                                     (VP 
-                                       (IN desde_que)
-                                       (NP 
-                                         (PRP ele))
-                                       (VP 
-                                         (VBP seja)
-                                         (Â«)
-                                         (VBN utilizado))
-                                       (PP 
-                                         (PP de_acordo)
-                                         (PP 
-                                           (IN com)
-                                           (NP 
-                                             (DT as)
-                                             (NN prescriÃ§Ãµes)
-                                             (Â»)
-                                             (VP 
-                                               (VP 
-                                                 (VBN referidas))
-                                               (PP 
-                                                 (IN em+)
-                                                 (NP 
-                                                   (DT a)
-                                                   (NN literatura)
-                                                   (VP 
-                                                     (NP 
-                                                       (PRP que))
-                                                     (NP 
-                                                       (PRP o))
-                                                     (VP 
-                                                       (VBP acompanha)))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (JJ multinacional)
+      (NN farmacêutica)
+    )
+    (VP 
+      (VBP desmentiu)
+    )
+    (NP 
+      (DT as)
+      (NN notícias)
+    )
+    (,)
+    (VP 
+      (VP 
+        (VP 
+          (VBG acusando)
+        )
+        (NP 
+          (DT o)
+          (NN jornal)
+        )
+        (PP 
+          (IN de)
+          («)
+          (NP 
+            (NN afirmações)
+            (ADJP 
+              (JJ incorrectas)
+            )
+          )
+          (»)
+        )
+      )
+      (CC e)
+      (VP 
+        (VP 
+          (VBG sublinhando)
+        )
+        (VP 
+          (VP 
+            (VB ter)
+          )
+          («)
+          (NP 
+            (PRP toda_a)
+            (NN confiança)
+            (PP 
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT a)
+                  (NN segurança)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN emprego)
+                    )
+                  )
+                )
+              )
+              (CC e)
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT a)
+                  (NN eficácia)
+                  (»)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NN sedativo)
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (,)
+          (VP 
+            (IN desde_que)
+            (NP 
+              (PRP ele)
+            )
+            (VP 
+              (VBP seja)
+              («)
+              (VBN utilizado)
+            )
+            (PP 
+              (PP de_acordo)
+              (PP 
+                (IN com)
+                (NP 
+                  (DT as)
+                  (NN prescrições)
+                  (»)
+                  (VP 
+                    (VP 
+                      (VBN referidas)
+                    )
+                    (PP 
+                      (IN em+)
+                      (NP 
+                        (DT a)
+                        (NN literatura)
+                        (VP 
+                          (NP 
+                            (PRP que)
+                          )
+                          (NP 
+                            (PRP o)
+                          )
+                          (VP 
+                            (VBP acompanha)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

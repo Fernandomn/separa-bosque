@@ -1,46 +1,75 @@
-(S (VP (ADJP (JJ Favor√°veis)
-                                   (PP 
-                                     (IN a+)
-                                     (NP 
-                                       (DT o)
-                                       (NN pressuposto)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NN integra√ß√£o))))))
-                        (,)
-                        (VP (VBP devemos)
-                              (VB ser))
-                        (ADJP (JJ criteriosos))
-                        (,)
-                        (_CU_ (VP 
-                                   (ADVP 
-                                     (RB n√£o))
-                                   (VP 
-                                     (VBG descartando)))
-                                 (CC e)
-                                 (VP 
-                                   (ADVP 
-                                     (RB nem))
-                                   (VP 
-                                     (VBG acatando))
-                                   (,)
-                                   (PP 
-                                     (IN de)
-                                     (ADJP 
-                                       (JJ pronto)))
-                                   (,)
-                                   (VP 
-                                     (NP 
-                                       (PRP tudo_o_que))
-                                     (NP 
-                                       (PRP nos))
-                                     (VP 
-                                       (VBP oferece))
-                                     (NP 
-                                       (DT o)
-                                       (NN governo)
-                                       (ADJP 
-                                         (JJ federal))))))
-                        (.)))
+(S 
+  (VP 
+    (ADJP 
+      (JJ Favor·veis)
+      (PP 
+        (IN a+)
+        (NP 
+          (DT o)
+          (NN pressuposto)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN integraÁ„o)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP devemos)
+      (VB ser)
+    )
+    (ADJP 
+      (JJ criteriosos)
+    )
+    (,)
+    (VP 
+      (VP 
+        (ADVP 
+          (RB n„o)
+        )
+        (VP 
+          (VBG descartando)
+        )
+      )
+      e      (VP 
+        (ADVP 
+          (RB nem)
+        )
+        (VP 
+          (VBG acatando)
+        )
+        (,)
+        (PP 
+          (IN de)
+          (ADJP 
+            (JJ pronto)
+          )
+        )
+        (,)
+        (VP 
+          (NP 
+            (PRP tudo_o_que)
+          )
+          (NP 
+            (PRP nos)
+          )
+          (VP 
+            (VBP oferece)
+          )
+          (NP 
+            (DT o)
+            (NN governo)
+            (ADJP 
+              (JJ federal)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

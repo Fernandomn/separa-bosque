@@ -1,45 +1,76 @@
-(S (_CU_ (VP (ADVP 
-                                  (RB JÃ¡))
-                                (NP 
-                                  (DT as)
-                                  (NN submetralhadoras))
-                                (VP (VBP disparam))
-                                (NP (NN balas)
-                                        (ADJP 
-                                          (JJ semelhantes)
-                                          (PP 
-                                            (IN a+)
-                                            (NP 
-                                              (PRP as)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT os)
-                                                  (NN revÃ³lveres))))))))
-                       (,)
-                       (CC mas)
-                       (VP (VP (VBP podem)
-                                      (VB fazer-))
-                                (NP (PRP lo))
-                                (PP 
-                                  (IN em)
-                                  (NP 
-                                    (NN rajadas)))
-                                (,)
-                                (PP 
-                                  (IN a)
-                                  (NP 
-                                    (DT um)
-                                    (NN alcance)
-                                    (ADJP 
-                                      (JJ curto))
-                                    (,)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (PRP dezenas)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN metros))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (ADVP 
+        (RB Já)
+      )
+      (NP 
+        (DT as)
+        (NN submetralhadoras)
+      )
+      (VP 
+        (VBP disparam)
+      )
+      (NP 
+        (NN balas)
+        (ADJP 
+          (JJ semelhantes)
+          (PP 
+            (IN a+)
+            (NP 
+              (PRP as)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NN revólveres)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    mas    (VP 
+      (VP 
+        (VBP podem)
+        (VB fazer-)
+      )
+      (NP 
+        (PRP lo)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NN rajadas)
+        )
+      )
+      (,)
+      (PP 
+        (IN a)
+        (NP 
+          (DT um)
+          (NN alcance)
+          (ADJP 
+            (JJ curto)
+          )
+          (,)
+          (PP 
+            (IN de)
+            (NP 
+              (PRP dezenas)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN metros)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

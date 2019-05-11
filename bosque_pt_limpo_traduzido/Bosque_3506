@@ -1,91 +1,150 @@
-(S (VP (NP (DT Os)
-                                 (NN mercados)
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN acÃ§Ãµes))))
-                        (VP (VBP fecharam))
-                        (ADVP (RB ontem))
-                        (PP (IN em)
-                               (NP (NN alta)))
-                        (,)
-                        (PP (IN com)
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN mercados)
+      (PP 
+        (IN de)
+        (NP 
+          (NN acções)
+        )
+      )
+    )
+    (VP 
+      (VBP fecharam)
+    )
+    (ADVP 
+      (RB ontem)
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NN alta)
+      )
+    )
+    (,)
+    (PP 
+      (IN com)
+      (NP 
+        (DT as)
+        (NN bolsas)
+        (PP 
+          (IN de)
+          (NP 
+            (NP 
+              (NNP Londres)
+            )
+            (CC e)
+            (NP 
+              (NNP Paris)
+            )
+          )
+        )
+      )
+    )
+    ({)
+    (VP 
+      (NP 
+        (NNP Frankfurt)
+      )
+      (VP 
+        (VBP esteve)
+      )
+      (VBN encerrada)
+    )
+    (})
+    (PP 
+      (NP 
+        (PP 
+          (IN a)
+          (VP 
+            (VP 
+              (VB beneficiarem)
+            )
+            (PP 
+              (IN de)
+              (NP 
+                (DT uma)
+                (NN onda)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN compras)
+                  )
+                )
+                (ADJP 
+                  (JJ coincidente)
+                  (PP 
+                    (IN com)
+                    (NP 
+                      (DT o)
+                      (NN começo)
+                      (PP 
+                        (IN de+)
+                        (NP 
+                          (DT a)
+                          (NN cimeira)
+                          (PP 
+                            (IN de+)
+                            (NP 
+                              (DT o)
+                              (NP 
+                                (NN Grupo)
+                                (PP 
+                                  (IN de)
                                   (NP 
-                                    (DT as)
-                                    (NN bolsas)
-                                    (PP 
-                                      (IN de)
-                                      (_CU_ 
+                                    (DT os)
+                                    (CD Sete)
+                                  )
+                                )
+                              )
+                              ({)
+                              (NP 
+                                (NNP G7)
+                              )
+                              (})
+                              (NP 
+                                (PP 
+                                  (NP 
+                                    (NN países)
+                                    (ADJP 
+                                      (RB mais)
+                                      (JJ ricos)
+                                      (PP 
+                                        (IN de+)
                                         (NP 
-                                          (NNP Londres))
-                                        (CC e)
-                                        (NP 
-                                          (NNP Paris))))))
-                        ({)
-                        (VP (NP 
-                                    (NNP Frankfurt))
-                                  (VP (VBP esteve))
-                                  (VBN encerrada))
-                        (})
-                        (PP (NP 
-                                    (PP 
-                                      (IN a)
-                                      (VP 
-                                        (VP 
-                                          (VB beneficiarem))
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (DT uma)
-                                            (NN onda)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN compras)))
-                                            (ADJP 
-                                              (JJ coincidente)
-                                              (PP 
-                                                (IN com)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN comeÃ§o)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT a)
-                                                      (NN cimeira)
-                                                      (PP 
-                                                        (IN de+)
-                                                        (NP 
-                                                          (DT o)
-                                                          (NP 
-                                                            (NN Grupo)
-                                                            (PP 
-                                                              (IN de)
-                                                              (NP 
-                                                                (DT os)
-                                                                (CD Sete))))
-                                                          ({)
-                                                          (NP 
-                                                            (NNP G7))
-                                                          (})
-                                                          (NP 
-                                                            (PP 
-                                                              (NP 
-                                                                (NN paÃ­ses)
-                                                                (ADJP 
-                                                                  (RB mais)
-                                                                  (JJ ricos)
-                                                                  (PP 
-                                                                    (IN de+)
-                                                                    (NP 
-                                                                      (DT o)
-                                                                      (NN mundo)))))))))))
-                                                  (,)
-                                                  (PP 
-                                                    (IN em)
-                                                    (NP 
-                                                      (NNP Halifax)
-                                                      (,)
-                                                      (NP 
-                                                        (NNP CanadÃ¡)))))))))))))
-                        (.)))
+                                          (DT o)
+                                          (NN mundo)
+                                        )
+                                      )
+                                    )
+                                  )
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                      (,)
+                      (PP 
+                        (IN em)
+                        (NP 
+                          (NNP Halifax)
+                          (,)
+                          (NP 
+                            (NNP Canadá)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

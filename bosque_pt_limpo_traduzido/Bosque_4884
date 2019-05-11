@@ -1,63 +1,105 @@
-(S (VP (PP (IN Com)
-                                 (NP (DT a)
-                                        (NNP AT&T)))
-                        (,)
-                        (VP (VBP criou))
-                        (NP (DT a)
-                                (Â«)
-                                (NN joint-venture)
-                                (Â»)
-                                (NP (NNP Interactive_Digital_Solutions)))
-                        (PP (IN para)
-                                 (NP (_CU_ 
-                                          (NP 
-                                            (DT o)
-                                            (NN desenvolvimento))
-                                          (CC e)
-                                          (NP 
-                                            (NN oferta)))
-                                        (NP 
-                                          (IN de)
-                                          (_CU_ 
-                                            (NP 
-                                              (NN soluÃ§Ãµes)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN vÃ­deo)
-                                                  (ADJP 
-                                                    (JJ interactivo)))))
-                                            (,)
-                                            (_CU_ 
-                                              (NP 
-                                                (NN serviÃ§os)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (NN informaÃ§Ã£o))))
-                                              (CC ou)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN entretenimento))))))
-                                        (,)
-                                        (ADVP 
-                                          (RB atravÃ©s)
-                                          (_CU_ 
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT as)
-                                                (NN redes)
-                                                (ADJP 
-                                                  (JJ telefÃ³nicas))))
-                                            (CC e)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN TV)
-                                                (PP 
-                                                  (IN por)
-                                                  (NP 
-                                                    (NN cabo)))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Com)
+      (NP 
+        (DT a)
+        (NNP AT&T)
+      )
+    )
+    (,)
+    (VP 
+      (VBP criou)
+    )
+    (NP 
+      (DT a)
+      («)
+      (NN joint-venture)
+      (»)
+      (NP 
+        (NNP Interactive_Digital_Solutions)
+      )
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (NP 
+          (NP 
+            (DT o)
+            (NN desenvolvimento)
+          )
+          (CC e)
+          (NP 
+            (NN oferta)
+          )
+        )
+        (NP 
+          (IN de)
+          (UCP 
+            (NP 
+              (NN soluções)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN vídeo)
+                  (ADJP 
+                    (JJ interactivo)
+                  )
+                )
+              )
+            )
+            (,)
+            (UCP 
+              (NP 
+                (NN serviços)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN informação)
+                  )
+                )
+              )
+              (CC ou)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN entretenimento)
+                )
+              )
+            )
+          )
+        )
+        (,)
+        (ADVP 
+          (RB através)
+          (PP 
+            (PP 
+              (IN de+)
+              (NP 
+                (DT as)
+                (NN redes)
+                (ADJP 
+                  (JJ telefónicas)
+                )
+              )
+            )
+            (CC e)
+            (PP 
+              (IN de)
+              (NP 
+                (NN TV)
+                (PP 
+                  (IN por)
+                  (NP 
+                    (NN cabo)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

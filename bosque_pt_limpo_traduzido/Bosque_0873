@@ -1,15 +1,34 @@
-(S (_CU_ (VP (NP 
-                                  (DT As)
-                                  (CD duas)
-                                  (NN primeiras)
-                                  (NN jovens))
-                                (VP (VBP fraquejam)))
-                       (CC e)
-                       (VP (NP 
-                                  (NNP Miguel))
-                                (VP (VBP vai))
-                                (ADVP 
-                                  (RB logo))
-                                (VP (VB buscar))
-                                (NP (PRP outra)))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT As)
+        (CD duas)
+        (NN primeiras)
+        (NN jovens)
+      )
+      (VP 
+        (VBP fraquejam)
+      )
+    )
+    (CC e)
+    (VP 
+      (NP 
+        (NNP Miguel)
+      )
+      (VP 
+        (VBP vai)
+      )
+      (ADVP 
+        (RB logo)
+      )
+      (VP 
+        (VB buscar)
+      )
+      (NP 
+        (PRP outra)
+      )
+    )
+    (.)
+  )
+)

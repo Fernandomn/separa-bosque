@@ -1,19 +1,36 @@
-(S (VP (NP (DT As)
-                                 (NN rodas)
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN liga)
-                                          (PP 
-                                            (IN de)
-                                            (_CU_ 
-                                              (NP 
-                                                (NN alumÃ­nio))
-                                              (CC ou)
-                                              (NP 
-                                                (NN magnÃ©sio)))))))
-                        (VP (VBP tÃªm))
-                        (NP (NN manutenÃ§Ã£o)
-                                (ADJP 
-                                  (RB menos)
-                                  (JJ frequente)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN rodas)
+      (PP 
+        (IN de)
+        (NP 
+          (NN liga)
+          (PP 
+            (IN de)
+            (NP 
+              (NP 
+                (NN alumínio)
+              )
+              ou              (NP 
+                (NN magnésio)
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP têm)
+    )
+    (NP 
+      (NN manutenção)
+      (ADJP 
+        (RB menos)
+        (JJ frequente)
+      )
+    )
+    (.)
+  )
+)

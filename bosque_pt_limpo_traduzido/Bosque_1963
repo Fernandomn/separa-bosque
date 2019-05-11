@@ -1,51 +1,92 @@
-(S (VP (PP (IN Desde)
-                                 (NP (DT o)
-                                        (NN Ver√£o)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (CD 1993)))))
-                        (NP (NP (ADJP 
-                                          (RB mais_de)
-                                          (CD sete))
-                                        (NN mil))
-                                 (NN xiitas)
-                                 (ADJP 
-                                   (JJ iraquianos)))
-                        (VP (VBP fugiram))
-                        (PP (IN para)
-                               (NP (DT o)
-                                      (NNP Ir√£o)))
-                        (,)
-                        (VP 
-                          (VP (VBG atravessando))
-                          (NP (JJ imensos)
-                                  (NN lama√ßais)))
-                        (,)
-                        (PP (IN para)
-                                 (VP 
-                                   (VP 
-                                     (VB escapar))
-                                   (PP 
-                                     (IN a+)
-                                     (NP 
-                                       (_CU_ 
-                                         (NP 
-                                           (DT as)
-                                           (NN persegui√ß√µes))
-                                         (CC e)
-                                         (NP 
-                                           (NN ataques)))
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NN Ex√©rcito)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT o)
-                                               (NN presidente)
-                                               (NP 
-                                                 (NNP Saddam_Hussein))))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Desde)
+      (NP 
+        (DT o)
+        (NN Ver„o)
+        (PP 
+          (IN de)
+          (NP 
+            (CD 1993)
+          )
+        )
+      )
+    )
+    (NP 
+      (NP 
+        (ADJP 
+          (RB mais_de)
+          (CD sete)
+        )
+        (NN mil)
+      )
+      (NN xiitas)
+      (ADJP 
+        (JJ iraquianos)
+      )
+    )
+    (VP 
+      (VBP fugiram)
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (DT o)
+        (NNP Ir„o)
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG atravessando)
+      )
+      (NP 
+        (JJ imensos)
+        (NN lamaÁais)
+      )
+    )
+    (,)
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VB escapar)
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (NP 
+              (NP 
+                (DT as)
+                (NN perseguiÁıes)
+              )
+              (CC e)
+              (NP 
+                (NN ataques)
+              )
+            )
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN ExÈrcito)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN presidente)
+                    (NP 
+                      (NNP Saddam_Hussein)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

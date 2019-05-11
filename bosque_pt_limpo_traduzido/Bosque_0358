@@ -1,48 +1,81 @@
-(S (VP (NP (DT O)
-                                (NN grupo)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN fotÃ³grafos)
-                                         (ADJP 
-                                           (JJ participantes)))))
-                       (VP (VBP encontra-))
-                       (NP (PRP se))
-                       (PP (IN para)
-                                (NP (DT um)
-                                       (NN confronto)
-                                       (PP 
-                                         (IN por+)
-                                         (NP 
-                                           (DT a)
-                                           (NN diversidade)
-                                           (_CU_ 
-                                             (ADVP 
-                                               (RB nÃ£o)
-                                               (RB sÃ³))
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN estilos)))
-                                             (,)
-                                             (ADVP 
-                                               (RB como))
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN opÃ§Ãµes)
-                                                 (PP 
-                                                   (IN relativamente_a+)
-                                                   (NP 
-                                                     (DT a)
-                                                     (NN construÃ§Ã£o)
-                                                     (PP 
-                                                       (IN de)
-                                                       (NP 
-                                                         (DT uma)
-                                                         (NN ideia)
-                                                         (PP 
-                                                           (IN de+)
-                                                           (NP 
-                                                             (DT a)
-                                                             (NN cidade))))))))))))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN grupo)
+      (PP 
+        (IN de)
+        (NP 
+          (NN fotógrafos)
+          (ADJP 
+            (JJ participantes)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP encontra-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (DT um)
+        (NN confronto)
+        (PP 
+          (IN por+)
+          (NP 
+            (DT a)
+            (NN diversidade)
+            (UCP 
+              (ADVP 
+                (RB não)
+                (RB só)
+              )
+              (PP 
+                (IN de)
+                (NP 
+                  (NN estilos)
+                )
+              )
+              (,)
+              (ADVP 
+                (RB como)
+              )
+              (PP 
+                (IN de)
+                (NP 
+                  (NN opções)
+                  (PP 
+                    (IN relativamente_a+)
+                    (NP 
+                      (DT a)
+                      (NN construção)
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (DT uma)
+                          (NN ideia)
+                          (PP 
+                            (IN de+)
+                            (NP 
+                              (DT a)
+                              (NN cidade)
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

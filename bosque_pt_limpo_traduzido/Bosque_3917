@@ -1,106 +1,160 @@
-(S (VP (NP (NNP Walter_Saunders)
-                                 (,)
-                                 (NP 
-                                   (NP 
-                                     (NP 
-                                       (PRP outro)
-                                       (NN realizador))
-                                     (CC e)
-                                     (NP 
-                                       (NN produtor)))
-                                   (ADJP 
-                                     (JJ arbor√≠gene)))
-                                 (,))
-                        (VP (VBP sublinhou))
-                        (NP (DT a)
-                                (NN pilhagem)
-                                (ADJP 
-                                  (JJ cultural))
-                                (VP (NP 
-                                          (PRP que))
-                                        (NP 
-                                          (DT a)
-                                          (PRP sua)
-                                          (NN comunidade))
-                                        (VP 
-                                          (VBP continua)
-                                          (IN a)
-                                          (VB sofrer))
-                                        (,)
-                                        (PP 
-                                          (RB por_exemplo)
-                                          (IN em+)
-                                          (NP 
-                                            (DT o)
-                                            (NN dom√≠nio)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT as)
-                                                (NN imagens)
-                                                (;)
-                                                (_CU_ 
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT os)
-                                                      (NN motivos)
-                                                      (ADJP 
-                                                        (JJ arbor√≠genes))
-                                                      (VP 
-                                                        (VP 
-                                                          (VBN utilizados))
-                                                        (PP 
-                                                          (IN para)
-                                                          (VP 
-                                                            (VP 
-                                                              (VB ornamentar))
-                                                            (_CU_ 
-                                                              (NP 
-                                                                (NN lou√ßa))
-                                                              (CC e)
-                                                              (NP 
-                                                                (NN tecidos))))))))
-                                                  (,)
-                                                  (NP 
-                                                    (DT os)
-                                                    (NN s√≠mbolos)
-                                                    (VP 
-                                                      (NP 
-                                                        (PRP que))
-                                                      (VP 
-                                                        (VBP ornam))
-                                                      (NP 
-                                                        (DT os)
-                                                        (NN avi√µes)
-                                                        (ADJP 
-                                                          (JJ australianos)))))
-                                                  (,)
-                                                  (NP 
-                                                    (DT os)
-                                                    (NN boomerangs)
-                                                    (VP 
-                                                      (_CU_ 
-                                                        (VBN fabricados)
-                                                        (CC e)
-                                                        (VBN vendidos))
-                                                      (PP 
-                                                        (IN por)
-                                                        (NP 
-                                                          (NN australianos)
-                                                          (ADJP 
-                                                            (JJ brancos))))
-                                                      (,)
-                                                      (PP 
-                                                        (IN sem)
-                                                        (VP 
-                                                          (IN que)
-                                                          (NP 
-                                                            (DT os)
-                                                            (NN arborigenes))
-                                                          (VP 
-                                                            (VBP recebam))
-                                                          (NP 
-                                                            (PRP quaisquer)
-                                                            (NN direitos)))))))))))))
-                        (...)))
+(S 
+  (VP 
+    (NP 
+      (NNP Walter_Saunders)
+      (,)
+      (NP 
+        (NP 
+          (NP 
+            (PRP outro)
+            (NN realizador)
+          )
+          (CC e)
+          (NP 
+            (NN produtor)
+          )
+        )
+        (ADJP 
+          (JJ arborÌgene)
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP sublinhou)
+    )
+    (NP 
+      (DT a)
+      (NN pilhagem)
+      (ADJP 
+        (JJ cultural)
+      )
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (NP 
+          (DT a)
+          (PRP sua)
+          (NN comunidade)
+        )
+        (VP 
+          (VBP continua)
+          (IN a)
+          (VB sofrer)
+        )
+        (,)
+        (PP 
+          (RB por_exemplo)
+          (IN em+)
+          (NP 
+            (DT o)
+            (NN domÌnio)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT as)
+                (NN imagens)
+                (;)
+                (UCP 
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT os)
+                      (NN motivos)
+                      (ADJP 
+                        (JJ arborÌgenes)
+                      )
+                      (VP 
+                        (VP 
+                          (VBN utilizados)
+                        )
+                        (PP 
+                          (IN para)
+                          (VP 
+                            (VP 
+                              (VB ornamentar)
+                            )
+                            (NP 
+                              (NP 
+                                (NN louÁa)
+                              )
+                              (CC e)
+                              (NP 
+                                (NN tecidos)
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                  (,)
+                  (NP 
+                    (DT os)
+                    (NN sÌmbolos)
+                    (VP 
+                      (NP 
+                        (PRP que)
+                      )
+                      (VP 
+                        (VBP ornam)
+                      )
+                      (NP 
+                        (DT os)
+                        (NN aviıes)
+                        (ADJP 
+                          (JJ australianos)
+                        )
+                      )
+                    )
+                  )
+                  (,)
+                  (NP 
+                    (DT os)
+                    (NN boomerangs)
+                    (VP 
+                      (VBN 
+                        (VBN fabricados)
+                        (CC e)
+                        (VBN vendidos)
+                      )
+                      (PP 
+                        (IN por)
+                        (NP 
+                          (NN australianos)
+                          (ADJP 
+                            (JJ brancos)
+                          )
+                        )
+                      )
+                      (,)
+                      (PP 
+                        (IN sem)
+                        (VP 
+                          (IN que)
+                          (NP 
+                            (DT os)
+                            (NN arborigenes)
+                          )
+                          (VP 
+                            (VBP recebam)
+                          )
+                          (NP 
+                            (PRP quaisquer)
+                            (NN direitos)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (...)
+  )
+)

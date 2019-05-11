@@ -1,79 +1,122 @@
-(S (VP (NP (NNP Orlando_MagalhÃ£es))
-                        (VP (VBP recorreu))
-                        (PP (IN a)
-                                (NP (NN dados)
-                                       (ADJP 
-                                         (JJ estatÃ­sticos))))
-                        (PP (IN para)
-                                 (VP 
-                                   (VP 
-                                     (VB provar))
-                                   (VP 
-                                     (IN que)
-                                     (NP 
-                                       (DT o)
-                                       (NNP Norte)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NN paÃ­s))))
-                                     (,)
-                                     (ADVP 
-                                       (RB apesar)
-                                       (Â«)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (PRP seu)
-                                           (NN peso)
-                                           (ADJP 
-                                             (JJ econÃ³mico))))
-                                       (Â»))
-                                     (,)
-                                     (VP 
-                                       (VBP tem)
-                                       (VBN sido))
-                                     (NP 
-                                       (DT a)
-                                       (Â«)
-                                       (NN regiÃ£o)
-                                       (_CU_ 
-                                         (VP 
-                                           (ADVP 
-                                             (RB menos))
-                                           (VP 
-                                             (VBN beneficiada))
-                                           (PP 
-                                             (IN por+)
-                                             (NP 
-                                               (DT os)
-                                               (NN fundos)
-                                               (ADJP 
-                                                 (JJ comunitÃ¡rios))))
-                                           (Â»)
-                                           (,)
-                                           (PP 
-                                             (IN em_relaÃ§Ã£o_a+)
-                                             (NP 
-                                               (DT as)
-                                               (NN zonas)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT o)
-                                                   (NNP Sul))))))
-                                         (CC e)
-                                         (,)
-                                         (VP 
-                                           (PP 
-                                             (IN por)
-                                             (NP 
-                                               (PRP isso)))
-                                           (,)
-                                           (ADVP 
-                                             (RB menos))
-                                           (VP 
-                                             (VBN desenvolvida))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Orlando_Magalhães)
+    )
+    (VP 
+      (VBP recorreu)
+    )
+    (PP 
+      (IN a)
+      (NP 
+        (NN dados)
+        (ADJP 
+          (JJ estatísticos)
+        )
+      )
+    )
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VB provar)
+        )
+        (VP 
+          (IN que)
+          (NP 
+            (DT o)
+            (NNP Norte)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN país)
+              )
+            )
+          )
+          (,)
+          (ADVP 
+            (RB apesar)
+            («)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (PRP seu)
+                (NN peso)
+                (ADJP 
+                  (JJ económico)
+                )
+              )
+            )
+            (»)
+          )
+          (,)
+          (VP 
+            (VBP tem)
+            (VBN sido)
+          )
+          (NP 
+            (DT a)
+            («)
+            (NN região)
+            (VP 
+              (VP 
+                (ADVP 
+                  (RB menos)
+                )
+                (VP 
+                  (VBN beneficiada)
+                )
+                (PP 
+                  (IN por+)
+                  (NP 
+                    (DT os)
+                    (NN fundos)
+                    (ADJP 
+                      (JJ comunitários)
+                    )
+                  )
+                )
+                (»)
+                (,)
+                (PP 
+                  (IN em_relação_a+)
+                  (NP 
+                    (DT as)
+                    (NN zonas)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT o)
+                        (NNP Sul)
+                      )
+                    )
+                  )
+                )
+              )
+              (CC e)
+              (,)
+              (VP 
+                (PP 
+                  (IN por)
+                  (NP 
+                    (PRP isso)
+                  )
+                )
+                (,)
+                (ADVP 
+                  (RB menos)
+                )
+                (VP 
+                  (VBN desenvolvida)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

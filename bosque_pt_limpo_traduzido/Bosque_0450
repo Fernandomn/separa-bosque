@@ -1,18 +1,37 @@
-(S (NP (NN Atentados)
-                      (ADJP (JJ suicidas))
-                      (PP (IN de+)
-                             (NP (DT o)
-                                    (NN grupo)
-                                    (NP 
-                                      (NNP Hamas))))
-                      (PP (IN em)
-                             (NP (NNP Israel)))
-                      (;)
-                      (_CU_ (NP 
-                                   (CD 25)
-                                   (NN mortos))
-                                 (CC e)
-                                 (NP 
-                                   (CD 80)
-                                   (VBN feridos)))
-                      (.)))
+(S 
+  (NP 
+    (NN Atentados)
+    (ADJP 
+      (JJ suicidas)
+    )
+    (PP 
+      (IN de+)
+      (NP 
+        (DT o)
+        (NN grupo)
+        (NP 
+          (NNP Hamas)
+        )
+      )
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NNP Israel)
+      )
+    )
+    (;)
+    (NP 
+      (NP 
+        (CD 25)
+        (NN mortos)
+      )
+      (CC e)
+      (NP 
+        (CD 80)
+        (VBN feridos)
+      )
+    )
+    (.)
+  )
+)

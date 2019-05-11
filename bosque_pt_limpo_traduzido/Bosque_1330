@@ -1,58 +1,99 @@
-(S (VP (PP (IN em)
-                                 (NP (NNP Barcelos)))
-                        (,)
-                        (NP (PRP o)
-                                 (NNP Ã“quei))
-                        (VP (VBP recebe))
-                        (NP (PRP o)
-                                (NNP Benfica))
-                        (,)
-                        (NP (NN partida)
-                               (VP (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP poderÃ¡)
-                                         (VB servir))
-                                       (PP 
-                                         (IN a+)
-                                         (NP 
-                                           (PRP os)
-                                           (NN minhotos)))
-                                       (PP 
-                                         (IN para)
-                                         (VP 
-                                           (VP 
-                                             (VB recuperarem))
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (PRP uma)
-                                               (NN campanha)
-                                               (ADJP 
-                                                 (JJ fraca))
-                                               ({)
-                                               (_CU_ 
-                                                 (NP 
-                                                   (CD trÃªs)
-                                                   (NN derrotas))
-                                                 (CC e)
-                                                 (NP 
-                                                   (PRP um)
-                                                   (NN empate)))
-                                               (})))))))
-                        (,)
-                        (VP (ADVP 
-                                    (RB enquanto))
-                                  (NP 
-                                    (PRP os)
-                                    (NN benfiquistas))
-                                  (VP (VBP tentarÃ£o))
-                                  (VP 
-                                    (VP 
-                                      (VB manter))
-                                    (NP 
-                                      (PRP o)
-                                      (NN percurso))
-                                    (ADJP 
-                                      (JJ vitorioso))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN em)
+      (NP 
+        (NNP Barcelos)
+      )
+    )
+    (,)
+    (NP 
+      (PRP o)
+      (NNP Óquei)
+    )
+    (VP 
+      (VBP recebe)
+    )
+    (NP 
+      (PRP o)
+      (NNP Benfica)
+    )
+    (,)
+    (NP 
+      (NN partida)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP poderá)
+          (VB servir)
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (PRP os)
+            (NN minhotos)
+          )
+        )
+        (PP 
+          (IN para)
+          (VP 
+            (VP 
+              (VB recuperarem)
+            )
+            (PP 
+              (IN de)
+              (NP 
+                (PRP uma)
+                (NN campanha)
+                (ADJP 
+                  (JJ fraca)
+                )
+                ({)
+                (NP 
+                  (NP 
+                    (CD três)
+                    (NN derrotas)
+                  )
+                  (CC e)
+                  (NP 
+                    (PRP um)
+                    (NN empate)
+                  )
+                )
+                (})
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (ADVP 
+        (RB enquanto)
+      )
+      (NP 
+        (PRP os)
+        (NN benfiquistas)
+      )
+      (VP 
+        (VBP tentarão)
+      )
+      (VP 
+        (VP 
+          (VB manter)
+        )
+        (NP 
+          (PRP o)
+          (NN percurso)
+        )
+        (ADJP 
+          (JJ vitorioso)
+        )
+      )
+    )
+    (.)
+  )
+)

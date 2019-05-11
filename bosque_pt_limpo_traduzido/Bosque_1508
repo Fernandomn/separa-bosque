@@ -1,36 +1,68 @@
-(S (VP (ADVP (RB Ã‰))
-                        (PP (IN para)
-                                 (NP (PRP isso)))
-                        (ADVP (RB que))
-                        (PP (IN em)
-                                 (NP (PRP todos_os)
-                                        (NN paÃ­ses)
-                                        (,)
-                                        (_CU_ 
-                                          (ADJP 
-                                            (JJ grandes))
-                                          (CC ou)
-                                          (ADJP 
-                                            (JJ pequenos)))
-                                        (,)))
-                        (VP (VBP existe))
-                        (_CU_ (NP 
-                                   (DT uma)
-                                   (NN autarquia)
-                                   (ADJP 
-                                     (JJ territorial)))
-                                 ({)
-                                 (CC ou)
-                                 (NP 
-                                   (RB mesmo)
-                                   (CD duas))
-                                 (}))
-                        (PP (IN entre)
-                                 (_CU_ (NP 
-                                          (DT o)
-                                          (NN Estado))
-                                        (CC e)
-                                        (NP 
-                                          (DT os)
-                                          (NN municÃ­pios))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB É)
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (PRP isso)
+      )
+    )
+    (ADVP 
+      (RB que)
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (PRP todos_os)
+        (NN países)
+        (,)
+        (ADJP 
+          (ADJP 
+            (JJ grandes)
+          )
+          (CC ou)
+          (ADJP 
+            (JJ pequenos)
+          )
+        )
+        (,)
+      )
+    )
+    (VP 
+      (VBP existe)
+    )
+    (UCP 
+      (NP 
+        (DT uma)
+        (NN autarquia)
+        (ADJP 
+          (JJ territorial)
+        )
+      )
+      ({)
+      (CC ou)
+      (NP 
+        (RB mesmo)
+        (CD duas)
+      )
+      (})
+    )
+    (PP 
+      (IN entre)
+      (NP 
+        (NP 
+          (DT o)
+          (NN Estado)
+        )
+        (CC e)
+        (NP 
+          (DT os)
+          (NN municípios)
+        )
+      )
+    )
+    (.)
+  )
+)

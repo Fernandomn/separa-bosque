@@ -1,37 +1,59 @@
-(S (VP (NP (NN Cartas)
-                                 (VP 
-                                   (VP 
-                                     (VBG pedindo))
-                                   (_CU_ 
-                                     (NP 
-                                       (DT a)
-                                       (JJ imediata)
-                                       (NN comutaÃ§Ã£o)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT as)
-                                           (NN condenaÃ§Ãµes)
-                                           (PP 
-                                             (IN a+)
-                                             (NP 
-                                               (DT a)
-                                               (NN morte))))))
-                                     (CC e)
-                                     (NP 
-                                       (DT uma)
-                                       (NN investigaÃ§Ã£o)
-                                       (PP 
-                                         (IN sobre)
-                                         (NP 
-                                           (DT as)
-                                           (NN denÃºncias)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN maus-tratos)))))))))
-                        (VP (VBP devem)
-                              (VB ser))
-                        (VP (VBN enviadas))
-                        (IN a)
-                        (;)))
+(S 
+  (VP 
+    (NP 
+      (NN Cartas)
+      (VP 
+        (VP 
+          (VBG pedindo)
+        )
+        (NP 
+          (NP 
+            (DT a)
+            (JJ imediata)
+            (NN comutação)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT as)
+                (NN condenações)
+                (PP 
+                  (IN a+)
+                  (NP 
+                    (DT a)
+                    (NN morte)
+                  )
+                )
+              )
+            )
+          )
+          e          (NP 
+            (DT uma)
+            (NN investigação)
+            (PP 
+              (IN sobre)
+              (NP 
+                (DT as)
+                (NN denúncias)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN maus-tratos)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP devem)
+      (VB ser)
+    )
+    (VP 
+      (VBN enviadas)
+    )
+    (IN a)
+    (;)
+  )
+)

@@ -1,47 +1,80 @@
-(S (VP (ADVP (RB NÃ£o))
-                        (VP (VBP foi))
-                        (NP (NN verdade))
-                        (,)
-                        (ADVP (RB por_exemplo))
-                        (,)
-                        (VP (IN que)
-                                 (NP 
-                                   (DT os)
-                                   (PRP prÃ³prios)
-                                   (NN livreiros))
-                                 (NP 
-                                   (PRP se))
-                                 (VP (VBP manifestaram))
-                                 (PP 
-                                   (IN contra)
-                                   (NP 
-                                     (DT a)
-                                     (NN realizaÃ§Ã£o)
-                                     (PP 
-                                       (IN de)
-                                       (_CU_ 
-                                         (NP 
-                                           (NN concertos))
-                                         (CC e)
-                                         (NP 
-                                           (NN debates))))))
-                                 (,)
-                                 (VP 
-                                   (VP 
-                                     (VBG considerando))
-                                   (VP 
-                                     (IN que)
-                                     (NP 
-                                       (PRP isso))
-                                     (VP 
-                                       (VBP era))
-                                     (ADJP 
-                                       (JJ desmobilizador)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT os)
-                                           (NN potenciais)
-                                           (NP 
-                                             (NN compradores))))))))
-                        (?)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Não)
+    )
+    (VP 
+      (VBP foi)
+    )
+    (NP 
+      (NN verdade)
+    )
+    (,)
+    (ADVP 
+      (RB por_exemplo)
+    )
+    (,)
+    (VP 
+      (IN que)
+      (NP 
+        (DT os)
+        (PRP próprios)
+        (NN livreiros)
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP manifestaram)
+      )
+      (PP 
+        (IN contra)
+        (NP 
+          (DT a)
+          (NN realização)
+          (PP 
+            (IN de)
+            (NP 
+              (NP 
+                (NN concertos)
+              )
+              (CC e)
+              (NP 
+                (NN debates)
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBG considerando)
+        )
+        (VP 
+          (IN que)
+          (NP 
+            (PRP isso)
+          )
+          (VP 
+            (VBP era)
+          )
+          (ADJP 
+            (JJ desmobilizador)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT os)
+                (NN potenciais)
+                (NP 
+                  (NN compradores)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (?)
+  )
+)

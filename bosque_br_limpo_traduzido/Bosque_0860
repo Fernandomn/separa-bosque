@@ -1,45 +1,79 @@
-(S (VP (PP (IN Por+)
-                                 (NP (DT a)
-                                        (NN desvinculaÃ§Ã£o)))
-                        (,)
-                        (NP (DT o)
-                                 (NN governo))
-                        (VP (VBP fica))
-                        (VP (VP (VBN desobrigado))
-                                (PP (IN de)
-                                        (VP 
-                                          (VP 
-                                            (VB cumprir))
-                                          (NP 
-                                            (DT os)
-                                            (NN artigos)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT a)
-                                                (NN ConstituiÃ§Ã£o)))
-                                            (VP 
-                                              (NP 
-                                                (PRP que))
-                                              (VP 
-                                                (VBP mandam))
-                                              (VP 
-                                                (VP 
-                                                  (VB aplicar))
-                                                (NP 
-                                                  (NN percentuais)
-                                                  (VBN fixos)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT o)
-                                                      (NN OrÃ§amento))))
-                                                (PP 
-                                                  (IN em)
-                                                  (_CU_ 
-                                                    (NP 
-                                                      (NN educaÃ§Ã£o))
-                                                    (CC e)
-                                                    (NP 
-                                                      (NN habitaÃ§Ã£o))))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Por+)
+      (NP 
+        (DT a)
+        (NN desvinculação)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN governo)
+    )
+    (VP 
+      (VBP fica)
+    )
+    (VP 
+      (VP 
+        (VBN desobrigado)
+      )
+      (PP 
+        (IN de)
+        (VP 
+          (VP 
+            (VB cumprir)
+          )
+          (NP 
+            (DT os)
+            (NN artigos)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN Constituição)
+              )
+            )
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP mandam)
+              )
+              (VP 
+                (VP 
+                  (VB aplicar)
+                )
+                (NP 
+                  (NN percentuais)
+                  (VBN fixos)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NN Orçamento)
+                    )
+                  )
+                )
+                (PP 
+                  (IN em)
+                  (NP 
+                    (NP 
+                      (NN educação)
+                    )
+                    e                    (NP 
+                      (NN habitação)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

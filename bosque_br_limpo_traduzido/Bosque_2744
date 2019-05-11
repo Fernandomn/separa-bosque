@@ -1,40 +1,69 @@
-(S (VP (NP (PRP Todos)
-                                 (DT os)
-                                 (NN fax/modem))
-                        (VP (VBP saem))
-                        (PP (IN de)
-                                (NP (NN f√°brica)))
-                        (PP (IN com)
-                                 (NP (CD dois)
-                                        (NN programas)
-                                        (_CU_ 
-                                          (ADJP 
-                                            (CD um)
-                                            (PP 
-                                              (IN para)
-                                              (NP 
-                                                (NN gerenciamento)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT as)
-                                                    (NN transmiss√µes)
-                                                    (NP 
-                                                      (NN dfa)))))))
-                                          (CC e)
-                                          (NP 
-                                            (PRP outro)
-                                            (PP 
-                                              (IN para)
-                                              (NP 
-                                                (NN gerenciamento)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT as)
-                                                    (NN transmiss√µes)
-                                                    (PP 
-                                                      (IN de)
-                                                      (NP 
-                                                        (NN dados)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Todos)
+      (DT os)
+      (NN fax/modem)
+    )
+    (VP 
+      (VBP saem)
+    )
+    (PP 
+      (IN de)
+      (NP 
+        (NN f·brica)
+      )
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (CD dois)
+        (NN programas)
+        (UCP 
+          (ADJP 
+            (CD um)
+            (PP 
+              (IN para)
+              (NP 
+                (NN gerenciamento)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT as)
+                    (NN transmissıes)
+                    (NP 
+                      (NN dfa)
+                    )
+                  )
+                )
+              )
+            )
+          )
+          e          (NP 
+            (PRP outro)
+            (PP 
+              (IN para)
+              (NP 
+                (NN gerenciamento)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT as)
+                    (NN transmissıes)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NN dados)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

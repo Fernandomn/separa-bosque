@@ -1,11 +1,25 @@
-(S (_CU_ (VP (NP 
-                                  (DT O)
-                                  (NN repressor))
-                                (VP (VBP apela))
-                                (PP (IN para)
-                                       (NP 
-                                         (DT o)
-                                         (NN transgressor))))
-                       (CC e)
-                       (ADVP (RB vice-versa))
-                       (.)))
+(S 
+  (UCP 
+    (VP 
+      (NP 
+        (DT O)
+        (NN repressor)
+      )
+      (VP 
+        (VBP apela)
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (DT o)
+          (NN transgressor)
+        )
+      )
+    )
+    (CC e)
+    (ADVP 
+      (RB vice-versa)
+    )
+    (.)
+  )
+)

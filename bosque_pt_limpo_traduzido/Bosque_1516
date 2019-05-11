@@ -1,38 +1,62 @@
-(S (VP (PP (IN Em+)
-                                 (NP (PRP este)
-                                        (NN sentido)))
-                        (,)
-                        (VP (VBP espero))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT o)
-                                   (JJ interessante)
-                                   (NN documento)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN trabalho)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP Conselho_PontÃ­fico_da_FamÃ­lia)))))
-                                   (,)
-                                   (NP 
-                                     (Â«)
-                                     (NNP EvoluÃ§Ãµes_demogrÃ¡ficas:_dimensÃµes_Ã©ticas_e_pastorais)
-                                     (Â»)
-                                     (,)
-                                     (_CU_ 
-                                       (NP 
-                                         (NNP Lisboa))
-                                       (,)
-                                       (ADJP 
-                                         (CD 1994))))
-                                   (}))
-                                 (VP (VBP leve))
-                                 (NP 
-                                   (DT uma)
-                                   (JJ grande)
-                                   (NN volta)))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (PRP este)
+        (NN sentido)
+      )
+    )
+    (,)
+    (VP 
+      (VBP espero)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT o)
+        (JJ interessante)
+        (NN documento)
+        (PP 
+          (IN de)
+          (NP 
+            (NN trabalho)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NNP Conselho_Pontífico_da_Família)
+              )
+            )
+          )
+        )
+        (,)
+        (NP 
+          («)
+          (NNP Evoluções_demográficas:_dimensões_éticas_e_pastorais)
+          (»)
+          (,)
+          (UCP 
+            (NP 
+              (NNP Lisboa)
+            )
+            (,)
+            (ADJP 
+              (CD 1994)
+            )
+          )
+        )
+        (})
+      )
+      (VP 
+        (VBP leve)
+      )
+      (NP 
+        (DT uma)
+        (JJ grande)
+        (NN volta)
+      )
+    )
+    (.)
+  )
+)

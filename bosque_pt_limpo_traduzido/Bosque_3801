@@ -1,30 +1,57 @@
-(S (NP (NP (NNP Teresa_Vasconcelos))
-                       (--)
-                       (_CU_ (VP (VP 
-                                          (VBP Digo))
-                                        (NP 
-                                          (PRP isto))
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT o)
-                                            (NN livro))))
-                               (CC e)
-                               (VP (VP 
-                                          (VBP digo))
-                                        (PP 
-                                          (IN com)
-                                          (NP 
-                                            (NN convicÃ§Ã£o))))
-                               (;))
-                       (VP (VP (VBP hÃ¡))
-                                (NP (PRP muitas)
-                                        (Â«)
-                                        (NNP Anas)
-                                        (Â»))
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (PRP este)
-                                    (NN paÃ­s)))
-                                (.))))
+(S 
+  (NP 
+    (NP 
+      (NNP Teresa_Vasconcelos)
+    )
+    (--)
+    (UCP 
+      (VP 
+        (VP 
+          (VBP Digo)
+        )
+        (NP 
+          (PRP isto)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NN livro)
+          )
+        )
+      )
+      (CC e)
+      (VP 
+        (VP 
+          (VBP digo)
+        )
+        (PP 
+          (IN com)
+          (NP 
+            (NN convicção)
+          )
+        )
+      )
+      (;)
+    )
+    (VP 
+      (VP 
+        (VBP há)
+      )
+      (NP 
+        (PRP muitas)
+        («)
+        (NNP Anas)
+        (»)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (PRP este)
+          (NN país)
+        )
+      )
+      (.)
+    )
+  )
+)

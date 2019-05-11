@@ -1,85 +1,131 @@
-(S (_CU_ (VP (_CU_ 
-                                  (NP 
-                                    (NNP LituÃ¢nia))
-                                  (CC e)
-                                  (NP 
-                                    (NNP UcrÃ¢nia)))
-                                (VP (VBP elogiam))
-                                (NP (DT a)
-                                        (NNP Otan)))
-                       (VP (NP 
-                                  (DT os)
-                                  (NN presidentes)
-                                  (_CU_ 
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT a)
-                                        (NNP LituÃ¢nia)
-                                        (,)
-                                        (NP 
-                                          (NNP Algirdas_Zebrauskas))
-                                        (,)))
-                                    (CC e)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT a)
-                                        (NNP UcrÃ¢nia)
-                                        (,)
-                                        (NP 
-                                          (NNP Leonid_Kravtchuk))
-                                        (,)))))
-                                (VP (VBP elogiaram))
-                                (ADVP 
-                                  (RB ontem))
-                                (NP (DT o)
-                                        (NN programa)
-                                        (PP 
-                                          (IN de)
-                                          (Â«)
-                                          (NP 
-                                            (NNP Parceria_pela_Paz))
-                                          (Â»))
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NNP Otan)
-                                            ({)
-                                            (NP 
-                                              (NN alianÃ§a)
-                                              (ADJP 
-                                                (JJ militar))
-                                              (ADJP 
-                                                (JJ ocidental))
-                                              (,)
-                                              (VP 
-                                                (VP 
-                                                  (VBN liderada))
-                                                (PP 
-                                                  (IN por+)
-                                                  (NP 
-                                                    (DT os)
-                                                    (NNP EUA)))))
-                                            (})))
-                                        (,)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP prevÃª))
-                                          (NP 
-                                            (NN operaÃ§Ãµes)
-                                            (ADJP 
-                                              (JJ conjuntas))
-                                            (PP 
-                                              (IN com)
-                                              (NP 
-                                                (NN paÃ­ses)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NNP Leste_Europeu)))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (NP 
+          (NNP Lituânia)
+        )
+        e        (NP 
+          (NNP Ucrânia)
+        )
+      )
+      (VP 
+        (VBP elogiam)
+      )
+      (NP 
+        (DT a)
+        (NNP Otan)
+      )
+    )
+    (VP 
+      (NP 
+        (DT os)
+        (NN presidentes)
+        (PP 
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Lituânia)
+              (,)
+              (NP 
+                (NNP Algirdas_Zebrauskas)
+              )
+              (,)
+            )
+          )
+          e          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Ucrânia)
+              (,)
+              (NP 
+                (NNP Leonid_Kravtchuk)
+              )
+              (,)
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP elogiaram)
+      )
+      (ADVP 
+        (RB ontem)
+      )
+      (NP 
+        (DT o)
+        (NN programa)
+        (PP 
+          (IN de)
+          («)
+          (NP 
+            (NNP Parceria_pela_Paz)
+          )
+          (»)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP Otan)
+            ({)
+            (NP 
+              (NN aliança)
+              (ADJP 
+                (JJ militar)
+              )
+              (ADJP 
+                (JJ ocidental)
+              )
+              (,)
+              (VP 
+                (VP 
+                  (VBN liderada)
+                )
+                (PP 
+                  (IN por+)
+                  (NP 
+                    (DT os)
+                    (NNP EUA)
+                  )
+                )
+              )
+            )
+            (})
+          )
+        )
+        (,)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP prevê)
+          )
+          (NP 
+            (NN operações)
+            (ADJP 
+              (JJ conjuntas)
+            )
+            (PP 
+              (IN com)
+              (NP 
+                (NN países)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NNP Leste_Europeu)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

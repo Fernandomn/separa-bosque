@@ -1,83 +1,124 @@
-(S (VP (NP (DT A)
-                                 (NN exploraÃ§Ã£o)
-                                 (PP 
-                                   (IN de+)
-                                   (NP 
-                                     (DT o)
-                                     (Â«)
-                                     (NN aparthotel)
-                                     (Â»)
-                                     (,)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP terÃ¡))
-                                       (NP 
-                                         (CD 134)
-                                         (NN quartos)
-                                         (--)
-                                         (NP 
-                                           (PRP todos)
-                                           (PRP eles)
-                                           (_CU_ 
-                                             (PP 
-                                               (IN com)
-                                               (Â«)
-                                               (NP 
-                                                 (NN kitchenete))
-                                               (Â»))
-                                             (CC e)
-                                             (VP 
-                                               (VP 
-                                                 (VBN distribuÃ­dos))
-                                               (PP 
-                                                 (IN ao_longo_de)
-                                                 (NP 
-                                                   (CD oito)
-                                                   (NN pisos)
-                                                   ({)
-                                                   (PP 
-                                                     (IN entre)
-                                                     (_CU_ 
-                                                       (NP 
-                                                         (DT o)
-                                                         (NN segundo))
-                                                       (CC e)
-                                                       (NP 
-                                                         (DT o)
-                                                         (NN nono))))
-                                                   (}))))))
-                                         (--))))))
-                        (VP (VBP caberÃ¡))
-                        (PP (IN a+)
-                                (NP (DT a)
-                                       (NN cadeia)
-                                       (NP 
-                                         (NNP Orion))
-                                       (,)
-                                       (ADJP 
-                                         (JJ pertencente)
-                                         (PP 
-                                           (IN a+)
-                                           (NP 
-                                             (DT os)
-                                             (NN sÃ³cios)
-                                             (ADJP 
-                                               (JJ franceses))
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NN grupo)
-                                                 (NP 
-                                                   (NNP Amorim))))
-                                             (,)
-                                             (ADJP 
-                                               (JJ maioritÃ¡rios)
-                                               (PP 
-                                                 (IN em+)
-                                                 (NP 
-                                                   (DT a)
-                                                   (NNP Inogi)))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN exploração)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          («)
+          (NN aparthotel)
+          (»)
+          (,)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP terá)
+            )
+            (NP 
+              (CD 134)
+              (NN quartos)
+              (--)
+              (NP 
+                (PRP todos)
+                (PRP eles)
+                (UCP 
+                  (PP 
+                    (IN com)
+                    («)
+                    (NP 
+                      (NN kitchenete)
+                    )
+                    (»)
+                  )
+                  (CC e)
+                  (VP 
+                    (VP 
+                      (VBN distribuídos)
+                    )
+                    (PP 
+                      (IN ao_longo_de)
+                      (NP 
+                        (CD oito)
+                        (NN pisos)
+                        ({)
+                        (PP 
+                          (IN entre)
+                          (NP 
+                            (NP 
+                              (DT o)
+                              (NN segundo)
+                            )
+                            (CC e)
+                            (NP 
+                              (DT o)
+                              (NN nono)
+                            )
+                          )
+                        )
+                        (})
+                      )
+                    )
+                  )
+                )
+              )
+              (--)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP caberá)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT a)
+        (NN cadeia)
+        (NP 
+          (NNP Orion)
+        )
+        (,)
+        (ADJP 
+          (JJ pertencente)
+          (PP 
+            (IN a+)
+            (NP 
+              (DT os)
+              (NN sócios)
+              (ADJP 
+                (JJ franceses)
+              )
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN grupo)
+                  (NP 
+                    (NNP Amorim)
+                  )
+                )
+              )
+              (,)
+              (ADJP 
+                (JJ maioritários)
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT a)
+                    (NNP Inogi)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

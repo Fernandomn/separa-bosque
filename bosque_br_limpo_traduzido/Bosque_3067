@@ -1,46 +1,76 @@
-(S (VP (NP (DT O)
-                                 (NN norte-americano)
-                                 (NP (NNP Evander_Holyfield)))
-                        (VP (VBP coloca))
-                        (NP (DT o)
-                                (NN t√≠tulo)
-                                (ADJP 
-                                  (JJ mundial))
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT os)
-                                         (NN pesos-pesados)
-                                         ({)
-                                         (PP 
-                                           (IN acima_de)
-                                           (NP 
-                                             (CD 86,183)
-                                             (NN quilos)))
-                                         (})
-                                         (,)
-                                         (NP 
-                                           (NN vers√£o)
-                                           (_CU_ 
-                                             (NP 
-                                               (NNP Associa√ß√£o_Mundial)
-                                               ({)
-                                               (NP 
-                                                 (NNP AMB))
-                                               (}))
-                                             (CC e)
-                                             (NP 
-                                               (NNP Federa√ß√£o_Internacional)
-                                               ({)
-                                               (NP 
-                                                 (NNP FIB))
-                                               (})))))))
-                        (,)
-                        (ADVP (RB hoje))
-                        (,)
-                        (PP (IN contra)
-                                 (NP (DT o)
-                                        (PRP seu)
-                                        (NN compatriota)
-                                        (NP 
-                                          (NNP Michael_Moorer))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN norte-americano)
+      (NP 
+        (NNP Evander_Holyfield)
+      )
+    )
+    (VP 
+      (VBP coloca)
+    )
+    (NP 
+      (DT o)
+      (NN tÌtulo)
+      (ADJP 
+        (JJ mundial)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN pesos-pesados)
+          ({)
+          (PP 
+            (IN acima_de)
+            (NP 
+              (CD 86,183)
+              (NN quilos)
+            )
+          )
+          (})
+          (,)
+          (NP 
+            (NN vers„o)
+            (NP 
+              (NP 
+                (NNP AssociaÁ„o_Mundial)
+                ({)
+                (NP 
+                  (NNP AMB)
+                )
+                (})
+              )
+              e              (NP 
+                (NNP FederaÁ„o_Internacional)
+                ({)
+                (NP 
+                  (NNP FIB)
+                )
+                (})
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (ADVP 
+      (RB hoje)
+    )
+    (,)
+    (PP 
+      (IN contra)
+      (NP 
+        (DT o)
+        (PRP seu)
+        (NN compatriota)
+        (NP 
+          (NNP Michael_Moorer)
+        )
+      )
+    )
+    (.)
+  )
+)

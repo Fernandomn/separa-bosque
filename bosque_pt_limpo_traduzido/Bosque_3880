@@ -1,65 +1,102 @@
-(S (VP (ADVP (RB Depois)
-                                   (PP 
-                                     (IN de)
-                                     (VP 
-                                       (VP 
-                                         (VB terem)
-                                         (VBN ficado))
-                                       (PP 
-                                         (IN em)
-                                         (NP 
-                                           (NN terceiro)))
-                                       (PP 
-                                         (IN por)
-                                         (NP 
-                                           (NN equipas)))
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT o)
-                                           (JJ primeiro)
-                                           (NN campeonato)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (PRP esta)
-                                               (NN prova)
-                                               (,)
-                                               (VP 
-                                                 (NP 
-                                                   (PRP que))
-                                                 (VP 
-                                                   (VBP estÃ¡)
-                                                   (IN a)
-                                                   (VB decorrer))
-                                                 (PP 
-                                                   (IN sob)
-                                                   (NP 
-                                                     (NN condiÃ§Ãµes)
-                                                     (ADJP 
-                                                       (JJ atmosfÃ©ricas))
-                                                     (ADJP 
-                                                       (RB pouco)
-                                                       (JJ favorÃ¡veis))
-                                                     ({)
-                                                     (_CU_ 
-                                                       (NP 
-                                                         (NN chuva))
-                                                       (CC e)
-                                                       (NP 
-                                                         (NN vento)
-                                                         (Â«)
-                                                         (ADJP 
-                                                           (JJ on-shore))
-                                                         (Â»)))
-                                                     (})))))))))))
-                        (,)
-                        (NP (DT os)
-                                 (NN portugueses))
-                        (VP (VBP conseguiram))
-                        (ADVP (RB jÃ¡))
-                        (NP (JJ bons)
-                                (NN resultados)
-                                (ADJP 
-                                  (JJ individuais)))
-                        (--)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Depois)
+      (PP 
+        (IN de)
+        (VP 
+          (VP 
+            (VB terem)
+            (VBN ficado)
+          )
+          (PP 
+            (IN em)
+            (NP 
+              (NN terceiro)
+            )
+          )
+          (PP 
+            (IN por)
+            (NP 
+              (NN equipas)
+            )
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT o)
+              (JJ primeiro)
+              (NN campeonato)
+              (PP 
+                (IN de+)
+                (NP 
+                  (PRP esta)
+                  (NN prova)
+                  (,)
+                  (VP 
+                    (NP 
+                      (PRP que)
+                    )
+                    (VP 
+                      (VBP está)
+                      (IN a)
+                      (VB decorrer)
+                    )
+                    (PP 
+                      (IN sob)
+                      (NP 
+                        (NN condições)
+                        (ADJP 
+                          (JJ atmosféricas)
+                        )
+                        (ADJP 
+                          (RB pouco)
+                          (JJ favoráveis)
+                        )
+                        ({)
+                        (NP 
+                          (NP 
+                            (NN chuva)
+                          )
+                          (CC e)
+                          (NP 
+                            (NN vento)
+                            («)
+                            (ADJP 
+                              (JJ on-shore)
+                            )
+                            (»)
+                          )
+                        )
+                        (})
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT os)
+      (NN portugueses)
+    )
+    (VP 
+      (VBP conseguiram)
+    )
+    (ADVP 
+      (RB já)
+    )
+    (NP 
+      (JJ bons)
+      (NN resultados)
+      (ADJP 
+        (JJ individuais)
+      )
+    )
+    (--)
+  )
+)

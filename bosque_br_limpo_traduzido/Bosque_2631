@@ -1,43 +1,70 @@
-(S (VP (_CU_ (PP 
-                                   (IN Em+)
-                                   (NP 
-                                     (DT um)
-                                     (NN grupo)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (CD 30)
-                                         (NN pessoas)))))
-                                 (,)
-                                 (PP 
-                                   (IN entre)
-                                   (NP 
-                                     (_CU_ 
-                                       (NP 
-                                         (NN jogadores))
-                                       (,)
-                                       (NP 
-                                         (NN tÃ©cnicos))
-                                       (,)
-                                       (NP 
-                                         (NN mÃ©dicos))
-                                       (CC e)
-                                       (NP 
-                                         (NN massagistas)))
-                                     (,)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP devem)
-                                         (VB conviver))
-                                       (PP 
-                                         (IN durante)
-                                         (NP 
-                                           (PRP tanto)
-                                           (NN tempo)))))))
-                        (,)
-                        (VP (VBP surgem))
-                        (NP (NN problemas))
-                        (ADVP (RB diariamente))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (PP 
+        (IN Em+)
+        (NP 
+          (DT um)
+          (NN grupo)
+          (PP 
+            (IN de)
+            (NP 
+              (CD 30)
+              (NN pessoas)
+            )
+          )
+        )
+      )
+      (,)
+      (PP 
+        (IN entre)
+        (NP 
+          (NP 
+            (NP 
+              (NN jogadores)
+            )
+            (,)
+            (NP 
+              (NN técnicos)
+            )
+            (,)
+            (NP 
+              (NN médicos)
+            )
+            e            (NP 
+              (NN massagistas)
+            )
+          )
+          (,)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP devem)
+              (VB conviver)
+            )
+            (PP 
+              (IN durante)
+              (NP 
+                (PRP tanto)
+                (NN tempo)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP surgem)
+    )
+    (NP 
+      (NN problemas)
+    )
+    (ADVP 
+      (RB diariamente)
+    )
+    (.)
+  )
+)

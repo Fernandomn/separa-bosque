@@ -1,10 +1,19 @@
-(S (NP (NN ToxicodependÃªncia)
-                       (;)
-                       (_CU_ (VP 
-                                    (VP 
-                                      (VB falar))
-                                    (ADVP 
-                                      (RB claro)))
-                                  (CC ou)
-                                  (VB confundir))
-                       (?)))
+(S 
+  (NP 
+    (NN Toxicodependência)
+    (;)
+    (UCP 
+      (VP 
+        (VP 
+          (VB falar)
+        )
+        (ADVP 
+          (RB claro)
+        )
+      )
+      (CC ou)
+      (VB confundir)
+    )
+    (?)
+  )
+)

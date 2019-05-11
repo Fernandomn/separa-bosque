@@ -1,18 +1,41 @@
-(S (VP (NP (DT A)
-                                 (NN heroÃ­na))
-                        (VP (VBP Ã©))
-                        (NP (_CU_ (VP 
-                                          (ADVP 
-                                            (RB cada_vez_mais)))))
-                        (NP (DT uma)
-                                (NN droga)
-                                (_CU_ (VP 
-                                          (VP 
-                                            (VBN fumada)))
-                                        (CC e)
-                                        (VP 
-                                          (ADVP 
-                                            (RB menos))
-                                          (VP 
-                                            (VBN injectada)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN heroína)
+    )
+    (VP 
+      (VBP é)
+    )
+    (NP 
+      (VP 
+        (VP 
+          (ADVP 
+            (RB cada_vez_mais)
+          )
+        )
+      )
+    )
+    (NP 
+      (DT uma)
+      (NN droga)
+      (VP 
+        (VP 
+          (VP 
+            (VBN fumada)
+          )
+        )
+        (CC e)
+        (VP 
+          (ADVP 
+            (RB menos)
+          )
+          (VP 
+            (VBN injectada)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

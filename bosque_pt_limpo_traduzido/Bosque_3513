@@ -1,36 +1,61 @@
-(S (VP (NP (NN Analistas))
-                        (VP (VBP disseram))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT a)
-                                   (NN reuni√£o)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (NNP G7))))
-                                 (VP (VBP pode)
-                                       (VB terminar))
-                                 (PP 
-                                   (IN com)
-                                   (NP 
-                                     (DT o)
-                                     (NN diferendo)
-                                     (PP 
-                                       (IN entre)
-                                       (_CU_ 
-                                         (NP 
-                                           (NNP Washington))
-                                         (CC e)
-                                         (NP 
-                                           (NNP T√≥quio))))
-                                     (ADJP 
-                                       (JJ relativo)
-                                       (PP 
-                                         (IN a+)
-                                         (NP 
-                                           (DT o)
-                                           (NN sector)
-                                           (NP 
-                                             (NN autom√≥vel))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Analistas)
+    )
+    (VP 
+      (VBP disseram)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT a)
+        (NN reuni„o)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NNP G7)
+          )
+        )
+      )
+      (VP 
+        (VBP pode)
+        (VB terminar)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (DT o)
+          (NN diferendo)
+          (PP 
+            (IN entre)
+            (NP 
+              (NP 
+                (NNP Washington)
+              )
+              (CC e)
+              (NP 
+                (NNP TÛquio)
+              )
+            )
+          )
+          (ADJP 
+            (JJ relativo)
+            (PP 
+              (IN a+)
+              (NP 
+                (DT o)
+                (NN sector)
+                (NP 
+                  (NN automÛvel)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

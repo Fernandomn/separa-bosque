@@ -1,9 +1,22 @@
-(S (VP (NP (NP ex-jogadores))
-                        (VP (VBP elogiam))
-                        (NP (DT os)
-                                (NN colunistas)
-                                (_CU_ (NP 
-                                         (NNP TelÃª))
-                                       (CC e)
-                                       (NP 
-                                         (NNP Cruyff))))))
+(S 
+  (VP 
+    (NP 
+      (NP ex-jogadores)
+    )
+    (VP 
+      (VBP elogiam)
+    )
+    (NP 
+      (DT os)
+      (NN colunistas)
+      (NP 
+        (NP 
+          (NNP Telê)
+        )
+        e        (NP 
+          (NNP Cruyff)
+        )
+      )
+    )
+  )
+)

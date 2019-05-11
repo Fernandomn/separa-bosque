@@ -1,45 +1,75 @@
-(S (NP (CC Ou)
-                       (,)
-                       (DT o)
-                       (PP (IN atÃ©)
-                              (RB aqui))
-                       (RB melhor)
-                       (PP (IN de)
-                                 (NP (PRP todos)))
-                       (,)
-                       (NP (DT o)
-                               (_CU_ (NP 
-                                       (NNP Holanda))
-                                     (-)
-                                     (NP 
-                                       (NNP Argentina)))
-                               (VP (NP 
-                                         (PRP que))
-                                       (,)
-                                       (PP 
-                                         (PP por_si)
-                                         (RB sÃ³))
-                                       (,)
-                                       (VP 
-                                         (VBP justifica))
-                                       (_CU_ 
-                                         (NP 
-                                           (DT a)
-                                           (NN existÃªncia)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (DT um)
-                                               (NN campeonato))))
-                                         (CC e)
-                                         (NP 
-                                           (DT a)
-                                           (NN paixÃ£o)
-                                           (VP 
-                                             (NP 
-                                               (PRP que))
-                                             (NP 
-                                               (PRP todos))
-                                             (VP 
-                                               (VBP temos)))))))
-                       (?)))
+(S 
+  (NP 
+    (CC Ou)
+    (,)
+    (DT o)
+    (PP 
+      (IN até)
+      (RB aqui)
+    )
+    (RB melhor)
+    (PP 
+      (IN de)
+      (NP 
+        (PRP todos)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (UCP 
+        (NP 
+          (NNP Holanda)
+        )
+        (-)
+        (NP 
+          (NNP Argentina)
+        )
+      )
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (,)
+        (PP 
+          (PP por_si)
+          (RB só)
+        )
+        (,)
+        (VP 
+          (VBP justifica)
+        )
+        (NP 
+          (NP 
+            (DT a)
+            (NN existência)
+            (PP 
+              (IN de)
+              (NP 
+                (DT um)
+                (NN campeonato)
+              )
+            )
+          )
+          (CC e)
+          (NP 
+            (DT a)
+            (NN paixão)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (NP 
+                (PRP todos)
+              )
+              (VP 
+                (VBP temos)
+              )
+            )
+          )
+        )
+      )
+    )
+    (?)
+  )
+)

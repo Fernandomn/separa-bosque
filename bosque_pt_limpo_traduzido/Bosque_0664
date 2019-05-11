@@ -1,26 +1,53 @@
-(S (VP (PP (IN Segundo)
-                                 (NP (NN responsÃ¡veis)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN clube)
-                                            (ADJP 
-                                              (JJ aveirense))))))
-                        (,)
-                        (NP (NNP Mike_Smith))
-                        (VP (VBP apresentou-))
-                        (NP (PRP se))
-                        (_CU_ (PP (IN em)
-                                       (NP 
-                                         (JJ deficientes)
-                                         (NN condiÃ§Ãµes)
-                                         (ADJP 
-                                           (JJ fÃ­sicas))))
-                               (CC e)
-                               (PP (IN sem)
-                                       (NP 
-                                         (NN ritmo)
-                                         (ADJP 
-                                           (JJ competitivo)))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Segundo)
+      (NP 
+        (NN responsáveis)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN clube)
+            (ADJP 
+              (JJ aveirense)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP Mike_Smith)
+    )
+    (VP 
+      (VBP apresentou-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (PP 
+        (IN em)
+        (NP 
+          (JJ deficientes)
+          (NN condições)
+          (ADJP 
+            (JJ físicas)
+          )
+        )
+      )
+      (CC e)
+      (PP 
+        (IN sem)
+        (NP 
+          (NN ritmo)
+          (ADJP 
+            (JJ competitivo)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

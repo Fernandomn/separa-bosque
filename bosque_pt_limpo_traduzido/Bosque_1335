@@ -1,13 +1,33 @@
-(S (_CU_ (VP (VP (VBP Tinham))
-                                (NP (PRP a)
-                                        (NN barba))
-                                (PP (IN por)
-                                        (VP 
-                                          (VB fazer))))
-                       (,)
-                       (VP (VP (VBP estavam))
-                                (_CU_ (VBN exaustos)
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ famintos))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP Tinham)
+      )
+      (NP 
+        (PRP a)
+        (NN barba)
+      )
+      (PP 
+        (IN por)
+        (VP 
+          (VB fazer)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBP estavam)
+      )
+      (UCP 
+        (VBN exaustos)
+        (CC e)
+        (ADJP 
+          (JJ famintos)
+        )
+      )
+    )
+    (.)
+  )
+)

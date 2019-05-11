@@ -1,63 +1,102 @@
-(S (VP (_CU_ (PP 
-                                   (IN Para_al√©m_de)
-                                   (NP 
-                                     (NN problemas)
-                                     (ADJP 
-                                       (JJ salariais))
-                                     (,)
-                                     (ADJP 
-                                       (RB mais_ou_menos)
-                                       (VBN complicados))
-                                     (,)))
-                                 (PP 
-                                   (IN de)
-                                   (NP 
-                                     (NN alojamentos)
-                                     (_CU_ 
-                                       (ADJP 
-                                         (JJ dif√≠ceis)
-                                         (PP 
-                                           (IN de)
-                                           (VB encontrar)))
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ caros))))))
-                        (,)
-                        (NP (DT a)
-                                 (NN quest√£o)
-                                 (ADJP 
-                                   (RB mais)
-                                   (JJ sens√≠vel)))
-                        (VP (VBP acaba)
-                              (IN por)
-                              (VB ser))
-                        (_CU_ (PP (IN de)
-                                       (NP 
-                                         (NN ordem)
-                                         (ADJP 
-                                           (JJ familiar))))
-                               (,)
-                               (NP (RB principalmente)
-                                       (PRP as)
-                                       (VP 
-                                         (VP 
-                                           (VBN relacionadas))
-                                         (_CU_ 
-                                           (PP 
-                                             (IN com)
-                                             (NP 
-                                               (NN filhos)
-                                               (PP 
-                                                 (IN em)
-                                                 (NP 
-                                                   (NN idade)
-                                                   (ADJP 
-                                                     (JJ escolar))))))
-                                           (CC e)
-                                           (PP 
-                                             (IN com)
-                                             (NP 
-                                               (DT a)
-                                               (JJ respectiva)
-                                               (NN educa√ß√£o)))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (PP 
+        (IN Para_alÈm_de)
+        (NP 
+          (NN problemas)
+          (ADJP 
+            (JJ salariais)
+          )
+          (,)
+          (ADJP 
+            (RB mais_ou_menos)
+            (VBN complicados)
+          )
+          (,)
+        )
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NN alojamentos)
+          (ADJP 
+            (ADJP 
+              (JJ difÌceis)
+              (PP 
+                (IN de)
+                (VB encontrar)
+              )
+            )
+            (CC e)
+            (ADJP 
+              (JJ caros)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NN quest„o)
+      (ADJP 
+        (RB mais)
+        (JJ sensÌvel)
+      )
+    )
+    (VP 
+      (VBP acaba)
+      (IN por)
+      (VB ser)
+    )
+    (UCP 
+      (PP 
+        (IN de)
+        (NP 
+          (NN ordem)
+          (ADJP 
+            (JJ familiar)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (RB principalmente)
+        (PRP as)
+        (VP 
+          (VP 
+            (VBN relacionadas)
+          )
+          (PP 
+            (PP 
+              (IN com)
+              (NP 
+                (NN filhos)
+                (PP 
+                  (IN em)
+                  (NP 
+                    (NN idade)
+                    (ADJP 
+                      (JJ escolar)
+                    )
+                  )
+                )
+              )
+            )
+            (CC e)
+            (PP 
+              (IN com)
+              (NP 
+                (DT a)
+                (JJ respectiva)
+                (NN educaÁ„o)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

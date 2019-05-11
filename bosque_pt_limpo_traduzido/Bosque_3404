@@ -1,55 +1,90 @@
-(S (VP (ADJP (CD 13)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NNP Setembro))))
-                        (--)
-                        (NP (DT O)
-                                 (NNP Comit√©_Monet√°rio_da_Comunidade))
-                        (VP (VBP opta))
-                        (PP (IN por)
-                                (NP (DT um)
-                                       (NN realinhamento)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP SME)))))
-                        (,)
-                        (PP (IN com)
-                                 (_CU_ (NP 
-                                          (DT a)
-                                          (NN desvaloriza√ß√£o)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN lira)
-                                              (ADJP 
-                                                (JJ italiana))))
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (CD 3,5)
-                                              (NN por_cento))))
-                                        (CC e)
-                                        (NP 
-                                          (DT a)
-                                          (NN valoriza√ß√£o)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT as)
-                                              (JJ restantes)
-                                              (NN divisas)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN Sistema)))))
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (CD 3,5)
-                                              (NN por_cento))))))
-                        (.)))
+(S 
+  (VP 
+    (ADJP 
+      (CD 13)
+      (PP 
+        (IN de)
+        (NP 
+          (NNP Setembro)
+        )
+      )
+    )
+    (--)
+    (NP 
+      (DT O)
+      (NNP ComitÈ_Monet·rio_da_Comunidade)
+    )
+    (VP 
+      (VBP opta)
+    )
+    (PP 
+      (IN por)
+      (NP 
+        (DT um)
+        (NN realinhamento)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NNP SME)
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN com)
+      (NP 
+        (NP 
+          (DT a)
+          (NN desvalorizaÁ„o)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN lira)
+              (ADJP 
+                (JJ italiana)
+              )
+            )
+          )
+          (PP 
+            (IN em)
+            (NP 
+              (CD 3,5)
+              (NN por_cento)
+            )
+          )
+        )
+        (CC e)
+        (NP 
+          (DT a)
+          (NN valorizaÁ„o)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT as)
+              (JJ restantes)
+              (NN divisas)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN Sistema)
+                )
+              )
+            )
+          )
+          (PP 
+            (IN em)
+            (NP 
+              (CD 3,5)
+              (NN por_cento)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

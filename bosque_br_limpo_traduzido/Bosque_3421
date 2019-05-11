@@ -1,37 +1,64 @@
-(S (_CU_ (VP (ADVP 
-                                  (RB Por_que))
-                                (ADVP 
-                                  (RB n√£o))
-                                (VP (VB publicar))
-                                (VP 
-                                  (IN que)
-                                  (NP 
-                                    (DT o)
-                                    (NNP PT))
-                                  (VP (VBP fez))
-                                  (NP 
-                                    (DT um)
-                                    (NN semin√°rio))
-                                  (PP 
-                                    (IN em+)
-                                    (NP 
-                                      (DT o)
-                                      (NN Nordeste)))
-                                  (NP 
-                                    (PP 
-                                      (IN sobre)
-                                      (NP 
-                                        (PRP ela))))))
-                       (CC e)
-                       (VP (VP (VBP concluiu))
-                                (PP 
-                                  (IN por+)
-                                  (NP 
-                                    (DT a)
-                                    (NN necessidade)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (PRP sua)
-                                        (NN constru√ß√£o))))))
-                       (?)))
+(S 
+  (UCP 
+    (VP 
+      (ADVP 
+        (RB Por_que)
+      )
+      (ADVP 
+        (RB n„o)
+      )
+      (VP 
+        (VB publicar)
+      )
+      (VP 
+        (IN que)
+        (NP 
+          (DT o)
+          (NNP PT)
+        )
+        (VP 
+          (VBP fez)
+        )
+        (NP 
+          (DT um)
+          (NN semin·rio)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NN Nordeste)
+          )
+        )
+        (NP 
+          (PP 
+            (IN sobre)
+            (NP 
+              (PRP ela)
+            )
+          )
+        )
+      )
+    )
+    e    (VP 
+      (VP 
+        (VBP concluiu)
+      )
+      (PP 
+        (IN por+)
+        (NP 
+          (DT a)
+          (NN necessidade)
+          (PP 
+            (IN de)
+            (NP 
+              (PRP sua)
+              (NN construÁ„o)
+            )
+          )
+        )
+      )
+    )
+    (?)
+  )
+)

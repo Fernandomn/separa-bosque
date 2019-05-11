@@ -1,46 +1,78 @@
-(S (VP (VP (VBP Parece-))
-                        (NP (PRP me))
-                        (VP (IN que)
-                                  (PP 
-                                    (IN em+)
-                                    (NP 
-                                      (PRP ela)))
-                                  (NP 
-                                    (PRP se))
-                                  (VP (VBP continuam))
-                                  (_CU_ 
-                                    (PP 
-                                      (IN a)
-                                      (VP 
-                                        (VP 
-                                          (VB misturar))
-                                        (NP 
-                                          (NN alhos))
-                                        (PP 
-                                          (IN com)
-                                          (NP 
-                                            (NN bugalhos)))))
-                                    (CC e)
-                                    (PP 
-                                      (IN a)
-                                      (VP 
-                                        (ADVP 
-                                          (RB n√£o))
-                                        (VP 
-                                          (VB hierarquizar))
-                                        (ADVP 
-                                          (RB adequadamente))
-                                        (_CU_ 
-                                          (CC nem)
-                                          (NP 
-                                            (DT as)
-                                            (NN convic√ß√µes)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN f√©))))
-                                          (CC nem)
-                                          (NP 
-                                            (DT as)
-                                            (NN raz√µes)))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Parece-)
+    )
+    (NP 
+      (PRP me)
+    )
+    (VP 
+      (IN que)
+      (PP 
+        (IN em+)
+        (NP 
+          (PRP ela)
+        )
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP continuam)
+      )
+      (PP 
+        (PP 
+          (IN a)
+          (VP 
+            (VP 
+              (VB misturar)
+            )
+            (NP 
+              (NN alhos)
+            )
+            (PP 
+              (IN com)
+              (NP 
+                (NN bugalhos)
+              )
+            )
+          )
+        )
+        (CC e)
+        (PP 
+          (IN a)
+          (VP 
+            (ADVP 
+              (RB n„o)
+            )
+            (VP 
+              (VB hierarquizar)
+            )
+            (ADVP 
+              (RB adequadamente)
+            )
+            (NP 
+              (CC nem)
+              (NP 
+                (DT as)
+                (NN convicÁıes)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN fÈ)
+                  )
+                )
+              )
+              (CC nem)
+              (NP 
+                (DT as)
+                (NN razıes)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

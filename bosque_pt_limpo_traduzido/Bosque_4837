@@ -1,20 +1,41 @@
-(S (VP (NP (NNP MÃ¡rio_CarrascalÃ£o))
-                        (VP (VBP desempenhou))
-                        (NP (DT as)
-                                (NN funÃ§Ãµes)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN governador)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NNP Timor-Leste))))))
-                        (_CU_ (PP 
-                                   (IN de)
-                                   (NP 
-                                     (CD 1982)))
-                                 (PP 
-                                   (IN a)
-                                   (ADJP 
-                                     (CD 1992))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Mário_Carrascalão)
+    )
+    (VP 
+      (VBP desempenhou)
+    )
+    (NP 
+      (DT as)
+      (NN funções)
+      (PP 
+        (IN de)
+        (NP 
+          (NN governador)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Timor-Leste)
+            )
+          )
+        )
+      )
+    )
+    (PP 
+      (PP 
+        (IN de)
+        (NP 
+          (CD 1982)
+        )
+      )
+      (PP 
+        (IN a)
+        (ADJP 
+          (CD 1992)
+        )
+      )
+    )
+    (.)
+  )
+)

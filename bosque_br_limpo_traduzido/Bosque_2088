@@ -1,39 +1,63 @@
-(S (VP (VP (VBP Teremos))
-                        (NP (DT o)
-                                (NN balan√ßo)
-                                (PP (IN entre)
-                                       (_CU_ 
-                                         (NP 
-                                           (NN defesa))
-                                         (CC e)
-                                         (NP 
-                                           (NN ataque))))
-                                (_CU_ (VP 
-                                         (NP 
-                                           (PRP que))
-                                         (_CU_ 
-                                           (CC tanto)
-                                           (NP 
-                                             (NNP Zagalo))
-                                           (CC e)
-                                           (NP 
-                                             (NNP Parreira)))
-                                         (VP 
-                                           (VBP defendem)))
-                                       (,)
-                                       (CC mas)
-                                       (VP 
-                                         (NP 
-                                           (PRP que))
-                                         (NP 
-                                           (DT o)
-                                           (NN time))
-                                         (ADVP 
-                                           (RB n√£o))
-                                         (VP 
-                                           (VBP revela))
-                                         (PP 
-                                           (IN em)
-                                           (NP 
-                                             (NN campo))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Teremos)
+    )
+    (NP 
+      (DT o)
+      (NN balanÁo)
+      (PP 
+        (IN entre)
+        (NP 
+          (NP 
+            (NN defesa)
+          )
+          e          (NP 
+            (NN ataque)
+          )
+        )
+      )
+      (VP 
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (NP 
+            tanto            (NP 
+              (NNP Zagalo)
+            )
+            e            (NP 
+              (NNP Parreira)
+            )
+          )
+          (VP 
+            (VBP defendem)
+          )
+        )
+        (,)
+        mas        (VP 
+          (NP 
+            (PRP que)
+          )
+          (NP 
+            (DT o)
+            (NN time)
+          )
+          (ADVP 
+            (RB n„o)
+          )
+          (VP 
+            (VBP revela)
+          )
+          (PP 
+            (IN em)
+            (NP 
+              (NN campo)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

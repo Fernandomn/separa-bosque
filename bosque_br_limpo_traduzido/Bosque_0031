@@ -1,32 +1,62 @@
-(S (_CU_ (VP (NP (PRP Essas)
-                                       (NN medidas))
-                              (VP (VBP reduziram))
-                              (NP (DT a)
-                                      (NN disponibilidade)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN dinheiro))))
-                              (PP 
-                                (IN em+)
-                                (NP (DT o)
-                                       (NN sistema)
-                                       (ADJP 
-                                         (JJ banc√°rio)))))
-                     (CC e)
-                     (VP (NP (DT os)
-                                       (JJ grandes)
-                                       (NN bancos))
-                              (VP (VBP passaram)
-                                     (IN a))
-                              (ADVP 
-                                (RB n√£o))
-                              (VP (VB fornecer))
-                              (NP (NN recursos)
-                                      (PP 
-                                        (IN para)
-                                        (NP 
-                                          (DT as)
-                                          (JJ pequenas)
-                                          (NN institui√ß√µes)))))
-                     (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (PRP Essas)
+        (NN medidas)
+      )
+      (VP 
+        (VBP reduziram)
+      )
+      (NP 
+        (DT a)
+        (NN disponibilidade)
+        (PP 
+          (IN de)
+          (NP 
+            (NN dinheiro)
+          )
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN sistema)
+          (ADJP 
+            (JJ banc·rio)
+          )
+        )
+      )
+    )
+    e    (VP 
+      (NP 
+        (DT os)
+        (JJ grandes)
+        (NN bancos)
+      )
+      (VP 
+        (VBP passaram)
+        (IN a)
+      )
+      (ADVP 
+        (RB n„o)
+      )
+      (VP 
+        (VB fornecer)
+      )
+      (NP 
+        (NN recursos)
+        (PP 
+          (IN para)
+          (NP 
+            (DT as)
+            (JJ pequenas)
+            (NN instituiÁıes)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

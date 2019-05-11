@@ -1,34 +1,52 @@
-(S (NP (NN Exemplo)
-                       (;)
-                       (NP (NN pneumot√≥rax)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (NN tens√£o)))
-                                  ([)
-                                  (NP 
-                                    (NN ar)
-                                    (PP 
-                                      (IN dentro_de+)
-                                      (NP 
-                                        (DT a)
-                                        (NN cavidade)
-                                        (ADJP 
-                                          (JJ pleural))))
-                                    (PP 
-                                      (IN a)
-                                      (VP 
-                                        (VP 
-                                          (VB comprimir))
-                                        (_CU_ 
-                                          (NP 
-                                            (DT os)
-                                            (NN pulm√µes))
-                                          (CC e)
-                                          (NP 
-                                            (DT o)
-                                            (NN cora√ß√£o)
-                                            (,)
-                                            (RB eventualmente))))))
-                                  (]))
-                       (.)))
+(S 
+  (NP 
+    (NN Exemplo)
+    (;)
+    (NP 
+      (NN pneumotÛrax)
+      (PP 
+        (IN de)
+        (NP 
+          (NN tens„o)
+        )
+      )
+      ([)
+      (NP 
+        (NN ar)
+        (PP 
+          (IN dentro_de+)
+          (NP 
+            (DT a)
+            (NN cavidade)
+            (ADJP 
+              (JJ pleural)
+            )
+          )
+        )
+        (PP 
+          (IN a)
+          (VP 
+            (VP 
+              (VB comprimir)
+            )
+            (NP 
+              (NP 
+                (DT os)
+                (NN pulmıes)
+              )
+              (CC e)
+              (NP 
+                (DT o)
+                (NN coraÁ„o)
+                (,)
+                (RB eventualmente)
+              )
+            )
+          )
+        )
+      )
+      (])
+    )
+    (.)
+  )
+)

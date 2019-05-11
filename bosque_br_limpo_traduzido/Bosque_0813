@@ -1,33 +1,56 @@
-(S (VP (NP (PRP VÃ¡rias)
-                                 (NN empresas)
-                                 (VP 
-                                   (VP 
-                                     (VBN ligadas))
-                                   (PP 
-                                     (IN a)
-                                     (NP 
-                                       (PRP este)
-                                       (NN MinistÃ©rio)))))
-                        (VP (VBP converteram))
-                        (NP (DT os)
-                                (NN salÃ¡rios))
-                        (_CU_ (PP (IN por+)
-                                        (NP 
-                                          (DT o)
-                                          (Â«)
-                                          (NN pico)
-                                          (Â»)))
-                                (CC e)
-                                (PP (RB nÃ£o)
-                                        (IN por+)
-                                        (NP 
-                                          (DT a)
-                                          (NN mÃ©dia)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT os)
-                                              (JJ Ãºltimos)
-                                              (CD quatro)
-                                              (NN meses))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Várias)
+      (NN empresas)
+      (VP 
+        (VP 
+          (VBN ligadas)
+        )
+        (PP 
+          (IN a)
+          (NP 
+            (PRP este)
+            (NN Ministério)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP converteram)
+    )
+    (NP 
+      (DT os)
+      (NN salários)
+    )
+    (PP 
+      (PP 
+        (IN por+)
+        (NP 
+          (DT o)
+          («)
+          (NN pico)
+          (»)
+        )
+      )
+      e      (PP 
+        (RB não)
+        (IN por+)
+        (NP 
+          (DT a)
+          (NN média)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (JJ últimos)
+              (CD quatro)
+              (NN meses)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

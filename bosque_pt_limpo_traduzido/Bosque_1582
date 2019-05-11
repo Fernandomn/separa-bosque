@@ -1,87 +1,135 @@
-(S (VP (VP (ADVP 
-                                    (RB Quando))
-                                  (,)
-                                  (PP 
-                                    (IN em+)
-                                    (NP 
-                                      (DT a)
-                                      (JJ primeira)
-                                      (NN cena)))
-                                  (,)
-                                  (NP 
-                                    (NNP TomÃ©)
-                                    (--)
-                                    (_CU_ 
-                                      (NP 
-                                        (NN amigo))
-                                      (CC e)
-                                      (NP 
-                                        (NN cÃºmplice)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NNP Mateus)))
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT o)
-                                            (NN assassÃ­nio)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT a)
-                                                (NN moÃ§a)))))))
-                                    (--))
-                                  (VP (VBP fala))
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT o)
-                                      (NN macaquinho)
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (NP 
-                                          (DT um)
-                                          (NN amigo))
-                                        (NP 
-                                          (PRP lhe))
-                                        (VP 
-                                          (VBP vai)
-                                          (VB trazer))
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NNP Angola)))))))
-                        (,)
-                        (VP (VBP estÃ¡)
-                              (IN a)
-                              (VB falar))
-                        (_CU_ (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN arma)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NN crime)))))
-                                (,)
-                                (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (Â«)
-                                          (NN macaco)
-                                          (Â»)
-                                          (VP 
-                                            (PP 
-                                              (IN com)
-                                              (NP 
-                                                (PRP que)))
-                                            (NP 
-                                              (NNP Mateus))
-                                            (VP 
-                                              (VBP matarÃ¡))
-                                            (NP 
-                                              (NNP Sandra))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (ADVP 
+        (RB Quando)
+      )
+      (,)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (JJ primeira)
+          (NN cena)
+        )
+      )
+      (,)
+      (NP 
+        (NNP Tomé)
+        (--)
+        (NP 
+          (NP 
+            (NN amigo)
+          )
+          (CC e)
+          (NP 
+            (NN cúmplice)
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Mateus)
+              )
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NN assassínio)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NN moça)
+                  )
+                )
+              )
+            )
+          )
+        )
+        (--)
+      )
+      (VP 
+        (VBP fala)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN macaquinho)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (NP 
+              (DT um)
+              (NN amigo)
+            )
+            (NP 
+              (PRP lhe)
+            )
+            (VP 
+              (VBP vai)
+              (VB trazer)
+            )
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Angola)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP está)
+      (IN a)
+      (VB falar)
+    )
+    (PP 
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN arma)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN crime)
+            )
+          )
+        )
+      )
+      (,)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          («)
+          (NN macaco)
+          (»)
+          (VP 
+            (PP 
+              (IN com)
+              (NP 
+                (PRP que)
+              )
+            )
+            (NP 
+              (NNP Mateus)
+            )
+            (VP 
+              (VBP matará)
+            )
+            (NP 
+              (NNP Sandra)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

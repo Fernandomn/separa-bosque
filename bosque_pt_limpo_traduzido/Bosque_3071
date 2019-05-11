@@ -1,61 +1,94 @@
-(S (VP (NP (NNP Meyer))
-                        (VP (VBP publicou))
-                        (NP (PRP esta)
-                                (NN informaÃ§Ã£o))
-                        (PP (IN em+)
-                                 (NP (DT um)
-                                        (NN romance)
-                                        (,)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (ADVP 
-                                            (RB depois))
-                                          (VP 
-                                            (VBP adaptou))
-                                          (PP 
-                                            (IN a+)
-                                            (NP 
-                                              (DT o)
-                                              (NN cinema)))
-                                          (,)
-                                          (PP 
-                                            (IN com)
-                                            (NP 
-                                              (DT o)
-                                              (NN tÃ­tulo)
-                                              (PP 
-                                                (RB justamente)
-                                                (IN de)
-                                                (Â«)
-                                                (NP 
-                                                  (NNP A_SoluÃ§Ã£o_a_sete_e_meio_por_cento))
-                                                (Â»))))
-                                          ({)
-                                          (VP 
-                                            (ADVP 
-                                              (RB talvez))
-                                            (VP 
-                                              (VBP haja))
-                                            (NP 
-                                              (JJ melhor)
-                                              (NN traduÃ§Ã£o)
-                                              (PP 
-                                                (IN para)
-                                                (Â«)
-                                                (NP 
-                                                  (NNP The_7,5_per_cent_Solution))
-                                                (Â»))
-                                              (;)
-                                              (Â«)
-                                              (_CU_ 
-                                                (NP 
-                                                  (NNP Uma_SoluÃ§Ã£o_a_sete_e_meio_por_cento))
-                                                (Â»)
-                                                (,)
-                                                (Â«)
-                                                (NP 
-                                                  (NNP Sete_e_meio_por_cento_de_SoluÃ§Ã£o))
-                                                (Â»)
-                                                (?))))
-                                          (}))))))
+(S 
+  (VP 
+    (NP 
+      (NNP Meyer)
+    )
+    (VP 
+      (VBP publicou)
+    )
+    (NP 
+      (PRP esta)
+      (NN informação)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT um)
+        (NN romance)
+        (,)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (ADVP 
+            (RB depois)
+          )
+          (VP 
+            (VBP adaptou)
+          )
+          (PP 
+            (IN a+)
+            (NP 
+              (DT o)
+              (NN cinema)
+            )
+          )
+          (,)
+          (PP 
+            (IN com)
+            (NP 
+              (DT o)
+              (NN título)
+              (PP 
+                (RB justamente)
+                (IN de)
+                («)
+                (NP 
+                  (NNP A_Solução_a_sete_e_meio_por_cento)
+                )
+                (»)
+              )
+            )
+          )
+          ({)
+          (VP 
+            (ADVP 
+              (RB talvez)
+            )
+            (VP 
+              (VBP haja)
+            )
+            (NP 
+              (JJ melhor)
+              (NN tradução)
+              (PP 
+                (IN para)
+                («)
+                (NP 
+                  (NNP The_7,5_per_cent_Solution)
+                )
+                (»)
+              )
+              (;)
+              («)
+              (UCP 
+                (NP 
+                  (NNP Uma_Solução_a_sete_e_meio_por_cento)
+                )
+                (»)
+                (,)
+                («)
+                (NP 
+                  (NNP Sete_e_meio_por_cento_de_Solução)
+                )
+                (»)
+                (?)
+              )
+            )
+          )
+          (})
+        )
+      )
+    )
+  )
+)

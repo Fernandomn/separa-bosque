@@ -1,19 +1,36 @@
-(S (VP (PP (IN A)
-                                 (VB acabar))
-                        (VP (VBP confirmou))
-                        (NP (DT a)
-                                (PRP sua)
-                                (NN regularidade))
-                        (PP (IN com)
-                                 (_CU_ (NP 
-                                          (CD 61,87)
-                                          (NN m))
-                                        (,)
-                                        (NP 
-                                          (CD 62,84)
-                                          (NN m))
-                                        (CC e)
-                                        (NP 
-                                          (CD 63,09)
-                                          (NN m))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN A)
+      (VB acabar)
+    )
+    (VP 
+      (VBP confirmou)
+    )
+    (NP 
+      (DT a)
+      (PRP sua)
+      (NN regularidade)
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (NP 
+          (CD 61,87)
+          (NN m)
+        )
+        (,)
+        (NP 
+          (CD 62,84)
+          (NN m)
+        )
+        (CC e)
+        (NP 
+          (CD 63,09)
+          (NN m)
+        )
+      )
+    )
+    (.)
+  )
+)

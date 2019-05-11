@@ -1,38 +1,62 @@
-(S (VP (NP (PRP NinguÃ©m))
-                        (VP (VBP ignora))
-                        (NP (DT os)
-                                (JJ terrÃ­veis)
-                                (NN problemas)
-                                (VP (NP 
-                                          (PRP que))
-                                        (NP 
-                                          (DT o)
-                                          (NN paÃ­s))
-                                        (VP 
-                                          (VBP atravessa)))
-                                (,)
-                                (PP 
-                                  (IN de+)
-                                  (VP 
-                                    (PRP os_quais)
-                                    (_CU_ 
-                                      (NP 
-                                        (DT a)
-                                        (NN corrupÃ§Ã£o)
-                                        (ADJP 
-                                          (JJ policial)))
-                                      (CC e)
-                                      (NP 
-                                        (DT os)
-                                        (NN nÃ­veis)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN violÃªncia)))))
-                                    (VP 
-                                      (VBP sÃ£o))
-                                    (NP 
-                                      (RB apenas)
-                                      (CD uma)
-                                      (NN faceta)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Ninguém)
+    )
+    (VP 
+      (VBP ignora)
+    )
+    (NP 
+      (DT os)
+      (JJ terríveis)
+      (NN problemas)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (NP 
+          (DT o)
+          (NN país)
+        )
+        (VP 
+          (VBP atravessa)
+        )
+      )
+      (,)
+      (PP 
+        (IN de+)
+        (VP 
+          (PRP os_quais)
+          (NP 
+            (NP 
+              (DT a)
+              (NN corrupção)
+              (ADJP 
+                (JJ policial)
+              )
+            )
+            e            (NP 
+              (DT os)
+              (NN níveis)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN violência)
+                )
+              )
+            )
+          )
+          (VP 
+            (VBP são)
+          )
+          (NP 
+            (RB apenas)
+            (CD uma)
+            (NN faceta)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

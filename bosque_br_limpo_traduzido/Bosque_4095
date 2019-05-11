@@ -1,21 +1,45 @@
-(S (VP (VP (VBP Podem)
-                              (VB produzir))
-                        (_CU_ (NP (JJ pequenas)
-                                        (NN brochuras))
-                                (,)
-                                (NP (NN mala)
-                                        (ADJP 
-                                          (JJ direta)))
-                                (,)
-                                (NP (NN folhetos)))
-                        (,)
-                        (VP 
-                          (VP (VBG realizando))
-                          (PP (IN at√©)
-                                   (NP 
-                                     (CD sete)
-                                     (NN impress√µes)))
-                          (PP (IN por)
-                                   (NP 
-                                     (NN minuto))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Podem)
+      (VB produzir)
+    )
+    (NP 
+      (NP 
+        (JJ pequenas)
+        (NN brochuras)
+      )
+      (,)
+      (NP 
+        (NN mala)
+        (ADJP 
+          (JJ direta)
+        )
+      )
+      (,)
+      (NP 
+        (NN folhetos)
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG realizando)
+      )
+      (PP 
+        (IN atÈ)
+        (NP 
+          (CD sete)
+          (NN impressıes)
+        )
+      )
+      (PP 
+        (IN por)
+        (NP 
+          (NN minuto)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,54 +1,82 @@
-(S (_CU_ (VP (NP 
-                                  (DT O)
-                                  (NN texto))
-                                (VP (VBP Ã©))
-                                (_CU_ (ADJP 
-                                         (JJ curto))
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ prÃ¡tico))))
-                       (CC e)
-                       (VP (NP 
-                                  (PRP todos)
-                                  (DT os)
-                                  (NN capÃ­tulos))
-                                (VP (VBP sÃ£o)
-                                      (VBN recheados))
-                                (PP 
-                                  (IN de)
-                                  (NP 
-                                    (_CU_ 
-                                      (NP 
-                                        (NN notas))
-                                      (,)
-                                      (NP 
-                                        (NN dicas))
-                                      (CC e)
-                                      (NP 
-                                        (NN alertas)))
-                                    (,)
-                                    (VP 
-                                      (VP 
-                                        (VBN ilustradas))
-                                      (PP 
-                                        (IN com)
-                                        (NP 
-                                          (DT as)
-                                          (JJ respectivas)
-                                          (NN figuras)
-                                          (_CU_ 
-                                            (Â«)
-                                            (NP 
-                                              (NN Note))
-                                            (Â»)
-                                            (,)
-                                            (Â«)
-                                            (NP 
-                                              (NN Tip))
-                                            (Â»)
-                                            (CC e)
-                                            (Â«)
-                                            (NP 
-                                              (NN Stop))
-                                            (Â»))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (NN texto)
+      )
+      (VP 
+        (VBP é)
+      )
+      (ADJP 
+        (ADJP 
+          (JJ curto)
+        )
+        e        (ADJP 
+          (JJ prático)
+        )
+      )
+    )
+    e    (VP 
+      (NP 
+        (PRP todos)
+        (DT os)
+        (NN capítulos)
+      )
+      (VP 
+        (VBP são)
+        (VBN recheados)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NP 
+            (NP 
+              (NN notas)
+            )
+            (,)
+            (NP 
+              (NN dicas)
+            )
+            e            (NP 
+              (NN alertas)
+            )
+          )
+          (,)
+          (VP 
+            (VP 
+              (VBN ilustradas)
+            )
+            (PP 
+              (IN com)
+              (NP 
+                (DT as)
+                (JJ respectivas)
+                (NN figuras)
+                (UCP 
+                  («)
+                  (NP 
+                    (NN Note)
+                  )
+                  (»)
+                  (,)
+                  («)
+                  (NP 
+                    (NN Tip)
+                  )
+                  (»)
+                  e                  («)
+                  (NP 
+                    (NN Stop)
+                  )
+                  (»)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

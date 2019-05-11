@@ -1,48 +1,81 @@
-(S (VP (Â«)
-                        (NP (PRP Eu))
-                        (VP (VBP estou))
-                        (_CU_ (ADJP 
-                                 (JJ igualzinho)
-                                 (PP (IN a+)
-                                        (NP 
-                                          (DT o)
-                                          (NN presidente)
-                                          (NP 
-                                            (NNP Itamar)))))
-                               (,)
-                               (ADJP 
-                                 (JJ igualzinho)
-                                 (PP (IN a+)
-                                        (NP 
-                                          (DT o)
-                                          (NN ministÃ©rio))))
-                               (,)
-                               (ADJP 
-                                 (JJ igualzinho)
-                                 (PP (IN a)
-                                        (NP 
-                                          (CD 150)
-                                          (NN milhÃµes)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN brasileiros)
-                                              (,)
-                                              (VP 
-                                                (NP 
-                                                  (PRP que))
-                                                (ADVP 
-                                                  (RB nÃ£o))
-                                                (VP 
-                                                  (VBP sabem))
-                                                (NP 
-                                                  (NN coisa)
-                                                  (NP 
-                                                    (PRP alguma)))
-                                                (PP 
-                                                  (IN sobre)
-                                                  (NP 
-                                                    (PRP este)
-                                                    (NN plano))))))))))
-                        (Â»)
-                        (.)))
+(S 
+  (VP 
+    («)
+    (NP 
+      (PRP Eu)
+    )
+    (VP 
+      (VBP estou)
+    )
+    (ADJP 
+      (ADJP 
+        (JJ igualzinho)
+        (PP 
+          (IN a+)
+          (NP 
+            (DT o)
+            (NN presidente)
+            (NP 
+              (NNP Itamar)
+            )
+          )
+        )
+      )
+      (,)
+      (ADJP 
+        (JJ igualzinho)
+        (PP 
+          (IN a+)
+          (NP 
+            (DT o)
+            (NN ministério)
+          )
+        )
+      )
+      (,)
+      (ADJP 
+        (JJ igualzinho)
+        (PP 
+          (IN a)
+          (NP 
+            (CD 150)
+            (NN milhões)
+            (PP 
+              (IN de)
+              (NP 
+                (NN brasileiros)
+                (,)
+                (VP 
+                  (NP 
+                    (PRP que)
+                  )
+                  (ADVP 
+                    (RB não)
+                  )
+                  (VP 
+                    (VBP sabem)
+                  )
+                  (NP 
+                    (NN coisa)
+                    (NP 
+                      (PRP alguma)
+                    )
+                  )
+                  (PP 
+                    (IN sobre)
+                    (NP 
+                      (PRP este)
+                      (NN plano)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (.)
+  )
+)

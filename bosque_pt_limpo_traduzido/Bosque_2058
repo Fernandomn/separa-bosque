@@ -1,28 +1,49 @@
-(S (VP (VP (VBP Vestiu))
-                        (ADVP (RB depois))
-                        (NP (DT um)
-                                (NN fato)
-                                (ADJP 
-                                  (JJ azul))
-                                (ADJP 
-                                  (JJ escuro))
-                                (,)
-                                (PP 
-                                  (IN com)
-                                  (_CU_ 
-                                    (NP 
-                                      (NN gravata)
-                                      (ADJP 
-                                        (JJ vermelha)))
-                                    (CC e)
-                                    (NP 
-                                      (NN camisa)
-                                      (ADJP 
-                                        (JJ branca))
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN riscas)
-                                          (ADJP 
-                                            (JJ cinzentas))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Vestiu)
+    )
+    (ADVP 
+      (RB depois)
+    )
+    (NP 
+      (DT um)
+      (NN fato)
+      (ADJP 
+        (JJ azul)
+      )
+      (ADJP 
+        (JJ escuro)
+      )
+      (,)
+      (PP 
+        (IN com)
+        (NP 
+          (NP 
+            (NN gravata)
+            (ADJP 
+              (JJ vermelha)
+            )
+          )
+          (CC e)
+          (NP 
+            (NN camisa)
+            (ADJP 
+              (JJ branca)
+            )
+            (PP 
+              (IN de)
+              (NP 
+                (NN riscas)
+                (ADJP 
+                  (JJ cinzentas)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

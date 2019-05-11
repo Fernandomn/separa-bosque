@@ -1,18 +1,40 @@
-(S (_CU_ (VP (NP (DT O)
-                                        (NN tÃ­tulo))
-                               (VP (VBP Ã©))
-                               (Â«)
-                               (NP (NNP Des_Aveugles))
-                               (Â»))
-                      (,)
-                      (CC e)
-                      (VP (VP (VBP foi)
-                                     (VBN publicado))
-                               (PP (IN em+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP Minuit)))
-                               (PP (IN em)
-                                        (ADJP 
-                                          (CD 1985))))
-                      (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (NN título)
+      )
+      (VP 
+        (VBP é)
+      )
+      («)
+      (NP 
+        (NNP Des_Aveugles)
+      )
+      (»)
+    )
+    (,)
+    (CC e)
+    (VP 
+      (VP 
+        (VBP foi)
+        (VBN publicado)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NNP Minuit)
+        )
+      )
+      (PP 
+        (IN em)
+        (ADJP 
+          (CD 1985)
+        )
+      )
+    )
+    (.)
+  )
+)

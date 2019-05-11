@@ -1,119 +1,172 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT os)
-                                        (NN pavilhÃµes)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NNP FIL)))))
-                        (,)
-                        (NP (DT os)
-                                 (NN visitantes))
-                        (VP (VBP poderÃ£o)
-                              (VB apreciar))
-                        (NP (DT a)
-                                (NN variedade)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NN oferta)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN embarcaÃ§Ãµes)
-                                             (PP 
-                                               (IN a)
-                                               (NP 
-                                                 (NN motor)))))))
-                                (--)
-                                (_CU_ 
-                                  (NP 
-                                    (DT a)
-                                    (NN lancha)
-                                    (NP 
-                                      (NNP Campion_Marine))
-                                    (,)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (CD 18)
-                                        (NN pÃ©s)))
-                                    (,)
-                                    (PP 
-                                      (IN por)
-                                      (NP 
-                                        (CD 3200)
-                                        (NN contos))))
-                                  (;)
-                                  (NP 
-                                    (DT a)
-                                    (NNP Status_180)
-                                    (,)
-                                    (NP 
-                                      (DT um)
-                                      (VBN arrojado)
-                                      (NN exemplar)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (CD 18)
-                                          (NN pÃ©s)))
-                                      (,)
-                                      (PP 
-                                        (IN com)
-                                        (VBN atrelado))
-                                      (,)
-                                      (PP 
-                                        (IN a)
-                                        (NP 
-                                          (CD 4730)
-                                          (NN contos)))))
-                                  (;)
-                                  (CC ou)
-                                  (NP 
-                                    (DT a)
-                                    (VBN sofisticada)
-                                    (NN linha)
-                                    (ADJP 
-                                      (JJ italiana))
-                                    (NP 
-                                      (NNP Cranchi))
-                                    (,)
-                                    (NP 
-                                      (RB especialmente)
-                                      (PRP a)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (CD 36)
-                                          (NN pÃ©s)))))
-                                  (CC e)
-                                  (NP 
-                                    (DT a)
-                                    (NNP Azimute)
-                                    (,)
-                                    (NP 
-                                      (DT o)
-                                      (ADJP 
-                                        (RB mais)
-                                        (JJ luxuoso))
-                                      (Â«)
-                                      (NN fly_bridge)
-                                      (Â»)
-                                      (ADJP 
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN mundo))))
-                                      (,)
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP custa))
-                                        (NP 
-                                          (CD 50)
-                                          (NN mil)
-                                          (NN contos)))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT os)
+        (NN pavilhões)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP FIL)
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT os)
+      (NN visitantes)
+    )
+    (VP 
+      (VBP poderão)
+      (VB apreciar)
+    )
+    (NP 
+      (DT a)
+      (NN variedade)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN oferta)
+          (PP 
+            (IN de)
+            (NP 
+              (NN embarcações)
+              (PP 
+                (IN a)
+                (NP 
+                  (NN motor)
+                )
+              )
+            )
+          )
+        )
+      )
+      (--)
+      (UCP 
+        (NP 
+          (DT a)
+          (NN lancha)
+          (NP 
+            (NNP Campion_Marine)
+          )
+          (,)
+          (PP 
+            (IN de)
+            (NP 
+              (CD 18)
+              (NN pés)
+            )
+          )
+          (,)
+          (PP 
+            (IN por)
+            (NP 
+              (CD 3200)
+              (NN contos)
+            )
+          )
+        )
+        (;)
+        (NP 
+          (DT a)
+          (NNP Status_180)
+          (,)
+          (NP 
+            (DT um)
+            (VBN arrojado)
+            (NN exemplar)
+            (PP 
+              (IN de)
+              (NP 
+                (CD 18)
+                (NN pés)
+              )
+            )
+            (,)
+            (PP 
+              (IN com)
+              (VBN atrelado)
+            )
+            (,)
+            (PP 
+              (IN a)
+              (NP 
+                (CD 4730)
+                (NN contos)
+              )
+            )
+          )
+        )
+        (;)
+        (CC ou)
+        (NP 
+          (DT a)
+          (VBN sofisticada)
+          (NN linha)
+          (ADJP 
+            (JJ italiana)
+          )
+          (NP 
+            (NNP Cranchi)
+          )
+          (,)
+          (NP 
+            (RB especialmente)
+            (PRP a)
+            (PP 
+              (IN de)
+              (NP 
+                (CD 36)
+                (NN pés)
+              )
+            )
+          )
+        )
+        (CC e)
+        (NP 
+          (DT a)
+          (NNP Azimute)
+          (,)
+          (NP 
+            (DT o)
+            (ADJP 
+              (RB mais)
+              (JJ luxuoso)
+            )
+            («)
+            (NN fly_bridge)
+            (»)
+            (ADJP 
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN mundo)
+                )
+              )
+            )
+            (,)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP custa)
+              )
+              (NP 
+                (CD 50)
+                (NN mil)
+                (NN contos)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

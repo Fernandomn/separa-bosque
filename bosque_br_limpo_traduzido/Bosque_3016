@@ -1,47 +1,77 @@
-(S (VP (VP (Â«)
-                                 (_CU_ 
-                                   (NP 
-                                     (DT O)
-                                     (NNP Viola))
-                                   (CC ou)
-                                   (NP 
-                                     (DT o)
-                                     (NNP RonaldÃ£o)))
-                                 (VP (VBP seria))
-                                 (NP (DT um)
-                                        (')
-                                        (NN black_man)
-                                        (')
-                                        (ADJP 
-                                          (JJ perfeito)))
-                                 (Â»))
-                        (VP (VBP disse))
-                        (ADJP (CD um)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT os)
-                                       (NN modelos)
-                                       (ADJP 
-                                         (JJ masculinos))
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NNP Ford)))
-                                       (,)
-                                       (VP 
-                                         (NP 
-                                           (PRP que))
-                                         (ADVP 
-                                           (RB tambÃ©m))
-                                         (ADVP 
-                                           (RB nÃ£o))
-                                         (VP 
-                                           (VBP quis))
-                                         (VP 
-                                           (NP 
-                                             (PRP se))
-                                           (VP 
-                                             (VB identificar)))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      («)
+      (NP 
+        (NP 
+          (DT O)
+          (NNP Viola)
+        )
+        ou        (NP 
+          (DT o)
+          (NNP Ronaldão)
+        )
+      )
+      (VP 
+        (VBP seria)
+      )
+      (NP 
+        (DT um)
+        (')
+        (NN black_man)
+        (')
+        (ADJP 
+          (JJ perfeito)
+        )
+      )
+      (»)
+    )
+    (VP 
+      (VBP disse)
+    )
+    (ADJP 
+      (CD um)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN modelos)
+          (ADJP 
+            (JJ masculinos)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Ford)
+            )
+          )
+          (,)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (ADVP 
+              (RB também)
+            )
+            (ADVP 
+              (RB não)
+            )
+            (VP 
+              (VBP quis)
+            )
+            (VP 
+              (NP 
+                (PRP se)
+              )
+              (VP 
+                (VB identificar)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

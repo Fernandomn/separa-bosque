@@ -1,23 +1,46 @@
-(S (VP (NP (DT O)
-                                 (NN importante)
-                                 (PP (IN para)
-                                        (NP 
-                                          (PRP mim))))
-                        (VP (VBP era))
-                        (VP (VP (VB traduzir))
-                                (NP (PRP isso))
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (DT uma)
-                                    (NN linguagem)
-                                    (_CU_ 
-                                      (ADJP 
-                                        (JJ musical))
-                                      (CC e)
-                                      (ADJP 
-                                        (JJ poÃ©tica)))
-                                    (ADJP 
-                                      (JJ prÃ³pria)))))
-                        (.)
-                        (Â»)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN importante)
+      (PP 
+        (IN para)
+        (NP 
+          (PRP mim)
+        )
+      )
+    )
+    (VP 
+      (VBP era)
+    )
+    (VP 
+      (VP 
+        (VB traduzir)
+      )
+      (NP 
+        (PRP isso)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT uma)
+          (NN linguagem)
+          (ADJP 
+            (ADJP 
+              (JJ musical)
+            )
+            (CC e)
+            (ADJP 
+              (JJ poética)
+            )
+          )
+          (ADJP 
+            (JJ própria)
+          )
+        )
+      )
+    )
+    (.)
+    (»)
+  )
+)

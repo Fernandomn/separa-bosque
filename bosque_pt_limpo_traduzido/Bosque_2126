@@ -1,91 +1,132 @@
-(S (ADVP (RB Mesmo)
-                         (RB depois)
-                         (PP (IN de)
-                                (VP (VB ter)
-                                       (VBN sido)
-                                       (VBN informado))
-                                (VP 
-                                  (IN que)
-                                  (,)
-                                  (PP 
-                                    (IN a+)
-                                    (NP 
-                                      (DT o)
-                                      (NN inÃ­cio)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN tarde)
-                                          (PP 
-                                            (IN de)
-                                            (RB ontem))))))
-                                  (,)
-                                  (NP 
-                                    (DT o)
-                                    (NNP PÃšBLICO))
-                                  (VP (VBP observou))
-                                  (NP 
-                                    (CD trÃªs)
-                                    (NN crianÃ§as)
-                                    (--)
-                                    (NP 
-                                      (_CU_ 
-                                        (NP 
-                                          (DT o)
-                                          (NNP AntÃ³nio)
-                                          (,)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (CD 8)
-                                              (NN anos))))
-                                        (,)
-                                        (NP 
-                                          (DT o)
-                                          (NNP Tiago)
-                                          (,)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (CD 12)
-                                              (NN anos))))
-                                        (CC e)
-                                        (NP 
-                                          (DT o)
-                                          (NNP LuÃ­s)
-                                          (,)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (CD 10)
-                                              (NN anos))))))
-                                    (--)
-                                    (,)
-                                    (NP 
-                                      (PRP todos)
-                                      (NP 
-                                        (NN residentes)
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT o)
-                                            (NN bairro)
-                                            (ADJP 
-                                              (JJ camarÃ¡rio))
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT a)
-                                                (NNP Pasteleira)))))))
-                                    (PP 
-                                      (IN a)
-                                      (VP 
-                                        (VP 
-                                          (VB brincar))
-                                        (PP 
-                                          (IN no_meio_de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN lixo))))))))
-                         (.)))
+(S 
+  (ADVP 
+    (RB Mesmo)
+    (RB depois)
+    (PP 
+      (IN de)
+      (VP 
+        (VB ter)
+        (VBN sido)
+        (VBN informado)
+      )
+      (VP 
+        (IN que)
+        (,)
+        (PP 
+          (IN a+)
+          (NP 
+            (DT o)
+            (NN início)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN tarde)
+                (PP 
+                  (IN de)
+                  (RB ontem)
+                )
+              )
+            )
+          )
+        )
+        (,)
+        (NP 
+          (DT o)
+          (NNP PÚBLICO)
+        )
+        (VP 
+          (VBP observou)
+        )
+        (NP 
+          (CD três)
+          (NN crianças)
+          (--)
+          (NP 
+            (NP 
+              (NP 
+                (DT o)
+                (NNP António)
+                (,)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (CD 8)
+                    (NN anos)
+                  )
+                )
+              )
+              (,)
+              (NP 
+                (DT o)
+                (NNP Tiago)
+                (,)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (CD 12)
+                    (NN anos)
+                  )
+                )
+              )
+              (CC e)
+              (NP 
+                (DT o)
+                (NNP Luís)
+                (,)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (CD 10)
+                    (NN anos)
+                  )
+                )
+              )
+            )
+          )
+          (--)
+          (,)
+          (NP 
+            (PRP todos)
+            (NP 
+              (NN residentes)
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT o)
+                  (NN bairro)
+                  (ADJP 
+                    (JJ camarário)
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NNP Pasteleira)
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (PP 
+            (IN a)
+            (VP 
+              (VP 
+                (VB brincar)
+              )
+              (PP 
+                (IN no_meio_de+)
+                (NP 
+                  (DT o)
+                  (NN lixo)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

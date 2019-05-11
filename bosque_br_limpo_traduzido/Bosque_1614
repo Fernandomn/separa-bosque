@@ -1,39 +1,61 @@
-(S (VP (PP (IN Atr√°s_de)
-                                 (NP (NNP Buenos_Aires)))
-                        (,)
-                        (VP (VBP est√£o))
-                        (_CU_ (NP 
-                                   (CD duas)
-                                   (NN cidades)
-                                   (ADJP 
-                                     (JJ asi√°ticas))
-                                   ({)
-                                   (_CU_ 
-                                     (NP 
-                                       (NNP Hong_Kong))
-                                     (CC e)
-                                     (NP 
-                                       (NNP Taip√©)))
-                                   (}))
-                                 (CC e)
-                                 (NP 
-                                   (CD duas)
-                                   (NN europ√©ias)
-                                   ({)
-                                   (NP 
-                                     (_CU_ 
-                                       (NP 
-                                         (NNP Zurique))
-                                       (CC e)
-                                       (NP 
-                                         (NNP Genebra)))
-                                     (,)
-                                     (NP 
-                                       (PRP ambas)
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT a)
-                                           (NNP Su√≠√ßa)))))
-                                   (})))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Atr·s_de)
+      (NP 
+        (NNP Buenos_Aires)
+      )
+    )
+    (,)
+    (VP 
+      (VBP est„o)
+    )
+    (NP 
+      (NP 
+        (CD duas)
+        (NN cidades)
+        (ADJP 
+          (JJ asi·ticas)
+        )
+        ({)
+        (NP 
+          (NP 
+            (NNP Hong_Kong)
+          )
+          e          (NP 
+            (NNP TaipÈ)
+          )
+        )
+        (})
+      )
+      e      (NP 
+        (CD duas)
+        (NN europÈias)
+        ({)
+        (NP 
+          (NP 
+            (NP 
+              (NNP Zurique)
+            )
+            e            (NP 
+              (NNP Genebra)
+            )
+          )
+          (,)
+          (NP 
+            (PRP ambas)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NNP SuÌÁa)
+              )
+            )
+          )
+        )
+        (})
+      )
+    )
+    (.)
+  )
+)

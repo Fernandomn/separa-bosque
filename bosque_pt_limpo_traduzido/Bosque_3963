@@ -1,59 +1,98 @@
-(S (VP (PP (IN Em+)
-                                 (NP (PRP esse)
-                                        (NN sentido)))
-                        (,)
-                        (VP (VBP cruza))
-                        (NP (NN imagens)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT os)
-                                         (PRP diferentes)
-                                         (_CU_ 
-                                           (NP 
-                                             (NN tempos))
-                                           (CC e)
-                                           (NP 
-                                             (NN civilizaÃ§Ãµes))))))
-                        (,)
-                        (_CU_ (VP 
-                                   (VP 
-                                     (VBG criando))
-                                   (NP 
-                                     (NN imagens)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN sÃ­ntese)))))
-                                 (CC e)
-                                 (VP 
-                                   (VP 
-                                     (VBG procurando))
-                                   (VP 
-                                     (VP 
-                                       (VB problematizar))
-                                     (,)
-                                     (ADVP 
-                                       (RB atravÃ©s)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NN objecto)
-                                           (ADJP 
-                                             (JJ artÃ­stico))
-                                           (ADJP 
-                                             (JJ contemporÃ¢neo)))))
-                                     (,)
-                                     (NP 
-                                       (DT os)
-                                       (NN resultados)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (DT uma)
-                                           (NN experiÃªncia)
-                                           (ADJP 
-                                             (JJ histÃ³rica))
-                                           (ADJP 
-                                             (JJ universal))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (PRP esse)
+        (NN sentido)
+      )
+    )
+    (,)
+    (VP 
+      (VBP cruza)
+    )
+    (NP 
+      (NN imagens)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (PRP diferentes)
+          (NP 
+            (NP 
+              (NN tempos)
+            )
+            (CC e)
+            (NP 
+              (NN civilizações)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VP 
+          (VBG criando)
+        )
+        (NP 
+          (NN imagens)
+          (PP 
+            (IN de)
+            (NP 
+              (NN síntese)
+            )
+          )
+        )
+      )
+      (CC e)
+      (VP 
+        (VP 
+          (VBG procurando)
+        )
+        (VP 
+          (VP 
+            (VB problematizar)
+          )
+          (,)
+          (ADVP 
+            (RB através)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN objecto)
+                (ADJP 
+                  (JJ artístico)
+                )
+                (ADJP 
+                  (JJ contemporâneo)
+                )
+              )
+            )
+          )
+          (,)
+          (NP 
+            (DT os)
+            (NN resultados)
+            (PP 
+              (IN de)
+              (NP 
+                (DT uma)
+                (NN experiência)
+                (ADJP 
+                  (JJ histórica)
+                )
+                (ADJP 
+                  (JJ universal)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

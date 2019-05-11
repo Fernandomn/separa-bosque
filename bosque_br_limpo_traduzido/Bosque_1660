@@ -1,10 +1,21 @@
-(S (VP (_CU_ (NP 
-                                   (CD Um)
-                                   (NN Gol))
-                                 (CC e)
-                                 (NP 
-                                   (DT um)
-                                   (NNP Voyage)))
-                        (NP (PRP se))
-                        (VP (VBP chocaram))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (CD Um)
+        (NN Gol)
+      )
+      e      (NP 
+        (DT um)
+        (NNP Voyage)
+      )
+    )
+    (NP 
+      (PRP se)
+    )
+    (VP 
+      (VBP chocaram)
+    )
+    (.)
+  )
+)

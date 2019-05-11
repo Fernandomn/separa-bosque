@@ -1,49 +1,81 @@
-(S (VP (PP (IN A+)
-                                (NP (DT a)
-                                       (PRP sua)
-                                       (NN poluiÃ§Ã£o)))
-                        (VP (VBP deve-))
-                        (NP (PRP se))
-                        (ADVP (RB ainda))
-                        (NP (DT o)
-                                 (NN desaparecimento)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (JJ famosos)
-                                          (NN bivalves)
-                                          (ADJP 
-                                            (JJ negros))
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (Â«)
-                                              (NNP Mexelhoeira)
-                                              (Â»)
-                                              (,)
-                                              (NP 
-                                                (DT uma)
-                                                (NN zona)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (NN rochas)))
-                                                (PP 
-                                                  (IN entre)
-                                                  (NP 
-                                                    (DT as)
-                                                    (NN praias)
-                                                    (_CU_ 
-                                                      (PP 
-                                                        (IN de+)
-                                                        (NP 
-                                                          (DT a)
-                                                          (NNP Areia_Branca)))
-                                                      (CC e)
-                                                      (PP 
-                                                        (IN de+)
-                                                        (NP 
-                                                          (DT o)
-                                                          (NNP Peralta))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN A+)
+      (NP 
+        (DT a)
+        (PRP sua)
+        (NN poluição)
+      )
+    )
+    (VP 
+      (VBP deve-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (ADVP 
+      (RB ainda)
+    )
+    (NP 
+      (DT o)
+      (NN desaparecimento)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (JJ famosos)
+          (NN bivalves)
+          (ADJP 
+            (JJ negros)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              («)
+              (NNP Mexelhoeira)
+              (»)
+              (,)
+              (NP 
+                (DT uma)
+                (NN zona)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN rochas)
+                  )
+                )
+                (PP 
+                  (IN entre)
+                  (NP 
+                    (DT as)
+                    (NN praias)
+                    (PP 
+                      (PP 
+                        (IN de+)
+                        (NP 
+                          (DT a)
+                          (NNP Areia_Branca)
+                        )
+                      )
+                      (CC e)
+                      (PP 
+                        (IN de+)
+                        (NP 
+                          (DT o)
+                          (NNP Peralta)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

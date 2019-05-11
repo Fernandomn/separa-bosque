@@ -1,58 +1,93 @@
-(S (VP (_CU_ (NP 
-                                   (DT A)
-                                   (NN falta)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN profundidade)
-                                       (ADJP 
-                                         (JJ atacante)))))
-                                 (,)
-                                 (NP 
-                                   (DT a)
-                                   (NN azelhice)
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT o)
-                                       (NN remate)))
-                                   (--)
-                                   (NP 
-                                     (NN aspecto)
-                                     (VP 
-                                       (PP 
-                                         (IN em)
-                                         (NP 
-                                           (PRP que)))
-                                       (NP 
-                                         (RB apenas)
-                                         (NNP Juskoviak))
-                                       (VP 
-                                         (VBP esteve))
-                                       (ADJP 
-                                         (JJ diferente)
-                                         (PP 
-                                           (IN para)
-                                           (ADJP 
-                                             (JJ melhor))))))
-                                   (--)))
-                        (VP (VBP foram))
-                        (NP (NN raz√µes)
-                               (PP (IN para)
-                                      (NP 
-                                        (DT o)
-                                        (NN nulo)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (NP 
-                                            (PRP se))
-                                          (VP 
-                                            (VBP verificava))
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT a)
-                                              (JJ primeira)
-                                              (NN parte)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (DT A)
+        (NN falta)
+        (PP 
+          (IN de)
+          (NP 
+            (NN profundidade)
+            (ADJP 
+              (JJ atacante)
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (DT a)
+        (NN azelhice)
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NN remate)
+          )
+        )
+        (--)
+        (NP 
+          (NN aspecto)
+          (VP 
+            (PP 
+              (IN em)
+              (NP 
+                (PRP que)
+              )
+            )
+            (NP 
+              (RB apenas)
+              (NNP Juskoviak)
+            )
+            (VP 
+              (VBP esteve)
+            )
+            (ADJP 
+              (JJ diferente)
+              (PP 
+                (IN para)
+                (ADJP 
+                  (JJ melhor)
+                )
+              )
+            )
+          )
+        )
+        (--)
+      )
+    )
+    (VP 
+      (VBP foram)
+    )
+    (NP 
+      (NN razıes)
+      (PP 
+        (IN para)
+        (NP 
+          (DT o)
+          (NN nulo)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (NP 
+              (PRP se)
+            )
+            (VP 
+              (VBP verificava)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (JJ primeira)
+                (NN parte)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

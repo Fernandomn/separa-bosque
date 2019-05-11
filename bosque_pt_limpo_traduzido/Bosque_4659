@@ -1,40 +1,69 @@
-(S (VP (NP (_CU_ (NP 
-                                         (DT O)
-                                         (NN peso))
-                                       ({)
-                                       (NP 
-                                         (DT a)
-                                         (NN dura√ß√£o))
-                                       (}))
-                                 (ADJP 
-                                   (JJ diferente))
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP d√°))
-                                   (PP 
-                                     (IN a)
-                                     (NP 
-                                       (PRP cada)
-                                       (NN som)))))
-                        (VP (VBP cria))
-                        (NP (DT uma)
-                                (NN riqueza)
-                                (ADJP 
-                                  (JJ fascinante))
-                                (PP (IN em+)
-                                       (NP 
-                                         (DT a)
-                                         (NN ilus√£o)
-                                         (_CU_ 
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN timbres)))
-                                           (CC e)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN din√¢micas)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (UCP 
+        (NP 
+          (DT O)
+          (NN peso)
+        )
+        ({)
+        (NP 
+          (DT a)
+          (NN duraÁ„o)
+        )
+        (})
+      )
+      (ADJP 
+        (JJ diferente)
+      )
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP d·)
+        )
+        (PP 
+          (IN a)
+          (NP 
+            (PRP cada)
+            (NN som)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP cria)
+    )
+    (NP 
+      (DT uma)
+      (NN riqueza)
+      (ADJP 
+        (JJ fascinante)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NN ilus„o)
+          (PP 
+            (PP 
+              (IN de)
+              (NP 
+                (NN timbres)
+              )
+            )
+            (CC e)
+            (PP 
+              (IN de)
+              (NP 
+                (NN din‚micas)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

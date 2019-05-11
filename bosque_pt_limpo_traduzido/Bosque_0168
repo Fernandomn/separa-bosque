@@ -1,28 +1,59 @@
-(S (VP (NP (DT Uma)
-                                (NN equipa)
-                                (PP (IN de+)
-                                       (NP 
-                                         (PRP aquela)
-                                         (NN organiza√ß√£o))))
-                       (VP (VBP encontra-))
-                       (NP (PRP se))
-                       (PP (IN desde)
-                                (NP (NN sexta-feira)
-                                       (VBN passada)))
-                       (PP (IN em+)
-                                (NP (DT a)
-                                       (NN regi√£o)))
-                       (PP (IN para)
-                                (_CU_ (VP 
-                                         (VP 
-                                           (VB examinar))
-                                         (NP 
-                                           (DT as)
-                                           (NN v√≠timas)))
-                                       (CC e)
-                                       (VP 
-                                         (VP 
-                                           (VB colher))
-                                         (NP 
-                                           (NN amostras)))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Uma)
+      (NN equipa)
+      (PP 
+        (IN de+)
+        (NP 
+          (PRP aquela)
+          (NN organizaÁ„o)
+        )
+      )
+    )
+    (VP 
+      (VBP encontra-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN desde)
+      (NP 
+        (NN sexta-feira)
+        (VBN passada)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN regi„o)
+      )
+    )
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VP 
+            (VB examinar)
+          )
+          (NP 
+            (DT as)
+            (NN vÌtimas)
+          )
+        )
+        (CC e)
+        (VP 
+          (VP 
+            (VB colher)
+          )
+          (NP 
+            (NN amostras)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

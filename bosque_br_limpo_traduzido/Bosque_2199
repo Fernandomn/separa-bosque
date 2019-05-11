@@ -1,16 +1,32 @@
-(S (_CU_ (VP (NP 
-                                  (NNP Magno))
-                                (VP (VBP desceu))
-                                (PP 
-                                  (IN por+)
-                                  (NP 
-                                    (DT a)
-                                    (NN direita))))
-                       (CC e)
-                       (VP (VP (VBP cruzou))
-                                (PP 
-                                  (IN para)
-                                  (NP 
-                                    (DT a)
-                                    (NN Ã¡rea))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (NNP Magno)
+      )
+      (VP 
+        (VBP desceu)
+      )
+      (PP 
+        (IN por+)
+        (NP 
+          (DT a)
+          (NN direita)
+        )
+      )
+    )
+    e    (VP 
+      (VP 
+        (VBP cruzou)
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (DT a)
+          (NN área)
+        )
+      )
+    )
+    (.)
+  )
+)

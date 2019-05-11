@@ -1,57 +1,90 @@
-(S (VP (VP (Â«)
-                                (NP 
-                                  (DT A)
-                                  (NN explicaÃ§Ã£o)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT a)
-                                      (NN reviravolta))))
-                                (ADVP 
-                                  (RB nÃ£o))
-                                (VP (VBP reside))
-                                (PP (IN em)
-                                        (NP 
-                                          (DT uma)
-                                          (JJ pretensa)
-                                          (NN especificidade)
-                                          (ADJP 
-                                            (JJ brasileira))
-                                          (,)
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (VP 
-                                              (VBP seria))
-                                            (NP 
-                                              (DT um)
-                                              (NN coquetel)
-                                              (PP 
-                                                (IN de)
-                                                (_CU_ 
-                                                  (NP 
-                                                    (NN leviandade))
-                                                  (,)
-                                                  (NP 
-                                                    (NN inconstÃ¢ncia))
-                                                  (CC e)
-                                                  (NP 
-                                                    (NN pusilanimidade))))
-                                              (,)
-                                              (NP 
-                                                (PRP tudo))
-                                              (PP 
-                                                (IN a+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN som)
-                                                  (PP 
-                                                    (IN de)
-                                                    (NP 
-                                                      (NN salsa)))))))))
-                                (Â»))
-                       (,)
-                       (VP (VBP ironiza))
-                       (NP (DT o)
-                                (NN editorial))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      («)
+      (NP 
+        (DT A)
+        (NN explicação)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN reviravolta)
+          )
+        )
+      )
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VBP reside)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (DT uma)
+          (JJ pretensa)
+          (NN especificidade)
+          (ADJP 
+            (JJ brasileira)
+          )
+          (,)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP seria)
+            )
+            (NP 
+              (DT um)
+              (NN coquetel)
+              (PP 
+                (IN de)
+                (NP 
+                  (NP 
+                    (NN leviandade)
+                  )
+                  (,)
+                  (NP 
+                    (NN inconstância)
+                  )
+                  e                  (NP 
+                    (NN pusilanimidade)
+                  )
+                )
+              )
+              (,)
+              (NP 
+                (PRP tudo)
+              )
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT o)
+                  (NN som)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN salsa)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (»)
+    )
+    (,)
+    (VP 
+      (VBP ironiza)
+    )
+    (NP 
+      (DT o)
+      (NN editorial)
+    )
+    (.)
+  )
+)

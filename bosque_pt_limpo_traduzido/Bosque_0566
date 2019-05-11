@@ -1,28 +1,55 @@
-(S (_CU_ (VP (ADVP 
-                                  (RB N√£o))
-                                (VP (VBP havia))
-                                (NP (NN cruzamento)))
-                       (,)
-                       (VP (ADVP 
-                                  (RB n√£o))
-                                (NP (PRP se))
-                                (VP (VBP tratou))
-                                (_CU_ (PP 
-                                          (IN de)
-                                          (NP 
-                                            (DT uma)
-                                            (NN tentativa)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN ultrapassagem)))))
-                                        (,)
-                                        (PP 
-                                          (RB nem_sequer)
-                                          (IN de)
-                                          (NP 
-                                            (DT uma)
-                                            (NN travagem)
-                                            (ADJP 
-                                              (JJ brusca))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (ADVP 
+        (RB N„o)
+      )
+      (VP 
+        (VBP havia)
+      )
+      (NP 
+        (NN cruzamento)
+      )
+    )
+    (,)
+    (VP 
+      (ADVP 
+        (RB n„o)
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP tratou)
+      )
+      (PP 
+        (PP 
+          (IN de)
+          (NP 
+            (DT uma)
+            (NN tentativa)
+            (PP 
+              (IN de)
+              (NP 
+                (NN ultrapassagem)
+              )
+            )
+          )
+        )
+        (,)
+        (PP 
+          (RB nem_sequer)
+          (IN de)
+          (NP 
+            (DT uma)
+            (NN travagem)
+            (ADJP 
+              (JJ brusca)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

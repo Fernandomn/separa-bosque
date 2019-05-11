@@ -1,97 +1,150 @@
-(S (VP (NP (DT As)
-                                 (NN notÃ­cias))
-                        (VP (VBP revelam))
-                        (,)
-                        (PP (IN salvo)
-                                 (NP (JJ raras)
-                                        (NN excepÃ§Ãµes)))
-                        (,)
-                        (_CU_ (NP (DT um)
-                                        (NN cariz)
-                                        (ADJP 
-                                          (JJ sensacionalista))
-                                        (,)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP alimenta))
-                                          (_CU_ 
-                                            (NP 
-                                              (RB sobretudo)
-                                              (DT a)
-                                              (NN ideia)
-                                              (PP 
-                                                (IN de)
-                                                (Â«)
-                                                (NP 
-                                                  (NN cura)
-                                                  (ADJP 
-                                                    (JJ mÃ¡gica)))
-                                                (Â»)))
-                                            (CC ou)
-                                            (NP 
-                                              (DT o)
-                                              (NN desejo)
-                                              (PP 
-                                                (IN de)
-                                                (VP 
-                                                  (VP 
-                                                    (VB encontrar))
-                                                  (Â«)
-                                                  (NP 
-                                                    (NN bodes_expiatÃ³rios)
-                                                    (Â»)
-                                                    (PP 
-                                                      (IN para)
-                                                      (NP 
-                                                        (DT a)
-                                                        (NN explicaÃ§Ã£o)
-                                                        (PP 
-                                                          (IN de+)
-                                                          (NP 
-                                                            (DT o)
-                                                            (NN fenÃ³meno))))))))))
-                                          (,)
-                                          (VP 
-                                            (VP 
-                                              (VBG permitindo))
-                                            (,)
-                                            (ADVP 
-                                              (RB por_exemplo))
-                                            (,)
-                                            (VP 
-                                              (IN que)
-                                              (NP 
-                                                (PRP se))
-                                              (VP 
-                                                (VBP fale))
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN eficÃ¡cia)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (PRP o{s})
-                                                      (NN tratamento{s})))))
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN formas)
-                                                  (ADJP 
-                                                    (RB pouco 
-                                                      (JJ honestas)))))
-                                              (,)
-                                              (_CU_ 
-                                                (PP 
-                                                  (IN por)
-                                                  (NP 
-                                                    (NN ignorÃ¢ncia)))
-                                                (CC ou)
-                                                (PP 
-                                                  (IN por)
-                                                  (NP 
-                                                    (NN manipulaÃ§Ã£o)
-                                                    (VBN deliberada)))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN notícias)
+    )
+    (VP 
+      (VBP revelam)
+    )
+    (,)
+    (PP 
+      (IN salvo)
+      (NP 
+        (JJ raras)
+        (NN excepções)
+      )
+    )
+    (,)
+    (NP 
+      (NP 
+        (DT um)
+        (NN cariz)
+        (ADJP 
+          (JJ sensacionalista)
+        )
+        (,)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP alimenta)
+          )
+          (NP 
+            (NP 
+              (RB sobretudo)
+              (DT a)
+              (NN ideia)
+              (PP 
+                (IN de)
+                («)
+                (NP 
+                  (NN cura)
+                  (ADJP 
+                    (JJ mágica)
+                  )
+                )
+                (»)
+              )
+            )
+            (CC ou)
+            (NP 
+              (DT o)
+              (NN desejo)
+              (PP 
+                (IN de)
+                (VP 
+                  (VP 
+                    (VB encontrar)
+                  )
+                  («)
+                  (NP 
+                    (NN bodes_expiatórios)
+                    (»)
+                    (PP 
+                      (IN para)
+                      (NP 
+                        (DT a)
+                        (NN explicação)
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT o)
+                            (NN fenómeno)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (,)
+          (VP 
+            (VP 
+              (VBG permitindo)
+            )
+            (,)
+            (ADVP 
+              (RB por_exemplo)
+            )
+            (,)
+            (VP 
+              (IN que)
+              (NP 
+                (PRP se)
+              )
+              (VP 
+                (VBP fale)
+              )
+              (PP 
+                (IN de)
+                (NP 
+                  (NN eficácia)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (PRP o{s})
+                      (NN tratamento{s})
+                    )
+                  )
+                )
+              )
+              (PP 
+                (IN de)
+                (NP 
+                  (NN formas)
+                  (ADJP 
+                    (RB 
+                      (JJ honestas)
+                    )
+                  )
+                )
+              )
+              (,)
+              (PP 
+                (PP 
+                  (IN por)
+                  (NP 
+                    (NN ignorância)
+                  )
+                )
+                (CC ou)
+                (PP 
+                  (IN por)
+                  (NP 
+                    (NN manipulação)
+                    (VBN deliberada)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

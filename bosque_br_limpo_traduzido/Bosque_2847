@@ -1,54 +1,91 @@
-(S (VP (VP (VBP Decidimos))
-                        (ADVP (RB entÃ£o))
-                        (,)
-                        (PP (IN por)
-                                 (NP (DT uma)
-                                        (NN questÃ£o)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN economia)
-                                            (ADJP 
-                                              (JJ cÃªnica))))))
-                        (,)
-                        (_CU_ (VP 
-                                  (VP (VB abolir))
-                                  (NP 
-                                    (CD uma)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT as)
-                                        (NN casas)))))
-                                (CC e)
-                                (VP 
-                                  (ADVP 
-                                    (RB sÃ³))
-                                  (VP (VB insinuar))
-                                  (ADJP 
-                                    (DT as)
-                                    (PRP outras)
-                                    (CD duas))
-                                  (,)
-                                  (VP 
-                                    (VP 
-                                      (VBG fazendo))
-                                    (ADVP 
-                                      (RB apenas))
-                                    (NP 
-                                      (PRP suas)
-                                      (NN entradas)
-                                      (,)
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP parecem))
-                                        (NP 
-                                          (PRP as)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (DT um)
-                                              (NN templo)))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Decidimos)
+    )
+    (ADVP 
+      (RB então)
+    )
+    (,)
+    (PP 
+      (IN por)
+      (NP 
+        (DT uma)
+        (NN questão)
+        (PP 
+          (IN de)
+          (NP 
+            (NN economia)
+            (ADJP 
+              (JJ cênica)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VP 
+          (VB abolir)
+        )
+        (NP 
+          (CD uma)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT as)
+              (NN casas)
+            )
+          )
+        )
+      )
+      e      (VP 
+        (ADVP 
+          (RB só)
+        )
+        (VP 
+          (VB insinuar)
+        )
+        (ADJP 
+          (DT as)
+          (PRP outras)
+          (CD duas)
+        )
+        (,)
+        (VP 
+          (VP 
+            (VBG fazendo)
+          )
+          (ADVP 
+            (RB apenas)
+          )
+          (NP 
+            (PRP suas)
+            (NN entradas)
+            (,)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP parecem)
+              )
+              (NP 
+                (PRP as)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (DT um)
+                    (NN templo)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,91 +1,149 @@
-(S (VP (Â«)
-                        (PP (IN Em+)
-                                 (NP (DT as)
-                                        (NN dÃ©cadas)
-                                        (PP 
-                                          (IN de)
-                                          (_CU_ 
-                                            (NP 
-                                              (CD 60))
-                                            (CC e)
-                                            (ADJP 
-                                              (CD 70))))))
-                        (,)
-                        (NP (DT a)
-                                 (NN produÃ§Ã£o)
-                                 (ADJP 
-                                   (JJ documentarista))
-                                 (PP (IN em)
-                                        (NP 
-                                          (NNP Portugal))))
-                        (VP (VBP tinha))
-                        (_CU_ (NP (DT um)
-                                        (NN ritmo)
-                                        (ADJP 
-                                          (JJ diferente)))
-                                (CC e)
-                                (NP (NN raizes)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN produÃ§Ã£o)
-                                            (ADJP 
-                                              (JJ diversas))))))
-                        (,)
-                        (PP (IN devido_a+)
-                                 (NP (DT a)
-                                        (NN estrutura)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT as)
-                                            (NN sessÃµes)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN cinema)))))
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP permitia))
-                                          (NP 
-                                            (DT o)
-                                            (NN visionamento)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (DT um)
-                                                (NN bloco)
-                                                (_CU_ 
-                                                  (PP 
-                                                    (IN de)
-                                                    (NP 
-                                                      (NN filmes)
-                                                      (ADJP 
-                                                        (JJ curtos))))
-                                                  (CC e)
-                                                  (PP 
-                                                    (IN de)
-                                                    (NP 
-                                                      (NN noticiÃ¡rios))))))
-                                            (ADVP 
-                                              (RB antes)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN apresentaÃ§Ã£o)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT as)
-                                                      (NN obras)
-                                                      (ADJP 
-                                                        (JJ ficcionais))
-                                                      (PP 
-                                                        (IN de+)
-                                                        (NP 
-                                                          (DT o)
-                                                          (NN programa))))))))))))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT as)
+        (NN décadas)
+        (PP 
+          (IN de)
+          (UCP 
+            (NP 
+              (CD 60)
+            )
+            (CC e)
+            (ADJP 
+              (CD 70)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NN produção)
+      (ADJP 
+        (JJ documentarista)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NNP Portugal)
+        )
+      )
+    )
+    (VP 
+      (VBP tinha)
+    )
+    (NP 
+      (NP 
+        (DT um)
+        (NN ritmo)
+        (ADJP 
+          (JJ diferente)
+        )
+      )
+      (CC e)
+      (NP 
+        (NN raizes)
+        (PP 
+          (IN de)
+          (NP 
+            (NN produção)
+            (ADJP 
+              (JJ diversas)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN devido_a+)
+      (NP 
+        (DT a)
+        (NN estrutura)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT as)
+            (NN sessões)
+            (PP 
+              (IN de)
+              (NP 
+                (NN cinema)
+              )
+            )
+          )
+        )
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP permitia)
+          )
+          (NP 
+            (DT o)
+            (NN visionamento)
+            (PP 
+              (IN de)
+              (NP 
+                (DT um)
+                (NN bloco)
+                (PP 
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN filmes)
+                      (ADJP 
+                        (JJ curtos)
+                      )
+                    )
+                  )
+                  (CC e)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN noticiários)
+                    )
+                  )
+                )
+              )
+            )
+            (ADVP 
+              (RB antes)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NN apresentação)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT as)
+                      (NN obras)
+                      (ADJP 
+                        (JJ ficcionais)
+                      )
+                      (PP 
+                        (IN de+)
+                        (NP 
+                          (DT o)
+                          (NN programa)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

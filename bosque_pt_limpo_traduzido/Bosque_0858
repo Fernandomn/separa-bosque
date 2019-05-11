@@ -1,38 +1,62 @@
-(S (VP (VP (VBP Crescem))
-                        (NP (DT os)
-                                 (NN receios)
-                                 (PP 
-                                   (IN de)
-                                   (VP 
-                                     (IN que)
-                                     (ADVP 
-                                       (RB antes))
-                                     (VP 
-                                       (VBP contribua))
-                                     (PP 
-                                       (IN para)
-                                       (_CU_ 
-                                         (VP 
-                                           (VP 
-                                             (VB prolongar))
-                                           (NP 
-                                             (DT uma)
-                                             (NN guerra)
-                                             (ADJP 
-                                               (JJ devastadora))))
-                                         (CC e)
-                                         (VP 
-                                           (VP 
-                                             (VB alimentar))
-                                           (NP 
-                                             (DT os)
-                                             (JJ florescentes)
-                                             (NN circuitos)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NN mercado)
-                                                 (ADJP 
-                                                   (JJ negro)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Crescem)
+    )
+    (NP 
+      (DT os)
+      (NN receios)
+      (PP 
+        (IN de)
+        (VP 
+          (IN que)
+          (ADVP 
+            (RB antes)
+          )
+          (VP 
+            (VBP contribua)
+          )
+          (PP 
+            (IN para)
+            (VP 
+              (VP 
+                (VP 
+                  (VB prolongar)
+                )
+                (NP 
+                  (DT uma)
+                  (NN guerra)
+                  (ADJP 
+                    (JJ devastadora)
+                  )
+                )
+              )
+              (CC e)
+              (VP 
+                (VP 
+                  (VB alimentar)
+                )
+                (NP 
+                  (DT os)
+                  (JJ florescentes)
+                  (NN circuitos)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NN mercado)
+                      (ADJP 
+                        (JJ negro)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

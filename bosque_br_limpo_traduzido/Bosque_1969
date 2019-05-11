@@ -1,22 +1,43 @@
-(S (VP (VP (VBP Quero))
-                        (_CU_ (VP 
-                                  (VP (VB ter))
-                                  (NP 
-                                    (PRP mais)
-                                    (NN experiÃªncia)))
-                                (,)
-                                (VP 
-                                  (VP (VB estudar)))
-                                (CC e)
-                                (VP 
-                                  (NP 
-                                    (PRP me))
-                                  (VP (VB dedicar))
-                                  (NP 
-                                    (CD 100)
-                                    (NN %))
-                                  (PP 
-                                    (IN a)
-                                    (NP 
-                                      (PRP isto)))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Quero)
+    )
+    (VP 
+      (VP 
+        (VP 
+          (VB ter)
+        )
+        (NP 
+          (PRP mais)
+          (NN experiência)
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VB estudar)
+        )
+      )
+      e      (VP 
+        (NP 
+          (PRP me)
+        )
+        (VP 
+          (VB dedicar)
+        )
+        (NP 
+          (CD 100)
+          (NN %)
+        )
+        (PP 
+          (IN a)
+          (NP 
+            (PRP isto)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

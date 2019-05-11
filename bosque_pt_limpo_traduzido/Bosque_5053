@@ -1,62 +1,98 @@
-(S (VP (PP (IN Apesar_de)
-                                 (VP 
-                                   (VP 
-                                     (VB haver))
-                                   (NP 
-                                     (NN suspeitas)
-                                     (PP 
-                                       (IN de)
-                                       (VP 
-                                         (NP 
-                                           (DT o)
-                                           (NN indiv√≠duo))
-                                         (VP 
-                                           (VB estar))
-                                         (VP 
-                                           (VP 
-                                             (VBN relacionado))
-                                           (PP 
-                                             (IN com)
-                                             (NP 
-                                               (DT o)
-                                               (NN tr√°fico)
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (NN drogas)
-                                                   (ADJP 
-                                                     (JJ duras))))
-                                               (_CU_ 
-                                                 (PP 
-                                                   (IN em+)
-                                                   (NP 
-                                                     (DT as)
-                                                     (NNP Galinheiras)))
-                                                 (CC e)
-                                                 (PP 
-                                                   (RB tamb√©m)
-                                                   (IN em+)
-                                                   (NP 
-                                                     (DT a)
-                                                     (NN zona)
-                                                     (PP 
-                                                       (IN de)
-                                                       (NP 
-                                                         (NNP Odivelas)
-                                                         (,)
-                                                         (VP 
-                                                           (ADVP 
-                                                             (RB onde))
-                                                           (VP 
-                                                             (VBP possui))
-                                                           (NP 
-                                                             (PRP outra)
-                                                             (NN casa)))
-                                                         (,))))))))))))))
-                        (NP (PRP nenhuma)
-                                 (NN quantidade)
-                                 (ADJP 
-                                   (JJ significativa)))
-                        (VP (VBP foi)
-                              (VBN encontrada))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Apesar_de)
+      (VP 
+        (VP 
+          (VB haver)
+        )
+        (NP 
+          (NN suspeitas)
+          (PP 
+            (IN de)
+            (VP 
+              (NP 
+                (DT o)
+                (NN indivÌduo)
+              )
+              (VP 
+                (VB estar)
+              )
+              (VP 
+                (VP 
+                  (VBN relacionado)
+                )
+                (PP 
+                  (IN com)
+                  (NP 
+                    (DT o)
+                    (NN tr·fico)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NN drogas)
+                        (ADJP 
+                          (JJ duras)
+                        )
+                      )
+                    )
+                    (PP 
+                      (PP 
+                        (IN em+)
+                        (NP 
+                          (DT as)
+                          (NNP Galinheiras)
+                        )
+                      )
+                      (CC e)
+                      (PP 
+                        (RB tambÈm)
+                        (IN em+)
+                        (NP 
+                          (DT a)
+                          (NN zona)
+                          (PP 
+                            (IN de)
+                            (NP 
+                              (NNP Odivelas)
+                              (,)
+                              (VP 
+                                (ADVP 
+                                  (RB onde)
+                                )
+                                (VP 
+                                  (VBP possui)
+                                )
+                                (NP 
+                                  (PRP outra)
+                                  (NN casa)
+                                )
+                              )
+                              (,)
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (NP 
+      (PRP nenhuma)
+      (NN quantidade)
+      (ADJP 
+        (JJ significativa)
+      )
+    )
+    (VP 
+      (VBP foi)
+      (VBN encontrada)
+    )
+    (.)
+  )
+)

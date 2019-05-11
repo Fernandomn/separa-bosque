@@ -1,35 +1,65 @@
-(S (VP (ADVP (RB Simplesmente))
-                        (VP (VBP tornara-))
-                        (NP (PRP se))
-                        (ADJP (JJ impossÃ­vel))
-                        (,)
-                        (PP (IN por)
-                                 (NP (NN razÃµes)
-                                        (_CU_ 
-                                          (ADJP 
-                                            (JJ tecnolÃ³gicas))
-                                          (,)
-                                          (ADJP 
-                                            (JJ comerciais))
-                                          (CC e)
-                                          (ADJP 
-                                            (JJ financeiras)))))
-                        (,)
-                        (VP (VP (VB estimular))
-                                  (NP 
-                                    (DT o)
-                                    (NN desenvolvimento)
-                                    (PP 
-                                      (IN com)
-                                      (NP 
-                                        (NN base)
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT a)
-                                            (NN substituiÃ§Ã£o)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN importaÃ§Ãµes)))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Simplesmente)
+    )
+    (VP 
+      (VBP tornara-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (ADJP 
+      (JJ impossível)
+    )
+    (,)
+    (PP 
+      (IN por)
+      (NP 
+        (NN razões)
+        (ADJP 
+          (ADJP 
+            (JJ tecnológicas)
+          )
+          (,)
+          (ADJP 
+            (JJ comerciais)
+          )
+          e          (ADJP 
+            (JJ financeiras)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VB estimular)
+      )
+      (NP 
+        (DT o)
+        (NN desenvolvimento)
+        (PP 
+          (IN com)
+          (NP 
+            (NN base)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NN substituição)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN importações)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

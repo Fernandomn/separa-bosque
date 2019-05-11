@@ -1,61 +1,96 @@
-(S (VP (VP (VBP Cheira))
-                        (PP (IN a)
-                                (NP (NN dinheiro)))
-                        (PP (IN em)
-                                 (NP (NNP DÃ¼sseldorf)
-                                        (,)
-                                        (NP 
-                                          (DT uma)
-                                          (NN cidade)
-                                          (VP 
-                                            (PP 
-                                              (IN em)
-                                              (NP 
-                                                (PRP que)))
-                                            (,)
-                                            (_CU_ 
-                                              (PP 
-                                                (RB mesmo)
-                                                (IN em+)
-                                                (NP 
-                                                  (DT as)
-                                                  (NN horas)
-                                                  (PP 
-                                                    (IN de)
-                                                    (NP 
-                                                      (NN ponta)))))
-                                              ({)
-                                              (CC e)
-                                              (PP 
-                                                (IN apesar_de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN trÃ¡fico)
-                                                  (ADJP 
-                                                    (JJ intenso))))
-                                              (}))
-                                            (,)
-                                            (NP 
-                                              (DT as)
-                                              (JJ Ãºnicas)
-                                              (NN bichas))
-                                            (VP 
-                                              (VBP sÃ£o))
-                                            (NP 
-                                              (PRP as)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT os)
-                                                  (NN imigrantes)
-                                                  (ADJP 
-                                                    (JJ turcos))
-                                                  (ADVP 
-                                                    (RB junto)
-                                                    (PP 
-                                                      (IN a+)
-                                                      (NP 
-                                                        (DT o)
-                                                        (PRP seu)
-                                                        (NN consulado)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Cheira)
+    )
+    (PP 
+      (IN a)
+      (NP 
+        (NN dinheiro)
+      )
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NNP Düsseldorf)
+        (,)
+        (NP 
+          (DT uma)
+          (NN cidade)
+          (VP 
+            (PP 
+              (IN em)
+              (NP 
+                (PRP que)
+              )
+            )
+            (,)
+            (UCP 
+              (PP 
+                (RB mesmo)
+                (IN em+)
+                (NP 
+                  (DT as)
+                  (NN horas)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN ponta)
+                    )
+                  )
+                )
+              )
+              ({)
+              (CC e)
+              (PP 
+                (IN apesar_de+)
+                (NP 
+                  (DT o)
+                  (NN tráfico)
+                  (ADJP 
+                    (JJ intenso)
+                  )
+                )
+              )
+              (})
+            )
+            (,)
+            (NP 
+              (DT as)
+              (JJ únicas)
+              (NN bichas)
+            )
+            (VP 
+              (VBP são)
+            )
+            (NP 
+              (PRP as)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NN imigrantes)
+                  (ADJP 
+                    (JJ turcos)
+                  )
+                  (ADVP 
+                    (RB junto)
+                    (PP 
+                      (IN a+)
+                      (NP 
+                        (DT o)
+                        (PRP seu)
+                        (NN consulado)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

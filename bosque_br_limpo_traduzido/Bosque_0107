@@ -1,48 +1,84 @@
-(S (_CU_ (VP (NP (RB Mesmo)
-                                        (DT a)
-                                        (JJ simples)
-                                        (NN tentativa)
-                                        (PP 
-                                          (IN de)
-                                          (VP 
-                                            (NP 
-                                              (PRP se))
-                                            (VP 
-                                              (VB documentar))
-                                            (NP 
-                                              (PRP esse)
-                                              (NN ponto)))))
-                               (VP (VBP deixa))
-                               (NP (DT uma)
-                                       (NN pessoa)
-                                       (VP 
-                                         (VP 
-                                           (VBN exposta))
-                                         (PP 
-                                           (IN a)
-                                           (NP 
-                                             (NN acusaÃ§Ãµes)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN condescendÃªncia))))))))
-                      (CC e)
-                      (VP (,)
-                               (ADVP 
-                                 (RB assim))
-                               (,)
-                               (NP (DT os)
-                                        (NN brancos)
-                                        (ADJP 
-                                          (JJ de_fato)))
-                               (VP (VBP conseguiram))
-                               (VP (VP 
-                                          (VB cooptar))
-                                        (NP 
-                                          (DT os)
-                                          (NN julgamentos)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN valor))))))
-                      (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (RB Mesmo)
+        (DT a)
+        (JJ simples)
+        (NN tentativa)
+        (PP 
+          (IN de)
+          (VP 
+            (NP 
+              (PRP se)
+            )
+            (VP 
+              (VB documentar)
+            )
+            (NP 
+              (PRP esse)
+              (NN ponto)
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP deixa)
+      )
+      (NP 
+        (DT uma)
+        (NN pessoa)
+        (VP 
+          (VP 
+            (VBN exposta)
+          )
+          (PP 
+            (IN a)
+            (NP 
+              (NN acusações)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN condescendência)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    e    (VP 
+      (,)
+      (ADVP 
+        (RB assim)
+      )
+      (,)
+      (NP 
+        (DT os)
+        (NN brancos)
+        (ADJP 
+          (JJ de_fato)
+        )
+      )
+      (VP 
+        (VBP conseguiram)
+      )
+      (VP 
+        (VP 
+          (VB cooptar)
+        )
+        (NP 
+          (DT os)
+          (NN julgamentos)
+          (PP 
+            (IN de)
+            (NP 
+              (NN valor)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,28 +1,48 @@
-(S (VP (NP (DT O)
-                                 (NN telegrama))
-                        (VP (VBP Ã©)
-                              (VBN dirigido))
-                        (PP (IN a)
-                                (NP (NNP Kim_Jong_Il)
-                                       (,)
-                                       (_CU_ 
-                                         (NP 
-                                           (NN filho)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT o)
-                                               (NN falecido)
-                                               (NP 
-                                                 (NN Presidente)
-                                                 (PP 
-                                                   (IN de+)
-                                                   (NP 
-                                                     (DT a)
-                                                     (NNP _Coreia_do_Norte)))))))
-                                         (CC e)
-                                         (NP 
-                                           (PRP seu)
-                                           (JJ presumÃ­vel)
-                                           (NN herdeiro)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN telegrama)
+    )
+    (VP 
+      (VBP é)
+      (VBN dirigido)
+    )
+    (PP 
+      (IN a)
+      (NP 
+        (NNP Kim_Jong_Il)
+        (,)
+        (NP 
+          (NP 
+            (NN filho)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN falecido)
+                (NP 
+                  (NN Presidente)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NNP _Coreia_do_Norte)
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (CC e)
+          (NP 
+            (PRP seu)
+            (JJ presumível)
+            (NN herdeiro)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

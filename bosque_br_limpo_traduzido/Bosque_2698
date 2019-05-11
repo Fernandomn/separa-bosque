@@ -1,44 +1,69 @@
-(S (VP (NP (DT A)
-                                 (NN histÃ³ria)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN Torre)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NNP Babel)
-                                              ({)
-                                              (NP 
-                                                (NN GÃªnesis)
-                                                (,)
-                                                (NP 
-                                                  (NN capÃ­tulo)
-                                                  (ADJP 
-                                                    (CD 11)))
-                                                (,))
-                                              (PP 
-                                                (IN em+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NNP Antigo_Testamento)))
-                                              (}))))))
-                        (VP (VBP diz))
-                        (VP (IN que)
-                                 (Â«)
-                                 (NP 
-                                   (DT a)
-                                   (NN Terra))
-                                 (VP (VBP tinha))
-                                 (_CU_ 
-                                   (NP 
-                                     (DT uma)
-                                     (JJ sÃ³)
-                                     (NN lÃ­ngua))
-                                   (CC e)
-                                   (NP 
-                                     (DT um)
-                                     (JJ sÃ³)
-                                     (NN modo_de_falar)))
-                                 (Â»))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN história)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN Torre)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Babel)
+              ({)
+              (NP 
+                (NN Gênesis)
+                (,)
+                (NP 
+                  (NN capítulo)
+                  (ADJP 
+                    (CD 11)
+                  )
+                )
+                (,)
+              )
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT o)
+                  (NNP Antigo_Testamento)
+                )
+              )
+              (})
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP diz)
+    )
+    (VP 
+      (IN que)
+      («)
+      (NP 
+        (DT a)
+        (NN Terra)
+      )
+      (VP 
+        (VBP tinha)
+      )
+      (NP 
+        (NP 
+          (DT uma)
+          (JJ só)
+          (NN língua)
+        )
+        e        (NP 
+          (DT um)
+          (JJ só)
+          (NN modo_de_falar)
+        )
+      )
+      (»)
+    )
+    (.)
+  )
+)

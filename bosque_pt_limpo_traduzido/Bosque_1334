@@ -1,18 +1,37 @@
-(S (_CU_ (VP (NP 
-                                  (PRP Os)
-                                  (NN uniformes))
-                                (VP (VBP estavam))
-                                (_CU_ (VBN amarrotados)
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ sujos))))
-                       (,)
-                       (ADVP (NP 
-                                  (PRP as)
-                                  (NN botas))
-                                (_CU_ (ADJP 
-                                         (JJ imundas))
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ rotas))))
-                       (.)))
+(S 
+  (UCP 
+    (VP 
+      (NP 
+        (PRP Os)
+        (NN uniformes)
+      )
+      (VP 
+        (VBP estavam)
+      )
+      (UCP 
+        (VBN amarrotados)
+        (CC e)
+        (ADJP 
+          (JJ sujos)
+        )
+      )
+    )
+    (,)
+    (ADVP 
+      (NP 
+        (PRP as)
+        (NN botas)
+      )
+      (ADJP 
+        (ADJP 
+          (JJ imundas)
+        )
+        (CC e)
+        (ADJP 
+          (JJ rotas)
+        )
+      )
+    )
+    (.)
+  )
+)

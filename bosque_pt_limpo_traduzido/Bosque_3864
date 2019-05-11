@@ -1,39 +1,69 @@
-(S (VP (NP (NNP Gopher))
-                        (VP (VBP √©))
-                        (NP (DT um)
-                               (NN programa)
-                               (PP (IN de)
-                                      (NP 
-                                        (NN utiliza√ß√£o)
-                                        (_CU_ 
-                                          (NP 
-                                            (NN cliente))
-                                          (-)
-                                          (ADJP 
-                                            (JJ servidor))))))
-                        (,)
-                        (VP (PP 
-                                    (IN por+)
-                                    (NP 
-                                      (PRP o_que)))
-                                  (VP (VBP requere))
-                                  (VP 
-                                    (IN que)
-                                    (NP 
-                                      (DT o)
-                                      (NN utilizador))
-                                    (VP 
-                                      (VBP disponha))
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (DT uma)
-                                        (NN vers√£o)
-                                        (NP 
-                                          (NN cliente))
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NNP Gopher)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Gopher)
+    )
+    (VP 
+      (VBP È)
+    )
+    (NP 
+      (DT um)
+      (NN programa)
+      (PP 
+        (IN de)
+        (NP 
+          (NN utilizaÁ„o)
+          (UCP 
+            (NP 
+              (NN cliente)
+            )
+            (-)
+            (ADJP 
+              (JJ servidor)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (PP 
+        (IN por+)
+        (NP 
+          (PRP o_que)
+        )
+      )
+      (VP 
+        (VBP requere)
+      )
+      (VP 
+        (IN que)
+        (NP 
+          (DT o)
+          (NN utilizador)
+        )
+        (VP 
+          (VBP disponha)
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (DT uma)
+            (NN vers„o)
+            (NP 
+              (NN cliente)
+            )
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NNP Gopher)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

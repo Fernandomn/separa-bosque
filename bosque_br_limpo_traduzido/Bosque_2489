@@ -1,48 +1,74 @@
-(S (VP (NP (DT O)
-                                 (NN nome))
-                        (VP (VBP seria))
-                        (NP (DT uma)
-                               (NN tentativa)
-                               (PP 
-                                 (IN de)
-                                 (VP 
-                                   (VP 
-                                     (VB passar))
-                                   (PP 
-                                     (IN a+)
-                                     (NP 
-                                       (DT as)
-                                       (NN pessoas)))
-                                   (NP 
-                                     (DT o)
-                                     (NN conceito)
-                                     (_CU_ 
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NP auto-suficiÃªncia)
-                                           (VP 
-                                             (NP 
-                                               (PRP cada)
-                                               (NN ser))
-                                             (VP 
-                                               (VBP Ã©))
-                                             (NP 
-                                               (DT um)
-                                               (Â«)
-                                               (NN planeta)
-                                               (Â»)))))
-                                       (CC mas)
-                                       (PP 
-                                         (RB tambÃ©m)
-                                         (IN de)
-                                         (NP 
-                                           (NP inter-relaÃ§Ã£o)
-                                           (PP 
-                                             (IN entre)
-                                             (NP 
-                                               (DT os)
-                                               (Â«)
-                                               (NN planetas)
-                                               (Â»))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN nome)
+    )
+    (VP 
+      (VBP seria)
+    )
+    (NP 
+      (DT uma)
+      (NN tentativa)
+      (PP 
+        (IN de)
+        (VP 
+          (VP 
+            (VB passar)
+          )
+          (PP 
+            (IN a+)
+            (NP 
+              (DT as)
+              (NN pessoas)
+            )
+          )
+          (NP 
+            (DT o)
+            (NN conceito)
+            (PP 
+              (PP 
+                (IN de)
+                (NP 
+                  (NP auto-suficiência)
+                  (VP 
+                    (NP 
+                      (PRP cada)
+                      (NN ser)
+                    )
+                    (VP 
+                      (VBP é)
+                    )
+                    (NP 
+                      (DT um)
+                      («)
+                      (NN planeta)
+                      (»)
+                    )
+                  )
+                )
+              )
+              mas              (PP 
+                (RB também)
+                (IN de)
+                (NP 
+                  (NP inter-relação)
+                  (PP 
+                    (IN entre)
+                    (NP 
+                      (DT os)
+                      («)
+                      (NN planetas)
+                      (»)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

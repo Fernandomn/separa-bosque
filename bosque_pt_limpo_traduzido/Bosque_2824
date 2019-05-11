@@ -1,48 +1,83 @@
-(S (VP (NP (DT O)
-                                 (NN trabalho)
-                                 (ADJP 
-                                   (JJ di√°rio))
-                                 (PP (IN de)
-                                        (NP 
-                                          (NNP Peter_Williams))))
-                        (VP (VBP √©))
-                        (_CU_ (VP (VP 
-                                          (VB construir))
-                                        (NP 
-                                          (NN mundos)))
-                               (CC e)
-                               (VP (VP 
-                                          (VB imaginar))
-                                        (NP 
-                                          (DT o)
-                                          (NN modo)
-                                          (_CU_ 
-                                            (VP 
-                                              (ADVP 
-                                                (RB como))
-                                              (NP 
-                                                (DT as)
-                                                (NN pessoas))
-                                              (VP 
-                                                (VBP v√£o)
-                                                (VB interagir))
-                                              (PP 
-                                                (IN em+)
-                                                (NP 
-                                                  (PRP eles))))
-                                            ({)
-                                            (CC ou)
-                                            (VP 
-                                              (ADVP 
-                                                (RB como))
-                                              (VP 
-                                                (VBP pensa))
-                                              (VP 
-                                                (IN que)
-                                                (NP 
-                                                  (PRP isso))
-                                                (VP 
-                                                  (VBP vai)
-                                                  (VB acontecer))))
-                                            (})))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN trabalho)
+      (ADJP 
+        (JJ di·rio)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NNP Peter_Williams)
+        )
+      )
+    )
+    (VP 
+      (VBP È)
+    )
+    (VP 
+      (VP 
+        (VP 
+          (VB construir)
+        )
+        (NP 
+          (NN mundos)
+        )
+      )
+      (CC e)
+      (VP 
+        (VP 
+          (VB imaginar)
+        )
+        (NP 
+          (DT o)
+          (NN modo)
+          (UCP 
+            (VP 
+              (ADVP 
+                (RB como)
+              )
+              (NP 
+                (DT as)
+                (NN pessoas)
+              )
+              (VP 
+                (VBP v„o)
+                (VB interagir)
+              )
+              (PP 
+                (IN em+)
+                (NP 
+                  (PRP eles)
+                )
+              )
+            )
+            ({)
+            (CC ou)
+            (VP 
+              (ADVP 
+                (RB como)
+              )
+              (VP 
+                (VBP pensa)
+              )
+              (VP 
+                (IN que)
+                (NP 
+                  (PRP isso)
+                )
+                (VP 
+                  (VBP vai)
+                  (VB acontecer)
+                )
+              )
+            )
+            (})
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

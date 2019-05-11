@@ -1,87 +1,139 @@
-(S (VP (PP (RB JÃ¡)
-                                 (IN em+)
-                                 (NP (DT o)
-                                        (NNP Real_Madrid)))
-                        (,)
-                        (_CU_ (PP 
-                                   (IN apesar_de)
-                                   (VP 
-                                     (NP 
-                                       (DT a)
-                                       (NN equipa))
-                                     (VP 
-                                       (VB continuar))
-                                     (ADVP 
-                                       (RB mal))
-                                     (--)
-                                     (VP 
-                                       (VP 
-                                         (VBP foi)
-                                         (VBN humilhada))
-                                       (PP 
-                                         (IN por+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP Deportivo_da_Corunha)))
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT a)
-                                           (NN quinta-feira)))
-                                       (PP 
-                                         (IN com)
-                                         (NP 
-                                           (CD trÃªs)
-                                           (NN golos)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN velocidade)))
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NNP Bebeto))))))
-                                     (--)))
-                                 (,)
-                                 (PP 
-                                   (IN de)
-                                   (VP 
-                                     (ADVP 
-                                       (RB nÃ£o))
-                                     (VP 
-                                       (VB reencontrar))
-                                     (NP 
-                                       (DT a)
-                                       (NN frescura)
-                                       (VP 
-                                         (NP 
-                                           (PRP que))
-                                         (NP 
-                                           (PRP a))
-                                         (VP 
-                                           (VBP levou))
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT a)
-                                             (NN Ã©poca)
-                                             (VBN passada)))
-                                         (PP 
-                                           (IN a+)
-                                           (NP 
-                                             (DT o)
-                                             (NN tÃ­tulo))))))))
-                        (,)
-                        (NP (DT o)
-                                 (NN treinador)
-                                 (NP (NNP Jorge_Valdano)))
-                        (VP (VBP continua))
-                        (PP (IN com)
-                               (NP (DT o)
-                                      (NN apoio)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN direcÃ§Ã£o)))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (RB Já)
+      (IN em+)
+      (NP 
+        (DT o)
+        (NNP Real_Madrid)
+      )
+    )
+    (,)
+    (PP 
+      (PP 
+        (IN apesar_de)
+        (VP 
+          (NP 
+            (DT a)
+            (NN equipa)
+          )
+          (VP 
+            (VB continuar)
+          )
+          (ADVP 
+            (RB mal)
+          )
+          (--)
+          (VP 
+            (VP 
+              (VBP foi)
+              (VBN humilhada)
+            )
+            (PP 
+              (IN por+)
+              (NP 
+                (DT o)
+                (NNP Deportivo_da_Corunha)
+              )
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NN quinta-feira)
+              )
+            )
+            (PP 
+              (IN com)
+              (NP 
+                (CD três)
+                (NN golos)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN velocidade)
+                  )
+                )
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NNP Bebeto)
+                  )
+                )
+              )
+            )
+          )
+          (--)
+        )
+      )
+      (,)
+      (PP 
+        (IN de)
+        (VP 
+          (ADVP 
+            (RB não)
+          )
+          (VP 
+            (VB reencontrar)
+          )
+          (NP 
+            (DT a)
+            (NN frescura)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (NP 
+                (PRP a)
+              )
+              (VP 
+                (VBP levou)
+              )
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT a)
+                  (NN época)
+                  (VBN passada)
+                )
+              )
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT o)
+                  (NN título)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN treinador)
+      (NP 
+        (NNP Jorge_Valdano)
+      )
+    )
+    (VP 
+      (VBP continua)
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (DT o)
+        (NN apoio)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN direcção)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

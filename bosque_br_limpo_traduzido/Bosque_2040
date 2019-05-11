@@ -1,51 +1,86 @@
-(S (VP (NP (DT O)
-                                 (NN objetivo)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN projeto))))
-                        (,)
-                        (PP (IN segundo)
-                                 (NP (NNP Miro)))
-                        (,)
-                        (VP (VBP Ã©))
-                        (VP (VP (VB facilitar))
-                                (_CU_ (NP 
-                                          (DT a)
-                                          (NN investigaÃ§Ã£o)
-                                          (ADJP 
-                                            (JJ policial)))
-                                        (CC e)
-                                        (NP 
-                                          (DT a)
-                                          (NN obtenÃ§Ã£o)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN provas)
-                                              (PP 
-                                                (IN contra)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN crime)
-                                                  (VBN organizado)))
-                                              ({)
-                                              (NP 
-                                                (NN delitos)
-                                                (VP 
-                                                  (VP 
-                                                    (VBN praticados))
-                                                  (PP 
-                                                    (IN por)
-                                                    (NP 
-                                                      (NN atividades)
-                                                      (PP 
-                                                        (IN de)
-                                                        (_CU_ 
-                                                          (NP 
-                                                            (NN quadrilha))
-                                                          (CC ou)
-                                                          (NP 
-                                                            (NN bando))))))))
-                                              (}))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN objetivo)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN projeto)
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN segundo)
+      (NP 
+        (NNP Miro)
+      )
+    )
+    (,)
+    (VP 
+      (VBP é)
+    )
+    (VP 
+      (VP 
+        (VB facilitar)
+      )
+      (NP 
+        (NP 
+          (DT a)
+          (NN investigação)
+          (ADJP 
+            (JJ policial)
+          )
+        )
+        e        (NP 
+          (DT a)
+          (NN obtenção)
+          (PP 
+            (IN de)
+            (NP 
+              (NN provas)
+              (PP 
+                (IN contra)
+                (NP 
+                  (DT o)
+                  (NN crime)
+                  (VBN organizado)
+                )
+              )
+              ({)
+              (NP 
+                (NN delitos)
+                (VP 
+                  (VP 
+                    (VBN praticados)
+                  )
+                  (PP 
+                    (IN por)
+                    (NP 
+                      (NN atividades)
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (NP 
+                            (NN quadrilha)
+                          )
+                          ou                          (NP 
+                            (NN bando)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+              (})
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

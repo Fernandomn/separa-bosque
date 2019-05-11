@@ -1,43 +1,68 @@
-(S (VP (VP (Â«)
-                                 (PP 
-                                   (IN Em+)
-                                   (NP 
-                                     (DT o)
-                                     (JJ Ãºltimo)
-                                     (NN jogo)))
-                                 (,)
-                                 (NP 
-                                   (PRP nÃ³s))
-                                 (VP (VBP teremos))
-                                 (NP 
-                                   (DT um)
-                                   (NN prazer)
-                                   (,)
-                                   (_CU_ 
-                                     (CC ou)
-                                     (PP 
-                                       (IN de)
-                                       (VP 
-                                         (VP 
-                                           (VB sermos))
-                                         (NP 
-                                           (NN campeÃµes))))
-                                     (CC ou)
-                                     (PP 
-                                       (IN de)
-                                       (VP 
-                                         (VP 
-                                           (VB dar))
-                                         (NP 
-                                           (DT o)
-                                           (NN tÃ­tulo))
-                                         (PP 
-                                           (IN a+)
-                                           (NP 
-                                             (DT o)
-                                             (NNP SÃ£o_Paulo)))))))
-                                 (Â»))
-                        (,)
-                        (VP (VBP garantiu))
-                        (NP (NNP Moacir))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      («)
+      (PP 
+        (IN Em+)
+        (NP 
+          (DT o)
+          (JJ último)
+          (NN jogo)
+        )
+      )
+      (,)
+      (NP 
+        (PRP nós)
+      )
+      (VP 
+        (VBP teremos)
+      )
+      (NP 
+        (DT um)
+        (NN prazer)
+        (,)
+        (PP 
+          ou          (PP 
+            (IN de)
+            (VP 
+              (VP 
+                (VB sermos)
+              )
+              (NP 
+                (NN campeões)
+              )
+            )
+          )
+          ou          (PP 
+            (IN de)
+            (VP 
+              (VP 
+                (VB dar)
+              )
+              (NP 
+                (DT o)
+                (NN título)
+              )
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT o)
+                  (NNP São_Paulo)
+                )
+              )
+            )
+          )
+        )
+      )
+      (»)
+    )
+    (,)
+    (VP 
+      (VBP garantiu)
+    )
+    (NP 
+      (NNP Moacir)
+    )
+    (.)
+  )
+)

@@ -1,71 +1,109 @@
-(S (VP (PP (IN Segundo)
-                                 (NP (DT o)
-                                        (NN instituto_Cifra)))
-                        (,)
-                        (NP (DT o)
-                                 (NNP Partido_do_Colorado)
-                                 ({)
-                                 (NP 
-                                   (NN liberal))
-                                 (})
-                                 (,)
-                                 (PP 
-                                   (IN de)
-                                   (NP 
-                                     (NNP Sanguinetti)))
-                                 (,))
-                        (VP (VBP ter√°)
-                              (VBN vencido))
-                        (NP (DT a)
-                                (NN corrida)
-                                (ADJP 
-                                  (JJ eleitoral)))
-                        (PP (IN com)
-                                 (NP (CD 33,5)
-                                        (NN por_cento)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (NN sufr√°gios)))
-                                        (,)
-                                        (PP 
-                                          (IN contra)
-                                          (_CU_ 
-                                            (NP 
-                                              (CD 31)
-                                              (NN por_cento)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NNP Partido_Nacional)
-                                                  ({)
-                                                  (ADJP 
-                                                    (JJ conservador))
-                                                  (})
-                                                  (,)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT o)
-                                                      (NN Presidente)
-                                                      (ADJP 
-                                                        (JJ cessante))
-                                                      (NP 
-                                                        (NNP Lu√≠s_Alberto_Lacalle)))))))
-                                            (,)
-                                            (CC e)
-                                            (NP 
-                                              (CD 30)
-                                              (NN por_cento)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NNP Frente_Ampla)
-                                                  ({)
-                                                  (ADJP 
-                                                    (JJ esquerda))
-                                                  (}))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Segundo)
+      (NP 
+        (DT o)
+        (NN instituto_Cifra)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NNP Partido_do_Colorado)
+      ({)
+      (NP 
+        (NN liberal)
+      )
+      (})
+      (,)
+      (PP 
+        (IN de)
+        (NP 
+          (NNP Sanguinetti)
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP ter·)
+      (VBN vencido)
+    )
+    (NP 
+      (DT a)
+      (NN corrida)
+      (ADJP 
+        (JJ eleitoral)
+      )
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (CD 33,5)
+        (NN por_cento)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN sufr·gios)
+          )
+        )
+        (,)
+        (PP 
+          (IN contra)
+          (NP 
+            (NP 
+              (CD 31)
+              (NN por_cento)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NNP Partido_Nacional)
+                  ({)
+                  (ADJP 
+                    (JJ conservador)
+                  )
+                  (})
+                  (,)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NN Presidente)
+                      (ADJP 
+                        (JJ cessante)
+                      )
+                      (NP 
+                        (NNP LuÌs_Alberto_Lacalle)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+            (,)
+            (CC e)
+            (NP 
+              (CD 30)
+              (NN por_cento)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NNP Frente_Ampla)
+                  ({)
+                  (ADJP 
+                    (JJ esquerda)
+                  )
+                  (})
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,51 +1,84 @@
-(S (VP (NP (PRP Este)
-                                 (,)
-                                 (_CU_ 
-                                   (NP 
-                                     (NN vencedor)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NN ordem)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN MÃ©rito)))
-                                         (PP 
-                                           (IN de)
-                                           (ADJP 
-                                             (CD 89))))))
-                                   (CC e)
-                                   (ADJP 
-                                     (JJ 17Âº)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (Â«)
-                                         (NN ranking)
-                                         (Â»)
-                                         (ADJP 
-                                           (JJ mundial)))))))
-                        (,)
-                        (VP (VBP posiciona-))
-                        (NP (PRP se))
-                        (ADVP (RB agora))
-                        (ADVP (RB como)
-                                (NP (DT o)
-                                       (JJ principal)
-                                       (NN favorito)
-                                       (PP 
-                                         (IN a+)
-                                         (NP 
-                                           (DT a)
-                                           (NN vitÃ³ria)))
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP Open)
-                                           (ADJP 
-                                             (JJ portuguÃªs))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Este)
+      (,)
+      (UCP 
+        (NP 
+          (NN vencedor)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN ordem)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN Mérito)
+                )
+              )
+              (PP 
+                (IN de)
+                (ADJP 
+                  (CD 89)
+                )
+              )
+            )
+          )
+        )
+        (CC e)
+        (ADJP 
+          (JJ 17º)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              («)
+              (NN ranking)
+              (»)
+              (ADJP 
+                (JJ mundial)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP posiciona-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (ADVP 
+      (RB agora)
+    )
+    (ADVP 
+      (RB como)
+      (NP 
+        (DT o)
+        (JJ principal)
+        (NN favorito)
+        (PP 
+          (IN a+)
+          (NP 
+            (DT a)
+            (NN vitória)
+          )
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NNP Open)
+            (ADJP 
+              (JJ português)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

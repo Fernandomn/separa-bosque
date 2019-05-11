@@ -1,37 +1,64 @@
-(S (VP (ADVP (RB De_acordo)
-                                   (PP 
-                                     (IN com)
-                                     (NP 
-                                       (DT a)
-                                       (NNP Enciclop√©dia_Brit√¢nica))))
-                        (,)
-                        (NP (DT o)
-                                 (NN linchamento))
-                        (VP (VBP √©))
-                        (NP (DT uma)
-                               (NN pr√°tica)
-                               (VP (NP 
-                                         (PRP que))
-                                       (NP 
-                                         (PRP se))
-                                       (VP 
-                                         (VBP verifica))
-                                       (PP 
-                                         (IN em)
-                                         (NP 
-                                           (NN momentos)
-                                           (_CU_ 
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN instabilidade)))
-                                             (CC ou)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN amea√ßa)
-                                                 (PP 
-                                                   (IN de)
-                                                   (NP 
-                                                     (NN anarquia))))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB De_acordo)
+      (PP 
+        (IN com)
+        (NP 
+          (DT a)
+          (NNP EnciclopÈdia_Brit‚nica)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN linchamento)
+    )
+    (VP 
+      (VBP È)
+    )
+    (NP 
+      (DT uma)
+      (NN pr·tica)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (NP 
+          (PRP se)
+        )
+        (VP 
+          (VBP verifica)
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (NN momentos)
+            (PP 
+              (PP 
+                (IN de)
+                (NP 
+                  (NN instabilidade)
+                )
+              )
+              ou              (PP 
+                (IN de)
+                (NP 
+                  (NN ameaÁa)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN anarquia)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,81 +1,131 @@
-(S (VP (NP (DT O)
-                                 (NN movimento)
-                                 (ADJP 
-                                   (JJ ecologista))
-                                 (ADJP 
-                                   (JJ bÃºlgaro))
-                                 (NP (NNP Ecoglasnost)))
-                        (VP (VBP pediu))
-                        (PP (IN a+)
-                                (NP (DT os)
-                                       (NN paÃ­ses)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NNP CEE)))))
-                        (PP (IN para)
-                                 (VP 
-                                   (VP 
-                                     (VB fornecer))
-                                   (ADVP 
-                                     (RB gratuitamente))
-                                   (NP 
-                                     (NN energia))
-                                   (PP 
-                                     (IN a+)
-                                     (NP 
-                                       (DT a)
-                                       (NNP BulgÃ¡ria)))
-                                   (PP 
-                                     (IN com)
-                                     (NP 
-                                       (DT o)
-                                       (NN objectivo)
-                                       (PP 
-                                         (IN de)
-                                         (VP 
-                                           (VP 
-                                             (VB possibilitar))
-                                           (NP 
-                                             (DT o)
-                                             (NN encerramento)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN central)
-                                                 (ADJP 
-                                                   (JJ nuclear))
-                                                 (PP 
-                                                   (IN de)
-                                                   (NP 
-                                                     (NNP Kozlodoui)))
-                                                 (,)
-                                                 (_CU_ 
-                                                   (VP 
-                                                     (VP 
-                                                       (VBN situada))
-                                                     (PP 
-                                                       (IN em+)
-                                                       (NP 
-                                                         (DT o)
-                                                         (NNP DanÃºbio))))
-                                                   (CC e)
-                                                   (VP 
-                                                     (VP 
-                                                       (VBN considerada))
-                                                     (ADJP 
-                                                       (JJ perigosa))
-                                                     (PP 
-                                                       (IN por+)
-                                                       (NP 
-                                                         (DT os)
-                                                         (NN peritos)
-                                                         (_CU_ 
-                                                           (ADJP 
-                                                             (JJ bÃºlgaros))
-                                                           (CC e)
-                                                           (ADJP 
-                                                             (JJ internacionais))))))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN movimento)
+      (ADJP 
+        (JJ ecologista)
+      )
+      (ADJP 
+        (JJ búlgaro)
+      )
+      (NP 
+        (NNP Ecoglasnost)
+      )
+    )
+    (VP 
+      (VBP pediu)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT os)
+        (NN países)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP CEE)
+          )
+        )
+      )
+    )
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VB fornecer)
+        )
+        (ADVP 
+          (RB gratuitamente)
+        )
+        (NP 
+          (NN energia)
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (DT a)
+            (NNP Bulgária)
+          )
+        )
+        (PP 
+          (IN com)
+          (NP 
+            (DT o)
+            (NN objectivo)
+            (PP 
+              (IN de)
+              (VP 
+                (VP 
+                  (VB possibilitar)
+                )
+                (NP 
+                  (DT o)
+                  (NN encerramento)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN central)
+                      (ADJP 
+                        (JJ nuclear)
+                      )
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (NNP Kozlodoui)
+                        )
+                      )
+                      (,)
+                      (VP 
+                        (VP 
+                          (VP 
+                            (VBN situada)
+                          )
+                          (PP 
+                            (IN em+)
+                            (NP 
+                              (DT o)
+                              (NNP Danúbio)
+                            )
+                          )
+                        )
+                        (CC e)
+                        (VP 
+                          (VP 
+                            (VBN considerada)
+                          )
+                          (ADJP 
+                            (JJ perigosa)
+                          )
+                          (PP 
+                            (IN por+)
+                            (NP 
+                              (DT os)
+                              (NN peritos)
+                              (ADJP 
+                                (ADJP 
+                                  (JJ búlgaros)
+                                )
+                                (CC e)
+                                (ADJP 
+                                  (JJ internacionais)
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

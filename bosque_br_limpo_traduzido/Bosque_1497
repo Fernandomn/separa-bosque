@@ -1,17 +1,33 @@
-(S (VP (ADVP (RB NÃ£o))
-                         (VP (VBP esqueÃ§a))
-                         (PP (IN de+)
-                                 (_CU_ (NP 
-                                          (DT os)
-                                          (NN Ã³culos)
-                                          (ADJP 
-                                            (JJ escuros)))
-                                        (CC e)
-                                        (NP 
-                                          (DT uma)
-                                          (NN capa)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN chuva))))))
-                         (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Não)
+    )
+    (VP 
+      (VBP esqueça)
+    )
+    (PP 
+      (IN de+)
+      (NP 
+        (NP 
+          (DT os)
+          (NN óculos)
+          (ADJP 
+            (JJ escuros)
+          )
+        )
+        e        (NP 
+          (DT uma)
+          (NN capa)
+          (PP 
+            (IN de)
+            (NP 
+              (NN chuva)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,45 +1,71 @@
-(S (VP (CC Mas)
-                              (VP (VBG oferecendo))
-                              (NP (DT um)
-                                      (NN conjunto)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN pe√ßas)
-                                          (PP 
-                                            (IN para)
-                                            (_CU_ 
-                                              (NP 
-                                                (NN voz))
-                                              (CC e)
-                                              (NP 
-                                                (NN piano))))))
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN compositor))))
-                              (,)
-                              (PP (IN em+)
-                                       (NP 
-                                         (DT uma)
-                                         (JJ memor√°vel)
-                                         (NN demonstra√ß√£o)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NN vitalidade)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN redescoberta)
-                                                 (PP 
-                                                   (IN de+)
-                                                   (NP 
-                                                     (DT o)
-                                                     (NN canto)
-                                                     (ADJP 
-                                                       (JJ rossiniano))))))))))
-                              (.)))
+(S 
+  (VP 
+    (CC Mas)
+    (VP 
+      (VBG oferecendo)
+    )
+    (NP 
+      (DT um)
+      (NN conjunto)
+      (PP 
+        (IN de)
+        (NP 
+          (NN peÁas)
+          (PP 
+            (IN para)
+            (NP 
+              (NP 
+                (NN voz)
+              )
+              (CC e)
+              (NP 
+                (NN piano)
+              )
+            )
+          )
+        )
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN compositor)
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT uma)
+        (JJ memor·vel)
+        (NN demonstraÁ„o)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN vitalidade)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN redescoberta)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN canto)
+                    (ADJP 
+                      (JJ rossiniano)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

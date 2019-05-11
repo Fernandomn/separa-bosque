@@ -1,34 +1,60 @@
-(S (VP (NP (DT As)
-                                 (JJ principais)
-                                 (NN preocupaÃ§Ãµes)
-                                 (ADJP 
-                                   (JJ mÃ©dicas))
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN actualidade))))
-                        (VP (VBP sÃ£o))
-                        (,)
-                        (PP (IN segundo)
-                                 (NP (NNP Filipe_Arriaga)))
-                        (,)
-                        (Â«)
-                        (NP (DT a)
-                               (VBN elevada)
-                               (NN morbilidade)
-                               (VP 
-                                 (VP (VBN associada))
-                                 (_CU_ 
-                                   (PP 
-                                     (IN a+)
-                                     (NP 
-                                       (DT a)
-                                       (NN depressÃ£o)))
-                                   (CC e)
-                                   (PP 
-                                     (IN a+)
-                                     (NP 
-                                       (DT o)
-                                       (NN suicÃ­dio))))))
-                        (Â»)
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (JJ principais)
+      (NN preocupações)
+      (ADJP 
+        (JJ médicas)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN actualidade)
+        )
+      )
+    )
+    (VP 
+      (VBP são)
+    )
+    (,)
+    (PP 
+      (IN segundo)
+      (NP 
+        (NNP Filipe_Arriaga)
+      )
+    )
+    (,)
+    («)
+    (NP 
+      (DT a)
+      (VBN elevada)
+      (NN morbilidade)
+      (VP 
+        (VP 
+          (VBN associada)
+        )
+        (PP 
+          (PP 
+            (IN a+)
+            (NP 
+              (DT a)
+              (NN depressão)
+            )
+          )
+          (CC e)
+          (PP 
+            (IN a+)
+            (NP 
+              (DT o)
+              (NN suicídio)
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (.)
+  )
+)

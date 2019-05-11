@@ -1,44 +1,79 @@
-(S (VP (NP (DT A)
-                                 (NNP FPF))
-                        (VP (VBP confirmou))
-                        (ADVP (RB ontem))
-                        (NP (DT a)
-                                (NN repeti√ß√£o)
-                                (PP 
-                                  (IN de+)
-                                  (NP 
-                                    (DT o)
-                                    (_CU_ 
-                                      (NP 
-                                        (NNP Benfica))
-                                      (-)
-                                      (NP 
-                                        (NNP Sporting)))))
-                                (PP (IN para)
-                                       (RB amanh√£))
-                                (,)
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (DT o)
-                                    (NN est√°dio)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NNP Restelo))))))
-                        (,)
-                        (VP 
-                          (VP (VBG negando))
-                          (ADVP (RB assim))
-                          (NP (NN provimento))
-                          (PP (IN a+)
-                                  (NP 
-                                    (DT a)
-                                    (NN contesta√ß√£o)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NNP Sporting))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NNP FPF)
+    )
+    (VP 
+      (VBP confirmou)
+    )
+    (ADVP 
+      (RB ontem)
+    )
+    (NP 
+      (DT a)
+      (NN repetiÁ„o)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (UCP 
+            (NP 
+              (NNP Benfica)
+            )
+            (-)
+            (NP 
+              (NNP Sporting)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN para)
+        (RB amanh„)
+      )
+      (,)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN est·dio)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Restelo)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG negando)
+      )
+      (ADVP 
+        (RB assim)
+      )
+      (NP 
+        (NN provimento)
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT a)
+          (NN contestaÁ„o)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Sporting)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

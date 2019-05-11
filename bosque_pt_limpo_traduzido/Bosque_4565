@@ -1,89 +1,136 @@
-(S (VP (NP (CD Duas)
-                                 (PRP outras)
-                                 (NN personalidades)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (NP 
-                                     (PRP se))
-                                   (VP 
-                                     (VBP digladiam))
-                                   (PP 
-                                     (,)
-                                     (PP 
-                                       (IN sem)
-                                       (NP 
-                                         (NN dÃºvida)))
-                                     (,)
-                                     (IN por+)
-                                     (NP 
-                                       (DT o)
-                                       (JJ primeiro)
-                                       (NN plano)
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT o)
-                                           (NN cÃ­rculo)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT o)
-                                               (NN poder)))))))))
-                        (VP (VBP sÃ£o))
-                        (_CU_ (NP (DT o)
-                                       (NN presidente)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NNP CÃ¢mara_de_Moscovo)))
-                                       (,)
-                                       (NP 
-                                         (NNP Iuri_Lujkov))
-                                       (,)
-                                       (VP 
-                                         (VP 
-                                           (VBN aliado))
-                                         (_CU_ 
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT os)
-                                               (NN banqueiros)))
-                                           (CC e)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT as)
-                                               (NN mafias)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT a)
-                                                   (NN capital))))))))
-                               (,)
-                               (CC e)
-                               (NP (NNP Anatoli_Chubais)
-                                       (,)
-                                       (NP 
-                                         (DT o)
-                                         (NP ex-vice-primeiro-ministro)
-                                         (VP 
-                                           (VP 
-                                             (VBN recÃ©m-nomeado))
-                                           (NP 
-                                             (NN chefe)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN casa)
-                                                 (ADJP 
-                                                   (JJ civil))
-                                                 (PP 
-                                                   (IN de+)
-                                                   (NP 
-                                                     (DT a)
-                                                     (NN PresidÃªncia))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (CD Duas)
+      (PRP outras)
+      (NN personalidades)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (NP 
+          (PRP se)
+        )
+        (VP 
+          (VBP digladiam)
+        )
+        (PP 
+          (,)
+          (PP 
+            (IN sem)
+            (NP 
+              (NN dúvida)
+            )
+          )
+          (,)
+          (IN por+)
+          (NP 
+            (DT o)
+            (JJ primeiro)
+            (NN plano)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NN círculo)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN poder)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP são)
+    )
+    (NP 
+      (NP 
+        (DT o)
+        (NN presidente)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP Câmara_de_Moscovo)
+          )
+        )
+        (,)
+        (NP 
+          (NNP Iuri_Lujkov)
+        )
+        (,)
+        (VP 
+          (VP 
+            (VBN aliado)
+          )
+          (PP 
+            (PP 
+              (IN de+)
+              (NP 
+                (DT os)
+                (NN banqueiros)
+              )
+            )
+            (CC e)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT as)
+                (NN mafias)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NN capital)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (CC e)
+      (NP 
+        (NNP Anatoli_Chubais)
+        (,)
+        (NP 
+          (DT o)
+          (NP ex-vice-primeiro-ministro)
+          (VP 
+            (VP 
+              (VBN recém-nomeado)
+            )
+            (NP 
+              (NN chefe)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NN casa)
+                  (ADJP 
+                    (JJ civil)
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN Presidência)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

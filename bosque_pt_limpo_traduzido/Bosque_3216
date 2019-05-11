@@ -1,164 +1,243 @@
-(S (VP (VP (VP 
-                                          (VBG Analisando))
-                                        (NP 
-                                          (PRP estes)
-                                          (NN dados)))
-                        (,)
-                        (NP (DT a)
-                                 (NNP AIP))
-                        (VP (VBP constata))
-                        (VP (IN que)
-                                 (,)
-                                 (Â«)
-                                 (VP 
-                                   (IN se)
-                                   (VP 
-                                     (VBP Ã©))
-                                   (NP 
-                                     (DT um)
-                                     (NN facto))
-                                   (VP 
-                                     (IN que)
-                                     (PP 
-                                       (IN em)
-                                       (NP 
-                                         (PRP todos_os)
-                                         (NN subconjuntos)
-                                         ({)
-                                         (NP 
-                                           (NN empresas)
-                                           (_CU_ 
-                                             (ADJP 
-                                               (JJ industriais))
-                                             (,)
-                                             (PP 
-                                               (IN de)
-                                               (_CU_ 
-                                                 (NP 
-                                                   (NN construÃ§Ã£o))
-                                                 (,)
-                                                 (NP 
-                                                   (NN comÃ©rcio))
-                                                 (CC e)
-                                                 (NP 
-                                                   (NN serviÃ§os)))))
-                                           (,)
-                                           (ADJP 
-                                             (JJ exportadoras))
-                                           (CC e)
-                                           (ADJP 
-                                             (RB nÃ£o)
-                                             (JJ exportadoras)))
-                                         (})))
-                                     (NP 
-                                       (PRP se))
-                                     (VP 
-                                       (VBP verifica))
-                                     (NP 
-                                       (DT uma)
-                                       (NN maioria)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN empresas)
-                                           (VP 
-                                             (PP 
-                                               (IN em)
-                                               (NP 
-                                                 (PRP que)))
-                                             (NP 
-                                               (DT os)
-                                               (NN encargos)
-                                               (ADJP 
-                                                 (JJ financeiros)))
-                                             (VP 
-                                               (VBP sÃ£o))
-                                             (ADJP 
-                                               (JJ inferiores)
-                                               (PP 
-                                                 (IN a)
-                                                 (NP 
-                                                   (CD cinco)
-                                                   (NN por_cento)
-                                                   (PP 
-                                                     (IN de+)
-                                                     (NP 
-                                                       (DT o)
-                                                       (NN volume)
-                                                       (PP 
-                                                         (IN de)
-                                                         (NP 
-                                                           (NN vendas))))))))))))))
-                                 (,)
-                                 (VP (VBP Ã©))
-                                 (ADJP 
-                                   (RB bastante)
-                                   (JJ significativo))
-                                 (NP 
-                                   (DT o)
-                                   (NN facto)
-                                   (PP 
-                                     (IN de)
-                                     (_CU_ 
-                                       (VP 
-                                         (NP 
-                                           (DT um)
-                                           (CD quarto)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT as)
-                                               (NN empresas))))
-                                         (VP 
-                                           (VB apresentar))
-                                         (NP 
-                                           (DT uma)
-                                           (NN relaÃ§Ã£o)
-                                           (NP 
-                                             (NN encargos))
-                                           (ADJP 
-                                             (JJ financeiros))
-                                           (-)
-                                           (NP 
-                                             (NN vendas)
-                                             (PP 
-                                               (IN entre)
-                                               (_CU_ 
-                                                 (NP 
-                                                   (DT os)
-                                                   (_CU_ 
-                                                     (ADJP 
-                                                       (CD cinco))
-                                                     (CC e)
-                                                     (NP 
-                                                       (PRP os)))
-                                                   (CD dez)
-                                                   (NN por_cento))
-                                                 ({)
-                                                 (NP 
-                                                   (CD 29)
-                                                   (NN por_cento)
-                                                   (PP 
-                                                     (IN no_caso_de+)
-                                                     (NP 
-                                                       (DT as)
-                                                       (NN industriais))))
-                                                 (}))))))
-                                       (CC e)
-                                       (VP 
-                                         (NP 
-                                           (CD 18)
-                                           (NN por_cento))
-                                         (VP 
-                                           (VB apresentarem))
-                                         (NP 
-                                           (NN valores)
-                                           (ADJP 
-                                             (JJ superiores)
-                                             (PP 
-                                               (IN a)
-                                               (NP 
-                                                 (CD dez)
-                                                 (NN por_cento)))))))))
-                                 (Â»))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBG Analisando)
+      )
+      (NP 
+        (PRP estes)
+        (NN dados)
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NNP AIP)
+    )
+    (VP 
+      (VBP constata)
+    )
+    (VP 
+      (IN que)
+      (,)
+      («)
+      (VP 
+        (IN se)
+        (VP 
+          (VBP é)
+        )
+        (NP 
+          (DT um)
+          (NN facto)
+        )
+        (VP 
+          (IN que)
+          (PP 
+            (IN em)
+            (NP 
+              (PRP todos_os)
+              (NN subconjuntos)
+              ({)
+              (NP 
+                (NN empresas)
+                (UCP 
+                  (ADJP 
+                    (JJ industriais)
+                  )
+                  (,)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NP 
+                        (NN construção)
+                      )
+                      (,)
+                      (NP 
+                        (NN comércio)
+                      )
+                      (CC e)
+                      (NP 
+                        (NN serviços)
+                      )
+                    )
+                  )
+                )
+                (,)
+                (ADJP 
+                  (JJ exportadoras)
+                )
+                (CC e)
+                (ADJP 
+                  (RB não)
+                  (JJ exportadoras)
+                )
+              )
+              (})
+            )
+          )
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VBP verifica)
+          )
+          (NP 
+            (DT uma)
+            (NN maioria)
+            (PP 
+              (IN de)
+              (NP 
+                (NN empresas)
+                (VP 
+                  (PP 
+                    (IN em)
+                    (NP 
+                      (PRP que)
+                    )
+                  )
+                  (NP 
+                    (DT os)
+                    (NN encargos)
+                    (ADJP 
+                      (JJ financeiros)
+                    )
+                  )
+                  (VP 
+                    (VBP são)
+                  )
+                  (ADJP 
+                    (JJ inferiores)
+                    (PP 
+                      (IN a)
+                      (NP 
+                        (CD cinco)
+                        (NN por_cento)
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT o)
+                            (NN volume)
+                            (PP 
+                              (IN de)
+                              (NP 
+                                (NN vendas)
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VBP é)
+      )
+      (ADJP 
+        (RB bastante)
+        (JJ significativo)
+      )
+      (NP 
+        (DT o)
+        (NN facto)
+        (PP 
+          (IN de)
+          (VP 
+            (VP 
+              (NP 
+                (DT um)
+                (CD quarto)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT as)
+                    (NN empresas)
+                  )
+                )
+              )
+              (VP 
+                (VB apresentar)
+              )
+              (NP 
+                (DT uma)
+                (NN relação)
+                (NP 
+                  (NN encargos)
+                )
+                (ADJP 
+                  (JJ financeiros)
+                )
+                (-)
+                (NP 
+                  (NN vendas)
+                  (PP 
+                    (IN entre)
+                    (UCP 
+                      (NP 
+                        (DT os)
+                        (UCP 
+                          (ADJP 
+                            (CD cinco)
+                          )
+                          (CC e)
+                          (NP 
+                            (PRP os)
+                          )
+                        )
+                        (CD dez)
+                        (NN por_cento)
+                      )
+                      ({)
+                      (NP 
+                        (CD 29)
+                        (NN por_cento)
+                        (PP 
+                          (IN no_caso_de+)
+                          (NP 
+                            (DT as)
+                            (NN industriais)
+                          )
+                        )
+                      )
+                      (})
+                    )
+                  )
+                )
+              )
+            )
+            (CC e)
+            (VP 
+              (NP 
+                (CD 18)
+                (NN por_cento)
+              )
+              (VP 
+                (VB apresentarem)
+              )
+              (NP 
+                (NN valores)
+                (ADJP 
+                  (JJ superiores)
+                  (PP 
+                    (IN a)
+                    (NP 
+                      (CD dez)
+                      (NN por_cento)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (»)
+    )
+    (.)
+  )
+)

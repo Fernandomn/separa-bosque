@@ -1,22 +1,41 @@
-(S (VP (VP (VBP Imaginem))
-                        (ADVP (RB sÃ³))
-                        (;)
-                        (NP (CD 18)
-                                (NN canÃ§Ãµes)
-                                (PP (IN de)
-                                       (NP 
-                                         (JJ puro)
-                                         (NN sumo)
-                                         (ADJP 
-                                           (JJ pop))
-                                         (,)
-                                         (PP 
-                                           (IN sem)
-                                           (_CU_ 
-                                             (NP 
-                                               (NN bafio))
-                                             (ADVP 
-                                               (RB nem))
-                                             (NP 
-                                               (NN conservantes)))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Imaginem)
+    )
+    (ADVP 
+      (RB só)
+    )
+    (;)
+    (NP 
+      (CD 18)
+      (NN canções)
+      (PP 
+        (IN de)
+        (NP 
+          (JJ puro)
+          (NN sumo)
+          (ADJP 
+            (JJ pop)
+          )
+          (,)
+          (PP 
+            (IN sem)
+            (UCP 
+              (NP 
+                (NN bafio)
+              )
+              (ADVP 
+                (RB nem)
+              )
+              (NP 
+                (NN conservantes)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

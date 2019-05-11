@@ -1,25 +1,47 @@
-(S (VP (PP (IN Em+)
-                                (NP (DT o)
-                                       (NN estande)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NNP Tec_Toy)))))
-                       (VP (VBP hÃ¡))
-                       (_CU_ (NP (CD trÃªs)
-                                       (NN consoles)
-                                       (NP 
-                                         (NNP Mega_Drive)))
-                               (,)
-                               (IN alÃ©m_de)
-                               (NP (DT um)
-                                       (NNP Master_System))
-                               (CC e)
-                               (NP (CD quinze)
-                                       (NN cartuchos)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN jogos)))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT o)
+        (NN estande)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP Tec_Toy)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP há)
+    )
+    (UCP 
+      (NP 
+        (CD três)
+        (NN consoles)
+        (NP 
+          (NNP Mega_Drive)
+        )
+      )
+      (,)
+      (IN além_de)
+      (NP 
+        (DT um)
+        (NNP Master_System)
+      )
+      e      (NP 
+        (CD quinze)
+        (NN cartuchos)
+        (PP 
+          (IN de)
+          (NP 
+            (NN jogos)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

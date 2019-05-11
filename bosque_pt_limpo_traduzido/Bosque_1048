@@ -1,56 +1,92 @@
-(S (VP (NP (NNP Ivanisevic)
-                                 (,)
-                                 (NP 
-                                   (NN nÂº)
-                                   (ADJP 
-                                     (CD 4))
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (Â«)
-                                       (NN ranking)
-                                       (Â»)
-                                       (ADJP 
-                                         (JJ mundial)))))
-                                 (,))
-                        (VP (VBP encontrou))
-                        (NP (PRP algumas)
-                                (NN dificuldades)
-                                (PP (IN para)
-                                       (VP 
-                                         (VP 
-                                           (VB bater))
-                                         (NP 
-                                           (DT o)
-                                           (NN francÃªs)
-                                           (NP 
-                                             (NNP Guy_Forget)))
-                                         ({)
-                                         (_CU_ 
-                                           (NP 
-                                             (NN 7-5))
-                                           (CC e)
-                                           (NP 
-                                             (NN 6-4)))
-                                         (}))))
-                        (,)
-                        (VP 
-                          (VP (VBG acabando))
-                          (PP (IN por)
-                                  (VP 
-                                    (NP 
-                                      (PRP se))
-                                    (VP 
-                                      (VB impÃ´r))
-                                    (PP 
-                                      (IN em+)
-                                      (NP 
-                                        (DT a)
-                                        (NN batalha)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN serviÃ§o))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Ivanisevic)
+      (,)
+      (NP 
+        (NN nº)
+        (ADJP 
+          (CD 4)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            («)
+            (NN ranking)
+            (»)
+            (ADJP 
+              (JJ mundial)
+            )
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP encontrou)
+    )
+    (NP 
+      (PRP algumas)
+      (NN dificuldades)
+      (PP 
+        (IN para)
+        (VP 
+          (VP 
+            (VB bater)
+          )
+          (NP 
+            (DT o)
+            (NN francês)
+            (NP 
+              (NNP Guy_Forget)
+            )
+          )
+          ({)
+          (NP 
+            (NP 
+              (NN 7-5)
+            )
+            (CC e)
+            (NP 
+              (NN 6-4)
+            )
+          )
+          (})
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG acabando)
+      )
+      (PP 
+        (IN por)
+        (VP 
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VB impôr)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN batalha)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN serviço)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

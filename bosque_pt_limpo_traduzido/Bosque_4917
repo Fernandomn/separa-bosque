@@ -1,14 +1,32 @@
-(S (NP (_CU_ (NP (NN SÃ¡b.))
-                             (,)
-                             (CC e)
-                             (NP (NN dom.))
-                             (,))
-                       (_CU_ (PP (IN de+)
-                                       (NP 
-                                         (DT as)
-                                         (NN 14h)))
-                              (PP (IN a+)
-                                       (NP 
-                                         (DT as)
-                                         (NN 19h))))
-                       (.)))
+(S 
+  (NP 
+    (NP 
+      (NP 
+        (NN Sáb.)
+      )
+      (,)
+      (CC e)
+      (NP 
+        (NN dom.)
+      )
+      (,)
+    )
+    (PP 
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (NN 14h)
+        )
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT as)
+          (NN 19h)
+        )
+      )
+    )
+    (.)
+  )
+)

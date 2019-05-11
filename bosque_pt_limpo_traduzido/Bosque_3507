@@ -1,33 +1,58 @@
-(S (VP (NP (DT O)
-                                 (NN dÃ³lar))
-                        (VP (VBP subiu))
-                        (PP (IN para)
-                               (NP (NN valores)
-                                      (PP 
-                                        (IN acima_de+)
-                                        (NP 
-                                          (DT os)
-                                          (CD 1,41)
-                                          (NN marcos)))))
-                        (,)
-                        (_CU_ (VP 
-                                   (VP 
-                                     (VBG aproximando-))
-                                   (NP 
-                                     (PRP se))
-                                   (ADVP 
-                                     (RB cautelosamente))
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT os)
-                                       (CD 85)
-                                       (NN ienes))))
-                                 (CC e)
-                                 (VP 
-                                   (VP 
-                                     (VBG mostrando))
-                                   (NP 
-                                     (JJ grande)
-                                     (NN firmeza))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN dólar)
+    )
+    (VP 
+      (VBP subiu)
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (NN valores)
+        (PP 
+          (IN acima_de+)
+          (NP 
+            (DT os)
+            (CD 1,41)
+            (NN marcos)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VP 
+          (VBG aproximando-)
+        )
+        (NP 
+          (PRP se)
+        )
+        (ADVP 
+          (RB cautelosamente)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (CD 85)
+            (NN ienes)
+          )
+        )
+      )
+      (CC e)
+      (VP 
+        (VP 
+          (VBG mostrando)
+        )
+        (NP 
+          (JJ grande)
+          (NN firmeza)
+        )
+      )
+    )
+    (.)
+  )
+)

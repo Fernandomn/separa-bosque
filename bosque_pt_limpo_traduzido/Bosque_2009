@@ -1,19 +1,37 @@
-(S (_CU_ (VP (VP (VBP Acabou))
-                                (NP 
-                                  (DT a)
-                                  (Â«)
-                                  (NNP America's_Cup)
-                                  (Â»)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (CD 1992)))))
-                       (,)
-                       (VP (VP (VBP viva))
-                                (NP 
-                                  (PRP a)
-                                  (PP 
-                                    (IN de)
-                                    (ADJP 
-                                      (CD 1995)))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP Acabou)
+      )
+      (NP 
+        (DT a)
+        («)
+        (NNP America's_Cup)
+        (»)
+        (PP 
+          (IN de)
+          (NP 
+            (CD 1992)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBP viva)
+      )
+      (NP 
+        (PRP a)
+        (PP 
+          (IN de)
+          (ADJP 
+            (CD 1995)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

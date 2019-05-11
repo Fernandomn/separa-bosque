@@ -1,26 +1,51 @@
-(S (VP (VP (VBP Diga))
-                        (NP (PRP se))
-                        (,)
-                        (_CU_ (PP 
-                                   (IN de)
-                                   (RB uma_vez))
-                                 (CC e)
-                                 (ADVP 
-                                   (RB claramente)))
-                        (,)
-                        (_CU_ (VP 
-                                  (NP 
-                                    (PRP o_que))
-                                  (NP 
-                                    (PRP se))
-                                  (VP (VBP quer)))
-                                (CC ou)
-                                (VP 
-                                  (NP 
-                                    (PRP o_que))
-                                  (NP 
-                                    (PRP se))
-                                  (VP (VBP quer))
-                                  (ADVP 
-                                    (RB mais))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Diga)
+    )
+    (NP 
+      (PRP se)
+    )
+    (,)
+    (UCP 
+      (PP 
+        (IN de)
+        (RB uma_vez)
+      )
+      (CC e)
+      (ADVP 
+        (RB claramente)
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (NP 
+          (PRP o_que)
+        )
+        (NP 
+          (PRP se)
+        )
+        (VP 
+          (VBP quer)
+        )
+      )
+      (CC ou)
+      (VP 
+        (NP 
+          (PRP o_que)
+        )
+        (NP 
+          (PRP se)
+        )
+        (VP 
+          (VBP quer)
+        )
+        (ADVP 
+          (RB mais)
+        )
+      )
+    )
+    (.)
+  )
+)

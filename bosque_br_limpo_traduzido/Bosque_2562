@@ -1,15 +1,32 @@
-(S (VP (NP (PRP Essa))
-                        (VP (VBP Ã©))
-                        (NP (DT a)
-                               (NN inscriÃ§Ã£o)
-                               (ADJP (JJ obrigatÃ³ria))
-                               (PP (IN em+)
-                                      (NP 
-                                        (DT os)
-                                        (_CU_ 
-                                          (NP 
-                                            (NN folhetos))
-                                          (CC e)
-                                          (NP 
-                                            (NN cartazes))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Essa)
+    )
+    (VP 
+      (VBP é)
+    )
+    (NP 
+      (DT a)
+      (NN inscrição)
+      (ADJP 
+        (JJ obrigatória)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT os)
+          (NP 
+            (NP 
+              (NN folhetos)
+            )
+            e            (NP 
+              (NN cartazes)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

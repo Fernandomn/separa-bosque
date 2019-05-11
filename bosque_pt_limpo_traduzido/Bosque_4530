@@ -1,51 +1,80 @@
-(S (VP (NP (DT A)
-                                 (NNP FederaÃ§Ã£o_Portuguesa_de_Andebol))
-                        (VP (VBP vai)
-                              (VB analisar))
-                        (ADVP (RB amanhÃ£))
-                        (,)
-                        (PP (IN em)
-                                 (NP (NN reuniÃ£o)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN executivo)))))
-                        (,)
-                        (NP (DT a)
-                                (RB nÃ£o)
-                                (NN realizaÃ§Ã£o)
-                                (,)
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (DT o)
-                                    (VBN passado)
-                                    (NN sÃ¡bado)))
-                                (,)
-                                (PP 
-                                  (IN de+)
-                                  (NP 
-                                    (DT o)
-                                    (NN jogo)
-                                    (_CU_ 
-                                      (NP 
-                                        (NNP FC_Porto))
-                                      (-)
-                                      (NP 
-                                        (NNP GinÃ¡sio_do_Sul)))
-                                    (,)
-                                    (PP 
-                                      (IN referente_a+)
-                                      (NP 
-                                        (DT a)
-                                        (JJ segunda)
-                                        (NN jornada)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (Â«)
-                                            (NNP Nacional)
-                                            (Â»))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NNP Federação_Portuguesa_de_Andebol)
+    )
+    (VP 
+      (VBP vai)
+      (VB analisar)
+    )
+    (ADVP 
+      (RB amanhã)
+    )
+    (,)
+    (PP 
+      (IN em)
+      (NP 
+        (NN reunião)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN executivo)
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (RB não)
+      (NN realização)
+      (,)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (VBN passado)
+          (NN sábado)
+        )
+      )
+      (,)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN jogo)
+          (UCP 
+            (NP 
+              (NNP FC_Porto)
+            )
+            (-)
+            (NP 
+              (NNP Ginásio_do_Sul)
+            )
+          )
+          (,)
+          (PP 
+            (IN referente_a+)
+            (NP 
+              (DT a)
+              (JJ segunda)
+              (NN jornada)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  («)
+                  (NNP Nacional)
+                  (»)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

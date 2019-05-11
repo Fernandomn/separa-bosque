@@ -1,89 +1,140 @@
-(S (VP (NP (DT O)
-                                 (NN norte-americano)
-                                 (NP (NNP Pete_Sampras)))
-                        (VP (VBP foi)
-                              (VBN afastado))
-                        (PP (IN por+)
-                                 (NP (DT o)
-                                        (PRP seu)
-                                        (NN compatriota)
-                                        (NP 
-                                          (NNP Jim_Courier))
-                                        ({)
-                                        (NP 
-                                          (JJ 24Âº)
-                                          (NNP ATP))
-                                        (})))
-                        (PP (IN por+)
-                                 (NP (DT os)
-                                        (NN parciais)
-                                        (PP 
-                                          (IN de)
-                                          (_CU_ 
-                                            (ADJP 
-                                              (CD 7-6)
-                                              ({)
-                                              (CD 7-5)
-                                              (}))
-                                            (,)
-                                            (ADJP 
-                                              (CD 6-4))))))
-                        (,)
-                        (VP (NP 
-                                  (PRP o_que))
-                                (VP (VBP significa))
-                                (VP 
-                                  (IN que)
-                                  (NP 
-                                    (DT o)
-                                    (NN nÃºmero)
-                                    (ADJP 
-                                      (CD um))
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NN mundo))))
-                                  (VP (VBP vai)
-                                        (VB chegar))
-                                  (PP 
-                                    (IN a+)
-                                    (NP 
-                                      (DT a)
-                                      (Â«)
-                                      (NN catedral)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN terra)
-                                          (VBN batida)))
-                                      (Â»)
-                                      (,)
-                                      (NP 
-                                        (NNP Roland_Garros))
-                                      (,)))
-                                  (PP 
-                                    (IN com)
-                                    (NP 
-                                      (CD duas)
-                                      (NN derrotas)
-                                      (PP 
-                                        (IN em)
-                                        (NP 
-                                          (PRP outros)
-                                          (PRP tantos)
-                                          (NN encontros)
-                                          (VP 
-                                            (VP 
-                                              (VBN disputados))
-                                            (PP 
-                                              (IN sobre)
-                                              (NP 
-                                                (DT o)
-                                                (NN pÃ³)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (NN tijolo))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN norte-americano)
+      (NP 
+        (NNP Pete_Sampras)
+      )
+    )
+    (VP 
+      (VBP foi)
+      (VBN afastado)
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT o)
+        (PRP seu)
+        (NN compatriota)
+        (NP 
+          (NNP Jim_Courier)
+        )
+        ({)
+        (NP 
+          (JJ 24º)
+          (NNP ATP)
+        )
+        (})
+      )
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT os)
+        (NN parciais)
+        (PP 
+          (IN de)
+          (ADJP 
+            (ADJP 
+              (CD 7-6)
+              ({)
+              (CD 7-5)
+              (})
+            )
+            (,)
+            (ADJP 
+              (CD 6-4)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (NP 
+        (PRP o_que)
+      )
+      (VP 
+        (VBP significa)
+      )
+      (VP 
+        (IN que)
+        (NP 
+          (DT o)
+          (NN número)
+          (ADJP 
+            (CD um)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN mundo)
+            )
+          )
+        )
+        (VP 
+          (VBP vai)
+          (VB chegar)
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (DT a)
+            («)
+            (NN catedral)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN terra)
+                (VBN batida)
+              )
+            )
+            (»)
+            (,)
+            (NP 
+              (NNP Roland_Garros)
+            )
+            (,)
+          )
+        )
+        (PP 
+          (IN com)
+          (NP 
+            (CD duas)
+            (NN derrotas)
+            (PP 
+              (IN em)
+              (NP 
+                (PRP outros)
+                (PRP tantos)
+                (NN encontros)
+                (VP 
+                  (VP 
+                    (VBN disputados)
+                  )
+                  (PP 
+                    (IN sobre)
+                    (NP 
+                      (DT o)
+                      (NN pó)
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (NN tijolo)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

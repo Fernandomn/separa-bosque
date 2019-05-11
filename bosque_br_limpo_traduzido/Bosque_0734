@@ -1,38 +1,65 @@
-(S (VP (RB Mesmo)
-                        (_CU_ (VP 
-                                   (ADVP 
-                                     (RB quando))
-                                   (NP 
-                                     (DT a)
-                                     (NN gravidez))
-                                   (VP 
-                                     (VBP decorre))
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN estupro))))
-                                 (CC ou)
-                                 (VP 
-                                   (ADVP 
-                                     (RB quando))
-                                   (NP 
-                                     (DT o)
-                                     (NN feto))
-                                   (ADVP 
-                                     (RB nÃ£o))
-                                   (VP 
-                                     (VBP tem))
-                                   (NP 
-                                     (NN chances)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN sobrevivÃªncia))))))
-                        (,)
-                        (NP (DT o)
-                                 (NN aborto))
-                        (VP (VBP Ã©))
-                        (VBN visto)
-                        (ADVP (RB como)
-                                (NP (NN crime)))
-                        (.)))
+(S 
+  (VP 
+    (RB Mesmo)
+    (VP 
+      (VP 
+        (ADVP 
+          (RB quando)
+        )
+        (NP 
+          (DT a)
+          (NN gravidez)
+        )
+        (VP 
+          (VBP decorre)
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (NN estupro)
+          )
+        )
+      )
+      ou      (VP 
+        (ADVP 
+          (RB quando)
+        )
+        (NP 
+          (DT o)
+          (NN feto)
+        )
+        (ADVP 
+          (RB não)
+        )
+        (VP 
+          (VBP tem)
+        )
+        (NP 
+          (NN chances)
+          (PP 
+            (IN de)
+            (NP 
+              (NN sobrevivência)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN aborto)
+    )
+    (VP 
+      (VBP é)
+    )
+    (VBN visto)
+    (ADVP 
+      (RB como)
+      (NP 
+        (NN crime)
+      )
+    )
+    (.)
+  )
+)

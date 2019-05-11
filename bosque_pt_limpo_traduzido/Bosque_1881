@@ -1,107 +1,162 @@
-(S (VP (ADVP (RB AliÃ¡s))
-                        (,)
-                        (VP (VBP hÃ¡))
-                        (PP (IN em+)
-                                 (NP (DT o)
-                                        (NN poema)))
-                        (NP (DT uma)
-                                (NN alusÃ£o)
-                                (ADJP 
-                                  (JJ explÃ­cita))
-                                (PP (IN a+)
-                                        (_CU_ 
-                                          (NP 
-                                            (DT a)
-                                            (NN cor))))
-                                ({)
-                                (NP 
-                                  (Â«)
-                                  (NP (JJ brancos)
-                                        (DT os)
-                                        (NN arcos))
-                                  (Â»)
-                                  (,)
-                                  (PP 
-                                    (IN para)
-                                    (VP 
-                                      (ADVP 
-                                        (RB nÃ£o))
-                                      (VP 
-                                        (VB falar))
-                                      (PP 
-                                        (IN em+)
-                                        (NP 
-                                          (DT a)
-                                          (JJ implÃ­cita)
-                                          (_CU_ 
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT os)
-                                                (Â«)
-                                                (NN alabastros)
-                                                (Â»)))
-                                            (CC e)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT os)
-                                                (Â«)
-                                                (NN blocos)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (NN gelos)))
-                                                (Â»)))))))))
-                                (})
-                                (NP (NP 
-                                          (CC e)
-                                          (NP 
-                                            (PRP vÃ¡rias)
-                                            (NN imagens)
-                                            (ADJP 
-                                              (JJ cinÃ©ticas))
-                                            (;)
-                                            (_CU_ 
-                                              (Â«)
-                                              (VP 
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (PRP que)))
-                                                (VP 
-                                                  (VBP esvoaÃ§am)))
-                                              (Â»)
-                                              (,)
-                                              (Â«)
-                                              (VP 
-                                                (PP 
-                                                  (IN por)
-                                                  (RB baixo))
-                                                (VP 
-                                                  (VBP passam)))
-                                              (Â»)
-                                              (,)
-                                              (Â«)
-                                              (VP 
-                                                (NP 
-                                                  (PRP se))
-                                                (VP 
-                                                  (VBP despedaÃ§am)))
-                                              (Â»)
-                                              (,)
-                                              (Â«)
-                                              (NP 
-                                                (NN caudais)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (NN choro))))
-                                              (Â»)
-                                              (,)
-                                              (Â«)
-                                              (NP 
-                                                (JJ trÃ©mulos)
-                                                (NN astros))
-                                              (Â»))))))
-                        (...)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Aliás)
+    )
+    (,)
+    (VP 
+      (VBP há)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT o)
+        (NN poema)
+      )
+    )
+    (NP 
+      (DT uma)
+      (NN alusão)
+      (ADJP 
+        (JJ explícita)
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (NP 
+            (DT a)
+            (NN cor)
+          )
+        )
+      )
+      ({)
+      (NP 
+        («)
+        (NP 
+          (JJ brancos)
+          (DT os)
+          (NN arcos)
+        )
+        (»)
+        (,)
+        (PP 
+          (IN para)
+          (VP 
+            (ADVP 
+              (RB não)
+            )
+            (VP 
+              (VB falar)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (JJ implícita)
+                (PP 
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT os)
+                      («)
+                      (NN alabastros)
+                      (»)
+                    )
+                  )
+                  (CC e)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT os)
+                      («)
+                      (NN blocos)
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (NN gelos)
+                        )
+                      )
+                      (»)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (})
+      (NP 
+        (NP 
+          (CC e)
+          (NP 
+            (PRP várias)
+            (NN imagens)
+            (ADJP 
+              (JJ cinéticas)
+            )
+            (;)
+            (UCP 
+              («)
+              (VP 
+                (PP 
+                  (IN de)
+                  (NP 
+                    (PRP que)
+                  )
+                )
+                (VP 
+                  (VBP esvoaçam)
+                )
+              )
+              (»)
+              (,)
+              («)
+              (VP 
+                (PP 
+                  (IN por)
+                  (RB baixo)
+                )
+                (VP 
+                  (VBP passam)
+                )
+              )
+              (»)
+              (,)
+              («)
+              (VP 
+                (NP 
+                  (PRP se)
+                )
+                (VP 
+                  (VBP despedaçam)
+                )
+              )
+              (»)
+              (,)
+              («)
+              (NP 
+                (NN caudais)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN choro)
+                  )
+                )
+              )
+              (»)
+              (,)
+              («)
+              (NP 
+                (JJ trémulos)
+                (NN astros)
+              )
+              (»)
+            )
+          )
+        )
+      )
+    )
+    (...)
+  )
+)

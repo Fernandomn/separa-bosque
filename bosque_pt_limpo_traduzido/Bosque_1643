@@ -1,13 +1,26 @@
-(S (NP (NN Tabaco)
-                       (PP (IN em+)
-                              (NP (DT os)
-                                     (NNP EUA)))
-                       (--)
-                       (_CU_ (NP 
-                                    (NN Venda)
-                                    (VBN limitada))
-                                  (,)
-                                  (NP 
-                                    (NN publicidade)
-                                    (ADJP 
-                                      (JJ livre))))))
+(S 
+  (NP 
+    (NN Tabaco)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT os)
+        (NNP EUA)
+      )
+    )
+    (--)
+    (NP 
+      (NP 
+        (NN Venda)
+        (VBN limitada)
+      )
+      (,)
+      (NP 
+        (NN publicidade)
+        (ADJP 
+          (JJ livre)
+        )
+      )
+    )
+  )
+)

@@ -1,49 +1,85 @@
-(S (VP (PP (IN Segundo)
-                                 (NP (DT o)
-                                        (NN jogador)))
-                        (,)
-                        (NP (DT o)
-                                 (NNP Palmeiras))
-                        (ADVP (RB s√≥))
-                        (VP (VBP ter√°))
-                        (NP (NN dificuldades)
-                                (PP (IN para)
-                                       (VP 
-                                         (VP 
-                                           (VB garantir))
-                                         (NP 
-                                           (DT o)
-                                           (NN t√≠tulo))
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT a)
-                                             (NN partida)
-                                             (PP 
-                                               (IN contra)
-                                               (NP 
-                                                 (DT o)
-                                                 (NNP Corinthians))))))))
-                        (VP (ADVP 
-                                    (RB pois))
-                                  (VP (VBP deve)
-                                        (VB enfrentar))
-                                  (ADVP 
-                                    (RB antes))
-                                  (NP 
-                                    (NN advers√°rios)
-                                    (ADJP 
-                                      (RB teoricamente)
-                                      (JJ f√°ceis))
-                                    ({)
-                                    (_CU_ 
-                                      (NP 
-                                        (NNP Mogi_Mirim))
-                                      (,)
-                                      (NP 
-                                        (NNP Ituano))
-                                      (CC e)
-                                      (NP 
-                                        (NNP Santo_Andr√©)))
-                                    (})))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Segundo)
+      (NP 
+        (DT o)
+        (NN jogador)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NNP Palmeiras)
+    )
+    (ADVP 
+      (RB sÛ)
+    )
+    (VP 
+      (VBP ter·)
+    )
+    (NP 
+      (NN dificuldades)
+      (PP 
+        (IN para)
+        (VP 
+          (VP 
+            (VB garantir)
+          )
+          (NP 
+            (DT o)
+            (NN tÌtulo)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN partida)
+              (PP 
+                (IN contra)
+                (NP 
+                  (DT o)
+                  (NNP Corinthians)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (ADVP 
+        (RB pois)
+      )
+      (VP 
+        (VBP deve)
+        (VB enfrentar)
+      )
+      (ADVP 
+        (RB antes)
+      )
+      (NP 
+        (NN advers·rios)
+        (ADJP 
+          (RB teoricamente)
+          (JJ f·ceis)
+        )
+        ({)
+        (NP 
+          (NP 
+            (NNP Mogi_Mirim)
+          )
+          (,)
+          (NP 
+            (NNP Ituano)
+          )
+          e          (NP 
+            (NNP Santo_AndrÈ)
+          )
+        )
+        (})
+      )
+    )
+    (.)
+  )
+)

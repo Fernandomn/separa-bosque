@@ -1,29 +1,53 @@
-(S (_CU_ (VP (NP 
-                                  (PRP Isto))
-                                (VP (VBP diminuiria))
-                                (NP (DT a)
-                                        (NN criminalidade)))
-                       (,)
-                       (VP (VP (VBP haveria))
-                                (NP (PRP menos)
-                                        (NN mortes)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN por)
-                                            (Â«)
-                                            (NP 
-                                              (NN overdose))
-                                            (Â»))
-                                          (CC e)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (PRP outras)
-                                              (NN doenÃ§as)
-                                              (,)
-                                              (ADVP 
-                                                (RB como)
-                                                (NP 
-                                                  (PRP a)
-                                                  (NN sida))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (PRP Isto)
+      )
+      (VP 
+        (VBP diminuiria)
+      )
+      (NP 
+        (DT a)
+        (NN criminalidade)
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBP haveria)
+      )
+      (NP 
+        (PRP menos)
+        (NN mortes)
+        (PP 
+          (PP 
+            (IN por)
+            («)
+            (NP 
+              (NN overdose)
+            )
+            (»)
+          )
+          (CC e)
+          (PP 
+            (IN de)
+            (NP 
+              (PRP outras)
+              (NN doenças)
+              (,)
+              (ADVP 
+                (RB como)
+                (NP 
+                  (PRP a)
+                  (NN sida)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

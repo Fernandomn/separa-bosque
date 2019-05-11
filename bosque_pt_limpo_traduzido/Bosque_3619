@@ -1,18 +1,37 @@
-(S (VP (_CU_ (NP 
-                                   (NNP Governo))
-                                 (CC e)
-                                 (NP 
-                                   (NNP ExÃ©rcito)))
-                        (VP (VBP fizeram))
-                        (NP (NN vista)
-                                (ADJP 
-                                  (JJ grossa)))
-                        (PP (IN a+)
-                                 (NP (DT a)
-                                        (NN passagem)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN general)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (NNP Governo)
+      )
+      (CC e)
+      (NP 
+        (NNP Exército)
+      )
+    )
+    (VP 
+      (VBP fizeram)
+    )
+    (NP 
+      (NN vista)
+      (ADJP 
+        (JJ grossa)
+      )
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT a)
+        (NN passagem)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN general)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

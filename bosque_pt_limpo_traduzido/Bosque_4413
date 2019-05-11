@@ -1,18 +1,35 @@
-(S (VP (NP (NNP Fernando_Couto))
-                        (--)
-                        (VP (VBP Esteve))
-                        (_CU_ (ADJP 
-                                 (JJ imperial))
-                               (,)
-                               (ADJP 
-                                 (RB sempre)
-                                 (RB muito)
-                                 (PRP certo)))
-                        (PP (IN a)
-                                 (VP 
-                                   (VP 
-                                     (VB comandar))
-                                   (NP 
-                                     (DT a)
-                                     (NN defesa))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Fernando_Couto)
+    )
+    (--)
+    (VP 
+      (VBP Esteve)
+    )
+    (ADJP 
+      (ADJP 
+        (JJ imperial)
+      )
+      (,)
+      (ADJP 
+        (RB sempre)
+        (RB muito)
+        (PRP certo)
+      )
+    )
+    (PP 
+      (IN a)
+      (VP 
+        (VP 
+          (VB comandar)
+        )
+        (NP 
+          (DT a)
+          (NN defesa)
+        )
+      )
+    )
+    (.)
+  )
+)

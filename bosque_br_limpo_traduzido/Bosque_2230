@@ -1,31 +1,54 @@
-(S (VP (NP (DT Os)
-                                 (NN adultos)
-                                 (_CU_ (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP voltam)
-                                            (IN a)
-                                            (VB comer))
-                                          (NP 
-                                            (NN proteÃ­nas)))))
-                        (VP (VBP podem)
-                              (VB ter))
-                        (_CU_ (NP (NN piora)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN concentraÃ§Ã£o)))
-                                          (CC e)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN memÃ³ria)))))
-                                (CC e)
-                                (NP (DT uma)
-                                        (JJ maior)
-                                        (NN agitaÃ§Ã£o)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN adultos)
+      (VP 
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP voltam)
+            (IN a)
+            (VB comer)
+          )
+          (NP 
+            (NN proteínas)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP podem)
+      (VB ter)
+    )
+    (NP 
+      (NP 
+        (NN piora)
+        (PP 
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN concentração)
+            )
+          )
+          e          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN memória)
+            )
+          )
+        )
+      )
+      e      (NP 
+        (DT uma)
+        (JJ maior)
+        (NN agitação)
+      )
+    )
+    (.)
+  )
+)

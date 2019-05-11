@@ -1,47 +1,82 @@
-(S (VP (NP (DT A)
-                                 (NN diferen√ßa)
-                                 (ADJP 
-                                   (JJ m√≠nima))
-                                 (PP (IN entre)
-                                        (NP 
-                                          (DT os)
-                                          (NN primeiros))))
-                        (VP (VBP reflecte))
-                        (ADVP (RB uma_vez)
-                                   (PRP mais))
-                        (NP (DT o)
-                                (NN equil√≠brio)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NN prova))))
-                        (,)
-                        (VP (IN tanto_mais_que)
-                                  (NP 
-                                    (_CU_ 
-                                      (NP 
-                                        (DT o)
-                                        (NN primeiro))
-                                      (CC e)
-                                      (NP 
-                                        (DT o)
-                                        (NN d√©cimo_quarto)))
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT a)
-                                        (NN classifica√ß√£o)
-                                        (ADJP 
-                                          (JJ geral)))))
-                                  (VP (VBP est√£o))
-                                  (VP 
-                                    (VP 
-                                      (VBN separados))
-                                    (PP 
-                                      (RB somente)
-                                      (PP 
-                                        (IN por)
-                                        (NP 
-                                          (CD quatro)
-                                          (NN pontos))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN diferenÁa)
+      (ADJP 
+        (JJ mÌnima)
+      )
+      (PP 
+        (IN entre)
+        (NP 
+          (DT os)
+          (NN primeiros)
+        )
+      )
+    )
+    (VP 
+      (VBP reflecte)
+    )
+    (ADVP 
+      (RB uma_vez)
+      (PRP mais)
+    )
+    (NP 
+      (DT o)
+      (NN equilÌbrio)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN prova)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (IN tanto_mais_que)
+      (NP 
+        (NP 
+          (NP 
+            (DT o)
+            (NN primeiro)
+          )
+          (CC e)
+          (NP 
+            (DT o)
+            (NN dÈcimo_quarto)
+          )
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN classificaÁ„o)
+            (ADJP 
+              (JJ geral)
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP est„o)
+      )
+      (VP 
+        (VP 
+          (VBN separados)
+        )
+        (PP 
+          (RB somente)
+          (PP 
+            (IN por)
+            (NP 
+              (CD quatro)
+              (NN pontos)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

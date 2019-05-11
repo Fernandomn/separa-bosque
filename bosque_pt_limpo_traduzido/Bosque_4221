@@ -1,52 +1,86 @@
-(S (NP (CC E)
-                        (DT as)
-                        (NN perdas)
-                        (PP (IN de)
-                               (NP (NN rendimento)))
-                        (PP (IN a+)
-                               (NP (DT o)
-                                      (NN n√≠vel)
-                                      (ADJP 
-                                        (JJ regional))))
-                        (,)
-                        (VP 
-                          (VP (VBN causadas))
-                          (PP (IN por+)
-                                   (NP 
-                                     (DT a)
-                                     (NN elimina√ß√£o)
-                                     (,)
-                                     (PP 
-                                       (IN em+)
-                                       (NP 
-                                         (DT as)
-                                         (NN zonas)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN ca√ßa)))))
-                                     (,)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT as)
-                                         (NN pr√°ticas)
-                                         (_CU_ 
-                                           (ADJP 
-                                             (JJ agr√≠colas))
-                                           (CC e)
-                                           (ADJP 
-                                             (JJ pastoris)))
-                                         (VP 
-                                           (VP 
-                                             (VBN consideradas))
-                                           (ADJP 
-                                             (JJ incompat√≠veis)
-                                             (PP 
-                                               (IN com)
-                                               (NP 
-                                                 (DT as)
-                                                 (NN actividades)
-                                                 (ADJP 
-                                                   (JJ cineg√©ticas)))))))))))
-                        (?)))
+(S 
+  (NP 
+    (CC E)
+    (DT as)
+    (NN perdas)
+    (PP 
+      (IN de)
+      (NP 
+        (NN rendimento)
+      )
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT o)
+        (NN nÌvel)
+        (ADJP 
+          (JJ regional)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBN causadas)
+      )
+      (PP 
+        (IN por+)
+        (NP 
+          (DT a)
+          (NN eliminaÁ„o)
+          (,)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT as)
+              (NN zonas)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN caÁa)
+                )
+              )
+            )
+          )
+          (,)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT as)
+              (NN pr·ticas)
+              (ADJP 
+                (ADJP 
+                  (JJ agrÌcolas)
+                )
+                (CC e)
+                (ADJP 
+                  (JJ pastoris)
+                )
+              )
+              (VP 
+                (VP 
+                  (VBN consideradas)
+                )
+                (ADJP 
+                  (JJ incompatÌveis)
+                  (PP 
+                    (IN com)
+                    (NP 
+                      (DT as)
+                      (NN actividades)
+                      (ADJP 
+                        (JJ cinegÈticas)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (?)
+  )
+)

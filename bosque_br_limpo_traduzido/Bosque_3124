@@ -1,37 +1,66 @@
-(S (VP (NP (DT O)
-                                 (NN prefeito)
-                                 (NP (NNP Mercedes_Ribeiro_de_Miranda))
-                                 ({)
-                                 (NP 
-                                   (NNP PMDB))
-                                 (}))
-                        (VP (VBP decretou))
-                        (NP (NN estado)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN calamidade)
-                                         (ADJP 
-                                           (JJ pÃºblica)))))
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NN cidade)
-                                        (,)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP ficou))
-                                          (PP 
-                                            (IN sem)
-                                            (_CU_ 
-                                              (NP 
-                                                (NN Ã¡gua))
-                                              (CC e)
-                                              (NP 
-                                                (NN luz))))
-                                          (PP 
-                                            (IN durante)
-                                            (NP 
-                                              (CD 22)
-                                              (NN horas))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN prefeito)
+      (NP 
+        (NNP Mercedes_Ribeiro_de_Miranda)
+      )
+      ({)
+      (NP 
+        (NNP PMDB)
+      )
+      (})
+    )
+    (VP 
+      (VBP decretou)
+    )
+    (NP 
+      (NN estado)
+      (PP 
+        (IN de)
+        (NP 
+          (NN calamidade)
+          (ADJP 
+            (JJ pública)
+          )
+        )
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN cidade)
+        (,)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP ficou)
+          )
+          (PP 
+            (IN sem)
+            (NP 
+              (NP 
+                (NN água)
+              )
+              e              (NP 
+                (NN luz)
+              )
+            )
+          )
+          (PP 
+            (IN durante)
+            (NP 
+              (CD 22)
+              (NN horas)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

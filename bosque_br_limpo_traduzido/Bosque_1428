@@ -1,10 +1,28 @@
-(S (_CU_ (VP (NP 
-                                  (NNP Medeiros))
-                                (VP (VBP termina))
-                                (NP (DT a)
-                                        (NN prova)))
-                       (CC e)
-                       (VP (NP (PRP se))
-                                (VP (VBP promove)))
-                       (,)
-                       (NP (NNP Bob_Fernandes))))
+(S 
+  (UCP 
+    (VP 
+      (NP 
+        (NNP Medeiros)
+      )
+      (VP 
+        (VBP termina)
+      )
+      (NP 
+        (DT a)
+        (NN prova)
+      )
+    )
+    e    (VP 
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP promove)
+      )
+    )
+    (,)
+    (NP 
+      (NNP Bob_Fernandes)
+    )
+  )
+)

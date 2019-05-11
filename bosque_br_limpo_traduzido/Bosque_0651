@@ -1,11 +1,24 @@
-(S (VP (Â«)
-                        (VP (VBP Achei))
-                        (NP (DT a)
-                                (NN idÃ©ia))
-                        (ADJP (RB muito)
-                                 (_CU_ (ADJP 
-                                         (JJ interessante))
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ educativa))))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (VP 
+      (VBP Achei)
+    )
+    (NP 
+      (DT a)
+      (NN idéia)
+    )
+    (ADJP 
+      (RB muito)
+      (ADJP 
+        (ADJP 
+          (JJ interessante)
+        )
+        e        (ADJP 
+          (JJ educativa)
+        )
+      )
+    )
+    (.)
+  )
+)

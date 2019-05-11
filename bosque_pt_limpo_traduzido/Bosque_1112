@@ -1,53 +1,89 @@
-(S (VP (NP (DT O)
-                                 (NN autarca))
-                        (VP (VBP remeteu))
-                        (NP (NN c√≥pias)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN of√≠cio))))
-                        (_CU_ (PP (IN a+)
-                                        (NP 
-                                          (DT a)
-                                          (NN delega√ß√£o)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN sa√∫de)))
-                                          (ADJP 
-                                            (JJ respons√°vel)
-                                            (PP 
-                                              (IN por+)
-                                              (NP 
-                                                (DT a)
-                                                (NN √°rea)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (NNP Alverca))))))))
-                                (CC e)
-                                (PP (IN a+)
-                                        (NP 
-                                          (DT a)
-                                          (NN administra√ß√£o)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP Lusomundo)
-                                              (,)
-                                              (NP 
-                                                (NN empresa)
-                                                (NP 
-                                                  (NN propriet√°ria)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT a)
-                                                      (NN sala)
-                                                      (PP 
-                                                        (IN de)
-                                                        (NP 
-                                                          (NN cinema)))
-                                                      (PP em_causa))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN autarca)
+    )
+    (VP 
+      (VBP remeteu)
+    )
+    (NP 
+      (NN cÛpias)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN ofÌcio)
+        )
+      )
+    )
+    (PP 
+      (PP 
+        (IN a+)
+        (NP 
+          (DT a)
+          (NN delegaÁ„o)
+          (PP 
+            (IN de)
+            (NP 
+              (NN sa˙de)
+            )
+          )
+          (ADJP 
+            (JJ respons·vel)
+            (PP 
+              (IN por+)
+              (NP 
+                (DT a)
+                (NN ·rea)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NNP Alverca)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (CC e)
+      (PP 
+        (IN a+)
+        (NP 
+          (DT a)
+          (NN administraÁ„o)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Lusomundo)
+              (,)
+              (NP 
+                (NN empresa)
+                (NP 
+                  (NN propriet·ria)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN sala)
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (NN cinema)
+                        )
+                      )
+                      (PP em_causa)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

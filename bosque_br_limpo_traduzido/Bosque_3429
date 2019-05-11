@@ -1,12 +1,25 @@
-(S (PP (ADJP (JJ II))
-                       (--)
-                       (IN em+)
-                       (_CU_ (NP (DT as)
-                                      (NN etiquetas))
-                              (CC e)
-                              (NP (NN tabelas)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN preÃ§os)))))
-                       (;)))
+(S 
+  (PP 
+    (ADJP 
+      (JJ II)
+    )
+    (--)
+    (IN em+)
+    (NP 
+      (NP 
+        (DT as)
+        (NN etiquetas)
+      )
+      e      (NP 
+        (NN tabelas)
+        (PP 
+          (IN de)
+          (NP 
+            (NN preços)
+          )
+        )
+      )
+    )
+    (;)
+  )
+)

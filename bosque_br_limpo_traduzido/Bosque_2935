@@ -1,37 +1,65 @@
-(S (_CU_ (VP (NP 
-                                  (DT O)
-                                  (NN problema)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (NNP Viola))))
-                                (VP (VBP √©))
-                                (PP (IN em)
-                                       (NP 
-                                         (DT um)
-                                         (NN m√∫sculo)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NN parte)
-                                             (ADVP 
-                                               (RB de_tr√°s)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT a)
-                                                   (NN coxa)))))))))
-                       (CC e)
-                       (VP (PP 
-                                  (IN de)
-                                  (NP 
-                                    (NNP C√©lio)))
-                                (VP (VBP est√°))
-                                (PP (IN em+)
-                                       (NP 
-                                         (DT o)
-                                         (NN lado)
-                                         (ADJP 
-                                           (JJ interno)))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (NN problema)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Viola)
+          )
+        )
+      )
+      (VP 
+        (VBP È)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (DT um)
+          (NN m˙sculo)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN parte)
+              (ADVP 
+                (RB de_tr·s)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NN coxa)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    e    (VP 
+      (PP 
+        (IN de)
+        (NP 
+          (NNP CÈlio)
+        )
+      )
+      (VP 
+        (VBP est·)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN lado)
+          (ADJP 
+            (JJ interno)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,60 +1,100 @@
-(S (VP (NP (ADJP 
-                                   (RB menos_de)
-                                   (CD um))
-                                 (NN mÃªs)
-                                 (PP (IN apÃ³s)
-                                        (VP 
-                                          (VP 
-                                            (VB ter)
-                                            (VBN vencido))
-                                          (NP 
-                                            (DT o)
-                                            (NNP Campeonato_Nacional_de_Clubes)
-                                            (PP 
-                                              (IN em)
-                                              (NP 
-                                                (NN golfe)))
-                                            (,)
-                                            (VP 
-                                              (VP 
-                                                (VBN disputado))
-                                              (PP 
-                                                (IN em+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NNP Oporto_Golf_Club))))
-                                            (,)))))
-                        (VP (VBP coloca))
-                        (PP (IN em+)
-                               (NP (DT a)
-                                      (NN final)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (Â«)
-                                          (NN Individual)
-                                          (Â»)))))
-                        (NP (CD dois)
-                                (NN elementos)
-                                (VP (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP contribuiram))
-                                        (PP 
-                                          (IN para)
-                                          (NP 
-                                            (DT a)
-                                            (NN conquista)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (PRP esse)
-                                                (NN tÃ­tulo))))))
-                                (,)
-                                (_CU_ (NP 
-                                          (NNP Stephane_Castro_Ferreira))
-                                        (CC e)
-                                        (NP 
-                                          (NNP JosÃ©_Sousa_e_Melo))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (ADJP 
+        (RB menos_de)
+        (CD um)
+      )
+      (NN mês)
+      (PP 
+        (IN após)
+        (VP 
+          (VP 
+            (VB ter)
+            (VBN vencido)
+          )
+          (NP 
+            (DT o)
+            (NNP Campeonato_Nacional_de_Clubes)
+            (PP 
+              (IN em)
+              (NP 
+                (NN golfe)
+              )
+            )
+            (,)
+            (VP 
+              (VP 
+                (VBN disputado)
+              )
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT o)
+                  (NNP Oporto_Golf_Club)
+                )
+              )
+            )
+            (,)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP coloca)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN final)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            («)
+            (NN Individual)
+            (»)
+          )
+        )
+      )
+    )
+    (NP 
+      (CD dois)
+      (NN elementos)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP contribuiram)
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (DT a)
+            (NN conquista)
+            (PP 
+              (IN de+)
+              (NP 
+                (PRP esse)
+                (NN título)
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NP 
+          (NNP Stephane_Castro_Ferreira)
+        )
+        (CC e)
+        (NP 
+          (NNP José_Sousa_e_Melo)
+        )
+      )
+    )
+    (.)
+  )
+)

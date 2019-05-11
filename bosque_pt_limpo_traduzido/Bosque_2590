@@ -1,72 +1,115 @@
-(S (VP (NP (DT Os)
-                                 (NNP Estados_Unidos))
-                        (VP (VBP reexaminarÃ£o))
-                        (NP (Â«)
-                                (DT as)
-                                (NN bases)
-                                (Â»)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN acordo)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN cooperaÃ§Ã£o)
-                                             (ADJP 
-                                               (JJ econÃ³mica))))
-                                         (VP 
-                                           (VP 
-                                             (VBN concluÃ­do))
-                                           (PP 
-                                             (IN com)
-                                             (NP 
-                                               (DT o)
-                                               (NNP JapÃ£o)))))))
-                        (,)
-                        (VP (IN se)
-                                  (ADVP 
-                                    (RB nÃ£o))
-                                  (NP 
-                                    (PRP se))
-                                  (VP (VBP alcanÃ§arem))
-                                  (NP 
-                                    (Â«)
-                                    (NN acordos)
-                                    (ADJP 
-                                      (JJ credÃ­veis))
-                                    (Â»)
-                                    (PP 
-                                      (IN entre)
-                                      (NP 
-                                        (DT os)
-                                        (CD dois)
-                                        (NN paÃ­ses))))
-                                  (PP 
-                                    (IN durante)
-                                    (NP 
-                                      (DT a)
-                                      (NN cimeira)
-                                      (_CU_ 
-                                        (NP 
-                                          (NNP Clinton))
-                                        (-)
-                                        (NP 
-                                          (NNP Hosokawa)))
-                                      (,)
-                                      (VP 
-                                        (VP 
-                                          (VBN prevista))
-                                        (PP 
-                                          (IN para)
-                                          (ADJP 
-                                            (CD 11)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN Fevereiro)))))
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (NNP Washington)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NNP Estados_Unidos)
+    )
+    (VP 
+      (VBP reexaminarão)
+    )
+    (NP 
+      («)
+      (DT as)
+      (NN bases)
+      (»)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN acordo)
+          (PP 
+            (IN de)
+            (NP 
+              (NN cooperação)
+              (ADJP 
+                (JJ económica)
+              )
+            )
+          )
+          (VP 
+            (VP 
+              (VBN concluído)
+            )
+            (PP 
+              (IN com)
+              (NP 
+                (DT o)
+                (NNP Japão)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (IN se)
+      (ADVP 
+        (RB não)
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP alcançarem)
+      )
+      (NP 
+        («)
+        (NN acordos)
+        (ADJP 
+          (JJ credíveis)
+        )
+        (»)
+        (PP 
+          (IN entre)
+          (NP 
+            (DT os)
+            (CD dois)
+            (NN países)
+          )
+        )
+      )
+      (PP 
+        (IN durante)
+        (NP 
+          (DT a)
+          (NN cimeira)
+          (UCP 
+            (NP 
+              (NNP Clinton)
+            )
+            (-)
+            (NP 
+              (NNP Hosokawa)
+            )
+          )
+          (,)
+          (VP 
+            (VP 
+              (VBN prevista)
+            )
+            (PP 
+              (IN para)
+              (ADJP 
+                (CD 11)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN Fevereiro)
+                  )
+                )
+              )
+            )
+            (PP 
+              (IN em)
+              (NP 
+                (NNP Washington)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

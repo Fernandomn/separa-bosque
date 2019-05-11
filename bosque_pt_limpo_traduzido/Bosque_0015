@@ -1,18 +1,39 @@
-(S (VP (PP (IN Segundo)
-                               (NP (DT a)
-                                      (NN empresa)))
-                      (,)
-                      (NP (DT o)
-                               (NN aparelho))
-                      (VP (VBP permite))
-                      (VP (IN que)
-                               (NP (DT o)
-                                        (NN aparelho))
-                               (_CU_ (VBP grave)
-                                     (CC e)
-                                     (VBP transcreva))
-                               (NP (DT a)
-                                       (NN voz)
-                                       (ADJP 
-                                         (JJ humana))))
-                      (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Segundo)
+      (NP 
+        (DT a)
+        (NN empresa)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN aparelho)
+    )
+    (VP 
+      (VBP permite)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT o)
+        (NN aparelho)
+      )
+      (VBP 
+        (VBP grave)
+        (CC e)
+        (VBP transcreva)
+      )
+      (NP 
+        (DT a)
+        (NN voz)
+        (ADJP 
+          (JJ humana)
+        )
+      )
+    )
+    (.)
+  )
+)

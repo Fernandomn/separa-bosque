@@ -1,20 +1,44 @@
-(S (_CU_ (VP (NP (NN JÃºri)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN Teatro))))
-                               (VP (VBN concluÃ­do))
-                               (ADVP 
-                                 (RB ontem)))
-                      (CC e)
-                      (VP (NP (NNP Guterres))
-                               (VP (VBP almoÃ§ou))
-                               (PP (IN com)
-                                        (NP 
-                                          (NN personalidades)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NN sector))))))))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (NN Júri)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN Teatro)
+          )
+        )
+      )
+      (VP 
+        (VBN concluído)
+      )
+      (ADVP 
+        (RB ontem)
+      )
+    )
+    (CC e)
+    (VP 
+      (NP 
+        (NNP Guterres)
+      )
+      (VP 
+        (VBP almoçou)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (NN personalidades)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN sector)
+            )
+          )
+        )
+      )
+    )
+  )
+)

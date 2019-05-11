@@ -1,30 +1,54 @@
-(S (_CU_ (VP (_CU_ 
-                                  (NP 
-                                    (NN Proximidade)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NN vencimento)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT as)
-                                            (NN op√ß√µes))))))
-                                  (CC e)
-                                  (NP 
-                                    (NN reuni√£o)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NNP CMN)))))
-                                (VP (VBP movimentam))
-                                (NP (DT o)
-                                        (NN mercado)
-                                        (ADJP 
-                                          (JJ acion√°rio))))
-                       (;)
-                       (VP (NP 
-                                  (NN d√≥lar))
-                                (VP (VBP cai)))))
+(S 
+  (UCP 
+    (VP 
+      (NP 
+        (NP 
+          (NN Proximidade)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN vencimento)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT as)
+                  (NN opÁıes)
+                )
+              )
+            )
+          )
+        )
+        e        (NP 
+          (NN reuni„o)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP CMN)
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP movimentam)
+      )
+      (NP 
+        (DT o)
+        (NN mercado)
+        (ADJP 
+          (JJ acion·rio)
+        )
+      )
+    )
+    (;)
+    (VP 
+      (NP 
+        (NN dÛlar)
+      )
+      (VP 
+        (VBP cai)
+      )
+    )
+  )
+)

@@ -1,40 +1,75 @@
-(S (_CU_ (VP (VP (VBP Entrou))
-                                (JJ confiante))
-                       (,)
-                       (VP (VP (VBP integrou-))
-                                (NP (PRP se))
-                                (ADVP 
-                                  (RB bem))
-                                (PP (IN em+)
-                                        (NP 
-                                          (DT as)
-                                          (NN movimentaÃ§Ãµes))))
-                       (CC e)
-                       (VP (VP (VBP mostrou))
-                                (VP 
-                                  (IN que)
-                                  (,)
-                                  (PP 
-                                    (IN com)
-                                    (NP 
-                                      (PRP ele)
-                                      (PP 
-                                        (IN em)
-                                        (NP 
-                                          (NN campo)))))
-                                  (,)
-                                  (VP (VBP Ã©))
-                                  (ADJP 
-                                    (ADVP 
-                                      (RB bem)
-                                      (RB mais))
-                                    (JJ fÃ¡cil))
-                                  (VP 
-                                    (VP 
-                                      (VB rentabilizar))
-                                    (NP 
-                                      (DT o)
-                                      (NN jogo)
-                                      (ADJP 
-                                        (JJ ofensivo))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP Entrou)
+      )
+      (JJ confiante)
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBP integrou-)
+      )
+      (NP 
+        (PRP se)
+      )
+      (ADVP 
+        (RB bem)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT as)
+          (NN movimentações)
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (VP 
+        (VBP mostrou)
+      )
+      (VP 
+        (IN que)
+        (,)
+        (PP 
+          (IN com)
+          (NP 
+            (PRP ele)
+            (PP 
+              (IN em)
+              (NP 
+                (NN campo)
+              )
+            )
+          )
+        )
+        (,)
+        (VP 
+          (VBP é)
+        )
+        (ADJP 
+          (ADVP 
+            (RB bem)
+            (RB mais)
+          )
+          (JJ fácil)
+        )
+        (VP 
+          (VP 
+            (VB rentabilizar)
+          )
+          (NP 
+            (DT o)
+            (NN jogo)
+            (ADJP 
+              (JJ ofensivo)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,23 +1,39 @@
-(S (VP (_CU_ (NP (DT Os)
-                                        (NN franceses)
-                                        (_CU_ 
-                                          (Â«)
-                                          (NP 
-                                            (NNP Le_Monde))
-                                          (Â»)
-                                          (CC e)
-                                          (Â«)
-                                          (NP 
-                                            (NNP Le_Figaro))
-                                          (Â»)))
-                                (CC e)
-                                (NP (DT o)
-                                        (NN alemÃ£o)
-                                        (Â«)
-                                        (NP 
-                                          (NNP Frankfurter_Allgemeine))
-                                        (Â»)))
-                       (VP (VBP recusaram))
-                       (NP (DT o)
-                               (NN anÃºncio))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (DT Os)
+        (NN franceses)
+        (UCP 
+          («)
+          (NP 
+            (NNP Le_Monde)
+          )
+          (»)
+          e          («)
+          (NP 
+            (NNP Le_Figaro)
+          )
+          (»)
+        )
+      )
+      e      (NP 
+        (DT o)
+        (NN alemão)
+        («)
+        (NP 
+          (NNP Frankfurter_Allgemeine)
+        )
+        (»)
+      )
+    )
+    (VP 
+      (VBP recusaram)
+    )
+    (NP 
+      (DT o)
+      (NN anúncio)
+    )
+    (.)
+  )
+)

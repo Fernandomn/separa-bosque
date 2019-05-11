@@ -1,46 +1,74 @@
-(S (VP (Â«)
-                        (ADVP (RB NÃ£o))
-                        (VP (VBP podemos)
-                              (VB permitir))
-                        (_CU_ (VP 
-                                  (IN que)
-                                  (NP 
-                                    (DT a)
-                                    (NN contrataÃ§Ã£o)
-                                    (ADJP 
-                                      (JJ colectiva)))
-                                  (VP (VBP continue))
-                                  (VBN bloqueada))
-                                (,)
-                                (VP 
-                                  (IN que)
-                                  (NP 
-                                    (DT o)
-                                    (NN desemprego))
-                                  (VP (VBP continue)
-                                        (IN a)
-                                        (VB aumentar)))
-                                (,)
-                                (VP 
-                                  (IN que)
-                                  (_CU_ 
-                                    (NP 
-                                      (DT a)
-                                      (NN seguranÃ§a)
-                                      (ADJP 
-                                        (JJ social)))
-                                    (,)
-                                    (NP 
-                                      (DT a)
-                                      (NN saÃºde))
-                                    (CC e)
-                                    (NP 
-                                      (DT a)
-                                      (NN educaÃ§Ã£o)))
-                                  (VP (VBP continuem)
-                                        (IN a)
-                                        (VB degradar-))
-                                  (NP 
-                                    (PRP se))))
-                        (Â»)
-                        (.)))
+(S 
+  (VP 
+    («)
+    (ADVP 
+      (RB Não)
+    )
+    (VP 
+      (VBP podemos)
+      (VB permitir)
+    )
+    (VP 
+      (VP 
+        (IN que)
+        (NP 
+          (DT a)
+          (NN contratação)
+          (ADJP 
+            (JJ colectiva)
+          )
+        )
+        (VP 
+          (VBP continue)
+        )
+        (VBN bloqueada)
+      )
+      (,)
+      (VP 
+        (IN que)
+        (NP 
+          (DT o)
+          (NN desemprego)
+        )
+        (VP 
+          (VBP continue)
+          (IN a)
+          (VB aumentar)
+        )
+      )
+      (,)
+      (VP 
+        (IN que)
+        (NP 
+          (NP 
+            (DT a)
+            (NN segurança)
+            (ADJP 
+              (JJ social)
+            )
+          )
+          (,)
+          (NP 
+            (DT a)
+            (NN saúde)
+          )
+          (CC e)
+          (NP 
+            (DT a)
+            (NN educação)
+          )
+        )
+        (VP 
+          (VBP continuem)
+          (IN a)
+          (VB degradar-)
+        )
+        (NP 
+          (PRP se)
+        )
+      )
+    )
+    (»)
+    (.)
+  )
+)

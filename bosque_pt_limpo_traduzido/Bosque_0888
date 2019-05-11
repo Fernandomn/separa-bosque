@@ -1,51 +1,84 @@
-(S (NP (NP (NN R.))
-                       (--)
-                       (_CU_ (VP (PP 
-                                          (IN Em+)
-                                          (NP 
-                                            (DT o)
-                                            (NN teatro)))
-                                        (VP 
-                                          (VBP tenta-))
-                                        (NP 
-                                          (PRP se))
-                                        (VP 
-                                          (VP 
-                                            (VB encontrar))
-                                          (NP 
-                                            (DT a)
-                                            (NN unidade)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT o)
-                                                (NN espect√°culo))))))
-                               (,)
-                               (VP (VP 
-                                          (VBP cria-))
-                                        (NP 
-                                          (PRP se))
-                                        (_CU_ 
-                                          (NP 
-                                            (DT um)
-                                            (NN tempo))
-                                          (,)
-                                          (CC e)
-                                          (NP 
-                                            (RB n√£o)
-                                            (CD um)
-                                            (NN momento))))
-                               (--)
-                               (VP (VP 
-                                          (VBP cria-))
-                                        (NP 
-                                          (PRP se))
-                                        (NP 
-                                          (DT um)
-                                          (NN tempo)
-                                          (PP 
-                                            (IN fora_de+)
-                                            (NP 
-                                              (DT o)
-                                              (NN tempo)))))
-                               (.))))
+(S 
+  (NP 
+    (NP 
+      (NN R.)
+    )
+    (--)
+    (UCP 
+      (VP 
+        (PP 
+          (IN Em+)
+          (NP 
+            (DT o)
+            (NN teatro)
+          )
+        )
+        (VP 
+          (VBP tenta-)
+        )
+        (NP 
+          (PRP se)
+        )
+        (VP 
+          (VP 
+            (VB encontrar)
+          )
+          (NP 
+            (DT a)
+            (NN unidade)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN espect·culo)
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBP cria-)
+        )
+        (NP 
+          (PRP se)
+        )
+        (NP 
+          (NP 
+            (DT um)
+            (NN tempo)
+          )
+          (,)
+          (CC e)
+          (NP 
+            (RB n„o)
+            (CD um)
+            (NN momento)
+          )
+        )
+      )
+      (--)
+      (VP 
+        (VP 
+          (VBP cria-)
+        )
+        (NP 
+          (PRP se)
+        )
+        (NP 
+          (DT um)
+          (NN tempo)
+          (PP 
+            (IN fora_de+)
+            (NP 
+              (DT o)
+              (NN tempo)
+            )
+          )
+        )
+      )
+      (.)
+    )
+  )
+)

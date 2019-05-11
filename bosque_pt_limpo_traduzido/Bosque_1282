@@ -1,23 +1,50 @@
-(S (VP (PP (IN A)
-                                 (NP (PRP estes)))
-                        (VP (VBP juntarÃ£o-))
-                        (NP (PRP se-))
-                        (,)
-                        (PP (IN em)
-                                 (NP (NN palco)))
-                        (,)
-                        (NP (DT os)
-                                 (_CU_ (NP 
-                                         (NN cantores))
-                                       (/)
-                                       (NP 
-                                         (NN mÃºsicos)))
-                                 (_CU_ (NP 
-                                          (NNP Marta_Silva))
-                                        (,)
-                                        (NP 
-                                          (NNP Marcelo_Lafontana))
-                                        (CC e)
-                                        (NP 
-                                          (NNP Pedro_Ribeiro))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN A)
+      (NP 
+        (PRP estes)
+      )
+    )
+    (VP 
+      (VBP juntarão-)
+    )
+    (NP 
+      (PRP se-)
+    )
+    (,)
+    (PP 
+      (IN em)
+      (NP 
+        (NN palco)
+      )
+    )
+    (,)
+    (NP 
+      (DT os)
+      (UCP 
+        (NP 
+          (NN cantores)
+        )
+        (/)
+        (NP 
+          (NN músicos)
+        )
+      )
+      (NP 
+        (NP 
+          (NNP Marta_Silva)
+        )
+        (,)
+        (NP 
+          (NNP Marcelo_Lafontana)
+        )
+        (CC e)
+        (NP 
+          (NNP Pedro_Ribeiro)
+        )
+      )
+    )
+    (.)
+  )
+)

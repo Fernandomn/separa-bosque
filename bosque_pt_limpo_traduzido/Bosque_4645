@@ -1,51 +1,88 @@
-(S (VP (PP (IN Ao_longo_de+)
-                                 (NP (DT os)
-                                        (JJ primeiros)
-                                        (CD seis)
-                                        (NN nÃºmeros)))
-                        (,)
-                        (NP (DT o)
-                                 (NN projecto))
-                        (VP (VBP foi)
-                              (VBG ganhando))
-                        (NP (NN sentido)
-                                (_CU_ (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN revista)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN artistas)))))
-                                        ({)
-                                        (PP 
-                                          (RB nunca)
-                                          (IN de)
-                                          (NP 
-                                            (NN revista)
-                                            (ADJP 
-                                              (JJ teÃ³rica))))
-                                        (})
-                                        (PP 
-                                          (_CU_ 
-                                            (,)
-                                            (NP 
-                                              (NN recolha)
-                                              (ADJP 
-                                                (JJ sensÃ­vel))
-                                              (PP 
-                                                (IN de)
-                                                (_CU_ 
-                                                  (NP 
-                                                    (NN imagens))
-                                                  (CC e)
-                                                  (NP 
-                                                    (NN textos)))))))))
-                        (,)
-                        (VP (IN de_tal_modo_que)
-                                  (VP (VBP desenvolverÃ¡))
-                                  (PP por_vezes)
-                                  (NP 
-                                    (NN temas)
-                                    (ADJP 
-                                      (JJ especÃ­ficos))))))
+(S 
+  (VP 
+    (PP 
+      (IN Ao_longo_de+)
+      (NP 
+        (DT os)
+        (JJ primeiros)
+        (CD seis)
+        (NN números)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN projecto)
+    )
+    (VP 
+      (VBP foi)
+      (VBG ganhando)
+    )
+    (NP 
+      (NN sentido)
+      (UCP 
+        (PP 
+          (IN de)
+          (NP 
+            (NN revista)
+            (PP 
+              (IN de)
+              (NP 
+                (NN artistas)
+              )
+            )
+          )
+        )
+        ({)
+        (PP 
+          (RB nunca)
+          (IN de)
+          (NP 
+            (NN revista)
+            (ADJP 
+              (JJ teórica)
+            )
+          )
+        )
+        (})
+        (PP 
+          (NP 
+            (,)
+            (NP 
+              (NN recolha)
+              (ADJP 
+                (JJ sensível)
+              )
+              (PP 
+                (IN de)
+                (NP 
+                  (NP 
+                    (NN imagens)
+                  )
+                  (CC e)
+                  (NP 
+                    (NN textos)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (IN de_tal_modo_que)
+      (VP 
+        (VBP desenvolverá)
+      )
+      (PP por_vezes)
+      (NP 
+        (NN temas)
+        (ADJP 
+          (JJ específicos)
+        )
+      )
+    )
+  )
+)

@@ -1,49 +1,77 @@
-(S (_CU_ (VP (PP 
-                                  (IN Segundo)
-                                  (NP 
-                                    (NNP Marcondes)))
-                                (,)
-                                (NP 
-                                  (DT o)
-                                  (NN valor)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT o)
-                                      (NN patrim√¥nio)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN hospital))))))
-                                (VP (VBP √©))
-                                (PP (IN de)
-                                       (NP 
-                                         (NN US$)
-                                         (NP 
-                                           (CD 50)
-                                           (NN milh√µes))
-                                         ({)
-                                         (NP 
-                                           (NN R$)
-                                           (NP 
-                                             (CD 42,7)
-                                             (NN milh√µes)))
-                                         (}))))
-                       (CC e)
-                       (VP (NP 
-                                         (DT o)
-                                         (NN total)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN d√≠vidas)
-                                             (,)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN R$)
-                                                 (NP 
-                                                   (CD 50)
-                                                   (NN milh√µes))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (PP 
+        (IN Segundo)
+        (NP 
+          (NNP Marcondes)
+        )
+      )
+      (,)
+      (NP 
+        (DT o)
+        (NN valor)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN patrimÙnio)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN hospital)
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP È)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NN US$)
+          (NP 
+            (CD 50)
+            (NN milhıes)
+          )
+          ({)
+          (NP 
+            (NN R$)
+            (NP 
+              (CD 42,7)
+              (NN milhıes)
+            )
+          )
+          (})
+        )
+      )
+    )
+    e    (VP 
+      (NP 
+        (DT o)
+        (NN total)
+        (PP 
+          (IN de)
+          (NP 
+            (NN dÌvidas)
+            (,)
+            (PP 
+              (IN de)
+              (NP 
+                (NN R$)
+                (NP 
+                  (CD 50)
+                  (NN milhıes)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,48 +1,79 @@
-(S (VP (_CU_ (NP 
-                                   (NN Ensino)
-                                   (ADJP 
-                                     (JJ universit√°rio)))
-                                 (,)
-                                 (NP 
-                                   (NN contas)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN poupan√ßa)))
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT os)
-                                       (NN bancos))))
-                                 (,)
-                                 (NP 
-                                   (NN investimentos)
-                                   (PP 
-                                     (IN em)
-                                     (_CU_ 
-                                       (NP 
-                                         (NN a√ß√µes))
-                                       (CC e)
-                                       (NP 
-                                         (NN im√≥veis))))))
-                        (ADVP (RB n√£o))
-                        (VP (VBP asseguram))
-                        (NP (DT a)
-                                (NN transmiss√£o)
-                                (PP 
-                                  (IN de+)
-                                  (NP 
-                                    (DT o)
-                                    (NN patrim√¥nio)
-                                    (ADJP 
-                                      (JJ familiar))
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT os)
-                                        (NN pais)))))
-                                (PP (IN para)
-                                       (NP 
-                                         (DT os)
-                                         (NN filhos))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (NN Ensino)
+        (ADJP 
+          (JJ universit·rio)
+        )
+      )
+      (,)
+      (NP 
+        (NN contas)
+        (PP 
+          (IN de)
+          (NP 
+            (NN poupanÁa)
+          )
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT os)
+            (NN bancos)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NN investimentos)
+        (PP 
+          (IN em)
+          (NP 
+            (NP 
+              (NN aÁıes)
+            )
+            e            (NP 
+              (NN imÛveis)
+            )
+          )
+        )
+      )
+    )
+    (ADVP 
+      (RB n„o)
+    )
+    (VP 
+      (VBP asseguram)
+    )
+    (NP 
+      (DT a)
+      (NN transmiss„o)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN patrimÙnio)
+          (ADJP 
+            (JJ familiar)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (NN pais)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (DT os)
+          (NN filhos)
+        )
+      )
+    )
+    (.)
+  )
+)

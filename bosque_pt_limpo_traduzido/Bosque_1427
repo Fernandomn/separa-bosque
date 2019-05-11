@@ -1,68 +1,111 @@
-(S (VP (VP (ADVP 
-                                    (RB Por_exemplo)))
-                        (,)
-                        (VP (VBP lembra))
-                        (ADVP (RB tambÃ©m))
-                        (NP (DT a)
-                                 (NNP DECO))
-                        (,)
-                        (VP (PP 
-                                    (IN entre)
-                                    (NP 
-                                      (DT os)
-                                      (Â«)
-                                      (NN brinquedos)
-                                      (Â»)
-                                      (VP 
-                                        (VP 
-                                          (VBN preferidos))
-                                        (PP 
-                                          (IN por+)
-                                          (NP 
-                                            (DT as)
-                                            (NN crianÃ§as)))
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT os)
-                                            (NN festejos)
-                                            (ADJP 
-                                              (JJ carnavalescos)))))))
-                                  (VP (VBP encontram-))
-                                  (NP 
-                                    (PRP se))
-                                  (NP 
-                                    (DT os)
-                                    (NN estalinhos)
-                                    (,)
-                                    (VP 
-                                      (VP 
-                                        (VBN considerados))
-                                      (_CU_ 
-                                        (NP 
-                                          (NN brinquedos))
-                                        (CC ou)
-                                        (NP 
-                                          (NN artifÃ­cios)
-                                          (ADJP 
-                                            (JJ pirotÃ©cnicos))
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (VP 
-                                              (VBP podem)
-                                              (VB rebentar))
-                                            (_CU_ 
-                                              (PP 
-                                                (IN por)
-                                                (NP 
-                                                  (NN choque)))
-                                              (CC ou)
-                                              (ADVP 
-                                                (RB atravÃ©s)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (DT um)
-                                                    (NN detonador)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (ADVP 
+        (RB Por_exemplo)
+      )
+    )
+    (,)
+    (VP 
+      (VBP lembra)
+    )
+    (ADVP 
+      (RB também)
+    )
+    (NP 
+      (DT a)
+      (NNP DECO)
+    )
+    (,)
+    (VP 
+      (PP 
+        (IN entre)
+        (NP 
+          (DT os)
+          («)
+          (NN brinquedos)
+          (»)
+          (VP 
+            (VP 
+              (VBN preferidos)
+            )
+            (PP 
+              (IN por+)
+              (NP 
+                (DT as)
+                (NN crianças)
+              )
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT os)
+                (NN festejos)
+                (ADJP 
+                  (JJ carnavalescos)
+                )
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP encontram-)
+      )
+      (NP 
+        (PRP se)
+      )
+      (NP 
+        (DT os)
+        (NN estalinhos)
+        (,)
+        (VP 
+          (VP 
+            (VBN considerados)
+          )
+          (NP 
+            (NP 
+              (NN brinquedos)
+            )
+            (CC ou)
+            (NP 
+              (NN artifícios)
+              (ADJP 
+                (JJ pirotécnicos)
+              )
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP podem)
+                  (VB rebentar)
+                )
+                (UCP 
+                  (PP 
+                    (IN por)
+                    (NP 
+                      (NN choque)
+                    )
+                  )
+                  (CC ou)
+                  (ADVP 
+                    (RB através)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (DT um)
+                        (NN detonador)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

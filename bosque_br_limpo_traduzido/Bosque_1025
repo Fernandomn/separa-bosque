@@ -1,33 +1,59 @@
-(S (_CU_ (VP (IN Que)
-                                (NP 
-                                  (DT a)
-                                  (NN organizaÃ§Ã£o))
-                                (VP (VBP investiu))
-                                (_CU_ (NP 
-                                          (PRP muito)
-                                          (_CU_ 
-                                            (NP 
-                                              (NN tempo))
-                                            (CC e)
-                                            (NP 
-                                              (NN dinheiro)))))
-                                (PP (IN em+)
-                                        (NP 
-                                          (DT a)
-                                          (NN sensiblizaÃ§Ã£o)
-                                          (PP 
-                                            (IN para)
-                                            (NP 
-                                              (DT o)
-                                              (NN programa))))))
-                       (CC e)
-                       (VP (IN que)
-                                (,)
-                                (ADVP 
-                                  (RB agora))
-                                (,)
-                                (VP (VBP Ã©))
-                                (PP (IN com)
-                                       (NP 
-                                         (PRP eles))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (IN Que)
+      (NP 
+        (DT a)
+        (NN organização)
+      )
+      (VP 
+        (VBP investiu)
+      )
+      (NP 
+        (NP 
+          (PRP muito)
+          (NP 
+            (NP 
+              (NN tempo)
+            )
+            e            (NP 
+              (NN dinheiro)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NN sensiblização)
+          (PP 
+            (IN para)
+            (NP 
+              (DT o)
+              (NN programa)
+            )
+          )
+        )
+      )
+    )
+    e    (VP 
+      (IN que)
+      (,)
+      (ADVP 
+        (RB agora)
+      )
+      (,)
+      (VP 
+        (VBP é)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (PRP eles)
+        )
+      )
+    )
+    (.)
+  )
+)

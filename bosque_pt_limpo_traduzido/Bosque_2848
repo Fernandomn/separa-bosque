@@ -1,48 +1,78 @@
-(S (VP (Â«)
-                        (NP (DT O)
-                                 (NNP PS))
-                        (VP (VBP resolveu))
-                        (,)
-                        (ADVP (RB depois)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (PRP muitas)
-                                       (NN semanas)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN letargia))))))
-                        (,)
-                        (_CU_ (VP 
-                                  (VP (VB dar))
-                                  (NP 
-                                    (DT um)
-                                    (NN ar)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT a)
-                                        (PRP sua)
-                                        (NN graÃ§a)))))
-                                (,)
-                                (CC mas)
-                                (ADVP 
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT a)
-                                      (JJ pior)
-                                      (NN maneira)))
-                                  (,)
-                                  (VP 
-                                    (VP 
-                                      (VBG mostrando))
-                                    (_CU_ 
-                                      (NP 
-                                        (NN medo))
-                                      (CC e)
-                                      (NP 
-                                        (NN preocupaÃ§Ã£o))))))
-                        (.)
-                        (Â»)))
+(S 
+  (VP 
+    («)
+    (NP 
+      (DT O)
+      (NNP PS)
+    )
+    (VP 
+      (VBP resolveu)
+    )
+    (,)
+    (ADVP 
+      (RB depois)
+      (PP 
+        (IN de)
+        (NP 
+          (PRP muitas)
+          (NN semanas)
+          (PP 
+            (IN de)
+            (NP 
+              (NN letargia)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (UCP 
+      (VP 
+        (VP 
+          (VB dar)
+        )
+        (NP 
+          (DT um)
+          (NN ar)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (PRP sua)
+              (NN graça)
+            )
+          )
+        )
+      )
+      (,)
+      (CC mas)
+      (ADVP 
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (JJ pior)
+            (NN maneira)
+          )
+        )
+        (,)
+        (VP 
+          (VP 
+            (VBG mostrando)
+          )
+          (NP 
+            (NP 
+              (NN medo)
+            )
+            (CC e)
+            (NP 
+              (NN preocupação)
+            )
+          )
+        )
+      )
+    )
+    (.)
+    (»)
+  )
+)

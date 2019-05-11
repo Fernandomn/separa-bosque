@@ -1,46 +1,75 @@
-(S (VP (NP (PRP Quem))
-                         (VP (VBP deve)
-                               (VB ser)
-                               (VBN responsabilizado))
-                         (PP (IN por+)
-                                  (NP 
-                                    (DT a)
-                                    (NN poluiÃ§Ã£o)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT os)
-                                        (PRP nossos)
-                                        (_CU_ 
-                                          (NP 
-                                            (NN campos))
-                                          (CC e)
-                                          (NP 
-                                            (NN Ã¡guas)))))
-                                    (,)
-                                    (VP 
-                                      (VP 
-                                        (VBN provocada))
-                                      (PP 
-                                        (IN por+)
-                                        (NP 
-                                          (DT as)
-                                          (NN toneladas)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN chumbo)))
-                                          (VP 
-                                            (ADVP 
-                                              (RB anualmente))
-                                            (VP 
-                                              (VBN disseminadas))
-                                            (PP 
-                                              (IN por)
-                                              (NP 
-                                                (NN milhares)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (NN disparos)))))))))))
-                         (?)))
+(S 
+  (VP 
+    (NP 
+      (PRP Quem)
+    )
+    (VP 
+      (VBP deve)
+      (VB ser)
+      (VBN responsabilizado)
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT a)
+        (NN poluição)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (PRP nossos)
+            (NP 
+              (NP 
+                (NN campos)
+              )
+              (CC e)
+              (NP 
+                (NN águas)
+              )
+            )
+          )
+        )
+        (,)
+        (VP 
+          (VP 
+            (VBN provocada)
+          )
+          (PP 
+            (IN por+)
+            (NP 
+              (DT as)
+              (NN toneladas)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN chumbo)
+                )
+              )
+              (VP 
+                (ADVP 
+                  (RB anualmente)
+                )
+                (VP 
+                  (VBN disseminadas)
+                )
+                (PP 
+                  (IN por)
+                  (NP 
+                    (NN milhares)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NN disparos)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (?)
+  )
+)

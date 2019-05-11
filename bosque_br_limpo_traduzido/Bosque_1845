@@ -1,24 +1,43 @@
-(S (NP (NN Treinamento)
-                       (PP (IN sobre)
-                              (NP (DT o)
-                                     (NN tema)))
-                       (PP (IN para)
-                              (NP (NN equipes)
-                                     (PP 
-                                       (IN de)
-                                       (_CU_ 
-                                         (NP 
-                                           (NN assistÃªncia)
-                                           (ADJP 
-                                             (JJ mÃ©dica)))
-                                         (,)
-                                         (NP 
-                                           (NN recursos)
-                                           (ADJP 
-                                             (JJ humanos)))
-                                         (,)
-                                         (NP 
-                                           (NN supervisores))
-                                         (CC e)
-                                         (NP 
-                                           (NN gerentes))))))))
+(S 
+  (NP 
+    (NN Treinamento)
+    (PP 
+      (IN sobre)
+      (NP 
+        (DT o)
+        (NN tema)
+      )
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (NN equipes)
+        (PP 
+          (IN de)
+          (NP 
+            (NP 
+              (NN assistência)
+              (ADJP 
+                (JJ médica)
+              )
+            )
+            (,)
+            (NP 
+              (NN recursos)
+              (ADJP 
+                (JJ humanos)
+              )
+            )
+            (,)
+            (NP 
+              (NN supervisores)
+            )
+            e            (NP 
+              (NN gerentes)
+            )
+          )
+        )
+      )
+    )
+  )
+)

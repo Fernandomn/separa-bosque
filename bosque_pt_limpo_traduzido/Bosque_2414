@@ -1,35 +1,59 @@
-(S (VP (NP (DT A)
-                                 (NN dÃºvida))
-                        (VP (VBP Ã©))
-                        (PP (IN entre)
-                               (_CU_ (NP 
-                                        (DT as)
-                                        (NN 18h30))
-                                      (CC ou)
-                                      (NP 
-                                        (DT as)
-                                        (NN 20h30)
-                                        (,)
-                                        (NP 
-                                          (PRP esta)
-                                          (JJ Ãºltima)
-                                          (VP 
-                                            (VP 
-                                              (VBN proposta))
-                                            (PP 
-                                              (IN por+)
-                                              (NP 
-                                                (DT o)
-                                                (NNP Benfica)))
-                                            (,)
-                                            (PP 
-                                              (IN para)
-                                              (VP 
-                                                (VP 
-                                                  (VB permitir))
-                                                (NP 
-                                                  (DT a)
-                                                  (NN transmissÃ£o)
-                                                  (ADJP 
-                                                    (JJ televisiva))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN dúvida)
+    )
+    (VP 
+      (VBP é)
+    )
+    (PP 
+      (IN entre)
+      (NP 
+        (NP 
+          (DT as)
+          (NN 18h30)
+        )
+        (CC ou)
+        (NP 
+          (DT as)
+          (NN 20h30)
+          (,)
+          (NP 
+            (PRP esta)
+            (JJ última)
+            (VP 
+              (VP 
+                (VBN proposta)
+              )
+              (PP 
+                (IN por+)
+                (NP 
+                  (DT o)
+                  (NNP Benfica)
+                )
+              )
+              (,)
+              (PP 
+                (IN para)
+                (VP 
+                  (VP 
+                    (VB permitir)
+                  )
+                  (NP 
+                    (DT a)
+                    (NN transmissão)
+                    (ADJP 
+                      (JJ televisiva)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

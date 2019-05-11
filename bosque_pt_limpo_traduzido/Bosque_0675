@@ -1,45 +1,74 @@
-(S (VP (NP (DT A)
-                                 (NNP China))
-                        (VP (VBP aposta))
-                        (NP (PRP tudo))
-                        (PP (IN em)
-                                (NP (NNP Chen_Lu))
-                                (,)
-                                (_CU_ 
-                                  (ADJP 
-                                    (JJ terceira)
-                                    (VBN classificada)
-                                    (PP 
-                                      (IN em+)
-                                      (NP 
-                                        (DT os)
-                                        (JJ Ãºltimos)
-                                        (CD dois)
-                                        (Â«)
-                                        (NNP Mundiais)
-                                        (Â»))))
-                                  (,)
-                                  (VP 
-                                    (VP 
-                                      (VBN apontada))
-                                    (ADVP 
-                                      (RB como)
-                                      (NP 
-                                        (DT a)
-                                        (NN atleta)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (ADVP 
-                                            (RB melhor))
-                                          (VP 
-                                            (VBP alia))
-                                          (_CU_ 
-                                            (NP 
-                                              (DT a)
-                                              (NN tÃ©cnica))
-                                            (CC e)
-                                            (NP 
-                                              (DT a)
-                                              (NN beleza)))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NNP China)
+    )
+    (VP 
+      (VBP aposta)
+    )
+    (NP 
+      (PRP tudo)
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NNP Chen_Lu)
+      )
+      (,)
+      (UCP 
+        (ADJP 
+          (JJ terceira)
+          (VBN classificada)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT os)
+              (JJ últimos)
+              (CD dois)
+              («)
+              (NNP Mundiais)
+              (»)
+            )
+          )
+        )
+        (,)
+        (VP 
+          (VP 
+            (VBN apontada)
+          )
+          (ADVP 
+            (RB como)
+            (NP 
+              (DT a)
+              (NN atleta)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (ADVP 
+                  (RB melhor)
+                )
+                (VP 
+                  (VBP alia)
+                )
+                (NP 
+                  (NP 
+                    (DT a)
+                    (NN técnica)
+                  )
+                  (CC e)
+                  (NP 
+                    (DT a)
+                    (NN beleza)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,13 +1,30 @@
-(S (_CU_ (Â«)
-                       (VP (VP (VBP Tem))
-                                (NP (PRP muitos)
-                                        (NN conhecimentos)
-                                        (ADJP 
-                                          (JJ gerais))))
-                       (CC e)
-                       (VP (VP (VBP faz))
-                                (NP (NN digressÃµes)
-                                        (ADJP 
-                                          (RB um_pouco)
-                                          (JJ longas))))
-                       (.)))
+(S 
+  (UCP 
+    («)
+    (VP 
+      (VP 
+        (VBP Tem)
+      )
+      (NP 
+        (PRP muitos)
+        (NN conhecimentos)
+        (ADJP 
+          (JJ gerais)
+        )
+      )
+    )
+    e    (VP 
+      (VP 
+        (VBP faz)
+      )
+      (NP 
+        (NN digressões)
+        (ADJP 
+          (RB um_pouco)
+          (JJ longas)
+        )
+      )
+    )
+    (.)
+  )
+)

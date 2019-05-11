@@ -1,22 +1,42 @@
-(S (VP (NP (DT A)
-                                (NN queda)
-                                (PP (IN em+)
-                                       (NP 
-                                         (DT as)
-                                         (NN vendas))))
-                       (VP (VBP teve))
-                       (NP (NN reflexos))
-                       (PP (IN em+)
-                                (NP (DT as)
-                                       (NN negociaÃ§Ãµes)
-                                       (PP 
-                                         (IN entre)
-                                         (_CU_ 
-                                           (NP 
-                                             (DT as)
-                                             (NN confecÃ§Ãµes))
-                                           (CC e)
-                                           (NP 
-                                             (DT as)
-                                             (NN lojas))))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN queda)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT as)
+          (NN vendas)
+        )
+      )
+    )
+    (VP 
+      (VBP teve)
+    )
+    (NP 
+      (NN reflexos)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT as)
+        (NN negociações)
+        (PP 
+          (IN entre)
+          (NP 
+            (NP 
+              (DT as)
+              (NN confecções)
+            )
+            e            (NP 
+              (DT as)
+              (NN lojas)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

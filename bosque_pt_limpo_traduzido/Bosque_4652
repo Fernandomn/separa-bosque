@@ -1,68 +1,107 @@
-(S (VP (_CU_ (NP 
-                                    (NNP Voss))
-                                  (CC e)
-                                  (NP 
-                                    (NNP RenÃ©)))
-                         (VP (VBP organizam))
-                         (NP (NN nÃºmeros)
-                                 (VP 
-                                   (PP 
-                                     (IN em)
-                                     (NP 
-                                       (PRP que)))
-                                   (NP 
-                                     (DT as)
-                                     (NN relaÃ§Ãµes)
-                                     (_CU_ 
-                                       (PP 
-                                         (IN entre)
-                                         (_CU_ 
-                                           (NP 
-                                             (NN escrita))
-                                           (CC e)
-                                           (NP 
-                                             (NN pintura))))
-                                       (CC ou)
-                                       (PP 
-                                         (IN entre)
-                                         (_CU_ 
-                                           (NP 
-                                             (DT a)
-                                             (NNP BD))
-                                           (CC e)
-                                           (NP 
-                                             (DT a)
-                                             (NN figuraÃ§Ã£o)
-                                             (ADJP 
-                                               (JJ pictÃ³rica)))))))
-                                   (VP 
-                                     (VBP sÃ£o))
-                                   (ADJP 
-                                     (RB mais)
-                                     (JJ claras))
-                                   (NP 
-                                     ({)
-                                     (_CU_ 
-                                       (NP 
-                                         (NNP Peter_Saul))
-                                       (,)
-                                       (NP 
-                                         (NNP Cy_Twombly))
-                                       (,)
-                                       (NP 
-                                         (NNP Corneille))
-                                       (,)
-                                       (NP 
-                                         (NN poemas)
-                                         (ADJP 
-                                           (JJ visuais))
-                                         (PP 
-                                           (IN de)
-                                           (_CU_ 
-                                             (NP 
-                                               (NNP Filliou))
-                                             (CC ou)
-                                             (NP 
-                                               (NNP Rotella))))))
-                                     (}))))
-                         (;)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (NNP Voss)
+      )
+      (CC e)
+      (NP 
+        (NNP René)
+      )
+    )
+    (VP 
+      (VBP organizam)
+    )
+    (NP 
+      (NN números)
+      (VP 
+        (PP 
+          (IN em)
+          (NP 
+            (PRP que)
+          )
+        )
+        (NP 
+          (DT as)
+          (NN relações)
+          (PP 
+            (PP 
+              (IN entre)
+              (NP 
+                (NP 
+                  (NN escrita)
+                )
+                (CC e)
+                (NP 
+                  (NN pintura)
+                )
+              )
+            )
+            (CC ou)
+            (PP 
+              (IN entre)
+              (NP 
+                (NP 
+                  (DT a)
+                  (NNP BD)
+                )
+                (CC e)
+                (NP 
+                  (DT a)
+                  (NN figuração)
+                  (ADJP 
+                    (JJ pictórica)
+                  )
+                )
+              )
+            )
+          )
+        )
+        (VP 
+          (VBP são)
+        )
+        (ADJP 
+          (RB mais)
+          (JJ claras)
+        )
+        (NP 
+          ({)
+          (NP 
+            (NP 
+              (NNP Peter_Saul)
+            )
+            (,)
+            (NP 
+              (NNP Cy_Twombly)
+            )
+            (,)
+            (NP 
+              (NNP Corneille)
+            )
+            (,)
+            (NP 
+              (NN poemas)
+              (ADJP 
+                (JJ visuais)
+              )
+              (PP 
+                (IN de)
+                (NP 
+                  (NP 
+                    (NNP Filliou)
+                  )
+                  (CC ou)
+                  (NP 
+                    (NNP Rotella)
+                  )
+                )
+              )
+            )
+          )
+          (})
+        )
+      )
+    )
+    (;)
+  )
+)

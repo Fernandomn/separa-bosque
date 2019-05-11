@@ -1,20 +1,39 @@
-(S (VP (_CU_ (NP 
-                                   (DT A)
-                                   (NNP Ligier-Renault))
-                                 (,)
-                                 (NP 
-                                   (DT a)
-                                   (NNP Lotus-Mugen-Honda))
-                                 (CC e)
-                                 (NP 
-                                   (DT a)
-                                   (NNP Sauber-Mercedes)))
-                        (VP (VBP suceder√£o))
-                        (PP (IN a+)
-                                (NP (DT a)
-                                       (NNP Jordan)))
-                        (PP (IN em+)
-                                 (NP (DT os)
-                                        (VBN referidos)
-                                        (NN ensaios)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (DT A)
+        (NNP Ligier-Renault)
+      )
+      (,)
+      (NP 
+        (DT a)
+        (NNP Lotus-Mugen-Honda)
+      )
+      (CC e)
+      (NP 
+        (DT a)
+        (NNP Sauber-Mercedes)
+      )
+    )
+    (VP 
+      (VBP suceder„o)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT a)
+        (NNP Jordan)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT os)
+        (VBN referidos)
+        (NN ensaios)
+      )
+    )
+    (.)
+  )
+)

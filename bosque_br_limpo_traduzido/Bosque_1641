@@ -1,21 +1,41 @@
-(S (_CU_ (VP (NP 
-                                  (PRP Eu))
-                                (ADVP 
-                                  (RB tambÃ©m))
-                                (VP (VBP acho))
-                                (,))
-                       (CC mas)
-                       (VP (VP (VBP Ã©))
-                                (ADJP 
-                                  (JJ preciso))
-                                (VP 
-                                  (VP (VB avisar))
-                                  (NP 
-                                    (DT o)
-                                    (NN pessoal)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NNP PT))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (PRP Eu)
+      )
+      (ADVP 
+        (RB também)
+      )
+      (VP 
+        (VBP acho)
+      )
+      (,)
+    )
+    mas    (VP 
+      (VP 
+        (VBP é)
+      )
+      (ADJP 
+        (JJ preciso)
+      )
+      (VP 
+        (VP 
+          (VB avisar)
+        )
+        (NP 
+          (DT o)
+          (NN pessoal)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP PT)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,18 +1,38 @@
-(S (VP (Â«)
-                        (ADVP (RB TambÃ©m))
-                        (ADVP (RB nÃ£o))
-                        (NP (PRP nos))
-                        (VP (VBP interessa))
-                        (VP (IN se)
-                                  (NP 
-                                    (DT o)
-                                    (NN jogador))
-                                  (_CU_ (VP 
-                                          (VP 
-                                            (VBP estava))
-                                          (VBN internado))
-                                        (CC ou)
-                                        (VP 
-                                          (ADVP 
-                                            (RB nÃ£o)))))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (ADVP 
+      (RB Também)
+    )
+    (ADVP 
+      (RB não)
+    )
+    (NP 
+      (PRP nos)
+    )
+    (VP 
+      (VBP interessa)
+    )
+    (VP 
+      (IN se)
+      (NP 
+        (DT o)
+        (NN jogador)
+      )
+      (VP 
+        (VP 
+          (VP 
+            (VBP estava)
+          )
+          (VBN internado)
+        )
+        ou        (VP 
+          (ADVP 
+            (RB não)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

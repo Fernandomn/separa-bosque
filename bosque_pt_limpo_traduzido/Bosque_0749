@@ -1,38 +1,66 @@
-(S (VP (NP (DT O)
-                                 (NN corpo)
-                                 (ADJP 
-                                   (JJ humano))
-                                 ({)
-                                 (PP (IN em+)
-                                        (NP 
-                                          (DT a)
-                                          (PRP sua)
-                                          (NN realidade)
-                                          (ADJP 
-                                            (JJ fÃ­sica))))
-                                 (}))
-                        (VP (VBP tornou-))
-                        (NP (PRP se))
-                        (_CU_ (NP (NN suporte))
-                               (--)
-                               (CC ou)
-                               (,)
-                               (NP (VP 
-                                         (IN se)
-                                         (VP 
-                                           (VBP quisermos)))
-                                       (,)
-                                       (NP 
-                                         (DT a)
-                                         (PRP prÃ³pria)
-                                         (NN matÃ©ria-prima)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NN obra)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN arte))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN corpo)
+      (ADJP 
+        (JJ humano)
+      )
+      ({)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (PRP sua)
+          (NN realidade)
+          (ADJP 
+            (JJ física)
+          )
+        )
+      )
+      (})
+    )
+    (VP 
+      (VBP tornou-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (UCP 
+      (NP 
+        (NN suporte)
+      )
+      (--)
+      (CC ou)
+      (,)
+      (NP 
+        (VP 
+          (IN se)
+          (VP 
+            (VBP quisermos)
+          )
+        )
+        (,)
+        (NP 
+          (DT a)
+          (PRP própria)
+          (NN matéria-prima)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN obra)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN arte)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

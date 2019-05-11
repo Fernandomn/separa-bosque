@@ -1,11 +1,26 @@
-(S (VP (NP (PRP Isso))
-                        (VP (VBP implicou))
-                        (_CU_ (NP (DT uma)
-                                        (JJ maior)
-                                        (NN incerteza))
-                                (CC e)
-                                (NP (NN estimativas)
-                                        (ADJP 
-                                          (RB acrescidamente)
-                                          (JJ prudentes))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Isso)
+    )
+    (VP 
+      (VBP implicou)
+    )
+    (NP 
+      (NP 
+        (DT uma)
+        (JJ maior)
+        (NN incerteza)
+      )
+      (CC e)
+      (NP 
+        (NN estimativas)
+        (ADJP 
+          (RB acrescidamente)
+          (JJ prudentes)
+        )
+      )
+    )
+    (.)
+  )
+)

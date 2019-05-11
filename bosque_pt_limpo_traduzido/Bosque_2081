@@ -1,9 +1,25 @@
-(S (VP (--)
-                        (NP (PRP tudo))
-                        (VP (VBP tem))
-                        (_CU_ (NP (NN princÃ­pio))
-                                (,)
-                                (NP (NN meio))
-                                (CC e)
-                                (NP (NN fim)))
-                        (;)))
+(S 
+  (VP 
+    (--)
+    (NP 
+      (PRP tudo)
+    )
+    (VP 
+      (VBP tem)
+    )
+    (NP 
+      (NP 
+        (NN princípio)
+      )
+      (,)
+      (NP 
+        (NN meio)
+      )
+      (CC e)
+      (NP 
+        (NN fim)
+      )
+    )
+    (;)
+  )
+)

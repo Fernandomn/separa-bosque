@@ -1,49 +1,84 @@
-(S (_CU_ (VP (VP (VBP Recorde-))
-                                (NP (PRP se))
-                                (VP 
-                                  (IN que)
-                                  (NP 
-                                    (NNP Edberg))
-                                  (,)
-                                  (ADVP 
-                                    (RB antes)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (NNP Roland_Garros))))
-                                  (,)
-                                  (VP (VBP estava))
-                                  (PP 
-                                    (IN em+)
-                                    (NP 
-                                      (DT o)
-                                      (JJ 45Âº)
-                                      (NN lugar)))
-                                  (,)))
-                       (CC mas)
-                       (VP (NP 
-                                  (DT as)
-                                  (JJ excelentes)
-                                  (NN exibiÃ§Ãµes)
-                                  (_CU_ 
-                                    (PP 
-                                      (IN em+)
-                                      (NP 
-                                        (DT a)
-                                        (NN terra)
-                                        (VBN batida)
-                                        (ADJP 
-                                          (JJ parisiense))))
-                                    (CC e)
-                                    (PP 
-                                      (IN em+)
-                                      (NP 
-                                        (DT a)
-                                        (NN relva)
-                                        (ADJP 
-                                          (JJ londrina))))))
-                                (VP (VBP permitiram-))
-                                (NP (PRP lhe))
-                                (NP (DT o)
-                                        (NN salto)))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP Recorde-)
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (IN que)
+        (NP 
+          (NNP Edberg)
+        )
+        (,)
+        (ADVP 
+          (RB antes)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Roland_Garros)
+            )
+          )
+        )
+        (,)
+        (VP 
+          (VBP estava)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (JJ 45º)
+            (NN lugar)
+          )
+        )
+        (,)
+      )
+    )
+    (CC mas)
+    (VP 
+      (NP 
+        (DT as)
+        (JJ excelentes)
+        (NN exibições)
+        (PP 
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN terra)
+              (VBN batida)
+              (ADJP 
+                (JJ parisiense)
+              )
+            )
+          )
+          (CC e)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN relva)
+              (ADJP 
+                (JJ londrina)
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP permitiram-)
+      )
+      (NP 
+        (PRP lhe)
+      )
+      (NP 
+        (DT o)
+        (NN salto)
+      )
+    )
+    (.)
+  )
+)

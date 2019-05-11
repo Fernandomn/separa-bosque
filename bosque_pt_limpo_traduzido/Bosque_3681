@@ -1,53 +1,89 @@
-(S (VP (ADJP (CD Uma)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT as)
-                                       (NN vit√≥rias)
-                                       (VP 
-                                         (VP 
-                                           (VBN reivindicadas))
-                                         (PP 
-                                           (IN por+)
-                                           (NP 
-                                             (DT a)
-                                             (NNP FNE)))))))
-                        (VP (VBP √©))
-                        (NP (DT a)
-                               (NN integra√ß√£o)
-                               (_CU_ (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (PRP estes)
-                                           (NN professores))))
-                               (PP (IN em+)
-                                      (NP 
-                                        (DT o)
-                                        (NNP Estatuto_da_Carreira_Docente)))
-                               (_CU_ (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT os)
-                                           (NN educadores)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN inf√¢ncia)))))
-                                       (CC e)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT os)
-                                           (NN professores)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT o)
-                                               (NN ensino)
-                                               (_CU_ 
-                                                 (ADJP 
-                                                   (JJ b√°sico))
-                                                 (CC e)
-                                                 (ADJP 
-                                                   (JJ secund√°rio)))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADJP 
+      (CD Uma)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (NN vitÛrias)
+          (VP 
+            (VP 
+              (VBN reivindicadas)
+            )
+            (PP 
+              (IN por+)
+              (NP 
+                (DT a)
+                (NNP FNE)
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP È)
+    )
+    (NP 
+      (DT a)
+      (NN integraÁ„o)
+      (PP 
+        (PP 
+          (IN de+)
+          (NP 
+            (PRP estes)
+            (NN professores)
+          )
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NNP Estatuto_da_Carreira_Docente)
+        )
+      )
+      (PP 
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN educadores)
+            (PP 
+              (IN de)
+              (NP 
+                (NN inf‚ncia)
+              )
+            )
+          )
+        )
+        (CC e)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN professores)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN ensino)
+                (ADJP 
+                  (ADJP 
+                    (JJ b·sico)
+                  )
+                  (CC e)
+                  (ADJP 
+                    (JJ secund·rio)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,47 +1,83 @@
-(S (_CU_ (VP (NP 
-                                  (DT O)
-                                  (_CU_ (NP 
-                                          (NNP Rep√∫blica_da_Irlanda))
-                                        (-)
-                                        (NP 
-                                          (NNP Espanha)))
-                                  (PP 
-                                    (IN de)
-                                    (RB hoje)))
-                                (ADVP 
-                                  (RB j√°))
-                                (VP (VBP ajudar√°))
-                                (PP 
-                                  (IN a)
-                                  (VP 
-                                    (VP 
-                                      (VB definir))
-                                    (NP 
-                                      (NN posi√ß√µes)))))
-                       (,)
-                       (CC mas)
-                       (VP (VP (VBP dever√°)
-                                      (VB ser))
-                                (NP (DT o)
-                                       (_CU_ 
-                                         (NP 
-                                           (NNP Espanha))
-                                         (-)
-                                         (NP 
-                                           (NNP Dinamarca)))
-                                       (PP 
-                                         (IN de)
-                                         (ADJP 
-                                           (CD 17)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN Novembro)))))
-                                       (VP 
-                                         (NP 
-                                           (PRP que))
-                                         (NP 
-                                           (PRP tudo))
-                                         (VP 
-                                           (VBP esclarecer√°)))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (UCP 
+          (NP 
+            (NNP Rep˙blica_da_Irlanda)
+          )
+          (-)
+          (NP 
+            (NNP Espanha)
+          )
+        )
+        (PP 
+          (IN de)
+          (RB hoje)
+        )
+      )
+      (ADVP 
+        (RB j·)
+      )
+      (VP 
+        (VBP ajudar·)
+      )
+      (PP 
+        (IN a)
+        (VP 
+          (VP 
+            (VB definir)
+          )
+          (NP 
+            (NN posiÁıes)
+          )
+        )
+      )
+    )
+    (,)
+    (CC mas)
+    (VP 
+      (VP 
+        (VBP dever·)
+        (VB ser)
+      )
+      (NP 
+        (DT o)
+        (UCP 
+          (NP 
+            (NNP Espanha)
+          )
+          (-)
+          (NP 
+            (NNP Dinamarca)
+          )
+        )
+        (PP 
+          (IN de)
+          (ADJP 
+            (CD 17)
+            (PP 
+              (IN de)
+              (NP 
+                (NN Novembro)
+              )
+            )
+          )
+        )
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (NP 
+            (PRP tudo)
+          )
+          (VP 
+            (VBP esclarecer·)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

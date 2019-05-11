@@ -1,16 +1,37 @@
-(S (VP (NP (DT O)
-                                 (_CU_ (NP 
-                                         (NN bar))
-                                       (CC e)
-                                       (NP 
-                                         (NN restaurante)))
-                                 (NP (NNP Lanterna)))
-                        (VP (VBP inaugurou))
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NN terÃ§a-feira)))
-                        (NP (DT um)
-                                (NN espaÃ§o)
-                                (PP (IN para)
-                                       (VB danÃ§ar)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NP 
+        (NP 
+          (NN bar)
+        )
+        e        (NP 
+          (NN restaurante)
+        )
+      )
+      (NP 
+        (NNP Lanterna)
+      )
+    )
+    (VP 
+      (VBP inaugurou)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN terça-feira)
+      )
+    )
+    (NP 
+      (DT um)
+      (NN espaço)
+      (PP 
+        (IN para)
+        (VB dançar)
+      )
+    )
+    (.)
+  )
+)

@@ -1,28 +1,52 @@
-(S (_CU_ (Â«)
-                       (VP (ADVP 
-                                  (RB JÃ¡))
-                                (VP (VBP tinha)
-                                      (VBN feito))
-                                (_CU_ (NP 
-                                          (NN dieta))
-                                        (,)
-                                        (NP 
-                                          (NN ginÃ¡stica)
-                                          (VBN localizada))
-                                        (,)
-                                        (NP 
-                                          (NN exercÃ­cios)
-                                          (PP 
-                                            (IN com)
-                                            (NP 
-                                              (NN aparelhos))))))
-                       (CC e)
-                       (VP (ADVP 
-                                  (RB nÃ£o))
-                                (VP (VBP conseguia))
-                                (VP 
-                                  (VP (VB eliminar))
-                                  (NP 
-                                    (PRP essas)
-                                    (NN gordurinhas))))
-                       (.)))
+(S 
+  (UCP 
+    («)
+    (VP 
+      (ADVP 
+        (RB Já)
+      )
+      (VP 
+        (VBP tinha)
+        (VBN feito)
+      )
+      (NP 
+        (NP 
+          (NN dieta)
+        )
+        (,)
+        (NP 
+          (NN ginástica)
+          (VBN localizada)
+        )
+        (,)
+        (NP 
+          (NN exercícios)
+          (PP 
+            (IN com)
+            (NP 
+              (NN aparelhos)
+            )
+          )
+        )
+      )
+    )
+    e    (VP 
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VBP conseguia)
+      )
+      (VP 
+        (VP 
+          (VB eliminar)
+        )
+        (NP 
+          (PRP essas)
+          (NN gordurinhas)
+        )
+      )
+    )
+    (.)
+  )
+)

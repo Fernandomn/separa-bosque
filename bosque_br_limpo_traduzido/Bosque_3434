@@ -1,36 +1,63 @@
-(S (VP (VP (VBN Abalado))
-                        (,)
-                        (NP (DT o)
-                                 (NN jogador))
-                        (VP (VBP amea√ßou))
-                        (VP (ADVP 
-                                   (RB n√£o))
-                                 (VP (VB disputar))
-                                 (NP 
-                                   (DT a)
-                                   (NNP Copa_do_Mundo))
-                                 (,)
-                                 (PP 
-                                   (IN em)
-                                   (_CU_ 
-                                     (NP 
-                                       (NN junho))
-                                     (CC e)
-                                     (NP 
-                                       (NN julho))))
-                                 (,)
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT os)
-                                     (NNP EUA))))
-                        (,)
-                        (VP (IN caso)
-                                  (NP 
-                                    (DT o)
-                                    (NN pai))
-                                  (ADVP 
-                                    (RB n√£o))
-                                  (VP (VBP seja)
-                                        (VBN libertado)))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBN Abalado)
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN jogador)
+    )
+    (VP 
+      (VBP ameaÁou)
+    )
+    (VP 
+      (ADVP 
+        (RB n„o)
+      )
+      (VP 
+        (VB disputar)
+      )
+      (NP 
+        (DT a)
+        (NNP Copa_do_Mundo)
+      )
+      (,)
+      (PP 
+        (IN em)
+        (NP 
+          (NP 
+            (NN junho)
+          )
+          e          (NP 
+            (NN julho)
+          )
+        )
+      )
+      (,)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT os)
+          (NNP EUA)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (IN caso)
+      (NP 
+        (DT o)
+        (NN pai)
+      )
+      (ADVP 
+        (RB n„o)
+      )
+      (VP 
+        (VBP seja)
+        (VBN libertado)
+      )
+    )
+    (.)
+  )
+)

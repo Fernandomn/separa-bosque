@@ -1,58 +1,94 @@
-(S (VP (PP (IN Por+)
-                                (NP (DT o)
-                                       (NN acordo)))
-                       (,)
-                       (VP (VBP s√£o)
-                             (VBN reduzidas))
-                       (ADVP (RB de_imediato))
-                       (NP (PRP todas)
-                                (DT as)
-                                (NN barreiras)
-                                (_CU_ (ADJP 
-                                         (JJ tribut√°rias))
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ alfandeg√°rias)))
-                                (VP (VP 
-                                          (VBN relacionadas))
-                                        (PP 
-                                          (IN a+)
-                                          (NP 
-                                            (DT a)
-                                            (NN importa√ß√£o)
-                                            (PP 
-                                              (IN por)
-                                              (NP 
-                                                (PRP qualquer)
-                                                (NN pa√≠s)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NN acordo)))))
-                                            (,)
-                                            (PP 
-                                              (IN de)
-                                              (_CU_ 
-                                                (NP 
-                                                  (NN ve√≠culos)
-                                                  (ADJP 
-                                                    (JJ automotores)))
-                                                (,)
-                                                (NP 
-                                                  (NN autope√ßas))
-                                                (CC e)
-                                                (NP 
-                                                  (NN acess√≥rios)
-                                                  (VP 
-                                                    (VP 
-                                                      (VBN fabricados))
-                                                    (PP 
-                                                      (IN em+)
-                                                      (NP 
-                                                        (DT os)
-                                                        (PRP demais)
-                                                        (NN pa√≠ses)
-                                                        (NP 
-                                                          (NN membros))))))))))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Por+)
+      (NP 
+        (DT o)
+        (NN acordo)
+      )
+    )
+    (,)
+    (VP 
+      (VBP s„o)
+      (VBN reduzidas)
+    )
+    (ADVP 
+      (RB de_imediato)
+    )
+    (NP 
+      (PRP todas)
+      (DT as)
+      (NN barreiras)
+      (ADJP 
+        (ADJP 
+          (JJ tribut·rias)
+        )
+        e        (ADJP 
+          (JJ alfandeg·rias)
+        )
+      )
+      (VP 
+        (VP 
+          (VBN relacionadas)
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (DT a)
+            (NN importaÁ„o)
+            (PP 
+              (IN por)
+              (NP 
+                (PRP qualquer)
+                (NN paÌs)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN acordo)
+                  )
+                )
+              )
+            )
+            (,)
+            (PP 
+              (IN de)
+              (NP 
+                (NP 
+                  (NN veÌculos)
+                  (ADJP 
+                    (JJ automotores)
+                  )
+                )
+                (,)
+                (NP 
+                  (NN autopeÁas)
+                )
+                e                (NP 
+                  (NN acessÛrios)
+                  (VP 
+                    (VP 
+                      (VBN fabricados)
+                    )
+                    (PP 
+                      (IN em+)
+                      (NP 
+                        (DT os)
+                        (PRP demais)
+                        (NN paÌses)
+                        (NP 
+                          (NN membros)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

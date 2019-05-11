@@ -1,32 +1,54 @@
-(S (VP (VP (PP 
-                                   (IN Segundo)
-                                   (VP 
-                                     (NP 
-                                       (PRP se))
-                                     (VP 
-                                       (VBP julga))))
-                                 (,)
-                                 (NP 
-                                   (DT o)
-                                   (NN cinema))
-                                 (VP (VBP foi)
-                                       (VBN licenciado))
-                                 (_CU_ 
-                                   (PP 
-                                     (IN para)
-                                     (NP 
-                                       (NN exibiÃ§Ã£o)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN filmes)))))
-                                   (CC e)
-                                   (PP 
-                                     (RB nÃ£o)
-                                     (IN para)
-                                     (NP 
-                                       (NN culto)))))
-                        (Â»)
-                        (,)
-                        (VP (VBP defende))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (PP 
+        (IN Segundo)
+        (VP 
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VBP julga)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (DT o)
+        (NN cinema)
+      )
+      (VP 
+        (VBP foi)
+        (VBN licenciado)
+      )
+      (PP 
+        (PP 
+          (IN para)
+          (NP 
+            (NN exibição)
+            (PP 
+              (IN de)
+              (NP 
+                (NN filmes)
+              )
+            )
+          )
+        )
+        (CC e)
+        (PP 
+          (RB não)
+          (IN para)
+          (NP 
+            (NN culto)
+          )
+        )
+      )
+    )
+    (»)
+    (,)
+    (VP 
+      (VBP defende)
+    )
+    (.)
+  )
+)

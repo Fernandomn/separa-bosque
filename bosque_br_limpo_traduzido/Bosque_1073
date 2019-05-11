@@ -1,20 +1,40 @@
-(S (VP (NP (DT A)
-                                 (NN produÃ§Ã£o)
-                                 (PP 
-                                   (IN de)
-                                   (NP 
-                                     (NN petrÃ³leo)))
-                                 (PP (IN em+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP Argentina))))
-                        (VP (VBP aumentou))
-                        (NP (CD 30)
-                                (NN %))
-                        (PP (IN entre)
-                                 (_CU_ (NP 
-                                          (CD 1991))
-                                        (CC e)
-                                        (ADJP 
-                                          (CD 1993))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN produção)
+      (PP 
+        (IN de)
+        (NP 
+          (NN petróleo)
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NNP Argentina)
+        )
+      )
+    )
+    (VP 
+      (VBP aumentou)
+    )
+    (NP 
+      (CD 30)
+      (NN %)
+    )
+    (PP 
+      (IN entre)
+      (UCP 
+        (NP 
+          (CD 1991)
+        )
+        e        (ADJP 
+          (CD 1993)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,35 +1,61 @@
-(S (VP (NP (DT Os)
-                                 (NN serviÃ§os)
-                                 (VP 
-                                   (ADVP 
-                                     (RB mais))
-                                   (VP 
-                                     (VBN procurados))
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT a)
-                                       (NNP InterNet)))))
-                        (VP (VBP sÃ£o))
-                        (_CU_ (NP (NN correio)
-                                       (ADJP 
-                                         (JJ eletrÃ´nico)))
-                               (CC e)
-                               (NP (NN transferÃªncia)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN arquivos)))
-                                       (,)
-                                       (VP 
-                                         (VP 
-                                           (VBN conhecida))
-                                         (ADVP 
-                                           (RB como)
-                                           (NP 
-                                             (NNP FTP)
-                                             ({)
-                                             (NP 
-                                               (NNP File_Transfer_Protocol))
-                                             (}))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN serviços)
+      (VP 
+        (ADVP 
+          (RB mais)
+        )
+        (VP 
+          (VBN procurados)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT a)
+            (NNP InterNet)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP são)
+    )
+    (NP 
+      (NP 
+        (NN correio)
+        (ADJP 
+          (JJ eletrônico)
+        )
+      )
+      e      (NP 
+        (NN transferência)
+        (PP 
+          (IN de)
+          (NP 
+            (NN arquivos)
+          )
+        )
+        (,)
+        (VP 
+          (VP 
+            (VBN conhecida)
+          )
+          (ADVP 
+            (RB como)
+            (NP 
+              (NNP FTP)
+              ({)
+              (NP 
+                (NNP File_Transfer_Protocol)
+              )
+              (})
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

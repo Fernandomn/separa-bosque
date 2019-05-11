@@ -1,71 +1,113 @@
-(S (VP (VP (VP 
-                                          (VBG Reconhecendo))
-                                        (VP 
-                                          (IN que)
-                                          (Â«)
-                                          (NP 
-                                            (PRP ninguÃ©m))
-                                          (ADVP 
-                                            (RB melhor)
-                                            (ADVP 
-                                              (IN que)
-                                              (NP 
-                                                (DT os)
-                                                (NN prÃ³prios))))
-                                          (VP 
-                                            (VBP sabem))
-                                          (VP 
-                                            (NP 
-                                              (PRP o_que))
-                                            (VP 
-                                              (VBP deve)
-                                              (VB ser)
-                                              (VBN feito)))
-                                          (Â»)))
-                        (,)
-                        (NP (NNP Nery))
-                        (VP (VBP pensa))
-                        (VP (IN que)
-                                 (VP (VBP deve)
-                                       (VB haver))
-                                 (NP 
-                                   (DT uma)
-                                   (NN separaÃ§Ã£o)
-                                   (ADJP 
-                                     (JJ clara))
-                                   (PP 
-                                     (IN entre)
-                                     (_CU_ 
-                                       (NP 
-                                         (NN subsÃ­dios)
-                                         (PP 
-                                           (IN a)
-                                           (NP 
-                                             (NN equipamentos))))
-                                       (,)
-                                       (NP 
-                                         (NN subsÃ­dios)
-                                         (_CU_ 
-                                           (PP 
-                                             (IN a+)
-                                             (NP 
-                                               (DT a)
-                                               (NN produÃ§Ã£o)))
-                                           (CC e)
-                                           (PP 
-                                             (IN a+)
-                                             (NP 
-                                               (DT os)
-                                               (NN custos)
-                                               (ADJP 
-                                                 (JJ permanentes))
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (NN manutenÃ§Ã£o)
-                                                   (PP 
-                                                     (IN de)
-                                                     (NP 
-                                                       (DT uma)
-                                                       (NN companhia)))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBG Reconhecendo)
+      )
+      (VP 
+        (IN que)
+        («)
+        (NP 
+          (PRP ninguém)
+        )
+        (ADVP 
+          (RB melhor)
+          (ADVP 
+            (IN que)
+            (NP 
+              (DT os)
+              (NN próprios)
+            )
+          )
+        )
+        (VP 
+          (VBP sabem)
+        )
+        (VP 
+          (NP 
+            (PRP o_que)
+          )
+          (VP 
+            (VBP deve)
+            (VB ser)
+            (VBN feito)
+          )
+        )
+        (»)
+      )
+    )
+    (,)
+    (NP 
+      (NNP Nery)
+    )
+    (VP 
+      (VBP pensa)
+    )
+    (VP 
+      (IN que)
+      (VP 
+        (VBP deve)
+        (VB haver)
+      )
+      (NP 
+        (DT uma)
+        (NN separação)
+        (ADJP 
+          (JJ clara)
+        )
+        (PP 
+          (IN entre)
+          (NP 
+            (NP 
+              (NN subsídios)
+              (PP 
+                (IN a)
+                (NP 
+                  (NN equipamentos)
+                )
+              )
+            )
+            (,)
+            (NP 
+              (NN subsídios)
+              (PP 
+                (PP 
+                  (IN a+)
+                  (NP 
+                    (DT a)
+                    (NN produção)
+                  )
+                )
+                (CC e)
+                (PP 
+                  (IN a+)
+                  (NP 
+                    (DT os)
+                    (NN custos)
+                    (ADJP 
+                      (JJ permanentes)
+                    )
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NN manutenção)
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (DT uma)
+                            (NN companhia)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

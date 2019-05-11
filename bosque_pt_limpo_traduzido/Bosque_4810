@@ -1,36 +1,65 @@
-(S (VP (_CU_ (NP 
-                                   (DT O)
-                                   (NN d√≥lar))
-                                 (CC e)
-                                 (NP 
-                                   (DT o)
-                                   (NN marco)))
-                        (VP (VBP fixaram))
-                        (PP (RB respectivamente)
-                                 (IN a)
-                                 (NP (_CU_ 
-                                          (NP 
-                                            (CD 159.775))
-                                          (CC e)
-                                          (NP 
-                                            (CD 87.35)))
-                                        (NN escudos)))
-                        (PP (IN face_a+)
-                                 (NP (_CU_ 
-                                          (NP 
-                                            (DT os)
-                                            (CD 156.942))
-                                          (CC e)
-                                          (ADJP 
-                                            (CD 86.871)))
-                                        (VP 
-                                          (VP 
-                                            (VBN verificados))
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT a)
-                                              (NN sess√£o)
-                                              (ADJP 
-                                                (JJ anterior)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (DT O)
+        (NN dÛlar)
+      )
+      (CC e)
+      (NP 
+        (DT o)
+        (NN marco)
+      )
+    )
+    (VP 
+      (VBP fixaram)
+    )
+    (PP 
+      (RB respectivamente)
+      (IN a)
+      (NP 
+        (NP 
+          (NP 
+            (CD 159.775)
+          )
+          (CC e)
+          (NP 
+            (CD 87.35)
+          )
+        )
+        (NN escudos)
+      )
+    )
+    (PP 
+      (IN face_a+)
+      (NP 
+        (UCP 
+          (NP 
+            (DT os)
+            (CD 156.942)
+          )
+          (CC e)
+          (ADJP 
+            (CD 86.871)
+          )
+        )
+        (VP 
+          (VP 
+            (VBN verificados)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN sess„o)
+              (ADJP 
+                (JJ anterior)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

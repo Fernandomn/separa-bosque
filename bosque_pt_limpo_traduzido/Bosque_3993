@@ -1,41 +1,68 @@
-(S (VP (NP (PRP VocÃª))
-                         (VP (VBP sai))
-                         (PP (IN com)
-                                (NP (DT a)
-                                       (NN certeza)
-                                       (PP 
-                                         (IN de)
-                                         (VP 
-                                           (IN que)
-                                           (VP 
-                                             (VBP chegou))
-                                           (PP 
-                                             (NP 
-                                               (PRP muito))
-                                             (IN perto_de+)
-                                             (_CU_ 
-                                               (NP 
-                                                 (DT o)
-                                                 (NN coraÃ§Ã£o)
-                                                 (ADJP 
-                                                   (JJ selvagem))
-                                                 (PP 
-                                                   (IN de+)
-                                                   (NP 
-                                                     (DT a)
-                                                     (NNP FranÃ§a))))
-                                               (CC ou)
-                                               (PP 
-                                                 (RB entÃ£o)
-                                                 (IN de)
-                                                 (NP 
-                                                   (DT uma)
-                                                   (NN cura)
-                                                   (ADJP 
-                                                     (JJ definitiva))
-                                                   (PP 
-                                                     (IN para)
-                                                     (NP 
-                                                       (DT a)
-                                                       (NN sinusite)))))))))))
-                         (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Você)
+    )
+    (VP 
+      (VBP sai)
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (DT a)
+        (NN certeza)
+        (PP 
+          (IN de)
+          (VP 
+            (IN que)
+            (VP 
+              (VBP chegou)
+            )
+            (PP 
+              (NP 
+                (PRP muito)
+              )
+              (IN perto_de+)
+              (UCP 
+                (NP 
+                  (DT o)
+                  (NN coração)
+                  (ADJP 
+                    (JJ selvagem)
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NNP França)
+                    )
+                  )
+                )
+                (CC ou)
+                (PP 
+                  (RB então)
+                  (IN de)
+                  (NP 
+                    (DT uma)
+                    (NN cura)
+                    (ADJP 
+                      (JJ definitiva)
+                    )
+                    (PP 
+                      (IN para)
+                      (NP 
+                        (DT a)
+                        (NN sinusite)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

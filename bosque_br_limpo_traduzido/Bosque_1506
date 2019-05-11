@@ -1,46 +1,74 @@
-(S (_CU_ (VP (PP 
-                                  (IN Segundo)
-                                  (NP 
-                                    (DT o)
-                                    (NN diretor)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (NNP Assuntos_Internacionais)))
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NNP Banco_Central)
-                                        (,)
-                                        (NP 
-                                          (NNP Gustavo_Franco))
-                                        (,)))))
-                                (NP 
-                                  (DT as)
-                                  (NN emiss√µes)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (NN reais))))
-                                (VP (VBP cresceram))
-                                (ADVP 
-                                  (RB bastante))
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (DT a)
-                                    (JJ primeira)
-                                    (NN semana)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (NN julho)))))
-                                (,))
-                       (CC mas)
-                       (VP (VP (VBP est√£o))
-                                (ADJP 
-                                  (JJ est√°veis))
-                                (ADVP 
-                                  (RB desde_ent√£o)))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (PP 
+        (IN Segundo)
+        (NP 
+          (DT o)
+          (NN diretor)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Assuntos_Internacionais)
+            )
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Banco_Central)
+              (,)
+              (NP 
+                (NNP Gustavo_Franco)
+              )
+              (,)
+            )
+          )
+        )
+      )
+      (NP 
+        (DT as)
+        (NN emissıes)
+        (PP 
+          (IN de)
+          (NP 
+            (NN reais)
+          )
+        )
+      )
+      (VP 
+        (VBP cresceram)
+      )
+      (ADVP 
+        (RB bastante)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (JJ primeira)
+          (NN semana)
+          (PP 
+            (IN de)
+            (NP 
+              (NN julho)
+            )
+          )
+        )
+      )
+      (,)
+    )
+    mas    (VP 
+      (VP 
+        (VBP est„o)
+      )
+      (ADJP 
+        (JJ est·veis)
+      )
+      (ADVP 
+        (RB desde_ent„o)
+      )
+    )
+    (.)
+  )
+)

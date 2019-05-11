@@ -1,52 +1,84 @@
-(S (VP (_CU_ (NP 
-                                   (NN Mestre)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       (NN guitarra)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (CD doze)
-                                           (NN cordas))))))
-                                 (CC e)
-                                 (NP 
-                                   (NN emblema)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (NN blues)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP Piedmont)))))))
-                        (,)
-                        (NP (NNP Blind_Willie_McTell))
-                        (VP (VBP Ã©))
-                        (ADJP (CD um)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN guardadores)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN memÃ³ria)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (JJ genuÃ­na)
-                                                  (NN mÃºsica)
-                                                  (ADJP 
-                                                    (JJ popular))
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT a)
-                                                      (NNP AmÃ©rica))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (NN Mestre)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN guitarra)
+            (PP 
+              (IN de)
+              (NP 
+                (CD doze)
+                (NN cordas)
+              )
+            )
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (NN emblema)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN blues)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NNP Piedmont)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP Blind_Willie_McTell)
+    )
+    (VP 
+      (VBP é)
+    )
+    (ADJP 
+      (CD um)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN guardadores)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN memória)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (JJ genuína)
+                  (NN música)
+                  (ADJP 
+                    (JJ popular)
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NNP América)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

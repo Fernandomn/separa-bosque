@@ -1,41 +1,71 @@
-(S (VP (NP (NNP Netanyahu))
-                        (VP (VBP garantiu))
-                        (PP (IN a+)
-                                (NP (DT o)
-                                       (NN Presidente)
-                                       (ADJP 
-                                         (JJ sÃ­rio))
-                                       (,)
-                                       (NP 
-                                         (NNP Hafez_Assad))
-                                       (,)))
-                        (VP (IN que)
-                                 (VP (VBP encontrarÃ¡))
-                                 (PP (IN em+)
-                                        (NP 
-                                          (DT os)
-                                          (NN israelitas)))
-                                 (Â«)
-                                 (NP 
-                                   (NN parceiros)
-                                   (_CU_ 
-                                     (ADJP 
-                                       (JJ razoÃ¡veis))
-                                     (CC e)
-                                     (NP 
-                                       (NN cooperantes))))
-                                 (Â»)
-                                 (VP 
-                                   (IN se)
-                                   (Â«)
-                                   (VP 
-                                     (VBP escolher))
-                                   (NP 
-                                     (DT o)
-                                     (NN caminho)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NN paz))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Netanyahu)
+    )
+    (VP 
+      (VBP garantiu)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT o)
+        (NN Presidente)
+        (ADJP 
+          (JJ sírio)
+        )
+        (,)
+        (NP 
+          (NNP Hafez_Assad)
+        )
+        (,)
+      )
+    )
+    (VP 
+      (IN que)
+      (VP 
+        (VBP encontrará)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT os)
+          (NN israelitas)
+        )
+      )
+      («)
+      (NP 
+        (NN parceiros)
+        (UCP 
+          (ADJP 
+            (JJ razoáveis)
+          )
+          (CC e)
+          (NP 
+            (NN cooperantes)
+          )
+        )
+      )
+      (»)
+      (VP 
+        (IN se)
+        («)
+        (VP 
+          (VBP escolher)
+        )
+        (NP 
+          (DT o)
+          (NN caminho)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN paz)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

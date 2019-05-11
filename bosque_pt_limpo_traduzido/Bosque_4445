@@ -1,42 +1,72 @@
-(S (VP (PP (IN Entre)
-                                 (NP (DT os)
-                                        (NN primeiros)))
-                        (,)
-                        (VP (VBP conta-))
-                        (NP (PRP se))
-                        (NP (DT o)
-                                 (NN advogado)
-                                 (NP (NNP Bernard_Nussbaum))
-                                 (,)
-                                 (_CU_ 
-                                   (NP 
-                                     (NN amigo)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NNP Clinton))))
-                                   (CC e)
-                                   (VP 
-                                     (NP 
-                                       (PRP que))
-                                     (NP 
-                                       (PRP se))
-                                     (VP 
-                                       (VBP demitiu))
-                                     (PP 
-                                       (IN em+)
-                                       (NP 
-                                         (DT a)
-                                         (NN semana)
-                                         (VBN passada)))
-                                     (,)
-                                     (PP 
-                                       (IN em)
-                                       (NP 
-                                         (NN relaÃ§Ã£o)
-                                         (PP 
-                                           (IN com)
-                                           (NP 
-                                             (DT o)
-                                             (NN caso))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Entre)
+      (NP 
+        (DT os)
+        (NN primeiros)
+      )
+    )
+    (,)
+    (VP 
+      (VBP conta-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (NP 
+      (DT o)
+      (NN advogado)
+      (NP 
+        (NNP Bernard_Nussbaum)
+      )
+      (,)
+      (UCP 
+        (NP 
+          (NN amigo)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Clinton)
+            )
+          )
+        )
+        (CC e)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VBP demitiu)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN semana)
+              (VBN passada)
+            )
+          )
+          (,)
+          (PP 
+            (IN em)
+            (NP 
+              (NN relação)
+              (PP 
+                (IN com)
+                (NP 
+                  (DT o)
+                  (NN caso)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

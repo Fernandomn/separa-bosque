@@ -1,19 +1,37 @@
-(S (VP (Â«)
-                        (NP (DT Os)
-                                 (NN direitos)
-                                 (_CU_ (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (NN fumadores)))
-                                        (CC e)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (RB nÃ£o)
-                                            (NN fumadores)))))
-                        (ADVP (RB nÃ£o))
-                        (VP (VBP sÃ£o))
-                        (ADJP (JJ iguais))
-                        (;)))
+(S 
+  (VP 
+    («)
+    (NP 
+      (DT Os)
+      (NN direitos)
+      (PP 
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN fumadores)
+          )
+        )
+        (CC e)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (RB não)
+            (NN fumadores)
+          )
+        )
+      )
+    )
+    (ADVP 
+      (RB não)
+    )
+    (VP 
+      (VBP são)
+    )
+    (ADJP 
+      (JJ iguais)
+    )
+    (;)
+  )
+)

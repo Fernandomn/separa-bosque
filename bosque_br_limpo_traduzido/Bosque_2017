@@ -1,39 +1,61 @@
-(S (VP (VP (VBP √â))
-                        (NP (DT o)
-                               (PRP mesmo)
-                               (ADVP 
-                                 (IN que)
-                                 (NP 
-                                   (_CU_ 
-                                     (NP 
-                                       (NN capo))
-                                     (,)
-                                     (NP 
-                                       (NN cabedelo))
-                                     (CC ou)
-                                     (NP 
-                                       (NN promont√≥rio)))
-                                   (,)
-                                   (NP 
-                                     (NN extens√£o)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN terra)
-                                         (_CU_ 
-                                           (ADJP 
-                                             (JJ maior)
-                                             (ADVP 
-                                               (IN que)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN ponta))))
-                                           (CC e)
-                                           (ADJP 
-                                             (JJ menor)
-                                             (ADVP 
-                                               (IN que)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN pen√≠nsula)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP …)
+    )
+    (NP 
+      (DT o)
+      (PRP mesmo)
+      (ADVP 
+        (IN que)
+        (NP 
+          (NP 
+            (NP 
+              (NN capo)
+            )
+            (,)
+            (NP 
+              (NN cabedelo)
+            )
+            ou            (NP 
+              (NN promontÛrio)
+            )
+          )
+          (,)
+          (NP 
+            (NN extens„o)
+            (PP 
+              (IN de)
+              (NP 
+                (NN terra)
+                (ADJP 
+                  (ADJP 
+                    (JJ maior)
+                    (ADVP 
+                      (IN que)
+                      (NP 
+                        (DT a)
+                        (NN ponta)
+                      )
+                    )
+                  )
+                  e                  (ADJP 
+                    (JJ menor)
+                    (ADVP 
+                      (IN que)
+                      (NP 
+                        (DT a)
+                        (NN penÌnsula)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

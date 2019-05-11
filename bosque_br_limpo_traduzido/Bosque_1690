@@ -1,50 +1,81 @@
-(S (VP (NP (DT A)
-                                 (NN TV)
-                                 (PP (IN por)
-                                        (NP 
-                                          (NN assinatura)))
-                                 (PP (IN em+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP Brasil))))
-                        (VP (VBP est√°)
-                              (VBG nascendo))
-                        (VP (VP (VBN concentrada))
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (DT as)
-                                    (NN m√£os)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (CD quatro)
-                                        (NN grupos)
-                                        (;)
-                                        (_CU_ 
-                                          (NP 
-                                            (NNP Organiza√ß√µes_Globo))
-                                          (,)
-                                          (NP 
-                                            (NNP Multicanal)
-                                            ({)
-                                            (NP 
-                                              (NN subsidi√°ria)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NNP Companhia_de_Minera√ß√£o)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT o)
-                                                      (NNP Amap√°))))))
-                                            (}))
-                                          (,)
-                                          (NP 
-                                            (NNP Rede_RBS))
-                                          (CC e)
-                                          (NP 
-                                            (NNP Abril))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN TV)
+      (PP 
+        (IN por)
+        (NP 
+          (NN assinatura)
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NNP Brasil)
+        )
+      )
+    )
+    (VP 
+      (VBP est·)
+      (VBG nascendo)
+    )
+    (VP 
+      (VP 
+        (VBN concentrada)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT as)
+          (NN m„os)
+          (PP 
+            (IN de)
+            (NP 
+              (CD quatro)
+              (NN grupos)
+              (;)
+              (NP 
+                (NP 
+                  (NNP OrganizaÁıes_Globo)
+                )
+                (,)
+                (NP 
+                  (NNP Multicanal)
+                  ({)
+                  (NP 
+                    (NN subsidi·ria)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT a)
+                        (NNP Companhia_de_MineraÁ„o)
+                        (PP 
+                          (IN de+)
+                          (NP 
+                            (DT o)
+                            (NNP Amap·)
+                          )
+                        )
+                      )
+                    )
+                  )
+                  (})
+                )
+                (,)
+                (NP 
+                  (NNP Rede_RBS)
+                )
+                e                (NP 
+                  (NNP Abril)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

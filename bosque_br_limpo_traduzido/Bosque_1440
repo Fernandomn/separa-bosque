@@ -1,42 +1,70 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT o)
-                                        (NNP PPR)))
-                        (,)
-                        (NP (DT a)
-                                 (NN discuss√£o))
-                        (VP (VBP ser√°))
-                        (PP (IN sobre)
-                               (_CU_ (NP 
-                                        (DT a)
-                                        (NN pol√≠tica)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN alian√ßas))))
-                                      (CC e)
-                                      (VP 
-                                        (IN se)
-                                        (NP 
-                                          (PRP ela))
-                                        (VP 
-                                          (VBP inclui))
-                                        (_CU_ 
-                                          (NP 
-                                            (DT o)
-                                            (NN PSDB))
-                                          (,)
-                                          (IN al√©m_de+)
-                                          (NP 
-                                            (DT os)
-                                            (JJ novos)
-                                            (NN candidatos)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT o)
-                                                (NN partido)
-                                                (PP 
-                                                  (IN a)
-                                                  (NP 
-                                                    (NN presidente))))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT o)
+        (NNP PPR)
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NN discuss„o)
+    )
+    (VP 
+      (VBP ser·)
+    )
+    (PP 
+      (IN sobre)
+      (UCP 
+        (NP 
+          (DT a)
+          (NN polÌtica)
+          (PP 
+            (IN de)
+            (NP 
+              (NN alianÁas)
+            )
+          )
+        )
+        e        (VP 
+          (IN se)
+          (NP 
+            (PRP ela)
+          )
+          (VP 
+            (VBP inclui)
+          )
+          (UCP 
+            (NP 
+              (DT o)
+              (NN PSDB)
+            )
+            (,)
+            (IN alÈm_de+)
+            (NP 
+              (DT os)
+              (JJ novos)
+              (NN candidatos)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN partido)
+                  (PP 
+                    (IN a)
+                    (NP 
+                      (NN presidente)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

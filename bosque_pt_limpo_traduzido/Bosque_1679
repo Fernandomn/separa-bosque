@@ -1,15 +1,32 @@
-(S (VP (NP (PRP Estes)
-                                 (NN monstros))
-                        (VP (VBP s√£o)
-                              (_CU_ (VBN comandados)
-                                     (CC e)
-                                     (VBN controlados)))
-                        (PP (IN por)
-                                 (NP (NN meios)
-                                        (_CU_ 
-                                          (ADJP 
-                                            (JJ electr√≥nicos))
-                                          (CC e)
-                                          (ADJP 
-                                            (JJ inform√°ticos)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Estes)
+      (NN monstros)
+    )
+    (VP 
+      (VBP s„o)
+      (VBN 
+        (VBN comandados)
+        (CC e)
+        (VBN controlados)
+      )
+    )
+    (PP 
+      (IN por)
+      (NP 
+        (NN meios)
+        (ADJP 
+          (ADJP 
+            (JJ electrÛnicos)
+          )
+          (CC e)
+          (ADJP 
+            (JJ inform·ticos)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

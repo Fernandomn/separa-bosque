@@ -1,34 +1,58 @@
-(S (VP (Â«)
-                        (VP (NP 
-                                   (NNP Salazar))
-                                 (VP (VBP quis))
-                                 (VP 
-                                   (VP 
-                                     (VB reinserir))
-                                   (NP 
-                                     (NNP Portugal))
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT a)
-                                       (PRP sua)
-                                       (NN tradiÃ§Ã£o))))
-                                 (,)
-                                 (VP 
-                                   (ADVP 
-                                     (RB nÃ£o))
-                                   (VP 
-                                     (VBP queria))
-                                   (_CU_ 
-                                     (NP 
-                                       (DT a)
-                                       (NN modernizaÃ§Ã£o))
-                                     (CC mas)
-                                     (NP 
-                                       (DT a)
-                                       (NN secularizaÃ§Ã£o)))))
-                        (Â»)
-                        (,)
-                        (VP (VBP disse))
-                        (NP (NNP Braga_da_Cruz))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (VP 
+      (NP 
+        (NNP Salazar)
+      )
+      (VP 
+        (VBP quis)
+      )
+      (VP 
+        (VP 
+          (VB reinserir)
+        )
+        (NP 
+          (NNP Portugal)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT a)
+            (PRP sua)
+            (NN tradição)
+          )
+        )
+      )
+      (,)
+      (VP 
+        (ADVP 
+          (RB não)
+        )
+        (VP 
+          (VBP queria)
+        )
+        (NP 
+          (NP 
+            (DT a)
+            (NN modernização)
+          )
+          (CC mas)
+          (NP 
+            (DT a)
+            (NN secularização)
+          )
+        )
+      )
+    )
+    (»)
+    (,)
+    (VP 
+      (VBP disse)
+    )
+    (NP 
+      (NNP Braga_da_Cruz)
+    )
+    (.)
+  )
+)

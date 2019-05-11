@@ -1,37 +1,67 @@
-(S (VP (NP (DT Os)
-                                 (NN agentes)
-                                 (_CU_ (ADJP 
-                                          (JJ polÃ­ticos))
-                                        (,)
-                                        (ADJP 
-                                          (JJ sociais))
-                                        (CC e)
-                                        (ADJP 
-                                          (JJ econÃ´micos))))
-                        (ADVP (RB tambÃ©m))
-                        (VP (VBP tÃªm)
-                               (IN de))
-                        (NP (PRP se))
-                        (VP (VB reciclar))
-                        (,)
-                        (VP (IN pois)
-                                  (NP 
-                                    (PRP sua)
-                                    (NN aÃ§Ã£o)
-                                    (PP 
-                                      (IN sobre)
-                                      (NP 
-                                        (DT o)
-                                        (NN Legislativo)
-                                        (ADJP 
-                                          (JJ paulistano)))))
-                                  (ADVP 
-                                    (RB sÃ³))
-                                  (VP (VBP ocorre))
-                                  (PP 
-                                    (IN em_funÃ§Ã£o_de)
-                                    (NP 
-                                      (NN interesses)
-                                      (ADJP 
-                                        (JJ especÃ­ficos)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN agentes)
+      (ADJP 
+        (ADJP 
+          (JJ políticos)
+        )
+        (,)
+        (ADJP 
+          (JJ sociais)
+        )
+        e        (ADJP 
+          (JJ econômicos)
+        )
+      )
+    )
+    (ADVP 
+      (RB também)
+    )
+    (VP 
+      (VBP têm)
+      (IN de)
+    )
+    (NP 
+      (PRP se)
+    )
+    (VP 
+      (VB reciclar)
+    )
+    (,)
+    (VP 
+      (IN pois)
+      (NP 
+        (PRP sua)
+        (NN ação)
+        (PP 
+          (IN sobre)
+          (NP 
+            (DT o)
+            (NN Legislativo)
+            (ADJP 
+              (JJ paulistano)
+            )
+          )
+        )
+      )
+      (ADVP 
+        (RB só)
+      )
+      (VP 
+        (VBP ocorre)
+      )
+      (PP 
+        (IN em_função_de)
+        (NP 
+          (NN interesses)
+          (ADJP 
+            (JJ específicos)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

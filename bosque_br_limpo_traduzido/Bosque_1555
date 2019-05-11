@@ -1,17 +1,38 @@
-(S (VP (PP (IN Segundo)
-                                 (NP (NNP Santini)))
-                        (,)
-                        (PP (IN com)
-                                 (NP (DT as)
-                                        (NN bicicletas)))
-                        (,)
-                        (NP (DT o)
-                                 (NN trabalho))
-                        (VP (VBP ser√°))
-                        (ADJP (RB mais)
-                                 (_CU_ (ADJP 
-                                         (JJ r√°pido))
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ eficiente))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Segundo)
+      (NP 
+        (NNP Santini)
+      )
+    )
+    (,)
+    (PP 
+      (IN com)
+      (NP 
+        (DT as)
+        (NN bicicletas)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN trabalho)
+    )
+    (VP 
+      (VBP ser·)
+    )
+    (ADJP 
+      (RB mais)
+      (ADJP 
+        (ADJP 
+          (JJ r·pido)
+        )
+        e        (ADJP 
+          (JJ eficiente)
+        )
+      )
+    )
+    (.)
+  )
+)

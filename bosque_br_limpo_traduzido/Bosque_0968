@@ -1,41 +1,68 @@
-(S (VP (NP (DT O)
-                                 (NN balanÃ§o)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP Eldorado_S/A))))
-                        (VP (VBP informa))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT as)
-                                   (NN irmÃ£s)
-                                   (NP 
-                                     (NNP VerÃ­ssimo))
-                                   (,)
-                                   (NP 
-                                     (NN filhas)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN fundador))))
-                                   (,))
-                                 (VP (VBP ocupam))
-                                 (NP 
-                                   (NN cargos))
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT a)
-                                     (_CU_ 
-                                       (NP 
-                                         (NP vice-presidÃªncia))
-                                       (CC e)
-                                       (NP 
-                                         (NN diretoria)))
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN grupo))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN balanço)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NNP Eldorado_S/A)
+        )
+      )
+    )
+    (VP 
+      (VBP informa)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT as)
+        (NN irmãs)
+        (NP 
+          (NNP Veríssimo)
+        )
+        (,)
+        (NP 
+          (NN filhas)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN fundador)
+            )
+          )
+        )
+        (,)
+      )
+      (VP 
+        (VBP ocupam)
+      )
+      (NP 
+        (NN cargos)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NP 
+            (NP 
+              (NP vice-presidência)
+            )
+            e            (NP 
+              (NN diretoria)
+            )
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN grupo)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

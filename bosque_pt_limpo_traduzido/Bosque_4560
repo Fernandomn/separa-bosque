@@ -1,52 +1,84 @@
-(S (VP (VP (NP 
-                                    (PRP Muitos)
-                                    (NN aspectos)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT a)
-                                        (NN legislaÃ§Ã£o)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT as)
-                                            (NN autarquias)))))))
-                        (,)
-                        (VP (VBP sustentou))
-                        (NP (NNP Edite_Estrela))
-                        (,)
-                        (VP (Â«)
-                                  (VP (VBP sÃ£o))
-                                  (_CU_ 
-                                    (ADJP 
-                                      (JJ inibidores)
-                                      (_CU_ 
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN acÃ§Ã£o)))
-                                        (CC e)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN criatividade)))))
-                                    (Â»)
-                                    (CC e)
-                                    (Â«)
-                                    (NP 
-                                      (JJ verdadeiros)
-                                      (NN obstÃ¡culos)
-                                      (Â»)
-                                      (PP 
-                                        (IN a)
-                                        (VP 
-                                          (VP 
-                                            (VB vencer))
-                                          (PP 
-                                            (IN por+)
-                                            (NP 
-                                              (DT os)
-                                              (NN autarcas))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (PRP Muitos)
+        (NN aspectos)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN legislação)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT as)
+                (NN autarquias)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP sustentou)
+    )
+    (NP 
+      (NNP Edite_Estrela)
+    )
+    (,)
+    (VP 
+      («)
+      (VP 
+        (VBP são)
+      )
+      (UCP 
+        (ADJP 
+          (JJ inibidores)
+          (PP 
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN acção)
+              )
+            )
+            (CC e)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN criatividade)
+              )
+            )
+          )
+        )
+        (»)
+        (CC e)
+        («)
+        (NP 
+          (JJ verdadeiros)
+          (NN obstáculos)
+          (»)
+          (PP 
+            (IN a)
+            (VP 
+              (VP 
+                (VB vencer)
+              )
+              (PP 
+                (IN por+)
+                (NP 
+                  (DT os)
+                  (NN autarcas)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

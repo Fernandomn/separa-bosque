@@ -1,23 +1,44 @@
-(S (VP (NP (NNP Lacan))
-                        (VP (VBP desenvolveu))
-                        (NP (DT os)
-                                (NN conceitos)
-                                (PP (IN de)
-                                       (_CU_ 
-                                         (NP 
-                                           (NN metÃ¡fora))
-                                         (CC e)
-                                         (NP 
-                                           (NN metonÃ­mia)))))
-                        (PP (IN para)
-                                        (VP 
-                                          (VP 
-                                            (VB caracterizar))
-                                          (NP 
-                                            (PRP certos)
-                                            (NN modos)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN consciÃªncia))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Lacan)
+    )
+    (VP 
+      (VBP desenvolveu)
+    )
+    (NP 
+      (DT os)
+      (NN conceitos)
+      (PP 
+        (IN de)
+        (NP 
+          (NP 
+            (NN metáfora)
+          )
+          e          (NP 
+            (NN metonímia)
+          )
+        )
+      )
+    )
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VB caracterizar)
+        )
+        (NP 
+          (PRP certos)
+          (NN modos)
+          (PP 
+            (IN de)
+            (NP 
+              (NN consciência)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

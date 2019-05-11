@@ -1,33 +1,52 @@
-(S (NP (JJ Terceiro)
-                       (NN anivers√°rio)
-                       (PP (IN de+)
-                              (NP (DT a)
-                                     (NN assinatura)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NNP Tratado_de_Maastricht)))
-                                     (PP 
-                                       (IN por+)
-                                       (NP 
-                                         (DT os)
-                                         (NN ministros)
-                                         (_CU_ 
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT os)
-                                               (NNP Neg√≥cios_Estrangeiros)))
-                                           (CC e)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT as)
-                                               (NNP Finan√ßas))))
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NNP Comunidade_Europeia)))))))
-                       (.)))
+(S 
+  (NP 
+    (JJ Terceiro)
+    (NN anivers·rio)
+    (PP 
+      (IN de+)
+      (NP 
+        (DT a)
+        (NN assinatura)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NNP Tratado_de_Maastricht)
+          )
+        )
+        (PP 
+          (IN por+)
+          (NP 
+            (DT os)
+            (NN ministros)
+            (PP 
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NNP NegÛcios_Estrangeiros)
+                )
+              )
+              (CC e)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT as)
+                  (NNP FinanÁas)
+                )
+              )
+            )
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NNP Comunidade_Europeia)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

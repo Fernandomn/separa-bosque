@@ -1,48 +1,84 @@
-(S (_CU_ (NP (NP (ADJP 
-                                        (RB mais_de)
-                                        (CD 300))
-                                      (NN mil))
-                               (NN cÃ³pias)
-                               (VP 
-                                 (VP (VBN vendidas))
-                                 (PP 
-                                   (IN desde)
-                                   (NP 
-                                     (DT o)
-                                     (NNP Natal)))))
-                       (,)
-                       (NP (Â«)
-                               (NN shows)
-                               (Â»)
-                               (VP 
-                                 (ADVP 
-                                   (RB continuamente))
-                                 (VP (VBN esgotados))
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT o)
-                                     (NNP CanecÃ£o)
-                                     (,)
-                                     (VP 
-                                       (ADVP 
-                                         (RB por_onde))
-                                       (VP 
-                                         (VBP passaram))
-                                       (ADVP 
-                                         (RB jÃ¡))
-                                       (NP 
-                                         (NP 
-                                           (ADJP 
-                                             (RB cerca_de)
-                                             (CD 50))
-                                           (NN mil))
-                                         (NN pessoas)))
-                                     (,)))))
-                       (NP (NN recepÃ§Ã£o)
-                               (ADJP (JJ calorosa))
-                               (PP (IN por_parte_de+)
-                                      (NP 
-                                        (DT o)
-                                        (NN pÃºblico))))
-                       (.)))
+(S 
+  (NP 
+    (NP 
+      (NP 
+        (ADJP 
+          (RB mais_de)
+          (CD 300)
+        )
+        (NN mil)
+      )
+      (NN cópias)
+      (VP 
+        (VP 
+          (VBN vendidas)
+        )
+        (PP 
+          (IN desde)
+          (NP 
+            (DT o)
+            (NNP Natal)
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      («)
+      (NN shows)
+      (»)
+      (VP 
+        (ADVP 
+          (RB continuamente)
+        )
+        (VP 
+          (VBN esgotados)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NNP Canecão)
+            (,)
+            (VP 
+              (ADVP 
+                (RB por_onde)
+              )
+              (VP 
+                (VBP passaram)
+              )
+              (ADVP 
+                (RB já)
+              )
+              (NP 
+                (NP 
+                  (ADJP 
+                    (RB cerca_de)
+                    (CD 50)
+                  )
+                  (NN mil)
+                )
+                (NN pessoas)
+              )
+            )
+            (,)
+          )
+        )
+      )
+    )
+    (NP 
+      (NN recepção)
+      (ADJP 
+        (JJ calorosa)
+      )
+      (PP 
+        (IN por_parte_de+)
+        (NP 
+          (DT o)
+          (NN público)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,76 +1,122 @@
-(S (VP (NP (NNP Hopkins))
-                        (VP (VBP diz))
-                        (VP (IN que)
-                                 (,)
-                                 (PP 
-                                   (IN ao_contrÃ¡rio_de+)
-                                   (NP 
-                                     (DT os)
-                                     (PRP seus)
-                                     (NN filmes)
-                                     (ADJP 
-                                       (JJ anteriores))
-                                     (,)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (Â«)
-                                       (VP 
-                                         (VBP eram))
-                                       (_CU_ 
-                                         (ADJP 
-                                           (RB tÃ£o)
-                                           (VBN divertidos)
-                                           (VP 
-                                             (RB quanto)
-                                             (VP 
-                                               (VP 
-                                                 (VB ver))
-                                               (NP 
-                                                 (NN tinta)
-                                                 (PP 
-                                                   (IN a)
-                                                   (VB secar))))))
-                                         (Â»)
-                                         (CC e)
-                                         (Â«)
-                                         (NP 
-                                           (JJ bons)
-                                           (NN exercÃ­cios)
-                                           (PP 
-                                             (IN de)
-                                             (_CU_ 
-                                               (NP 
-                                                 (NN disciplina))
-                                               (CC e)
-                                               (NP 
-                                                 (NN economia))
-                                               (CC e)
-                                               (NP 
-                                                 (PRP tudo_isso)))))
-                                         (Â»))))))
-                        (,)
-                        (NP (PRP este))
-                        (VP (VBP Ã©))
-                        (NP (DT um)
-                               (NN filme)
-                               (PP (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NN tipo)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (NP 
-                                            (PRP lhe))
-                                          (VP 
-                                            (VBP apetece))
-                                          (VP 
-                                            (VP 
-                                              (VB fazer))
-                                            (ADVP 
-                                              (RB agora))))
-                                        (--)
-                                        (NP 
-                                          (NN acÃ§Ã£o)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Hopkins)
+    )
+    (VP 
+      (VBP diz)
+    )
+    (VP 
+      (IN que)
+      (,)
+      (PP 
+        (IN ao_contrário_de+)
+        (NP 
+          (DT os)
+          (PRP seus)
+          (NN filmes)
+          (ADJP 
+            (JJ anteriores)
+          )
+          (,)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            («)
+            (VP 
+              (VBP eram)
+            )
+            (UCP 
+              (ADJP 
+                (RB tão)
+                (VBN divertidos)
+                (VP 
+                  (RB quanto)
+                  (VP 
+                    (VP 
+                      (VB ver)
+                    )
+                    (NP 
+                      (NN tinta)
+                      (PP 
+                        (IN a)
+                        (VB secar)
+                      )
+                    )
+                  )
+                )
+              )
+              (»)
+              (CC e)
+              («)
+              (NP 
+                (JJ bons)
+                (NN exercícios)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NP 
+                      (NN disciplina)
+                    )
+                    (CC e)
+                    (NP 
+                      (NN economia)
+                    )
+                    (CC e)
+                    (NP 
+                      (PRP tudo_isso)
+                    )
+                  )
+                )
+              )
+              (»)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (PRP este)
+    )
+    (VP 
+      (VBP é)
+    )
+    (NP 
+      (DT um)
+      (NN filme)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN tipo)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (NP 
+              (PRP lhe)
+            )
+            (VP 
+              (VBP apetece)
+            )
+            (VP 
+              (VP 
+                (VB fazer)
+              )
+              (ADVP 
+                (RB agora)
+              )
+            )
+          )
+          (--)
+          (NP 
+            (NN acção)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

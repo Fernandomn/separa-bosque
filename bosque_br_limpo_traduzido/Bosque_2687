@@ -1,41 +1,75 @@
-(S (VP (VP (Â«)
-                                 (VP (VBP Ã‰))
-                                 (_CU_ (PP 
-                                          (IN perto_de)
-                                          (NP 
-                                            (NN casa)))
-                                        (CC e)
-                                        (ADJP 
-                                          (JJ tranquilo)))
-                                 (Â»))
-                        (,)
-                        (VP (VBP diz))
-                        (NP (NNP Rossi))
-                        (,)
-                        (PP (IN em)
-                                 (NP (NN meio)
-                                        (PP 
-                                          (IN a)
-                                          (NP 
-                                            (NN goles)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN refrigerante)
-                                                (PP 
-                                                  (IN em)
-                                                  (NP 
-                                                    (NN lata)))))))))
-                        (,)
-                        (PP (IN dentro_de)
-                                 (NP (PRP seu)
-                                        (NN Opala)
-                                        (VP 
-                                          (VP 
-                                            (VBN estacionado))
-                                          (PP 
-                                            (IN atrÃ¡s_de)
-                                            (NP 
-                                              (DT uma)
-                                              (NN igreja))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      («)
+      (VP 
+        (VBP É)
+      )
+      (UCP 
+        (PP 
+          (IN perto_de)
+          (NP 
+            (NN casa)
+          )
+        )
+        e        (ADJP 
+          (JJ tranquilo)
+        )
+      )
+      (»)
+    )
+    (,)
+    (VP 
+      (VBP diz)
+    )
+    (NP 
+      (NNP Rossi)
+    )
+    (,)
+    (PP 
+      (IN em)
+      (NP 
+        (NN meio)
+        (PP 
+          (IN a)
+          (NP 
+            (NN goles)
+            (PP 
+              (IN de)
+              (NP 
+                (NN refrigerante)
+                (PP 
+                  (IN em)
+                  (NP 
+                    (NN lata)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN dentro_de)
+      (NP 
+        (PRP seu)
+        (NN Opala)
+        (VP 
+          (VP 
+            (VBN estacionado)
+          )
+          (PP 
+            (IN atrás_de)
+            (NP 
+              (DT uma)
+              (NN igreja)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

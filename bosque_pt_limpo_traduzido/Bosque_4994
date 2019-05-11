@@ -1,70 +1,106 @@
-(S (VP (PP (IN Com)
-                                 (NP (DT o)
-                                        (NN carro)))
-                        (,)
-                        (VP (VBP foi)
-                              (VBN entregue))
-                        (_CU_ (NP 
-                                   (DT uma)
-                                   (NN guia)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN circulaÃ§Ã£o)
-                                       (ADJP 
-                                         (JJ vÃ¡lida)
-                                         (PP 
-                                           (IN para)
-                                           (NP 
-                                             (CD 90)
-                                             (NN dias)
-                                             (PP 
-                                               (IN em)
-                                               (NP 
-                                                 (NN territÃ³rio)
-                                                 (ADJP 
-                                                   (JJ espanhol))))))))))
-                                 (,)
-                                 (NP 
-                                   (DT o)
-                                   (NN livrete))
-                                 (,)
-                                 (NP 
-                                   (DT uma)
-                                   (NN factura)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN compra))))
-                                 (CC e)
-                                 (NP 
-                                   (DT uma)
-                                   (NN apÃ³lice)
-                                   (ADJP 
-                                     (JJ respeitante)
-                                     (PP 
-                                       (IN a)
-                                       (NP 
-                                         (DT um)
-                                         (NN seguro)
-                                         (PP 
-                                           (IN contra)
-                                           (NP 
-                                             (PRP todos_os)
-                                             (NN riscos)))
-                                         (ADJP 
-                                           (JJ vÃ¡lido)
-                                           (PP 
-                                             (IN por)
-                                             (NP 
-                                               (CD 30)
-                                               (NN dias))))
-                                         ({)
-                                         (NP 
-                                           (NN custo)
-                                           (;)
-                                           (NP 
-                                             (CD 38)
-                                             (NN contos))
-                                           (})))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Com)
+      (NP 
+        (DT o)
+        (NN carro)
+      )
+    )
+    (,)
+    (VP 
+      (VBP foi)
+      (VBN entregue)
+    )
+    (NP 
+      (NP 
+        (DT uma)
+        (NN guia)
+        (PP 
+          (IN de)
+          (NP 
+            (NN circulação)
+            (ADJP 
+              (JJ válida)
+              (PP 
+                (IN para)
+                (NP 
+                  (CD 90)
+                  (NN dias)
+                  (PP 
+                    (IN em)
+                    (NP 
+                      (NN território)
+                      (ADJP 
+                        (JJ espanhol)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (DT o)
+        (NN livrete)
+      )
+      (,)
+      (NP 
+        (DT uma)
+        (NN factura)
+        (PP 
+          (IN de)
+          (NP 
+            (NN compra)
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (DT uma)
+        (NN apólice)
+        (ADJP 
+          (JJ respeitante)
+          (PP 
+            (IN a)
+            (NP 
+              (DT um)
+              (NN seguro)
+              (PP 
+                (IN contra)
+                (NP 
+                  (PRP todos_os)
+                  (NN riscos)
+                )
+              )
+              (ADJP 
+                (JJ válido)
+                (PP 
+                  (IN por)
+                  (NP 
+                    (CD 30)
+                    (NN dias)
+                  )
+                )
+              )
+              ({)
+              (NP 
+                (NN custo)
+                (;)
+                (NP 
+                  (CD 38)
+                  (NN contos)
+                )
+                (})
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

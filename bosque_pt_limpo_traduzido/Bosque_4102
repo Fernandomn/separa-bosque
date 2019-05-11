@@ -1,49 +1,86 @@
-(S (VP (VP (IN Se)
-                                  (VP (VBP pegarmos))
-                                  (PP 
-                                    (IN no_caso_de)
-                                    (NP 
-                                      (NNP √Åfrica))))
-                        (,)
-                        (NP (DT a)
-                                 (JJ grande)
-                                 (NN quantidade)
-                                 (PP 
-                                   (IN de)
-                                   (NP 
-                                     (NN gente)))
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (ADVP 
-                                     (RB ali))
-                                   (VP 
-                                     (VBP morre))
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN fome)))))
-                        (ADVP (RB n√£o))
-                        (VP (VBP resulta))
-                        (_CU_ (_CU_ (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN problema)
-                                            (ADJP 
-                                              (JJ ambiental))))
-                                        (CC ou)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (DT uma)
-                                            (NN agricultura)
-                                            (ADJP 
-                                              (JJ subdesenvolvida)))))
-                                (,)
-                                (CC mas)
-                                (PP (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN governos))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (IN Se)
+      (VP 
+        (VBP pegarmos)
+      )
+      (PP 
+        (IN no_caso_de)
+        (NP 
+          (NNP ¡frica)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (JJ grande)
+      (NN quantidade)
+      (PP 
+        (IN de)
+        (NP 
+          (NN gente)
+        )
+      )
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (ADVP 
+          (RB ali)
+        )
+        (VP 
+          (VBP morre)
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (NN fome)
+          )
+        )
+      )
+    )
+    (ADVP 
+      (RB n„o)
+    )
+    (VP 
+      (VBP resulta)
+    )
+    (UCP 
+      (PP 
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN problema)
+            (ADJP 
+              (JJ ambiental)
+            )
+          )
+        )
+        (CC ou)
+        (PP 
+          (IN de)
+          (NP 
+            (DT uma)
+            (NN agricultura)
+            (ADJP 
+              (JJ subdesenvolvida)
+            )
+          )
+        )
+      )
+      (,)
+      (CC mas)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN governos)
+        )
+      )
+    )
+    (.)
+  )
+)

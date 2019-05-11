@@ -1,25 +1,48 @@
-(S (VP (NP (NNP JosÃ©_AntÃ³nio))
-                        (VP (VBP relembra))
-                        (VP (IN que)
-                                 (NP 
-                                   (NNP Max))
-                                 (VP (VBP era))
-                                 (ADJP 
-                                   (JJ levado_da_breca))
-                                 (_CU_ 
-                                   (PP 
-                                     (IN para)
-                                     (VP 
-                                       (VP 
-                                         (VB contar))
-                                       (NP 
-                                         (NN histÃ³rias))))
-                                   (CC e)
-                                   (PP 
-                                     (IN para)
-                                     (VP 
-                                       (VP 
-                                         (VB pregar))
-                                       (NP 
-                                         (NN partidas))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP José_António)
+    )
+    (VP 
+      (VBP relembra)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (NNP Max)
+      )
+      (VP 
+        (VBP era)
+      )
+      (ADJP 
+        (JJ levado_da_breca)
+      )
+      (PP 
+        (PP 
+          (IN para)
+          (VP 
+            (VP 
+              (VB contar)
+            )
+            (NP 
+              (NN histórias)
+            )
+          )
+        )
+        (CC e)
+        (PP 
+          (IN para)
+          (VP 
+            (VP 
+              (VB pregar)
+            )
+            (NP 
+              (NN partidas)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

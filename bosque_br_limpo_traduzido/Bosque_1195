@@ -1,26 +1,46 @@
-(S (VP (NP (DT O)
-                                 (NN percurso)
-                                 (PP (IN por+)
-                                        (NP 
-                                          (DT as)
-                                          (NN avenidas)
-                                          (_CU_ 
-                                            (NP 
-                                              (NNP Consola√ß√£o))
-                                            (,)
-                                            (NP 
-                                              (NNP Rebou√ßas))
-                                            (CC e)
-                                            (NP 
-                                              (NNP Francisco_Morato))))))
-                        (VP (VBP durou))
-                        (NP (JJ exatos)
-                               (CD 20)
-                               (NN minutos)
-                               (,)
-                               (PP 
-                                 (IN sem)
-                                 (NP (NN tr√¢nsito)
-                                        (ADJP 
-                                          (JJ moroso)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN percurso)
+      (PP 
+        (IN por+)
+        (NP 
+          (DT as)
+          (NN avenidas)
+          (NP 
+            (NP 
+              (NNP ConsolaÁ„o)
+            )
+            (,)
+            (NP 
+              (NNP RebouÁas)
+            )
+            e            (NP 
+              (NNP Francisco_Morato)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP durou)
+    )
+    (NP 
+      (JJ exatos)
+      (CD 20)
+      (NN minutos)
+      (,)
+      (PP 
+        (IN sem)
+        (NP 
+          (NN tr‚nsito)
+          (ADJP 
+            (JJ moroso)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

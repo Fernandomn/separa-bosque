@@ -1,22 +1,39 @@
-(S (NP (DT Um)
-                       (NN friso)
-                       (ADJP (JJ inenarr√°vel))
-                       (PP (IN de)
-                              (NP (NN personagens)
-                                     (_CU_ 
-                                       (ADJP 
-                                         (JJ marginais))
-                                       (CC e)
-                                       (/)
-                                       (CC ou)
-                                       (VBN marginalizadas))))
-                       (,)
-                       (PP (IN com)
-                                  (NP 
-                                    (DT o)
-                                    (NP p√≥s-guerra)
-                                    (PP 
-                                      (IN em)
-                                      (NP 
-                                        (NN pano_de_fundo)))))
-                       (.)))
+(S 
+  (NP 
+    (DT Um)
+    (NN friso)
+    (ADJP 
+      (JJ inenarr·vel)
+    )
+    (PP 
+      (IN de)
+      (NP 
+        (NN personagens)
+        (UCP 
+          (ADJP 
+            (JJ marginais)
+          )
+          (CC e)
+          (/)
+          (CC ou)
+          (VBN marginalizadas)
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN com)
+      (NP 
+        (DT o)
+        (NP pÛs-guerra)
+        (PP 
+          (IN em)
+          (NP 
+            (NN pano_de_fundo)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

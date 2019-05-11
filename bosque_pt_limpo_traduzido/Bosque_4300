@@ -1,98 +1,153 @@
-(S (VP (NP (DT A)
-                                 (NN soluÃ§Ã£o)
-                                 (ADJP 
-                                   (JJ definitiva))
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN situaÃ§Ãµes)
-                                          (ADVP 
-                                            (RB como)
-                                            (NP 
-                                              (PRP as)
-                                              (_CU_ 
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (NN central)
-                                                    (PP 
-                                                      (IN de+)
-                                                      (NP 
-                                                        (DT a)
-                                                        (NNP Av._Casal_Ribeiro)))))
-                                                (,)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NNP Campo_das_Ceboulas)))
-                                                (CC e)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (JJ numerosas)
-                                                    (PRP outras)
-                                                    (NN centrais)
-                                                    (VP 
-                                                      (VP 
-                                                        (VBN dedicadas))
-                                                      (PP 
-                                                        (IN a+)
-                                                        (NP 
-                                                          (DT os)
-                                                          (NN transportes)
-                                                          (_CU_ 
-                                                            (ADJP 
-                                                              (NP interregionais))
-                                                            (CC e)
-                                                            (ADJP 
-                                                              (NP inter-urbano))))))))))))))
-                        (VP (VBP estÃ¡))
-                        (ADVP (RB porÃ©m))
-                        (ADJP (JJ dependente)
-                                 (PP (IN de)
-                                        (NP 
-                                          (DT uma)
-                                          (NN obra)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (JJ grande)
-                                              (NN envergadura)))
-                                          (,)
-                                          (_CU_ 
-                                            (PP 
-                                              (RB ainda)
-                                              (IN sem)
-                                              (NP 
-                                                (NN localizaÃ§Ã£o)
-                                                (VP 
-                                                  (ADVP 
-                                                    (RB completamente))
-                                                  (VP 
-                                                    (VBN decidida)))))
-                                            (CC e)
-                                            (VP 
-                                              (NP 
-                                                (PRP cujo)
-                                                (NN inÃ­cio))
-                                              (ADVP 
-                                                (RB nÃ£o))
-                                              (VP 
-                                                (VBP deverÃ¡)
-                                                (VB ocorrer))
-                                              (ADVP 
-                                                (RB antes)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT os)
-                                                    (JJ prÃ³ximos)
-                                                    (_CU_ 
-                                                      (NP 
-                                                        (CD dois))
-                                                      (CC ou)
-                                                      (ADJP 
-                                                        (CD trÃªs)))
-                                                    (NN anos)))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN solução)
+      (ADJP 
+        (JJ definitiva)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NN situações)
+          (ADVP 
+            (RB como)
+            (NP 
+              (PRP as)
+              (PP 
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NN central)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT a)
+                        (NNP Av._Casal_Ribeiro)
+                      )
+                    )
+                  )
+                )
+                (,)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NNP Campo_das_Ceboulas)
+                  )
+                )
+                (CC e)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (JJ numerosas)
+                    (PRP outras)
+                    (NN centrais)
+                    (VP 
+                      (VP 
+                        (VBN dedicadas)
+                      )
+                      (PP 
+                        (IN a+)
+                        (NP 
+                          (DT os)
+                          (NN transportes)
+                          (ADJP 
+                            (ADJP 
+                              (NP interregionais)
+                            )
+                            (CC e)
+                            (ADJP 
+                              (NP inter-urbano)
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP está)
+    )
+    (ADVP 
+      (RB porém)
+    )
+    (ADJP 
+      (JJ dependente)
+      (PP 
+        (IN de)
+        (NP 
+          (DT uma)
+          (NN obra)
+          (PP 
+            (IN de)
+            (NP 
+              (JJ grande)
+              (NN envergadura)
+            )
+          )
+          (,)
+          (UCP 
+            (PP 
+              (RB ainda)
+              (IN sem)
+              (NP 
+                (NN localização)
+                (VP 
+                  (ADVP 
+                    (RB completamente)
+                  )
+                  (VP 
+                    (VBN decidida)
+                  )
+                )
+              )
+            )
+            (CC e)
+            (VP 
+              (NP 
+                (PRP cujo)
+                (NN início)
+              )
+              (ADVP 
+                (RB não)
+              )
+              (VP 
+                (VBP deverá)
+                (VB ocorrer)
+              )
+              (ADVP 
+                (RB antes)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT os)
+                    (JJ próximos)
+                    (UCP 
+                      (NP 
+                        (CD dois)
+                      )
+                      (CC ou)
+                      (ADJP 
+                        (CD três)
+                      )
+                    )
+                    (NN anos)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

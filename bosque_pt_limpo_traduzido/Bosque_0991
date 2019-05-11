@@ -1,16 +1,34 @@
-(S (VP (NP (DT As)
-                                 (NN relaÃ§Ãµes)
-                                 (PP 
-                                   (IN entre)
-                                   (_CU_ 
-                                     (NP 
-                                       (NN pais))
-                                     (CC e)
-                                     (NP 
-                                       (NN filhos)))))
-                        (VP (VBP sÃ£o))
-                        (ADVP (RB hoje))
-                        (PP (IN de)
-                               (NP (JJ melhor)
-                                      (NN qualidade)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN relações)
+      (PP 
+        (IN entre)
+        (NP 
+          (NP 
+            (NN pais)
+          )
+          (CC e)
+          (NP 
+            (NN filhos)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP são)
+    )
+    (ADVP 
+      (RB hoje)
+    )
+    (PP 
+      (IN de)
+      (NP 
+        (JJ melhor)
+        (NN qualidade)
+      )
+    )
+    (.)
+  )
+)

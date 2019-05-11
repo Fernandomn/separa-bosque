@@ -1,36 +1,68 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT o)
-                                        (NNP Cine-Teatro_Curvo_Semedo)))
-                        (,)
-                        (NP (_CU_ (NP 
-                                         (NNP Mafalda_Veiga))
-                                       (,)
-                                       (NP 
-                                         (NNP Francisco_Fanhais)))
-                                 (,)
-                                 (PP (IN entre)
-                                        (NP 
-                                          (PRP outros)))
-                                 (,))
-                        (VP (VBP participam))
-                        (,)
-                        (PP (IN a+)
-                                 (NP (DT as)
-                                        (NN 21h00)))
-                        (,)
-                        (PP (IN em+)
-                                 (NP (DT um)
-                                        (NN espectÃ¡culo)
-                                        (VP 
-                                          (VP 
-                                            (VBN produzido))
-                                          (PP 
-                                            (IN por+)
-                                            (NP 
-                                              (DT o)
-                                              (NN grupo)
-                                              (Â«)
-                                              (NP 
-                                                (NNP Porta_Aberta))
-                                              (Â»))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT o)
+        (NNP Cine-Teatro_Curvo_Semedo)
+      )
+    )
+    (,)
+    (NP 
+      (NP 
+        (NP 
+          (NNP Mafalda_Veiga)
+        )
+        (,)
+        (NP 
+          (NNP Francisco_Fanhais)
+        )
+      )
+      (,)
+      (PP 
+        (IN entre)
+        (NP 
+          (PRP outros)
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP participam)
+    )
+    (,)
+    (PP 
+      (IN a+)
+      (NP 
+        (DT as)
+        (NN 21h00)
+      )
+    )
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT um)
+        (NN espectáculo)
+        (VP 
+          (VP 
+            (VBN produzido)
+          )
+          (PP 
+            (IN por+)
+            (NP 
+              (DT o)
+              (NN grupo)
+              («)
+              (NP 
+                (NNP Porta_Aberta)
+              )
+              (»)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

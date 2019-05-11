@@ -1,65 +1,105 @@
-(S (VP (ADVP (RB Entretanto))
-                        (,)
-                        (PP (IN em+)
-                                 (NP (DT os)
-                                        (NNP Estados_Unidos)))
-                        (,)
-                        (NP (DT os)
-                                 (NN sobreviventes)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (JJ desastroso)
-                                          (NN ataque)
-                                          (ADJP 
-                                            (JJ policial))
-                                          (PP 
-                                            (IN contra)
-                                            (NP 
-                                              (DT os)
-                                              (NN membros)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN culto)
-                                                  (ADJP 
-                                                    (JJ davidiano))))))
-                                          (,)
-                                          (NP 
-                                            (DT o)
-                                            (Â«)
-                                            (NN massacre)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NNP Waco)))
-                                            (Â»))
-                                          (,)))
-                                 (PP (RB juntamente)
-                                        (IN com)
-                                        (NP 
-                                          (DT os)
-                                          (NN familiares)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT as)
-                                              (NN vÃ­timas)
-                                              (ADJP 
-                                                (JJ mortais)))))))
-                        (,)
-                        (VP (VBP vÃ£o)
-                              (VB processar))
-                        (_CU_ (NP (DT o)
-                                        (NN presidente)
-                                        (ADJP 
-                                          (JJ norte-americano))
-                                        (,)
-                                        (NP 
-                                          (NNP Bill_Clinton))
-                                        (,))
-                                (CC e)
-                                (NP (DT o)
-                                        (NNP FBI)))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Entretanto)
+    )
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT os)
+        (NNP Estados_Unidos)
+      )
+    )
+    (,)
+    (NP 
+      (DT os)
+      (NN sobreviventes)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (JJ desastroso)
+          (NN ataque)
+          (ADJP 
+            (JJ policial)
+          )
+          (PP 
+            (IN contra)
+            (NP 
+              (DT os)
+              (NN membros)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN culto)
+                  (ADJP 
+                    (JJ davidiano)
+                  )
+                )
+              )
+            )
+          )
+          (,)
+          (NP 
+            (DT o)
+            («)
+            (NN massacre)
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Waco)
+              )
+            )
+            (»)
+          )
+          (,)
+        )
+      )
+      (PP 
+        (RB juntamente)
+        (IN com)
+        (NP 
+          (DT os)
+          (NN familiares)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT as)
+              (NN vítimas)
+              (ADJP 
+                (JJ mortais)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP vão)
+      (VB processar)
+    )
+    (NP 
+      (NP 
+        (DT o)
+        (NN presidente)
+        (ADJP 
+          (JJ norte-americano)
+        )
+        (,)
+        (NP 
+          (NNP Bill_Clinton)
+        )
+        (,)
+      )
+      (CC e)
+      (NP 
+        (DT o)
+        (NNP FBI)
+      )
+    )
+    (.)
+  )
+)

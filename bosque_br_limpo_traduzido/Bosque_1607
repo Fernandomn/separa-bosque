@@ -1,27 +1,46 @@
-(S (_CU_ (VP (NP 
-                                  (DT O)
-                                  (NN lucro))
-                                (VP (VBP cresceu))
-                                (NP (CD 24)
-                                        (NN %))
-                                (PP 
-                                  (IN para)
-                                  (NP 
-                                    (NN US$)
-                                    (CD 51)
-                                    (NN milh√µes))))
-                       (CC e)
-                       (VP (NP 
-                                  (DT as)
-                                  (NN vendas))
-                                (,)
-                                (NP (CD 18)
-                                        (NN %))
-                                (,)
-                                (PP 
-                                  (IN para)
-                                  (NP 
-                                    (NN US$)
-                                    (CD 776)
-                                    (NN milh√µes))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (NN lucro)
+      )
+      (VP 
+        (VBP cresceu)
+      )
+      (NP 
+        (CD 24)
+        (NN %)
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (NN US$)
+          (CD 51)
+          (NN milhıes)
+        )
+      )
+    )
+    e    (VP 
+      (NP 
+        (DT as)
+        (NN vendas)
+      )
+      (,)
+      (NP 
+        (CD 18)
+        (NN %)
+      )
+      (,)
+      (PP 
+        (IN para)
+        (NP 
+          (NN US$)
+          (CD 776)
+          (NN milhıes)
+        )
+      )
+    )
+    (.)
+  )
+)

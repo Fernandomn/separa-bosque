@@ -1,48 +1,79 @@
-(S (_CU_ (VP (NP 
-                                  (DT O)
-                                  (NN campe√£o)
-                                  (ADJP 
-                                    (JJ nacional))
-                                  (NP 
-                                    (NNP Bruno_Fragoso)))
-                                (VP (VBP perdeu))
-                                (PP 
-                                  (IN com)
-                                  (NP 
-                                    (DT o)
-                                    (NN eslovaco)
-                                    (NP 
-                                      (NNP Boris_Borgula))))
-                                (PP 
-                                  (IN por)
-                                  (_CU_ 
-                                    (NP 
-                                      (CD 6-1))
-                                    (,)
-                                    (NP 
-                                      (CD 7-6))
-                                    ({)
-                                    (NP 
-                                      (CD 7-3))
-                                    (}))))
-                       (CC e)
-                       (VP (NP 
-                                  (NNP Tiago_Vinhas_de_Sousa))
-                                (VP (VBP foi)
-                                      (VBN derrotado))
-                                (PP 
-                                  (IN por+)
-                                  (NP 
-                                    (DT o)
-                                    (NN brasileiro)
-                                    (NP 
-                                      (NNP M√°rcio_Carlsson))))
-                                (PP 
-                                  (IN por)
-                                  (_CU_ 
-                                    (NP 
-                                      (CD 6-2))
-                                    (,)
-                                    (ADJP 
-                                      (CD 6-0)))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (NN campe„o)
+        (ADJP 
+          (JJ nacional)
+        )
+        (NP 
+          (NNP Bruno_Fragoso)
+        )
+      )
+      (VP 
+        (VBP perdeu)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (DT o)
+          (NN eslovaco)
+          (NP 
+            (NNP Boris_Borgula)
+          )
+        )
+      )
+      (PP 
+        (IN por)
+        (UCP 
+          (NP 
+            (CD 6-1)
+          )
+          (,)
+          (NP 
+            (CD 7-6)
+          )
+          ({)
+          (NP 
+            (CD 7-3)
+          )
+          (})
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (NP 
+        (NNP Tiago_Vinhas_de_Sousa)
+      )
+      (VP 
+        (VBP foi)
+        (VBN derrotado)
+      )
+      (PP 
+        (IN por+)
+        (NP 
+          (DT o)
+          (NN brasileiro)
+          (NP 
+            (NNP M·rcio_Carlsson)
+          )
+        )
+      )
+      (PP 
+        (IN por)
+        (UCP 
+          (NP 
+            (CD 6-2)
+          )
+          (,)
+          (ADJP 
+            (CD 6-0)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

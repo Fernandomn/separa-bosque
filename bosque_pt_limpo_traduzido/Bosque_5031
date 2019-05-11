@@ -1,22 +1,38 @@
-(S (ADVP (ADVP (RB Onde))
-                        (NP (DT a)
-                                 (Â«)
-                                 (NN cidade)
-                                 (_CU_ (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN homem)))
-                                        (,)
-                                        (PP 
-                                          (RB nÃ£o)
-                                          (IN de+)
-                                          (_CU_ 
-                                            (NP 
-                                              (DT o)
-                                              (NN lobo))
-                                            (CC mas)
-                                            (NP 
-                                              (NN irmÃ£o))))))
-                        (Â»)
-                        (?)))
+(S 
+  (ADVP 
+    (ADVP 
+      (RB Onde)
+    )
+    (NP 
+      (DT a)
+      («)
+      (NN cidade)
+      (PP 
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN homem)
+          )
+        )
+        (,)
+        (PP 
+          (RB não)
+          (IN de+)
+          (NP 
+            (NP 
+              (DT o)
+              (NN lobo)
+            )
+            (CC mas)
+            (NP 
+              (NN irmão)
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (?)
+  )
+)

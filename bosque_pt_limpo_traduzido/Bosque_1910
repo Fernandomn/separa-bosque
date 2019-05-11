@@ -1,40 +1,66 @@
-(S (VP (VP (VBP Havia))
-                        (NP (NN bichas)
-                                (PP (IN para)
-                                       (NP 
-                                         (PRP tudo)))
-                                (,)
-                                (_CU_ 
-                                  (PP 
-                                    (IN desde)
-                                    (NP 
-                                      (DT a)
-                                      (NN tabacaria)))
-                                  (PP 
-                                    (IN atÃ©)
-                                    (PP 
-                                      (IN a+)
-                                      (NP 
-                                        (DT os)
-                                        (NN bares)
-                                        (,)
-                                        (VP 
-                                          (ADVP 
-                                            (RB onde))
-                                          (NP 
-                                            (DT as)
-                                            (NN provisÃµes))
-                                          (VP 
-                                            (VBP mostravam))
-                                          (NP 
-                                            (DT uma)
-                                            (JJ perigosa)
-                                            (NN tendÃªncia)
-                                            (PP 
-                                              (IN para)
-                                              (VP 
-                                                (NP 
-                                                  (PRP se))
-                                                (VP 
-                                                  (VB esgotar)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Havia)
+    )
+    (NP 
+      (NN bichas)
+      (PP 
+        (IN para)
+        (NP 
+          (PRP tudo)
+        )
+      )
+      (,)
+      (PP 
+        (PP 
+          (IN desde)
+          (NP 
+            (DT a)
+            (NN tabacaria)
+          )
+        )
+        (PP 
+          (IN até)
+          (PP 
+            (IN a+)
+            (NP 
+              (DT os)
+              (NN bares)
+              (,)
+              (VP 
+                (ADVP 
+                  (RB onde)
+                )
+                (NP 
+                  (DT as)
+                  (NN provisões)
+                )
+                (VP 
+                  (VBP mostravam)
+                )
+                (NP 
+                  (DT uma)
+                  (JJ perigosa)
+                  (NN tendência)
+                  (PP 
+                    (IN para)
+                    (VP 
+                      (NP 
+                        (PRP se)
+                      )
+                      (VP 
+                        (VB esgotar)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

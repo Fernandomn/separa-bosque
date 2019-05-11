@@ -1,49 +1,86 @@
-(S (_CU_ (VP (VP 
-                                 (VP (VB Comprar))
-                                 (NP 
-                                   (DT um)
-                                   (NN CD)))
-                               (ADVP 
-                                 (RB n√£o))
-                               (VP (VBP est√°))
-                               (PP 
-                                 (IN a+)
-                                 (NP (DT o)
-                                        (NN alcance)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (PRP todas_as)
-                                            (NN pessoas)
-                                            (VP 
-                                              (NP 
-                                                (PRP que))
-                                              (VP 
-                                                (VBP compravam))
-                                              (NP 
-                                                (DT os)
-                                                (PRP nossos)
-                                                (NN discos))))))))
-                      (,)
-                      (CC mas)
-                      (VP (VP (VBP acreditamos))
-                               (PP (IN em+)
-                                       (NP 
-                                         (DT os)
-                                         (NN jovens)))
-                               (,)
-                               (VP 
-                                 (IN porque)
-                                 (VP (VBP temos))
-                                 (NP 
-                                   (DT a)
-                                   (NN certeza)
-                                   (VP 
-                                     (IN que)
-                                     (VP 
-                                       (VBP aderem))
-                                     (PP 
-                                       (IN a)
-                                       (NP 
-                                         (PRP isto)))))))
-                      (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VP 
+          (VB Comprar)
+        )
+        (NP 
+          (DT um)
+          (NN CD)
+        )
+      )
+      (ADVP 
+        (RB n„o)
+      )
+      (VP 
+        (VBP est·)
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT o)
+          (NN alcance)
+          (PP 
+            (IN de)
+            (NP 
+              (PRP todas_as)
+              (NN pessoas)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP compravam)
+                )
+                (NP 
+                  (DT os)
+                  (PRP nossos)
+                  (NN discos)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (CC mas)
+    (VP 
+      (VP 
+        (VBP acreditamos)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT os)
+          (NN jovens)
+        )
+      )
+      (,)
+      (VP 
+        (IN porque)
+        (VP 
+          (VBP temos)
+        )
+        (NP 
+          (DT a)
+          (NN certeza)
+          (VP 
+            (IN que)
+            (VP 
+              (VBP aderem)
+            )
+            (PP 
+              (IN a)
+              (NP 
+                (PRP isto)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

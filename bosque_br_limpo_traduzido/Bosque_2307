@@ -1,36 +1,61 @@
-(S (VP (NP (DT Os)
-                                 (NN sindicatos)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN metalÃºrgicos)
-                                          (_CU_ 
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NNP Betim)
-                                                ({)
-                                                (NP 
-                                                  (NNP MG))
-                                                (})))
-                                            (,)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NNP RibeirÃ£o_Preto)
-                                                ({)
-                                                (NP 
-                                                  (NNP SP))
-                                                (})))
-                                            (CC e)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT a)
-                                                (NNP Bahia)))))))
-                        (ADVP (RB tambÃ©m))
-                        (VP (VBP sÃ£o))
-                        (PP (IN de+)
-                               (NP (DT a)
-                                      (NN tendÃªncia)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN sindicatos)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN metalúrgicos)
+          (PP 
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Betim)
+                ({)
+                (NP 
+                  (NNP MG)
+                )
+                (})
+              )
+            )
+            (,)
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Ribeirão_Preto)
+                ({)
+                (NP 
+                  (NNP SP)
+                )
+                (})
+              )
+            )
+            e            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NNP Bahia)
+              )
+            )
+          )
+        )
+      )
+    )
+    (ADVP 
+      (RB também)
+    )
+    (VP 
+      (VBP são)
+    )
+    (PP 
+      (IN de+)
+      (NP 
+        (DT a)
+        (NN tendência)
+      )
+    )
+    (.)
+  )
+)

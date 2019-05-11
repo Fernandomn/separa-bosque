@@ -1,45 +1,74 @@
-(S (VP (NP (PRP Esta)
-                                 (NN questÃ£o))
-                        (VP (VBP esteve))
-                        (PP (IN em+)
-                               (NP (DT a)
-                                      (NN origem)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT as)
-                                          (NN divergÃªncias)
-                                          (_CU_ 
-                                            (VP 
-                                              (NP 
-                                                (PRP que))
-                                              (VP 
-                                                (VBP surgiram))
-                                              (PP 
-                                                (IN durante)
-                                                (NP 
-                                                  (DT as)
-                                                  (NN negociaÃ§Ãµes)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT o)
-                                                      (NN fim-de-semana))))))
-                                            (CC e)
-                                            (VP 
-                                              (NP 
-                                                (PRP que))
-                                              (ADVP 
-                                                (RB quase))
-                                              (VP 
-                                                (VBP puseram))
-                                              (PP em_causa)
-                                              (NP 
-                                                (DT os)
-                                                (NN esforÃ§os)
-                                                (PP 
-                                                  (IN para)
-                                                  (NP 
-                                                    (DT um)
-                                                    (NN acordo))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Esta)
+      (NN questão)
+    )
+    (VP 
+      (VBP esteve)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN origem)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT as)
+            (NN divergências)
+            (VP 
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP surgiram)
+                )
+                (PP 
+                  (IN durante)
+                  (NP 
+                    (DT as)
+                    (NN negociações)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT o)
+                        (NN fim-de-semana)
+                      )
+                    )
+                  )
+                )
+              )
+              (CC e)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (ADVP 
+                  (RB quase)
+                )
+                (VP 
+                  (VBP puseram)
+                )
+                (PP em_causa)
+                (NP 
+                  (DT os)
+                  (NN esforços)
+                  (PP 
+                    (IN para)
+                    (NP 
+                      (DT um)
+                      (NN acordo)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

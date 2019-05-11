@@ -1,28 +1,50 @@
-(S (VP (NP (DT Os)
-                                 (NN refÃ©ns)
-                                 (,)
-                                 (_CU_ 
-                                   (NP 
-                                     (DT um)
-                                     (NN homem))
-                                   (CC e)
-                                   (NP 
-                                     (DT um)
-                                     (NN casal))))
-                        (,)
-                        (VP (VBP encontravam-))
-                        (NP (PRP se))
-                        (PP (IN a)
-                                 (NP (ADJP 
-                                          (RB cerca_de)
-                                          (CD 60))
-                                        (NN quilÃ³metros)
-                                        (PP 
-                                          (IN a)
-                                          (NP 
-                                            (NN norte)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NNP Frankfurt)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN reféns)
+      (,)
+      (NP 
+        (NP 
+          (DT um)
+          (NN homem)
+        )
+        (CC e)
+        (NP 
+          (DT um)
+          (NN casal)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP encontravam-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN a)
+      (NP 
+        (ADJP 
+          (RB cerca_de)
+          (CD 60)
+        )
+        (NN quilómetros)
+        (PP 
+          (IN a)
+          (NP 
+            (NN norte)
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Frankfurt)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

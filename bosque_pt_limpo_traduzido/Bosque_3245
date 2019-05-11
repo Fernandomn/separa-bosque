@@ -1,90 +1,137 @@
-(S (VP (CC Mas)
-                        (ADJP (RB mais)
-                                 (JJ espantoso)
-                                 (RB ainda))
-                        (ADVP (RB Ã©_que))
-                        (VP (NP 
-                                    (PRP nos))
-                                  (VP (VBP esperou))
-                                  (ADVP 
-                                    (RB depois))
-                                  (PP 
-                                    (IN a+)
-                                    (NP 
-                                      (DT a)
-                                      (NN porta)
-                                      (PP de_saÃ­da)))
-                                  (,)
-                                  (_CU_ 
-                                    (PP 
-                                      (RB nÃ£o)
-                                      (IN para)
-                                      (VP 
-                                        (VP 
-                                          (VB cumprimentar))
-                                        (NP 
-                                          (DT os)
-                                          (NN clientes))
-                                        (--)
-                                        (VP 
-                                          (IN como)
-                                          (VP 
-                                            (VBP Ã©))
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (ADJP 
-                                                (JJ bom))
-                                              (NN tom))))
-                                        (!)
-                                        (--)))
-                                    (,)
-                                    (CC mas)
-                                    (VP 
-                                      (ADVP 
-                                        (RB de_novo))
-                                      (VP 
-                                        (VB agredir))
-                                      (ADVP 
-                                        (RB verbalmente))
-                                      (NP 
-                                        (DT o)
-                                        (PRP meu)
-                                        (NN anfitriÃ£o))
-                                      (,)
-                                      (_CU_ 
-                                        (VP 
-                                          (VP 
-                                            (VBG dizendo-))
-                                          (NP 
-                                            (PRP lhe))
-                                          (Â«)
-                                          (VP 
-                                            (ADVP 
-                                              (RB NÃ£o))
-                                            (VP 
-                                              (VBP volte))
-                                            (ADVP 
-                                              (RB cÃ¡))
-                                            (ADVP 
-                                              (RB mais)))
-                                          (!)
-                                          (Â»))
-                                        (...)
-                                        (CC e)
-                                        (VP 
-                                          (VP 
-                                            (VBG atirando-))
-                                          (NP 
-                                            (PRP lhe))
-                                          (PP 
-                                            (IN com)
-                                            (NP 
-                                              (DT a)
-                                              (NN porta)))
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT a)
-                                              (NN cara))))))))
-                        (.)))
+(S 
+  (VP 
+    (CC Mas)
+    (ADJP 
+      (RB mais)
+      (JJ espantoso)
+      (RB ainda)
+    )
+    (ADVP 
+      (RB é_que)
+    )
+    (VP 
+      (NP 
+        (PRP nos)
+      )
+      (VP 
+        (VBP esperou)
+      )
+      (ADVP 
+        (RB depois)
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT a)
+          (NN porta)
+          (PP de_saída)
+        )
+      )
+      (,)
+      (UCP 
+        (PP 
+          (RB não)
+          (IN para)
+          (VP 
+            (VP 
+              (VB cumprimentar)
+            )
+            (NP 
+              (DT os)
+              (NN clientes)
+            )
+            (--)
+            (VP 
+              (IN como)
+              (VP 
+                (VBP é)
+              )
+              (PP 
+                (IN de)
+                (NP 
+                  (ADJP 
+                    (JJ bom)
+                  )
+                  (NN tom)
+                )
+              )
+            )
+            (!)
+            (--)
+          )
+        )
+        (,)
+        (CC mas)
+        (VP 
+          (ADVP 
+            (RB de_novo)
+          )
+          (VP 
+            (VB agredir)
+          )
+          (ADVP 
+            (RB verbalmente)
+          )
+          (NP 
+            (DT o)
+            (PRP meu)
+            (NN anfitrião)
+          )
+          (,)
+          (UCP 
+            (VP 
+              (VP 
+                (VBG dizendo-)
+              )
+              (NP 
+                (PRP lhe)
+              )
+              («)
+              (VP 
+                (ADVP 
+                  (RB Não)
+                )
+                (VP 
+                  (VBP volte)
+                )
+                (ADVP 
+                  (RB cá)
+                )
+                (ADVP 
+                  (RB mais)
+                )
+              )
+              (!)
+              (»)
+            )
+            (...)
+            (CC e)
+            (VP 
+              (VP 
+                (VBG atirando-)
+              )
+              (NP 
+                (PRP lhe)
+              )
+              (PP 
+                (IN com)
+                (NP 
+                  (DT a)
+                  (NN porta)
+                )
+              )
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT a)
+                  (NN cara)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

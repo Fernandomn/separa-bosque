@@ -1,95 +1,154 @@
-(S (VP (PP (IN Entre)
-                                (NP (DT as)
-                                       (NN propostas)
-                                       (ADJP 
-                                         (RB mais)
-                                         (VBN ousadas))))
-                       (,)
-                       (VP (VBP decidiu-))
-                       (NP (PRP se))
-                       (_CU_ (VP (VP 
-                                          (VB pedir))
-                                        (PP 
-                                          (IN a+)
-                                          (NP 
-                                            (DT o)
-                                            (NNP Presidente_da_RepÃºblica)))
-                                        (VP 
-                                          (IN que)
-                                          (VP 
-                                            (VBP proponha))
-                                          (NP 
-                                            (DT um)
-                                            (NN referendo)
-                                            (PP 
-                                              (IN sobre)
-                                              (NP 
-                                                (DT a)
-                                                (NNP Lei_do_Financiamento))))))
-                               (,)
-                               (VP (VP 
-                                          (VB desafiar))
-                                        (NP 
-                                          (DT as)
-                                          (NN televisÃµes))
-                                        (PP 
-                                          (IN a)
-                                          (VP 
-                                            (VP 
-                                              (VB promoverem))
-                                            (NP 
-                                              (DT um)
-                                              (NN debate)
-                                              (PP 
-                                                (IN entre)
-                                                (_CU_ 
-                                                  (NP 
-                                                    (DT o)
-                                                    (NN ministro)
-                                                    (PP 
-                                                      (IN de+)
-                                                      (NP 
-                                                        (DT a)
-                                                        (NNP EducaÃ§ao))))
-                                                  (CC e)
-                                                  (NP 
-                                                    (PRP todos_os)
-                                                    (NN dirigentes)
-                                                    (ADJP 
-                                                      (JJ associativos)))))))))
-                               (,)
-                               (VP (VP 
-                                          (VB pintar))
-                                        (PP 
-                                          (IN de)
-                                          (ADJP 
-                                            (JJ negro)))
-                                        (NP 
-                                          (DT a)
-                                          (NN sede)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP DirecÃ§Ã£o_Regional_de_EducaÃ§Ã£o_do_Centro)))))
-                               (CC e)
-                               (VP (VP 
-                                          (VB remeter))
-                                        (NP 
-                                          (NN envelopes)
-                                          (PP 
-                                            (IN com)
-                                            (NP 
-                                              (NN folhas)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN papel)
-                                                  (ADJP 
-                                                    (JJ higiÃ©nico)))))))
-                                        (PP 
-                                          (IN a+)
-                                          (NP 
-                                            (DT o)
-                                            (NN ministÃ©rio)))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Entre)
+      (NP 
+        (DT as)
+        (NN propostas)
+        (ADJP 
+          (RB mais)
+          (VBN ousadas)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP decidiu-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (VP 
+      (VP 
+        (VP 
+          (VB pedir)
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (DT o)
+            (NNP Presidente_da_República)
+          )
+        )
+        (VP 
+          (IN que)
+          (VP 
+            (VBP proponha)
+          )
+          (NP 
+            (DT um)
+            (NN referendo)
+            (PP 
+              (IN sobre)
+              (NP 
+                (DT a)
+                (NNP Lei_do_Financiamento)
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VB desafiar)
+        )
+        (NP 
+          (DT as)
+          (NN televisões)
+        )
+        (PP 
+          (IN a)
+          (VP 
+            (VP 
+              (VB promoverem)
+            )
+            (NP 
+              (DT um)
+              (NN debate)
+              (PP 
+                (IN entre)
+                (NP 
+                  (NP 
+                    (DT o)
+                    (NN ministro)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT a)
+                        (NNP Educaçao)
+                      )
+                    )
+                  )
+                  (CC e)
+                  (NP 
+                    (PRP todos_os)
+                    (NN dirigentes)
+                    (ADJP 
+                      (JJ associativos)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VB pintar)
+        )
+        (PP 
+          (IN de)
+          (ADJP 
+            (JJ negro)
+          )
+        )
+        (NP 
+          (DT a)
+          (NN sede)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Direcção_Regional_de_Educação_do_Centro)
+            )
+          )
+        )
+      )
+      (CC e)
+      (VP 
+        (VP 
+          (VB remeter)
+        )
+        (NP 
+          (NN envelopes)
+          (PP 
+            (IN com)
+            (NP 
+              (NN folhas)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN papel)
+                  (ADJP 
+                    (JJ higiénico)
+                  )
+                )
+              )
+            )
+          )
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (DT o)
+            (NN ministério)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

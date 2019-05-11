@@ -1,66 +1,103 @@
-(S (VP (VP (CC E)
-                                 (NP 
-                                   (PRP todos_os)
-                                   (NN esforÃ§os)
-                                   (VP 
-                                     (NP 
-                                       (PRP que))
-                                     (VP 
-                                       (VBP tÃªm)
-                                       (VBN sido)
-                                       (VBN feitos))))
-                                 (ADVP 
-                                   (RB nÃ£o))
-                                 (VP (VBP tÃªm)
-                                       (VBN dado))
-                                 (NP 
-                                   (NN resultado)))
-                        (Â»)
-                        (,)
-                        (VP (VBP disse))
-                        (NP (DT o)
-                                 (NN Presidente)
-                                 (,)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP desculpou))
-                                   (NP 
-                                     (DT a)
-                                     (NN actuaÃ§Ã£o)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT os)
-                                         (PRP seus)
-                                         (NN governos))))
-                                   (PP 
-                                     (IN a+)
-                                     (NP 
-                                       (DT o)
-                                       (VP 
-                                         (VP 
-                                           (VB afirmar))
-                                         (VP 
-                                           (IN que)
-                                           (Â«)
-                                           (ADVP 
-                                             (RB hoje))
-                                           (VP 
-                                             (VBP temos))
-                                           (NP 
-                                             (_CU_ 
-                                               (NP 
-                                                 (JJ melhores)
-                                                 (NN condiÃ§Ãµes))
-                                               (CC e)
-                                               (NP 
-                                                 (JJ melhores)
-                                                 (NN tÃ©cnicos)))
-                                             (VP 
-                                               (IN do_que)
-                                               (VP 
-                                                 (VBP tÃ­nhamos))))
-                                           (Â»)))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (CC E)
+      (NP 
+        (PRP todos_os)
+        (NN esforços)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP têm)
+            (VBN sido)
+            (VBN feitos)
+          )
+        )
+      )
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VBP têm)
+        (VBN dado)
+      )
+      (NP 
+        (NN resultado)
+      )
+    )
+    (»)
+    (,)
+    (VP 
+      (VBP disse)
+    )
+    (NP 
+      (DT o)
+      (NN Presidente)
+      (,)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP desculpou)
+        )
+        (NP 
+          (DT a)
+          (NN actuação)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (PRP seus)
+              (NN governos)
+            )
+          )
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (DT o)
+            (VP 
+              (VP 
+                (VB afirmar)
+              )
+              (VP 
+                (IN que)
+                («)
+                (ADVP 
+                  (RB hoje)
+                )
+                (VP 
+                  (VBP temos)
+                )
+                (NP 
+                  (NP 
+                    (NP 
+                      (JJ melhores)
+                      (NN condições)
+                    )
+                    (CC e)
+                    (NP 
+                      (JJ melhores)
+                      (NN técnicos)
+                    )
+                  )
+                  (VP 
+                    (IN do_que)
+                    (VP 
+                      (VBP tínhamos)
+                    )
+                  )
+                )
+                (»)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,101 +1,152 @@
-(S (VP (VP (IN Se)
-                                  (NP 
-                                    (PRP tudo))
-                                  (VP (VBP correu))
-                                  (VP 
-                                    (ADVP 
-                                      (RB como))
-                                    (VP 
-                                      (VBP estava))
-                                    (VBN previsto)))
-                        (,)
-                        (VP (VBP fez-))
-                        (NP (PRP se))
-                        (_CU_ (NP 
-                                   (DT a)
-                                   (NN substituiÃ§Ã£o)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (CD dois)
-                                       (NN instrumentos)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN observaÃ§Ã£o)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT o)
-                                               (NNP Hubble)))))
-                                       (--)
-                                       (_CU_ 
-                                         (NP 
-                                           (DT o)
-                                           (NNP Goddard_High_Resolution_Spectrometer))
-                                         (CC e)
-                                         (NP 
-                                           (DT o)
-                                           (NNP Faint_Object_Spectrograph)))
-                                       (--))))
-                                 (CC e)
-                                 (NP 
-                                   (DT a)
-                                   (NN instalaÃ§Ã£o)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (CD dois)
-                                       (JJ novos)
-                                       (NN instrumentos)
-                                       (VP 
-                                         (VP 
-                                           (VBN destinados))
-                                         (PP 
-                                           (IN a)
-                                           (VP 
-                                             (VP 
-                                               (VB ampliar))
-                                             (ADVP 
-                                               (RB significativamente))
-                                             (NP 
-                                               (DT as)
-                                               (PRP suas)
-                                               (NN capacidades)
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (NN observaÃ§Ã£o)))))))
-                                       (;)
-                                       (_CU_ 
-                                         (NP 
-                                           (DT o)
-                                           (NNP Space_Telescope_Imaging_Spectrograph)
-                                           ({)
-                                           (NP 
-                                             (NNP STIS))
-                                           (}))
-                                         (CC e)
-                                         (NP 
-                                           (DT o)
-                                           (NNP Near_Infrared_Camera_and_Multi-Object_Spectrometer)
-                                           ({)
-                                           (NP 
-                                             (NNP NICMOS))
-                                           (})))
-                                       (,)
-                                       (NP 
-                                         (PRP cada_um)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT o)
-                                             (NN tamanho)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (DT uma)
-                                                 (NN cabine)
-                                                 (ADJP 
-                                                   (JJ telefÃ³nica)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (IN Se)
+      (NP 
+        (PRP tudo)
+      )
+      (VP 
+        (VBP correu)
+      )
+      (VP 
+        (ADVP 
+          (RB como)
+        )
+        (VP 
+          (VBP estava)
+        )
+        (VBN previsto)
+      )
+    )
+    (,)
+    (VP 
+      (VBP fez-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (NP 
+      (NP 
+        (DT a)
+        (NN substituição)
+        (PP 
+          (IN de)
+          (NP 
+            (CD dois)
+            (NN instrumentos)
+            (PP 
+              (IN de)
+              (NP 
+                (NN observação)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NNP Hubble)
+                  )
+                )
+              )
+            )
+            (--)
+            (NP 
+              (NP 
+                (DT o)
+                (NNP Goddard_High_Resolution_Spectrometer)
+              )
+              (CC e)
+              (NP 
+                (DT o)
+                (NNP Faint_Object_Spectrograph)
+              )
+            )
+            (--)
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (DT a)
+        (NN instalação)
+        (PP 
+          (IN de)
+          (NP 
+            (CD dois)
+            (JJ novos)
+            (NN instrumentos)
+            (VP 
+              (VP 
+                (VBN destinados)
+              )
+              (PP 
+                (IN a)
+                (VP 
+                  (VP 
+                    (VB ampliar)
+                  )
+                  (ADVP 
+                    (RB significativamente)
+                  )
+                  (NP 
+                    (DT as)
+                    (PRP suas)
+                    (NN capacidades)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NN observação)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+            (;)
+            (NP 
+              (NP 
+                (DT o)
+                (NNP Space_Telescope_Imaging_Spectrograph)
+                ({)
+                (NP 
+                  (NNP STIS)
+                )
+                (})
+              )
+              (CC e)
+              (NP 
+                (DT o)
+                (NNP Near_Infrared_Camera_and_Multi-Object_Spectrometer)
+                ({)
+                (NP 
+                  (NNP NICMOS)
+                )
+                (})
+              )
+            )
+            (,)
+            (NP 
+              (PRP cada_um)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN tamanho)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (DT uma)
+                      (NN cabine)
+                      (ADJP 
+                        (JJ telefónica)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

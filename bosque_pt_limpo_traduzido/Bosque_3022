@@ -1,23 +1,44 @@
-(S (VP (NP (DT O)
-                                 (NN irlandÃªs))
-                        (VP (VBP foi))
-                        (_CU_ (NP (NN primeiro)
-                                       (PP 
-                                         (IN em)
-                                         (NP 
-                                           (NNP Palm_Mcadows))))
-                               (CC e)
-                               (NP (NN segundo)
-                                       (PP 
-                                         (IN em+)
-                                         (_CU_ 
-                                           (NP 
-                                             (DT os)
-                                             (NNP Asian_Classic))
-                                           (,)
-                                           (NP 
-                                             (NNP Dubai_Deset_Classic))
-                                           (CC e)
-                                           (NP 
-                                             (NNP Hong_Kong_Open))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN irlandês)
+    )
+    (VP 
+      (VBP foi)
+    )
+    (NP 
+      (NP 
+        (NN primeiro)
+        (PP 
+          (IN em)
+          (NP 
+            (NNP Palm_Mcadows)
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (NN segundo)
+        (PP 
+          (IN em+)
+          (NP 
+            (NP 
+              (DT os)
+              (NNP Asian_Classic)
+            )
+            (,)
+            (NP 
+              (NNP Dubai_Deset_Classic)
+            )
+            (CC e)
+            (NP 
+              (NNP Hong_Kong_Open)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

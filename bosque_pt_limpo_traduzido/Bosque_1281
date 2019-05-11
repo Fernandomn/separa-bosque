@@ -1,23 +1,44 @@
-(S (_CU_ (VP (NP 
-                                  (DT A)
-                                  (NN direcÃ§Ã£o)
-                                  (ADJP 
-                                    (JJ musical)))
-                                (VP (VBP Ã©))
-                                (PP (IN de)
-                                       (NP 
-                                         (NNP Tilike_Coelho))))
-                       (CC e)
-                       (VP (NP 
-                                         (_CU_ 
-                                           (NP 
-                                             (DT a)
-                                             (NN encenaÃ§Ã£o))
-                                           (CC e)
-                                           (NP 
-                                             (NN cenografia)))
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NNP JosÃ©_Caldas_Neto)))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT A)
+        (NN direcção)
+        (ADJP 
+          (JJ musical)
+        )
+      )
+      (VP 
+        (VBP é)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NNP Tilike_Coelho)
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (NP 
+        (NP 
+          (NP 
+            (DT a)
+            (NN encenação)
+          )
+          (CC e)
+          (NP 
+            (NN cenografia)
+          )
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (NNP José_Caldas_Neto)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

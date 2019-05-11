@@ -1,40 +1,66 @@
-(S (_CU_ (ADVP (ADVP 
-                                   (RB Mais))
-                                 (VP (VBN Retirados)))
-                        (;)
-                        (_CU_ (VP 
-                                  (NP 
-                                    (DT O)
-                                    (NN nÃºmero)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT a)
-                                        (NN esquerda))))
-                                  (VP (VBP representa))
-                                  (NP 
-                                    (DT a)
-                                    (NN posiÃ§Ã£o)
-                                    (ADJP 
-                                      (JJ atual))))
-                                (CC e)
-                                (ADVP 
-                                  (NP 
-                                    (PRP o)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT a)
-                                        (NN direita))))
-                                  (,)
-                                  (NP 
-                                    (DT a)
-                                    (NN posiÃ§Ã£o)
-                                    (PP 
-                                      (IN em+)
-                                      (NP 
-                                        (DT a)
-                                        (NN quinzena)
-                                        (ADJP 
-                                          (JJ anterior)))))))
-                        (.)))
+(S 
+  (UCP 
+    (ADVP 
+      (ADVP 
+        (RB Mais)
+      )
+      (VP 
+        (VBN Retirados)
+      )
+    )
+    (;)
+    (UCP 
+      (VP 
+        (NP 
+          (DT O)
+          (NN número)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN esquerda)
+            )
+          )
+        )
+        (VP 
+          (VBP representa)
+        )
+        (NP 
+          (DT a)
+          (NN posição)
+          (ADJP 
+            (JJ atual)
+          )
+        )
+      )
+      e      (ADVP 
+        (NP 
+          (PRP o)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN direita)
+            )
+          )
+        )
+        (,)
+        (NP 
+          (DT a)
+          (NN posição)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN quinzena)
+              (ADJP 
+                (JJ anterior)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

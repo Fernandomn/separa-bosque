@@ -1,45 +1,76 @@
-(S (VP (PP (IN Para)
-                                (VP (VP 
-                                          (VB tentar))
-                                        (VP 
-                                          (VP 
-                                            (VB resolver))
-                                          (NP 
-                                            (DT o)
-                                            (NN problema)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT o)
-                                                (NN trÃ¡fico)
-                                                (_CU_ 
-                                                  (PP 
-                                                    (IN de)
-                                                    (NP 
-                                                      (NN drogas)))
-                                                  (CC e)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT a)
-                                                      (NN violÃªncia)))))))
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT o)
-                                              (NNP Rio_de_Janeiro))))))
-                       (,)
-                       (_CU_ (NP (DT o)
-                                        (NN governador)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NNP Rio))))
-                                (CC e)
-                                (NP (DT o)
-                                        (NNP Presidente_da_RepÃºblica)))
-                       (VP (VBP chamaram))
-                       (NP (DT o)
-                               (NN ExÃ©rcito))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Para)
+      (VP 
+        (VP 
+          (VB tentar)
+        )
+        (VP 
+          (VP 
+            (VB resolver)
+          )
+          (NP 
+            (DT o)
+            (NN problema)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN tráfico)
+                (PP 
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN drogas)
+                    )
+                  )
+                  e                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN violência)
+                    )
+                  )
+                )
+              )
+            )
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT o)
+              (NNP Rio_de_Janeiro)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NP 
+        (DT o)
+        (NN governador)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NNP Rio)
+          )
+        )
+      )
+      e      (NP 
+        (DT o)
+        (NNP Presidente_da_República)
+      )
+    )
+    (VP 
+      (VBP chamaram)
+    )
+    (NP 
+      (DT o)
+      (NN Exército)
+    )
+    (.)
+  )
+)

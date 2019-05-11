@@ -1,65 +1,99 @@
-(S (VP (NP (DT A)
-                                 (NN chefe)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN VigilÃ¢ncia)))
-                                 (,)
-                                 (NP 
-                                   (NNP NoÃ©lia_Soares))
-                                 (,))
-                        (VP (VBP disse))
-                        (VP (IN que)
-                                 (,)
-                                 (PP 
-                                   (IN apesar_de+)
-                                   (NP 
-                                     (DT a)
-                                     (NN existÃªncia)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (DT um)
-                                         (NN surto)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NN doenÃ§a)))))))
-                                 (,)
-                                 (NP 
-                                   (DT o)
-                                   (NN controle)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       (NN qualidade)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT as)
-                                           (NN Ã¡guas)
-                                           (PP 
-                                             (IN de+)
-                                             (_CU_ 
-                                               (NP 
-                                                 (DT os)
-                                                 (NN rios))
-                                               (,)
-                                               (NP 
-                                                 (NN poÃ§os))
-                                               (CC e)
-                                               (NP 
-                                                 (NN lagos)))))))))
-                                 (VP (VBP tem)
-                                       (VBN evitado))
-                                 (NP 
-                                   (DT a)
-                                   (NN propagaÃ§Ã£o)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (NN vibriÃ£o)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN chefe)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN Vigilância)
+        )
+      )
+      (,)
+      (NP 
+        (NNP Noélia_Soares)
+      )
+      (,)
+    )
+    (VP 
+      (VBP disse)
+    )
+    (VP 
+      (IN que)
+      (,)
+      (PP 
+        (IN apesar_de+)
+        (NP 
+          (DT a)
+          (NN existência)
+          (PP 
+            (IN de)
+            (NP 
+              (DT um)
+              (NN surto)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NN doença)
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (DT o)
+        (NN controle)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN qualidade)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT as)
+                (NN águas)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (NP 
+                      (DT os)
+                      (NN rios)
+                    )
+                    (,)
+                    (NP 
+                      (NN poços)
+                    )
+                    e                    (NP 
+                      (NN lagos)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP tem)
+        (VBN evitado)
+      )
+      (NP 
+        (DT a)
+        (NN propagação)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN vibrião)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

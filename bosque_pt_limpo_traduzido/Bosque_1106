@@ -1,15 +1,31 @@
-(S (_CU_ (VP (NP 
-                                  (DT A)
-                                  (NN Bolsa))
-                                (VP (VBP cai)))
-                       (CC e)
-                       (VP (NP 
-                                  (DT o)
-                                  (NN preÃ§o)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT o)
-                                      (NN petrÃ³leo))))
-                                (VP (VBP sobe)))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT A)
+        (NN Bolsa)
+      )
+      (VP 
+        (VBP cai)
+      )
+    )
+    (CC e)
+    (VP 
+      (NP 
+        (DT o)
+        (NN preço)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN petróleo)
+          )
+        )
+      )
+      (VP 
+        (VBP sobe)
+      )
+    )
+    (.)
+  )
+)

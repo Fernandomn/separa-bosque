@@ -1,46 +1,75 @@
-(S (VP (NP (DT O)
-                                 (NN incÃªndio)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP deflagrou))
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT o)
-                                       (NN final)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NN semana)
-                                           (VBN passada)))))
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT os)
-                                       (NN concelhos)
-                                       (PP 
-                                         (IN de)
-                                         (_CU_ 
-                                           (NP 
-                                             (NNP MaÃ§Ã£o))
-                                           (,)
-                                           (NP 
-                                             (NNP Abrantes))
-                                           (CC e)
-                                           (NP 
-                                             (NNP Sardoal))
-                                           (,)))))))
-                        (VP (VBP foi)
-                              (VBN dado))
-                        (ADVP (RB como)
-                                (VBN extinto))
-                        (PP (IN por+)
-                                 (NP (DT as)
-                                        (NN 12h00)
-                                        (PP 
-                                          (IN de)
-                                          (RB ontem))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN incêndio)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP deflagrou)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NN final)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN semana)
+                (VBN passada)
+              )
+            )
+          )
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT os)
+            (NN concelhos)
+            (PP 
+              (IN de)
+              (NP 
+                (NP 
+                  (NNP Mação)
+                )
+                (,)
+                (NP 
+                  (NNP Abrantes)
+                )
+                (CC e)
+                (NP 
+                  (NNP Sardoal)
+                )
+                (,)
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP foi)
+      (VBN dado)
+    )
+    (ADVP 
+      (RB como)
+      (VBN extinto)
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT as)
+        (NN 12h00)
+        (PP 
+          (IN de)
+          (RB ontem)
+        )
+      )
+    )
+    (.)
+  )
+)

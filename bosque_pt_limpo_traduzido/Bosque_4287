@@ -1,64 +1,102 @@
-(S (VP (NP (PRP Esta))
-                        (VP (VBP Ã©))
-                        (_CU_ (ADJP 
-                                 (RB bem)
-                                 (JJ real))
-                               (CC e)
-                               (NP (DT um)
-                                       (NN exemplo)
-                                       (PP 
-                                         (IN de)
-                                         (VP 
-                                           (IN que)
-                                           (VP 
-                                             (VBP pode)
-                                             (VB acontecer))
-                                           (PP 
-                                             (IN a)
-                                             (NP 
-                                               (PRP qualquer)
-                                               (NN mÃ£e)
-                                               (VP 
-                                                 (NP 
-                                                   (PRP que))
-                                                 (,)
-                                                 (PP 
-                                                   (IN a+)
-                                                   (NP 
-                                                     (DT o)
-                                                     (VP 
-                                                       (VP 
-                                                         (VB tirar))
-                                                       (NP 
-                                                         (DT uma)
-                                                         (NN ecografia)))))
-                                                 (,)
-                                                 (VP 
-                                                   (VBP descobre))
-                                                 (VP 
-                                                   (IN que)
-                                                   (ADVP 
-                                                     (RB nÃ£o))
-                                                   (VP 
-                                                     (VBP Ã©))
-                                                   (NP 
-                                                     (_CU_ 
-                                                       (NP 
-                                                         (CD um))
-                                                       (,)
-                                                       (CC mas)
-                                                       (ADJP 
-                                                         (CD trÃªs)))
-                                                     (NN filhos)
-                                                     (VP 
-                                                       (NP 
-                                                         (PRP que))
-                                                       (VP 
-                                                         (VBP vai)
-                                                         (VB dar))
-                                                       (PP 
-                                                         (IN a+)
-                                                         (NP 
-                                                           (DT a)
-                                                           (NN luz)))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Esta)
+    )
+    (VP 
+      (VBP é)
+    )
+    (UCP 
+      (ADJP 
+        (RB bem)
+        (JJ real)
+      )
+      (CC e)
+      (NP 
+        (DT um)
+        (NN exemplo)
+        (PP 
+          (IN de)
+          (VP 
+            (IN que)
+            (VP 
+              (VBP pode)
+              (VB acontecer)
+            )
+            (PP 
+              (IN a)
+              (NP 
+                (PRP qualquer)
+                (NN mãe)
+                (VP 
+                  (NP 
+                    (PRP que)
+                  )
+                  (,)
+                  (PP 
+                    (IN a+)
+                    (NP 
+                      (DT o)
+                      (VP 
+                        (VP 
+                          (VB tirar)
+                        )
+                        (NP 
+                          (DT uma)
+                          (NN ecografia)
+                        )
+                      )
+                    )
+                  )
+                  (,)
+                  (VP 
+                    (VBP descobre)
+                  )
+                  (VP 
+                    (IN que)
+                    (ADVP 
+                      (RB não)
+                    )
+                    (VP 
+                      (VBP é)
+                    )
+                    (NP 
+                      (UCP 
+                        (NP 
+                          (CD um)
+                        )
+                        (,)
+                        (CC mas)
+                        (ADJP 
+                          (CD três)
+                        )
+                      )
+                      (NN filhos)
+                      (VP 
+                        (NP 
+                          (PRP que)
+                        )
+                        (VP 
+                          (VBP vai)
+                          (VB dar)
+                        )
+                        (PP 
+                          (IN a+)
+                          (NP 
+                            (DT a)
+                            (NN luz)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

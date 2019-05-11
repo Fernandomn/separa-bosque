@@ -1,54 +1,95 @@
-(S (_CU_ (VP (VP (VBP Telefonei))
-                                (NP 
-                                  (NN mil)
-                                  (NN vezes))
-                                (PP (IN para)
-                                        (NP 
-                                          (DT a)
-                                          (NN agente)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NNP Isabel_Allende))))))
-                       (,)
-                       (CC e)
-                       (VP (ADVP 
-                                  (RB finalmente))
-                                (VP (VBP consegui)))
-                       (,)
-                       (VP (NP (PRP isso))
-                               (VP (VBP foi))
-                               (PP (IN em+)
-                                      (NP 
-                                        (DT os)
-                                        (NNP Estados_Unidos)
-                                        (,)
-                                        (VP 
-                                          (ADVP 
-                                            (RB onde))
-                                          (VP 
-                                            (VBP forcei))
-                                          (NP 
-                                            (NNP Isabel))
-                                          (PP 
-                                            (IN a)
-                                            (VP 
-                                              (VP 
-                                                (VB ver))
-                                              (Â«)
-                                              (NP 
-                                                (NNP Pelle_,_o_Conquistador))
-                                              (Â»)
-                                              (ADVP 
-                                                (RB antes)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (NN estreia)
-                                                    (PP 
-                                                      (IN em+)
-                                                      (NP 
-                                                        (DT a)
-                                                        (NNP Dinamarca))))))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP Telefonei)
+      )
+      (NP 
+        (NN mil)
+        (NN vezes)
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (DT a)
+          (NN agente)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Isabel_Allende)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (CC e)
+    (VP 
+      (ADVP 
+        (RB finalmente)
+      )
+      (VP 
+        (VBP consegui)
+      )
+    )
+    (,)
+    (VP 
+      (NP 
+        (PRP isso)
+      )
+      (VP 
+        (VBP foi)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT os)
+          (NNP Estados_Unidos)
+          (,)
+          (VP 
+            (ADVP 
+              (RB onde)
+            )
+            (VP 
+              (VBP forcei)
+            )
+            (NP 
+              (NNP Isabel)
+            )
+            (PP 
+              (IN a)
+              (VP 
+                (VP 
+                  (VB ver)
+                )
+                («)
+                (NP 
+                  (NNP Pelle_,_o_Conquistador)
+                )
+                (»)
+                (ADVP 
+                  (RB antes)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN estreia)
+                      (PP 
+                        (IN em+)
+                        (NP 
+                          (DT a)
+                          (NNP Dinamarca)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

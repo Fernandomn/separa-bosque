@@ -1,71 +1,106 @@
-(S (VP (NP (DT O)
-                                 (NN mote)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN protestos))))
-                        (VP (VBP variou))
-                        (PP (IN entre)
-                                 (_CU_ (Â«)
-                                        (ADVP 
-                                          (NP 
-                                            (NN Emprego)
-                                            (ADJP 
-                                              (JJ seguro)))
-                                          (,)
-                                          (NP 
-                                            (NN garantia)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN futuro)))))
-                                        (!)
-                                        (Â»)
-                                        (,)
-                                        (Â«)
-                                        (_CU_ 
-                                          (NP 
-                                            (JJ Melhores)
-                                            (NN salÃ¡rios))
-                                          (,)
-                                          (NP 
-                                            (JJ melhores)
-                                            (NN horÃ¡rios)))
-                                        (!)
-                                        (Â»)
-                                        (,)
-                                        (Â«)
-                                        (ADVP 
-                                          (_CU_ 
-                                            (NP 
-                                              (PRP Mais)
-                                              (NN emprego))
-                                            (,)
-                                            (NP 
-                                              (RB mais)
-                                              (NN salÃ¡rio)))
-                                          (,)
-                                          (NP 
-                                            (NNP Portugal)
-                                            (ADJP 
-                                              (RB mais)
-                                              (JJ solidÃ¡rio))))
-                                        (!)
-                                        (Â»)
-                                        (CC ou)
-                                        (Â«)
-                                        (VP 
-                                          (_CU_ 
-                                            (VB Despedir)
-                                            (,)
-                                            (VB desmantelar))
-                                          (,)
-                                          (VP 
-                                            (VBP Ã©))
-                                          (NP 
-                                            (NNP Cavaco)
-                                            (PP 
-                                              (IN a)
-                                              (VB governar))))
-                                        (!)
-                                        (Â»)))))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN mote)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN protestos)
+        )
+      )
+    )
+    (VP 
+      (VBP variou)
+    )
+    (PP 
+      (IN entre)
+      (UCP 
+        («)
+        (ADVP 
+          (NP 
+            (NN Emprego)
+            (ADJP 
+              (JJ seguro)
+            )
+          )
+          (,)
+          (NP 
+            (NN garantia)
+            (PP 
+              (IN de)
+              (NP 
+                (NN futuro)
+              )
+            )
+          )
+        )
+        (!)
+        (»)
+        (,)
+        («)
+        (NP 
+          (NP 
+            (JJ Melhores)
+            (NN salários)
+          )
+          (,)
+          (NP 
+            (JJ melhores)
+            (NN horários)
+          )
+        )
+        (!)
+        (»)
+        (,)
+        («)
+        (ADVP 
+          (NP 
+            (NP 
+              (PRP Mais)
+              (NN emprego)
+            )
+            (,)
+            (NP 
+              (RB mais)
+              (NN salário)
+            )
+          )
+          (,)
+          (NP 
+            (NNP Portugal)
+            (ADJP 
+              (RB mais)
+              (JJ solidário)
+            )
+          )
+        )
+        (!)
+        (»)
+        (CC ou)
+        («)
+        (VP 
+          (VB 
+            (VB Despedir)
+            (,)
+            (VB desmantelar)
+          )
+          (,)
+          (VP 
+            (VBP é)
+          )
+          (NP 
+            (NNP Cavaco)
+            (PP 
+              (IN a)
+              (VB governar)
+            )
+          )
+        )
+        (!)
+        (»)
+      )
+    )
+  )
+)

@@ -1,17 +1,34 @@
-(S (VP (NP (DT A)
-                                 (NN direÃ§Ã£o)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN datafolha))))
-                        (VP (VBP Ã©))
-                        (PP (IN de+)
-                               (NP (DT os)
-                                      (NN sociÃ³logos)
-                                      (_CU_ 
-                                        (NP 
-                                          (NNP Antonio_Manuel_Teixeira_Mendes))
-                                        (CC e)
-                                        (NP 
-                                          (NNP Gustavo_Venturi)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN direção)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN datafolha)
+        )
+      )
+    )
+    (VP 
+      (VBP é)
+    )
+    (PP 
+      (IN de+)
+      (NP 
+        (DT os)
+        (NN sociólogos)
+        (NP 
+          (NP 
+            (NNP Antonio_Manuel_Teixeira_Mendes)
+          )
+          e          (NP 
+            (NNP Gustavo_Venturi)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

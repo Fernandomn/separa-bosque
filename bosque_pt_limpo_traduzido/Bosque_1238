@@ -1,19 +1,36 @@
-(S (VP (NP (DT Os)
-                                 (NN bancos)
-                                 (ADJP 
-                                   (JJ centrais))
-                                 (_CU_ (ADJP 
-                                          (JJ francÃªs))
-                                        (,)
-                                        (ADJP 
-                                          (JJ holandÃªs))
-                                        (,)
-                                        (ADJP 
-                                          (JJ austrÃ­aco))
-                                        (CC e)
-                                        (ADJP 
-                                          (JJ suÃ­Ã§o))))
-                        (VP (VBP tomaram))
-                        (NP (JJ idÃªnticas)
-                                (NN decisÃµes))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN bancos)
+      (ADJP 
+        (JJ centrais)
+      )
+      (ADJP 
+        (ADJP 
+          (JJ francês)
+        )
+        (,)
+        (ADJP 
+          (JJ holandês)
+        )
+        (,)
+        (ADJP 
+          (JJ austríaco)
+        )
+        (CC e)
+        (ADJP 
+          (JJ suíço)
+        )
+      )
+    )
+    (VP 
+      (VBP tomaram)
+    )
+    (NP 
+      (JJ idênticas)
+      (NN decisões)
+    )
+    (.)
+  )
+)

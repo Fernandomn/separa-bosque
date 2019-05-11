@@ -1,30 +1,54 @@
-(S (VP (NP (PRP Seu)
-                                 (NN Ã¡lbum)
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN estrÃ©ia)
-                                          (,)
-                                          (VP 
-                                            (VP 
-                                              (VBN lanÃ§ado))
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT o)
-                                                (JJ Ãºltimo)
-                                                (NN verÃ£o)
-                                                (ADJP 
-                                                  (JJ americano)))))
-                                          (,))))
-                        (VP (VBP causou))
-                        (NP (_CU_ (NP 
-                                         (PRP pouco))
-                                       (CC ou)
-                                       (NP 
-                                         (PRP nenhum)))
-                                (NN impacto)
-                                (PP (IN em+)
-                                       (NP 
-                                         (DT a)
-                                         (NN parada))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Seu)
+      (NN álbum)
+      (PP 
+        (IN de)
+        (NP 
+          (NN estréia)
+          (,)
+          (VP 
+            (VP 
+              (VBN lançado)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (JJ último)
+                (NN verão)
+                (ADJP 
+                  (JJ americano)
+                )
+              )
+            )
+          )
+          (,)
+        )
+      )
+    )
+    (VP 
+      (VBP causou)
+    )
+    (NP 
+      (NP 
+        (NP 
+          (PRP pouco)
+        )
+        ou        (NP 
+          (PRP nenhum)
+        )
+      )
+      (NN impacto)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NN parada)
+        )
+      )
+    )
+    (.)
+  )
+)

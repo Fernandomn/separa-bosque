@@ -1,39 +1,71 @@
-(S (_CU_ (Â«)
-                       (VP (NP 
-                                  (PRP Eles))
-                                ([)
-                                (_CU_ (NP 
-                                          (NNP Hillary))
-                                        (CC e)
-                                        (NP 
-                                          (NNP Bill_Clinton)))
-                                (])
-                                (VP (VBP podem)
-                                      (VB ter))
-                                (NP (PRP alguma)
-                                        (NN espÃ©cie)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN acordo)))))
-                       (CC e)
-                       (VP (NP (PRP quem))
-                                (VP (VBP somos))
-                                (NP 
-                                  (PRP nÃ³s))
-                                (PP 
-                                  (IN para)
-                                  (VP 
-                                    (VP 
-                                      (VB dizer))
-                                    (VP 
-                                      (IN se)
-                                      (VP 
-                                        (VBP Ã©))
-                                      (_CU_ 
-                                        (ADJP 
-                                          (JJ bom))
-                                        (CC ou)
-                                        (ADJP 
-                                          (JJ mau)))))))
-                       (?)))
+(S 
+  (UCP 
+    («)
+    (VP 
+      (NP 
+        (PRP Eles)
+      )
+      ([)
+      (NP 
+        (NP 
+          (NNP Hillary)
+        )
+        (CC e)
+        (NP 
+          (NNP Bill_Clinton)
+        )
+      )
+      (])
+      (VP 
+        (VBP podem)
+        (VB ter)
+      )
+      (NP 
+        (PRP alguma)
+        (NN espécie)
+        (PP 
+          (IN de)
+          (NP 
+            (NN acordo)
+          )
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (NP 
+        (PRP quem)
+      )
+      (VP 
+        (VBP somos)
+      )
+      (NP 
+        (PRP nós)
+      )
+      (PP 
+        (IN para)
+        (VP 
+          (VP 
+            (VB dizer)
+          )
+          (VP 
+            (IN se)
+            (VP 
+              (VBP é)
+            )
+            (ADJP 
+              (ADJP 
+                (JJ bom)
+              )
+              (CC ou)
+              (ADJP 
+                (JJ mau)
+              )
+            )
+          )
+        )
+      )
+    )
+    (?)
+  )
+)

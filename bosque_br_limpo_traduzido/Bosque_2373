@@ -1,33 +1,66 @@
-(S (_CU_ (Â«)
-                       (VP (VP (VBP Chega))
-                                (PP (IN de)
-                                        (NP 
-                                          (NN violÃªncia))))
-                       (CC $/)
-                       (VP (VP (VBP Quero))
-                                (VP 
-                                  (VP (VB ver))
-                                  (ADVP 
-                                    (RB Ã©))
-                                  (NP 
-                                    (NN gol)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (NN placa))))))
-                       (CC $/)
-                       (VP (NP 
-                                  (PRP Todo_mundo))
-                                (NP (PRP se))
-                                (VP (VBP dÃ¡))
-                                (ADVP 
-                                  (RB mal)))
-                       (CC $/)
-                       (PP (IN Por)
-                               (NP (NN meia_dÃºzia)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN babacas)))))
-                       (.)
-                       (Â»)))
+(S 
+  (UCP 
+    («)
+    (VP 
+      (VP 
+        (VBP Chega)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NN violência)
+        )
+      )
+    )
+    $/    (VP 
+      (VP 
+        (VBP Quero)
+      )
+      (VP 
+        (VP 
+          (VB ver)
+        )
+        (ADVP 
+          (RB é)
+        )
+        (NP 
+          (NN gol)
+          (PP 
+            (IN de)
+            (NP 
+              (NN placa)
+            )
+          )
+        )
+      )
+    )
+    $/    (VP 
+      (NP 
+        (PRP Todo_mundo)
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP dá)
+      )
+      (ADVP 
+        (RB mal)
+      )
+    )
+    $/    (PP 
+      (IN Por)
+      (NP 
+        (NN meia_dúzia)
+        (PP 
+          (IN de)
+          (NP 
+            (NN babacas)
+          )
+        )
+      )
+    )
+    (.)
+    (»)
+  )
+)

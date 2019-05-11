@@ -1,49 +1,77 @@
-(S (VP (NP (NN Operadores))
-                        (VP (VBP disseram))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT o)
-                                   (NN mercado))
-                                 (VP (VBP deverÃ¡)
-                                       (VB manter))
-                                 (NP 
-                                   (DT a)
-                                   (PRP mesma)
-                                   (NN tendÃªncia))
-                                 (PP 
-                                   (IN durante)
-                                   (NP 
-                                     (DT as)
-                                     (JJ prÃ³ximas)
-                                     (NN sessÃµes)))
-                                 (PP 
-                                   (IN devido_a+)
-                                   (NP 
-                                     (DT a)
-                                     (JJ forte)
-                                     (NN procura)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT os)
-                                         (NN investidores)
-                                         (_CU_ 
-                                           (ADJP 
-                                             (JJ domÃ©sticos))
-                                           (CC e)
-                                           (ADJP 
-                                             (JJ estrangeiros)))))))
-                                 (,)
-                                 (VP 
-                                   (ADVP 
-                                     (RB tal_como))
-                                   (VP 
-                                     (VBP vem)
-                                     (VBG sucedendo))
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT as)
-                                       (JJ Ãºltimas)
-                                       (NN semanas)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Operadores)
+    )
+    (VP 
+      (VBP disseram)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT o)
+        (NN mercado)
+      )
+      (VP 
+        (VBP deverá)
+        (VB manter)
+      )
+      (NP 
+        (DT a)
+        (PRP mesma)
+        (NN tendência)
+      )
+      (PP 
+        (IN durante)
+        (NP 
+          (DT as)
+          (JJ próximas)
+          (NN sessões)
+        )
+      )
+      (PP 
+        (IN devido_a+)
+        (NP 
+          (DT a)
+          (JJ forte)
+          (NN procura)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (NN investidores)
+              (ADJP 
+                (ADJP 
+                  (JJ domésticos)
+                )
+                (CC e)
+                (ADJP 
+                  (JJ estrangeiros)
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (ADVP 
+          (RB tal_como)
+        )
+        (VP 
+          (VBP vem)
+          (VBG sucedendo)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT as)
+            (JJ últimas)
+            (NN semanas)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

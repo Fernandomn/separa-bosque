@@ -1,24 +1,45 @@
-(S (VP (ADVP (RB Afinal))
-                        (,)
-                        (NP (DT a)
-                                 (NN abertura))
-                        (VP (VBP comeÃ§ou))
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NN economia)
-                                        (ADJP 
-                                          (JJ brasileira))
-                                        (VP 
-                                          (VP 
-                                            (VBN movida))
-                                          (PP 
-                                            (IN por)
-                                            (NP 
-                                              (NN consideraÃ§Ãµes)
-                                              (_CU_ 
-                                                (ADJP 
-                                                  (JJ pragmÃ¡ticas))
-                                                (CC e)
-                                                (ADJP 
-                                                  (JJ objetivas))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Afinal)
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NN abertura)
+    )
+    (VP 
+      (VBP começou)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN economia)
+        (ADJP 
+          (JJ brasileira)
+        )
+        (VP 
+          (VP 
+            (VBN movida)
+          )
+          (PP 
+            (IN por)
+            (NP 
+              (NN considerações)
+              (ADJP 
+                (ADJP 
+                  (JJ pragmáticas)
+                )
+                e                (ADJP 
+                  (JJ objetivas)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,31 +1,58 @@
-(S (VP (ADVP (RB Agora))
-                        (VP (VBP podem)
-                              (VB tratar))
-                        (ADVP (RB directamente))
-                        (,)
-                        (_CU_ (PP 
-                                   (IN em)
-                                   (NP 
-                                     (NN contacto)
-                                     (ADJP 
-                                       (JJ telefÃ³nico))))
-                                 (CC ou)
-                                 (PP 
-                                   (IN por)
-                                   (NP 
-                                     (NN fax))))
-                        (,)
-                        (PP (IN com)
-                                (NP (DT o)
-                                       (NN centro)
-                                       (VP 
-                                         (ADVP 
-                                           (RB onde))
-                                         (VP 
-                                           (VBP pretendem))
-                                         (VP 
-                                           (VP 
-                                             (VB passar))
-                                           (NP 
-                                             (NN fÃ©rias))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Agora)
+    )
+    (VP 
+      (VBP podem)
+      (VB tratar)
+    )
+    (ADVP 
+      (RB directamente)
+    )
+    (,)
+    (PP 
+      (PP 
+        (IN em)
+        (NP 
+          (NN contacto)
+          (ADJP 
+            (JJ telefónico)
+          )
+        )
+      )
+      (CC ou)
+      (PP 
+        (IN por)
+        (NP 
+          (NN fax)
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN com)
+      (NP 
+        (DT o)
+        (NN centro)
+        (VP 
+          (ADVP 
+            (RB onde)
+          )
+          (VP 
+            (VBP pretendem)
+          )
+          (VP 
+            (VP 
+              (VB passar)
+            )
+            (NP 
+              (NN férias)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

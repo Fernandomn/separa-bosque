@@ -1,131 +1,202 @@
-(S (_CU_ (VP (ADVP 
-                                  (RB NÃ£o))
-                                (VP (VBP possui))
-                                (ADVP 
-                                  (RB hoje))
-                                (NP 
-                                  (NNP Vendas_Novas))
-                                (NP (NN praÃ§a)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN toiros))))
-                                (,)
-                                (NP (NN razÃ£o)
-                                       (VP 
-                                         (PP 
-                                           (IN por)
-                                           (NP 
-                                             (PRP que)))
-                                         (NP 
-                                           (DT a)
-                                           (NN corrida))
-                                         (VP 
-                                           (VBP aconteceu))
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT uma)
-                                             (NN desmontÃ¡vel)))))
-                                (,))
-                       (CC mas)
-                       (VP (NP 
-                                  (NNP AntÃ³nio_Morais))
-                                (,)
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (DT o)
-                                    (PRP seu)
-                                    (NN livro)
-                                    (Â«)
-                                    (NP 
-                                      (NNP A_PraÃ§a_de_Toiros_do_Campo_Pequeno))
-                                    (Â»)))
-                                (,)
-                                (PP 
-                                  (IN a+)
-                                  (NP 
-                                    (DT o)
-                                    (VP 
-                                      (VP 
-                                        (VB referir-))
-                                      (NP 
-                                        (PRP se))
-                                      (PP 
-                                        (IN a+)
-                                        (NP 
-                                          (DT as)
-                                          (PRP outras)
-                                          (NN praÃ§as)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NN paÃ­s))))))))
-                                (,)
-                                (VP (VBP diz))
-                                (VP 
-                                  (IN que)
-                                  (NP 
-                                    (NNP JosÃ©_ValÃ©rio))
-                                  (VP (VBP construiu))
-                                  (NP 
-                                    (DT uma)
-                                    (NN praÃ§a))
-                                  (PP 
-                                    (IN em)
-                                    (NP 
-                                      (NNP Vendas_Novas)))
-                                  (PP 
-                                    (IN em)
-                                    (NP 
-                                      (CD 1862)))
-                                  (,)
-                                  (VP 
-                                    (VP 
-                                      (VBG tendo))
-                                    (PP 
-                                      (IN em+)
-                                      (NP 
-                                        (PRP ela)))
-                                    (VP 
-                                      (VBN havido))
-                                    (NP 
-                                      (NN festas)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN toiros))))
-                                    (PP 
-                                      (IN atÃ©)
-                                      (ADJP 
-                                        (CD 1875)
-                                        (,)
-                                        (NP 
-                                          (NN ano)
-                                          (VP 
-                                            (PP 
-                                              (IN em)
-                                              (NP 
-                                                (PRP que)))
-                                            (NP 
-                                              (NN soldados)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NNP Escola_PrÃ¡tica_de_Artilharia))))
-                                            (,)
-                                            (PP 
-                                              (IN por)
-                                              (NP 
-                                                (NN descuido)))
-                                            (,)
-                                            (VP 
-                                              (VBP provocaram))
-                                            (NP 
-                                              (DT o)
-                                              (PRP seu)
-                                              (NN incÃªndio)))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (ADVP 
+        (RB Não)
+      )
+      (VP 
+        (VBP possui)
+      )
+      (ADVP 
+        (RB hoje)
+      )
+      (NP 
+        (NNP Vendas_Novas)
+      )
+      (NP 
+        (NN praça)
+        (PP 
+          (IN de)
+          (NP 
+            (NN toiros)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NN razão)
+        (VP 
+          (PP 
+            (IN por)
+            (NP 
+              (PRP que)
+            )
+          )
+          (NP 
+            (DT a)
+            (NN corrida)
+          )
+          (VP 
+            (VBP aconteceu)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT uma)
+              (NN desmontável)
+            )
+          )
+        )
+      )
+      (,)
+    )
+    (CC mas)
+    (VP 
+      (NP 
+        (NNP António_Morais)
+      )
+      (,)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (PRP seu)
+          (NN livro)
+          («)
+          (NP 
+            (NNP A_Praça_de_Toiros_do_Campo_Pequeno)
+          )
+          (»)
+        )
+      )
+      (,)
+      (PP 
+        (IN a+)
+        (NP 
+          (DT o)
+          (VP 
+            (VP 
+              (VB referir-)
+            )
+            (NP 
+              (PRP se)
+            )
+            (PP 
+              (IN a+)
+              (NP 
+                (DT as)
+                (PRP outras)
+                (NN praças)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN país)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VBP diz)
+      )
+      (VP 
+        (IN que)
+        (NP 
+          (NNP José_Valério)
+        )
+        (VP 
+          (VBP construiu)
+        )
+        (NP 
+          (DT uma)
+          (NN praça)
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (NNP Vendas_Novas)
+          )
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (CD 1862)
+          )
+        )
+        (,)
+        (VP 
+          (VP 
+            (VBG tendo)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (PRP ela)
+            )
+          )
+          (VP 
+            (VBN havido)
+          )
+          (NP 
+            (NN festas)
+            (PP 
+              (IN de)
+              (NP 
+                (NN toiros)
+              )
+            )
+          )
+          (PP 
+            (IN até)
+            (ADJP 
+              (CD 1875)
+              (,)
+              (NP 
+                (NN ano)
+                (VP 
+                  (PP 
+                    (IN em)
+                    (NP 
+                      (PRP que)
+                    )
+                  )
+                  (NP 
+                    (NN soldados)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT a)
+                        (NNP Escola_Prática_de_Artilharia)
+                      )
+                    )
+                  )
+                  (,)
+                  (PP 
+                    (IN por)
+                    (NP 
+                      (NN descuido)
+                    )
+                  )
+                  (,)
+                  (VP 
+                    (VBP provocaram)
+                  )
+                  (NP 
+                    (DT o)
+                    (PRP seu)
+                    (NN incêndio)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,52 +1,83 @@
-(S (VP (NP (DT O)
-                                 (NN trabalho)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN publicaÃ§Ã£o)
-                                          (ADJP 
-                                            (JJ inglesa))
-                                          (,)
-                                          (VP 
-                                            (VP 
-                                              (VBN divulgado))
-                                            (PP 
-                                              (IN por+)
-                                              (NP 
-                                                (DT o)
-                                                (Â«)
-                                                (NNP Financial_Times)
-                                                (Â»))))
-                                          (,))))
-                        (VP (VBP indica))
-                        (VP (IN que)
-                                 (VP (VBP hÃ¡))
-                                 (NP 
-                                   (PRP menos)
-                                   (NN preocupaÃ§Ã£o)
-                                   (PP 
-                                     (IN com)
-                                     (NP 
-                                       (NN riscos)
-                                       (_CU_ 
-                                         (ADJP 
-                                           (JJ polÃ­ticos))
-                                         (CC e)
-                                         (ADJP 
-                                           (JJ econÃ´micos)))
-                                       (ADVP 
-                                         (IN do_que)
-                                         (PP 
-                                           (IN com)
-                                           (NP 
-                                             (DT a)
-                                             (NN falta)
-                                             (PP 
-                                               (IN de)
-                                               (_CU_ 
-                                                 (NP 
-                                                   (NN liquidez))
-                                                 (CC e)
-                                                 (NP 
-                                                   (NN diversificaÃ§Ã£o)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN trabalho)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN publicação)
+          (ADJP 
+            (JJ inglesa)
+          )
+          (,)
+          (VP 
+            (VP 
+              (VBN divulgado)
+            )
+            (PP 
+              (IN por+)
+              (NP 
+                (DT o)
+                («)
+                (NNP Financial_Times)
+                (»)
+              )
+            )
+          )
+          (,)
+        )
+      )
+    )
+    (VP 
+      (VBP indica)
+    )
+    (VP 
+      (IN que)
+      (VP 
+        (VBP há)
+      )
+      (NP 
+        (PRP menos)
+        (NN preocupação)
+        (PP 
+          (IN com)
+          (NP 
+            (NN riscos)
+            (ADJP 
+              (ADJP 
+                (JJ políticos)
+              )
+              e              (ADJP 
+                (JJ econômicos)
+              )
+            )
+            (ADVP 
+              (IN do_que)
+              (PP 
+                (IN com)
+                (NP 
+                  (DT a)
+                  (NN falta)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NP 
+                        (NN liquidez)
+                      )
+                      e                      (NP 
+                        (NN diversificação)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

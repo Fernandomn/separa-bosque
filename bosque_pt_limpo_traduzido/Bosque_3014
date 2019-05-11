@@ -1,41 +1,73 @@
-(S (VP (PP (RB Apenas)
-                                 (IN a+)
-                                 (NP (DT o)
-                                        (NN meio-dia)
-                                        (--)
-                                        (NP 
-                                          (CD tr√™s)
-                                          (NN horas)
-                                          (PP 
-                                            (IN ap√≥s)
-                                            (NP 
-                                              (DT o)
-                                              (NN acidente))))
-                                        (--)))
-                        (VP (VBP chegou))
-                        (PP (IN a+)
-                               (NP (DT a)
-                                      (NN esta√ß√£o)
-                                      (NP 
-                                        (NNP Socorro))))
-                        (_CU_ (NP (DT uma)
-                                        (NN carruagem)
-                                        (PP 
-                                          (IN com)
-                                          (NP 
-                                            (NN ferramentas))))
-                                (,)
-                                (NP (NN macacos)
-                                        (ADJP 
-                                          (JJ hidr√°ulicos)))
-                                (CC e)
-                                (NP (ADJP 
-                                          (RB cerca_de)
-                                          (CD vinte))
-                                        (NN funcion√°rios)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NNP Divis√£o_de_Manuten√ß√£o_do_Metro)))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (RB Apenas)
+      (IN a+)
+      (NP 
+        (DT o)
+        (NN meio-dia)
+        (--)
+        (NP 
+          (CD trÍs)
+          (NN horas)
+          (PP 
+            (IN apÛs)
+            (NP 
+              (DT o)
+              (NN acidente)
+            )
+          )
+        )
+        (--)
+      )
+    )
+    (VP 
+      (VBP chegou)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT a)
+        (NN estaÁ„o)
+        (NP 
+          (NNP Socorro)
+        )
+      )
+    )
+    (NP 
+      (NP 
+        (DT uma)
+        (NN carruagem)
+        (PP 
+          (IN com)
+          (NP 
+            (NN ferramentas)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NN macacos)
+        (ADJP 
+          (JJ hidr·ulicos)
+        )
+      )
+      (CC e)
+      (NP 
+        (ADJP 
+          (RB cerca_de)
+          (CD vinte)
+        )
+        (NN funcion·rios)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP Divis„o_de_ManutenÁ„o_do_Metro)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

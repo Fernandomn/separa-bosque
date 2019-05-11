@@ -1,31 +1,52 @@
-(S (VP (NP (PRP Todos)
-                                 (,)
-                                 (_CU_ 
-                                   (ADVP 
-                                     (RB contra))
-                                   (CC ou)
-                                   (ADVP 
-                                     (RB a_favor)))
-                                 (,))
-                        (VP (VBP partem))
-                        (PP (IN de+)
-                                (NP (DT o)
-                                       (NN princÃ­pio)
-                                       (PP 
-                                         (IN de)
-                                         (VP 
-                                           (IN que)
-                                           (NP 
-                                             (PRP aquele))
-                                           (VP 
-                                             (VBP foi))
-                                           (NP 
-                                             (DT um)
-                                             (NN gesto)
-                                             (PP 
-                                               (IN de)
-                                               (Â«)
-                                               (NP 
-                                                 (NN protesto))
-                                               (Â»)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Todos)
+      (,)
+      (ADVP 
+        (ADVP 
+          (RB contra)
+        )
+        ou        (ADVP 
+          (RB a_favor)
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP partem)
+    )
+    (PP 
+      (IN de+)
+      (NP 
+        (DT o)
+        (NN princípio)
+        (PP 
+          (IN de)
+          (VP 
+            (IN que)
+            (NP 
+              (PRP aquele)
+            )
+            (VP 
+              (VBP foi)
+            )
+            (NP 
+              (DT um)
+              (NN gesto)
+              (PP 
+                (IN de)
+                («)
+                (NP 
+                  (NN protesto)
+                )
+                (»)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

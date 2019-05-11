@@ -1,37 +1,66 @@
-(S (VP (NP (NN FÃ£)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN tÃ©cnico)
-                                          (ADJP 
-                                            (JJ sÃ£o-paulino))
-                                          (NP 
-                                            (NNP TelÃª_Santana)))))
-                        ({)
-                        (VP (Â«)
-                                 (VP (VBP Ã©))
-                                 (ADJP 
-                                   (RB muito)
-                                   (JJ modesto))
-                                 (Â»))
-                        (})
-                        (,)
-                        (NP (NNP Bianchi))
-                        (VP (VBP vÃª))
-                        (NP (DT o)
-                                (NN time)
-                                (ADJP 
-                                  (JJ paulista)))
-                        (ADJP (RB tÃ£o)
-                                   (JJ forte)
-                                   (ADVP 
-                                     (RB como)
-                                     (PP 
-                                       (IN em)
-                                       (_CU_ 
-                                         (NP 
-                                           (CD 1992))
-                                         (CC e)
-                                         (ADJP 
-                                           (CD 93))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Fã)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN técnico)
+          (ADJP 
+            (JJ são-paulino)
+          )
+          (NP 
+            (NNP Telê_Santana)
+          )
+        )
+      )
+    )
+    ({)
+    (VP 
+      («)
+      (VP 
+        (VBP é)
+      )
+      (ADJP 
+        (RB muito)
+        (JJ modesto)
+      )
+      (»)
+    )
+    (})
+    (,)
+    (NP 
+      (NNP Bianchi)
+    )
+    (VP 
+      (VBP vê)
+    )
+    (NP 
+      (DT o)
+      (NN time)
+      (ADJP 
+        (JJ paulista)
+      )
+    )
+    (ADJP 
+      (RB tão)
+      (JJ forte)
+      (ADVP 
+        (RB como)
+        (PP 
+          (IN em)
+          (UCP 
+            (NP 
+              (CD 1992)
+            )
+            e            (ADJP 
+              (CD 93)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

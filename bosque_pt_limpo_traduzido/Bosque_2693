@@ -1,40 +1,66 @@
-(S (VP (NP (DT O)
-                                 (NN acordo))
-                        (VP (VBP inclui))
-                        (_CU_ (NP (DT um)
-                                        (JJ maior)
-                                        (NN aperto)
-                                        (ADJP 
-                                          (JJ fiscal)))
-                                (CC e)
-                                (NP (RB logo)
-                                        (DT a)
-                                        (NN diminuiÃ§Ã£o)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT os)
-                                              (NN gastos)))
-                                          (CC e)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN actividade)))
-                                          (CC e)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN oferta)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT os)
-                                                  (NN serviÃ§os)
-                                                  (PP 
-                                                    (IN de)
-                                                    (NP 
-                                                      (NN infra-estruturas))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN acordo)
+    )
+    (VP 
+      (VBP inclui)
+    )
+    (NP 
+      (NP 
+        (DT um)
+        (JJ maior)
+        (NN aperto)
+        (ADJP 
+          (JJ fiscal)
+        )
+      )
+      (CC e)
+      (NP 
+        (RB logo)
+        (DT a)
+        (NN diminuição)
+        (PP 
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (NN gastos)
+            )
+          )
+          (CC e)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN actividade)
+            )
+          )
+          (CC e)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN oferta)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NN serviços)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN infra-estruturas)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

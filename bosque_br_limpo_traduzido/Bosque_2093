@@ -1,27 +1,45 @@
-(S (VP (PP (IN Entre)
-                                 (NP (DT os)
-                                        (NN clips)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (NP 
-                                            (DT o)
-                                            (NN programa))
-                                          (VP 
-                                            (VBP exibe)))))
-                        (VP (VBP estÃ£o))
-                        (_CU_ (Â«)
-                                 (NP 
-                                   (NNP Blitzkrieg_Bop))
-                                 (Â»)
-                                 (,)
-                                 (Â«)
-                                 (NP 
-                                   (NNP I_Wanna_Live))
-                                 (Â»)
-                                 (CC e)
-                                 (Â«)
-                                 (NP 
-                                   (NNP Poison_Heart))
-                                 (Â»))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Entre)
+      (NP 
+        (DT os)
+        (NN clips)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (NP 
+            (DT o)
+            (NN programa)
+          )
+          (VP 
+            (VBP exibe)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP estão)
+    )
+    (UCP 
+      («)
+      (NP 
+        (NNP Blitzkrieg_Bop)
+      )
+      (»)
+      (,)
+      («)
+      (NP 
+        (NNP I_Wanna_Live)
+      )
+      (»)
+      e      («)
+      (NP 
+        (NNP Poison_Heart)
+      )
+      (»)
+    )
+    (.)
+  )
+)

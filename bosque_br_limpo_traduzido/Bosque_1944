@@ -1,61 +1,91 @@
-(S (VP (VP (VBP Subiu))
-                        (PP (IN a+)
-                               (NP (DT o)
-                                      (NN palco)))
-                        (PP (IN com)
-                                 (_CU_ (NP 
-                                          (DT o)
-                                          (NN candidato)
-                                          (PP 
-                                            (IN a)
-                                            (NP 
-                                              (NN vice)
-                                              (,)
-                                              (NP 
-                                                (NNP Aloizio_Mercadante))
-                                              (,))))
-                                        (CC e)
-                                        (NP 
-                                          (DT os)
-                                          (NN candidatos)
-                                          (_CU_ 
-                                            (PP 
-                                              (IN a+)
-                                              (NP 
-                                                (DT o)
-                                                (NN governo)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NN Estado)
-                                                    (,)
-                                                    (NP 
-                                                      (NNP Jos√©_Dirceu)
-                                                      ({)
-                                                      (NP 
-                                                        (NNP PT))
-                                                      (}))
-                                                    (,)))))
-                                            (CC e)
-                                            (PP 
-                                              (IN a+)
-                                              (NP 
-                                                (DT o)
-                                                (NN Senado)
-                                                (,)
-                                                (_CU_ 
-                                                  (NP 
-                                                    (NNP Luiza_Erundina)
-                                                    ({)
-                                                    (NP 
-                                                      (NNP PT))
-                                                    (}))
-                                                  (CC e)
-                                                  (NP 
-                                                    (NNP Jo√£o_Hermann)
-                                                    ({)
-                                                    (NP 
-                                                      (NNP PPS))
-                                                    (})))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Subiu)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT o)
+        (NN palco)
+      )
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (NP 
+          (DT o)
+          (NN candidato)
+          (PP 
+            (IN a)
+            (NP 
+              (NN vice)
+              (,)
+              (NP 
+                (NNP Aloizio_Mercadante)
+              )
+              (,)
+            )
+          )
+        )
+        e        (NP 
+          (DT os)
+          (NN candidatos)
+          (PP 
+            (PP 
+              (IN a+)
+              (NP 
+                (DT o)
+                (NN governo)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN Estado)
+                    (,)
+                    (NP 
+                      (NNP JosÈ_Dirceu)
+                      ({)
+                      (NP 
+                        (NNP PT)
+                      )
+                      (})
+                    )
+                    (,)
+                  )
+                )
+              )
+            )
+            e            (PP 
+              (IN a+)
+              (NP 
+                (DT o)
+                (NN Senado)
+                (,)
+                (NP 
+                  (NP 
+                    (NNP Luiza_Erundina)
+                    ({)
+                    (NP 
+                      (NNP PT)
+                    )
+                    (})
+                  )
+                  e                  (NP 
+                    (NNP Jo„o_Hermann)
+                    ({)
+                    (NP 
+                      (NNP PPS)
+                    )
+                    (})
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

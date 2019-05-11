@@ -1,36 +1,67 @@
-(S (VP (NP (DT O)
-                                 (NNP XVIII_Festival_Internacional_de_MÃºsica_da_PÃ³voa_de_Varzim))
-                        (VP (VBP abre))
-                        (ADVP (RB hoje))
-                        (NP (DT a)
-                                (PRP sua)
-                                (NN programaÃ§Ã£o))
-                        (PP (IN com)
-                                 (NP (DT um)
-                                        (NN concerto)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN por+)
-                                            (NP 
-                                              (DT o)
-                                              (NNP Coral_de_Letras_da_Universidade_do_Porto)))
-                                          (CC e)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP Orquestra_Esproarte))))))
-                        (,)
-                        (PP (IN a+)
-                                 (NP (DT as)
-                                        (NN 21h30)))
-                        (,)
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NNP Igreja_Matriz)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN cidade)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NNP XVIII_Festival_Internacional_de_Música_da_Póvoa_de_Varzim)
+    )
+    (VP 
+      (VBP abre)
+    )
+    (ADVP 
+      (RB hoje)
+    )
+    (NP 
+      (DT a)
+      (PRP sua)
+      (NN programação)
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (DT um)
+        (NN concerto)
+        (PP 
+          (PP 
+            (IN por+)
+            (NP 
+              (DT o)
+              (NNP Coral_de_Letras_da_Universidade_do_Porto)
+            )
+          )
+          (CC e)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Orquestra_Esproarte)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN a+)
+      (NP 
+        (DT as)
+        (NN 21h30)
+      )
+    )
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NNP Igreja_Matriz)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN cidade)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

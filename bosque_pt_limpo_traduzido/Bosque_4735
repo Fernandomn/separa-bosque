@@ -1,81 +1,135 @@
-(S (VP (PP (IN A+)
-                                 (NP (DT o)
-                                        (NN falar)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NNP Portugal)))))
-                        (,)
-                        (VP (VBP come√ßa))
-                        (ADVP (RB subitamente))
-                        (VP (IN a)
-                               (VB trautear))
-                        (NP (DT um)
-                                (NN fado)
-                                (PP (IN de)
-                                       (NP 
-                                         (NNP Am√°lia)))
-                                (,)
-                                (PP 
-                                  (IN de)
-                                  (NP 
-                                    (DT um)
-                                    (NN disco)
-                                    (_CU_ 
-                                      (VP 
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP comprou))
-                                          (PP 
-                                            (IN h√°)
-                                            (NP 
-                                              (PRP muitos)
-                                              (NN anos))))
-                                        (,)
-                                        (ADVP 
-                                          (RB n√£o))
-                                        (VP 
-                                          (VBP sabe))
-                                        (VP 
-                                          (_CU_ 
-                                            (ADVP 
-                                              (RB onde))
-                                            (CC nem)
-                                            (ADVP 
-                                              (RB porqu√™)))))
-                                      (,)
-                                      (CC e)
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP gosta))
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de)
-                                            (VP 
-                                              (_CU_ 
-                                                (VB ouvir)
-                                                (CC e))))
-                                          (PP 
-                                            (IN de))
-                                          (_CU_ 
-                                            (VP 
-                                              (_CU_ 
-                                                (VB cantar))
-                                              (PP 
-                                                (IN sem)
-                                                (VP 
-                                                  (VP 
-                                                    (VB saber))
-                                                  (VP 
-                                                    (NP 
-                                                      (PRP que)
-                                                      (NN palavras))
-                                                    (VP 
-                                                      (VBP s√£o))
-                                                    (NP 
-                                                      (PRP aquelas)))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN A+)
+      (NP 
+        (DT o)
+        (NN falar)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Portugal)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP comeÁa)
+    )
+    (ADVP 
+      (RB subitamente)
+    )
+    (VP 
+      (IN a)
+      (VB trautear)
+    )
+    (NP 
+      (DT um)
+      (NN fado)
+      (PP 
+        (IN de)
+        (NP 
+          (NNP Am·lia)
+        )
+      )
+      (,)
+      (PP 
+        (IN de)
+        (NP 
+          (DT um)
+          (NN disco)
+          (VP 
+            (VP 
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP comprou)
+                )
+                (PP 
+                  (IN h·)
+                  (NP 
+                    (PRP muitos)
+                    (NN anos)
+                  )
+                )
+              )
+              (,)
+              (ADVP 
+                (RB n„o)
+              )
+              (VP 
+                (VBP sabe)
+              )
+              (VP 
+                (ADVP 
+                  (ADVP 
+                    (RB onde)
+                  )
+                  (CC nem)
+                  (ADVP 
+                    (RB porquÍ)
+                  )
+                )
+              )
+            )
+            (,)
+            (CC e)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP gosta)
+              )
+              (UCP 
+                (PP 
+                  (IN de)
+                  (VP 
+                    (VB 
+                      (VB ouvir)
+                      (CC e)
+                    )
+                  )
+                )
+                (PP 
+                  (IN de)
+                )
+                (VP 
+                  (VP 
+                    (VB 
+                      (VB cantar)
+                    )
+                    (PP 
+                      (IN sem)
+                      (VP 
+                        (VP 
+                          (VB saber)
+                        )
+                        (VP 
+                          (NP 
+                            (PRP que)
+                            (NN palavras)
+                          )
+                          (VP 
+                            (VBP s„o)
+                          )
+                          (NP 
+                            (PRP aquelas)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,8 +1,21 @@
-(S (VP (NP (NN Congresso))
-                        (VP (VBP reÃºne))
-                        (NP (CD 127)
-                                (_CU_ (NP 
-                                        (NN seminÃ¡rios))
-                                      (CC e)
-                                      (NP 
-                                        (NN palestras))))))
+(S 
+  (VP 
+    (NP 
+      (NN Congresso)
+    )
+    (VP 
+      (VBP reúne)
+    )
+    (NP 
+      (CD 127)
+      (NP 
+        (NP 
+          (NN seminários)
+        )
+        e        (NP 
+          (NN palestras)
+        )
+      )
+    )
+  )
+)

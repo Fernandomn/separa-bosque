@@ -1,41 +1,70 @@
-(S (VP (NP (NNP Paulo_SÃ¡))
-                       (VP (VBP pedia))
-                       (ADVP (RB ainda))
-                       (NP (DT uma)
-                               (NN acareaÃ§Ã£o)
-                               (PP (IN entre)
-                                      (NP 
-                                        (_CU_ 
-                                          (NP 
-                                            (DT o)
-                                            (NN industrial)
-                                            (ADJP 
-                                              (JJ portuense))
-                                            (NP 
-                                              (NNP Manuel_Macedo)))
-                                          (,)
-                                          (NP 
-                                            (NNP Ramiro_Moreira))
-                                          (CC e)
-                                          (NP 
-                                            (DT o)
-                                            (NN tenente)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT a)
-                                                (NNP Marinha)))
-                                            (NP 
-                                              (NNP Pedro_Menezes))))
-                                        (,)
-                                        (ADVP 
-                                          (NP 
-                                            (PRP todos))
-                                          (NP 
-                                            (NN testemunhas)
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (PRP este)
-                                                (NN caso))))))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Paulo_Sá)
+    )
+    (VP 
+      (VBP pedia)
+    )
+    (ADVP 
+      (RB ainda)
+    )
+    (NP 
+      (DT uma)
+      (NN acareação)
+      (PP 
+        (IN entre)
+        (NP 
+          (NP 
+            (NP 
+              (DT o)
+              (NN industrial)
+              (ADJP 
+                (JJ portuense)
+              )
+              (NP 
+                (NNP Manuel_Macedo)
+              )
+            )
+            (,)
+            (NP 
+              (NNP Ramiro_Moreira)
+            )
+            (CC e)
+            (NP 
+              (DT o)
+              (NN tenente)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NNP Marinha)
+                )
+              )
+              (NP 
+                (NNP Pedro_Menezes)
+              )
+            )
+          )
+          (,)
+          (ADVP 
+            (NP 
+              (PRP todos)
+            )
+            (NP 
+              (NN testemunhas)
+              (PP 
+                (IN em+)
+                (NP 
+                  (PRP este)
+                  (NN caso)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

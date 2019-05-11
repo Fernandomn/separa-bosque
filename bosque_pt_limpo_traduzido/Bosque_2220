@@ -1,68 +1,108 @@
-(S (VP (VP (VBP Negou))
-                        (ADVP (RB ainda))
-                        (_CU_ (VP 
-                                  (IN que)
-                                  (NP 
-                                    (DT as)
-                                    (PRP suas)
-                                    (NN diverg√™ncias)
-                                    (PP 
-                                      (IN com)
-                                      (NP 
-                                        (NNP Pinto_Machado))))
-                                  (VP (VBP resultem))
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (DT um)
-                                      (NN conflito)
-                                      (ADJP 
-                                        (JJ pol√≠tico-partid√°rio))
-                                      (PP 
-                                        (IN em+)
-                                        (NP 
-                                          (DT o)
-                                          (NN munic√≠pio)
-                                          (ADJP 
-                                            (JJ lisboeta))
-                                          ({)
-                                          (VP 
-                                            (ADVP 
-                                              (RB onde))
-                                            (NP 
-                                              (DT o)
-                                              (NNP PP))
-                                            (VP 
-                                              (VBP est√°))
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT a)
-                                                (NN oposi√ß√£o))))
-                                          (}))))))
-                                (VP 
-                                  (NP 
-                                    (PRP que))
-                                  (VP (VBP tenha)
-                                        (VBN sido)
-                                        (VBN transposto))
-                                  (PP 
-                                    (IN para)
-                                    (NP 
-                                      (DT a)
-                                      (NNP UCCLA)))
-                                  (,)
-                                  (VP 
-                                    (NP 
-                                      (PRP o_que))
-                                    (VP 
-                                      (VBP foi)
-                                      (VBN confirmado))
-                                    (PP 
-                                      (IN por+)
-                                      (NP 
-                                        (DT o)
-                                        (NN secret√°rio-geral)
-                                        (ADJP 
-                                          (JJ demission√°rio)))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Negou)
+    )
+    (ADVP 
+      (RB ainda)
+    )
+    (VP 
+      (VP 
+        (IN que)
+        (NP 
+          (DT as)
+          (PRP suas)
+          (NN divergÍncias)
+          (PP 
+            (IN com)
+            (NP 
+              (NNP Pinto_Machado)
+            )
+          )
+        )
+        (VP 
+          (VBP resultem)
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (DT um)
+            (NN conflito)
+            (ADJP 
+              (JJ polÌtico-partid·rio)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NN municÌpio)
+                (ADJP 
+                  (JJ lisboeta)
+                )
+                ({)
+                (VP 
+                  (ADVP 
+                    (RB onde)
+                  )
+                  (NP 
+                    (DT o)
+                    (NNP PP)
+                  )
+                  (VP 
+                    (VBP est·)
+                  )
+                  (PP 
+                    (IN em+)
+                    (NP 
+                      (DT a)
+                      (NN oposiÁ„o)
+                    )
+                  )
+                )
+                (})
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP tenha)
+          (VBN sido)
+          (VBN transposto)
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (DT a)
+            (NNP UCCLA)
+          )
+        )
+        (,)
+        (VP 
+          (NP 
+            (PRP o_que)
+          )
+          (VP 
+            (VBP foi)
+            (VBN confirmado)
+          )
+          (PP 
+            (IN por+)
+            (NP 
+              (DT o)
+              (NN secret·rio-geral)
+              (ADJP 
+                (JJ demission·rio)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,34 +1,61 @@
-(S (_CU_ (VP (ADVP 
-                                   (RB Entrementes)))
-                       ({)
-                       (VP (VP (VB resistir))
-                                (NP 
-                                  (CD trÃªs)
-                                  (NN vezes))
-                                (NP 
-                                  (PRP quem))
-                                (VP (VBP hÃ¡)
-                                       (IN de)))
-                       (?)
-                       (})
-                       (,)
-                       (VP (NP 
-                                   (DT o)
-                                   (NN governo)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NNP FHC))))
-                                 (VP (VBP ameaÃ§a))
-                                 (VP 
-                                   (VP 
-                                     (VB reduzir))
-                                   (NP 
-                                     (DT as)
-                                     (NN aposentadorias))
-                                   (PP 
-                                     (IN para)
-                                     (NP 
-                                       (CD cinco)
-                                       (NN mÃ­nimos)))))
-                       (.)))
+(S 
+  (UCP 
+    (VP 
+      (ADVP 
+        (RB Entrementes)
+      )
+    )
+    ({)
+    (VP 
+      (VP 
+        (VB resistir)
+      )
+      (NP 
+        (CD três)
+        (NN vezes)
+      )
+      (NP 
+        (PRP quem)
+      )
+      (VP 
+        (VBP há)
+        (IN de)
+      )
+    )
+    (?)
+    (})
+    (,)
+    (VP 
+      (NP 
+        (DT o)
+        (NN governo)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP FHC)
+          )
+        )
+      )
+      (VP 
+        (VBP ameaça)
+      )
+      (VP 
+        (VP 
+          (VB reduzir)
+        )
+        (NP 
+          (DT as)
+          (NN aposentadorias)
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (CD cinco)
+            (NN mínimos)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

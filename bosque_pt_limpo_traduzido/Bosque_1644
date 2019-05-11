@@ -1,44 +1,70 @@
-(S (VP (NP (DT A)
-                                 (NNP Food_and_Drug_Administration)
-                                 ({)
-                                 (NP 
-                                   (NNP FDA))
-                                 (})
-                                 (--)
-                                 (NP 
-                                   (DT a)
-                                   (NN agÃªncia)
-                                   (ADJP 
-                                     (JJ americana))
-                                   (VP 
-                                     (NP 
-                                       (PRP que))
-                                     (VP 
-                                       (VBP fiscaliza))
-                                     (_CU_ 
-                                       (NP 
-                                         (DT os)
-                                         (NN medicamentos))
-                                       (CC e)
-                                       (NP 
-                                         (DT os)
-                                         (NN alimentos)))))
-                                 (--))
-                        (VP (VBP pode)
-                              (VB passar)
-                              (IN a)
-                              (VB regulamentar))
-                        (NP (DT o)
-                                (NN tabaco))
-                        (,)
-                        (PP (IN em_virtude_de+)
-                                 (NP (DT os)
-                                        (NN efeitos)
-                                        (ADJP 
-                                          (JJ biolÃ³gicos))
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (PRP esta)
-                                            (NN substÃ¢ncia)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NNP Food_and_Drug_Administration)
+      ({)
+      (NP 
+        (NNP FDA)
+      )
+      (})
+      (--)
+      (NP 
+        (DT a)
+        (NN agência)
+        (ADJP 
+          (JJ americana)
+        )
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP fiscaliza)
+          )
+          (NP 
+            (NP 
+              (DT os)
+              (NN medicamentos)
+            )
+            (CC e)
+            (NP 
+              (DT os)
+              (NN alimentos)
+            )
+          )
+        )
+      )
+      (--)
+    )
+    (VP 
+      (VBP pode)
+      (VB passar)
+      (IN a)
+      (VB regulamentar)
+    )
+    (NP 
+      (DT o)
+      (NN tabaco)
+    )
+    (,)
+    (PP 
+      (IN em_virtude_de+)
+      (NP 
+        (DT os)
+        (NN efeitos)
+        (ADJP 
+          (JJ biológicos)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (PRP esta)
+            (NN substância)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

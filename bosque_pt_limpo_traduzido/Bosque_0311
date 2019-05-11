@@ -1,32 +1,58 @@
-(S (VP (VP (VP 
-                                         (VBN Editado))
-                                       (PP 
-                                         (IN por+)
-                                         (NP 
-                                           (DT a)
-                                           (NNP ComissÃ£o_para_a_Igualdade_e_para_os_Direitos_da_Mulher))))
-                       (,)
-                       (NP (PRP este)
-                                (NN trabalho))
-                       (VP (VBP pretende))
-                       (VP (VP (VB contextualizar))
-                                (NP (DT a)
-                                        (Â«)
-                                        (NN queda)
-                                        (_CU_ 
-                                          (ADJP 
-                                            (JJ recente))
-                                          (CC e)
-                                          (ADJP 
-                                            (JJ vertiginosa)))
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN fecundidade)))
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (NNP Portugal)))
-                                        (Â»)))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBN Editado)
+      )
+      (PP 
+        (IN por+)
+        (NP 
+          (DT a)
+          (NNP Comissão_para_a_Igualdade_e_para_os_Direitos_da_Mulher)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (PRP este)
+      (NN trabalho)
+    )
+    (VP 
+      (VBP pretende)
+    )
+    (VP 
+      (VP 
+        (VB contextualizar)
+      )
+      (NP 
+        (DT a)
+        («)
+        (NN queda)
+        (ADJP 
+          (ADJP 
+            (JJ recente)
+          )
+          (CC e)
+          (ADJP 
+            (JJ vertiginosa)
+          )
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN fecundidade)
+          )
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (NNP Portugal)
+          )
+        )
+        (»)
+      )
+    )
+    (.)
+  )
+)

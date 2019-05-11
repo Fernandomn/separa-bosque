@@ -1,27 +1,50 @@
-(S (VP (PP (IN Por_entre)
-                                (NP (NN crÃ­ticas)
-                                       (PP 
-                                         (IN a+)
-                                         (NP 
-                                           (DT a)
-                                           (NN falta)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN vontade)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT os)
-                                                   (NN polÃ­ticos)
-                                                   (ADJP 
-                                                     (JJ franceses))))))))))
-                       (,)
-                       (VP (VBP faz))
-                       (NP (PRP algumas)
-                               (_CU_ (NP 
-                                       (NN comparaÃ§Ãµes))
-                                     (CC e)
-                                     (NP 
-                                       (NN previsÃµes))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Por_entre)
+      (NP 
+        (NN críticas)
+        (PP 
+          (IN a+)
+          (NP 
+            (DT a)
+            (NN falta)
+            (PP 
+              (IN de)
+              (NP 
+                (NN vontade)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT os)
+                    (NN políticos)
+                    (ADJP 
+                      (JJ franceses)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP faz)
+    )
+    (NP 
+      (PRP algumas)
+      (NP 
+        (NP 
+          (NN comparações)
+        )
+        (CC e)
+        (NP 
+          (NN previsões)
+        )
+      )
+    )
+    (.)
+  )
+)

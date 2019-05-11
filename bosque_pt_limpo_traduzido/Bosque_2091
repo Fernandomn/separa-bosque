@@ -1,52 +1,88 @@
-(S (VP (NP (DT O)
-                                 (NNP Decreto_regulamentar_19/19_{B}))
-                        (VP (VBP descobriu))
-                        (VP (IN que)
-                                 (_CU_ 
-                                   (NP 
-                                     (DT a)
-                                     (NN factura))
-                                   (CC e)
-                                   (NP 
-                                     (DT a)
-                                     (NN guia)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN remessa)))))
-                                 (VP (VBP permitem))
-                                 (VP 
-                                   (VP 
-                                     (VB controlar))
-                                   (NP 
-                                     (DT o)
-                                     (JJ efectivo)
-                                     (NN carÃ¡cter)
-                                     (,)
-                                     (_CU_ 
-                                       (NP 
-                                         (NN pÃºblico))
-                                       (CC ou)
-                                       (NP 
-                                         (NN particular)))
-                                     (,)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN transporte))))))
-                        (,)
-                        (VP (PP 
-                                  (IN por+)
-                                  (NP 
-                                    (PRP o_que)))
-                                (VP (VBP acabou))
-                                (PP (IN com)
-                                        (NP 
-                                          (DT a)
-                                          (NN guia)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN transporte))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NNP Decreto_regulamentar_19/19_{B})
+    )
+    (VP 
+      (VBP descobriu)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (NP 
+          (DT a)
+          (NN factura)
+        )
+        (CC e)
+        (NP 
+          (DT a)
+          (NN guia)
+          (PP 
+            (IN de)
+            (NP 
+              (NN remessa)
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP permitem)
+      )
+      (VP 
+        (VP 
+          (VB controlar)
+        )
+        (NP 
+          (DT o)
+          (JJ efectivo)
+          (NN carácter)
+          (,)
+          (NP 
+            (NP 
+              (NN público)
+            )
+            (CC ou)
+            (NP 
+              (NN particular)
+            )
+          )
+          (,)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN transporte)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (PP 
+        (IN por+)
+        (NP 
+          (PRP o_que)
+        )
+      )
+      (VP 
+        (VBP acabou)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (DT a)
+          (NN guia)
+          (PP 
+            (IN de)
+            (NP 
+              (NN transporte)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

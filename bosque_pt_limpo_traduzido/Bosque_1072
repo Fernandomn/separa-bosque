@@ -1,121 +1,185 @@
-(S (VP (NP (DT Os)
-                                 (PRP outros)
-                                 (NN operadores))
-                        (VP (VBP sÃ£o))
-                        (_CU_ (NP (DT os)
-                                       (NP 
-                                         (NN membros)
-                                         (ADJP 
-                                           (JJ negociadores)))
-                                       ({)
-                                       (VP 
-                                         (VP 
-                                           (VBP intervÃªm))
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT a)
-                                             (NN negociaÃ§Ã£o)
-                                             (PP 
-                                               (IN em)
-                                               (NP 
-                                                 (NN bolsa)))))
-                                         (,)
-                                         (VP 
-                                           (VP 
-                                             (VBG introduzindo))
-                                           (ADVP 
-                                             (RB directamente))
-                                           (PP 
-                                             (IN em+)
-                                             (NP 
-                                               (DT o)
-                                               (NN sistema)))
-                                           (NP 
-                                             (NN ofertas)
-                                             (_CU_ 
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (NN compra)))
-                                               (CC ou)
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (NN venda)))))))
-                                       (}))
-                               (CC e)
-                               (NP (DT os)
-                                       (NN membros)
-                                       (ADJP 
-                                         (JJ compensadores))
-                                       (,)
-                                       (VP 
-                                         (NP 
-                                           (PRP que))
-                                         (PP 
-                                           (IN alÃ©m_de+)
-                                           (NP 
-                                             (DT as)
-                                             (NN funÃ§Ãµes)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT os)
-                                                 (JJ anteriores)))))
-                                         (,)
-                                         (VP 
-                                           (VBP participam))
-                                         (,)
-                                         (ADVP 
-                                           (RB designadamente))
-                                         (,)
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT os)
-                                             (NN procedimentos)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NN liquidaÃ§Ã£o)
-                                                 (PP 
-                                                   (IN de)
-                                                   (NP 
-                                                     (NN contratos)
-                                                     (_CU_ 
-                                                       (PP 
-                                                         (IN em+)
-                                                         (NP 
-                                                           (DT as)
-                                                           (NN datas)
-                                                           (PP 
-                                                             (IN de)
-                                                             (NP 
-                                                               (NN vencimento)))))
-                                                       (CC e)
-                                                       (PP 
-                                                         (IN em+)
-                                                         (NP 
-                                                           (DT o)
-                                                           (NN processo)
-                                                           (PP 
-                                                             (IN de)
-                                                             (NP 
-                                                               (_CU_ 
-                                                                 (NP 
-                                                                   (NN constituiÃ§Ã£o))
-                                                                 (,)
-                                                                 (NP 
-                                                                   (NN substituiÃ§Ã£o))
-                                                                 (,)
-                                                                 (NP 
-                                                                   (NN reduÃ§Ã£o))
-                                                                 (CC e)
-                                                                 (NP 
-                                                                   (NN libertaÃ§Ã£o)))
-                                                               (PP 
-                                                                 (IN de)
-                                                                 (NP 
-                                                                   (NN garantias)))))))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (PRP outros)
+      (NN operadores)
+    )
+    (VP 
+      (VBP são)
+    )
+    (NP 
+      (NP 
+        (DT os)
+        (NP 
+          (NN membros)
+          (ADJP 
+            (JJ negociadores)
+          )
+        )
+        ({)
+        (VP 
+          (VP 
+            (VBP intervêm)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN negociação)
+              (PP 
+                (IN em)
+                (NP 
+                  (NN bolsa)
+                )
+              )
+            )
+          )
+          (,)
+          (VP 
+            (VP 
+              (VBG introduzindo)
+            )
+            (ADVP 
+              (RB directamente)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NN sistema)
+              )
+            )
+            (NP 
+              (NN ofertas)
+              (PP 
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN compra)
+                  )
+                )
+                (CC ou)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN venda)
+                  )
+                )
+              )
+            )
+          )
+        )
+        (})
+      )
+      (CC e)
+      (NP 
+        (DT os)
+        (NN membros)
+        (ADJP 
+          (JJ compensadores)
+        )
+        (,)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (PP 
+            (IN além_de+)
+            (NP 
+              (DT as)
+              (NN funções)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (JJ anteriores)
+                )
+              )
+            )
+          )
+          (,)
+          (VP 
+            (VBP participam)
+          )
+          (,)
+          (ADVP 
+            (RB designadamente)
+          )
+          (,)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT os)
+              (NN procedimentos)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN liquidação)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN contratos)
+                      (PP 
+                        (PP 
+                          (IN em+)
+                          (NP 
+                            (DT as)
+                            (NN datas)
+                            (PP 
+                              (IN de)
+                              (NP 
+                                (NN vencimento)
+                              )
+                            )
+                          )
+                        )
+                        (CC e)
+                        (PP 
+                          (IN em+)
+                          (NP 
+                            (DT o)
+                            (NN processo)
+                            (PP 
+                              (IN de)
+                              (NP 
+                                (NP 
+                                  (NP 
+                                    (NN constituição)
+                                  )
+                                  (,)
+                                  (NP 
+                                    (NN substituição)
+                                  )
+                                  (,)
+                                  (NP 
+                                    (NN redução)
+                                  )
+                                  (CC e)
+                                  (NP 
+                                    (NN libertação)
+                                  )
+                                )
+                                (PP 
+                                  (IN de)
+                                  (NP 
+                                    (NN garantias)
+                                  )
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

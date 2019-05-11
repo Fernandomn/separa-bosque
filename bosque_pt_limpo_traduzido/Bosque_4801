@@ -1,89 +1,139 @@
-(S (VP (_CU_ (NP 
-                                   (NNP Malkovich)
-                                   ({)
-                                   (NP 
-                                     (NNP Michael))
-                                   (}))
-                                 (CC e)
-                                 (NP 
-                                   (NNP Deneuve)
-                                   ({)
-                                   (NP 
-                                     (NNP H√©l√®ne))
-                                   (})))
-                        (VP (VBP s√£o))
-                        (NP (DT um)
-                               (NN casal)
-                               (--)
-                               (_CU_ 
-                                 (ADVP 
-                                   (NP 
-                                     (PRP ele))
-                                   (ADJP 
-                                     (JJ americano)))
-                                 (,)
-                                 (ADVP 
-                                   (NP 
-                                     (PRP ela))
-                                   (ADJP 
-                                     (JJ francesa))))
-                               (--)
-                               (VP (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP vem))
-                                       (PP 
-                                         (IN a)
-                                         (NP 
-                                           (NNP Portugal)))
-                                       (VP 
-                                         (IN porque)
-                                         (NP 
-                                           (NNP Michael)
-                                           (,)
-                                           (NP 
-                                             (NN historiador))
-                                           (,))
-                                         (VP 
-                                           (VBP julga))
-                                         (VP 
-                                           (IN que)
-                                           (VP 
-                                             (VBP pode)
-                                             (VB encontrar))
-                                           (PP 
-                                             (IN em+)
-                                             (NP 
-                                               (DT a)
-                                               (NNP Arr√°bida)))
-                                           (NP 
-                                             (NN documentos)
-                                             (VP 
-                                               (NP 
-                                                 (PRP que))
-                                               (NP 
-                                                 (PRP lhe))
-                                               (VP 
-                                                 (VBP comprovem))
-                                               (NP 
-                                                 (DT uma)
-                                                 (NN tese)
-                                                 (VP 
-                                                   (PP 
-                                                     (IN segundo)
-                                                     (NP 
-                                                       (PRP a_qual)))
-                                                   (NP 
-                                                     (NNP Shakespeare))
-                                                   (VP 
-                                                     (VBP era))
-                                                   (NP 
-                                                     (DT um)
-                                                     (NN judeu)
-                                                     (PP 
-                                                       (IN de)
-                                                       (NP 
-                                                         (NN origem)
-                                                         (ADJP 
-                                                           (JJ espanhola)))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (NNP Malkovich)
+        ({)
+        (NP 
+          (NNP Michael)
+        )
+        (})
+      )
+      (CC e)
+      (NP 
+        (NNP Deneuve)
+        ({)
+        (NP 
+          (NNP HÈlËne)
+        )
+        (})
+      )
+    )
+    (VP 
+      (VBP s„o)
+    )
+    (NP 
+      (DT um)
+      (NN casal)
+      (--)
+      (ADVP 
+        (ADVP 
+          (NP 
+            (PRP ele)
+          )
+          (ADJP 
+            (JJ americano)
+          )
+        )
+        (,)
+        (ADVP 
+          (NP 
+            (PRP ela)
+          )
+          (ADJP 
+            (JJ francesa)
+          )
+        )
+      )
+      (--)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP vem)
+        )
+        (PP 
+          (IN a)
+          (NP 
+            (NNP Portugal)
+          )
+        )
+        (VP 
+          (IN porque)
+          (NP 
+            (NNP Michael)
+            (,)
+            (NP 
+              (NN historiador)
+            )
+            (,)
+          )
+          (VP 
+            (VBP julga)
+          )
+          (VP 
+            (IN que)
+            (VP 
+              (VBP pode)
+              (VB encontrar)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NNP Arr·bida)
+              )
+            )
+            (NP 
+              (NN documentos)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (NP 
+                  (PRP lhe)
+                )
+                (VP 
+                  (VBP comprovem)
+                )
+                (NP 
+                  (DT uma)
+                  (NN tese)
+                  (VP 
+                    (PP 
+                      (IN segundo)
+                      (NP 
+                        (PRP a_qual)
+                      )
+                    )
+                    (NP 
+                      (NNP Shakespeare)
+                    )
+                    (VP 
+                      (VBP era)
+                    )
+                    (NP 
+                      (DT um)
+                      (NN judeu)
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (NN origem)
+                          (ADJP 
+                            (JJ espanhola)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

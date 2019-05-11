@@ -1,60 +1,94 @@
-(S (VP (NP (NNP MiguÃ©ns_Cardoso)
-                                 (,)
-                                 (PP 
-                                   (IN de+)
-                                   (NP 
-                                     (DT a)
-                                     (NNP Triunfo/Il_Fornaio)))
-                                 (,))
-                        (VP (VBP considera))
-                        (VP (IN que)
-                                 (,)
-                                 (PP 
-                                   (IN em_termos_de)
-                                   (Â«)
-                                   (NP 
-                                     (NN software))
-                                   (Â»))
-                                 (,)
-                                 (_CU_ 
-                                   (NP 
-                                     (DT uma)
-                                     (NN soluÃ§Ã£o)
-                                     (VBN integrada))
-                                   (CC e)
-                                   (NP 
-                                     (DT o)
-                                     (NN apoio)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN consultor)
-                                         (ADJP 
-                                           (JJ informÃ¡tico))))))
-                                 (VP (VBP Ã©))
-                                 (NP (DT a)
-                                        (NN soluÃ§Ã£o)
-                                        (VP 
-                                          (ADVP 
-                                            (RB mais))
-                                          (VP 
-                                            (VBN adequada))
-                                          (PP 
-                                            (IN a+)
-                                            (NP 
-                                              (DT a)
-                                              (NN gestÃ£o)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (DT uma)
-                                                  (NN rede)
-                                                  (ADJP 
-                                                    (JJ comercial))
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (PRP este)
-                                                      (NN gÃ©nero))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Miguéns_Cardoso)
+      (,)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP Triunfo/Il_Fornaio)
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP considera)
+    )
+    (VP 
+      (IN que)
+      (,)
+      (PP 
+        (IN em_termos_de)
+        («)
+        (NP 
+          (NN software)
+        )
+        (»)
+      )
+      (,)
+      (NP 
+        (NP 
+          (DT uma)
+          (NN solução)
+          (VBN integrada)
+        )
+        (CC e)
+        (NP 
+          (DT o)
+          (NN apoio)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN consultor)
+              (ADJP 
+                (JJ informático)
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP é)
+      )
+      (NP 
+        (DT a)
+        (NN solução)
+        (VP 
+          (ADVP 
+            (RB mais)
+          )
+          (VP 
+            (VBN adequada)
+          )
+          (PP 
+            (IN a+)
+            (NP 
+              (DT a)
+              (NN gestão)
+              (PP 
+                (IN de)
+                (NP 
+                  (DT uma)
+                  (NN rede)
+                  (ADJP 
+                    (JJ comercial)
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (PRP este)
+                      (NN género)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

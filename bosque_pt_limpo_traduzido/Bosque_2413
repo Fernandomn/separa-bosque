@@ -1,59 +1,94 @@
-(S (VP (NP (DT A)
-                                 (NN hora)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN jogo)))
-                                 (,)
-                                 (_CU_ 
-                                   (PP 
-                                     (IN referente_a+)
-                                     (NP 
-                                       (DT a)
-                                       (JJ 30Âª)
-                                       (NN jornada)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NN campeonato)
-                                           (ADJP 
-                                             (JJ nacional))))))
-                                   (CC e)
-                                   (VP 
-                                     (VP 
-                                       (VBN repetido))
-                                     (PP 
-                                       (IN por)
-                                       (NP 
-                                         (VBN alegado)
-                                         (NN erro)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT o)
-                                             (NN Ã¡rbitro)))
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT a)
-                                             (NN expulsÃ£o)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NN benfiquista)
-                                                 (NP 
-                                                   (NNP Caniggia)))))))))))
-                        (,)
-                        (VP (VBP ficou))
-                        (ADJP (JJ dependente)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN clube)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NNP Alvalade))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN hora)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN jogo)
+        )
+      )
+      (,)
+      (UCP 
+        (PP 
+          (IN referente_a+)
+          (NP 
+            (DT a)
+            (JJ 30ª)
+            (NN jornada)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN campeonato)
+                (ADJP 
+                  (JJ nacional)
+                )
+              )
+            )
+          )
+        )
+        (CC e)
+        (VP 
+          (VP 
+            (VBN repetido)
+          )
+          (PP 
+            (IN por)
+            (NP 
+              (VBN alegado)
+              (NN erro)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN árbitro)
+                )
+              )
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT a)
+                  (NN expulsão)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NN benfiquista)
+                      (NP 
+                        (NNP Caniggia)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP ficou)
+    )
+    (ADJP 
+      (JJ dependente)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN clube)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Alvalade)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

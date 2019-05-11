@@ -1,37 +1,63 @@
-(S (VP (NP (DT O)
-                                 (NN tr√¢nsito)
-                                 (PP (IN em+)
-                                        (NP 
-                                          (DT as)
-                                          (NN avenidas)
-                                          (_CU_ 
-                                            (NP 
-                                              (NNP Paulista))
-                                            (CC e)
-                                            (NP 
-                                              (NNP Brigadeiro_Lu√≠s_Ant√¥nio)))
-                                          ({)
-                                          (NP 
-                                            (NN zona)
-                                            (ADJP 
-                                              (JJ central))
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NNP S√£o_Paulo))))
-                                          (}))))
-                        (VP (VBP parou))
-                        (PP (IN em+)
-                                 (NP (DT o)
-                                        (NN dia)
-                                        (ADJP 
-                                          (CD 9))
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN setembro)
-                                            (PP 
-                                              (IN de)
-                                              (ADJP 
-                                                (CD 86)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN tr‚nsito)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT as)
+          (NN avenidas)
+          (NP 
+            (NP 
+              (NNP Paulista)
+            )
+            e            (NP 
+              (NNP Brigadeiro_LuÌs_AntÙnio)
+            )
+          )
+          ({)
+          (NP 
+            (NN zona)
+            (ADJP 
+              (JJ central)
+            )
+            (PP 
+              (IN de)
+              (NP 
+                (NNP S„o_Paulo)
+              )
+            )
+          )
+          (})
+        )
+      )
+    )
+    (VP 
+      (VBP parou)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT o)
+        (NN dia)
+        (ADJP 
+          (CD 9)
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (NN setembro)
+            (PP 
+              (IN de)
+              (ADJP 
+                (CD 86)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

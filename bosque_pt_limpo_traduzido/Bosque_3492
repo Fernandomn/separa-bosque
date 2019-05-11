@@ -1,10 +1,22 @@
-(S (VP (NP (DT Os)
-                                 (NN atacantes)
-                                 (_CU_ (NP 
-                                          (NNP Gianluca_Vialli))
-                                        (CC e)
-                                        (NP 
-                                          (NNP Gianluigi_Lentini))))
-                        (VP (VBP ficaram))
-                        (PP de_fora)
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN atacantes)
+      (NP 
+        (NP 
+          (NNP Gianluca_Vialli)
+        )
+        (CC e)
+        (NP 
+          (NNP Gianluigi_Lentini)
+        )
+      )
+    )
+    (VP 
+      (VBP ficaram)
+    )
+    (PP de_fora)
+    (.)
+  )
+)

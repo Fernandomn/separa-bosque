@@ -1,80 +1,126 @@
-(S (VP (CC Mas)
-                        (,)
-                        (PP (IN apesar_de+)
-                                 (NP (DT a)
-                                        (NN imagem)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN coesÃ£o)))
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (ADVP 
-                                            (RB ontem))
-                                          (NP 
-                                            (PRP se))
-                                          (VP 
-                                            (VBP esforÃ§aram))
-                                          (PP 
-                                            (IN por)
-                                            (VB exibir))
-                                          (PP 
-                                            (IN durante)
-                                            (NP 
-                                              (DT uma)
-                                              (NN reuniÃ£o)
-                                              (PP 
-                                                (IN em+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NNP Luxemburgo))))))))
-                        (,)
-                        (_CU_ (NP 
-                                   (DT os)
-                                   (NN ministros)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT os)
-                                       (NNP NegÃ³cios_Estrangeiros)))
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       (NNP CE))))
-                                 (CC e)
-                                 (NP 
-                                   (DT o)
-                                   (NN secretÃ¡rio)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NNP Estado)))
-                                   (ADJP 
-                                     (JJ norte-americano))
-                                   (,)
-                                   (NP 
-                                     (NNP Warren_Christopher))
-                                   (,)))
-                        (ADVP (RB nÃ£o))
-                        (VP (VBP esconderam))
-                        (NP (PRP algumas)
-                                (Â«)
-                                (NN nuances)
-                                (Â»)
-                                (PP (IN sobre)
-                                       (NP 
-                                         (DT a)
-                                         (NN estratÃ©gia)
-                                         (PP 
-                                           (IN a)
-                                           (VP 
-                                             (VP 
-                                               (VB seguir))
-                                             (PP 
-                                               (IN face_a)
-                                               (NP 
-                                                 (DT a)
-                                                 (NNP BÃ³snia))))))))
-                        (.)))
+(S 
+  (VP 
+    (CC Mas)
+    (,)
+    (PP 
+      (IN apesar_de+)
+      (NP 
+        (DT a)
+        (NN imagem)
+        (PP 
+          (IN de)
+          (NP 
+            (NN coesão)
+          )
+        )
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (ADVP 
+            (RB ontem)
+          )
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VBP esforçaram)
+          )
+          (PP 
+            (IN por)
+            (VB exibir)
+          )
+          (PP 
+            (IN durante)
+            (NP 
+              (DT uma)
+              (NN reunião)
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT o)
+                  (NNP Luxemburgo)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NP 
+        (DT os)
+        (NN ministros)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NNP Negócios_Estrangeiros)
+          )
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP CE)
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (DT o)
+        (NN secretário)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Estado)
+          )
+        )
+        (ADJP 
+          (JJ norte-americano)
+        )
+        (,)
+        (NP 
+          (NNP Warren_Christopher)
+        )
+        (,)
+      )
+    )
+    (ADVP 
+      (RB não)
+    )
+    (VP 
+      (VBP esconderam)
+    )
+    (NP 
+      (PRP algumas)
+      («)
+      (NN nuances)
+      (»)
+      (PP 
+        (IN sobre)
+        (NP 
+          (DT a)
+          (NN estratégia)
+          (PP 
+            (IN a)
+            (VP 
+              (VP 
+                (VB seguir)
+              )
+              (PP 
+                (IN face_a)
+                (NP 
+                  (DT a)
+                  (NNP Bósnia)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

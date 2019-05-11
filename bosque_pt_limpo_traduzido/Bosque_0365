@@ -1,62 +1,106 @@
-(S (VP (NP (DT as)
-                                (NN imagens))
-                       (VP (VBP s√£o)
-                             (VBN criadas))
-                       (_CU_ (PP (IN a_partir_de)
-                                        (NP 
-                                          (NN retratos)
-                                          ({)
-                                          (NP 
-                                            (NN photomaton)
-                                            (ADJP 
-                                              (JJ familiar)))
-                                          (})))
-                                (,)
-                                (PP (IN de)
-                                        (NP 
-                                          (NN imagens)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN barcos)))))
-                                (,))
-                       (VP 
-                         (VP (VBG recriando-))
-                         (NP (PRP se))
-                         (PP (IN em)
-                                  (ADJP 
-                                    (PRP cada)
-                                    (CD uma)))
-                         (NP (CD um)
-                                 (NN clima)
-                                 (_CU_ (ADJP 
-                                          (JJ aqu√°tico))
-                                        (,)
-                                        (ADJP 
-                                          (JJ primordial))
-                                        (,)
-                                        (CC mas)
-                                        (PP 
-                                          (IN sem)
-                                          (VP 
-                                            (IN que)
-                                            (NP 
-                                              (PRP esse)
-                                              (NN efeito))
-                                            (NP 
-                                              (PRP se))
-                                            (VP 
-                                              (VBP compatibilize))
-                                            (PP 
-                                              (IN com)
-                                              (NP 
-                                                (DT uma)
-                                                (NN leitura)
-                                                (ADJP 
-                                                  (JJ imediatista))
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (NN imagem))))))))))
-                       (--)))
+(S 
+  (VP 
+    (NP 
+      (DT as)
+      (NN imagens)
+    )
+    (VP 
+      (VBP s„o)
+      (VBN criadas)
+    )
+    (PP 
+      (PP 
+        (IN a_partir_de)
+        (NP 
+          (NN retratos)
+          ({)
+          (NP 
+            (NN photomaton)
+            (ADJP 
+              (JJ familiar)
+            )
+          )
+          (})
+        )
+      )
+      (,)
+      (PP 
+        (IN de)
+        (NP 
+          (NN imagens)
+          (PP 
+            (IN de)
+            (NP 
+              (NN barcos)
+            )
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VP 
+        (VBG recriando-)
+      )
+      (NP 
+        (PRP se)
+      )
+      (PP 
+        (IN em)
+        (ADJP 
+          (PRP cada)
+          (CD uma)
+        )
+      )
+      (NP 
+        (CD um)
+        (NN clima)
+        (UCP 
+          (ADJP 
+            (JJ aqu·tico)
+          )
+          (,)
+          (ADJP 
+            (JJ primordial)
+          )
+          (,)
+          (CC mas)
+          (PP 
+            (IN sem)
+            (VP 
+              (IN que)
+              (NP 
+                (PRP esse)
+                (NN efeito)
+              )
+              (NP 
+                (PRP se)
+              )
+              (VP 
+                (VBP compatibilize)
+              )
+              (PP 
+                (IN com)
+                (NP 
+                  (DT uma)
+                  (NN leitura)
+                  (ADJP 
+                    (JJ imediatista)
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN imagem)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (--)
+  )
+)

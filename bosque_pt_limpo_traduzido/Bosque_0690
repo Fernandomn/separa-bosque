@@ -1,59 +1,94 @@
-(S (_CU_ (VP (NP 
-                                  (DT A)
-                                  (JJ maior)
-                                  (NN parte)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT as)
-                                      (NN vezes))))
-                                (,)
-                                (VP (VBP estamos)
-                                      (IN a)
-                                      (VB representar))
-                                (PP 
-                                  (IN para)
-                                  (VP 
-                                    (VP 
-                                      (VB agradar))
-                                    (PP 
-                                      (IN a)
-                                      (NP 
-                                        (PRP outra)
-                                        (NN pessoa)
-                                        (--)
-                                        (_CU_ 
-                                          (VP 
-                                            (NP 
-                                              (PRP quem))
-                                            (VP 
-                                              (VBP est√°)
-                                              (IN a)
-                                              (VB dirigir)))
-                                          (CC e)
-                                          (VP 
-                                            (NP 
-                                              (PRP quem))
-                                            (VP 
-                                              (VBP est√°)
-                                              (IN a)
-                                              (VB ensaiar))))
-                                        (--))))))
-                       (CC e)
-                       (_CU_ (VP (NP 
-                                          (PRP tantas)
-                                          (NN vezes))
-                                        (VP 
-                                          (VBP h√°))
-                                        (NP 
-                                          (NN insatisfa√ß√£o)))
-                               (,)
-                               (VP (VP 
-                                          (VBP ficam))
-                                        (NP 
-                                          (NN coisas))
-                                        (PP 
-                                          (IN por)
-                                          (VB dizer))))
-                       (.)
-                       (¬ª)))
+(S 
+  (UCP 
+    (VP 
+      (NP 
+        (DT A)
+        (JJ maior)
+        (NN parte)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT as)
+            (NN vezes)
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VBP estamos)
+        (IN a)
+        (VB representar)
+      )
+      (PP 
+        (IN para)
+        (VP 
+          (VP 
+            (VB agradar)
+          )
+          (PP 
+            (IN a)
+            (NP 
+              (PRP outra)
+              (NN pessoa)
+              (--)
+              (VP 
+                (VP 
+                  (NP 
+                    (PRP quem)
+                  )
+                  (VP 
+                    (VBP est·)
+                    (IN a)
+                    (VB dirigir)
+                  )
+                )
+                (CC e)
+                (VP 
+                  (NP 
+                    (PRP quem)
+                  )
+                  (VP 
+                    (VBP est·)
+                    (IN a)
+                    (VB ensaiar)
+                  )
+                )
+              )
+              (--)
+            )
+          )
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (VP 
+        (NP 
+          (PRP tantas)
+          (NN vezes)
+        )
+        (VP 
+          (VBP h·)
+        )
+        (NP 
+          (NN insatisfaÁ„o)
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBP ficam)
+        )
+        (NP 
+          (NN coisas)
+        )
+        (PP 
+          (IN por)
+          (VB dizer)
+        )
+      )
+    )
+    (.)
+    (ª)
+  )
+)

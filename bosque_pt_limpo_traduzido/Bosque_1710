@@ -1,19 +1,37 @@
-(S (VP (VP (VBP Queremos))
-                        (VP (IN que)
-                                 (VP (VBP cumpra))
-                                 (NP 
-                                   (DT a)
-                                   (NN promessa)))
-                        (,)
-                        (_CU_ (CC mas)
-                                 (PP 
-                                   (IN de)
-                                   (NP 
-                                     (NN maneira)
-                                     (_CU_ 
-                                       (ADJP 
-                                         (JJ digna))
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ sensata))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Queremos)
+    )
+    (VP 
+      (IN que)
+      (VP 
+        (VBP cumpra)
+      )
+      (NP 
+        (DT a)
+        (NN promessa)
+      )
+    )
+    (,)
+    (PP 
+      (CC mas)
+      (PP 
+        (IN de)
+        (NP 
+          (NN maneira)
+          (ADJP 
+            (ADJP 
+              (JJ digna)
+            )
+            (CC e)
+            (ADJP 
+              (JJ sensata)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

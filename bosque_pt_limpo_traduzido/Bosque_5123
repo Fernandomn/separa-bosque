@@ -1,35 +1,61 @@
-(S (VP (VP (VP 
-                                          (VBN Enriquecido))
-                                        (PP 
-                                          (IN com)
-                                          (_CU_ 
-                                            (NP 
-                                              (NN proteÃ­nas))
-                                            (CC e)
-                                            (NP 
-                                              (NN prÃ³-vitamina_B5)))))
-                        (,)
-                        (VP (VBP Ã©)
-                              (VBN aplicado))
-                        (PP (IN com)
-                                 (NP (DT uma)
-                                        (NN escova)
-                                        (VP 
-                                          (ADVP 
-                                            (RB especialmente))
-                                          (VP 
-                                            (VBN criada))
-                                          (PP 
-                                            (IN para)
-                                            (VP 
-                                              (VP 
-                                                (VB evitar))
-                                              (NP 
-                                                (DT o)
-                                                (NN esborratamento)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NN rÃ­mel)))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBN Enriquecido)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (NP 
+            (NN proteínas)
+          )
+          (CC e)
+          (NP 
+            (NN pró-vitamina_B5)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP é)
+      (VBN aplicado)
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (DT uma)
+        (NN escova)
+        (VP 
+          (ADVP 
+            (RB especialmente)
+          )
+          (VP 
+            (VBN criada)
+          )
+          (PP 
+            (IN para)
+            (VP 
+              (VP 
+                (VB evitar)
+              )
+              (NP 
+                (DT o)
+                (NN esborratamento)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN rímel)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

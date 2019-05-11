@@ -1,40 +1,71 @@
-(S (VP (NP (DT O)
-                                 (NNP Chacal))
-                        (VP (VBP chegou))
-                        (ADVP (RB ontem))
-                        (PP (IN a+)
-                                 (NP (DT as)
-                                        (NN 10h30)
-                                        ({)
-                                        (NP 
-                                          (NN 5h30))
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT o)
-                                            (NNP Brasil)))
-                                        (})))
-                        (PP (IN a+)
-                                (NP (DT o)
-                                       (NNP Pal√°cio_da_Justi√ßa)))
-                        (,)
-                        (_CU_ (VP 
-                                   (VP 
-                                     (VBG usando))
-                                   (NP 
-                                     (NN algemas)))
-                                 (CC e)
-                                 (VP 
-                                   (VP 
-                                     (VBN cercado))
-                                   (PP 
-                                     (IN por)
-                                     (NP 
-                                       (DT um)
-                                       (JJ forte)
-                                       (NN esquema)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN seguran√ßa)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NNP Chacal)
+    )
+    (VP 
+      (VBP chegou)
+    )
+    (ADVP 
+      (RB ontem)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT as)
+        (NN 10h30)
+        ({)
+        (NP 
+          (NN 5h30)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NNP Brasil)
+          )
+        )
+        (})
+      )
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT o)
+        (NNP Pal·cio_da_JustiÁa)
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VP 
+          (VBG usando)
+        )
+        (NP 
+          (NN algemas)
+        )
+      )
+      e      (VP 
+        (VP 
+          (VBN cercado)
+        )
+        (PP 
+          (IN por)
+          (NP 
+            (DT um)
+            (JJ forte)
+            (NN esquema)
+            (PP 
+              (IN de)
+              (NP 
+                (NN seguranÁa)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

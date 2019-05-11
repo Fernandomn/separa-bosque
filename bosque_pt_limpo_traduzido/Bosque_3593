@@ -1,58 +1,94 @@
-(S (VP (ADJP (RB Menos)
-                                 (JJ optimista)
-                                 (PP (IN sobre)
-                                        (NP 
-                                          (DT a)
-                                          (NN rela√ß√£o)
-                                          (_CU_ 
-                                            (NP 
-                                              (NN qualidade))
-                                            (/)
-                                            (NP 
-                                              (NN venda))))))
-                        (VP (VBP est√°))
-                        (NP (DT o)
-                                 (NN analista)
-                                 (ADJP 
-                                   (JJ econ√≥mico))
-                                 (NP (NNP Francisco_Sarsfield_Cabral))
-                                 (,)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP apontou))
-                                   (NP 
-                                     (DT o)
-                                     (NN caso)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN mercado)
-                                         (ADJP 
-                                           (JJ brit√¢nico))
-                                         (,)
-                                         (VP 
-                                           (ADVP 
-                                             (RB onde))
-                                           (NP 
-                                             (DT os)
-                                             (NN tabl√≥ides))
-                                           (VP 
-                                             (VBP vendem))
-                                           (NP 
-                                             (CD dez)
-                                             (NN vezes)
-                                             (ADVP 
-                                               (RB mais)
-                                               (ADVP 
-                                                 (IN do_que)
-                                                 (NP 
-                                                   (DT os)
-                                                   (NN jornais)
-                                                   (PP 
-                                                     (IN de)
-                                                     (NP 
-                                                       (NN qualidade)))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADJP 
+      (RB Menos)
+      (JJ optimista)
+      (PP 
+        (IN sobre)
+        (NP 
+          (DT a)
+          (NN relaÁ„o)
+          (UCP 
+            (NP 
+              (NN qualidade)
+            )
+            (/)
+            (NP 
+              (NN venda)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP est·)
+    )
+    (NP 
+      (DT o)
+      (NN analista)
+      (ADJP 
+        (JJ econÛmico)
+      )
+      (NP 
+        (NNP Francisco_Sarsfield_Cabral)
+      )
+      (,)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP apontou)
+        )
+        (NP 
+          (DT o)
+          (NN caso)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN mercado)
+              (ADJP 
+                (JJ brit‚nico)
+              )
+              (,)
+              (VP 
+                (ADVP 
+                  (RB onde)
+                )
+                (NP 
+                  (DT os)
+                  (NN tablÛides)
+                )
+                (VP 
+                  (VBP vendem)
+                )
+                (NP 
+                  (CD dez)
+                  (NN vezes)
+                  (ADVP 
+                    (RB mais)
+                    (ADVP 
+                      (IN do_que)
+                      (NP 
+                        (DT os)
+                        (NN jornais)
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (NN qualidade)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

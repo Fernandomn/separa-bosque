@@ -1,36 +1,65 @@
-(S (VP (NP (PRP Muitos))
-                        (,)
-                        (ADVP (RB no_entanto))
-                        (,)
-                        (VP (VBP preferem))
-                        (VP (VP (VB descrever))
-                                 (PP 
-                                   (IN em)
-                                   (NP 
-                                     (NN detalhes)))
-                                 (NP 
-                                   (PRP toda)
-                                   (PRP sua)
-                                   (NN trajetÃ³ria)
-                                   (_CU_ 
-                                     (ADJP 
-                                       (JJ educacional))
-                                     (CC e)
-                                     (ADJP 
-                                       (JJ profissional)))))
-                        (VP (NP 
-                                  (PRP o_que))
-                                (VP (VBP acaba)
-                                      (VBG deixando))
-                                (NP (DT o)
-                                        (NN currÃ­culo)
-                                        (_CU_ 
-                                          (ADJP 
-                                            (JJ extenso))
-                                          (CC e)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (JJ difÃ­cil)
-                                              (NN leitura))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Muitos)
+    )
+    (,)
+    (ADVP 
+      (RB no_entanto)
+    )
+    (,)
+    (VP 
+      (VBP preferem)
+    )
+    (VP 
+      (VP 
+        (VB descrever)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NN detalhes)
+        )
+      )
+      (NP 
+        (PRP toda)
+        (PRP sua)
+        (NN trajetória)
+        (ADJP 
+          (ADJP 
+            (JJ educacional)
+          )
+          e          (ADJP 
+            (JJ profissional)
+          )
+        )
+      )
+    )
+    (VP 
+      (NP 
+        (PRP o_que)
+      )
+      (VP 
+        (VBP acaba)
+        (VBG deixando)
+      )
+      (NP 
+        (DT o)
+        (NN currículo)
+        (UCP 
+          (ADJP 
+            (JJ extenso)
+          )
+          e          (PP 
+            (IN de)
+            (NP 
+              (JJ difícil)
+              (NN leitura)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

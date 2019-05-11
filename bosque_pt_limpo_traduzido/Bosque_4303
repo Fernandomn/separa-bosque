@@ -1,48 +1,82 @@
-(S (VP (NP (RB Tamb√©m)
-                                 (CD uma)
-                                 (NN residente)
-                                 (PP (IN h√°)
-                                        (NP 
-                                          (CD 30)
-                                          (NN anos)))
-                                 (PP (IN em+)
-                                        (NP 
-                                          (DT os)
-                                          (NNP Moinhos_da_Funcheira)))
-                                 (,)
-                                 (NP 
-                                   (NNP Isabel_Martins_da_Silva))
-                                 (,))
-                        (VP (VBP considera))
-                        (ADJP (JJ excessivo))
-                        (VP (NP 
-                                   (PRP o_que))
-                                 (VP (VBP pagou))
-                                 (PP 
-                                   (IN por+)
-                                   (NP 
-                                     (DT a)
-                                     (NN liga√ß√£o)
-                                     (_CU_ 
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN esgotos)
-                                           (,)
-                                           (NP 
-                                             (CD 181)
-                                             (NN contos)))))))
-                                 (PP 
-                                   (NP 
-                                     (_CU_ 
-                                       (,)
-                                       (CC e)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NN √°gua)
-                                           (,)
-                                           (ADJP 
-                                             (CD 81))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (RB TambÈm)
+      (CD uma)
+      (NN residente)
+      (PP 
+        (IN h·)
+        (NP 
+          (CD 30)
+          (NN anos)
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT os)
+          (NNP Moinhos_da_Funcheira)
+        )
+      )
+      (,)
+      (NP 
+        (NNP Isabel_Martins_da_Silva)
+      )
+      (,)
+    )
+    (VP 
+      (VBP considera)
+    )
+    (ADJP 
+      (JJ excessivo)
+    )
+    (VP 
+      (NP 
+        (PRP o_que)
+      )
+      (VP 
+        (VBP pagou)
+      )
+      (PP 
+        (IN por+)
+        (NP 
+          (DT a)
+          (NN ligaÁ„o)
+          (PP 
+            (PP 
+              (IN de)
+              (NP 
+                (NN esgotos)
+                (,)
+                (NP 
+                  (CD 181)
+                  (NN contos)
+                )
+              )
+            )
+          )
+        )
+      )
+      (PP 
+        (NP 
+          (PP 
+            (,)
+            (CC e)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN ·gua)
+                (,)
+                (ADJP 
+                  (CD 81)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

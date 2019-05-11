@@ -1,72 +1,113 @@
-(S (VP (NP (DT Um)
-                                 (NN boneco)
-                                 (ADJP 
-                                   (JJ cabeÃ§udo))
-                                 (VP 
-                                   (VP 
-                                     (VBN baptizado))
-                                   (PP 
-                                     (IN de)
-                                     (Â«)
-                                     (NP 
-                                       (NNP Santo_Cavaco))
-                                     (Â»))))
-                        (VP (VBP foi))
-                        (NP (DT a)
-                               (NN estrela)
-                               (PP (IN de+)
-                                      (NP 
-                                        (DT a)
-                                        (NN manifestaÃ§Ã£o)
-                                        (,)
-                                        (_CU_ 
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (VP 
-                                              (VBP partiu))
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT os)
-                                                (NNP Restauradores))))
-                                          (CC e)
-                                          (VP 
-                                            (VP 
-                                              (VBP foi))
-                                            (PP 
-                                              (IN atÃ©)
-                                              (PP 
-                                                (IN a+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NNP PraÃ§a_da_Ribeira))))
-                                            (,)
-                                            (ADVP 
-                                              (RB depois)
-                                              (PP 
-                                                (IN de)
-                                                (VP 
-                                                  (VP 
-                                                    (VB interromper))
-                                                  (NP 
-                                                    (DT o)
-                                                    (NN trÃ¢nsito)
-                                                    (PP 
-                                                      (IN de+)
-                                                      (NP 
-                                                        (DT as)
-                                                        (NN Ruas)
-                                                        (_CU_ 
-                                                          (PP 
-                                                            (IN de+)
-                                                            (NP 
-                                                              (DT o)
-                                                              (NN Ouro)))
-                                                          (CC e)
-                                                          (PP 
-                                                            (IN de+)
-                                                            (NP 
-                                                              (DT a)
-                                                              (NN Prata)))))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Um)
+      (NN boneco)
+      (ADJP 
+        (JJ cabeçudo)
+      )
+      (VP 
+        (VP 
+          (VBN baptizado)
+        )
+        (PP 
+          (IN de)
+          («)
+          (NP 
+            (NNP Santo_Cavaco)
+          )
+          (»)
+        )
+      )
+    )
+    (VP 
+      (VBP foi)
+    )
+    (NP 
+      (DT a)
+      (NN estrela)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN manifestação)
+          (,)
+          (VP 
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP partiu)
+              )
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NNP Restauradores)
+                )
+              )
+            )
+            (CC e)
+            (VP 
+              (VP 
+                (VBP foi)
+              )
+              (PP 
+                (IN até)
+                (PP 
+                  (IN a+)
+                  (NP 
+                    (DT a)
+                    (NNP Praça_da_Ribeira)
+                  )
+                )
+              )
+              (,)
+              (ADVP 
+                (RB depois)
+                (PP 
+                  (IN de)
+                  (VP 
+                    (VP 
+                      (VB interromper)
+                    )
+                    (NP 
+                      (DT o)
+                      (NN trânsito)
+                      (PP 
+                        (IN de+)
+                        (NP 
+                          (DT as)
+                          (NN Ruas)
+                          (PP 
+                            (PP 
+                              (IN de+)
+                              (NP 
+                                (DT o)
+                                (NN Ouro)
+                              )
+                            )
+                            (CC e)
+                            (PP 
+                              (IN de+)
+                              (NP 
+                                (DT a)
+                                (NN Prata)
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

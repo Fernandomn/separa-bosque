@@ -1,63 +1,100 @@
-(S (VP (CC Mas)
-                        (_CU_ (NP 
-                                   (DT os)
-                                   (NN agentes)
-                                   (ADJP 
-                                     (JJ econ√≥micos)))
-                                 (CC e)
-                                 (NP 
-                                   (DT o)
-                                   (NN mercado)))
-                        (VP (VBP consideram))
-                        (VP (IN que)
-                                 (VP (VBP h√°))
-                                 (NP 
-                                   (DT uma)
-                                   (NN liga√ß√£o)
-                                   (ADJP 
-                                     (JJ inevit√°vel))
-                                   (PP 
-                                     (IN entre)
-                                     (NP 
-                                       (DT as)
-                                       (CD duas)
-                                       (NN moedas)))))
-                        (,)
-                        (VP (ADVP 
-                                    (RB enquanto))
-                                  (_CU_ 
-                                    (NP 
-                                      (DT o)
-                                      (NNP Banco_de_Portugal))
-                                    (CC e)
-                                    (NP 
-                                      (DT o)
-                                      (NNP Minist√©rio_das_Finan√ßas)))
-                                  (VP (VBP v√£o)
-                                        (VBG reafirmando))
-                                  (NP 
-                                    (DT a)
-                                    (NN autonomia)
-                                    (ADJP 
-                                      (JJ cambial))
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NN escudo))))
-                                  (,)
-                                  (VP 
-                                    (IN embora)
-                                    (PP 
-                                      (IN em+)
-                                      (NP 
-                                        (DT a)
-                                        (NN pr√°tica)))
-                                    (VP 
-                                      (VBP sigam))
-                                    (ADVP 
-                                      (RB parcialmente))
-                                    (NP 
-                                      (DT a)
-                                      (NN peseta))))
-                        (.)))
+(S 
+  (VP 
+    (CC Mas)
+    (NP 
+      (NP 
+        (DT os)
+        (NN agentes)
+        (ADJP 
+          (JJ econÛmicos)
+        )
+      )
+      (CC e)
+      (NP 
+        (DT o)
+        (NN mercado)
+      )
+    )
+    (VP 
+      (VBP consideram)
+    )
+    (VP 
+      (IN que)
+      (VP 
+        (VBP h·)
+      )
+      (NP 
+        (DT uma)
+        (NN ligaÁ„o)
+        (ADJP 
+          (JJ inevit·vel)
+        )
+        (PP 
+          (IN entre)
+          (NP 
+            (DT as)
+            (CD duas)
+            (NN moedas)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (ADVP 
+        (RB enquanto)
+      )
+      (NP 
+        (NP 
+          (DT o)
+          (NNP Banco_de_Portugal)
+        )
+        (CC e)
+        (NP 
+          (DT o)
+          (NNP MinistÈrio_das_FinanÁas)
+        )
+      )
+      (VP 
+        (VBP v„o)
+        (VBG reafirmando)
+      )
+      (NP 
+        (DT a)
+        (NN autonomia)
+        (ADJP 
+          (JJ cambial)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN escudo)
+          )
+        )
+      )
+      (,)
+      (VP 
+        (IN embora)
+        (PP 
+          (IN em+)
+          (NP 
+            (DT a)
+            (NN pr·tica)
+          )
+        )
+        (VP 
+          (VBP sigam)
+        )
+        (ADVP 
+          (RB parcialmente)
+        )
+        (NP 
+          (DT a)
+          (NN peseta)
+        )
+      )
+    )
+    (.)
+  )
+)

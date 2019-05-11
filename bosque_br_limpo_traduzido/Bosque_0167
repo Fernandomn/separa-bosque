@@ -1,48 +1,78 @@
-(S (VP (VP (Â«)
-                                (NP 
-                                  (DT A)
-                                  (NN mÃ£e)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT a)
-                                      (NN estudante))))
-                                (VP (VBP prestou))
-                                (NP (NN queixa)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NN estupro)))
-                                          (CC e)
-                                          (,)
-                                          (ADVP 
-                                            (RB depois))
-                                          (,)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT as)
-                                              (NN ameaÃ§as)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN morte)
-                                                  (VP 
-                                                    (NP 
-                                                      (PRP que))
-                                                    (NP 
-                                                      (NNP RÃºbio))
-                                                    (VP 
-                                                      (VBP teria)
-                                                      (VBN feito))
-                                                    (PP 
-                                                      (IN a)
-                                                      (NP 
-                                                        (NNP Claudirene))))))))))
-                                (Â»))
-                       (,)
-                       (VP (VBP disse))
-                       (NP (NNP Borlina))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      («)
+      (NP 
+        (DT A)
+        (NN mãe)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN estudante)
+          )
+        )
+      )
+      (VP 
+        (VBP prestou)
+      )
+      (NP 
+        (NN queixa)
+        (UCP 
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN estupro)
+            )
+          )
+          e          (,)
+          (ADVP 
+            (RB depois)
+          )
+          (,)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT as)
+              (NN ameaças)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN morte)
+                  (VP 
+                    (NP 
+                      (PRP que)
+                    )
+                    (NP 
+                      (NNP Rúbio)
+                    )
+                    (VP 
+                      (VBP teria)
+                      (VBN feito)
+                    )
+                    (PP 
+                      (IN a)
+                      (NP 
+                        (NNP Claudirene)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (»)
+    )
+    (,)
+    (VP 
+      (VBP disse)
+    )
+    (NP 
+      (NNP Borlina)
+    )
+    (.)
+  )
+)

@@ -1,56 +1,89 @@
-(S (VP (NP (DT Uma)
-                                 (NN proposta)
-                                 (ADJP 
-                                   (JJ plausÃ­vel)))
-                        (VP (VBP Ã©))
-                        (NP (PRP a)
-                               (PP (IN de)
-                                      (VP 
-                                        (NP 
-                                          (PRP se))
-                                        (VP 
-                                          (VB fixar))
-                                        (NP 
-                                          (DT um)
-                                          (NN prazo)
-                                          (VBN determinado)
-                                          (,)
-                                          (NP 
-                                            (_CU_ 
-                                              (ADJP 
-                                                (CD trÃªs))
-                                              (CC ou)
-                                              (ADJP 
-                                                (CD quatro)))
-                                            (NN meses))
-                                          (,)
-                                          (PP 
-                                            (IN para)
-                                            (VP 
-                                              (IN que)
-                                              (NP 
-                                                (DT a)
-                                                (NN sociedade))
-                                              (NP 
-                                                (PRP se))
-                                              (VP 
-                                                (VBP adapte))
-                                              (ADVP 
-                                                (RB voluntariamente))
-                                              (PP 
-                                                (IN a+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN URV)))
-                                              (,)
-                                              (VP 
-                                                (VP 
-                                                  (VBG estabelecendo))
-                                                (NP 
-                                                  (NN regras)
-                                                  (VBN privadas)
-                                                  (PP 
-                                                    (IN de)
-                                                    (NP 
-                                                      (NN conversÃ£o)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Uma)
+      (NN proposta)
+      (ADJP 
+        (JJ plausível)
+      )
+    )
+    (VP 
+      (VBP é)
+    )
+    (NP 
+      (PRP a)
+      (PP 
+        (IN de)
+        (VP 
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VB fixar)
+          )
+          (NP 
+            (DT um)
+            (NN prazo)
+            (VBN determinado)
+            (,)
+            (NP 
+              (ADJP 
+                (ADJP 
+                  (CD três)
+                )
+                ou                (ADJP 
+                  (CD quatro)
+                )
+              )
+              (NN meses)
+            )
+            (,)
+            (PP 
+              (IN para)
+              (VP 
+                (IN que)
+                (NP 
+                  (DT a)
+                  (NN sociedade)
+                )
+                (NP 
+                  (PRP se)
+                )
+                (VP 
+                  (VBP adapte)
+                )
+                (ADVP 
+                  (RB voluntariamente)
+                )
+                (PP 
+                  (IN a+)
+                  (NP 
+                    (DT a)
+                    (NN URV)
+                  )
+                )
+                (,)
+                (VP 
+                  (VP 
+                    (VBG estabelecendo)
+                  )
+                  (NP 
+                    (NN regras)
+                    (VBN privadas)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NN conversão)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

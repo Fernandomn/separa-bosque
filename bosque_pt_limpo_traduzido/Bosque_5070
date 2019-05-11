@@ -1,61 +1,98 @@
-(S (VP (NP (PRP Estes)
-                                 (NN sistemas))
-                        (VP (VBP exigem))
-                        (NP (DT um)
-                                (_CU_ (NP 
-                                        (NN acompanhamento))
-                                      (CC e)
-                                      (NP 
-                                        (NN controlo)))
-                                (NP (NN permanentes))
-                                ({)
-                                (NP 
-                                  (DT as)
-                                  (CD 24)
-                                  (NN horas)
-                                  (PP 
-                                    (IN de)
-                                    (ADJP 
-                                      (PRP cada_um)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN dias)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN semana))))))))
-                                (}))
-                        (,)
-                        (VP (PP 
-                                    (IN por+)
-                                    (NP 
-                                      (PRP o_que)))
-                                  (NP 
-                                    (DT a)
-                                    (PRP sua)
-                                    (NN centralizaÃ§Ã£o)
-                                    (PP 
-                                      (IN em+)
-                                      (NP 
-                                        (DT um)
-                                        (JJ Ãºnico)
-                                        (NN espaÃ§o))))
-                                  (VP (VBP permite))
-                                  (VP 
-                                    (_CU_ 
-                                      (VB racionalizar)
-                                      (CC e)
-                                      (VB conter))
-                                    (NP 
-                                      (DT os)
-                                      (NN custos)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (PRP sua)
-                                          (NN gestÃ£o))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Estes)
+      (NN sistemas)
+    )
+    (VP 
+      (VBP exigem)
+    )
+    (NP 
+      (DT um)
+      (NP 
+        (NP 
+          (NN acompanhamento)
+        )
+        (CC e)
+        (NP 
+          (NN controlo)
+        )
+      )
+      (NP 
+        (NN permanentes)
+      )
+      ({)
+      (NP 
+        (DT as)
+        (CD 24)
+        (NN horas)
+        (PP 
+          (IN de)
+          (ADJP 
+            (PRP cada_um)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT os)
+                (NN dias)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NN semana)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (})
+    )
+    (,)
+    (VP 
+      (PP 
+        (IN por+)
+        (NP 
+          (PRP o_que)
+        )
+      )
+      (NP 
+        (DT a)
+        (PRP sua)
+        (NN centralização)
+        (PP 
+          (IN em+)
+          (NP 
+            (DT um)
+            (JJ único)
+            (NN espaço)
+          )
+        )
+      )
+      (VP 
+        (VBP permite)
+      )
+      (VP 
+        (VB 
+          (VB racionalizar)
+          (CC e)
+          (VB conter)
+        )
+        (NP 
+          (DT os)
+          (NN custos)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (PRP sua)
+              (NN gestão)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

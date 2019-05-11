@@ -1,45 +1,74 @@
-(S (_CU_ (VP (NP 
-                                  (DT O)
-                                  (NNP Banco_de_Espanha))
-                                (VP (VBP foi)
-                                      (VBN chamado))
-                                (PP (IN a)
-                                        (VB intervir)))
-                       (CC e)
-                       (VP (VP (VBP comeÃ§arem))
-                                (NP 
-                                  (DT os)
-                                  (NN rumores)
-                                  (PP 
-                                    (IN de)
-                                    (VP 
-                                      (IN que)
-                                      (NP 
-                                        (DT a)
-                                        (NN peseta))
-                                      (VBP poderia)
-                                      (_CU_ 
-                                        (VP 
-                                          (VB tomar)
-                                          (NP 
-                                            (DT o)
-                                            (NN caminho)
-                                            (_CU_ 
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN libra)))
-                                              (CC e)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN lira))))))
-                                        (CC e)
-                                        (VP 
-                                          (VB abandonar)
-                                          (NP 
-                                            (DT o)
-                                            (NNP SME))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (NNP Banco_de_Espanha)
+      )
+      (VP 
+        (VBP foi)
+        (VBN chamado)
+      )
+      (PP 
+        (IN a)
+        (VB intervir)
+      )
+    )
+    (CC e)
+    (VP 
+      (VP 
+        (VBP começarem)
+      )
+      (NP 
+        (DT os)
+        (NN rumores)
+        (PP 
+          (IN de)
+          (VP 
+            (IN que)
+            (NP 
+              (DT a)
+              (NN peseta)
+            )
+            (VBP poderia)
+            (VP 
+              (VP 
+                (VB tomar)
+                (NP 
+                  (DT o)
+                  (NN caminho)
+                  (PP 
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT a)
+                        (NN libra)
+                      )
+                    )
+                    (CC e)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT a)
+                        (NN lira)
+                      )
+                    )
+                  )
+                )
+              )
+              (CC e)
+              (VP 
+                (VB abandonar)
+                (NP 
+                  (DT o)
+                  (NNP SME)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

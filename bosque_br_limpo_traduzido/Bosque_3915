@@ -1,31 +1,51 @@
-(S (VP (VP (VBP HÃ¡))
-                        (NP (DT uma)
-                                (NN trama)
-                                (ADJP 
-                                  (JJ paralela))
-                                (,)
-                                (PP 
-                                  (IN com)
-                                  (NP 
-                                    (_CU_ 
-                                      (NP 
-                                        (NNP Ramon))
-                                      (CC e)
-                                      (NP 
-                                        (NNP Esperanza)))
-                                    (,)
-                                    (NP 
-                                      (NN casal)
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (PP 
-                                          (IN apÃ³s)
-                                          (NP 
-                                            (DT a)
-                                            (NN greve)))
-                                        (NP 
-                                          (PRP se))
-                                        (VP 
-                                          (VBP separa)))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Há)
+    )
+    (NP 
+      (DT uma)
+      (NN trama)
+      (ADJP 
+        (JJ paralela)
+      )
+      (,)
+      (PP 
+        (IN com)
+        (NP 
+          (NP 
+            (NP 
+              (NNP Ramon)
+            )
+            e            (NP 
+              (NNP Esperanza)
+            )
+          )
+          (,)
+          (NP 
+            (NN casal)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (PP 
+                (IN após)
+                (NP 
+                  (DT a)
+                  (NN greve)
+                )
+              )
+              (NP 
+                (PRP se)
+              )
+              (VP 
+                (VBP separa)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

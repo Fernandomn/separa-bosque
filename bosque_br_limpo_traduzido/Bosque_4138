@@ -1,31 +1,57 @@
-(S (VP (PP (IN Segundo)
-                                 (NP (NNP FHC)))
-                        (,)
-                        (NP (DT o)
-                                 (NNP Brasil))
-                        (VP (VBP possui))
-                        (_CU_ (NP (PRP esses)
-                                        (NN recursos)
-                                        (,)
-                                        (NP 
-                                          (NP 
-                                            (PRP muitos)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (PRP eles))))
-                                          (NN naturais))
-                                        (,))
-                                (CC e)
-                                (NP (NN vantagens)
-                                        (ADJP 
-                                          (JJ comparativas))
-                                        (PP 
-                                          (IN para)
-                                          (VP 
-                                            (VP 
-                                              (VB realizar))
-                                            (NP 
-                                              (PRP essas)
-                                              (NN metas))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Segundo)
+      (NP 
+        (NNP FHC)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NNP Brasil)
+    )
+    (VP 
+      (VBP possui)
+    )
+    (NP 
+      (NP 
+        (PRP esses)
+        (NN recursos)
+        (,)
+        (NP 
+          (NP 
+            (PRP muitos)
+            (PP 
+              (IN de+)
+              (NP 
+                (PRP eles)
+              )
+            )
+          )
+          (NN naturais)
+        )
+        (,)
+      )
+      e      (NP 
+        (NN vantagens)
+        (ADJP 
+          (JJ comparativas)
+        )
+        (PP 
+          (IN para)
+          (VP 
+            (VP 
+              (VB realizar)
+            )
+            (NP 
+              (PRP essas)
+              (NN metas)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

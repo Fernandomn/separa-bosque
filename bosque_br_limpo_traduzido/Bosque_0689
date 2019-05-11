@@ -1,58 +1,90 @@
-(S (VP (VP (VBP Entendemos))
-                        (VP (IN que)
-                                 (NP 
-                                   (NN palavras)
-                                   (ADVP 
-                                     (RB como)
-                                     (_CU_ 
-                                       (NP 
-                                         (NN respeito))
-                                       (,)
-                                       (NP 
-                                         (NN atenÃ§Ã£o))
-                                       (CC e)
-                                       (NP 
-                                         (NN Ã©tica)))))
-                                 (,)
-                                 (VP 
-                                   (VP 
-                                     (VBG incluindo))
-                                   (NP 
-                                     (DT a)
-                                     (NN eficiÃªncia)
-                                     (PP 
-                                       (IN em+)
-                                       (NP 
-                                         (DT a)
-                                         (NN prestaÃ§Ã£o)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT os)
-                                             (NN serviÃ§os)))))))
-                                 (,)
-                                 (VP (VBP devem))
-                                 (ADVP 
-                                   (RB mais)
-                                   (ADVP 
-                                     (IN do_que)
-                                     (ADVP 
-                                       (RB nunca))))
-                                 (,)
-                                 (VP 
-                                   (VP 
-                                     (VB nortear))
-                                   (NP 
-                                     (PRP nossa)
-                                     (NN conduta)))
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT as)
-                                     (NN relaÃ§Ãµes)
-                                     (PP 
-                                       (IN com)
-                                       (NP 
-                                         (PRP nossos)
-                                         (NN clientes))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Entendemos)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (NN palavras)
+        (ADVP 
+          (RB como)
+          (NP 
+            (NP 
+              (NN respeito)
+            )
+            (,)
+            (NP 
+              (NN atenção)
+            )
+            e            (NP 
+              (NN ética)
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBG incluindo)
+        )
+        (NP 
+          (DT a)
+          (NN eficiência)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN prestação)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NN serviços)
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VBP devem)
+      )
+      (ADVP 
+        (RB mais)
+        (ADVP 
+          (IN do_que)
+          (ADVP 
+            (RB nunca)
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VB nortear)
+        )
+        (NP 
+          (PRP nossa)
+          (NN conduta)
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT as)
+          (NN relações)
+          (PP 
+            (IN com)
+            (NP 
+              (PRP nossos)
+              (NN clientes)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

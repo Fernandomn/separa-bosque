@@ -1,18 +1,35 @@
-(S (VP (NP (DT O)
-                                 (NNP TST))
-                        (VP (VBP fala))
-                        (PP (IN em)
-                                (VP (VP 
-                                          (VB manter))
-                                        (NP 
-                                          (DT a)
-                                          (NN produ√ß√£o)
-                                          (PP 
-                                            (IN de)
-                                            (_CU_ 
-                                              (NP 
-                                                (NN combust√≠veis))
-                                              (CC e)
-                                              (NP 
-                                                (NN g√°s)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NNP TST)
+    )
+    (VP 
+      (VBP fala)
+    )
+    (PP 
+      (IN em)
+      (VP 
+        (VP 
+          (VB manter)
+        )
+        (NP 
+          (DT a)
+          (NN produÁ„o)
+          (PP 
+            (IN de)
+            (NP 
+              (NP 
+                (NN combustÌveis)
+              )
+              e              (NP 
+                (NN g·s)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,35 +1,59 @@
-(S (VP (_CU_ (NP 
-                                   (DT A)
-                                   (NN concentraÃ§Ã£o)
-                                   (ADJP 
-                                     (JJ defensiva)))
-                                 (,)
-                                 (CC e)
-                                 (NP 
-                                   (JJ consequente)
-                                   (NN nÃºmero)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN bolas)
-                                       (VBN recuperadas)))))
-                        (,)
-                        (VP (VBP viria)
-                              (IN a)
-                              (VB originar))
-                        (NP (DT o)
-                                (_CU_ (ADJP 
-                                         (JJ segundo))
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ terceiro)))
-                                (NN golos)
-                                (ADJP 
-                                  (JJ portistas)))
-                        (,)
-                        (PP (RB ainda)
-                                 (IN em+)
-                                 (NP (DT a)
-                                        (JJ primeira)
-                                        (NN parte)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (DT A)
+        (NN concentração)
+        (ADJP 
+          (JJ defensiva)
+        )
+      )
+      (,)
+      (CC e)
+      (NP 
+        (JJ consequente)
+        (NN número)
+        (PP 
+          (IN de)
+          (NP 
+            (NN bolas)
+            (VBN recuperadas)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP viria)
+      (IN a)
+      (VB originar)
+    )
+    (NP 
+      (DT o)
+      (ADJP 
+        (ADJP 
+          (JJ segundo)
+        )
+        (CC e)
+        (ADJP 
+          (JJ terceiro)
+        )
+      )
+      (NN golos)
+      (ADJP 
+        (JJ portistas)
+      )
+    )
+    (,)
+    (PP 
+      (RB ainda)
+      (IN em+)
+      (NP 
+        (DT a)
+        (JJ primeira)
+        (NN parte)
+      )
+    )
+    (.)
+  )
+)

@@ -1,39 +1,68 @@
-(S (VP (NP (DT Os)
-                                 (NN gritos)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN crianÃ§a))))
-                        (VP (VBP alertaram))
-                        (NP (DT um)
-                                (NN vizinho)
-                                (VP (NP 
-                                          (PRP que))
-                                        (NP 
-                                          (PRP a))
-                                        (VP 
-                                          (VBP conduziu))
-                                        (PP 
-                                          (IN a)
-                                          (NP 
-                                            (DT uma)
-                                            (NN clÃ­nica)
-                                            (ADJP 
-                                              (JJ local))))
-                                        (,)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (NN estado)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN coma)))))
-                                          (CC e)
-                                          (VP 
-                                            (VP 
-                                              (VBG sangrando))
-                                            (ADVP 
-                                              (RB abundantemente))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN gritos)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN criança)
+        )
+      )
+    )
+    (VP 
+      (VBP alertaram)
+    )
+    (NP 
+      (DT um)
+      (NN vizinho)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (NP 
+          (PRP a)
+        )
+        (VP 
+          (VBP conduziu)
+        )
+        (PP 
+          (IN a)
+          (NP 
+            (DT uma)
+            (NN clínica)
+            (ADJP 
+              (JJ local)
+            )
+          )
+        )
+        (,)
+        (UCP 
+          (PP 
+            (IN em)
+            (NP 
+              (NN estado)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN coma)
+                )
+              )
+            )
+          )
+          (CC e)
+          (VP 
+            (VP 
+              (VBG sangrando)
+            )
+            (ADVP 
+              (RB abundantemente)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,13 +1,29 @@
-(S (VP (VP (VBP Querem))
-                        (_CU_ (NP (JJ novos)
-                                        (NN dirigentes))
-                                (,)
-                                (NP (JJ nova)
-                                        (NN ideologia))
-                                (,)
-                                (NP (JJ novo)
-                                        (NN programa))
-                                (,)
-                                (NP (JJ novos)
-                                        (NN estatutos)))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Querem)
+    )
+    (NP 
+      (NP 
+        (JJ novos)
+        (NN dirigentes)
+      )
+      (,)
+      (NP 
+        (JJ nova)
+        (NN ideologia)
+      )
+      (,)
+      (NP 
+        (JJ novo)
+        (NN programa)
+      )
+      (,)
+      (NP 
+        (JJ novos)
+        (NN estatutos)
+      )
+    )
+    (.)
+  )
+)

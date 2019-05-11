@@ -1,55 +1,86 @@
-(S (VP (PP (IN A+)
-                                (NP (DT os)
-                                       (NN horticultores))
-                                (VP (VBP Ã©))
-                                (ADJP 
-                                  (JJ preciso))
-                                (_CU_ 
-                                  (VP 
-                                    (VP 
-                                      (VB oferecer))
-                                    (NP 
-                                      (NN informaÃ§Ãµes)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN mercado)))
-                                      (_CU_ 
-                                        (ADJP 
-                                          (JJ seguras))
-                                        (CC e)
-                                        (ADJP 
-                                          (JJ atuais))))
-                                    (PP 
-                                      (IN para)
-                                      (NP 
-                                        (DT a)
-                                        (NN programaÃ§Ã£o)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN produÃ§Ã£o))))))
-                                  (CC e)
-                                  (VP 
-                                    (VP 
-                                      (VB desenvolver))
-                                    (NP 
-                                      (JJ novas)
-                                      (NN alternativas)
-                                      (PP 
-                                        (IN para)
-                                        (NP 
-                                          (DT o)
-                                          (_CU_ 
-                                            (NP 
-                                              (NN acondicionamento))
-                                            (CC e)
-                                            (NP 
-                                              (NN embalagem)))
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT os)
-                                              (NN produtos)))))))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN A+)
+      (NP 
+        (DT os)
+        (NN horticultores)
+      )
+      (VP 
+        (VBP é)
+      )
+      (ADJP 
+        (JJ preciso)
+      )
+      (VP 
+        (VP 
+          (VP 
+            (VB oferecer)
+          )
+          (NP 
+            (NN informações)
+            (PP 
+              (IN de)
+              (NP 
+                (NN mercado)
+              )
+            )
+            (ADJP 
+              (ADJP 
+                (JJ seguras)
+              )
+              e              (ADJP 
+                (JJ atuais)
+              )
+            )
+          )
+          (PP 
+            (IN para)
+            (NP 
+              (DT a)
+              (NN programação)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NN produção)
+                )
+              )
+            )
+          )
+        )
+        e        (VP 
+          (VP 
+            (VB desenvolver)
+          )
+          (NP 
+            (JJ novas)
+            (NN alternativas)
+            (PP 
+              (IN para)
+              (NP 
+                (DT o)
+                (NP 
+                  (NP 
+                    (NN acondicionamento)
+                  )
+                  e                  (NP 
+                    (NN embalagem)
+                  )
+                )
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT os)
+                    (NN produtos)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

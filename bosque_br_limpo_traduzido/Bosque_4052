@@ -1,22 +1,40 @@
-(S (VP (NP (DT Um)
-                                 (NN governo)
-                                 (ADVP 
-                                   (RB como)
-                                   (NP 
-                                     (DT o)
-                                     (NN Estado)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NNP SÃ£o_Paulo))))))
-                        (VP (VBP precisa))
-                        (VP (VP (VB ter))
-                                 (NP 
-                                   (NN metas)
-                                   (_CU_ 
-                                     (ADJP 
-                                       (JJ claras))
-                                     (CC e)
-                                     (VBN definidas))))
-                        (.)
-                        (Â»)))
+(S 
+  (VP 
+    (NP 
+      (DT Um)
+      (NN governo)
+      (ADVP 
+        (RB como)
+        (NP 
+          (DT o)
+          (NN Estado)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP São_Paulo)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP precisa)
+    )
+    (VP 
+      (VP 
+        (VB ter)
+      )
+      (NP 
+        (NN metas)
+        (UCP 
+          (ADJP 
+            (JJ claras)
+          )
+          e          (VBN definidas)
+        )
+      )
+    )
+    (.)
+    (»)
+  )
+)

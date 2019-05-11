@@ -1,52 +1,84 @@
-(S (VP (NP (NN Jogo)
-                                 (ADJP 
-                                   (JJ grande)))
-                        (VP (VBP foi))
-                        (NP (PRP o)
-                               (_CU_ (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP juntou))
-                                        (,)
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (NNP Phoenix)))
-                                        (,)
-                                        (_CU_ 
-                                          (NP 
-                                            (DT os)
-                                            (NNP Suns))
-                                          (CC e)
-                                          (NP 
-                                            (DT os)
-                                            (NNP Portland_Trail_Blazers))))
-                                      (,)
-                                      (CC e)
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP terminou))
-                                        (PP 
-                                          (IN com)
-                                          (NP 
-                                            (DT a)
-                                            (NN vitÃ³ria)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT os)
-                                                (NN donos)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (NN casa)))))
-                                            (,)
-                                            (PP 
-                                              (IN por)
-                                              (ADJP 
-                                                (CD 118-119))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Jogo)
+      (ADJP 
+        (JJ grande)
+      )
+    )
+    (VP 
+      (VBP foi)
+    )
+    (NP 
+      (PRP o)
+      (VP 
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP juntou)
+          )
+          (,)
+          (PP 
+            (IN em)
+            (NP 
+              (NNP Phoenix)
+            )
+          )
+          (,)
+          (NP 
+            (NP 
+              (DT os)
+              (NNP Suns)
+            )
+            (CC e)
+            (NP 
+              (DT os)
+              (NNP Portland_Trail_Blazers)
+            )
+          )
+        )
+        (,)
+        (CC e)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP terminou)
+          )
+          (PP 
+            (IN com)
+            (NP 
+              (DT a)
+              (NN vitória)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NN donos)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN casa)
+                    )
+                  )
+                )
+              )
+              (,)
+              (PP 
+                (IN por)
+                (ADJP 
+                  (CD 118-119)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

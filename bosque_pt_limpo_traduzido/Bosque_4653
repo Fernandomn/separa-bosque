@@ -1,73 +1,113 @@
-(S (VP (NP (NNP Christo))
-                         (,)
-                         (VP (VBP organizou))
-                         (NP (DT um)
-                                 (NN nÃºmero)
-                                 (VP 
-                                   (PP 
-                                     (IN em)
-                                     (NP 
-                                       (PRP que)))
-                                   (NP 
-                                     (PRP se))
-                                   (VP 
-                                     (VBP acentuam))
-                                   (NP 
-                                     (DT as)
-                                     (PRP suas)
-                                     (NN relaÃ§Ãµes)
-                                     (PP 
-                                       (IN com)
-                                       (NP 
-                                         (_CU_ 
-                                           (NP 
-                                             (DT os)
-                                             (NN pressupostos))
-                                           (CC e)
-                                           (NP 
-                                             (NN prÃ¡ticas)))
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT o)
-                                             (Â«)
-                                             (NN nouveau_rÃ©alisme)
-                                             (Â»))))))))
-                         (,)
-                         (PP (IN com)
-                                  (_CU_ 
-                                    (_CU_ 
-                                      (NP 
-                                        (NN textos)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NNP Pierre_Restany))))
-                                      (CC e)
-                                      (NP 
-                                        (NN trabalhos)
-                                        (PP 
-                                          (IN de)
-                                          (_CU_ 
-                                            (NP 
-                                              (NNP Martial_Raysse))
-                                            (,)
-                                            (NP 
-                                              (NNP Ben))
-                                            (,)
-                                            (NP 
-                                              (NNP Spoerri))
-                                            (CC e)
-                                            (NP 
-                                              (NNP Rotella))))))
-                                    (,)
-                                    (CC e)
-                                    (NP 
-                                      (DT a)
-                                      (VBN referida)
-                                      (NN homenagem)
-                                      (PP 
-                                        (IN a)
-                                        (NP 
-                                          (NNP Klein))))))
-                         (;)))
+(S 
+  (VP 
+    (NP 
+      (NNP Christo)
+    )
+    (,)
+    (VP 
+      (VBP organizou)
+    )
+    (NP 
+      (DT um)
+      (NN número)
+      (VP 
+        (PP 
+          (IN em)
+          (NP 
+            (PRP que)
+          )
+        )
+        (NP 
+          (PRP se)
+        )
+        (VP 
+          (VBP acentuam)
+        )
+        (NP 
+          (DT as)
+          (PRP suas)
+          (NN relações)
+          (PP 
+            (IN com)
+            (NP 
+              (NP 
+                (NP 
+                  (DT os)
+                  (NN pressupostos)
+                )
+                (CC e)
+                (NP 
+                  (NN práticas)
+                )
+              )
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  («)
+                  (NN nouveau_réalisme)
+                  (»)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN com)
+      (UCP 
+        (NP 
+          (NP 
+            (NN textos)
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Pierre_Restany)
+              )
+            )
+          )
+          (CC e)
+          (NP 
+            (NN trabalhos)
+            (PP 
+              (IN de)
+              (NP 
+                (NP 
+                  (NNP Martial_Raysse)
+                )
+                (,)
+                (NP 
+                  (NNP Ben)
+                )
+                (,)
+                (NP 
+                  (NNP Spoerri)
+                )
+                (CC e)
+                (NP 
+                  (NNP Rotella)
+                )
+              )
+            )
+          )
+        )
+        (,)
+        (CC e)
+        (NP 
+          (DT a)
+          (VBN referida)
+          (NN homenagem)
+          (PP 
+            (IN a)
+            (NP 
+              (NNP Klein)
+            )
+          )
+        )
+      )
+    )
+    (;)
+  )
+)

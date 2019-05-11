@@ -1,63 +1,95 @@
-(S (VP (VP (ADVP 
-                                   (RB Ainda_assim))
-                                 (,)
-                                 (NP 
-                                   (RB s√≥)
-                                   (DT o)
-                                   (NN an√∫ncio)
-                                   (PP 
-                                     (IN de)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (NP 
-                                         (DT as)
-                                         (NN garantias))
-                                       (VP 
-                                         (VBP ser√£o)
-                                         (VBN adquiridas))
-                                       (ADVP 
-                                         (RB junto)
-                                         (PP 
-                                           (IN a+)
-                                           (NP 
-                                             (DT o)
-                                             (NN mercado)))))))
-                                 (VP (VBP poder√°)
-                                       (VB elevar))
-                                 (NP 
-                                   (DT os)
-                                   (NN gastos)
-                                   (PP 
-                                     (IN com)
-                                     (NP 
-                                       (DT as)
-                                       (JJ futuras)
-                                       (NN compras)))))
-                        (,)
-                        (VP (VBP raciocinam))
-                        (NP (NN senadores)
-                                 (ADVP 
-                                   (RB como)
-                                   (_CU_ 
-                                     (NP 
-                                       (NNP Espiridi√£o_Amin)
-                                       ({)
-                                       (NP 
-                                         (NNP PPR-SC))
-                                       (}))
-                                     (,)
-                                     (NP 
-                                       (NNP Ronan_Tito)
-                                       ({)
-                                       (NP 
-                                         (NNP PMDB-MG))
-                                       (}))
-                                     (CC e)
-                                     (NP 
-                                       (NNP Gilberto_Miranda)
-                                       ({)
-                                       (NP 
-                                         (NNP PMDB-AM))
-                                       (})))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (ADVP 
+        (RB Ainda_assim)
+      )
+      (,)
+      (NP 
+        (RB sÛ)
+        (DT o)
+        (NN an˙ncio)
+        (PP 
+          (IN de)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (NP 
+              (DT as)
+              (NN garantias)
+            )
+            (VP 
+              (VBP ser„o)
+              (VBN adquiridas)
+            )
+            (ADVP 
+              (RB junto)
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT o)
+                  (NN mercado)
+                )
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP poder·)
+        (VB elevar)
+      )
+      (NP 
+        (DT os)
+        (NN gastos)
+        (PP 
+          (IN com)
+          (NP 
+            (DT as)
+            (JJ futuras)
+            (NN compras)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP raciocinam)
+    )
+    (NP 
+      (NN senadores)
+      (ADVP 
+        (RB como)
+        (NP 
+          (NP 
+            (NNP Espiridi„o_Amin)
+            ({)
+            (NP 
+              (NNP PPR-SC)
+            )
+            (})
+          )
+          (,)
+          (NP 
+            (NNP Ronan_Tito)
+            ({)
+            (NP 
+              (NNP PMDB-MG)
+            )
+            (})
+          )
+          e          (NP 
+            (NNP Gilberto_Miranda)
+            ({)
+            (NP 
+              (NNP PMDB-AM)
+            )
+            (})
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

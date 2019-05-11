@@ -1,20 +1,39 @@
-(S (VP (NP (DT As)
-                                 (JJ pr√≥ximas)
-                                 (NN datas)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN cursos))))
-                        (VP (VBP s√£o))
-                        (NP (NN dias)
-                               (NP (_CU_ 
-                                        (NP 
-                                          (CD 23))
-                                        (CC e)
-                                        (ADJP 
-                                          (CD 30)))
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN julho)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (JJ prÛximas)
+      (NN datas)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN cursos)
+        )
+      )
+    )
+    (VP 
+      (VBP s„o)
+    )
+    (NP 
+      (NN dias)
+      (NP 
+        (UCP 
+          (NP 
+            (CD 23)
+          )
+          e          (ADJP 
+            (CD 30)
+          )
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (NN julho)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

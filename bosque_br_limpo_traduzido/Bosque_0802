@@ -1,29 +1,50 @@
-(S (VP (NP (DT O)
-                                 (NN grupo)
-                                 (ADJP 
-                                   (JJ suÃ­Ã§o)))
-                        (VP (VBP baseia))
-                        (NP (PRP sua)
-                                (NN mÃºsica))
-                        (PP (IN em+)
-                                (NP (DT a)
-                                       (NN combinaÃ§Ã£o)
-                                       (PP 
-                                         (IN de)
-                                         (_CU_ 
-                                           (NP 
-                                             (JJ barulhentas)
-                                             (NN guitarras)
-                                             (VBN sampleadas))
-                                           (,)
-                                           (NP 
-                                             (NN vocais)
-                                             (ADJP 
-                                               (JJ guturais)))
-                                           (CC e)
-                                           (NP 
-                                             (VBN pesadas)
-                                             (NN batidas)
-                                             (ADJP 
-                                               (JJ danÃ§antes)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN grupo)
+      (ADJP 
+        (JJ suíço)
+      )
+    )
+    (VP 
+      (VBP baseia)
+    )
+    (NP 
+      (PRP sua)
+      (NN música)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN combinação)
+        (PP 
+          (IN de)
+          (NP 
+            (NP 
+              (JJ barulhentas)
+              (NN guitarras)
+              (VBN sampleadas)
+            )
+            (,)
+            (NP 
+              (NN vocais)
+              (ADJP 
+                (JJ guturais)
+              )
+            )
+            e            (NP 
+              (VBN pesadas)
+              (NN batidas)
+              (ADJP 
+                (JJ dançantes)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

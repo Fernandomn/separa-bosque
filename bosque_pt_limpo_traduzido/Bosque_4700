@@ -1,22 +1,40 @@
-(S (VP (NP (DT As)
-                                 (NN propostas)
-                                 (ADJP 
-                                   (JJ abolicionistas)))
-                        (VP (VBP tÃªm)
-                              (VBN encontrado))
-                        (NP (DT a)
-                                (NN oposiÃ§Ã£o)
-                                (PP (IN de)
-                                       (NP 
-                                         (Â«)
-                                         (NN lobbys)
-                                         (Â»)
-                                         (ADJP 
-                                           (JJ tabagistas))
-                                         (_CU_ 
-                                           (ADJP 
-                                             (JJ gregos))
-                                           (CC e)
-                                           (ADJP 
-                                             (JJ espanhÃ³is))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN propostas)
+      (ADJP 
+        (JJ abolicionistas)
+      )
+    )
+    (VP 
+      (VBP têm)
+      (VBN encontrado)
+    )
+    (NP 
+      (DT a)
+      (NN oposição)
+      (PP 
+        (IN de)
+        (NP 
+          («)
+          (NN lobbys)
+          (»)
+          (ADJP 
+            (JJ tabagistas)
+          )
+          (ADJP 
+            (ADJP 
+              (JJ gregos)
+            )
+            (CC e)
+            (ADJP 
+              (JJ espanhóis)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,40 +1,68 @@
-(S (VP (ADVP (RB Agora))
-                        (VP (VBP temos))
-                        (NP (DT uma)
-                                (NN proposta)
-                                (,)
-                                (ADJP 
-                                  (JJ inovadora))
-                                (,)
-                                (PP (IN de)
-                                       (NP 
-                                         (JJ mÃ©dio)
-                                         (NN prazo)))
-                                (,)
-                                (VP 
-                                  (VP (VBN ajustada))
-                                  (PP 
-                                    (IN a)
-                                    (NP 
-                                      (PRP todo)
-                                      (PRP este)
-                                      (NN ciclo)
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (NP 
-                                          (DT o)
-                                          (NN paÃ­s))
-                                        (VP 
-                                          (VBP vai)
-                                          (VB atravessar))
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (CD 1995)))
-                                          (PP 
-                                            (IN a)
-                                            (ADJP 
-                                              (CD 1999)))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Agora)
+    )
+    (VP 
+      (VBP temos)
+    )
+    (NP 
+      (DT uma)
+      (NN proposta)
+      (,)
+      (ADJP 
+        (JJ inovadora)
+      )
+      (,)
+      (PP 
+        (IN de)
+        (NP 
+          (JJ médio)
+          (NN prazo)
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBN ajustada)
+        )
+        (PP 
+          (IN a)
+          (NP 
+            (PRP todo)
+            (PRP este)
+            (NN ciclo)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (NP 
+                (DT o)
+                (NN país)
+              )
+              (VP 
+                (VBP vai)
+                (VB atravessar)
+              )
+              (PP 
+                (PP 
+                  (IN de)
+                  (NP 
+                    (CD 1995)
+                  )
+                )
+                (PP 
+                  (IN a)
+                  (ADJP 
+                    (CD 1999)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

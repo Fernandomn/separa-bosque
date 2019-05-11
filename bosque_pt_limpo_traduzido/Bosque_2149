@@ -1,31 +1,53 @@
-(S (VP (VP (VBP mostrou))
-                        (VP (IN que)
-                                 (,)
-                                 (PP 
-                                   (IN apesar_de+)
-                                   (NP 
-                                     (DT as)
-                                     (JJ boas)
-                                     (NN palavras)))
-                                 (,)
-                                 (NP 
-                                   (DT a)
-                                   (NN capitaliza√ß√£o)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN protagonismo)
-                                       (ADJP 
-                                         (JJ pol√≠tico)))))
-                                 (VP (VBP est√°))
-                                 (PP (IN acima_de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN discuss√£o)
-                                          (_CU_ 
-                                            (ADJP 
-                                              (JJ s√©ria))
-                                            (CC e)
-                                            (ADJP 
-                                              (JJ prof√≠cua))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP mostrou)
+    )
+    (VP 
+      (IN que)
+      (,)
+      (PP 
+        (IN apesar_de+)
+        (NP 
+          (DT as)
+          (JJ boas)
+          (NN palavras)
+        )
+      )
+      (,)
+      (NP 
+        (DT a)
+        (NN capitalizaÁ„o)
+        (PP 
+          (IN de)
+          (NP 
+            (NN protagonismo)
+            (ADJP 
+              (JJ polÌtico)
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP est·)
+      )
+      (PP 
+        (IN acima_de+)
+        (NP 
+          (DT a)
+          (NN discuss„o)
+          (ADJP 
+            (ADJP 
+              (JJ sÈria)
+            )
+            (CC e)
+            (ADJP 
+              (JJ profÌcua)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

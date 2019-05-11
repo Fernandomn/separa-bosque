@@ -1,45 +1,75 @@
-(S (NP (NP (NNP Broz))
-                      (--)
-                      (_CU_ (VP (ADVP 
-                                         (RB NÃ£o))
-                                       (VP 
-                                         (VBP tenho))
-                                       (NP 
-                                         (DT a)
-                                         (NN receita)
-                                         (ADJP 
-                                           (JJ exata))))
-                              (,)
-                              (VP (VP 
-                                         (VBP tenho))
-                                       (NP 
-                                         (DT a)
-                                         (NN certeza)
-                                         (PP 
-                                           (IN de)
-                                           (VP 
-                                             (IN que)
-                                             (NP 
-                                               (PRP algo))
-                                             (VP 
-                                               (VBP precisa))
-                                             (VP 
-                                               (VP 
-                                                 (VB ser)
-                                                 (VBN feito))
-                                               (PP 
-                                                 (IN diante_de+)
-                                                 (NP 
-                                                   (DT o)
-                                                   (NN confronto)
-                                                   (PP 
-                                                     (IN entre)
-                                                     (NP 
-                                                       (NN nacionalismo)
-                                                       (_CU_ 
-                                                         (ADJP 
-                                                           (JJ albanÃªs))
-                                                         (CC e)
-                                                         (ADJP 
-                                                           (JJ sÃ©rvio))))))))))))
-                              (.))))
+(S 
+  (NP 
+    (NP 
+      (NNP Broz)
+    )
+    (--)
+    (VP 
+      (VP 
+        (ADVP 
+          (RB Não)
+        )
+        (VP 
+          (VBP tenho)
+        )
+        (NP 
+          (DT a)
+          (NN receita)
+          (ADJP 
+            (JJ exata)
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBP tenho)
+        )
+        (NP 
+          (DT a)
+          (NN certeza)
+          (PP 
+            (IN de)
+            (VP 
+              (IN que)
+              (NP 
+                (PRP algo)
+              )
+              (VP 
+                (VBP precisa)
+              )
+              (VP 
+                (VP 
+                  (VB ser)
+                  (VBN feito)
+                )
+                (PP 
+                  (IN diante_de+)
+                  (NP 
+                    (DT o)
+                    (NN confronto)
+                    (PP 
+                      (IN entre)
+                      (NP 
+                        (NN nacionalismo)
+                        (ADJP 
+                          (ADJP 
+                            (JJ albanês)
+                          )
+                          e                          (ADJP 
+                            (JJ sérvio)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (.)
+    )
+  )
+)

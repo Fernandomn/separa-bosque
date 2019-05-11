@@ -1,19 +1,40 @@
-(S (_CU_ (VP (VP (VBP Enganei-))
-                               (NP (PRP me)))
-                      (;)
-                      (VP (VP (ADVP 
-                                          (RB nÃ£o))
-                                        (VP 
-                                          (VBP serei))
-                                        (_CU_ 
-                                          (CC nem)
-                                          (NP 
-                                            (DT o)
-                                            (NN primeiro))
-                                          (CC nem)
-                                          (NP 
-                                            (DT o)
-                                            (NN Ãºltimo))))
-                               (,)
-                               (VP (VBP espero)))
-                      (..)))
+(S 
+  (UCP 
+    (VP 
+      (VP 
+        (VBP Enganei-)
+      )
+      (NP 
+        (PRP me)
+      )
+    )
+    (;)
+    (VP 
+      (VP 
+        (ADVP 
+          (RB não)
+        )
+        (VP 
+          (VBP serei)
+        )
+        (NP 
+          (CC nem)
+          (NP 
+            (DT o)
+            (NN primeiro)
+          )
+          (CC nem)
+          (NP 
+            (DT o)
+            (NN último)
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VBP espero)
+      )
+    )
+    (..)
+  )
+)

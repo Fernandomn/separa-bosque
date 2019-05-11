@@ -1,9 +1,21 @@
-(S (NP (ADJP (RB Mais)
-                                (CD uma))
-                       (NN semana)
-                       (PP (IN sem)
-                              (_CU_ (NP 
-                                       (NN alfas))
-                                     (CC e)
-                                     (NP 
-                                       (NP inter-cidades))))))
+(S 
+  (NP 
+    (ADJP 
+      (RB Mais)
+      (CD uma)
+    )
+    (NN semana)
+    (PP 
+      (IN sem)
+      (NP 
+        (NP 
+          (NN alfas)
+        )
+        (CC e)
+        (NP 
+          (NP inter-cidades)
+        )
+      )
+    )
+  )
+)

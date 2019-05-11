@@ -1,3 +1,10 @@
-(S (_CU_ (NP (NN Impostos))
-                       (CC E)
-                       (NP (NN Tarifas))))
+(S 
+  (NP 
+    (NP 
+      (NN Impostos)
+    )
+    E    (NP 
+      (NN Tarifas)
+    )
+  )
+)

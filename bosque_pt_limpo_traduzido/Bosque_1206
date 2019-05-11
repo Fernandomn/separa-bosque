@@ -1,98 +1,152 @@
-(S (VP (VP (VBP Seriam))
-                        (NP (NN 9h30))
-                        (VP (ADVP 
-                                    (RB quando))
-                                  (NP 
-                                    (DT os)
-                                    (CD trÃªs)
-                                    (NN homens)
-                                    (,)
-                                    (VP 
-                                      (NP 
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (PRP quem))))
-                                      (ADVP 
-                                        (RB nÃ£o))
-                                      (NP 
-                                        (PRP se))
-                                      (VP 
-                                        (VBP conhecem))
-                                      (NP 
-                                        (NN dados)
-                                        (ADJP 
-                                          (JJ identificativos)))))
-                                  (,)
-                                  (VP (VBP surgiram))
-                                  (PP 
-                                    (IN de)
-                                    (_CU_ 
-                                      (NP 
-                                        (NN armas)
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT a)
-                                            (NN mÃ£o))))
-                                      (CC e)
-                                      (NP 
-                                        (NN rosto)
-                                        (VBN coberto))))
-                                  (PP 
-                                    (IN a+)
-                                    (NP 
-                                      (DT a)
-                                      (NN porta)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP BNU)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NNP MassamÃ¡)))
-                                          (,)
-                                          (NP 
-                                            (DT uma)
-                                            (NN dependÃªncia)
-                                            (_CU_ 
-                                              (VP 
-                                                (ADVP 
-                                                  (RB recentemente))
-                                                (VP 
-                                                  (VBN inaugurada)))
-                                              (CC e)
-                                              (VP 
-                                                (VP 
-                                                  (VBN localizada))
-                                                (PP 
-                                                  (IN em+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (VBN denominada)
-                                                    (NP 
-                                                      (NNP Sexta_Fase_da_UrbanizaÃ§Ã£o_Pimenta_e_Rendeiro)
-                                                      ({)
-                                                      (NP 
-                                                        (NN Ã¡rea)
-                                                        (VP 
-                                                          (NP 
-                                                            (PRP que))
-                                                          (PP 
-                                                            (IN em+)
-                                                            (NP 
-                                                              (DT a)
-                                                              (PRP sua)
-                                                              (NN maioria)))
-                                                          (ADVP 
-                                                            (RB ainda))
-                                                          (VP 
-                                                            (VBP estÃ¡))
-                                                          (PP 
-                                                            (IN em)
-                                                            (NP 
-                                                              (NN construÃ§Ã£o)))))
-                                                      (}))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Seriam)
+    )
+    (NP 
+      (NN 9h30)
+    )
+    (VP 
+      (ADVP 
+        (RB quando)
+      )
+      (NP 
+        (DT os)
+        (CD três)
+        (NN homens)
+        (,)
+        (VP 
+          (NP 
+            (PP 
+              (IN de)
+              (NP 
+                (PRP quem)
+              )
+            )
+          )
+          (ADVP 
+            (RB não)
+          )
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VBP conhecem)
+          )
+          (NP 
+            (NN dados)
+            (ADJP 
+              (JJ identificativos)
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VBP surgiram)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NP 
+            (NN armas)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NN mão)
+              )
+            )
+          )
+          (CC e)
+          (NP 
+            (NN rosto)
+            (VBN coberto)
+          )
+        )
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT a)
+          (NN porta)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP BNU)
+              (PP 
+                (IN de)
+                (NP 
+                  (NNP Massamá)
+                )
+              )
+              (,)
+              (NP 
+                (DT uma)
+                (NN dependência)
+                (VP 
+                  (VP 
+                    (ADVP 
+                      (RB recentemente)
+                    )
+                    (VP 
+                      (VBN inaugurada)
+                    )
+                  )
+                  (CC e)
+                  (VP 
+                    (VP 
+                      (VBN localizada)
+                    )
+                    (PP 
+                      (IN em+)
+                      (NP 
+                        (DT a)
+                        (VBN denominada)
+                        (NP 
+                          (NNP Sexta_Fase_da_Urbanização_Pimenta_e_Rendeiro)
+                          ({)
+                          (NP 
+                            (NN área)
+                            (VP 
+                              (NP 
+                                (PRP que)
+                              )
+                              (PP 
+                                (IN em+)
+                                (NP 
+                                  (DT a)
+                                  (PRP sua)
+                                  (NN maioria)
+                                )
+                              )
+                              (ADVP 
+                                (RB ainda)
+                              )
+                              (VP 
+                                (VBP está)
+                              )
+                              (PP 
+                                (IN em)
+                                (NP 
+                                  (NN construção)
+                                )
+                              )
+                            )
+                          )
+                          (})
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

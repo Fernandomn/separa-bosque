@@ -1,46 +1,78 @@
-(S (VP (_CU_ (PP 
-                                   (IN Como)
-                                   (NP 
-                                     (NN estilo)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (ADVP 
-                                         (RB nunca))
-                                       (NP 
-                                         (PRP se))
-                                       (VP 
-                                         (VBP chega)
-                                         (IN a)
-                                         (VB definir)))))
-                                 (,)
-                                 (PP 
-                                   (IN como)
-                                   (NP 
-                                     (NN caminho)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP estÃ¡))
-                                       (ADVP 
-                                         (RB sempre))
-                                       (ADJP 
-                                         (JJ interminado))))))
-                        (,)
-                        (NP (DT a)
-                                 (Â«)
-                                 (NN obra_do_mestre)
-                                 (Â»))
-                        (VP (VBP Ã©))
-                        (NP (RB mais)
-                               (NP (DT a)
-                                     (JJ permanente)
-                                     (NN inflexÃ£o))
-                               (ADVP 
-                                 (IN que)
-                                 (NP (DT a)
-                                        (NN coerÃªncia)
-                                        (ADJP 
-                                          (JJ inabalÃ¡vel)))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (PP 
+        (IN Como)
+        (NP 
+          (NN estilo)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (ADVP 
+              (RB nunca)
+            )
+            (NP 
+              (PRP se)
+            )
+            (VP 
+              (VBP chega)
+              (IN a)
+              (VB definir)
+            )
+          )
+        )
+      )
+      (,)
+      (PP 
+        (IN como)
+        (NP 
+          (NN caminho)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP está)
+            )
+            (ADVP 
+              (RB sempre)
+            )
+            (ADJP 
+              (JJ interminado)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      («)
+      (NN obra_do_mestre)
+      (»)
+    )
+    (VP 
+      (VBP é)
+    )
+    (NP 
+      (RB mais)
+      (NP 
+        (DT a)
+        (JJ permanente)
+        (NN inflexão)
+      )
+      (ADVP 
+        (IN que)
+        (NP 
+          (DT a)
+          (NN coerência)
+          (ADJP 
+            (JJ inabalável)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

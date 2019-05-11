@@ -1,70 +1,116 @@
-(S (_CU_ (VP (VP (VBP Continuo)
-                                      (IN a)
-                                      (VB dizer))
-                                (VP 
-                                  (IN que)
-                                  (VP (VBP acho))
-                                  (ADVP 
-                                    (RB bem))
-                                  (VP 
-                                    (IN que)
-                                    (NP 
-                                      (DT os)
-                                      (NN Barmens))
-                                    (VP 
-                                      (VBP saibam))
-                                    (VP 
-                                      (IN que)
-                                      (NP 
-                                        (DT a)
-                                        (NN DelegaÃ§Ã£o))
-                                      (VP 
-                                        (VBP estÃ¡))
-                                      (VP 
-                                        (VP 
-                                          (VBN aberta))
-                                        (PP 
-                                          (IN para)
-                                          (NP 
-                                            (PRP todos)
-                                            (PRP eles))))))))
-                       (,)
-                       (CC e)
-                       (VP (VP (VBP gostaria))
-                                (ADVP 
-                                  (RB imenso))
-                                (VP 
-                                  (IN que)
-                                  (NP 
-                                    (PRP eles))
-                                  (VP (VBP aparecessem))
-                                  (PP 
-                                    (IN em_vez_de)
-                                    (NP 
-                                      (DT uma)
-                                      (NN vez)
-                                      (PP 
-                                        (IN por)
-                                        (NP 
-                                          (NN mÃªs)))))
-                                  (,)
-                                  (NP 
-                                    (CD dez)
-                                    (NN vezes)))
-                                (VP 
-                                  (IN porque)
-                                  (VP (VBP temos))
-                                  (NP 
-                                    (PRP todas_as)
-                                    (NN condiÃ§Ãµes)
-                                    (VP 
-                                      (VP 
-                                        (VBN criadas))
-                                      (PP 
-                                        (IN para)
-                                        (VP 
-                                          (NP 
-                                            (PRP os))
-                                          (VP 
-                                            (VB receber))))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBP Continuo)
+        (IN a)
+        (VB dizer)
+      )
+      (VP 
+        (IN que)
+        (VP 
+          (VBP acho)
+        )
+        (ADVP 
+          (RB bem)
+        )
+        (VP 
+          (IN que)
+          (NP 
+            (DT os)
+            (NN Barmens)
+          )
+          (VP 
+            (VBP saibam)
+          )
+          (VP 
+            (IN que)
+            (NP 
+              (DT a)
+              (NN Delegação)
+            )
+            (VP 
+              (VBP está)
+            )
+            (VP 
+              (VP 
+                (VBN aberta)
+              )
+              (PP 
+                (IN para)
+                (NP 
+                  (PRP todos)
+                  (PRP eles)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (CC e)
+    (VP 
+      (VP 
+        (VBP gostaria)
+      )
+      (ADVP 
+        (RB imenso)
+      )
+      (VP 
+        (IN que)
+        (NP 
+          (PRP eles)
+        )
+        (VP 
+          (VBP aparecessem)
+        )
+        (PP 
+          (IN em_vez_de)
+          (NP 
+            (DT uma)
+            (NN vez)
+            (PP 
+              (IN por)
+              (NP 
+                (NN mês)
+              )
+            )
+          )
+        )
+        (,)
+        (NP 
+          (CD dez)
+          (NN vezes)
+        )
+      )
+      (VP 
+        (IN porque)
+        (VP 
+          (VBP temos)
+        )
+        (NP 
+          (PRP todas_as)
+          (NN condições)
+          (VP 
+            (VP 
+              (VBN criadas)
+            )
+            (PP 
+              (IN para)
+              (VP 
+                (NP 
+                  (PRP os)
+                )
+                (VP 
+                  (VB receber)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

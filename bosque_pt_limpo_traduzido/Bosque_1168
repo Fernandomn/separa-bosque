@@ -1,73 +1,111 @@
-(S (VP (IN Porque)
-                         (NP (NN corrente)
-                                  (ADJP 
-                                    (JJ magnÃ©tica)))
-                         (ADVP (RB nÃ£o))
-                         (VP (VBP falta))
-                         (PP (IN a+)
-                                 (NP (DT a)
-                                        (NN encenadora)
-                                        (,)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (,)
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (NN espectÃ¡culos)
-                                              (ADVP 
-                                                (RB como)
-                                                (_CU_ 
-                                                  (Â«)
-                                                  (NP 
-                                                    (NNP Crimes_e_InterlÃºdios))
-                                                  (Â»)
-                                                  (,)
-                                                  (Â«)
-                                                  (NP 
-                                                    (NNP CarÃ­cias))
-                                                  (Â»)
-                                                  (,)
-                                                  (Â«)
-                                                  (NP 
-                                                    (NNP Kvetch))
-                                                  (Â»)
-                                                  (CC e)
-                                                  (Â«)
-                                                  (NP 
-                                                    (NNP Zucco))
-                                                  (Â»)))))
-                                          (,)
-                                          (VP 
-                                            (VBP fez))
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NNP Teatro_do_SÃ©culo)))
-                                          (NP 
-                                            (CD uma)
-                                            (NN referÃªncia)
-                                            (ADJP 
-                                              (JJ incontornÃ¡vel))
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT o)
-                                                (NN panorama)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NN teatro)
-                                                    (ADJP 
-                                                      (JJ portuguÃªs))))
-                                                (PP 
-                                                  (IN em+)
-                                                  (NP 
-                                                    (DT os)
-                                                    (NN anos)
-                                                    (ADJP 
-                                                      (CD 90))))))))))
-                         (.)))
+(S 
+  (VP 
+    (IN Porque)
+    (NP 
+      (NN corrente)
+      (ADJP 
+        (JJ magnética)
+      )
+    )
+    (ADVP 
+      (RB não)
+    )
+    (VP 
+      (VBP falta)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT a)
+        (NN encenadora)
+        (,)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (,)
+          (PP 
+            (IN em)
+            (NP 
+              (NN espectáculos)
+              (ADVP 
+                (RB como)
+                (UCP 
+                  («)
+                  (NP 
+                    (NNP Crimes_e_Interlúdios)
+                  )
+                  (»)
+                  (,)
+                  («)
+                  (NP 
+                    (NNP Carícias)
+                  )
+                  (»)
+                  (,)
+                  («)
+                  (NP 
+                    (NNP Kvetch)
+                  )
+                  (»)
+                  (CC e)
+                  («)
+                  (NP 
+                    (NNP Zucco)
+                  )
+                  (»)
+                )
+              )
+            )
+          )
+          (,)
+          (VP 
+            (VBP fez)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Teatro_do_Século)
+            )
+          )
+          (NP 
+            (CD uma)
+            (NN referência)
+            (ADJP 
+              (JJ incontornável)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NN panorama)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN teatro)
+                    (ADJP 
+                      (JJ português)
+                    )
+                  )
+                )
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT os)
+                    (NN anos)
+                    (ADJP 
+                      (CD 90)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

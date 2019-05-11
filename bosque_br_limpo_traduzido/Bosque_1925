@@ -1,57 +1,91 @@
-(S (VP (PP (IN Segundo)
-                                 (NP (DT o)
-                                        (NN presidente)
-                                        (PP 
-                                          (IN de+)
-                                          (_CU_ 
-                                            (NP 
-                                              (DT a)
-                                              (NNP Matis-Paris_Brasil)
-                                              (,)
-                                              (NP 
-                                                (NNP LourenÃ§o_Lopes))
-                                              (,)
-                                              (ADJP 
-                                                (CD 44))
-                                              (,))))))
-                        (NP (DT a)
-                                 (NN empresa)
-                                 (ADJP 
-                                   (JJ francesa)))
-                        (VP (VBP foi)
-                              (VBN escolhida))
-                        (PP (IN por)
-                                 (VP 
-                                   (VP 
-                                     (VB ter))
-                                   (_CU_ 
-                                     (NP 
-                                       (PRP mais)
-                                       (NN estrutura))
-                                     (CC e)
-                                     (NP 
-                                       (NN nÃºmero)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN produtos)
-                                           (PP 
-                                             (IN para)
-                                             (NP 
-                                               (NN clÃ­nicas)
-                                               (PP 
-                                                 (IN de)
-                                                 (_CU_ 
-                                                   (NP 
-                                                     (NN beleza))
-                                                   (,)
-                                                   (NP 
-                                                     (NN medicina)
-                                                     (ADJP 
-                                                       (JJ estÃ©tica)))
-                                                   (CC e)
-                                                   (NP 
-                                                     (NN cirurgia)
-                                                     (ADJP 
-                                                       (JJ plÃ¡stica)))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Segundo)
+      (NP 
+        (DT o)
+        (NN presidente)
+        (PP 
+          (IN de+)
+          (NP 
+            (NP 
+              (DT a)
+              (NNP Matis-Paris_Brasil)
+              (,)
+              (NP 
+                (NNP Lourenço_Lopes)
+              )
+              (,)
+              (ADJP 
+                (CD 44)
+              )
+              (,)
+            )
+          )
+        )
+      )
+    )
+    (NP 
+      (DT a)
+      (NN empresa)
+      (ADJP 
+        (JJ francesa)
+      )
+    )
+    (VP 
+      (VBP foi)
+      (VBN escolhida)
+    )
+    (PP 
+      (IN por)
+      (VP 
+        (VP 
+          (VB ter)
+        )
+        (NP 
+          (NP 
+            (PRP mais)
+            (NN estrutura)
+          )
+          e          (NP 
+            (NN número)
+            (PP 
+              (IN de)
+              (NP 
+                (NN produtos)
+                (PP 
+                  (IN para)
+                  (NP 
+                    (NN clínicas)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NP 
+                          (NN beleza)
+                        )
+                        (,)
+                        (NP 
+                          (NN medicina)
+                          (ADJP 
+                            (JJ estética)
+                          )
+                        )
+                        e                        (NP 
+                          (NN cirurgia)
+                          (ADJP 
+                            (JJ plástica)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,63 +1,101 @@
-(S (VP (NP (DT As)
-                                 (NN conclus√µes)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN inqu√©rito)
-                                          (--)
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (VP 
-                                              (VBP ser√°)
-                                              (VBN realizado))
-                                            (PP 
-                                              (IN com)
-                                              (NP 
-                                                (DT o)
-                                                (NN apoio)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NNP Conselho_de_Reitores))))))
-                                          (--))))
-                        (VP (VBP servir√£o))
-                        (PP (IN de)
-                               (NP (NN base)
-                                      (PP 
-                                        (IN a)
-                                        (NP 
-                                          (DT uma)
-                                          (NN proposta)
-                                          (PP 
-                                            (IN a)
-                                            (VP 
-                                              (VP 
-                                                (VB apresentar))
-                                              (PP 
-                                                (IN a+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NNP Minist√©rio_da_Educa√ß√£o)))))
-                                          (ADJP 
-                                            (JJ relativa)
-                                            (PP 
-                                              (IN a+)
-                                              (NP 
-                                                (DT o)
-                                                (NN montante)
-                                                (PP 
-                                                  (IN de+)
-                                                  (_CU_ 
-                                                    (NP 
-                                                      (DT as)
-                                                      (NN bolsas)
-                                                      (PP 
-                                                        (IN de)
-                                                        (NP 
-                                                          (NN estudo))))
-                                                    (CC e)
-                                                    (NP 
-                                                      (NN propinas)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN conclusıes)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN inquÈrito)
+          (--)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP ser·)
+              (VBN realizado)
+            )
+            (PP 
+              (IN com)
+              (NP 
+                (DT o)
+                (NN apoio)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NNP Conselho_de_Reitores)
+                  )
+                )
+              )
+            )
+          )
+          (--)
+        )
+      )
+    )
+    (VP 
+      (VBP servir„o)
+    )
+    (PP 
+      (IN de)
+      (NP 
+        (NN base)
+        (PP 
+          (IN a)
+          (NP 
+            (DT uma)
+            (NN proposta)
+            (PP 
+              (IN a)
+              (VP 
+                (VP 
+                  (VB apresentar)
+                )
+                (PP 
+                  (IN a+)
+                  (NP 
+                    (DT o)
+                    (NNP MinistÈrio_da_EducaÁ„o)
+                  )
+                )
+              )
+            )
+            (ADJP 
+              (JJ relativa)
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT o)
+                  (NN montante)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (NP 
+                        (DT as)
+                        (NN bolsas)
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (NN estudo)
+                          )
+                        )
+                      )
+                      (CC e)
+                      (NP 
+                        (NN propinas)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

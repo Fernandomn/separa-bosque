@@ -1,36 +1,61 @@
-(S (_CU_ (ADVP (VP 
-                                  (IN Se)
-                                  (VP (VBP for))
-                                  (PP 
-                                    (IN a)
-                                    (RB bem)))
-                                (,)
-                                (ADVP 
-                                  (PRP tudo)
-                                  (RB bem)))
-                       (;)
-                       (VP (VP 
-                                  (IN se)
-                                  (VP (VBP for))
-                                  (PP a_mal))
-                                (,)
-                                (VP (VBP arranja-))
-                                (NP 
-                                  (PRP se))
-                                (ADVP 
-                                  (RB aÃ­))
-                                (ADJP 
-                                  (DT um)
-                                  (')
-                                  (CD 31)
-                                  (')
-                                  (VP 
-                                    (NP 
-                                      (PRP que))
-                                    (NP 
-                                      (RB sÃ³)
-                                      (DT o)
-                                      (NN tribunal))
-                                    (VP 
-                                      (VBP resolve)))))
-                       (.)))
+(S 
+  (UCP 
+    (ADVP 
+      (VP 
+        (IN Se)
+        (VP 
+          (VBP for)
+        )
+        (PP 
+          (IN a)
+          (RB bem)
+        )
+      )
+      (,)
+      (ADVP 
+        (PRP tudo)
+        (RB bem)
+      )
+    )
+    (;)
+    (VP 
+      (VP 
+        (IN se)
+        (VP 
+          (VBP for)
+        )
+        (PP a_mal)
+      )
+      (,)
+      (VP 
+        (VBP arranja-)
+      )
+      (NP 
+        (PRP se)
+      )
+      (ADVP 
+        (RB aí)
+      )
+      (ADJP 
+        (DT um)
+        (')
+        (CD 31)
+        (')
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (NP 
+            (RB só)
+            (DT o)
+            (NN tribunal)
+          )
+          (VP 
+            (VBP resolve)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

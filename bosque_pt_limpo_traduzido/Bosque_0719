@@ -1,45 +1,75 @@
-(S (VP (PP (IN Apesar_de+)
-                                 (NP (DT os)
-                                        (PRP muitos)
-                                        (NN pedidos)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN adopÃ§Ã£o)))))
-                        (,)
-                        (NP (DT as)
-                                 (NN pessoas))
-                        (VP (VBP estÃ£o)
-                              (IN a)
-                              (VB ser)
-                              (VBN informadas))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT as)
-                                   (NN crianÃ§as))
-                                 (ADVP 
-                                   (RB apenas))
-                                 (VP (VBP serÃ£o)
-                                       (VBN recolhidas))
-                                 (ADVP 
-                                   (RB temporariamente))
-                                 (,)
-                                 (Â«)
-                                 (_CU_ 
-                                   (PP 
-                                     (IN entre)
-                                     (NP 
-                                       (CD nove)))
-                                   (PP 
-                                     (IN a)
-                                     (NP 
-                                       (CD doze)
-                                       (NN meses))))
-                                 (Â»))
-                        (,)
-                        (PP (IN segundo)
-                                 (NP (DT o)
-                                        (Â«)
-                                        (NNP Jornal_da_Madeira)
-                                        (Â»)))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Apesar_de+)
+      (NP 
+        (DT os)
+        (PRP muitos)
+        (NN pedidos)
+        (PP 
+          (IN de)
+          (NP 
+            (NN adopção)
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT as)
+      (NN pessoas)
+    )
+    (VP 
+      (VBP estão)
+      (IN a)
+      (VB ser)
+      (VBN informadas)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT as)
+        (NN crianças)
+      )
+      (ADVP 
+        (RB apenas)
+      )
+      (VP 
+        (VBP serão)
+        (VBN recolhidas)
+      )
+      (ADVP 
+        (RB temporariamente)
+      )
+      (,)
+      («)
+      (PP 
+        (PP 
+          (IN entre)
+          (NP 
+            (CD nove)
+          )
+        )
+        (PP 
+          (IN a)
+          (NP 
+            (CD doze)
+            (NN meses)
+          )
+        )
+      )
+      (»)
+    )
+    (,)
+    (PP 
+      (IN segundo)
+      (NP 
+        (DT o)
+        («)
+        (NNP Jornal_da_Madeira)
+        (»)
+      )
+    )
+    (.)
+  )
+)

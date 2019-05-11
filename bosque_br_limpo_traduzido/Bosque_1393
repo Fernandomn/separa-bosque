@@ -1,32 +1,56 @@
-(S (VP (NP (_CU_ (NP 
-                                         (NNP Takuo_Hirano))
-                                       (CC e)
-                                       (NP 
-                                         (NNP Tetsuyuki_Hirano)))
-                                 (,)
-                                 (_CU_ 
-                                   (NP 
-                                     (NN pai))
-                                   (CC e)
-                                   (NP 
-                                     (NN filho)))
-                                 (,))
-                        (VP (VBP vieram))
-                        (VP (VP (VB falar))
-                                  (PP 
-                                    (IN sobre)
-                                    (NP 
-                                      (DT o)
-                                      (JJ novo)
-                                      (NN conceito)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN design)))
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP est√£o)
-                                          (VBG desenvolvendo))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (NP 
+          (NNP Takuo_Hirano)
+        )
+        e        (NP 
+          (NNP Tetsuyuki_Hirano)
+        )
+      )
+      (,)
+      (NP 
+        (NP 
+          (NN pai)
+        )
+        e        (NP 
+          (NN filho)
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP vieram)
+    )
+    (VP 
+      (VP 
+        (VB falar)
+      )
+      (PP 
+        (IN sobre)
+        (NP 
+          (DT o)
+          (JJ novo)
+          (NN conceito)
+          (PP 
+            (IN de)
+            (NP 
+              (NN design)
+            )
+          )
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP est„o)
+              (VBG desenvolvendo)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

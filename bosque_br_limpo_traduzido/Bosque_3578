@@ -1,30 +1,53 @@
-(S (VP (NP (NNP Juarez_Rizzieri)
-                                 (,)
-                                 (NP 
-                                   (NN coordenador)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (NNP √çndice_de_Pre√ßos_ao_Consumidor)))
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       (NNP Fipe))))
-                                 (,))
-                        (VP (VBP prev√™))
-                        (PP (IN para)
-                                 (NP (NN agosto)))
-                        (NP (DT uma)
-                                (NN taxa)
-                                (PP (IN entre)
-                                       (_CU_ 
-                                         (NP 
-                                           (CD 1)
-                                           (NN %))
-                                         (CC e)
-                                         (NP 
-                                           (CD 2)
-                                           (NN %)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Juarez_Rizzieri)
+      (,)
+      (NP 
+        (NN coordenador)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NNP Õndice_de_PreÁos_ao_Consumidor)
+          )
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP Fipe)
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP prevÍ)
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (NN agosto)
+      )
+    )
+    (NP 
+      (DT uma)
+      (NN taxa)
+      (PP 
+        (IN entre)
+        (NP 
+          (NP 
+            (CD 1)
+            (NN %)
+          )
+          e          (NP 
+            (CD 2)
+            (NN %)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

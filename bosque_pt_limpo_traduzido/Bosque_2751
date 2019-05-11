@@ -1,57 +1,90 @@
-(S (VP (NP (DT As)
-                                 (CD duas)
-                                 (JJ grandes)
-                                 (NN famÃ­lias)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN supercomputaÃ§Ã£o))))
-                        (VP (VBP sÃ£o))
-                        (_CU_ (NP (DT as)
-                                       (VBN chamadas)
-                                       (Â«)
-                                       (NN mÃ¡quinas)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN multiprocessamento)
-                                           (ADJP 
-                                             (JJ vectorial))))
-                                       (Â»)
-                                       ({)
-                                       (ADVP 
-                                         (RB como)
-                                         (NP 
-                                           (PRP alguns)
-                                           (NNP Cray)))
-                                       (}))
-                               (CC e)
-                               (NP (PRP as)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN processamento)
-                                           (ADJP 
-                                             (JJ paralelo))))
-                                       (--)
-                                       (VP 
-                                         (ADJP 
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (PRP que)))
-                                           (DT a)
-                                           (RB mais)
-                                           (VBN conhecida))
-                                         (VP 
-                                           (VBP Ã©))
-                                         (NP 
-                                           (DT a)
-                                           (NNP Connection_Machine)
-                                           (,)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT a)
-                                               (NNP Thinking_Machines)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (CD duas)
+      (JJ grandes)
+      (NN famílias)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN supercomputação)
+        )
+      )
+    )
+    (VP 
+      (VBP são)
+    )
+    (NP 
+      (NP 
+        (DT as)
+        (VBN chamadas)
+        («)
+        (NN máquinas)
+        (PP 
+          (IN de)
+          (NP 
+            (NN multiprocessamento)
+            (ADJP 
+              (JJ vectorial)
+            )
+          )
+        )
+        (»)
+        ({)
+        (ADVP 
+          (RB como)
+          (NP 
+            (PRP alguns)
+            (NNP Cray)
+          )
+        )
+        (})
+      )
+      (CC e)
+      (NP 
+        (PRP as)
+        (PP 
+          (IN de)
+          (NP 
+            (NN processamento)
+            (ADJP 
+              (JJ paralelo)
+            )
+          )
+        )
+        (--)
+        (VP 
+          (ADJP 
+            (PP 
+              (IN de)
+              (NP 
+                (PRP que)
+              )
+            )
+            (DT a)
+            (RB mais)
+            (VBN conhecida)
+          )
+          (VP 
+            (VBP é)
+          )
+          (NP 
+            (DT a)
+            (NNP Connection_Machine)
+            (,)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NNP Thinking_Machines)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

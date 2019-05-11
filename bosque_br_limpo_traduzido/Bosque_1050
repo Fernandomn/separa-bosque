@@ -1,22 +1,35 @@
-(S (VP (Â«)
-                        (VP (VBP Pode)
-                              (VB ser))
-                        (_CU_ (PP 
-                                   (IN por+)
-                                   (NP 
-                                     (DT a)
-                                     (NN mÃ©dia)))
-                                 (,)
-                                 (PP 
-                                   (IN por+)
-                                   (NP 
-                                     (DT o)
-                                     (NN pico)))
-                                 (CC ou)
-                                 (NP 
-                                   (PRP outro)
-                                   (NN critÃ©rio)
-                                   (NP 
-                                     (PRP qualquer))))
-                        (.)
-                        (Â»)))
+(S 
+  (VP 
+    («)
+    (VP 
+      (VBP Pode)
+      (VB ser)
+    )
+    (UCP 
+      (PP 
+        (IN por+)
+        (NP 
+          (DT a)
+          (NN média)
+        )
+      )
+      (,)
+      (PP 
+        (IN por+)
+        (NP 
+          (DT o)
+          (NN pico)
+        )
+      )
+      ou      (NP 
+        (PRP outro)
+        (NN critério)
+        (NP 
+          (PRP qualquer)
+        )
+      )
+    )
+    (.)
+    (»)
+  )
+)

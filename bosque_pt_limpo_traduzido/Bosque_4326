@@ -1,36 +1,65 @@
-(S (VP (NP (DT Os)
-                                 (NN representantes)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP CNN)
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (NNP Bagdad))))))
-                        (VP (VBP comunicaram))
-                        (_CU_ (NP (DT a)
-                                        (NN composiÃ§Ã£o)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN comboio))))
-                                (CC e)
-                                (NP (DT a)
-                                        (NN cor)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (NN automÃ³veis)))))
-                        (PP (IN a+)
-                                (NP (DT a)
-                                       (PRP sua)
-                                       (NN sede)
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT os)
-                                           (NNP Estados_Unidos)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN representantes)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP CNN)
+          (PP 
+            (IN em)
+            (NP 
+              (NNP Bagdad)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP comunicaram)
+    )
+    (NP 
+      (NP 
+        (DT a)
+        (NN composição)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN comboio)
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (DT a)
+        (NN cor)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN automóveis)
+          )
+        )
+      )
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT a)
+        (PRP sua)
+        (NN sede)
+        (PP 
+          (IN em+)
+          (NP 
+            (DT os)
+            (NNP Estados_Unidos)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

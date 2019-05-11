@@ -1,45 +1,81 @@
-(S (VP (NP (_CU_ (NP 
-                                         (DT A)
-                                         (NN retrospectiva))
-                                       (/)
-                                       (NP 
-                                         (NN concurso)))
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN cinema)
-                                          (ADJP 
-                                            (JJ documental))
-                                          (NP 
-                                            (NN asi√°tico)))))
-                        (VP (VBP inclui))
-                        (ADVP (RB ainda))
-                        (NP (DT a)
-                                (NN homenagem)
-                                (PP (IN a+)
-                                       (NP 
-                                         (DT o)
-                                         (NN cineasta)
-                                         (ADJP 
-                                           (JJ sueco))
-                                         (NP 
-                                           (NNP Stefan_Jarl))))
-                                (,)
-                                (VP 
-                                  (PP 
-                                    (IN a+)
-                                    (NP 
-                                      (DT a)
-                                      (PRP qual)))
-                                  (NP 
-                                    (DT a)
-                                    (NNP Cinemateca_Portuguesa))
-                                  (VP (VBP adere))
-                                  (VP 
-                                    (VP 
-                                      (VBG apresentando))
-                                    (NP 
-                                      (CD duas)
-                                      (NN pel√≠culas)
-                                      (NP 
-                                        (PRP suas))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (UCP 
+        (NP 
+          (DT A)
+          (NN retrospectiva)
+        )
+        (/)
+        (NP 
+          (NN concurso)
+        )
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NN cinema)
+          (ADJP 
+            (JJ documental)
+          )
+          (NP 
+            (NN asi·tico)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP inclui)
+    )
+    (ADVP 
+      (RB ainda)
+    )
+    (NP 
+      (DT a)
+      (NN homenagem)
+      (PP 
+        (IN a+)
+        (NP 
+          (DT o)
+          (NN cineasta)
+          (ADJP 
+            (JJ sueco)
+          )
+          (NP 
+            (NNP Stefan_Jarl)
+          )
+        )
+      )
+      (,)
+      (VP 
+        (PP 
+          (IN a+)
+          (NP 
+            (DT a)
+            (PRP qual)
+          )
+        )
+        (NP 
+          (DT a)
+          (NNP Cinemateca_Portuguesa)
+        )
+        (VP 
+          (VBP adere)
+        )
+        (VP 
+          (VP 
+            (VBG apresentando)
+          )
+          (NP 
+            (CD duas)
+            (NN pelÌculas)
+            (NP 
+              (PRP suas)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

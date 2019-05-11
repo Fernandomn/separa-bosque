@@ -1,31 +1,60 @@
-(S (VP (Â«)
-                        (PP (IN Em+)
-                                 (NP (DT a)
-                                        (NN altura)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT as)
-                                            (NN chuvas)))))
-                        (,)
-                        (VP (VBP tinha))
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NN escola)))
-                        (NP (_CU_ (NP 
-                                        (PRP uns)
-                                        (NN sapatos))
-                                      (CC e)
-                                      (NP 
-                                        (PRP umas)
-                                        (NN roupecas)))
-                                (PP (IN para)
-                                       (VB trocar)))
-                        (,)
-                        (VP (IN pois)
-                                  (VP (VBP chegava))
-                                  (ADJP 
-                                    (RB todo)
-                                    (VBN molhado)))
-                        (...)
-                        (Â»)))
+(S 
+  (VP 
+    («)
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT a)
+        (NN altura)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT as)
+            (NN chuvas)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP tinha)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN escola)
+      )
+    )
+    (NP 
+      (NP 
+        (NP 
+          (PRP uns)
+          (NN sapatos)
+        )
+        (CC e)
+        (NP 
+          (PRP umas)
+          (NN roupecas)
+        )
+      )
+      (PP 
+        (IN para)
+        (VB trocar)
+      )
+    )
+    (,)
+    (VP 
+      (IN pois)
+      (VP 
+        (VBP chegava)
+      )
+      (ADJP 
+        (RB todo)
+        (VBN molhado)
+      )
+    )
+    (...)
+    (»)
+  )
+)

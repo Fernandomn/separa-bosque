@@ -1,62 +1,104 @@
-(S (VP (ADVP (RB Ou_seja))
-                       (,)
-                       (PP (IN em)
-                                (NP (CD dez)
-                                       (NN anos)))
-                       (,)
-                       (ADVP (RB nunca))
-                       (NP (DT a)
-                                (NNP Lei_dos_ServiÃ§os_de_InformaÃ§Ãµes))
-                       (VP (VBP foi))
-                       (ADVP (RB integralmente))
-                       (VP (VBN cumprida))
-                       (,)
-                       (PP (IN com)
-                                (_CU_ (NP 
-                                         (DT uma)
-                                         (NN estrutura)
-                                         (VP 
-                                           (NP 
-                                             (PRP que))
-                                           (VP 
-                                             (VBP estava))
-                                           (Â«)
-                                           (PP 
-                                             (IN em+)
-                                             (NP 
-                                               (DT o)
-                                               (NN papel)))
-                                           (Â»))
-                                         (PP 
-                                           (IN sem)
-                                           (NP 
-                                             (NN existÃªncia)
-                                             (ADJP 
-                                               (JJ prÃ¡tica))))
-                                         ({)
-                                         (NP 
-                                           (DT o)
-                                           (NNP SIED))
-                                         (}))
-                                       (CC e)
-                                       (NP 
-                                         (PRP outra)
-                                         (VP 
-                                           (NP 
-                                             (PRP que))
-                                           (VP 
-                                             (VBP assegurava))
-                                           (NP 
-                                             (DT as)
-                                             (NN funÃ§Ãµes)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT a)
-                                                 (JJ primeira)))))
-                                         ({)
-                                         (NP 
-                                           (DT a)
-                                           (NNP Dinfo))
-                                         (}))))
-                       (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Ou_seja)
+    )
+    (,)
+    (PP 
+      (IN em)
+      (NP 
+        (CD dez)
+        (NN anos)
+      )
+    )
+    (,)
+    (ADVP 
+      (RB nunca)
+    )
+    (NP 
+      (DT a)
+      (NNP Lei_dos_Serviços_de_Informações)
+    )
+    (VP 
+      (VBP foi)
+    )
+    (ADVP 
+      (RB integralmente)
+    )
+    (VP 
+      (VBN cumprida)
+    )
+    (,)
+    (PP 
+      (IN com)
+      (NP 
+        (NP 
+          (DT uma)
+          (NN estrutura)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP estava)
+            )
+            («)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NN papel)
+              )
+            )
+            (»)
+          )
+          (PP 
+            (IN sem)
+            (NP 
+              (NN existência)
+              (ADJP 
+                (JJ prática)
+              )
+            )
+          )
+          ({)
+          (NP 
+            (DT o)
+            (NNP SIED)
+          )
+          (})
+        )
+        (CC e)
+        (NP 
+          (PRP outra)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP assegurava)
+            )
+            (NP 
+              (DT as)
+              (NN funções)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (JJ primeira)
+                )
+              )
+            )
+          )
+          ({)
+          (NP 
+            (DT a)
+            (NNP Dinfo)
+          )
+          (})
+        )
+      )
+    )
+    (.)
+  )
+)

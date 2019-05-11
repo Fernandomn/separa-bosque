@@ -1,42 +1,74 @@
-(S (VP (PP (IN AlÃ©m_de+)
-                                 (NP (DT o)
-                                        (NN estudo)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT os)
-                                              (NN sismos)))
-                                          (CC e)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT as)
-                                              (NN caracterÃ­sticas)
-                                              (ADJP 
-                                                (JJ tectÃ³nicas))
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT as)
-                                                  (NN regiÃµes)
-                                                  (VP 
-                                                    (ADVP 
-                                                      (RB onde))
-                                                    (NP 
-                                                      (PRP eles))
-                                                    (VP 
-                                                      (VBP tÃªm))
-                                                    (NP 
-                                                      (NN lugar))))))))))
-                        (,)
-                        (NP (DT as)
-                                 (NN explosÃµes)
-                                 (ADJP 
-                                   (JJ nucleares)))
-                        (VP (VBP podem))
-                        (ADVP (RB ainda))
-                        (VP (VB servir))
-                        (NP (PRP outros)
-                                (NN fins))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Além_de+)
+      (NP 
+        (DT o)
+        (NN estudo)
+        (PP 
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (NN sismos)
+            )
+          )
+          (CC e)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT as)
+              (NN características)
+              (ADJP 
+                (JJ tectónicas)
+              )
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT as)
+                  (NN regiões)
+                  (VP 
+                    (ADVP 
+                      (RB onde)
+                    )
+                    (NP 
+                      (PRP eles)
+                    )
+                    (VP 
+                      (VBP têm)
+                    )
+                    (NP 
+                      (NN lugar)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT as)
+      (NN explosões)
+      (ADJP 
+        (JJ nucleares)
+      )
+    )
+    (VP 
+      (VBP podem)
+    )
+    (ADVP 
+      (RB ainda)
+    )
+    (VP 
+      (VB servir)
+    )
+    (NP 
+      (PRP outros)
+      (NN fins)
+    )
+    (.)
+  )
+)

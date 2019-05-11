@@ -1,19 +1,35 @@
-(S (VP (VP (VBP Foi)
-                             (VBN utilizada))
-                       (NP (NN tÃ©cnica)
-                                (VBN mista))
-                       (,)
-                       (VP 
-                         (VP (VBG incluindo))
-                         (_CU_ (NP 
-                                   (NN desenho))
-                                 (,)
-                                 (NP 
-                                   (NN pastel))
-                                 (,)
-                                 (NP 
-                                   (NN ceragrafia))
-                                 (CC e)
-                                 (NP 
-                                   (NN fotografismo))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Foi)
+      (VBN utilizada)
+    )
+    (NP 
+      (NN técnica)
+      (VBN mista)
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG incluindo)
+      )
+      (NP 
+        (NP 
+          (NN desenho)
+        )
+        (,)
+        (NP 
+          (NN pastel)
+        )
+        (,)
+        (NP 
+          (NN ceragrafia)
+        )
+        e        (NP 
+          (NN fotografismo)
+        )
+      )
+    )
+    (.)
+  )
+)

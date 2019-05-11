@@ -1,44 +1,72 @@
-(S (_CU_ (VP (Â«)
-                                (PP 
-                                  (IN Em+)
-                                  (NP 
-                                    (DT o)
-                                    (NN paÃ­s)))
-                                (VP (VBP prosseguem))
-                                (NP 
-                                  (DT os)
-                                  (NN incidentes)
-                                  (;)
-                                  (_CU_ 
-                                    (PP 
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN percursos)))
-                                      (PP 
-                                        (IN para)
-                                        (NP 
-                                          (PRP uns))))
-                                    (,)
-                                    (ADJP 
-                                      (JJ perigosos)
-                                      (PP 
-                                        (IN para)
-                                        (NP 
-                                          (PRP outros))))))
-                                (Â»))
-                       ({)
-                       (NP (NNP NoticiÃ¡rio)
-                               (PP (IN de+)
-                                      (NP 
-                                        (DT as)
-                                        (CD 13)
-                                        (NN horas)))
-                               (PP (IN de+)
-                                      (NP 
-                                        (DT a)
-                                        (Â«)
-                                        (NNP RÃ¡dio_Nacional)
-                                        (Â»))))
-                       (})
-                       (.)))
+(S 
+  (UCP 
+    (VP 
+      («)
+      (PP 
+        (IN Em+)
+        (NP 
+          (DT o)
+          (NN país)
+        )
+      )
+      (VP 
+        (VBP prosseguem)
+      )
+      (NP 
+        (DT os)
+        (NN incidentes)
+        (;)
+        (UCP 
+          (PP 
+            (PP 
+              (IN de)
+              (NP 
+                (NN percursos)
+              )
+            )
+            (PP 
+              (IN para)
+              (NP 
+                (PRP uns)
+              )
+            )
+          )
+          (,)
+          (ADJP 
+            (JJ perigosos)
+            (PP 
+              (IN para)
+              (NP 
+                (PRP outros)
+              )
+            )
+          )
+        )
+      )
+      (»)
+    )
+    ({)
+    (NP 
+      (NNP Noticiário)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (CD 13)
+          (NN horas)
+        )
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          («)
+          (NNP Rádio_Nacional)
+          (»)
+        )
+      )
+    )
+    (})
+    (.)
+  )
+)

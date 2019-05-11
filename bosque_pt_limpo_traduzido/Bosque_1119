@@ -1,29 +1,54 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT a)
-                                        (NN descriÃ§Ã£o)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (NP 
-                                            (PRP se))
-                                          (VP 
-                                            (VBP segue)))))
-                        (VP (VBP realizo))
-                        (_CU_ (NP (PRP algumas)
-                                        (NN simplificaÃ§Ãµes))
-                                (,)
-                                (ADVP 
-                                  (RB bem_como))
-                                (NP (DT uma)
-                                        (NN adaptaÃ§Ã£o)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN hebraico)))
-                                        (PP 
-                                          (IN para)
-                                          (NP 
-                                            (DT o)
-                                            (NN portuguÃªs)))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT a)
+        (NN descrição)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VBP segue)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP realizo)
+    )
+    (UCP 
+      (NP 
+        (PRP algumas)
+        (NN simplificações)
+      )
+      (,)
+      (ADVP 
+        (RB bem_como)
+      )
+      (NP 
+        (DT uma)
+        (NN adaptação)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN hebraico)
+          )
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (DT o)
+            (NN português)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

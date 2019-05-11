@@ -1,138 +1,210 @@
-(S (VP (PP (IN De+)
-                                 (NP (DT o)
-                                        (NN ponto)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN vista)))
-                                        (ADJP 
-                                          (JJ concorrencial))))
-                        (,)
-                        (NP (DT o)
-                                 (NN agravamento)
-                                 (PP 
-                                   (IN de+)
-                                   (NP 
-                                     (DT as)
-                                     (NN perdas)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NN empresa))))))
-                        (VP (VBP explica-))
-                        (NP (PRP se))
-                        (,)
-                        (PP em_parte)
-                        (,)
-                        (_CU_ (PP 
-                                   (IN devido_a+)
-                                   (NP 
-                                     (DT a)
-                                     (Â«)
-                                     (NN entrada)
-                                     (PP 
-                                       (IN em+)
-                                       (NP 
-                                         (DT o)
-                                         (NN mercado)))
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (JJ novos)
-                                         (NN estaleiros)
-                                         (VP 
-                                           (VP 
-                                             (VBN situados))
-                                           (PP 
-                                             (IN em)
-                                             (NP 
-                                               (NN paÃ­ses)
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (PRP muito)
-                                                   (JJ baixo)
-                                                   (NN custo)
-                                                   (PP 
-                                                     (IN de)
-                                                     (NP 
-                                                       (NN mÃ£o-de-obra)))))
-                                               ({)
-                                               (NP 
-                                                 (NN paÃ­ses)
-                                                 (PP 
-                                                   (IN de+)
-                                                   (NP 
-                                                     (DT o)
-                                                     (NP ex-bloco)
-                                                     (PP 
-                                                       (IN de)
-                                                       (NP 
-                                                         (NN Leste))))))
-                                               (}))))))))
-                                 (,)
-                                 (CC e)
-                                 (PP 
-                                   (IN a)
-                                   (NP 
-                                     (NN aumentos)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NN capacidade)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN docagem)
-                                             (PP 
-                                               (IN em)
-                                               (NP 
-                                                 (NN Ã¡reas)
-                                                 (VP 
-                                                   (ADVP 
-                                                     (RB bem))
-                                                   (VP 
-                                                     (VBN localizadas))
-                                                   (PP 
-                                                     (IN relativamente_a+)
-                                                     (NP 
-                                                       (DT os)
-                                                       (JJ grandes)
-                                                       (NN fluxos)
-                                                       (PP 
-                                                         (IN de)
-                                                         (NP 
-                                                           (NN trÃ¡fego)
-                                                           (ADJP 
-                                                             (JJ marÃ­timo))))))))))))))))
-                        (,)
-                        (PP (IN alÃ©m_de)
-                                 (VP 
-                                   (ADVP 
-                                     (RB tambÃ©m))
-                                   (VP 
-                                     (VB disporem))
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN mÃ£o-de-obra)
-                                       (ADJP 
-                                         (JJ barata))
-                                       ({)
-                                       (NP 
-                                         (NN paÃ­ses)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT o)
-                                             (_CU_ 
-                                               (ADJP 
-                                                 (JJ MÃ©dio))
-                                               (CC e)
-                                               (ADJP 
-                                                 (JJ Extremo)))
-                                             (NNP Oriente))))
-                                       (})))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN De+)
+      (NP 
+        (DT o)
+        (NN ponto)
+        (PP 
+          (IN de)
+          (NP 
+            (NN vista)
+          )
+        )
+        (ADJP 
+          (JJ concorrencial)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN agravamento)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (NN perdas)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN empresa)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP explica-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (,)
+    (PP em_parte)
+    (,)
+    (PP 
+      (PP 
+        (IN devido_a+)
+        (NP 
+          (DT a)
+          («)
+          (NN entrada)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT o)
+              (NN mercado)
+            )
+          )
+          (PP 
+            (IN de)
+            (NP 
+              (JJ novos)
+              (NN estaleiros)
+              (VP 
+                (VP 
+                  (VBN situados)
+                )
+                (PP 
+                  (IN em)
+                  (NP 
+                    (NN países)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (PRP muito)
+                        (JJ baixo)
+                        (NN custo)
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (NN mão-de-obra)
+                          )
+                        )
+                      )
+                    )
+                    ({)
+                    (NP 
+                      (NN países)
+                      (PP 
+                        (IN de+)
+                        (NP 
+                          (DT o)
+                          (NP ex-bloco)
+                          (PP 
+                            (IN de)
+                            (NP 
+                              (NN Leste)
+                            )
+                          )
+                        )
+                      )
+                    )
+                    (})
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (CC e)
+      (PP 
+        (IN a)
+        (NP 
+          (NN aumentos)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN capacidade)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN docagem)
+                  (PP 
+                    (IN em)
+                    (NP 
+                      (NN áreas)
+                      (VP 
+                        (ADVP 
+                          (RB bem)
+                        )
+                        (VP 
+                          (VBN localizadas)
+                        )
+                        (PP 
+                          (IN relativamente_a+)
+                          (NP 
+                            (DT os)
+                            (JJ grandes)
+                            (NN fluxos)
+                            (PP 
+                              (IN de)
+                              (NP 
+                                (NN tráfego)
+                                (ADJP 
+                                  (JJ marítimo)
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN além_de)
+      (VP 
+        (ADVP 
+          (RB também)
+        )
+        (VP 
+          (VB disporem)
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (NN mão-de-obra)
+            (ADJP 
+              (JJ barata)
+            )
+            ({)
+            (NP 
+              (NN países)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (ADJP 
+                    (ADJP 
+                      (JJ Médio)
+                    )
+                    (CC e)
+                    (ADJP 
+                      (JJ Extremo)
+                    )
+                  )
+                  (NNP Oriente)
+                )
+              )
+            )
+            (})
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

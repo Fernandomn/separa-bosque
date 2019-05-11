@@ -1,26 +1,49 @@
-(S (NP (NN Problemas)
-                       (VP (NP (PRP que))
-                               (,)
-                               (PP (PP de_acordo)
-                                        (PP 
-                                          (IN com)
-                                          (NP 
-                                            (NNP Carlos_Noysan))))
-                               (,)
-                               (_CU_ (NP 
-                                          (DT o)
-                                          (NNP Instituto_de_AcÃ§Ã£o_Social))
-                                        (CC e)
-                                        (NP 
-                                          (DT o)
-                                          (NNP Centro_de_PrestaÃ§Ãµes_PecuniÃ¡rias)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP SeguranÃ§a_Social)))))
-                               (VP (VBP tÃªm)
-                                     (VBN procurado))
-                               (VP (VP 
-                                          (VB solucionar))))
-                       (.)))
+(S 
+  (NP 
+    (NN Problemas)
+    (VP 
+      (NP 
+        (PRP que)
+      )
+      (,)
+      (PP 
+        (PP de_acordo)
+        (PP 
+          (IN com)
+          (NP 
+            (NNP Carlos_Noysan)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NP 
+          (DT o)
+          (NNP Instituto_de_Acção_Social)
+        )
+        (CC e)
+        (NP 
+          (DT o)
+          (NNP Centro_de_Prestações_Pecuniárias)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Segurança_Social)
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP têm)
+        (VBN procurado)
+      )
+      (VP 
+        (VP 
+          (VB solucionar)
+        )
+      )
+    )
+    (.)
+  )
+)

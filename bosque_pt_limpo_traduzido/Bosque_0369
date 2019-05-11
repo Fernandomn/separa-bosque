@@ -1,56 +1,92 @@
-(S (VP (NP (NNP Botelho_da_Costa))
-                       (VP (VBP garantiu))
-                       (ADVP (RB tambÃ©m))
-                       (VP (IN que)
-                                (NP 
-                                  (DT o)
-                                  (NN orÃ§amento)
-                                  (PP 
-                                    (IN para)
-                                    (_CU_ 
-                                      (NP 
-                                        (CD 98))
-                                      (/)
-                                      (ADJP 
-                                        (CD 99)))))
-                                (VP (VBP serÃ¡)
-                                      (VBN entregue))
-                                (PP (IN a+)
-                                        (NP 
-                                          (DT o)
-                                          (NN conselho)
-                                          (ADJP 
-                                            (JJ fiscal))))
-                                (PP 
-                                  (IN a_tempo_de)
-                                  (VP 
-                                    (VP 
-                                      (VB ser)
-                                      (VBN analisado))
-                                    (PP 
-                                      (IN por)
-                                      (NP 
-                                        (PRP este)))
-                                    (,)
-                                    (PP 
-                                      (RB provavelmente)
-                                      (Â«)
-                                      (IN em+)
-                                      (_CU_ 
-                                        (NP 
-                                          (DT o)
-                                          (NN final)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (PRP esta)
-                                              (NN semana))))
-                                        (,)
-                                        (NP 
-                                          (NN inÃ­cio)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (JJ prÃ³xima)))))))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Botelho_da_Costa)
+    )
+    (VP 
+      (VBP garantiu)
+    )
+    (ADVP 
+      (RB também)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT o)
+        (NN orçamento)
+        (PP 
+          (IN para)
+          (UCP 
+            (NP 
+              (CD 98)
+            )
+            (/)
+            (ADJP 
+              (CD 99)
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP será)
+        (VBN entregue)
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT o)
+          (NN conselho)
+          (ADJP 
+            (JJ fiscal)
+          )
+        )
+      )
+      (PP 
+        (IN a_tempo_de)
+        (VP 
+          (VP 
+            (VB ser)
+            (VBN analisado)
+          )
+          (PP 
+            (IN por)
+            (NP 
+              (PRP este)
+            )
+          )
+          (,)
+          (PP 
+            (RB provavelmente)
+            («)
+            (IN em+)
+            (NP 
+              (NP 
+                (DT o)
+                (NN final)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (PRP esta)
+                    (NN semana)
+                  )
+                )
+              )
+              (,)
+              (NP 
+                (NN início)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (JJ próxima)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

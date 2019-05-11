@@ -1,35 +1,61 @@
-(S (_CU_ (VP (NP 
-                                  (NNP Silvia))
-                                (VP (VBP tomou))
-                                (NP (NN anestesia)
-                                        (ADJP 
-                                          (JJ peridural))
-                                        ({)
-                                        (VP 
-                                          (VP 
-                                            (VBN aplicada))
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT a)
-                                              (NN regi√£o)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN coluna))))))
-                                        (})))
-                       (CC e)
-                       (VP (VP (VBP p√¥de)
-                                      (VB retornar))
-                                (PP (IN para)
-                                       (NP 
-                                         (PRP sua)
-                                         (NN casa)))
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (DT o)
-                                    (PRP mesmo)
-                                    (NN dia))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (NNP Silvia)
+      )
+      (VP 
+        (VBP tomou)
+      )
+      (NP 
+        (NN anestesia)
+        (ADJP 
+          (JJ peridural)
+        )
+        ({)
+        (VP 
+          (VP 
+            (VBN aplicada)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN regi„o)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NN coluna)
+                )
+              )
+            )
+          )
+        )
+        (})
+      )
+    )
+    e    (VP 
+      (VP 
+        (VBP pÙde)
+        (VB retornar)
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (PRP sua)
+          (NN casa)
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (PRP mesmo)
+          (NN dia)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,34 +1,61 @@
-(S (VP (ADJP (CD Um)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN objectivos)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (JJ novo)
-                                              (NNP Word))))))
-                        (VP (VBP foi))
-                        (ADVP (RB tambÃ©m))
-                        (VP (VP (VB assegurar))
-                                  (NP 
-                                    (DT a)
-                                    (JJ mÃ¡xima)
-                                    (NN coerÃªncia))
-                                  (PP 
-                                    (IN entre)
-                                    (NP 
-                                      (DT as)
-                                      (NN versÃµes)
-                                      (_CU_ 
-                                        (PP 
-                                          (IN para)
-                                          (NP 
-                                            (NNP Windows)))
-                                        (CC e)
-                                        (PP 
-                                          (IN para)
-                                          (NP 
-                                            (NNP Macintosh)))))))
-                        (.)))
+(S 
+  (VP 
+    (ADJP 
+      (CD Um)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN objectivos)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (JJ novo)
+              (NNP Word)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP foi)
+    )
+    (ADVP 
+      (RB também)
+    )
+    (VP 
+      (VP 
+        (VB assegurar)
+      )
+      (NP 
+        (DT a)
+        (JJ máxima)
+        (NN coerência)
+      )
+      (PP 
+        (IN entre)
+        (NP 
+          (DT as)
+          (NN versões)
+          (PP 
+            (PP 
+              (IN para)
+              (NP 
+                (NNP Windows)
+              )
+            )
+            (CC e)
+            (PP 
+              (IN para)
+              (NP 
+                (NNP Macintosh)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

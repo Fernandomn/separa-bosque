@@ -1,39 +1,67 @@
-(S (VP (NP (DT Os)
-                                 (NN carros))
-                        (VP (VBP ganharam))
-                        (ADVP (RB ainda))
-                        (NP (NN prote√ß√£o)
-                                (_CU_ (PP 
-                                         (IN sob)
-                                         (NP 
-                                           (DT o)
-                                           (NN c√°rter)))
-                                       (CC e)
-                                       (PP 
-                                         (IN sob)
-                                         (NP 
-                                           (DT o)
-                                           (NN tanque)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN gasolina)))))))
-                        (,)
-                        (PP (IN para)
-                                 (VP 
-                                   (VP 
-                                     (VB suportar))
-                                   (PP 
-                                     (IN com)
-                                     (NP 
-                                       (JJ menor)
-                                       (NN risco)))
-                                   (NP 
-                                     (DT os)
-                                     (NN choques)
-                                     (PP 
-                                       (IN contra)
-                                       (NP 
-                                         (DT as)
-                                         (NN pedras))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN carros)
+    )
+    (VP 
+      (VBP ganharam)
+    )
+    (ADVP 
+      (RB ainda)
+    )
+    (NP 
+      (NN proteÁ„o)
+      (PP 
+        (PP 
+          (IN sob)
+          (NP 
+            (DT o)
+            (NN c·rter)
+          )
+        )
+        e        (PP 
+          (IN sob)
+          (NP 
+            (DT o)
+            (NN tanque)
+            (PP 
+              (IN de)
+              (NP 
+                (NN gasolina)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VB suportar)
+        )
+        (PP 
+          (IN com)
+          (NP 
+            (JJ menor)
+            (NN risco)
+          )
+        )
+        (NP 
+          (DT os)
+          (NN choques)
+          (PP 
+            (IN contra)
+            (NP 
+              (DT as)
+              (NN pedras)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

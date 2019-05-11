@@ -1,25 +1,50 @@
-(S (VP (VP (VBP Pode))
-                        (ADVP (RB tambÃ©m))
-                        (VP (VB cobrar))
-                        (PP (IN de+)
-                                (NP (DT os)
-                                       (NN membros)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (PRP sua)
-                                           (NN administraÃ§Ã£o)))))
-                        (_CU_ (VP 
-                                  (IN que)
-                                  (VP (VBP apÃ³iem))
-                                  (NP 
-                                    (DT o)
-                                    (PRP seu)
-                                    (NN candidato)))
-                                (CC ou)
-                                (VP 
-                                  (VP (VBP deixem))
-                                  (NP 
-                                    (DT o)
-                                    (NN governo))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Pode)
+    )
+    (ADVP 
+      (RB também)
+    )
+    (VP 
+      (VB cobrar)
+    )
+    (PP 
+      (IN de+)
+      (NP 
+        (DT os)
+        (NN membros)
+        (PP 
+          (IN de)
+          (NP 
+            (PRP sua)
+            (NN administração)
+          )
+        )
+      )
+    )
+    (VP 
+      (VP 
+        (IN que)
+        (VP 
+          (VBP apóiem)
+        )
+        (NP 
+          (DT o)
+          (PRP seu)
+          (NN candidato)
+        )
+      )
+      ou      (VP 
+        (VP 
+          (VBP deixem)
+        )
+        (NP 
+          (DT o)
+          (NN governo)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,29 +1,52 @@
-(S (VP (NP (NNP Fernando_Henrique))
-                        (VP (VBP apareceu))
-                        (_CU_ (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT o)
-                                     (NN r√°dio)))
-                                 (CC e)
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT a)
-                                     (NN televis√£o))))
-                        (VP 
-                          (VP (VBG dizendo))
-                          (VP (IN que)
-                                   (ADVP 
-                                     (RB n√£o))
-                                   (VP 
-                                     (VBP existe))
-                                   (NP 
-                                     (PRP nada))
-                                   (PP 
-                                     (IN contra)
-                                     (NP 
-                                       (DT o)
-                                       (PRP seu)
-                                       (NN vice)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Fernando_Henrique)
+    )
+    (VP 
+      (VBP apareceu)
+    )
+    (PP 
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN r·dio)
+        )
+      )
+      e      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NN televis„o)
+        )
+      )
+    )
+    (VP 
+      (VP 
+        (VBG dizendo)
+      )
+      (VP 
+        (IN que)
+        (ADVP 
+          (RB n„o)
+        )
+        (VP 
+          (VBP existe)
+        )
+        (NP 
+          (PRP nada)
+        )
+        (PP 
+          (IN contra)
+          (NP 
+            (DT o)
+            (PRP seu)
+            (NN vice)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,21 +1,39 @@
-(S (VP (PP (IN Entre)
-                                 (NP (PRP eles)))
-                        (VP (VBP estavam))
-                        (_CU_ (NP 
-                                   (DT a)
-                                   (NN empresa)
-                                   (NP 
-                                     (NNP Ã“ticas_Trevo)))
-                                 (,)
-                                 (NP 
-                                   (NN terrenos))
-                                 (CC e)
-                                 (NP 
-                                   (NN pontos)
-                                   (ADJP 
-                                     (JJ comerciais))
-                                   (PP 
-                                     (IN em)
-                                     (NP 
-                                       (NNP Salvador)))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Entre)
+      (NP 
+        (PRP eles)
+      )
+    )
+    (VP 
+      (VBP estavam)
+    )
+    (NP 
+      (NP 
+        (DT a)
+        (NN empresa)
+        (NP 
+          (NNP Óticas_Trevo)
+        )
+      )
+      (,)
+      (NP 
+        (NN terrenos)
+      )
+      e      (NP 
+        (NN pontos)
+        (ADJP 
+          (JJ comerciais)
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (NNP Salvador)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

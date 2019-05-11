@@ -1,20 +1,36 @@
-(S (VP (CC Mas)
-                        (VP (VBP toca))
-                        (ADVP (RB tambÃ©m))
-                        (PP (IN com)
-                                 (NP (PRP certa)
-                                        (_CU_ 
-                                          (NP 
-                                            (NN brutalidade))
-                                          (,)
-                                          (NP 
-                                            (NN impaciÃªncia))
-                                          (CC ou)
-                                          (NP 
-                                            (NN agressividade)))
-                                        (PP 
-                                          (IN com)
-                                          (NP 
-                                            (DT a)
-                                            (NN mÃºsica)))))
-                        (.)))
+(S 
+  (VP 
+    Mas    (VP 
+      (VBP toca)
+    )
+    (ADVP 
+      (RB também)
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (PRP certa)
+        (NP 
+          (NP 
+            (NN brutalidade)
+          )
+          (,)
+          (NP 
+            (NN impaciência)
+          )
+          ou          (NP 
+            (NN agressividade)
+          )
+        )
+        (PP 
+          (IN com)
+          (NP 
+            (DT a)
+            (NN música)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

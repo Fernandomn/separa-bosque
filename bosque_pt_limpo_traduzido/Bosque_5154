@@ -1,27 +1,45 @@
-(S (VP (NP (NN Est√°tua)
-                                   ({)
-                                   (VP 
-                                     (IN porque)
-                                     (VP 
-                                       (VBP √©))
-                                     (NP 
-                                       (DT um)
-                                       (NN corpo)))
-                                   (})
-                                   (,)
-                                   (NP 
-                                     (NN escultura))
-                                   (,)
-                                   (NP 
-                                     (NN organismo)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP vive)))))
-                          (,)
-                          (_CU_ (VP (VBP √©)
-                                        (VBN ferido))
-                                (CC e)
-                                (VBP morre))
-                          (?)))
+(S 
+  (VP 
+    (NP 
+      (NN Est·tua)
+      ({)
+      (VP 
+        (IN porque)
+        (VP 
+          (VBP È)
+        )
+        (NP 
+          (DT um)
+          (NN corpo)
+        )
+      )
+      (})
+      (,)
+      (NP 
+        (NN escultura)
+      )
+      (,)
+      (NP 
+        (NN organismo)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP vive)
+          )
+        )
+      )
+    )
+    (,)
+    (UCP 
+      (VP 
+        (VBP È)
+        (VBN ferido)
+      )
+      (CC e)
+      (VBP morre)
+    )
+    (?)
+  )
+)

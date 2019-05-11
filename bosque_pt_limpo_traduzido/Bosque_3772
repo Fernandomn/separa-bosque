@@ -1,50 +1,90 @@
-(S (VP (NP (DT A)
-                                 (NN passagem)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN testemunho)))
-                                 (,)
-                                 (PP 
-                                   (IN entre)
-                                   (_CU_ 
-                                     (NP 
-                                       (NNP Haia))
-                                     (CC e)
-                                     (NP 
-                                       (NNP Lisboa))))
-                                 (,))
-                        (PP (IN em)
-                                 (NP (NN matÃ©ria)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN polÃ­tica)
-                                            (ADJP 
-                                              (JJ interna))
-                                            (ADJP 
-                                              (JJ comunitÃ¡ria))))))
-                        (ADVP (RB apenas))
-                        (NP (PRP se))
-                        (VP (VBP fez))
-                        (ADVP (RB agora))
-                        (PP (IN por)
-                                 (NP (NN indisponibilidade)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN agenda)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT o)
-                                                (NN ministro)
-                                                (ADJP 
-                                                  (JJ holandÃªs))
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (NNP JustiÃ§a)))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN passagem)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN testemunho)
+        )
+      )
+      (,)
+      (PP 
+        (IN entre)
+        (NP 
+          (NP 
+            (NNP Haia)
+          )
+          (CC e)
+          (NP 
+            (NNP Lisboa)
+          )
+        )
+      )
+      (,)
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NN matéria)
+        (PP 
+          (IN de)
+          (NP 
+            (NN política)
+            (ADJP 
+              (JJ interna)
+            )
+            (ADJP 
+              (JJ comunitária)
+            )
+          )
+        )
+      )
+    )
+    (ADVP 
+      (RB apenas)
+    )
+    (NP 
+      (PRP se)
+    )
+    (VP 
+      (VBP fez)
+    )
+    (ADVP 
+      (RB agora)
+    )
+    (PP 
+      (IN por)
+      (NP 
+        (NN indisponibilidade)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN agenda)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN ministro)
+                (ADJP 
+                  (JJ holandês)
+                )
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NNP Justiça)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

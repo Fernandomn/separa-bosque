@@ -1,64 +1,107 @@
-(S (VP (VP (VBP Registe-))
-                       (NP (PRP se))
-                       (VP (IN que)
-                                (NP 
-                                  (DT a)
-                                  (NN terÃ§a-feira)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (NNP Carnaval))))
-                                (ADVP 
-                                  (RB nÃ£o))
-                                (VP (VBP Ã©))
-                                (NP (DT um)
-                                       (NN feriado)
-                                       (_CU_ 
-                                         (ADJP 
-                                           (JJ legal))
-                                         (,)
-                                         (CC mas)
-                                         (ADJP 
-                                           (RB tÃ£o-sÃ³)
-                                           (Â«)
-                                           (JJ tradicional)
-                                           (Â»)))))
-                       (;)
-                       (VP (ADVP 
-                                 (RB ou_seja))
-                               (,)
-                               (NP (PRP todos_os)
-                                        (NN anos))
-                               (NP (DT o)
-                                        (NN primeiro-ministro))
-                               (VP (VBP tem)
-                                     (IN que)
-                                     (VB produzir))
-                               (NP (DT um)
-                                       (NN despacho)
-                                       (,)
-                                       (VP 
-                                         (VP 
-                                           (VBN publicado))
-                                         (PP 
-                                           (IN em)
-                                           (Â«)
-                                           (NP 
-                                             (NNP DiÃ¡rio_da_RepÃºblica))
-                                           (Â»)))
-                                       (,)
-                                       (VP 
-                                         (PP 
-                                           (IN em)
-                                           (NP 
-                                             (PRP que)))
-                                         (VP 
-                                           (VBP decreta))
-                                         (NP 
-                                           (DT a)
-                                           (NN tolerÃ¢ncia)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN ponto)))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Registe-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT a)
+        (NN terça-feira)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Carnaval)
+          )
+        )
+      )
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VBP é)
+      )
+      (NP 
+        (DT um)
+        (NN feriado)
+        (ADJP 
+          (ADJP 
+            (JJ legal)
+          )
+          (,)
+          (CC mas)
+          (ADJP 
+            (RB tão-só)
+            («)
+            (JJ tradicional)
+            (»)
+          )
+        )
+      )
+    )
+    (;)
+    (VP 
+      (ADVP 
+        (RB ou_seja)
+      )
+      (,)
+      (NP 
+        (PRP todos_os)
+        (NN anos)
+      )
+      (NP 
+        (DT o)
+        (NN primeiro-ministro)
+      )
+      (VP 
+        (VBP tem)
+        (IN que)
+        (VB produzir)
+      )
+      (NP 
+        (DT um)
+        (NN despacho)
+        (,)
+        (VP 
+          (VP 
+            (VBN publicado)
+          )
+          (PP 
+            (IN em)
+            («)
+            (NP 
+              (NNP Diário_da_República)
+            )
+            (»)
+          )
+        )
+        (,)
+        (VP 
+          (PP 
+            (IN em)
+            (NP 
+              (PRP que)
+            )
+          )
+          (VP 
+            (VBP decreta)
+          )
+          (NP 
+            (DT a)
+            (NN tolerância)
+            (PP 
+              (IN de)
+              (NP 
+                (NN ponto)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

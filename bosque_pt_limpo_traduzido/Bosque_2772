@@ -1,44 +1,76 @@
-(S (VP (PP (IN Com)
-                                 (NP (PRP muitos)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (NN papÃ©is)))
-                                        (PP 
-                                          (IN com)
-                                          (NP 
-                                            (DT a)
-                                            (NN cotaÃ§Ã£o)
-                                            (VP 
-                                              (VP 
-                                                (VBN interrompida))
-                                              (PP 
-                                                (IN em)
-                                                (NP 
-                                                  (NN consequÃªncia)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT o)
-                                                      (NN perÃ­odo)
-                                                      (PP 
-                                                        (IN de)
-                                                        (NP 
-                                                          (NN pagamento)
-                                                          (PP 
-                                                            (IN de)
-                                                            (NP 
-                                                              (NN dividendos))))))))))))))
-                        (,)
-                        (NP (DT o)
-                                 (NN negÃ³cio))
-                        (VP (VBP continuou))
-                        (_CU_ (ADJP 
-                                 (RB pouco)
-                                 (JJ expressivo))
-                               (,)
-                               (PP (IN sem)
-                                       (NP 
-                                         (NN profundidade))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Com)
+      (NP 
+        (PRP muitos)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN papéis)
+          )
+        )
+        (PP 
+          (IN com)
+          (NP 
+            (DT a)
+            (NN cotação)
+            (VP 
+              (VP 
+                (VBN interrompida)
+              )
+              (PP 
+                (IN em)
+                (NP 
+                  (NN consequência)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NN período)
+                      (PP 
+                        (IN de)
+                        (NP 
+                          (NN pagamento)
+                          (PP 
+                            (IN de)
+                            (NP 
+                              (NN dividendos)
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN negócio)
+    )
+    (VP 
+      (VBP continuou)
+    )
+    (UCP 
+      (ADJP 
+        (RB pouco)
+        (JJ expressivo)
+      )
+      (,)
+      (PP 
+        (IN sem)
+        (NP 
+          (NN profundidade)
+        )
+      )
+    )
+    (.)
+  )
+)

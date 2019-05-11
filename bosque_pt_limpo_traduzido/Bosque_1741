@@ -1,34 +1,59 @@
-(S (VP (NP (NN Equipas)
-                                 (VP 
-                                   (VP 
-                                     (VBN propostas))
-                                   (PP 
-                                     (IN por+)
-                                     (_CU_ 
-                                       (NP 
-                                         (DT a)
-                                         (NNP R√∫ssia))
-                                       (,)
-                                       (NP 
-                                         (NNP √Åustria))
-                                       (,)
-                                       (NP 
-                                         (NNP It√°lia))
-                                       (,)
-                                       (NP 
-                                         (NNP Alemanha))
-                                       (CC e)
-                                       (NP 
-                                         (NNP Su√≠√ßa))))))
-                        (VP (VBP estavam))
-                        (PP (PP a_postos)
-                               (PP (IN para)
-                                      (VP 
-                                        (VP 
-                                          (VB partir))
-                                        (PP 
-                                          (IN para)
-                                          (NP 
-                                            (DT a)
-                                            (NNP √çndia))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Equipas)
+      (VP 
+        (VP 
+          (VBN propostas)
+        )
+        (PP 
+          (IN por+)
+          (NP 
+            (NP 
+              (DT a)
+              (NNP R˙ssia)
+            )
+            (,)
+            (NP 
+              (NNP ¡ustria)
+            )
+            (,)
+            (NP 
+              (NNP It·lia)
+            )
+            (,)
+            (NP 
+              (NNP Alemanha)
+            )
+            (CC e)
+            (NP 
+              (NNP SuÌÁa)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP estavam)
+    )
+    (PP 
+      (PP a_postos)
+      (PP 
+        (IN para)
+        (VP 
+          (VP 
+            (VB partir)
+          )
+          (PP 
+            (IN para)
+            (NP 
+              (DT a)
+              (NNP Õndia)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

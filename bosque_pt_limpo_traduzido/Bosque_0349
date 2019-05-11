@@ -1,41 +1,70 @@
-(S (VP (PP (IN Segundo)
-                                (NP (PRP este)))
-                       (,)
-                       (NP (DT os)
-                                (NN blindados))
-                       (VBP seriam 
-                         (_CU_ (VP 
-                                    (VBN entregues)
-                                    (PP 
-                                      (IN ao_longo_de)
-                                      (NP 
-                                        (PRP vÃ¡rios)
-                                        (NN anos))))
-                                  (CC e)
-                                  (VP 
-                                    (VBN pagos)
-                                    (PP 
-                                      (IN em)
-                                      (NP 
-                                        (NN petrÃ³leo))))))
-                       (,)
-                       (ADVP (RB depois)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT o)
-                                      (NN levantamento)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT as)
-                                          (NN sanÃ§Ãµes)
-                                          (VP 
-                                            (VP 
-                                              (VBN impostas))
-                                            (PP 
-                                              (IN a+)
-                                              (NP 
-                                                (DT o)
-                                                (NNP Iraque)))))))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Segundo)
+      (NP 
+        (PRP este)
+      )
+    )
+    (,)
+    (NP 
+      (DT os)
+      (NN blindados)
+    )
+    (VBP 
+      (VP 
+        (VP 
+          (VBN entregues)
+          (PP 
+            (IN ao_longo_de)
+            (NP 
+              (PRP vários)
+              (NN anos)
+            )
+          )
+        )
+        (CC e)
+        (VP 
+          (VBN pagos)
+          (PP 
+            (IN em)
+            (NP 
+              (NN petróleo)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (ADVP 
+      (RB depois)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN levantamento)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT as)
+              (NN sanções)
+              (VP 
+                (VP 
+                  (VBN impostas)
+                )
+                (PP 
+                  (IN a+)
+                  (NP 
+                    (DT o)
+                    (NNP Iraque)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

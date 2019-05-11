@@ -1,36 +1,58 @@
-(S (_CU_ (VP (NP 
-                                  (DT O)
-                                  (NNP Classical_Music_Award))
-                                (VP (VBP Ã©)
-                                      (VBN promovido))
-                                (_CU_ 
-                                  (PP 
-                                    (IN por+)
-                                    (NP 
-                                      (DT a)
-                                      (Â«)
-                                      (NNP BBC_Music_Magazine)
-                                      (Â»)))
-                                  (CC e)
-                                  (PP 
-                                    (IN por+)
-                                    (NP 
-                                      (DT o)
-                                      (NN jornal)
-                                      (Â«)
-                                      (NP 
-                                        (NNP The_Independent))
-                                      (Â»)))))
-                       (,)
-                       (CC e)
-                       (VP (VP (VBP tem))
-                                (NP (DT o)
-                                        (NN patrocÃ­nio)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN empresa)
-                                            (NP 
-                                              (NNP Kenwood))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (NNP Classical_Music_Award)
+      )
+      (VP 
+        (VBP é)
+        (VBN promovido)
+      )
+      (PP 
+        (PP 
+          (IN por+)
+          (NP 
+            (DT a)
+            («)
+            (NNP BBC_Music_Magazine)
+            (»)
+          )
+        )
+        e        (PP 
+          (IN por+)
+          (NP 
+            (DT o)
+            (NN jornal)
+            («)
+            (NP 
+              (NNP The_Independent)
+            )
+            (»)
+          )
+        )
+      )
+    )
+    (,)
+    e    (VP 
+      (VP 
+        (VBP tem)
+      )
+      (NP 
+        (DT o)
+        (NN patrocínio)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN empresa)
+            (NP 
+              (NNP Kenwood)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

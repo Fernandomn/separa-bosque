@@ -1,34 +1,58 @@
-(S (VP (PP (IN Em+)
-                                  (NP 
-                                    (PRP estas)
-                                    (NN condiÃ§Ãµes)))
-                         (,)
-                         (VP (VBP Ã©))
-                         (ADJP (RB muito)
-                                  (JJ difÃ­cil))
-                         (VP (ADVP 
-                                     (RB nÃ£o))
-                                   (VP 
-                                     (VB fazer))
-                                   (NP 
-                                     (NN fotografia)
-                                     (_CU_ 
-                                       (VBN empenhada)
-                                       (,)
-                                       (Â«)
-                                       (ADJP 
-                                         (JJ engagÃ©))
-                                       (Â»)
-                                       (,)
-                                       (PP 
-                                         (IN com)
-                                         (NP 
-                                           (_CU_ 
-                                             (NP 
-                                               (NN funÃ§Ã£o))
-                                             (CC e)
-                                             (NP 
-                                               (NN utilidade)))
-                                           (ADJP 
-                                             (JJ polÃ­ticas)))))))
-                         (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (PRP estas)
+        (NN condições)
+      )
+    )
+    (,)
+    (VP 
+      (VBP é)
+    )
+    (ADJP 
+      (RB muito)
+      (JJ difícil)
+    )
+    (VP 
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VB fazer)
+      )
+      (NP 
+        (NN fotografia)
+        (UCP 
+          (VBN empenhada)
+          (,)
+          («)
+          (ADJP 
+            (JJ engagé)
+          )
+          (»)
+          (,)
+          (PP 
+            (IN com)
+            (NP 
+              (NP 
+                (NP 
+                  (NN função)
+                )
+                (CC e)
+                (NP 
+                  (NN utilidade)
+                )
+              )
+              (ADJP 
+                (JJ políticas)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

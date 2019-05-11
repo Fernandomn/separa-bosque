@@ -1,31 +1,55 @@
-(S (VP (NP (DT O)
-                                 (PRP prÃ³prio)
-                                 (NN nome)
-                                 (PP 
-                                   (IN de+)
-                                   (NP 
-                                     (DT a)
-                                     (NN banda))))
-                        (,)
-                        (PP (IN segundo)
-                                 (NP (NNP Ann_Marie)))
-                        (,)
-                        (VP (VBP vem))
-                        (PP (IN de)
-                                (NP (Â«)
-                                       (NN leituras)
-                                       (ADJP 
-                                         (JJ sistemÃ¡ticas))
-                                       (PP 
-                                         (IN de)
-                                         (_CU_ 
-                                           (NP 
-                                             (NNP Sartre))
-                                           (,)
-                                           (NP 
-                                             (NNP Marx))
-                                           (,)
-                                           (NP 
-                                             (NNP Kafka))))
-                                       (Â»)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (PRP próprio)
+      (NN nome)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN banda)
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN segundo)
+      (NP 
+        (NNP Ann_Marie)
+      )
+    )
+    (,)
+    (VP 
+      (VBP vem)
+    )
+    (PP 
+      (IN de)
+      (NP 
+        («)
+        (NN leituras)
+        (ADJP 
+          (JJ sistemáticas)
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (NP 
+              (NNP Sartre)
+            )
+            (,)
+            (NP 
+              (NNP Marx)
+            )
+            (,)
+            (NP 
+              (NNP Kafka)
+            )
+          )
+        )
+        (»)
+      )
+    )
+    (.)
+  )
+)

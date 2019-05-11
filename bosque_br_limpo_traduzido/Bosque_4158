@@ -1,42 +1,76 @@
-(S (VP (NP (DT O)
-                                 (ADJP 
-                                   (RB mais)
-                                   (NN perigoso)))
-                        (VP (VBP √©))
-                        (PP (IN em+)
-                               (NP (DT a)
-                                      (NN regi√£o)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP Serra_das_Concha)))))
-                        (,)
-                        (PP (IN entre)
-                                 (_CU_ (NP 
-                                          (DT o)
-                                          (NN km)
-                                          (ADJP 
-                                            (CD 129)))
-                                        (CC e)
-                                        (NP 
-                                          (DT o)
-                                          (NN km)
-                                          (ADJP 
-                                            (CD 162)))))
-                        (,)
-                        (PP (RB logo)
-                                 (IN ap√≥s)
-                                 (NP (NNP Tatu√≠)))
-                        (,)
-                        (PP (IN para)
-                               (VP (NP 
-                                         (PRP quem))
-                                       (VP 
-                                         (VBP vai))
-                                       (PP 
-                                         (IN para)
-                                         (NP 
-                                           (DT o)
-                                           (NN interior)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (ADJP 
+        (RB mais)
+        (NN perigoso)
+      )
+    )
+    (VP 
+      (VBP È)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN regi„o)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP Serra_das_Concha)
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN entre)
+      (NP 
+        (NP 
+          (DT o)
+          (NN km)
+          (ADJP 
+            (CD 129)
+          )
+        )
+        e        (NP 
+          (DT o)
+          (NN km)
+          (ADJP 
+            (CD 162)
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (RB logo)
+      (IN apÛs)
+      (NP 
+        (NNP TatuÌ)
+      )
+    )
+    (,)
+    (PP 
+      (IN para)
+      (VP 
+        (NP 
+          (PRP quem)
+        )
+        (VP 
+          (VBP vai)
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (DT o)
+            (NN interior)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

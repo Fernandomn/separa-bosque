@@ -1,23 +1,38 @@
-(S (VP (_CU_ (NP 
-                                   (Â«)
-                                   (NNP Through_the_Woods)
-                                   (Â»)
-                                   ({)
-                                   (NP 
-                                     (NNP Por_o_Bosque))
-                                   (}))
-                                 (CC e)
-                                 (NP 
-                                   (Â«)
-                                   (NNP At_the_Seashore)
-                                   (Â»)
-                                   ({)
-                                   (NP 
-                                     (NNP Em_a_Praia))
-                                   (})))
-                        (VP (VBP foram)
-                              (VBN desenvolvidos))
-                        (PP (IN por+)
-                                 (NP (DT a)
-                                        (NNP IBM)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        («)
+        (NNP Through_the_Woods)
+        (»)
+        ({)
+        (NP 
+          (NNP Por_o_Bosque)
+        )
+        (})
+      )
+      e      (NP 
+        («)
+        (NNP At_the_Seashore)
+        (»)
+        ({)
+        (NP 
+          (NNP Em_a_Praia)
+        )
+        (})
+      )
+    )
+    (VP 
+      (VBP foram)
+      (VBN desenvolvidos)
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT a)
+        (NNP IBM)
+      )
+    )
+    (.)
+  )
+)

@@ -1,44 +1,72 @@
-(S (VP (VP (Â«)
-                                 (VP (VBP Queremos))
-                                 (_CU_ 
-                                   (VP 
-                                     (VP 
-                                       (VB lotar))
-                                     (NP 
-                                       (CD dois)
-                                       (NN Ã´nibus))
-                                     (PP 
-                                       (IN com)
-                                       (NP 
-                                         (DT a)
-                                         (CD 80)
-                                         (NN pessoas))))
-                                   (CC e)
-                                   (VP 
-                                     (VP 
-                                       (VB fechar))
-                                     (NP 
-                                       (DT o)
-                                       (NN hotel))))
-                                 (Â»))
-                        (,)
-                        (VP (VBP disse))
-                        (NP (DT o)
-                                 (NN administrador)
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN empresas)
-                                          (NP 
-                                            (NNP E.))))
-                                 (,)
-                                 (NP 
-                                   (CD 31))
-                                 (,)
-                                 (ADJP 
-                                   (CD um)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT os)
-                                       (NN organizadores)))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      («)
+      (VP 
+        (VBP Queremos)
+      )
+      (VP 
+        (VP 
+          (VP 
+            (VB lotar)
+          )
+          (NP 
+            (CD dois)
+            (NN ônibus)
+          )
+          (PP 
+            (IN com)
+            (NP 
+              (DT a)
+              (CD 80)
+              (NN pessoas)
+            )
+          )
+        )
+        e        (VP 
+          (VP 
+            (VB fechar)
+          )
+          (NP 
+            (DT o)
+            (NN hotel)
+          )
+        )
+      )
+      (»)
+    )
+    (,)
+    (VP 
+      (VBP disse)
+    )
+    (NP 
+      (DT o)
+      (NN administrador)
+      (PP 
+        (IN de)
+        (NP 
+          (NN empresas)
+          (NP 
+            (NNP E.)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (CD 31)
+      )
+      (,)
+      (ADJP 
+        (CD um)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN organizadores)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

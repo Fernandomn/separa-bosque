@@ -1,34 +1,63 @@
-(S (VP (ADVP (RB Muito)
-                                  (RB bem))
-                       (VP (VBP estavam))
-                       (ADVP (RB tambÃ©m))
-                       (NP (DT os)
-                                (CD trÃªs)
-                                (NN mÃ©dios)
-                                (--)
-                                (_CU_ (NP 
-                                          (NNP Maminov))
-                                        (,)
-                                        (NP 
-                                          (NNP Drozdov))
-                                        (CC e)
-                                        (NP 
-                                          (NNP Kharlachev)))
-                                (--))
-                       (,)
-                       (VP 
-                         (VP (VBG desempenhando))
-                         (NP (NNP Kosolapov))
-                         (NP (DT as)
-                                 (NN funÃ§Ãµes)
-                                 (PP (IN de)
-                                        (NP 
-                                          (Â«)
-                                          (NN pivot)
-                                          (Â»")
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NN ataque)))))))
-                       (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Muito)
+      (RB bem)
+    )
+    (VP 
+      (VBP estavam)
+    )
+    (ADVP 
+      (RB também)
+    )
+    (NP 
+      (DT os)
+      (CD três)
+      (NN médios)
+      (--)
+      (NP 
+        (NP 
+          (NNP Maminov)
+        )
+        (,)
+        (NP 
+          (NNP Drozdov)
+        )
+        (CC e)
+        (NP 
+          (NNP Kharlachev)
+        )
+      )
+      (--)
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG desempenhando)
+      )
+      (NP 
+        (NNP Kosolapov)
+      )
+      (NP 
+        (DT as)
+        (NN funções)
+        (PP 
+          (IN de)
+          (NP 
+            («)
+            (NN pivot)
+            (»")
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN ataque)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

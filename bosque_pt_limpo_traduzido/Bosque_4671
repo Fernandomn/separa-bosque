@@ -1,17 +1,39 @@
-(S (VP (NP (DT O)
-                                 (NN sismo)
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN segunda-feira)))
-                                 (PP (IN em)
-                                        (NP 
-                                          (NNP Los_Angeles))))
-                        (ADVP (RB n√£o))
-                        (VP (VBP poupou))
-                        (_CU_ (NP (PRP ningu√©m))
-                                (,)
-                                (CC nem)
-                                (NP (RB mesmo)
-                                        (DT as)
-                                        (NN estrelas)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN sismo)
+      (PP 
+        (IN de)
+        (NP 
+          (NN segunda-feira)
+        )
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NNP Los_Angeles)
+        )
+      )
+    )
+    (ADVP 
+      (RB n„o)
+    )
+    (VP 
+      (VBP poupou)
+    )
+    (NP 
+      (NP 
+        (PRP ninguÈm)
+      )
+      (,)
+      (CC nem)
+      (NP 
+        (RB mesmo)
+        (DT as)
+        (NN estrelas)
+      )
+    )
+    (.)
+  )
+)

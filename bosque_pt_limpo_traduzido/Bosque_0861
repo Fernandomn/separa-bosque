@@ -1,55 +1,90 @@
-(S (VP (NP (RB Tamb√©m)
-                                 (NNP Armindo_Cordeiro))
-                        (VP (VBP √©))
-                        (ADJP (JJ perempt√≥rio))
-                        (PP (IN a+)
-                                 (VP 
-                                   (DT o)
-                                   (VP 
-                                     (VB afirmar))
-                                   (_CU_ 
-                                     (VP 
-                                       (IN que)
-                                       (NP 
-                                         (DT o)
-                                         (NN logradouro)
-                                         (VBN ajardinado))
-                                       (_CU_ 
-                                         (VP 
-                                           (ADVP 
-                                             (RB n√£o))
-                                           (VP 
-                                             (VBP ser√°)
-                                             (VBN destru√≠do)))
-                                         (,)
-                                         (CC mas)
-                                         (VP 
-                                           (ADVP 
-                                             (RB pelo_contr√°rio))
-                                           (VP 
-                                             (VBN ampliado)))))
-                                     (,)
-                                     (VP 
-                                       (ADVP 
-                                         (RB assim_como))
-                                       (VP 
-                                         (VBP melhorar√°))
-                                       (NP 
-                                         (DT a)
-                                         (NN situa√ß√£o)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (_CU_ 
-                                               (NP 
-                                                 (DT os)
-                                                 (NN moradores))
-                                               (CC e)
-                                               (NP 
-                                                 (NN lojistas)))
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN zona))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (RB TambÈm)
+      (NNP Armindo_Cordeiro)
+    )
+    (VP 
+      (VBP È)
+    )
+    (ADJP 
+      (JJ peremptÛrio)
+    )
+    (PP 
+      (IN a+)
+      (VP 
+        (DT o)
+        (VP 
+          (VB afirmar)
+        )
+        (VP 
+          (VP 
+            (IN que)
+            (NP 
+              (DT o)
+              (NN logradouro)
+              (VBN ajardinado)
+            )
+            (VP 
+              (VP 
+                (ADVP 
+                  (RB n„o)
+                )
+                (VP 
+                  (VBP ser·)
+                  (VBN destruÌdo)
+                )
+              )
+              (,)
+              (CC mas)
+              (VP 
+                (ADVP 
+                  (RB pelo_contr·rio)
+                )
+                (VP 
+                  (VBN ampliado)
+                )
+              )
+            )
+          )
+          (,)
+          (VP 
+            (ADVP 
+              (RB assim_como)
+            )
+            (VP 
+              (VBP melhorar·)
+            )
+            (NP 
+              (DT a)
+              (NN situaÁ„o)
+              (PP 
+                (IN de+)
+                (NP 
+                  (NP 
+                    (NP 
+                      (DT os)
+                      (NN moradores)
+                    )
+                    (CC e)
+                    (NP 
+                      (NN lojistas)
+                    )
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN zona)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

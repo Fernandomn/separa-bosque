@@ -1,58 +1,94 @@
-(S (VP (NP (DT Os)
-                                 (NN autores)
-                                 (PP (IN de)
-                                        (Â«)
-                                        (NP 
-                                          (NNP The_Strategy_Process))
-                                        (Â»)))
-                        (VP (VBP referem))
-                        (NP (DT o)
-                                (NN especialista)
-                                (PP (IN em)
-                                       (NP 
-                                         (NN ciÃªncias)
-                                         (ADJP 
-                                           (JJ polÃ­ticas))))
-                                (NP (NNP Graham_Allison))
-                                (,)
-                                (VP (NP 
-                                          (PRP que))
-                                        (,)
-                                        (PP 
-                                          (IN em)
-                                          (ADJP 
-                                            (CD 1971)))
-                                        (,)
-                                        (VP 
-                                          (VBP descreveu))
-                                        (NP 
-                                          (DT os)
-                                          (NN jogos)
-                                          (_CU_ 
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT as)
-                                                (NN organizaÃ§Ãµes)))
-                                            (CC e)
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT os)
-                                                (NN governos)))))
-                                        (ADVP 
-                                          (RB como)
-                                          (Â«)
-                                          (_CU_ 
-                                            (ADJP 
-                                              (JJ complexos))
-                                            (,)
-                                            (ADJP 
-                                              (JJ subtis))
-                                            (,)
-                                            (ADJP 
-                                              (JJ simultÃ¢neos))
-                                            (CC e)
-                                            (VBN sobrepostos))
-                                          (Â»))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN autores)
+      (PP 
+        (IN de)
+        («)
+        (NP 
+          (NNP The_Strategy_Process)
+        )
+        (»)
+      )
+    )
+    (VP 
+      (VBP referem)
+    )
+    (NP 
+      (DT o)
+      (NN especialista)
+      (PP 
+        (IN em)
+        (NP 
+          (NN ciências)
+          (ADJP 
+            (JJ políticas)
+          )
+        )
+      )
+      (NP 
+        (NNP Graham_Allison)
+      )
+      (,)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (,)
+        (PP 
+          (IN em)
+          (ADJP 
+            (CD 1971)
+          )
+        )
+        (,)
+        (VP 
+          (VBP descreveu)
+        )
+        (NP 
+          (DT os)
+          (NN jogos)
+          (PP 
+            (PP 
+              (IN em+)
+              (NP 
+                (DT as)
+                (NN organizações)
+              )
+            )
+            (CC e)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT os)
+                (NN governos)
+              )
+            )
+          )
+        )
+        (ADVP 
+          (RB como)
+          («)
+          (UCP 
+            (ADJP 
+              (JJ complexos)
+            )
+            (,)
+            (ADJP 
+              (JJ subtis)
+            )
+            (,)
+            (ADJP 
+              (JJ simultâneos)
+            )
+            (CC e)
+            (VBN sobrepostos)
+          )
+          (»)
+        )
+      )
+    )
+    (.)
+  )
+)

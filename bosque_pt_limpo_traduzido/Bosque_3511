@@ -1,60 +1,101 @@
-(S (VP (NP (NNP Wall_Street))
-                        (,)
-                        (PP (IN a)
-                                 (NP (NN meio)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN sess√£o)))))
-                        (VP (VBP encontrava-))
-                        (NP (PRP se))
-                        (PP (IN em)
-                               (NP (NN alta)))
-                        (,)
-                        (PP (IN com)
-                                 (NP (DT o)
-                                        (NN √≠ndice)
-                                        (NP 
-                                          (NNP Dow_Jones))
-                                        (PP 
-                                          (IN a)
-                                          (VP 
-                                            (VP 
-                                              (VB cotar-))
-                                            (NP 
-                                              (PRP se))
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT os)
-                                                (CD 4493,85)
-                                                (NN pontos)
-                                                (,)
-                                                (_CU_ 
-                                                  (NP 
-                                                    (ADJP 
-                                                      (RB mais)
-                                                      (CD 2,77))
-                                                    (NN pontos)
-                                                    (PP 
-                                                      (IN de+)
-                                                      (NP 
-                                                        (DT a)
-                                                        (NN v√©spera))))
-                                                  (CC e)
-                                                  (ADJP 
-                                                    (RB muito)
-                                                    (IN pr√≥ximo_de+)
-                                                    (NP 
-                                                      (DT a)
-                                                      (NN barreira)
-                                                      (ADJP 
-                                                        (JJ psicol√≥gica))
-                                                      (PP 
-                                                        (IN de+)
-                                                        (NP 
-                                                          (DT os)
-                                                          (CD 4.500)
-                                                          (NN pontos))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Wall_Street)
+    )
+    (,)
+    (PP 
+      (IN a)
+      (NP 
+        (NN meio)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN sess„o)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP encontrava-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NN alta)
+      )
+    )
+    (,)
+    (PP 
+      (IN com)
+      (NP 
+        (DT o)
+        (NN Ìndice)
+        (NP 
+          (NNP Dow_Jones)
+        )
+        (PP 
+          (IN a)
+          (VP 
+            (VP 
+              (VB cotar-)
+            )
+            (NP 
+              (PRP se)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT os)
+                (CD 4493,85)
+                (NN pontos)
+                (,)
+                (UCP 
+                  (NP 
+                    (ADJP 
+                      (RB mais)
+                      (CD 2,77)
+                    )
+                    (NN pontos)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT a)
+                        (NN vÈspera)
+                      )
+                    )
+                  )
+                  (CC e)
+                  (ADJP 
+                    (RB muito)
+                    (IN prÛximo_de+)
+                    (NP 
+                      (DT a)
+                      (NN barreira)
+                      (ADJP 
+                        (JJ psicolÛgica)
+                      )
+                      (PP 
+                        (IN de+)
+                        (NP 
+                          (DT os)
+                          (CD 4.500)
+                          (NN pontos)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

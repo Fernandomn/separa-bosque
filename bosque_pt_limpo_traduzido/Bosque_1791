@@ -1,46 +1,78 @@
-(S (VP (CC Mas)
-                        (,)
-                        (PP (IN apÃ³s)
-                                 (NP (DT o)
-                                        (NN esforÃ§o)
-                                        (VP 
-                                          (VP 
-                                            (VBN destinado))
-                                          (PP 
-                                            (IN a+)
-                                            (NP 
-                                              (DT o)
-                                              (NN Sul))))
-                                        (,)
-                                        (PP 
-                                          (IN com)
-                                          (NP 
-                                            (DT a)
-                                            (NN linha)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (JJ alta)
-                                                (NN velocidade)))
-                                            (NP 
-                                              (NNP Madrid-Sevilha))))
-                                        (,)
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (CD 1992)))
-                                        (,)))
-                        (NP (DT as)
-                                 (NN prioridades)
-                                 (PP (IN de)
-                                        (ADJP 
-                                          (CD 1995))))
-                        (VP (VBP apontam))
-                        (PP (IN para)
-                                (_CU_ (NP 
-                                         (DT o)
-                                         (NN Leste))
-                                       (CC e)
-                                       (NP 
-                                         (NN Norte))))
-                        (.)))
+(S 
+  (VP 
+    (CC Mas)
+    (,)
+    (PP 
+      (IN após)
+      (NP 
+        (DT o)
+        (NN esforço)
+        (VP 
+          (VP 
+            (VBN destinado)
+          )
+          (PP 
+            (IN a+)
+            (NP 
+              (DT o)
+              (NN Sul)
+            )
+          )
+        )
+        (,)
+        (PP 
+          (IN com)
+          (NP 
+            (DT a)
+            (NN linha)
+            (PP 
+              (IN de)
+              (NP 
+                (JJ alta)
+                (NN velocidade)
+              )
+            )
+            (NP 
+              (NNP Madrid-Sevilha)
+            )
+          )
+        )
+        (,)
+        (PP 
+          (IN em)
+          (NP 
+            (CD 1992)
+          )
+        )
+        (,)
+      )
+    )
+    (NP 
+      (DT as)
+      (NN prioridades)
+      (PP 
+        (IN de)
+        (ADJP 
+          (CD 1995)
+        )
+      )
+    )
+    (VP 
+      (VBP apontam)
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (NP 
+          (DT o)
+          (NN Leste)
+        )
+        (CC e)
+        (NP 
+          (NN Norte)
+        )
+      )
+    )
+    (.)
+  )
+)

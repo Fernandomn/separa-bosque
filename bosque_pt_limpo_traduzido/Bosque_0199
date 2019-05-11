@@ -1,38 +1,67 @@
-(S (VP (Â«)
-                       (NP (DT O)
-                                (JJ Ãºnico)
-                                (NN trabalho)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT as)
-                                         (NN pessoas))))
-                       (VP (VBP Ã©))
-                       (_CU_ (VP (VP 
-                                         (VB separar))
-                                       (NP 
-                                         (DT o)
-                                         (NN lixo)))
-                              (CC e)
-                              (VP (VP 
-                                         (VB colocar))
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT os)
-                                           (NN dias)
-                                           (ADJP 
-                                             (JJ certos))))
-                                       (NP 
-                                         (DT os)
-                                         (_CU_ 
-                                           (NP 
-                                             (NN contentores))
-                                           (CC e)
-                                           (NP 
-                                             (NN cestos)))
-                                         (PP 
-                                           (IN para)
-                                           (VP 
-                                             (VB serem)
-                                             (VBN recolhidos))))))
-                       (.)))
+(S 
+  (VP 
+    («)
+    (NP 
+      (DT O)
+      (JJ único)
+      (NN trabalho)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (NN pessoas)
+        )
+      )
+    )
+    (VP 
+      (VBP é)
+    )
+    (VP 
+      (VP 
+        (VP 
+          (VB separar)
+        )
+        (NP 
+          (DT o)
+          (NN lixo)
+        )
+      )
+      (CC e)
+      (VP 
+        (VP 
+          (VB colocar)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT os)
+            (NN dias)
+            (ADJP 
+              (JJ certos)
+            )
+          )
+        )
+        (NP 
+          (DT os)
+          (NP 
+            (NP 
+              (NN contentores)
+            )
+            (CC e)
+            (NP 
+              (NN cestos)
+            )
+          )
+          (PP 
+            (IN para)
+            (VP 
+              (VB serem)
+              (VBN recolhidos)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

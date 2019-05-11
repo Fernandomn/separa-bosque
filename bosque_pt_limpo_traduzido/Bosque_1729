@@ -1,12 +1,26 @@
-(S (VP (VP (IN Se)
-                                  (VP (VBP estamos))
-                                  (VBN atrasados))
-                        (,)
-                        (VP (VBP Ã©))
-                        (_CU_ (ADJP 
-                                 (CD um)
-                                 (NN ano))
-                               (CC ou)
-                               (NP 
-                                 (CD dois)))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (IN Se)
+      (VP 
+        (VBP estamos)
+      )
+      (VBN atrasados)
+    )
+    (,)
+    (VP 
+      (VBP é)
+    )
+    (UCP 
+      (ADJP 
+        (CD um)
+        (NN ano)
+      )
+      (CC ou)
+      (NP 
+        (CD dois)
+      )
+    )
+    (.)
+  )
+)

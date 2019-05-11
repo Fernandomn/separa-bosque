@@ -1,61 +1,100 @@
-(S (VP (PP (IN AtrÃ¡s_de)
-                               (NP (NNP Kerrigan)))
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NN lista)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT as)
-                                            (JJ grandes)
-                                            (JJ favoritas)))))
-                        (VP (VBP estÃ¡))
-                        (NP (DT a)
-                                 (NN japonesa)
-                                 (NP (NNP Yuka_Stao))
-                                 (,)
-                                 (_CU_ 
-                                   (VP 
-                                     (ADJP 
-                                       (JJ quarta)
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT os)
-                                           (Â«)
-                                           (NNP Mundiais)
-                                           (Â»)))))
-                                   (CC e)
-                                   (VP 
-                                     (NP 
-                                       (PRP que))
-                                     (PP 
-                                       (IN em+)
-                                       (NP 
-                                         (DT os)
-                                         (JJ Ãºltimos)
-                                         (NN tempos)))
-                                     (VP 
-                                       (VBP bateu))
-                                     (NP 
-                                       (NN patinadoras)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (JJ grande)
-                                           (NN nome)))
-                                       (ADVP 
-                                         (RB como)
-                                         (_CU_ 
-                                           (NP 
-                                             (DT a)
-                                             (NN alemÃ£)
-                                             (NP 
-                                               (NNP Tanja_Szewczenko)))
-                                           (CC e)
-                                           (NP 
-                                             (DT a)
-                                             (NN canadiana)
-                                             (NP 
-                                               (NNP JosÃ©e_Chouinard)))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Atrás_de)
+      (NP 
+        (NNP Kerrigan)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN lista)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT as)
+            (JJ grandes)
+            (JJ favoritas)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP está)
+    )
+    (NP 
+      (DT a)
+      (NN japonesa)
+      (NP 
+        (NNP Yuka_Stao)
+      )
+      (,)
+      (VP 
+        (VP 
+          (ADJP 
+            (JJ quarta)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT os)
+                («)
+                (NNP Mundiais)
+                (»)
+              )
+            )
+          )
+        )
+        (CC e)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT os)
+              (JJ últimos)
+              (NN tempos)
+            )
+          )
+          (VP 
+            (VBP bateu)
+          )
+          (NP 
+            (NN patinadoras)
+            (PP 
+              (IN de)
+              (NP 
+                (JJ grande)
+                (NN nome)
+              )
+            )
+            (ADVP 
+              (RB como)
+              (NP 
+                (NP 
+                  (DT a)
+                  (NN alemã)
+                  (NP 
+                    (NNP Tanja_Szewczenko)
+                  )
+                )
+                (CC e)
+                (NP 
+                  (DT a)
+                  (NN canadiana)
+                  (NP 
+                    (NNP Josée_Chouinard)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

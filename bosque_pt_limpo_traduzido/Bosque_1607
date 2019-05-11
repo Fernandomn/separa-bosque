@@ -1,79 +1,123 @@
-(S (VP (PP (IN Em)
-                                 (NP (NP 
-                                          (NN conferÃªncia)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN imprensa))))
-                                        (VP 
-                                          (VP 
-                                            (VBN dada))
-                                          (PP 
-                                            (RB conjuntamente)
-                                            (IN com)
-                                            (NP 
-                                              (DT a)
-                                              (NP vice-presidente)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN jÃºri)))
-                                              (,)
-                                              (NP 
-                                                (DT a)
-                                                (NN actriz)
-                                                (ADJP 
-                                                  (JJ francesa))
-                                                (NP 
-                                                  (NNP Catherine_Deneuve))
-                                                (,)
-                                                (NP 
-                                                  (CD 50)
-                                                  (NN anos))
-                                                (,)))))))
-                        (NP (NNP Eastwood))
-                        (VP (VBP confessou))
-                        (VP (IN que)
-                                 (,)
-                                 (PP 
-                                   (IN em_vez_de)
-                                   (Â«)
-                                   (NP 
-                                     (NN sanÃ§Ãµes)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN proteccionismo))))
-                                   (Â»))
-                                 (,)
-                                 (VP (VBP preferiria))
-                                 (VP 
-                                   (IN que)
-                                   (Â«)
-                                   (NP 
-                                     (DT uma)
-                                     (JJ maior)
-                                     (NN variedade)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN filmes)
-                                         (_CU_ 
-                                           (ADJP 
-                                             (JJ franceses))
-                                           (,)
-                                           (ADJP 
-                                             (JJ asiÃ¡ticos))
-                                           (,)
-                                           (NP 
-                                             (NN russos))))))
-                                   (Â»)
-                                   (VP 
-                                     (VBP entrasse))
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT os)
-                                       (NNP Estados_Unidos)))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em)
+      (NP 
+        (NP 
+          (NN conferência)
+          (PP 
+            (IN de)
+            (NP 
+              (NN imprensa)
+            )
+          )
+        )
+        (VP 
+          (VP 
+            (VBN dada)
+          )
+          (PP 
+            (RB conjuntamente)
+            (IN com)
+            (NP 
+              (DT a)
+              (NP vice-presidente)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN júri)
+                )
+              )
+              (,)
+              (NP 
+                (DT a)
+                (NN actriz)
+                (ADJP 
+                  (JJ francesa)
+                )
+                (NP 
+                  (NNP Catherine_Deneuve)
+                )
+                (,)
+                (NP 
+                  (CD 50)
+                  (NN anos)
+                )
+                (,)
+              )
+            )
+          )
+        )
+      )
+    )
+    (NP 
+      (NNP Eastwood)
+    )
+    (VP 
+      (VBP confessou)
+    )
+    (VP 
+      (IN que)
+      (,)
+      (PP 
+        (IN em_vez_de)
+        («)
+        (NP 
+          (NN sanções)
+          (PP 
+            (IN de)
+            (NP 
+              (NN proteccionismo)
+            )
+          )
+        )
+        (»)
+      )
+      (,)
+      (VP 
+        (VBP preferiria)
+      )
+      (VP 
+        (IN que)
+        («)
+        (NP 
+          (DT uma)
+          (JJ maior)
+          (NN variedade)
+          (PP 
+            (IN de)
+            (NP 
+              (NN filmes)
+              (UCP 
+                (ADJP 
+                  (JJ franceses)
+                )
+                (,)
+                (ADJP 
+                  (JJ asiáticos)
+                )
+                (,)
+                (NP 
+                  (NN russos)
+                )
+              )
+            )
+          )
+        )
+        (»)
+        (VP 
+          (VBP entrasse)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT os)
+            (NNP Estados_Unidos)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,40 +1,67 @@
-(S (VP (NP (PRP Elas))
-                        (ADVP (RB n√£o))
-                        (VP (VBP podem)
-                              (VB ser)
-                              (VBN reeditadas))
-                        (VP (IN porque)
-                                  (NP 
-                                    (DT a)
-                                    (_CU_ 
-                                      (NP 
-                                        (NN cria√ß√£o))
-                                      (CC ou)
-                                      (NP 
-                                        (NN altera√ß√£o)))
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (NN impostos))))
-                                  (ADVP 
-                                    (RB s√≥))
-                                  (VP (VBP podem)
-                                        (VB ser)
-                                        (VBN feitas))
-                                  (PP 
-                                    (IN em+)
-                                    (NP 
-                                      (DT o)
-                                      (NN ano)
-                                      (ADJP 
-                                        (JJ anterior)
-                                        (PP 
-                                          (IN a+)
-                                          (NP 
-                                            (PRP o)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (PRP sua)
-                                                (NN cobran√ßa)))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Elas)
+    )
+    (ADVP 
+      (RB n„o)
+    )
+    (VP 
+      (VBP podem)
+      (VB ser)
+      (VBN reeditadas)
+    )
+    (VP 
+      (IN porque)
+      (NP 
+        (DT a)
+        (NP 
+          (NP 
+            (NN criaÁ„o)
+          )
+          ou          (NP 
+            (NN alteraÁ„o)
+          )
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (NN impostos)
+          )
+        )
+      )
+      (ADVP 
+        (RB sÛ)
+      )
+      (VP 
+        (VBP podem)
+        (VB ser)
+        (VBN feitas)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN ano)
+          (ADJP 
+            (JJ anterior)
+            (PP 
+              (IN a+)
+              (NP 
+                (PRP o)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (PRP sua)
+                    (NN cobranÁa)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

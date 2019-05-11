@@ -1,64 +1,106 @@
-(S (VP (NP (DT As)
-                                 (NN imagens)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (NP 
-                                     (NNP Sebasti√£o_Salgado))
-                                   (VP 
-                                     (VBP registou)))
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN guerra)
-                                          (_CU_ 
-                                            (VP 
-                                              (NP 
-                                                (PRP que))
-                                              (VP 
-                                                (VBP op√¥s))
-                                              (NP 
-                                                (DT os)
-                                                (NNP Estados_Unidos))
-                                              (PP 
-                                                (IN a+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NNP Iraque))))
-                                            (CC e)
-                                            (VP 
-                                              (NP 
-                                                (PRP que))
-                                              (VP 
-                                                (VBP come√ßou))
-                                              (PP 
-                                                (IN por+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN invas√£o)
-                                                  (PP 
-                                                    (IN de+)
-                                                    (NP 
-                                                      (DT o)
-                                                      (NNP Kuwait))))))))))
-                        (ADVP (RB n√£o))
-                        (VP (VBP mostram))
-                        (_CU_ (NP (NN m√≠sseis)
-                                        (NP 
-                                          (NNP Scud)))
-                                (,)
-                                (CC nem)
-                                (NP (DT a)
-                                        (NN ferocidade)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (NN ex√©rcitos)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT os)
-                                                (CD dois)
-                                                (NN inimigos)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN imagens)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (NP 
+          (NNP Sebasti„o_Salgado)
+        )
+        (VP 
+          (VBP registou)
+        )
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN guerra)
+          (VP 
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP opÙs)
+              )
+              (NP 
+                (DT os)
+                (NNP Estados_Unidos)
+              )
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT o)
+                  (NNP Iraque)
+                )
+              )
+            )
+            (CC e)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP comeÁou)
+              )
+              (PP 
+                (IN por+)
+                (NP 
+                  (DT a)
+                  (NN invas„o)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NNP Kuwait)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (ADVP 
+      (RB n„o)
+    )
+    (VP 
+      (VBP mostram)
+    )
+    (NP 
+      (NP 
+        (NN mÌsseis)
+        (NP 
+          (NNP Scud)
+        )
+      )
+      (,)
+      (CC nem)
+      (NP 
+        (DT a)
+        (NN ferocidade)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN exÈrcitos)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT os)
+                (CD dois)
+                (NN inimigos)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

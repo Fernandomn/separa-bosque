@@ -1,27 +1,48 @@
-(S (_CU_ (VP (NP 
-                                  (PP 
-                                    (IN De+)
-                                    (NP 
-                                      (DT os)
-                                      (NN portugueses)
-                                      (ADJP 
-                                        (JJ presentes)
-                                        (PP 
-                                          (IN em+)
-                                          (ADJP 
-                                            (DT o)
-                                            (NN quadro)
-                                            (ADJP 
-                                              (JJ final)))))))
-                                  (,)
-                                  (RB apenas)
-                                  (CD dois))
-                                (VP (VBP actuaram))
-                                (ADVP 
-                                  (RB ontem)))
-                       (CC e)
-                       (VP (NP 
-                                  (PRP ambos))
-                                (VP (VBP foram)
-                                      (VBN eliminados)))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (PP 
+          (IN De+)
+          (NP 
+            (DT os)
+            (NN portugueses)
+            (ADJP 
+              (JJ presentes)
+              (PP 
+                (IN em+)
+                (ADJP 
+                  (DT o)
+                  (NN quadro)
+                  (ADJP 
+                    (JJ final)
+                  )
+                )
+              )
+            )
+          )
+        )
+        (,)
+        (RB apenas)
+        (CD dois)
+      )
+      (VP 
+        (VBP actuaram)
+      )
+      (ADVP 
+        (RB ontem)
+      )
+    )
+    (CC e)
+    (VP 
+      (NP 
+        (PRP ambos)
+      )
+      (VP 
+        (VBP foram)
+        (VBN eliminados)
+      )
+    )
+    (.)
+  )
+)

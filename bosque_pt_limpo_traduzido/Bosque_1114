@@ -1,33 +1,60 @@
-(S (VP (_CU_ (NP 
-                                   (NNP Drosnin))
-                                 (CC e)
-                                 (NP 
-                                   (PRP muitos)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT os)
-                                       (PRP seus)
-                                       (NN seguidores)))))
-                        (VP (VBP aceitam))
-                        (ADVP (RB acriticamente))
-                        (NP (DT o)
-                                (NN episÃ³dio)
-                                (NP (NNP Rabin)))
-                        (ADVP (RB como)
-                                (NP (Â«)
-                                       (NN prova)
-                                       (ADJP 
-                                         (JJ extraordinÃ¡ria))
-                                       (Â»)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NN cÃ³digo)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT a)
-                                               (NNP BÃ­blia)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (NNP Drosnin)
+      )
+      (CC e)
+      (NP 
+        (PRP muitos)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (PRP seus)
+            (NN seguidores)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP aceitam)
+    )
+    (ADVP 
+      (RB acriticamente)
+    )
+    (NP 
+      (DT o)
+      (NN episódio)
+      (NP 
+        (NNP Rabin)
+      )
+    )
+    (ADVP 
+      (RB como)
+      (NP 
+        («)
+        (NN prova)
+        (ADJP 
+          (JJ extraordinária)
+        )
+        (»)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN código)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NNP Bíblia)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

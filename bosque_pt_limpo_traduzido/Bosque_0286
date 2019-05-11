@@ -1,25 +1,47 @@
-(S (VP (VP (VBP Bastava))
-                       (NP (DT um)
-                                (NN pano)
-                                (ADJP 
-                                  (JJ hÃºmido)))
-                       (PP (IN para)
-                                (_CU_ (VP 
-                                         (VP 
-                                           (VB fazer))
-                                         (VP 
-                                           (VP 
-                                             (VB desaparecer))
-                                           (NP 
-                                             (DT as)
-                                             (NN linhas))))
-                                       (,)
-                                       (CC e)
-                                       (VP 
-                                         (VP 
-                                           (VB recomeÃ§ar))
-                                         (NP 
-                                           (PRP tudo))
-                                         (ADVP 
-                                           (RB de_novo)))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Bastava)
+    )
+    (NP 
+      (DT um)
+      (NN pano)
+      (ADJP 
+        (JJ húmido)
+      )
+    )
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VP 
+            (VB fazer)
+          )
+          (VP 
+            (VP 
+              (VB desaparecer)
+            )
+            (NP 
+              (DT as)
+              (NN linhas)
+            )
+          )
+        )
+        (,)
+        (CC e)
+        (VP 
+          (VP 
+            (VB recomeçar)
+          )
+          (NP 
+            (PRP tudo)
+          )
+          (ADVP 
+            (RB de_novo)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

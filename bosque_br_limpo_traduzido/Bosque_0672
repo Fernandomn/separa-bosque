@@ -1,18 +1,31 @@
-(S (VP (NP (DT O)
-                                 (_CU_ (ADJP 
-                                          (JJ jovem)
-                                          ({)
-                                          (NP 
-                                            (CD 34)
-                                            (NN anos))
-                                          (}))
-                                        (,)
-                                        (ADJP 
-                                          (JJ talentoso))
-                                        (CC e)
-                                        (ADJP 
-                                          (JJ barato)))
-                                 (NNP Mancini))
-                        (VP (VBP entrou))
-                        (VBG rachando)
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (ADJP 
+        (ADJP 
+          (JJ jovem)
+          ({)
+          (NP 
+            (CD 34)
+            (NN anos)
+          )
+          (})
+        )
+        (,)
+        (ADJP 
+          (JJ talentoso)
+        )
+        e        (ADJP 
+          (JJ barato)
+        )
+      )
+      (NNP Mancini)
+    )
+    (VP 
+      (VBP entrou)
+    )
+    (VBG rachando)
+    (.)
+  )
+)

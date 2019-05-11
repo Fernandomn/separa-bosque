@@ -1,33 +1,58 @@
-(S (VP (PP (IN Quanto_a+)
-                                (NP (DT as)
-                                       (VBN anunciadas)
-                                       (NN saÃ­das)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (PRP alguns)
-                                           (NN jogadores)))))
-                       (,)
-                       (NP (NNP Donner))
-                       (VP (VBP afirmou))
-                       (VP (IN que)
-                                (Â«)
-                                (NP 
-                                  (PRP essas)
-                                  (NN notÃ­cias))
-                                (ADVP 
-                                  (RB nÃ£o))
-                                (VP (VBP foram)
-                                      (VBN feitas))
-                                (_CU_ 
-                                  (PP 
-                                    (IN por)
-                                    (NP 
-                                      (NN jornalistas)))
-                                  (,)
-                                  (CC mas)
-                                  (PP 
-                                    (IN por)
-                                    (NP 
-                                      (NN pataratas)))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Quanto_a+)
+      (NP 
+        (DT as)
+        (VBN anunciadas)
+        (NN saídas)
+        (PP 
+          (IN de)
+          (NP 
+            (PRP alguns)
+            (NN jogadores)
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP Donner)
+    )
+    (VP 
+      (VBP afirmou)
+    )
+    (VP 
+      (IN que)
+      («)
+      (NP 
+        (PRP essas)
+        (NN notícias)
+      )
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VBP foram)
+        (VBN feitas)
+      )
+      (PP 
+        (PP 
+          (IN por)
+          (NP 
+            (NN jornalistas)
+          )
+        )
+        (,)
+        (CC mas)
+        (PP 
+          (IN por)
+          (NP 
+            (NN pataratas)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

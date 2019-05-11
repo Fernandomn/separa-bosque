@@ -1,30 +1,52 @@
-(S (VP (VP (VBP Teve))
-                        (NP (NN direito)
-                                (PP (RB atÃ©)
-                                       (IN a+)
-                                       (NP 
-                                         (DT a)
-                                         (JJ rara)
-                                         (NN presenÃ§a)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NNP Maria_BethÃ¢nia)))
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT a)
-                                             (NN platÃ©ia))))))
-                        (NP (DT a)
-                                 (JJ Ãºltima)
-                                 (NN performance)
-                                 (ADJP 
-                                   (JJ carioca))
-                                 (PP (IN de)
-                                        (_CU_ 
-                                          (NP 
-                                            (NNP Gilberto_Gil))
-                                          (CC e)
-                                          (NP 
-                                            (NNP Caetano_Veloso)))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Teve)
+    )
+    (NP 
+      (NN direito)
+      (PP 
+        (RB até)
+        (IN a+)
+        (NP 
+          (DT a)
+          (JJ rara)
+          (NN presença)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Maria_Bethânia)
+            )
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN platéia)
+            )
+          )
+        )
+      )
+    )
+    (NP 
+      (DT a)
+      (JJ última)
+      (NN performance)
+      (ADJP 
+        (JJ carioca)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NP 
+            (NNP Gilberto_Gil)
+          )
+          e          (NP 
+            (NNP Caetano_Veloso)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

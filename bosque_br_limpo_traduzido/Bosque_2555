@@ -1,30 +1,53 @@
-(S (VP (VBG Resumindo)
-                        (;)
-                        (NP (NNP Lutoslawski))
-                        (VP (VBP radicalizou))
-                        (NP (NNP BartÃ³k))
-                        (PP (IN em+)
-                                 (NP (PRP aquilo)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (NP 
-                                            (PRP este))
-                                          (VP 
-                                            (VBP tinha))
-                                          (_CU_ 
-                                            (PP 
-                                              (IN de)
-                                              (ADJP 
-                                                (JJ noturno)))
-                                            (,)
-                                            (PP 
-                                              (IN de)
-                                              (ADJP 
-                                                (JJ dramÃ¡tico)))
-                                            (CC e)
-                                            (Â«)
-                                            (ADJP 
-                                              (JJ moderno))
-                                            (Â»)))))
-                        (.)))
+(S 
+  (VP 
+    (VBG Resumindo)
+    (;)
+    (NP 
+      (NNP Lutoslawski)
+    )
+    (VP 
+      (VBP radicalizou)
+    )
+    (NP 
+      (NNP Bartók)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (PRP aquilo)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (NP 
+            (PRP este)
+          )
+          (VP 
+            (VBP tinha)
+          )
+          (UCP 
+            (PP 
+              (IN de)
+              (ADJP 
+                (JJ noturno)
+              )
+            )
+            (,)
+            (PP 
+              (IN de)
+              (ADJP 
+                (JJ dramático)
+              )
+            )
+            e            («)
+            (ADJP 
+              (JJ moderno)
+            )
+            (»)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

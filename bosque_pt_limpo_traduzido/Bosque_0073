@@ -1,41 +1,68 @@
-(S (VP (PP Em_contrapartida)
-                       (,)
-                       (NP (DT o)
-                                (NNP Lokomotiv))
-                       (VP (VBP actuava))
-                       (_CU_ (PP (IN com)
-                                        (NP 
-                                          (CD trÃªs)
-                                          (NN centrais)))
-                                (,)
-                                (VP 
-                                  (IN com)
-                                  (NP 
-                                    (DT o)
-                                    (NN lÃ­bero)
-                                    (NP 
-                                      (NNP Chugainov))
-                                    (,)
-                                    (PP 
-                                      (VP 
-                                        (PP 
-                                          (IN como)
-                                          (RB habitualmente))))
-                                    (,)
-                                    (PP 
-                                      (IN a)
-                                      (VP 
-                                        (VP 
-                                          (VB comandar))
-                                        (NP 
-                                          (DT o)
-                                          (NN jogo))))))
-                                (CC e)
-                                (NP (DT o)
-                                        (NN lateral-esquerdo)
-                                        (NP 
-                                          (NNP Solomatin)
-                                          (ADJP 
-                                            (RB muito)
-                                            (JJ activo)))))
-                       (.)))
+(S 
+  (VP 
+    (PP Em_contrapartida)
+    (,)
+    (NP 
+      (DT o)
+      (NNP Lokomotiv)
+    )
+    (VP 
+      (VBP actuava)
+    )
+    (UCP 
+      (PP 
+        (IN com)
+        (NP 
+          (CD três)
+          (NN centrais)
+        )
+      )
+      (,)
+      (VP 
+        (IN com)
+        (NP 
+          (DT o)
+          (NN líbero)
+          (NP 
+            (NNP Chugainov)
+          )
+          (,)
+          (PP 
+            (VP 
+              (PP 
+                (IN como)
+                (RB habitualmente)
+              )
+            )
+          )
+          (,)
+          (PP 
+            (IN a)
+            (VP 
+              (VP 
+                (VB comandar)
+              )
+              (NP 
+                (DT o)
+                (NN jogo)
+              )
+            )
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (DT o)
+        (NN lateral-esquerdo)
+        (NP 
+          (NNP Solomatin)
+          (ADJP 
+            (RB muito)
+            (JJ activo)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

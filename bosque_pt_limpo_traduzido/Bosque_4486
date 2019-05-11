@@ -1,102 +1,159 @@
-(S (VP (Â«)
-                        (VP (NP 
-                                   (DT O)
-                                   (NN cumprimento)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (NN decreto)
-                                       ([)
-                                       (ADJP 
-                                         (CD 135/95))
-                                       (])))
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT os)
-                                       (NN prazos)
-                                       (VP 
-                                         (PP 
-                                           (IN em)
-                                           (NP 
-                                             (PRP que)))
-                                         (ADVP 
-                                           (RB agora))
-                                         (NP 
-                                           (DT o)
-                                           (NNP Infarmed))
-                                         (VP 
-                                           (VBP veio)
-                                           (VB exigir)))))))
-                        (VP (VBP Ã©))
-                        (ADJP (RB quase)
-                                 (JJ impossÃ­vel))
-                        (VP (IN porque)
-                                  (NP 
-                                    (DT o)
-                                    (JJ novo)
-                                    (NN licenciamento))
-                                  (VP (VBP pede))
-                                  (NP 
-                                    (NN documentos)
-                                    (VP 
-                                      (NP 
-                                        (PRP que))
-                                      (VP 
-                                        (VBP sÃ£o))
-                                      (ADJP 
-                                        (JJ difÃ­ceis)
-                                        (PP 
-                                          (IN de)
-                                          (VP 
-                                            (VP 
-                                              (VB obter))
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT um)
-                                                (JJ curto)
-                                                (NN espaÃ§o)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (NN tempo)))))))))
-                                    (--)
-                                    (VP 
-                                      (RB como)
-                                      (VP 
-                                        (VBP sejam))
-                                      (NP 
-                                        (DT a)
-                                        (NN obtenÃ§Ã£o)
-                                        (PP 
-                                          (IN de)
-                                          (_CU_ 
-                                            (NP 
-                                              (NN alvarÃ¡s)
-                                              (ADJP 
-                                                (JJ camarÃ¡rios)))
-                                            (CC ou)
-                                            (NP 
-                                              (NN pareceres)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN seguranÃ§a)))
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NNP ServiÃ§o_Nacional_de_Bombeiros))))))))))
-                        (Â»)
-                        (,)
-                        (VP (VBP diz))
-                        (NP (NNP SÃ©rgio_Figueira)
-                                 (,)
-                                 (PP 
-                                   (IN de+)
-                                   (NP 
-                                     (DT a)
-                                     (NNP Norquifar))))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (VP 
+      (NP 
+        (DT O)
+        (NN cumprimento)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN decreto)
+            ([)
+            (ADJP 
+              (CD 135/95)
+            )
+            (])
+          )
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT os)
+            (NN prazos)
+            (VP 
+              (PP 
+                (IN em)
+                (NP 
+                  (PRP que)
+                )
+              )
+              (ADVP 
+                (RB agora)
+              )
+              (NP 
+                (DT o)
+                (NNP Infarmed)
+              )
+              (VP 
+                (VBP veio)
+                (VB exigir)
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP é)
+    )
+    (ADJP 
+      (RB quase)
+      (JJ impossível)
+    )
+    (VP 
+      (IN porque)
+      (NP 
+        (DT o)
+        (JJ novo)
+        (NN licenciamento)
+      )
+      (VP 
+        (VBP pede)
+      )
+      (NP 
+        (NN documentos)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP são)
+          )
+          (ADJP 
+            (JJ difíceis)
+            (PP 
+              (IN de)
+              (VP 
+                (VP 
+                  (VB obter)
+                )
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT um)
+                    (JJ curto)
+                    (NN espaço)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NN tempo)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+        (--)
+        (VP 
+          (RB como)
+          (VP 
+            (VBP sejam)
+          )
+          (NP 
+            (DT a)
+            (NN obtenção)
+            (PP 
+              (IN de)
+              (NP 
+                (NP 
+                  (NN alvarás)
+                  (ADJP 
+                    (JJ camarários)
+                  )
+                )
+                (CC ou)
+                (NP 
+                  (NN pareceres)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN segurança)
+                    )
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NNP Serviço_Nacional_de_Bombeiros)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (,)
+    (VP 
+      (VBP diz)
+    )
+    (NP 
+      (NNP Sérgio_Figueira)
+      (,)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP Norquifar)
+        )
+      )
+    )
+    (.)
+  )
+)

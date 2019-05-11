@@ -1,68 +1,110 @@
-(S (VP (VP (NP 
-                                   (DT A)
-                                   (JJ PRÃ“XIMA)
-                                   (NN ronda)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN negociaÃ§Ãµes)
-                                       (PP 
-                                         (IN sobre)
-                                         (NP 
-                                           (DT a)
-                                           (NN paz)
-                                           (PP 
-                                             (IN em)
-                                             (NP 
-                                               (NNP MoÃ§ambique))))))))
-                                 (VP (VBP deverÃ¡)
-                                       (VB ter))
-                                 (NP 
-                                   (NN inÃ­cio))
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT o)
-                                     (NN dia)
-                                     (ADJP 
-                                       (CD 2))
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN Maio)))))
-                                 (PP 
-                                   (IN em)
-                                   (NP 
-                                     (NNP Roma))))
-                        (,)
-                        (VP (VBP confirmaram))
-                        (ADVP (RB ontem))
-                        (NP (_CU_ (NP 
-                                         (DT o)
-                                         (NN MinistÃ©rio)
-                                         (ADJP 
-                                           (JJ italiano))
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT os)
-                                             (NNP NegÃ³cios_Estrangeiros))))
-                                       (CC e)
-                                       (NP 
-                                         (DT a)
-                                         (NN comunidade)
-                                         (ADJP 
-                                           (JJ religiosa))
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NNP Sant'Egidio)))))
-                                 (,)
-                                 (NP 
-                                   (NN mediador)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (PRP estas)
-                                       (NN conversaÃ§Ãµes)))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT A)
+        (JJ PRÓXIMA)
+        (NN ronda)
+        (PP 
+          (IN de)
+          (NP 
+            (NN negociações)
+            (PP 
+              (IN sobre)
+              (NP 
+                (DT a)
+                (NN paz)
+                (PP 
+                  (IN em)
+                  (NP 
+                    (NNP Moçambique)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP deverá)
+        (VB ter)
+      )
+      (NP 
+        (NN início)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN dia)
+          (ADJP 
+            (CD 2)
+          )
+          (PP 
+            (IN de)
+            (NP 
+              (NN Maio)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NNP Roma)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP confirmaram)
+    )
+    (ADVP 
+      (RB ontem)
+    )
+    (NP 
+      (NP 
+        (NP 
+          (DT o)
+          (NN Ministério)
+          (ADJP 
+            (JJ italiano)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (NNP Negócios_Estrangeiros)
+            )
+          )
+        )
+        (CC e)
+        (NP 
+          (DT a)
+          (NN comunidade)
+          (ADJP 
+            (JJ religiosa)
+          )
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Sant'Egidio)
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NN mediador)
+        (PP 
+          (IN de+)
+          (NP 
+            (PRP estas)
+            (NN conversações)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

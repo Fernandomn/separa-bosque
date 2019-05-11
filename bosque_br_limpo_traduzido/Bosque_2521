@@ -1,12 +1,22 @@
-(S (NP (PRP Muito)
-                       (NN N)
-                       (;)
-                       (NP (_CU_ (NP 
-                                          (NN coisa))
-                                        (CC ou)
-                                        (NP 
-                                          (NN conversa)))
-                                  (ADJP 
-                                    (JJ negativa)
-                                    (RB demais)))
-                       (.)))
+(S 
+  (NP 
+    (PRP Muito)
+    (NN N)
+    (;)
+    (NP 
+      (NP 
+        (NP 
+          (NN coisa)
+        )
+        ou        (NP 
+          (NN conversa)
+        )
+      )
+      (ADJP 
+        (JJ negativa)
+        (RB demais)
+      )
+    )
+    (.)
+  )
+)

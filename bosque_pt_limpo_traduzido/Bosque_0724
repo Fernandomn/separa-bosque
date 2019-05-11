@@ -1,66 +1,105 @@
-(S (VP (VP (VP 
-                                          (VBN Protegido))
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (NNP Portugal))))
-                        (,)
-                        (NP (DT o)
-                                 (NN lobo))
-                        (VP (VBP √©)
-                              (VBN considerado))
-                        (NP (DT uma)
-                               (NN esp√©cie)
-                               (ADJP (JJ cineg√©tica)))
-                        (PP (IN em+)
-                                 (NP (DT o)
-                                        (NN lado)
-                                        (PP 
-                                          (IN de)
-                                          (RB l√°))
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN fronteira)
-                                            (,)
-                                            (VP 
-                                              (ADVP 
-                                                (RB onde))
-                                              (,)
-                                              (PP 
-                                                (IN desde_h√°)
-                                                (NP 
-                                                  (CD dois)
-                                                  (NN anos)))
-                                              (,)
-                                              (VP 
-                                                (VBP tem)
-                                                (VBN vindo))
-                                              (_CU_ 
-                                                (VP 
-                                                  (VP 
-                                                    (IN a)
-                                                    (VB ser)
-                                                    (VBN leiloado))
-                                                  (NP 
-                                                    (DT o)
-                                                    (PRP seu)
-                                                    (NN abate)))
-                                                (CC e)
-                                                (VP 
-                                                  (VP 
-                                                    (IN a)
-                                                    (VB prosperar))
-                                                  (NP 
-                                                    (DT um)
-                                                    (NN mercado)
-                                                    (ADJP 
-                                                      (JJ negro)))
-                                                  (PP 
-                                                    (IN em_torno_de+)
-                                                    (NP 
-                                                      (DT os)
-                                                      (PRP seus)
-                                                      (NN restos))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBN Protegido)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NNP Portugal)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN lobo)
+    )
+    (VP 
+      (VBP È)
+      (VBN considerado)
+    )
+    (NP 
+      (DT uma)
+      (NN espÈcie)
+      (ADJP 
+        (JJ cinegÈtica)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT o)
+        (NN lado)
+        (PP 
+          (IN de)
+          (RB l·)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN fronteira)
+            (,)
+            (VP 
+              (ADVP 
+                (RB onde)
+              )
+              (,)
+              (PP 
+                (IN desde_h·)
+                (NP 
+                  (CD dois)
+                  (NN anos)
+                )
+              )
+              (,)
+              (VP 
+                (VBP tem)
+                (VBN vindo)
+              )
+              (VP 
+                (VP 
+                  (VP 
+                    (IN a)
+                    (VB ser)
+                    (VBN leiloado)
+                  )
+                  (NP 
+                    (DT o)
+                    (PRP seu)
+                    (NN abate)
+                  )
+                )
+                (CC e)
+                (VP 
+                  (VP 
+                    (IN a)
+                    (VB prosperar)
+                  )
+                  (NP 
+                    (DT um)
+                    (NN mercado)
+                    (ADJP 
+                      (JJ negro)
+                    )
+                  )
+                  (PP 
+                    (IN em_torno_de+)
+                    (NP 
+                      (DT os)
+                      (PRP seus)
+                      (NN restos)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

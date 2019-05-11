@@ -1,88 +1,142 @@
-(S (VP (PP (PP De_acordo)
-                                 (PP (IN com)
-                                        (NP 
-                                          (DT o)
-                                          (NN texto)
-                                          (VP 
-                                            (VP 
-                                              (VBN proposto))
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT o)
-                                                (NN ponto)
-                                                (ADJP 
-                                                  (CD 3))
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NN artigo)
-                                                    (ADJP 
-                                                      (CD 31))))))))))
-                        (,)
-                        (NP (DT os)
-                                 (NN contribuintes))
-                        (VP (VBP podem)
-                              (VB indicar))
-                        (NP (RB qual)
-                                (DT a)
-                                (Â«)
-                                (_CU_ (NP 
-                                        (NN igreja))
-                                      (CC ou)
-                                      (NP 
-                                        (NN comunidade)
-                                        (ADJP 
-                                          (JJ religiosa))))
-                                (VP 
-                                  (VP (VBN radicada))
-                                  (PP 
-                                    (IN em+)
-                                    (NP 
-                                      (DT o)
-                                      (NN paÃ­s))))
-                                (Â»)
-                                (,)
-                                (PP 
-                                  (IN a)
-                                  (VP 
-                                    (VP 
-                                      (VB inscrever))
-                                    (PP 
-                                      (IN em+)
-                                      (NP 
-                                        (DT a)
-                                        (NN declaraÃ§Ã£o)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN rendimentos)))))))
-                                (,)
-                                (VP (VP 
-                                          (NP 
-                                            (PRP que)))
-                                        (VP 
-                                          (VBP desejam))
-                                        (VP 
-                                          (IN que)
-                                          (VP 
-                                            (VBP receba))
-                                          (NP 
-                                            (PRP aquela)
-                                            (NN dotaÃ§Ã£o))
-                                          (Â«)
-                                          (PP 
-                                            (IN para)
-                                            (NP 
-                                              (NN fins)
-                                              (_CU_ 
-                                                (ADJP 
-                                                  (JJ religiosos))
-                                                (CC ou)
-                                                (PP 
-                                                  (IN de)
-                                                  (NP 
-                                                    (NN beneficÃªncia))))))
-                                          (Â»))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (PP De_acordo)
+      (PP 
+        (IN com)
+        (NP 
+          (DT o)
+          (NN texto)
+          (VP 
+            (VP 
+              (VBN proposto)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NN ponto)
+                (ADJP 
+                  (CD 3)
+                )
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN artigo)
+                    (ADJP 
+                      (CD 31)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT os)
+      (NN contribuintes)
+    )
+    (VP 
+      (VBP podem)
+      (VB indicar)
+    )
+    (NP 
+      (RB qual)
+      (DT a)
+      («)
+      (NP 
+        (NP 
+          (NN igreja)
+        )
+        (CC ou)
+        (NP 
+          (NN comunidade)
+          (ADJP 
+            (JJ religiosa)
+          )
+        )
+      )
+      (VP 
+        (VP 
+          (VBN radicada)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NN país)
+          )
+        )
+      )
+      (»)
+      (,)
+      (PP 
+        (IN a)
+        (VP 
+          (VP 
+            (VB inscrever)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN declaração)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN rendimentos)
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (NP 
+            (PRP que)
+          )
+        )
+        (VP 
+          (VBP desejam)
+        )
+        (VP 
+          (IN que)
+          (VP 
+            (VBP receba)
+          )
+          (NP 
+            (PRP aquela)
+            (NN dotação)
+          )
+          («)
+          (PP 
+            (IN para)
+            (NP 
+              (NN fins)
+              (UCP 
+                (ADJP 
+                  (JJ religiosos)
+                )
+                (CC ou)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN beneficência)
+                  )
+                )
+              )
+            )
+          )
+          (»)
+        )
+      )
+    )
+    (.)
+  )
+)

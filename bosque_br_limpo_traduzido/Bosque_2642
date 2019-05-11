@@ -1,22 +1,38 @@
-(S (VP (VP (VBP Estiveram))
-                        (ADJP (JJ presentes))
-                        (_CU_ (NP 
-                                   (NN dirigentes)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (NN futebol))))
-                                 (,)
-                                 (CC e)
-                                 (NP 
-                                   (NN autoridades)
-                                   (_CU_ 
-                                     (ADJP 
-                                       (JJ policiais))
-                                     (NP 
-                                       (NN civis))
-                                     (CC e)
-                                     (NP 
-                                       (NN militares)))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Estiveram)
+    )
+    (ADJP 
+      (JJ presentes)
+    )
+    (NP 
+      (NP 
+        (NN dirigentes)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN futebol)
+          )
+        )
+      )
+      (,)
+      e      (NP 
+        (NN autoridades)
+        (UCP 
+          (ADJP 
+            (JJ policiais)
+          )
+          (NP 
+            (NN civis)
+          )
+          e          (NP 
+            (NN militares)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,105 +1,157 @@
-(S (VP (_CU_ (NP 
-                                   (DT O)
-                                   (NN croata)
-                                   (NP 
-                                     (NNP Goran_Ivanisevic)))
-                                 (,)
-                                 (NP 
-                                   (DT o)
-                                   (NN norte-americano)
-                                   (NP 
-                                     (NNP John_McEnroe)))
-                                 (,)
-                                 (NP 
-                                   (DT o)
-                                   (NN checoslovaco)
-                                   (NP 
-                                     (NNP Petr_Korda)))
-                                 (,)
-                                 (NP 
-                                   (DT o)
-                                   (NN francÃªs)
-                                   (NP 
-                                     (NNP Henri_Leconte)))
-                                 (CC e)
-                                 (NP 
-                                   (DT o)
-                                   (NN holandÃªs)
-                                   (NP 
-                                     (NNP Richard_Krajicek))))
-                        (VP (VBP foram))
-                        (NP (DT os)
-                               (NN primeiros)
-                               (PP (IN a)
-                                      (VP 
-                                        (VP 
-                                          (VB assegurar))
-                                        (NP 
-                                          (DT a)
-                                          (NN passagem)
-                                          (PP 
-                                            (IN a+)
-                                            (NP 
-                                              (DT a)
-                                              (JJ segunda)
-                                              (NN ronda)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NNP TaÃ§a_do_Grand_Slam)
-                                                  (PP 
-                                                    (IN em)
-                                                    (NP 
-                                                      (NN tÃ©nis)))
-                                                  (,)
-                                                  (NP 
-                                                    (NN competiÃ§Ã£o)
-                                                    (_CU_ 
-                                                      (VP 
-                                                        (NP 
-                                                          (PRP que))
-                                                        (VP 
-                                                          (VBP estÃ¡)
-                                                          (IN a)
-                                                          (VB ser)
-                                                          (VBN disputada))
-                                                        (PP 
-                                                          (IN em)
-                                                          (NP 
-                                                            (NNP Munique)
-                                                            ({)
-                                                            (NP 
-                                                              (NNP Alemanha))
-                                                            (}))))
-                                                      (CC e)
-                                                      (VP 
-                                                        (NP 
-                                                          (PRP que))
-                                                        (VP 
-                                                          (VBP estÃ¡))
-                                                        (VP 
-                                                          (VP 
-                                                            (VBN dotada))
-                                                          (PP 
-                                                            (IN com)
-                                                            (NP 
-                                                              (CD seis)
-                                                              (NN milhÃµes)
-                                                              (PP 
-                                                                (IN de)
-                                                                (NP 
-                                                                  (NN dÃ³lares)
-                                                                  ({)
-                                                                  (NP 
-                                                                    (RB cerca_de)
-                                                                    (NP 
-                                                                      (CD 840)
-                                                                      (NN mil)
-                                                                      (NN contos)))
-                                                                  (})
-                                                                  (PP 
-                                                                    (IN em)
-                                                                    (NP 
-                                                                      (NN prÃ©mios)))))))))))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (DT O)
+        (NN croata)
+        (NP 
+          (NNP Goran_Ivanisevic)
+        )
+      )
+      (,)
+      (NP 
+        (DT o)
+        (NN norte-americano)
+        (NP 
+          (NNP John_McEnroe)
+        )
+      )
+      (,)
+      (NP 
+        (DT o)
+        (NN checoslovaco)
+        (NP 
+          (NNP Petr_Korda)
+        )
+      )
+      (,)
+      (NP 
+        (DT o)
+        (NN francês)
+        (NP 
+          (NNP Henri_Leconte)
+        )
+      )
+      (CC e)
+      (NP 
+        (DT o)
+        (NN holandês)
+        (NP 
+          (NNP Richard_Krajicek)
+        )
+      )
+    )
+    (VP 
+      (VBP foram)
+    )
+    (NP 
+      (DT os)
+      (NN primeiros)
+      (PP 
+        (IN a)
+        (VP 
+          (VP 
+            (VB assegurar)
+          )
+          (NP 
+            (DT a)
+            (NN passagem)
+            (PP 
+              (IN a+)
+              (NP 
+                (DT a)
+                (JJ segunda)
+                (NN ronda)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NNP Taça_do_Grand_Slam)
+                    (PP 
+                      (IN em)
+                      (NP 
+                        (NN ténis)
+                      )
+                    )
+                    (,)
+                    (NP 
+                      (NN competição)
+                      (VP 
+                        (VP 
+                          (NP 
+                            (PRP que)
+                          )
+                          (VP 
+                            (VBP está)
+                            (IN a)
+                            (VB ser)
+                            (VBN disputada)
+                          )
+                          (PP 
+                            (IN em)
+                            (NP 
+                              (NNP Munique)
+                              ({)
+                              (NP 
+                                (NNP Alemanha)
+                              )
+                              (})
+                            )
+                          )
+                        )
+                        (CC e)
+                        (VP 
+                          (NP 
+                            (PRP que)
+                          )
+                          (VP 
+                            (VBP está)
+                          )
+                          (VP 
+                            (VP 
+                              (VBN dotada)
+                            )
+                            (PP 
+                              (IN com)
+                              (NP 
+                                (CD seis)
+                                (NN milhões)
+                                (PP 
+                                  (IN de)
+                                  (NP 
+                                    (NN dólares)
+                                    ({)
+                                    (NP 
+                                      (RB cerca_de)
+                                      (NP 
+                                        (CD 840)
+                                        (NN mil)
+                                        (NN contos)
+                                      )
+                                    )
+                                    (})
+                                    (PP 
+                                      (IN em)
+                                      (NP 
+                                        (NN prémios)
+                                      )
+                                    )
+                                  )
+                                )
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,43 +1,70 @@
-(S (VP (NP (DT O)
-                                 (NN panorama))
-                        (VP (VBP Ã©))
-                        (ADJP (JJ assustador))
-                        (;)
-                        (_CU_ (NP 
-                                     (NN ameaÃ§a)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN greve))))
-                                   (,)
-                                   (NP 
-                                     (NN possibilidade)
-                                     (PP 
-                                       (IN de)
-                                       (_CU_ 
-                                         (NP 
-                                           (NN hiperinflaÃ§Ã£o))
-                                         (CC e)
-                                         (NP 
-                                           (NN descontrole)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN preÃ§os)))))))
-                                   (,)
-                                   (NP 
-                                     (NN perda)
-                                     (ADJP 
-                                       (JJ salarial)))
-                                   (,)
-                                   (NP 
-                                     (NN nuvens)
-                                     (ADJP 
-                                       (JJ negras))
-                                     (PP 
-                                       (IN para)
-                                       (NP 
-                                         (PRP todos)
-                                         (DT os)
-                                         (NN lados)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN panorama)
+    )
+    (VP 
+      (VBP é)
+    )
+    (ADJP 
+      (JJ assustador)
+    )
+    (;)
+    (NP 
+      (NP 
+        (NN ameaça)
+        (PP 
+          (IN de)
+          (NP 
+            (NN greve)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NN possibilidade)
+        (PP 
+          (IN de)
+          (NP 
+            (NP 
+              (NN hiperinflação)
+            )
+            e            (NP 
+              (NN descontrole)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN preços)
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NN perda)
+        (ADJP 
+          (JJ salarial)
+        )
+      )
+      (,)
+      (NP 
+        (NN nuvens)
+        (ADJP 
+          (JJ negras)
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (PRP todos)
+            (DT os)
+            (NN lados)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,49 +1,80 @@
-(S (_CU_ (VP (NP 
-                                  (DT A)
-                                  (NN contestaÃ§Ã£o)
-                                  (PP 
-                                    (IN a)
-                                    (NP 
-                                      (PRP este))))
-                                (VP (VBP continua)
-                                      (IN a)
-                                      (VB subir))
-                                (PP 
-                                  (IN de)
-                                  (NP 
-                                    (NN tom))))
-                       (CC e)
-                       (VP (ADVP 
-                                  (RB ontem))
-                                (,)
-                                (PP 
-                                  (IN por+)
-                                  (NP 
-                                    (DT o)
-                                    (JJ terceiro)
-                                    (NN dia)
-                                    (ADJP 
-                                      (JJ consecutivo))))
-                                (,)
-                                (NP 
-                                  (DT as)
-                                  (NN ruas)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (NNP Belgrado))))
-                                (VP (VBP foram))
-                                (NP (DT o)
-                                       (NN palco)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN manifestaÃ§Ãµes)
-                                           (VP 
-                                             (VP 
-                                               (VBG exigindo))
-                                             (NP 
-                                               (DT a)
-                                               (PRP sua)
-                                               (NN demissÃ£o)))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT A)
+        (NN contestação)
+        (PP 
+          (IN a)
+          (NP 
+            (PRP este)
+          )
+        )
+      )
+      (VP 
+        (VBP continua)
+        (IN a)
+        (VB subir)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NN tom)
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (ADVP 
+        (RB ontem)
+      )
+      (,)
+      (PP 
+        (IN por+)
+        (NP 
+          (DT o)
+          (JJ terceiro)
+          (NN dia)
+          (ADJP 
+            (JJ consecutivo)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (DT as)
+        (NN ruas)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Belgrado)
+          )
+        )
+      )
+      (VP 
+        (VBP foram)
+      )
+      (NP 
+        (DT o)
+        (NN palco)
+        (PP 
+          (IN de)
+          (NP 
+            (NN manifestações)
+            (VP 
+              (VP 
+                (VBG exigindo)
+              )
+              (NP 
+                (DT a)
+                (PRP sua)
+                (NN demissão)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

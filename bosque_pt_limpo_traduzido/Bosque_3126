@@ -1,102 +1,158 @@
-(S (VP (IN Se)
-                        (PP (IN a)
-                                 (NP (PRP isto)))
-                        (VP (VBP acrescentarmos))
-                        (VP (NP 
-                                   (PRP o_que))
-                                 (VP (VBP est√°)
-                                       (IN a)
-                                       (VB ser)
-                                       (VBN perdido))
-                                 (NP 
-                                   (--)
-                                   (_CU_ 
-                                     (NP 
-                                       (_CU_ 
-                                         (NP 
-                                           (NN passageiros))
-                                         (CC e)
-                                         (NP 
-                                           (NN mercadorias)))
-                                       (_CU_ 
-                                         (IN em+)
-                                         (NP 
-                                           (DT a)
-                                           (NNP TAP))))
-                                     (,)
-                                     (NP 
-                                       (NN mercadorias)
-                                       (_CU_ 
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT a)
-                                             (NNP Portline)))
-                                         (CC e)
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT a)
-                                             (NNP Transinsular)))))
-                                     (,)
-                                     (NP 
-                                       (NN dormidas)
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT os)
-                                           (NN hot√©is)
-                                           ({)
-                                           (_CU_ 
-                                             (NP 
-                                               (NNP Hotti))
-                                             (CC e)
-                                             (NP 
-                                               (NNP 24_de_Setembro)))
-                                           (}))))
-                                     (,)
-                                     (NP 
-                                       (NN opera√ß√µes)
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT a)
-                                           (NN banca)
-                                           ({)
-                                           (_CU_ 
-                                             (NP 
-                                               (NNP Banco_Internacional_da_Guin√©-Bissau))
-                                             (CC e)
-                                             (NP 
-                                               (NNP Totta_&_a√ßores)))
-                                           (}))))
-                                     (,)
-                                     (NP 
-                                       (NN turistas)
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT os)
-                                           (NN clubes)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN ca√ßa)))
-                                           ({)
-                                           (ADVP 
-                                             (RB como)
-                                             (NP 
-                                               (PRP o)
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (NNP Cap√©)))))
-                                           (})))))
-                                   (--)))
-                        (,)
-                        (NP (DT as)
-                                 (NN verbas)
-                                 (VBN perdidas))
-                        (VP (VBP causar√£o))
-                        (NP (NN vertigens))
-                        (.)))
+(S 
+  (VP 
+    (IN Se)
+    (PP 
+      (IN a)
+      (NP 
+        (PRP isto)
+      )
+    )
+    (VP 
+      (VBP acrescentarmos)
+    )
+    (VP 
+      (NP 
+        (PRP o_que)
+      )
+      (VP 
+        (VBP est·)
+        (IN a)
+        (VB ser)
+        (VBN perdido)
+      )
+      (NP 
+        (--)
+        (NP 
+          (NP 
+            (NP 
+              (NP 
+                (NN passageiros)
+              )
+              (CC e)
+              (NP 
+                (NN mercadorias)
+              )
+            )
+            (UCP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NNP TAP)
+              )
+            )
+          )
+          (,)
+          (NP 
+            (NN mercadorias)
+            (PP 
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT a)
+                  (NNP Portline)
+                )
+              )
+              (CC e)
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT a)
+                  (NNP Transinsular)
+                )
+              )
+            )
+          )
+          (,)
+          (NP 
+            (NN dormidas)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT os)
+                (NN hotÈis)
+                ({)
+                (NP 
+                  (NP 
+                    (NNP Hotti)
+                  )
+                  (CC e)
+                  (NP 
+                    (NNP 24_de_Setembro)
+                  )
+                )
+                (})
+              )
+            )
+          )
+          (,)
+          (NP 
+            (NN operaÁıes)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NN banca)
+                ({)
+                (NP 
+                  (NP 
+                    (NNP Banco_Internacional_da_GuinÈ-Bissau)
+                  )
+                  (CC e)
+                  (NP 
+                    (NNP Totta_&_aÁores)
+                  )
+                )
+                (})
+              )
+            )
+          )
+          (,)
+          (NP 
+            (NN turistas)
+            (PP 
+              (IN em+)
+              (NP 
+                (DT os)
+                (NN clubes)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN caÁa)
+                  )
+                )
+                ({)
+                (ADVP 
+                  (RB como)
+                  (NP 
+                    (PRP o)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NNP CapÈ)
+                      )
+                    )
+                  )
+                )
+                (})
+              )
+            )
+          )
+        )
+        (--)
+      )
+    )
+    (,)
+    (NP 
+      (DT as)
+      (NN verbas)
+      (VBN perdidas)
+    )
+    (VP 
+      (VBP causar„o)
+    )
+    (NP 
+      (NN vertigens)
+    )
+    (.)
+  )
+)

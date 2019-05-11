@@ -1,31 +1,56 @@
-(S (VP (NP (DT A)
-                                 (_CU_ (NP 
-                                         (NN sociÃ³loga))
-                                       (CC e)
-                                       (NP 
-                                         (NN cientista)))
-                                 (ADJP 
-                                   (JJ polÃ­tica)))
-                        (VP (VBP falou))
-                        (PP (IN sobre)
-                                (NP (DT o)
-                                       (NN tema)))
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (JJ Ãºltima)
-                                        (NN conferÃªncia)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN encontro)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT a)
-                                                (NNP AssociaÃ§Ã£o_Nacional_de_PÃ³s-graduaÃ§Ã£o_em_CiÃªncias_Sociais)
-                                                ({)
-                                                (NP 
-                                                  (NNP Anpocs))
-                                                (})))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NP 
+        (NP 
+          (NN socióloga)
+        )
+        e        (NP 
+          (NN cientista)
+        )
+      )
+      (ADJP 
+        (JJ política)
+      )
+    )
+    (VP 
+      (VBP falou)
+    )
+    (PP 
+      (IN sobre)
+      (NP 
+        (DT o)
+        (NN tema)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (JJ última)
+        (NN conferência)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN encontro)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NNP Associação_Nacional_de_Pós-graduação_em_Ciências_Sociais)
+                ({)
+                (NP 
+                  (NNP Anpocs)
+                )
+                (})
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

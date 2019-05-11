@@ -1,32 +1,59 @@
-(S (VP (NP (PRP Essas)
-                                 (NN dificuldades)
-                                 (,)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP surgiram))
-                                   (PP 
-                                     (IN desde)
-                                     (NP 
-                                       (DT o)
-                                       (NN lan√ßamento)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NN id√©ia))))))
-                                 (,))
-                        (VP (VBP estimularam))
-                        (_CU_ (NP (NN economistas))
-                                (CC e)
-                                (NP (NN governo)))
-                        (PP (IN a)
-                                (VP (VP 
-                                          (VB buscar))
-                                        (NP 
-                                          (NN caminhos)
-                                          (ADJP 
-                                            (RB mais)
-                                            (JJ r√°pidos)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Essas)
+      (NN dificuldades)
+      (,)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP surgiram)
+        )
+        (PP 
+          (IN desde)
+          (NP 
+            (DT o)
+            (NN lanÁamento)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN idÈia)
+              )
+            )
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP estimularam)
+    )
+    (NP 
+      (NP 
+        (NN economistas)
+      )
+      e      (NP 
+        (NN governo)
+      )
+    )
+    (PP 
+      (IN a)
+      (VP 
+        (VP 
+          (VB buscar)
+        )
+        (NP 
+          (NN caminhos)
+          (ADJP 
+            (RB mais)
+            (JJ r·pidos)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,54 +1,88 @@
-(S (VP (NP (DT O)
-                                 (NN valor)
-                                 (ADJP 
-                                   (JJ total))
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT os)
-                                          (NN compromissos)
-                                          (VBN assumidos))))
-                        (VP (VBP √©))
-                        (PP (IN de)
-                               (NP (CD 4,2)
-                                      (NN milh√µes)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN contos)))
-                                      (,)
-                                      (_CU_ 
-                                        (VP 
-                                          (NP 
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (PRP os_quais)))
-                                            (CD 1,5)
-                                            (NN milh√µes))
-                                          (VP 
-                                            (VBP s√£o))
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN responsabilidade)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NNP Governo_Regional_dos_A√ßores)))))
-                                          (PP 
-                                            (IN via)
-                                            (NP 
-                                              (NNP IIPA))))
-                                        (CC e)
-                                        (ADVP 
-                                          (NP 
-                                            (DT o)
-                                            (NN restante))
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT as)
-                                              (NN comunidades)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN valor)
+      (ADJP 
+        (JJ total)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT os)
+          (NN compromissos)
+          (VBN assumidos)
+        )
+      )
+    )
+    (VP 
+      (VBP È)
+    )
+    (PP 
+      (IN de)
+      (NP 
+        (CD 4,2)
+        (NN milhıes)
+        (PP 
+          (IN de)
+          (NP 
+            (NN contos)
+          )
+        )
+        (,)
+        (UCP 
+          (VP 
+            (NP 
+              (PP 
+                (IN de+)
+                (NP 
+                  (PRP os_quais)
+                )
+              )
+              (CD 1,5)
+              (NN milhıes)
+            )
+            (VP 
+              (VBP s„o)
+            )
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN responsabilidade)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NNP Governo_Regional_dos_AÁores)
+                  )
+                )
+              )
+            )
+            (PP 
+              (IN via)
+              (NP 
+                (NNP IIPA)
+              )
+            )
+          )
+          (CC e)
+          (ADVP 
+            (NP 
+              (DT o)
+              (NN restante)
+            )
+            (PP 
+              (IN de+)
+              (NP 
+                (DT as)
+                (NN comunidades)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

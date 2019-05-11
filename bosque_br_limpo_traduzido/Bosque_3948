@@ -1,39 +1,64 @@
-(S (VP (VP (VP (VBN Determinadas))
-                                (PP 
-                                  (IN por+)
-                                  (NP 
-                                    (DT o)
-                                    (NNP Conselho_Federal_de_Medicina)
-                                    ({)
-                                    (NP 
-                                      (NNP CFM))
-                                    (}))))
-                        (,)
-                        (NP (DT as)
-                                 (NN normas)
-                                 (ADJP 
-                                   (JJ √©ticas)))
-                        (VP (VBP foram)
-                              (VBN inspiradas))
-                        (PP (IN em+)
-                                (NP 
-                                  (PRP as)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (PRP outros)
-                                      (NN pa√≠ses)
-                                      (,)
-                                      (_CU_ 
-                                        (NP 
-                                          (NNP Estados_Unidos))
-                                        (,)
-                                        (NP 
-                                          (NNP Fran√ßa))
-                                        (CC e)
-                                        (NP 
-                                          (NNP It√°lia))
-                                        (,)
-                                        (ADVP 
-                                          (RB por_exemplo)))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBN Determinadas)
+      )
+      (PP 
+        (IN por+)
+        (NP 
+          (DT o)
+          (NNP Conselho_Federal_de_Medicina)
+          ({)
+          (NP 
+            (NNP CFM)
+          )
+          (})
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT as)
+      (NN normas)
+      (ADJP 
+        (JJ Èticas)
+      )
+    )
+    (VP 
+      (VBP foram)
+      (VBN inspiradas)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (PRP as)
+        (PP 
+          (IN de)
+          (NP 
+            (PRP outros)
+            (NN paÌses)
+            (,)
+            (UCP 
+              (NP 
+                (NNP Estados_Unidos)
+              )
+              (,)
+              (NP 
+                (NNP FranÁa)
+              )
+              e              (NP 
+                (NNP It·lia)
+              )
+              (,)
+              (ADVP 
+                (RB por_exemplo)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

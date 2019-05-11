@@ -1,10 +1,23 @@
-(S (VP (VP (VBP Estava))
-                        (ADJP (JJ vivo))
-                        (NP (DT o)
-                                 (NN sentimento)
-                                 (_CU_ (ADJP 
-                                          (JJ Ã©tnico))
-                                        (CC e)
-                                        (ADJP 
-                                          (JJ nativista))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Estava)
+    )
+    (ADJP 
+      (JJ vivo)
+    )
+    (NP 
+      (DT o)
+      (NN sentimento)
+      (ADJP 
+        (ADJP 
+          (JJ étnico)
+        )
+        e        (ADJP 
+          (JJ nativista)
+        )
+      )
+    )
+    (.)
+  )
+)

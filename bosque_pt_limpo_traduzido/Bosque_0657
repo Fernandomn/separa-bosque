@@ -1,40 +1,70 @@
-(S (VP (NP (DT Os)
-                                 (NN parlamentos)
-                                 (_CU_ (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN federaÃ§Ã£o)
-                                            (ADJP 
-                                              (JJ croato-muÃ§ulmana))))
-                                        (CC e)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (NN sÃ©rvios)
-                                            (ADJP 
-                                              (JJ bÃ³snios))))))
-                        (VP (VBP vÃ£o))
-                        (ADVP (RB hoje))
-                        (VP (VP (VB pronunciar-))
-                                 (NP 
-                                   (PRP se))
-                                 (PP 
-                                   (IN sobre)
-                                   (NP 
-                                     (DT o)
-                                     (JJ novo)
-                                     (NN plano)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN paz)
-                                         (ADJP 
-                                           (JJ internacional))
-                                         (PP 
-                                           (IN para)
-                                           (NP 
-                                             (DT a)
-                                             (NN repÃºblica))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN parlamentos)
+      (PP 
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN federação)
+            (ADJP 
+              (JJ croato-muçulmana)
+            )
+          )
+        )
+        (CC e)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN sérvios)
+            (ADJP 
+              (JJ bósnios)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP vão)
+    )
+    (ADVP 
+      (RB hoje)
+    )
+    (VP 
+      (VP 
+        (VB pronunciar-)
+      )
+      (NP 
+        (PRP se)
+      )
+      (PP 
+        (IN sobre)
+        (NP 
+          (DT o)
+          (JJ novo)
+          (NN plano)
+          (PP 
+            (IN de)
+            (NP 
+              (NN paz)
+              (ADJP 
+                (JJ internacional)
+              )
+              (PP 
+                (IN para)
+                (NP 
+                  (DT a)
+                  (NN república)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

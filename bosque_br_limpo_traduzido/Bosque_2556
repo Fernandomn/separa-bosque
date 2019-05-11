@@ -1,34 +1,62 @@
-(S (VP (_CU_ (NP 
-                                   (DT Os)
-                                   (NN acasos))
-                                 (CC e)
-                                 (NP 
-                                   (NN interrupÃ§Ãµes)
-                                   (ADJP 
-                                     (JJ misteriosas))
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       (NN mÃºsica)
-                                       (ADJP 
-                                         (JJ noturna))
-                                       (ADJP 
-                                         (JJ bartokiana))))))
-                        (NP (PRP se))
-                        (VP (VBP fizeram))
-                        (,)
-                        (PP (IN em)
-                                 (NP (NNP Lutoslawski)))
-                        (,)
-                        (_CU_ (NP (NN silÃªncios))
-                               (CC e)
-                               (NP (NN vibraÃ§Ãµes)
-                                       (ADJP 
-                                         (JJ aleatÃ³rias))
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NN orquestra)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NP 
+        (DT Os)
+        (NN acasos)
+      )
+      e      (NP 
+        (NN interrupções)
+        (ADJP 
+          (JJ misteriosas)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN música)
+            (ADJP 
+              (JJ noturna)
+            )
+            (ADJP 
+              (JJ bartokiana)
+            )
+          )
+        )
+      )
+    )
+    (NP 
+      (PRP se)
+    )
+    (VP 
+      (VBP fizeram)
+    )
+    (,)
+    (PP 
+      (IN em)
+      (NP 
+        (NNP Lutoslawski)
+      )
+    )
+    (,)
+    (NP 
+      (NP 
+        (NN silêncios)
+      )
+      e      (NP 
+        (NN vibrações)
+        (ADJP 
+          (JJ aleatórias)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN orquestra)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

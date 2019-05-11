@@ -1,18 +1,33 @@
-(S (VP (VP (VBN Solicitado))
-                               (PP (IN para)
-                                        (_CU_ 
-                                          (VB apresentar)
-                                          (,)
-                                          (VP 
-                                            (VP 
-                                              (VB ler))
-                                            (NP 
-                                              (NN poemas)))
-                                          (,)
-                                          (VP 
-                                            (VP 
-                                              (VB animar))
-                                            (NP 
-                                              (DT a)
-                                              (NN malta)))))
-                               (.)))
+(S 
+  (VP 
+    (VP 
+      (VBN Solicitado)
+    )
+    (PP 
+      (IN para)
+      (UCP 
+        (VB apresentar)
+        (,)
+        (VP 
+          (VP 
+            (VB ler)
+          )
+          (NP 
+            (NN poemas)
+          )
+        )
+        (,)
+        (VP 
+          (VP 
+            (VB animar)
+          )
+          (NP 
+            (DT a)
+            (NN malta)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

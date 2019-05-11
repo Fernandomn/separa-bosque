@@ -1,22 +1,44 @@
-(S (_CU_ (VP (IN Porque)
-                                (VP (VBP marcou))
-                                (NP (CD dois)
-                                        (NN golos)
-                                        (ADJP 
-                                          (JJ magnÃ­ficos)))
-                                (PP (IN a+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP MarÃ­timo))))
-                       (CC e)
-                       (VP (,)
-                                (ADVP 
-                                  (RB assim))
-                                (,)
-                                (NP 
-                                  (DT o)
-                                  (NNP Sporting))
-                                (VP (VBP ganhou))
-                                (NP (DT a)
-                                        (NNP TaÃ§a_de_Portugal)))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (IN Porque)
+      (VP 
+        (VBP marcou)
+      )
+      (NP 
+        (CD dois)
+        (NN golos)
+        (ADJP 
+          (JJ magníficos)
+        )
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT o)
+          (NNP Marítimo)
+        )
+      )
+    )
+    (CC e)
+    (VP 
+      (,)
+      (ADVP 
+        (RB assim)
+      )
+      (,)
+      (NP 
+        (DT o)
+        (NNP Sporting)
+      )
+      (VP 
+        (VBP ganhou)
+      )
+      (NP 
+        (DT a)
+        (NNP Taça_de_Portugal)
+      )
+    )
+    (.)
+  )
+)

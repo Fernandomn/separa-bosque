@@ -1,73 +1,107 @@
-(S (VP (NP (DT O)
-                                 (NN relat√≥rio)
-                                 (,)
-                                 (ADJP 
-                                   (JJ referente)
-                                   (PP 
-                                     (IN a)
-                                     (NP 
-                                       (DT o)
-                                       (NN ano)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (CD 1993))))))
-                                 (,)
-                                 (ADVP 
-                                   (RB tamb√©m))
-                                 (VP (VBP destaca))
-                                 (NP 
-                                   (DT a)
-                                   (NN impunidade)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT os)
-                                       (NN acusados)
-                                       (PP 
-                                         (IN por+)
-                                         (NP 
-                                           (DT os)
-                                           (NN massacres)
-                                           (_CU_ 
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NNP Carandiru)
-                                                 ({)
-                                                 (NP 
-                                                   (NN outubro)
-                                                   (PP 
-                                                     (IN de)
-                                                     (NP 
-                                                       (CD 92))))
-                                                 (})))
-                                             (,)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT a)
-                                                 (NNP Candel√°ria)
-                                                 ({)
-                                                 (NP 
-                                                   (NN julho)
-                                                   (PP 
-                                                     (IN de)
-                                                     (NP 
-                                                       (CD 93))))
-                                                 (})))
-                                             (CC e)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NNP Vig√°rio_Geral))
-                                               ({)
-                                               (NP 
-                                                 (NN agosto)
-                                                 (PP 
-                                                   (IN de)
-                                                   (ADJP 
-                                                     (CD 93))))
-                                               (})))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN relatÛrio)
+      (,)
+      (ADJP 
+        (JJ referente)
+        (PP 
+          (IN a)
+          (NP 
+            (DT o)
+            (NN ano)
+            (PP 
+              (IN de)
+              (NP 
+                (CD 1993)
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (ADVP 
+        (RB tambÈm)
+      )
+      (VP 
+        (VBP destaca)
+      )
+      (NP 
+        (DT a)
+        (NN impunidade)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN acusados)
+            (PP 
+              (IN por+)
+              (NP 
+                (DT os)
+                (NN massacres)
+                (PP 
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT o)
+                      (NNP Carandiru)
+                      ({)
+                      (NP 
+                        (NN outubro)
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (CD 92)
+                          )
+                        )
+                      )
+                      (})
+                    )
+                  )
+                  (,)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NNP Candel·ria)
+                      ({)
+                      (NP 
+                        (NN julho)
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (CD 93)
+                          )
+                        )
+                      )
+                      (})
+                    )
+                  )
+                  e                  (PP 
+                    (IN de)
+                    (NP 
+                      (NNP Vig·rio_Geral)
+                    )
+                    ({)
+                    (NP 
+                      (NN agosto)
+                      (PP 
+                        (IN de)
+                        (ADJP 
+                          (CD 93)
+                        )
+                      )
+                    )
+                    (})
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

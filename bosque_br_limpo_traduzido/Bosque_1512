@@ -1,78 +1,121 @@
-(S (VP (NP (CD Uma)
-                                 (NN hora)
-                                 (PP (IN apÃ³s)
-                                        (NP 
-                                          (DT a)
-                                          (NN morte)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NNP Colosio)))))
-                                 (--)
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT a)
-                                     (NN realidade)
-                                     (NP 
-                                       (NN minutos))))
-                                 (ADVP 
-                                   (RB depois)
-                                   (PP 
-                                     (IN de)
-                                     (VP 
-                                       (NP 
-                                         (DT o)
-                                         (NN pÃºblico))
-                                       (VP 
-                                         (VB receber))
-                                       (NP 
-                                         (DT a)
-                                         (JJ trÃ¡gica)
-                                         (NN notÃ­cia))))))
-                        (,)
-                        (NP (NNP Octavio_Paz))
-                        (VP (VBP pedia))
-                        (NP (DT um)
-                                (Â«)
-                                (NN basta))
-                        (_CU_ (PP (IN a+)
-                                        (NP 
-                                          (DT os)
-                                          (NN excessos)
-                                          (_CU_ 
-                                            (ADJP 
-                                              (JJ verbais))
-                                            (CC e)
-                                            (ADJP 
-                                              (JJ ideolÃ³gicos)))
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (PRP alguns)
-                                              (_CU_ 
-                                                (NP 
-                                                  (NN intelectuais))
-                                                (CC e)
-                                                (NP 
-                                                  (NN jornalistas)))))))
-                                (Â»)
-                                (CC e)
-                                (PP (IN a+)
-                                        (NP 
-                                          (DT as)
-                                          (Â«)
-                                          (_CU_ 
-                                            (ADJP 
-                                              (JJ numerosas))
-                                            (CC e)
-                                            (ADJP 
-                                              (JJ irresponsÃ¡veis)))
-                                          (NN apologias)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN violÃªncia)))
-                                          (Â»))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (CD Uma)
+      (NN hora)
+      (PP 
+        (IN após)
+        (NP 
+          (DT a)
+          (NN morte)
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Colosio)
+            )
+          )
+        )
+      )
+      (--)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NN realidade)
+          (NP 
+            (NN minutos)
+          )
+        )
+      )
+      (ADVP 
+        (RB depois)
+        (PP 
+          (IN de)
+          (VP 
+            (NP 
+              (DT o)
+              (NN público)
+            )
+            (VP 
+              (VB receber)
+            )
+            (NP 
+              (DT a)
+              (JJ trágica)
+              (NN notícia)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NNP Octavio_Paz)
+    )
+    (VP 
+      (VBP pedia)
+    )
+    (NP 
+      (DT um)
+      («)
+      (NN basta)
+    )
+    (UCP 
+      (PP 
+        (IN a+)
+        (NP 
+          (DT os)
+          (NN excessos)
+          (ADJP 
+            (ADJP 
+              (JJ verbais)
+            )
+            e            (ADJP 
+              (JJ ideológicos)
+            )
+          )
+          (PP 
+            (IN de)
+            (NP 
+              (PRP alguns)
+              (NP 
+                (NP 
+                  (NN intelectuais)
+                )
+                e                (NP 
+                  (NN jornalistas)
+                )
+              )
+            )
+          )
+        )
+      )
+      (»)
+      e      (PP 
+        (IN a+)
+        (NP 
+          (DT as)
+          («)
+          (ADJP 
+            (ADJP 
+              (JJ numerosas)
+            )
+            e            (ADJP 
+              (JJ irresponsáveis)
+            )
+          )
+          (NN apologias)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN violência)
+            )
+          )
+          (»)
+        )
+      )
+    )
+    (.)
+  )
+)

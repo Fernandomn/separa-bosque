@@ -1,17 +1,39 @@
-(S (_CU_ (VP (NP 
-                                  (DT O)
-                                  (PRP outro))
-                                (VP (VBP esquivou-))
-                                (NP (PRP se))
-                                (ADVP 
-                                  (RB delicadamente)))
-                       (,)
-                       (CC mas)
-                       (VP (VP (VBP convidou-))
-                                (NP (PRP o))
-                                (PP (IN a)
-                                        (VP 
-                                          (VP 
-                                            (VB subir))
-                                          (PP a_bordo))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (PRP outro)
+      )
+      (VP 
+        (VBP esquivou-)
+      )
+      (NP 
+        (PRP se)
+      )
+      (ADVP 
+        (RB delicadamente)
+      )
+    )
+    (,)
+    (CC mas)
+    (VP 
+      (VP 
+        (VBP convidou-)
+      )
+      (NP 
+        (PRP o)
+      )
+      (PP 
+        (IN a)
+        (VP 
+          (VP 
+            (VB subir)
+          )
+          (PP a_bordo)
+        )
+      )
+    )
+    (.)
+  )
+)

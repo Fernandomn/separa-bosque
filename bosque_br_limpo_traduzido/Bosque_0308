@@ -1,20 +1,35 @@
-(S (VP (VP (VBP Eram))
-                       (NP (DT o)
-                              (NN retrato)
-                              (_CU_ (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN coraÃ§Ã£o)))
-                                     (CC e)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN cÃ©rebro)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (PRP este)
-                                             (NN partido)))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Eram)
+    )
+    (NP 
+      (DT o)
+      (NN retrato)
+      (PP 
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN coração)
+          )
+        )
+        e        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN cérebro)
+            (PP 
+              (IN de+)
+              (NP 
+                (PRP este)
+                (NN partido)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

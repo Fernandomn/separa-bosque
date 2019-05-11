@@ -1,30 +1,54 @@
-(S (VP (ADVP (RB No_entanto))
-                        (,)
-                        (VP (IN por)
-                               (VB definir))
-                        (VP (VBP continuam))
-                        (NP (DT as)
-                                 (NN parcelas)
-                                 (ADJP 
-                                   (JJ exactas))
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN capital)))
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP ser√£o)
-                                     (VBN alienadas))
-                                   (_CU_ 
-                                     (PP 
-                                       (IN em)
-                                       (NP 
-                                         (NNP Portugal)))
-                                     (CC e)
-                                     (PP 
-                                       (IN em+)
-                                       (NP 
-                                         (DT o)
-                                         (NN estrangeiro))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB No_entanto)
+    )
+    (,)
+    (VP 
+      (IN por)
+      (VB definir)
+    )
+    (VP 
+      (VBP continuam)
+    )
+    (NP 
+      (DT as)
+      (NN parcelas)
+      (ADJP 
+        (JJ exactas)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NN capital)
+        )
+      )
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP ser„o)
+          (VBN alienadas)
+        )
+        (PP 
+          (PP 
+            (IN em)
+            (NP 
+              (NNP Portugal)
+            )
+          )
+          (CC e)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT o)
+              (NN estrangeiro)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

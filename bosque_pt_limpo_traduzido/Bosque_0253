@@ -1,24 +1,49 @@
-(S (_CU_ (VP (NP (DT O)
-                                        (NN motorista))
-                               (VP (VBP acompanhava))
-                               (NP (JJ frequentes)
-                                        (NN vezes))
-                               (NP (NNP John_Junior)))
-                      (CC e)
-                      (VP (NP (DT a)
-                                        (PRP sua)
-                                        (NN morte))
-                               (VP (VBP pode)
-                                     (VB ser)
-                                     (VBN considerada))
-                               (ADVP (RB como)
-                                       (NP 
-                                         (DT um)
-                                         (NN aviso)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (JJ velha)
-                                             (NN guarda))))))
-                      (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (NN motorista)
+      )
+      (VP 
+        (VBP acompanhava)
+      )
+      (NP 
+        (JJ frequentes)
+        (NN vezes)
+      )
+      (NP 
+        (NNP John_Junior)
+      )
+    )
+    (CC e)
+    (VP 
+      (NP 
+        (DT a)
+        (PRP sua)
+        (NN morte)
+      )
+      (VP 
+        (VBP pode)
+        (VB ser)
+        (VBN considerada)
+      )
+      (ADVP 
+        (RB como)
+        (NP 
+          (DT um)
+          (NN aviso)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (JJ velha)
+              (NN guarda)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

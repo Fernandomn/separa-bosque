@@ -1,24 +1,45 @@
-(S (_CU_ (VP (NP 
-                                  (DT A)
-                                  (NN direcÃ§Ã£o))
-                                (ADVP 
-                                  (RB jÃ¡))
-                                (VP (VBP mostrou))
-                                (NP (NN boa_vontade)))
-                       (,)
-                       (CC mas)
-                       (VP (NP 
-                                  (DT a)
-                                  (NN greve))
-                                (VP (VBP prossegue))
-                                (PP 
-                                  (IN em)
-                                  (NP 
-                                    (PRP todas_as)
-                                    (NN delegaÃ§Ãµes)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NN paÃ­s))))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT A)
+        (NN direcção)
+      )
+      (ADVP 
+        (RB já)
+      )
+      (VP 
+        (VBP mostrou)
+      )
+      (NP 
+        (NN boa_vontade)
+      )
+    )
+    (,)
+    (CC mas)
+    (VP 
+      (NP 
+        (DT a)
+        (NN greve)
+      )
+      (VP 
+        (VBP prossegue)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (PRP todas_as)
+          (NN delegações)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN país)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

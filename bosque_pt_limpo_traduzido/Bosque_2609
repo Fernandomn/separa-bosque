@@ -1,84 +1,131 @@
-(S (VP (PP (IN Entre)
-                                 (NP (DT as)
-                                        (NN jÃ³ias)
-                                        (VBN apresentadas)))
-                        (VP (VBP contam-))
-                        (NP (PRP se))
-                        (_CU_ (NP 
-                                   (NN colares)
-                                   (PP 
-                                     (IN de)
-                                     (_CU_ 
-                                       (NP 
-                                         (NN brilhantes))
-                                       (CC e)
-                                       (NP 
-                                         (NN esmeraldas))))
-                                   ({)
-                                   (NP 
-                                     (NN sÃ©c.)
-                                     (_CU_ 
-                                       (ADJP 
-                                         (JJ XVIII))
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ XIX))))
-                                   (}))
-                                 (,)
-                                 (NP 
-                                   (NN peÃ§as)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN ouro)
-                                       (ADJP 
-                                         (JJ popular)))))
-                                 (,)
-                                 (NP 
-                                   (NN trenedeiras))
-                                 (,)
-                                 (NP 
-                                   (NN crisÃ³litas))
-                                 (,)
-                                 (NP 
-                                   (NN laÃ§as))
-                                 (,)
-                                 (NP 
-                                   (NN condecoraÃ§Ãµes)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT as)
-                                       (NN ordens)
-                                       (_CU_ 
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NNP Malta)))
-                                         (CC e)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NNP Cristo))))))
-                                   (PP 
-                                     (IN em)
-                                     (_CU_ 
-                                       (NP 
-                                         (NN minas))
-                                       (CC e)
-                                       (NP 
-                                         (NN brilhantes)))))
-                                 (CC e)
-                                 (NP 
-                                   (DT uma)
-                                   (NN caixa)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN rapÃ©)))
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (NNP Rei_Carlos_Alberto)))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Entre)
+      (NP 
+        (DT as)
+        (NN jóias)
+        (VBN apresentadas)
+      )
+    )
+    (VP 
+      (VBP contam-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (NP 
+      (NP 
+        (NN colares)
+        (PP 
+          (IN de)
+          (NP 
+            (NP 
+              (NN brilhantes)
+            )
+            (CC e)
+            (NP 
+              (NN esmeraldas)
+            )
+          )
+        )
+        ({)
+        (NP 
+          (NN séc.)
+          (ADJP 
+            (ADJP 
+              (JJ XVIII)
+            )
+            (CC e)
+            (ADJP 
+              (JJ XIX)
+            )
+          )
+        )
+        (})
+      )
+      (,)
+      (NP 
+        (NN peças)
+        (PP 
+          (IN de)
+          (NP 
+            (NN ouro)
+            (ADJP 
+              (JJ popular)
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NN trenedeiras)
+      )
+      (,)
+      (NP 
+        (NN crisólitas)
+      )
+      (,)
+      (NP 
+        (NN laças)
+      )
+      (,)
+      (NP 
+        (NN condecorações)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT as)
+            (NN ordens)
+            (PP 
+              (PP 
+                (IN de)
+                (NP 
+                  (NNP Malta)
+                )
+              )
+              (CC e)
+              (PP 
+                (IN de)
+                (NP 
+                  (NNP Cristo)
+                )
+              )
+            )
+          )
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (NP 
+              (NN minas)
+            )
+            (CC e)
+            (NP 
+              (NN brilhantes)
+            )
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (DT uma)
+        (NN caixa)
+        (PP 
+          (IN de)
+          (NP 
+            (NN rapé)
+          )
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NNP Rei_Carlos_Alberto)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,38 +1,63 @@
-(S (VP (NP (NNP Robert_Koch)
-                                 (,)
-                                 (NP 
-                                   (DT um)
-                                   (NNP Don_Juan)
-                                   (ADJP 
-                                     (JJ norte-americano))
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (CD 51)
-                                       (NN anos))))
-                                 (,))
-                        (VP (VBP foi)
-                              (_CU_ (VBN desmascarado)
-                                     (CC e)
-                                     (VBN preso)))
-                        (ADVP (RB depois)
-                                   (PP 
-                                     (IN de)
-                                     (VP 
-                                       (VP 
-                                         (VB ter)
-                                         (VBN burlado))
-                                       (NP 
-                                         (ADJP 
-                                           (RB mais_de)
-                                           (CD 200))
-                                         (NN mulheres))
-                                       (PP 
-                                         (IN com)
-                                         (NP 
-                                           (NN promessas)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN casamento))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Robert_Koch)
+      (,)
+      (NP 
+        (DT um)
+        (NNP Don_Juan)
+        (ADJP 
+          (JJ norte-americano)
+        )
+        (PP 
+          (IN de)
+          (NP 
+            (CD 51)
+            (NN anos)
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP foi)
+      (VBN 
+        (VBN desmascarado)
+        (CC e)
+        (VBN preso)
+      )
+    )
+    (ADVP 
+      (RB depois)
+      (PP 
+        (IN de)
+        (VP 
+          (VP 
+            (VB ter)
+            (VBN burlado)
+          )
+          (NP 
+            (ADJP 
+              (RB mais_de)
+              (CD 200)
+            )
+            (NN mulheres)
+          )
+          (PP 
+            (IN com)
+            (NP 
+              (NN promessas)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN casamento)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,73 +1,115 @@
-(S (VP (ADVP (RB Entretanto))
-                        (,)
-                        (NP (DT o)
-                                 (JJ violento)
-                                 (NN incÃªndio)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP deflagrou))
-                                   (NP 
-                                     (NN terÃ§a-feira))
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT o)
-                                       (NN concelho)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NNP FundÃ£o)))))
-                                   (,)
-                                   (PP 
-                                     (IN entre)
-                                     (NP 
-                                       (DT as)
-                                       (NN povoaÃ§Ãµes)
-                                       (PP 
-                                         (IN de)
-                                         (_CU_ 
-                                           (NP 
-                                             (NNP Barco))
-                                           (CC e)
-                                           (NP 
-                                             (NNP Lavacolhos))))))
-                                   (,)))
-                        (VP (VBP voltou)
-                              (IN a)
-                              (VB reacender-))
-                        (NP (PRP se))
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NN madrugada)
-                                        (PP 
-                                          (IN de)
-                                          (RB ontem))))
-                        (,)
-                        (PP (IN apÃ³s)
-                                 (VP 
-                                   (VP 
-                                     (VB ter)
-                                     (VBN sido)
-                                     (VBN considerado))
-                                   (VBN extinto)
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT a)
-                                       (NN quarta-feira)))
-                                   (,)
-                                   (PP 
-                                     (IN segundo)
-                                     (NP 
-                                       (NN informaÃ§Ã£o)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT os)
-                                           (NN bombeiros)
-                                           (ADJP 
-                                             (JJ locais))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Entretanto)
+    )
+    (,)
+    (NP 
+      (DT o)
+      (JJ violento)
+      (NN incêndio)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP deflagrou)
+        )
+        (NP 
+          (NN terça-feira)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NN concelho)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NNP Fundão)
+              )
+            )
+          )
+        )
+        (,)
+        (PP 
+          (IN entre)
+          (NP 
+            (DT as)
+            (NN povoações)
+            (PP 
+              (IN de)
+              (NP 
+                (NP 
+                  (NNP Barco)
+                )
+                (CC e)
+                (NP 
+                  (NNP Lavacolhos)
+                )
+              )
+            )
+          )
+        )
+        (,)
+      )
+    )
+    (VP 
+      (VBP voltou)
+      (IN a)
+      (VB reacender-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN madrugada)
+        (PP 
+          (IN de)
+          (RB ontem)
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN após)
+      (VP 
+        (VP 
+          (VB ter)
+          (VBN sido)
+          (VBN considerado)
+        )
+        (VBN extinto)
+        (PP 
+          (IN em+)
+          (NP 
+            (DT a)
+            (NN quarta-feira)
+          )
+        )
+        (,)
+        (PP 
+          (IN segundo)
+          (NP 
+            (NN informação)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT os)
+                (NN bombeiros)
+                (ADJP 
+                  (JJ locais)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

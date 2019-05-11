@@ -1,20 +1,37 @@
-(S (VP (NP (DT Os)
-                                 (NN exemplos)
-                                 (ADJP 
-                                   (RB mais)
-                                   (_CU_ 
-                                     (ADJP 
-                                       (JJ c√©lebres))
-                                     (CC e)
-                                     (ADJP 
-                                       (JJ tr√°gicos)))))
-                        (VP (VBP s√£o))
-                        (NP (PRP os)
-                               (PP (IN de)
-                                      (_CU_ 
-                                        (NP 
-                                          (NNP Rushdie))
-                                        (CC e)
-                                        (NP 
-                                          (NNP Nasreen)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN exemplos)
+      (ADJP 
+        (RB mais)
+        (ADJP 
+          (ADJP 
+            (JJ cÈlebres)
+          )
+          e          (ADJP 
+            (JJ tr·gicos)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP s„o)
+    )
+    (NP 
+      (PRP os)
+      (PP 
+        (IN de)
+        (NP 
+          (NP 
+            (NNP Rushdie)
+          )
+          e          (NP 
+            (NNP Nasreen)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

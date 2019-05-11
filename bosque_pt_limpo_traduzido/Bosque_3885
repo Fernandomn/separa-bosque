@@ -1,60 +1,98 @@
-(S (VP (NP (PRP Este)
-                                 (NN anÃºncio))
-                        (VP (VBP vem))
-                        (VP (VP (VB sossegar))
-                                  (NP 
-                                    (PRP aqueles)
-                                    (VP 
-                                      (NP 
-                                        (PRP que))
-                                      (VP 
-                                        (VBP temiam))
-                                      (VP 
-                                        (IN que)
-                                        (VP 
-                                          (VBP sucedesse))
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT o)
-                                            (NN basquetebol)))
-                                        (VP 
-                                          (NP 
-                                            (PRP o_que))
-                                          (ADVP 
-                                            (RB jÃ¡))
-                                          (VP 
-                                            (VBP aconteceu))
-                                          (_CU_ 
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT o)
-                                                (NN basebol)))
-                                            (CC e)
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT o)
-                                                (NN hÃ³quei)
-                                                (PP 
-                                                  (IN em+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NN gelo))))))
-                                          (NP 
-                                            (--)
-                                            (NP 
-                                              (_CU_ 
-                                                (NP 
-                                                  (DT a)
-                                                  (NN interrupÃ§Ã£o))
-                                                (CC ou)
-                                                (NP 
-                                                  (NN adiamento)))
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT os)
-                                                  (NN campeonatos))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Este)
+      (NN anúncio)
+    )
+    (VP 
+      (VBP vem)
+    )
+    (VP 
+      (VP 
+        (VB sossegar)
+      )
+      (NP 
+        (PRP aqueles)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP temiam)
+          )
+          (VP 
+            (IN que)
+            (VP 
+              (VBP sucedesse)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NN basquetebol)
+              )
+            )
+            (VP 
+              (NP 
+                (PRP o_que)
+              )
+              (ADVP 
+                (RB já)
+              )
+              (VP 
+                (VBP aconteceu)
+              )
+              (PP 
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT o)
+                    (NN basebol)
+                  )
+                )
+                (CC e)
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT o)
+                    (NN hóquei)
+                    (PP 
+                      (IN em+)
+                      (NP 
+                        (DT o)
+                        (NN gelo)
+                      )
+                    )
+                  )
+                )
+              )
+              (NP 
+                (--)
+                (NP 
+                  (NP 
+                    (NP 
+                      (DT a)
+                      (NN interrupção)
+                    )
+                    (CC ou)
+                    (NP 
+                      (NN adiamento)
+                    )
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT os)
+                      (NN campeonatos)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,44 +1,73 @@
-(S (VP (NP (DT As)
-                                 (NN dificuldades)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (NP 
-                                     (NN bancos)
-                                     (_CU_ 
-                                       (ADJP 
-                                         (JJ federais))
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ estaduais))))
-                                   (ADVP 
-                                     (RB provavelmente))
-                                   (VP 
-                                     (VBP enfrentarÃ£o))))
-                        (VP (VBP reforÃ§am))
-                        (NP (DT as)
-                                (NN dÃºvidas)
-                                (PP (IN quanto_a+)
-                                       (NP 
-                                         (DT a)
-                                         (NN conveniÃªncia)
-                                         (PP 
-                                           (IN de)
-                                           (VP 
-                                             (NP 
-                                               (DT o)
-                                               (NN setor)
-                                               (ADJP 
-                                                 (JJ pÃºblico)))
-                                             (VP 
-                                               (VB ser))
-                                             (NP 
-                                               (NN proprietÃ¡rio)
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (PRP tantas)
-                                                   (NN instituiÃ§Ãµes)
-                                                   (ADJP 
-                                                     (JJ financeiras))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN dificuldades)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (NP 
+          (NN bancos)
+          (ADJP 
+            (ADJP 
+              (JJ federais)
+            )
+            e            (ADJP 
+              (JJ estaduais)
+            )
+          )
+        )
+        (ADVP 
+          (RB provavelmente)
+        )
+        (VP 
+          (VBP enfrentarão)
+        )
+      )
+    )
+    (VP 
+      (VBP reforçam)
+    )
+    (NP 
+      (DT as)
+      (NN dúvidas)
+      (PP 
+        (IN quanto_a+)
+        (NP 
+          (DT a)
+          (NN conveniência)
+          (PP 
+            (IN de)
+            (VP 
+              (NP 
+                (DT o)
+                (NN setor)
+                (ADJP 
+                  (JJ público)
+                )
+              )
+              (VP 
+                (VB ser)
+              )
+              (NP 
+                (NN proprietário)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (PRP tantas)
+                    (NN instituições)
+                    (ADJP 
+                      (JJ financeiras)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

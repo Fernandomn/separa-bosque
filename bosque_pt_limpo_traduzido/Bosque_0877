@@ -1,63 +1,104 @@
-(S (VP (PP (IN Como)
-                                 (VP 
-                                   (NP 
-                                     (DT o)
-                                     (NNP PÃšBLICO))
-                                   (VP 
-                                     (VBP pÃ´de)
-                                     (VB constatar))
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT o)
-                                       (NN local)))))
-                        (,)
-                        (NP (DT a)
-                                 (NN ideia))
-                        (VP (VBP Ã©))
-                        (VP (VP (VB transformar))
-                                (,)
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (PRP esse)
-                                    (JJ curto)
-                                    (NN espaÃ§o)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (NN tempo)))))
-                                (,)
-                                (NP (DT um)
-                                        (NN terreno)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (ADVP 
-                                            (RB ainda))
-                                          (NP 
-                                            (PRP se))
-                                          (VP 
-                                            (VBP encontra))
-                                          (_CU_ 
-                                            (VBN revolvido)
-                                            (CC e)
-                                            (VBN enlameado))))
-                                (PP (IN em+)
-                                        (NP 
-                                          (DT uma)
-                                          (NN Ã¡rea)
-                                          (ADJP 
-                                            (JJ relvada))
-                                          (VP 
-                                            (VP 
-                                              (VBN cruzada))
-                                            (PP 
-                                              (IN por)
-                                              (_CU_ 
-                                                (NP 
-                                                  (NN passeios))
-                                                (CC e)
-                                                (NP 
-                                                  (NN estadias))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Como)
+      (VP 
+        (NP 
+          (DT o)
+          (NNP PÚBLICO)
+        )
+        (VP 
+          (VBP pôde)
+          (VB constatar)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT o)
+            (NN local)
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NN ideia)
+    )
+    (VP 
+      (VBP é)
+    )
+    (VP 
+      (VP 
+        (VB transformar)
+      )
+      (,)
+      (PP 
+        (IN em+)
+        (NP 
+          (PRP esse)
+          (JJ curto)
+          (NN espaço)
+          (PP 
+            (IN de)
+            (NP 
+              (NN tempo)
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (DT um)
+        (NN terreno)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (ADVP 
+            (RB ainda)
+          )
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VBP encontra)
+          )
+          (VBN 
+            (VBN revolvido)
+            (CC e)
+            (VBN enlameado)
+          )
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT uma)
+          (NN área)
+          (ADJP 
+            (JJ relvada)
+          )
+          (VP 
+            (VP 
+              (VBN cruzada)
+            )
+            (PP 
+              (IN por)
+              (NP 
+                (NP 
+                  (NN passeios)
+                )
+                (CC e)
+                (NP 
+                  (NN estadias)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

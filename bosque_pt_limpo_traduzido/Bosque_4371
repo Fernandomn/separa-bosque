@@ -1,20 +1,39 @@
-(S (VP (NP (DT O)
-                                 (NN Ã¡rbitro)
-                                 (NP (NNP Pinto_Correia)))
-                        (VP (VBP esteve))
-                        (ADVP (RB bem))
-                        (_CU_ (PP 
-                                   (IN durante)
-                                   (NP 
-                                     (PRP toda_a)
-                                     (JJ primeira)
-                                     (NN parte)))
-                                 (CC e)
-                                 (PP 
-                                   (IN durante)
-                                   (NP 
-                                     (ADJP 
-                                       (RB quase)
-                                       (PRP toda_a))
-                                     (JJ segunda))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN árbitro)
+      (NP 
+        (NNP Pinto_Correia)
+      )
+    )
+    (VP 
+      (VBP esteve)
+    )
+    (ADVP 
+      (RB bem)
+    )
+    (PP 
+      (PP 
+        (IN durante)
+        (NP 
+          (PRP toda_a)
+          (JJ primeira)
+          (NN parte)
+        )
+      )
+      (CC e)
+      (PP 
+        (IN durante)
+        (NP 
+          (ADJP 
+            (RB quase)
+            (PRP toda_a)
+          )
+          (JJ segunda)
+        )
+      )
+    )
+    (.)
+  )
+)

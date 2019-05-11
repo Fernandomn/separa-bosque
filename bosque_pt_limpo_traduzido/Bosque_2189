@@ -1,16 +1,33 @@
-(S (VP (NP (DT A)
-                                 (NN anomalia))
-                        (VP (VBP criou))
-                        (NP (NN dificuldades))
-                        (PP (,)
-                                 (RB nomeadamente)
-                                 (,)
-                                 (IN em)
-                                 (_CU_ (NP 
-                                          (NN f√°bricas))
-                                        (CC e)
-                                        (NP 
-                                          (NN restaurantes)
-                                          (ADJP 
-                                            (JJ locais)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN anomalia)
+    )
+    (VP 
+      (VBP criou)
+    )
+    (NP 
+      (NN dificuldades)
+    )
+    (PP 
+      (,)
+      (RB nomeadamente)
+      (,)
+      (IN em)
+      (NP 
+        (NP 
+          (NN f·bricas)
+        )
+        (CC e)
+        (NP 
+          (NN restaurantes)
+          (ADJP 
+            (JJ locais)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

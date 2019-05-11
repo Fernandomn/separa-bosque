@@ -1,13 +1,26 @@
-(S (VP (ADVP (RB Hoje))
-                        (,)
-                        (VP (VBP varia))
-                        (PP (IN entre)
-                                 (_CU_ (NP 
-                                          (CD 12)
-                                          (NN %))
-                                        (CC e)
-                                        (NP 
-                                          (CD 15)
-                                          (NN %))))
-                        (Â»)
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Hoje)
+    )
+    (,)
+    (VP 
+      (VBP varia)
+    )
+    (PP 
+      (IN entre)
+      (NP 
+        (NP 
+          (CD 12)
+          (NN %)
+        )
+        e        (NP 
+          (CD 15)
+          (NN %)
+        )
+      )
+    )
+    (»)
+    (.)
+  )
+)

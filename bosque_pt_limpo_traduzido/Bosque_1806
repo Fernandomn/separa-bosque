@@ -1,32 +1,54 @@
-(S (ADVP (NP (PRP Tudo))
-                        (RB bem)
-                        (,)
-                        (VP (IN se)
-                                  (VP (VBP for))
-                                  (ADJP 
-                                    (JJ capaz)
-                                    (PP 
-                                      (IN de)
-                                      (VP 
-                                        (VP 
-                                          (VB passar))
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (PRP poucos)
-                                            (NN minutos)))
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN vigÃ­lia)))
-                                          (PP 
-                                            (IN a+)
-                                            (NP 
-                                              (DT o)
-                                              (NN sono)))
-                                          (CC e)
-                                          (ADVP 
-                                            (RB vice-versa)))))))
-                        (.)))
+(S 
+  (ADVP 
+    (NP 
+      (PRP Tudo)
+    )
+    (RB bem)
+    (,)
+    (VP 
+      (IN se)
+      (VP 
+        (VBP for)
+      )
+      (ADJP 
+        (JJ capaz)
+        (PP 
+          (IN de)
+          (VP 
+            (VP 
+              (VB passar)
+            )
+            (PP 
+              (IN em)
+              (NP 
+                (PRP poucos)
+                (NN minutos)
+              )
+            )
+            (UCP 
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NN vigília)
+                )
+              )
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT o)
+                  (NN sono)
+                )
+              )
+              (CC e)
+              (ADVP 
+                (RB vice-versa)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

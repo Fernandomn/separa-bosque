@@ -1,21 +1,44 @@
-(S (VP (PP (IN Em)
-                                 (NP (NNP Curitiba)))
-                        (,)
-                        (NP (DT as)
-                                 (NN comemoraÃ§Ãµes))
-                        (VP (VBP vÃ£o)
-                              (VB incluir))
-                        (_CU_ (NP (NN envio)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN fax))))
-                                (,)
-                                (NP (NN plantio)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN Ã¡rvores))))
-                                (CC e)
-                                (NP (NN passeatas)))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em)
+      (NP 
+        (NNP Curitiba)
+      )
+    )
+    (,)
+    (NP 
+      (DT as)
+      (NN comemorações)
+    )
+    (VP 
+      (VBP vão)
+      (VB incluir)
+    )
+    (NP 
+      (NP 
+        (NN envio)
+        (PP 
+          (IN de)
+          (NP 
+            (NN fax)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NN plantio)
+        (PP 
+          (IN de)
+          (NP 
+            (NN árvores)
+          )
+        )
+      )
+      e      (NP 
+        (NN passeatas)
+      )
+    )
+    (.)
+  )
+)

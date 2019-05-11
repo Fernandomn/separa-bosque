@@ -1,19 +1,39 @@
-(S (NP (_CU_ (NP (DT O)
-                                     (_CU_ 
-                                       (NP 
-                                         (NNP Holanda))
-                                       (-)
-                                       (NP 
-                                         (NNP Jugosl√°via))))
-                             (CC e)
-                             (NP (DT o)
-                                     (_CU_ 
-                                       (NP 
-                                         (NNP Argentina))
-                                       (-)
-                                       (NP 
-                                         (NNP Inglaterra)))))
-                       (PP (IN de+)
-                              (NP (DT os)
-                                     (NN oitavos-de-final)))
-                       (?)))
+(S 
+  (NP 
+    (NP 
+      (NP 
+        (DT O)
+        (UCP 
+          (NP 
+            (NNP Holanda)
+          )
+          (-)
+          (NP 
+            (NNP Jugosl·via)
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (DT o)
+        (UCP 
+          (NP 
+            (NNP Argentina)
+          )
+          (-)
+          (NP 
+            (NNP Inglaterra)
+          )
+        )
+      )
+    )
+    (PP 
+      (IN de+)
+      (NP 
+        (DT os)
+        (NN oitavos-de-final)
+      )
+    )
+    (?)
+  )
+)

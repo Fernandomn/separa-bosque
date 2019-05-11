@@ -1,44 +1,71 @@
-(S (VP (Â«)
-                        (NP (NNP Reais_jÃ³ias_do_Norte_de_Portugal))
-                        (Â»)
-                        (VP (VBP Ã©))
-                        (NP (DT o)
-                               (NN tÃ­tulo)
-                               (PP (IN de)
-                                      (NP 
-                                        (DT uma)
-                                        (NN exposiÃ§Ã£o)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP irÃ¡)
-                                            (VB decorrer))
-                                          (PP 
-                                            (IN entre)
-                                            (NP 
-                                              (DT os)
-                                              (JJ prÃ³ximos)
-                                              (NN dias)
-                                              (_CU_ 
-                                                (NP 
-                                                  (CD 10))
-                                                (CC e)
-                                                (ADJP 
-                                                  (CD 26)))
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN Novembro)))))
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT o)
-                                              (NNP PalÃ¡cio_da_Bolsa)
-                                              (,)
-                                              (PP 
-                                                (IN em+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NNP Porto)))))))))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (NP 
+      (NNP Reais_jóias_do_Norte_de_Portugal)
+    )
+    (»)
+    (VP 
+      (VBP é)
+    )
+    (NP 
+      (DT o)
+      (NN título)
+      (PP 
+        (IN de)
+        (NP 
+          (DT uma)
+          (NN exposição)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP irá)
+              (VB decorrer)
+            )
+            (PP 
+              (IN entre)
+              (NP 
+                (DT os)
+                (JJ próximos)
+                (NN dias)
+                (UCP 
+                  (NP 
+                    (CD 10)
+                  )
+                  (CC e)
+                  (ADJP 
+                    (CD 26)
+                  )
+                )
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN Novembro)
+                  )
+                )
+              )
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NNP Palácio_da_Bolsa)
+                (,)
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT o)
+                    (NNP Porto)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

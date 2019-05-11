@@ -1,46 +1,71 @@
-(S (VP (VP (VBP Est√°)
-                              (VBN visto))
-                        (VP (IN que)
-                                  (CC nem)
-                                  (_CU_ 
-                                    (NP 
-                                      (DT o)
-                                      (NN conjunto))
-                                    (,)
-                                    (CC nem)
-                                    (NP 
-                                      (PRP qualquer)
-                                      (PRP outra)
-                                      (NN frase)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (PRP ele)))))
-                                  (,)
-                                  (VP (VBP d√°))
-                                  (PP 
-                                    (IN a+)
-                                    (NP 
-                                      (DT a)
-                                      (NN frase)
-                                      (VP 
-                                        (VP 
-                                          (VBN negada))
-                                        (PP 
-                                          (IN por)
-                                          (NP 
-                                            (NNP Fernando_Henrique))))))
-                                  (NP 
-                                    (DT o)
-                                    (NN sentido)
-                                    (VP 
-                                      (NP 
-                                        (PRP que))
-                                      (NP 
-                                        (PRP ela))
-                                      (VP 
-                                        (VBP tem))
-                                      (ADVP 
-                                        (RB por_si)
-                                        (PRP mesma)))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Est·)
+      (VBN visto)
+    )
+    (VP 
+      (IN que)
+      nem      (NP 
+        (NP 
+          (DT o)
+          (NN conjunto)
+        )
+        (,)
+        nem        (NP 
+          (PRP qualquer)
+          (PRP outra)
+          (NN frase)
+          (PP 
+            (IN de+)
+            (NP 
+              (PRP ele)
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VBP d·)
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT a)
+          (NN frase)
+          (VP 
+            (VP 
+              (VBN negada)
+            )
+            (PP 
+              (IN por)
+              (NP 
+                (NNP Fernando_Henrique)
+              )
+            )
+          )
+        )
+      )
+      (NP 
+        (DT o)
+        (NN sentido)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (NP 
+            (PRP ela)
+          )
+          (VP 
+            (VBP tem)
+          )
+          (ADVP 
+            (RB por_si)
+            (PRP mesma)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

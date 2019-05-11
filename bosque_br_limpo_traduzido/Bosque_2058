@@ -1,26 +1,49 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT o)
-                                        (NN interior)))
-                        (,)
-                        (NP (DT o)
-                                 (NN jeito)
-                                 (ADJP 
-                                   (RB mais)
-                                   (JJ fÃ¡cil)))
-                        (VP (VBP Ã©))
-                        (VP (VP (VB procurar))
-                                (_CU_ (NP 
-                                          (DT o)
-                                          (NN grÃªmio)
-                                          (ADJP 
-                                            (JJ estudantil)))
-                                        (CC ou)
-                                        (NP 
-                                          (DT a)
-                                          (NN direÃ§Ã£o)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (PRP sua)
-                                              (NN escola))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT o)
+        (NN interior)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN jeito)
+      (ADJP 
+        (RB mais)
+        (JJ fácil)
+      )
+    )
+    (VP 
+      (VBP é)
+    )
+    (VP 
+      (VP 
+        (VB procurar)
+      )
+      (NP 
+        (NP 
+          (DT o)
+          (NN grêmio)
+          (ADJP 
+            (JJ estudantil)
+          )
+        )
+        ou        (NP 
+          (DT a)
+          (NN direção)
+          (PP 
+            (IN de)
+            (NP 
+              (PRP sua)
+              (NN escola)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

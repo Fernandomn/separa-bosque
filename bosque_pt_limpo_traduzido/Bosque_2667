@@ -1,44 +1,70 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT a)
-                                        (NNP Ã“scar_Monteiro_Torres)))
-                        (,)
-                        (NP (DT o)
-                                 (NN troÃ§o)
-                                 (VP 
-                                   (VP 
-                                     (VBN compreendido))
-                                   (PP 
-                                     (IN entre)
-                                     (_CU_ 
-                                       (NP 
-                                         (DT a)
-                                         (NNP Rua_Oliveira_Martins))
-                                       (CC e)
-                                       (NP 
-                                         (DT a)
-                                         (NNP Av._de_Roma))))
-                                   (VP 
-                                     (VBN volta)
-                                     (IN a)
-                                     (VB ter))
-                                   (NP 
-                                     (NN sentido)
-                                     (ADJP 
-                                       (JJ Ãºnico)))
-                                   (,)
-                                   (VP 
-                                     (VP 
-                                       (VBG circulando-))
-                                     (NP 
-                                       (PRP se))
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NNP Oliveira_Martins)
-                                         (PP 
-                                           (IN para)
-                                           (NP 
-                                             (DT a)
-                                             (NNP Av._de_Roma))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT a)
+        (NNP Óscar_Monteiro_Torres)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN troço)
+      (VP 
+        (VP 
+          (VBN compreendido)
+        )
+        (PP 
+          (IN entre)
+          (NP 
+            (NP 
+              (DT a)
+              (NNP Rua_Oliveira_Martins)
+            )
+            (CC e)
+            (NP 
+              (DT a)
+              (NNP Av._de_Roma)
+            )
+          )
+        )
+        (VP 
+          (VBN volta)
+          (IN a)
+          (VB ter)
+        )
+        (NP 
+          (NN sentido)
+          (ADJP 
+            (JJ único)
+          )
+        )
+        (,)
+        (VP 
+          (VP 
+            (VBG circulando-)
+          )
+          (NP 
+            (PRP se)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Oliveira_Martins)
+              (PP 
+                (IN para)
+                (NP 
+                  (DT a)
+                  (NNP Av._de_Roma)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

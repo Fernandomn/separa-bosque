@@ -1,43 +1,69 @@
-(S (VP (PP (IN Em+)
-                                 (NP (DT a)
-                                        (NN faixa)
-                                        (ADJP 
-                                          (RB mais)
-                                          (JJ interessante))
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN disco)
-                                            (,)
-                                            (Â«)
-                                            (NP 
-                                              (NNP Wooden_Nails))
-                                            (Â»)
-                                            (,)))
-                                        (NP 
-                                          (DT a)
-                                          (JJ primeira))))
-                        (,)
-                        (NP (DT o)
-                                 (NN tema)
-                                 (VBN abordado))
-                        (VP (VBP Ã©))
-                        (NP (DT a)
-                               (NN superaÃ§Ã£o)
-                               (PP 
-                                 (IN de+)
-                                 (NP (DT a)
-                                        (NN dependÃªncia)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN drogas)))
-                                          (CC e)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN depressÃ£o)))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT a)
+        (NN faixa)
+        (ADJP 
+          (RB mais)
+          (JJ interessante)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN disco)
+            (,)
+            («)
+            (NP 
+              (NNP Wooden_Nails)
+            )
+            (»)
+            (,)
+          )
+        )
+        (NP 
+          (DT a)
+          (JJ primeira)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN tema)
+      (VBN abordado)
+    )
+    (VP 
+      (VBP é)
+    )
+    (NP 
+      (DT a)
+      (NN superação)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN dependência)
+          (PP 
+            (PP 
+              (IN de)
+              (NP 
+                (NN drogas)
+              )
+            )
+            e            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN depressão)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

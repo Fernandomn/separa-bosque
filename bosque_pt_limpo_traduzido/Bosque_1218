@@ -1,82 +1,128 @@
-(S (VP (NP (DT O)
-                                 (NN provedor))
-                        (VP (VBP recomenda))
-                        (,)
-                        (ADVP (RB assim))
-                        (,)
-                        (NP (DT a)
-                                (Â«)
-                                (JJ imediata)
-                                (NN transferÃªncia)
-                                (Â»)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN agente)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NNP PSP)))))
-                                (PP (IN para)
-                                       (NP 
-                                         (DT um)
-                                         (NN estabelecimento)
-                                         (ADJP 
-                                           (JJ prisional))
-                                         (_CU_ 
-                                           (Â«)
-                                           (VP 
-                                             (VP 
-                                               (VBN tutelado))
-                                             (PP 
-                                               (IN por+)
-                                               (NP 
-                                                 (DT o)
-                                                 (NNP MinistÃ©rio_da_JustiÃ§a))))
-                                           (Â»)
-                                           (CC e)
-                                           (Â«)
-                                           (VP 
-                                             (NP 
-                                               (PRP que))
-                                             (VP 
-                                               (VBP permita))
-                                             (VP 
-                                               (VP 
-                                                 (VB compatibilizar))
-                                               (NP 
-                                                 (DT as)
-                                                 (NN exigÃªncias)
-                                                 (PP 
-                                                   (IN de)
-                                                   (NP 
-                                                     (NN seguranÃ§a))))
-                                               (PP 
-                                                 (IN com)
-                                                 (NP 
-                                                   (DT o)
-                                                   (NN exercÃ­cio)
-                                                   (PP 
-                                                     (IN de+)
-                                                     (NP 
-                                                       (DT os)
-                                                       (NN direitos)
-                                                       (VP 
-                                                         (VP 
-                                                           (VBN conferidos))
-                                                         (PP 
-                                                           (IN a)
-                                                           (NP 
-                                                             (PRP qualquer)
-                                                             (NN recluso)))
-                                                         (PP 
-                                                           (IN em)
-                                                           (NP 
-                                                             (NN ambiente)
-                                                             (ADJP 
-                                                               (JJ prisional))
-                                                             (ADJP 
-                                                               (JJ normal)))))))))))
-                                           (Â»)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN provedor)
+    )
+    (VP 
+      (VBP recomenda)
+    )
+    (,)
+    (ADVP 
+      (RB assim)
+    )
+    (,)
+    (NP 
+      (DT a)
+      («)
+      (JJ imediata)
+      (NN transferência)
+      (»)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN agente)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP PSP)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (DT um)
+          (NN estabelecimento)
+          (ADJP 
+            (JJ prisional)
+          )
+          (UCP 
+            («)
+            (VP 
+              (VP 
+                (VBN tutelado)
+              )
+              (PP 
+                (IN por+)
+                (NP 
+                  (DT o)
+                  (NNP Ministério_da_Justiça)
+                )
+              )
+            )
+            (»)
+            (CC e)
+            («)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP permita)
+              )
+              (VP 
+                (VP 
+                  (VB compatibilizar)
+                )
+                (NP 
+                  (DT as)
+                  (NN exigências)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN segurança)
+                    )
+                  )
+                )
+                (PP 
+                  (IN com)
+                  (NP 
+                    (DT o)
+                    (NN exercício)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT os)
+                        (NN direitos)
+                        (VP 
+                          (VP 
+                            (VBN conferidos)
+                          )
+                          (PP 
+                            (IN a)
+                            (NP 
+                              (PRP qualquer)
+                              (NN recluso)
+                            )
+                          )
+                          (PP 
+                            (IN em)
+                            (NP 
+                              (NN ambiente)
+                              (ADJP 
+                                (JJ prisional)
+                              )
+                              (ADJP 
+                                (JJ normal)
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+            (»)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

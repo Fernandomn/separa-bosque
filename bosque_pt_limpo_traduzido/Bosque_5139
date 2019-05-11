@@ -1,68 +1,109 @@
-(S (VP (Â«)
-                         (NP (DT Os)
-                                  (JJ principais)
-                                  (NN clientes)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (DT o)
-                                      (NN serviÃ§o)
-                                      (_CU_ 
-                                        (NP 
-                                          (NNP Alfa))
-                                        (CC e)
-                                        (NP 
-                                          (NNP Intercidades))))))
-                         (VP (VBP sÃ£o))
-                         (NP (NN pessoas)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NN classe)
-                                         (_CU_ 
-                                           (ADJP 
-                                             (JJ mÃ©dia))
-                                           (CC e)
-                                           (NP 
-                                             (NN mÃ©dia-alta)))))
-                                (VP (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP optam))
-                                        (PP 
-                                          (IN por)
-                                          (NP 
-                                            (PRP estas)
-                                            (NN composiÃ§Ãµes)))
-                                        (PP 
-                                          (IN por)
-                                          (VP 
-                                            (VP 
-                                              (VB serem))
-                                            (NP 
-                                              (NN meios)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN transporte)))
-                                              (ADJP 
-                                                (RB mais)
-                                                (JJ rÃ¡pidos)))))
-                                        (,)
-                                        (VP 
-                                          (ADVP 
-                                            (RB nÃ£o))
-                                          (VP 
-                                            (VBG vendo))
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT os)
-                                              (NN comboios)
-                                              (ADJP 
-                                                (NP inter-regionais))))
-                                          (NP 
-                                            (DT uma)
-                                            (NN alternativa)))))
-                         (.)
-                         (Â»)))
+(S 
+  (VP 
+    («)
+    (NP 
+      (DT Os)
+      (JJ principais)
+      (NN clientes)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN serviço)
+          (NP 
+            (NP 
+              (NNP Alfa)
+            )
+            (CC e)
+            (NP 
+              (NNP Intercidades)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP são)
+    )
+    (NP 
+      (NN pessoas)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN classe)
+          (UCP 
+            (ADJP 
+              (JJ média)
+            )
+            (CC e)
+            (NP 
+              (NN média-alta)
+            )
+          )
+        )
+      )
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP optam)
+        )
+        (PP 
+          (IN por)
+          (NP 
+            (PRP estas)
+            (NN composições)
+          )
+        )
+        (PP 
+          (IN por)
+          (VP 
+            (VP 
+              (VB serem)
+            )
+            (NP 
+              (NN meios)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN transporte)
+                )
+              )
+              (ADJP 
+                (RB mais)
+                (JJ rápidos)
+              )
+            )
+          )
+        )
+        (,)
+        (VP 
+          (ADVP 
+            (RB não)
+          )
+          (VP 
+            (VBG vendo)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT os)
+              (NN comboios)
+              (ADJP 
+                (NP inter-regionais)
+              )
+            )
+          )
+          (NP 
+            (DT uma)
+            (NN alternativa)
+          )
+        )
+      )
+    )
+    (.)
+    (»)
+  )
+)

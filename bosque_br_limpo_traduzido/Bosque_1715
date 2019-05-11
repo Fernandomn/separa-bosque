@@ -1,26 +1,53 @@
-(S (VP (VP (VP (VBN Eleito))
-                                  (_CU_ 
-                                    (NP 
-                                      (NN presidente))
-                                    (CC e)
-                                    (NP 
-                                      (NN primeiro-ministro))))
-                        (,)
-                        (NP (PRP ele))
-                        (VP (VBP cuidou))
-                        (ADVP (RB pessoalmente))
-                        (PP (IN de+)
-                                (NP (DT as)
-                                       (NN operaÃ§Ãµes)
-                                       (ADJP 
-                                         (JJ militares))))
-                        (PP (IN durante)
-                                 (NP (DT as)
-                                        (NN guerras)
-                                        (ADJP 
-                                          (JJ grego-turcas))
-                                        ({)
-                                        (ADJP 
-                                          (CD 1920-22))
-                                        (})))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBN Eleito)
+      )
+      (NP 
+        (NP 
+          (NN presidente)
+        )
+        e        (NP 
+          (NN primeiro-ministro)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (PRP ele)
+    )
+    (VP 
+      (VBP cuidou)
+    )
+    (ADVP 
+      (RB pessoalmente)
+    )
+    (PP 
+      (IN de+)
+      (NP 
+        (DT as)
+        (NN operações)
+        (ADJP 
+          (JJ militares)
+        )
+      )
+    )
+    (PP 
+      (IN durante)
+      (NP 
+        (DT as)
+        (NN guerras)
+        (ADJP 
+          (JJ grego-turcas)
+        )
+        ({)
+        (ADJP 
+          (CD 1920-22)
+        )
+        (})
+      )
+    )
+    (.)
+  )
+)

@@ -1,56 +1,96 @@
-(S (VP (_CU_ (VP 
-                                  (ADVP 
-                                    (RB Ã€s_vezes))
-                                  (VP (VBP cheguei)
-                                        (IN a)
-                                        (VB ser))
-                                  (_CU_ 
-                                    (ADJP 
-                                      (JJ radical))
-                                    (CC e)
-                                    (ADJP 
-                                      (JJ sectÃ¡ria))))
-                                (,)
-                                (CC mas)
-                                (VP 
-                                  (VP (VBP aprendi))
-                                  (VP 
-                                    (IN que)
-                                    (NP 
-                                      (DT a)
-                                      (NN gente))
-                                    (ADVP 
-                                      (RB sÃ³))
-                                    (VP 
-                                      (VBP interfere))
-                                    (VP 
-                                      (IN se)
-                                      (VP 
-                                        (VBP estiver))
-                                      (PP 
-                                        (IN dentro_de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN barco)))))))
-                        (Â»)
-                        (,)
-                        (VP (VBP declarou))
-                        (NP (DT a)
-                                 (NP ex-prefeita))
-                        (PP (IN a+)
-                                (NP (DT a)
-                                       (NN imprensa)
-                                       (ADJP 
-                                         (JJ paulista))))
-                        (,)
-                        (PP (IN a+)
-                                 (NP (DT o)
-                                        (VP 
-                                          (VP 
-                                            (VB justificar))
-                                          (NP 
-                                            (DT a)
-                                            (PRP sua)
-                                            (JJ presente)
-                                            (NN decisÃ£o)))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (ADVP 
+          (RB Às_vezes)
+        )
+        (VP 
+          (VBP cheguei)
+          (IN a)
+          (VB ser)
+        )
+        (ADJP 
+          (ADJP 
+            (JJ radical)
+          )
+          (CC e)
+          (ADJP 
+            (JJ sectária)
+          )
+        )
+      )
+      (,)
+      (CC mas)
+      (VP 
+        (VP 
+          (VBP aprendi)
+        )
+        (VP 
+          (IN que)
+          (NP 
+            (DT a)
+            (NN gente)
+          )
+          (ADVP 
+            (RB só)
+          )
+          (VP 
+            (VBP interfere)
+          )
+          (VP 
+            (IN se)
+            (VP 
+              (VBP estiver)
+            )
+            (PP 
+              (IN dentro_de+)
+              (NP 
+                (DT o)
+                (NN barco)
+              )
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (,)
+    (VP 
+      (VBP declarou)
+    )
+    (NP 
+      (DT a)
+      (NP ex-prefeita)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT a)
+        (NN imprensa)
+        (ADJP 
+          (JJ paulista)
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN a+)
+      (NP 
+        (DT o)
+        (VP 
+          (VP 
+            (VB justificar)
+          )
+          (NP 
+            (DT a)
+            (PRP sua)
+            (JJ presente)
+            (NN decisão)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

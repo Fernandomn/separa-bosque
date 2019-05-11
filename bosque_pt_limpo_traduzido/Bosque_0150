@@ -1,46 +1,82 @@
-(S (VP (PP (IN A_bordo)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN veleiro)
-                                         (ADJP 
-                                           (JJ polaco))
-                                         (NP 
-                                           (NNP Dar_Mlodziezy))
-                                         (,)
-                                         (VP 
-                                           (VP 
-                                             (VBN patrocinado))
-                                           (PP 
-                                             (IN por+)
-                                             (NP 
-                                               (DT a)
-                                               (NNP Cutty_Sark)))))))
-                       (,)
-                       (_CU_ (NP (DT os)
-                                        (NN tripulantes))
-                                (CC e)
-                                (NP (NN passageiros)))
-                       (VP (VBP tiveram)
-                             (IN que)
-                             (VB esperar))
-                       (PP (IN atÃ©)
-                                (PP (IN a+)
-                                       (NP 
-                                         (DT as)
-                                         (CD 13)
-                                         (NN horas)
-                                         (PP 
-                                           (IN de)
-                                           (RB ontem)))))
-                       (PP (IN para)
-                                (,)
-                                (VP (ADVP 
-                                          (RB finalmente))
-                                        (,)
-                                        (VP 
-                                          (VB pisarem))
-                                        (NP 
-                                          (DT o)
-                                          (NN cais))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN A_bordo)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN veleiro)
+          (ADJP 
+            (JJ polaco)
+          )
+          (NP 
+            (NNP Dar_Mlodziezy)
+          )
+          (,)
+          (VP 
+            (VP 
+              (VBN patrocinado)
+            )
+            (PP 
+              (IN por+)
+              (NP 
+                (DT a)
+                (NNP Cutty_Sark)
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (NP 
+        (DT os)
+        (NN tripulantes)
+      )
+      (CC e)
+      (NP 
+        (NN passageiros)
+      )
+    )
+    (VP 
+      (VBP tiveram)
+      (IN que)
+      (VB esperar)
+    )
+    (PP 
+      (IN até)
+      (PP 
+        (IN a+)
+        (NP 
+          (DT as)
+          (CD 13)
+          (NN horas)
+          (PP 
+            (IN de)
+            (RB ontem)
+          )
+        )
+      )
+    )
+    (PP 
+      (IN para)
+      (,)
+      (VP 
+        (ADVP 
+          (RB finalmente)
+        )
+        (,)
+        (VP 
+          (VB pisarem)
+        )
+        (NP 
+          (DT o)
+          (NN cais)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,76 +1,111 @@
-(S (VP (NP (DT A)
-                                 (NN solu√ß√£o)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP deram)))
-                                 (,)
-                                 (VP 
-                                   (VP 
-                                     (VB obter))
-                                   (NP 
-                                     (NN equil√≠brio)
-                                     (PP 
-                                       (IN entre)
-                                       (_CU_ 
-                                         (NP 
-                                           (NN figura√ß√£o))
-                                         (CC e)
-                                         (NP 
-                                           (NN abstra√ß√£o))))
-                                     (VP 
-                                       (PP 
-                                         (IN em)
-                                         (NP 
-                                           (PRP que)))
-                                       (NP 
-                                         (DT a)
-                                         (NN profundidade))
-                                       (ADVP 
-                                         (RB n√£o))
-                                       (VP 
-                                         (VBP √©))
-                                       (_CU_ 
-                                         (CC nem)
-                                         (ADJP 
-                                           (JJ cl√°ssica)
-                                           ({)
-                                           (ADJP 
-                                             (JJ perspectiva)
-                                             (})))
-                                         (CC nem)
-                                         (ADJP 
-                                           (JJ modernista)
-                                           ({)
-                                           (VP 
-                                             (VBN planificada))
-                                           (}))
-                                         (,)
-                                         (CC mas)
-                                         (VP 
-                                           (VP 
-                                             (VBN sugerida))
-                                           (PP 
-                                             (IN por)
-                                             (NP 
-                                               (NN jogos)
-                                               (ADJP 
-                                                 (JJ crom√°ticos))
-                                               (ADJP 
-                                                 (JJ semilivres))
-                                               (ADVP 
-                                                 (RB √†s_vezes)
-                                                 (ADJP 
-                                                   (JJ livres)
-                                                   (RB demais)))
-                                               (,)
-                                               (VP 
-                                                 (ADVP 
-                                                   (RB como))
-                                                 (NP 
-                                                   (PRP voc√™))
-                                                 (VP 
-                                                   (VBP vai)
-                                                   (VB ver)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN soluÁ„o)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP deram)
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VB obter)
+        )
+        (NP 
+          (NN equilÌbrio)
+          (PP 
+            (IN entre)
+            (NP 
+              (NP 
+                (NN figuraÁ„o)
+              )
+              e              (NP 
+                (NN abstraÁ„o)
+              )
+            )
+          )
+          (VP 
+            (PP 
+              (IN em)
+              (NP 
+                (PRP que)
+              )
+            )
+            (NP 
+              (DT a)
+              (NN profundidade)
+            )
+            (ADVP 
+              (RB n„o)
+            )
+            (VP 
+              (VBP È)
+            )
+            (UCP 
+              nem              (ADJP 
+                (JJ cl·ssica)
+                ({)
+                (ADJP 
+                  (JJ perspectiva)
+                  (})
+                )
+              )
+              nem              (ADJP 
+                (JJ modernista)
+                ({)
+                (VP 
+                  (VBN planificada)
+                )
+                (})
+              )
+              (,)
+              mas              (VP 
+                (VP 
+                  (VBN sugerida)
+                )
+                (PP 
+                  (IN por)
+                  (NP 
+                    (NN jogos)
+                    (ADJP 
+                      (JJ crom·ticos)
+                    )
+                    (ADJP 
+                      (JJ semilivres)
+                    )
+                    (ADVP 
+                      (RB ‡s_vezes)
+                      (ADJP 
+                        (JJ livres)
+                        (RB demais)
+                      )
+                    )
+                    (,)
+                    (VP 
+                      (ADVP 
+                        (RB como)
+                      )
+                      (NP 
+                        (PRP vocÍ)
+                      )
+                      (VP 
+                        (VBP vai)
+                        (VB ver)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

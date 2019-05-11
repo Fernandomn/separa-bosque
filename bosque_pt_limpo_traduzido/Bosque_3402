@@ -1,57 +1,90 @@
-(S (VP (ADVP (RB Assim))
-                        (,)
-                        (PP (IN entre)
-                                 (NP (DT os)
-                                        (CD 28)
-                                        (NN expositores)))
-                        (VP (VBP contam-))
-                        (NP (PRP se))
-                        (_CU_ (NP 
-                                   (DT as)
-                                   (NN autarquias))
-                                 (,)
-                                 (NP 
-                                   (DT as)
-                                   (NN empresas)
-                                   (ADJP 
-                                     (JJ construtoras)))
-                                 (,)
-                                 (NP 
-                                   (DT os)
-                                   (NN bancos))
-                                 (,)
-                                 (NP 
-                                   (DT as)
-                                   (NN imobili√°rias))
-                                 (,)
-                                 (NP 
-                                   (DT as)
-                                   (NN seguradoras))
-                                 (CC e)
-                                 (NP 
-                                   (DT as)
-                                   (NN associa√ß√µes)
-                                   (ADVP 
-                                     (RB como)
-                                     (_CU_ 
-                                       (NP 
-                                         (PRP a)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT os)
-                                             (NN inquilinos))))
-                                       (CC e)
-                                       (NP 
-                                         (PRP a)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT os)
-                                             (NN propriet√°rios))))))
-                                   (,)
-                                   (PP 
-                                     (IN entre)
-                                     (NP 
-                                       (PRP outras)))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Assim)
+    )
+    (,)
+    (PP 
+      (IN entre)
+      (NP 
+        (DT os)
+        (CD 28)
+        (NN expositores)
+      )
+    )
+    (VP 
+      (VBP contam-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (NP 
+      (NP 
+        (DT as)
+        (NN autarquias)
+      )
+      (,)
+      (NP 
+        (DT as)
+        (NN empresas)
+        (ADJP 
+          (JJ construtoras)
+        )
+      )
+      (,)
+      (NP 
+        (DT os)
+        (NN bancos)
+      )
+      (,)
+      (NP 
+        (DT as)
+        (NN imobili·rias)
+      )
+      (,)
+      (NP 
+        (DT as)
+        (NN seguradoras)
+      )
+      (CC e)
+      (NP 
+        (DT as)
+        (NN associaÁıes)
+        (ADVP 
+          (RB como)
+          (NP 
+            (NP 
+              (PRP a)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NN inquilinos)
+                )
+              )
+            )
+            (CC e)
+            (NP 
+              (PRP a)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NN propriet·rios)
+                )
+              )
+            )
+          )
+        )
+        (,)
+        (PP 
+          (IN entre)
+          (NP 
+            (PRP outras)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

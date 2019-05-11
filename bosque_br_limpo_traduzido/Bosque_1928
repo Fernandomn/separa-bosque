@@ -1,17 +1,32 @@
-(S (VP (NP (DT Os)
-                                 (NN produtos))
-                        (VP (VBP s√£o))
-                        (ADJP (JJ profissionais))
-                        ({)
-                        (_CU_ (PP 
-                                   (IN para)
-                                   (NP 
-                                     (NN institutos)))
-                                 (})
-                                 (CC e)
-                                 (PP 
-                                   (IN para)
-                                   (NP 
-                                     (DT o)
-                                     (NN consumidor))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN produtos)
+    )
+    (VP 
+      (VBP s„o)
+    )
+    (ADJP 
+      (JJ profissionais)
+    )
+    ({)
+    (UCP 
+      (PP 
+        (IN para)
+        (NP 
+          (NN institutos)
+        )
+      )
+      (})
+      e      (PP 
+        (IN para)
+        (NP 
+          (DT o)
+          (NN consumidor)
+        )
+      )
+    )
+    (.)
+  )
+)

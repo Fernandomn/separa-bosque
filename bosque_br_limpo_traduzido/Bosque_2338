@@ -1,36 +1,62 @@
-(S (_CU_ (VP (NP 
-                                  (NN 10h45))
-                                (--)
-                                (NP 
-                                  (DT a)
-                                  (NN visitaÃ§Ã£o)
-                                  (ADJP 
-                                    (JJ pÃºblica)))
-                                (VP (VBP Ã©)
-                                      (VBN aberta)))
-                       (;)
-                       (VP (ADVP 
-                                  (RB ao_mesmo_tempo))
-                                (,)
-                                (NP 
-                                  (PRP algumas)
-                                  (NN ambulÃ¢ncias))
-                                (VP (VBP entram))
-                                (PP (IN em+)
-                                       (NP 
-                                         (DT o)
-                                         (NN pÃ¡tio)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NN assemblÃ©ia)))))
-                                (PP 
-                                  (IN para)
-                                  (VP 
-                                    (VP 
-                                      (VB socorrer))
-                                    (NP 
-                                      (JJ eventuais)
-                                      (NN emergÃªncias)))))
-                       (;)))
+(S 
+  (UCP 
+    (VP 
+      (NP 
+        (NN 10h45)
+      )
+      (--)
+      (NP 
+        (DT a)
+        (NN visitação)
+        (ADJP 
+          (JJ pública)
+        )
+      )
+      (VP 
+        (VBP é)
+        (VBN aberta)
+      )
+    )
+    (;)
+    (VP 
+      (ADVP 
+        (RB ao_mesmo_tempo)
+      )
+      (,)
+      (NP 
+        (PRP algumas)
+        (NN ambulâncias)
+      )
+      (VP 
+        (VBP entram)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN pátio)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN assembléia)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN para)
+        (VP 
+          (VP 
+            (VB socorrer)
+          )
+          (NP 
+            (JJ eventuais)
+            (NN emergências)
+          )
+        )
+      )
+    )
+    (;)
+  )
+)

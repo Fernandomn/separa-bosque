@@ -1,63 +1,99 @@
-(S (VP (VP (VBP Fica))
-                        (ADVP (RB assim))
-                        (VP (ADVP 
-                                          (RB totalmente))
-                                        (VP 
-                                          (VBN sinalizado))
-                                        (NP 
-                                          (DT o)
-                                          (NN percurso)
-                                          (PP 
-                                            (IN entre)
-                                            (_CU_ 
-                                              (NP 
-                                                (DT a)
-                                                (NN barra)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NNP Douro))))
-                                              (CC e)
-                                              (NP 
-                                                (DT a)
-                                                (NNP Ponte_de_D.Lu√≠s_I))))
-                                          (,)
-                                          (VP 
-                                            (PP 
-                                              (IN para)
-                                              (NP 
-                                                (PRP o_qual)))
-                                            (VP 
-                                              (VBP foi))
-                                            (ADJP 
-                                              (JJ necess√°ria))
-                                            (NP 
-                                              (DT a)
-                                              (NN substitui√ß√£o)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT as)
-                                                  (NN b√≥ias)
-                                                  (ADJP 
-                                                    (JJ originais))))
-                                              (PP 
-                                                (IN por)
-                                                (NP 
-                                                  (PRP outras)
-                                                  (PP 
-                                                    (IN de)
-                                                    (NP 
-                                                      (JJ maior)
-                                                      (NN dimens√£o)))
-                                                  (,)
-                                                  (VP 
-                                                    (VP 
-                                                      (VBN enviadas))
-                                                    (PP 
-                                                      (IN por+)
-                                                      (NP 
-                                                        (DT a)
-                                                        (NNP Direc√ß√£o_de_Far√≥is))))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Fica)
+    )
+    (ADVP 
+      (RB assim)
+    )
+    (VP 
+      (ADVP 
+        (RB totalmente)
+      )
+      (VP 
+        (VBN sinalizado)
+      )
+      (NP 
+        (DT o)
+        (NN percurso)
+        (PP 
+          (IN entre)
+          (NP 
+            (NP 
+              (DT a)
+              (NN barra)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NNP Douro)
+                )
+              )
+            )
+            (CC e)
+            (NP 
+              (DT a)
+              (NNP Ponte_de_D.LuÌs_I)
+            )
+          )
+        )
+        (,)
+        (VP 
+          (PP 
+            (IN para)
+            (NP 
+              (PRP o_qual)
+            )
+          )
+          (VP 
+            (VBP foi)
+          )
+          (ADJP 
+            (JJ necess·ria)
+          )
+          (NP 
+            (DT a)
+            (NN substituiÁ„o)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT as)
+                (NN bÛias)
+                (ADJP 
+                  (JJ originais)
+                )
+              )
+            )
+            (PP 
+              (IN por)
+              (NP 
+                (PRP outras)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (JJ maior)
+                    (NN dimens„o)
+                  )
+                )
+                (,)
+                (VP 
+                  (VP 
+                    (VBN enviadas)
+                  )
+                  (PP 
+                    (IN por+)
+                    (NP 
+                      (DT a)
+                      (NNP DirecÁ„o_de_FarÛis)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

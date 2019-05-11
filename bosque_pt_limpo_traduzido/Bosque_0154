@@ -1,85 +1,140 @@
-(S (VP (NP (PRP VÃ¡rias)
-                                (NN tendas))
-                       (VP (VBP ofereciam))
-                       (NP (DT os)
-                                (ADJP 
-                                  (RB mais)
-                                  (VBN variados))
-                                (NN serviÃ§os))
-                       (PP (IN a+)
-                               (NP (DT os)
-                                      (NN tripulantes)))
-                       (,)
-                       (NP (ADVP (RB como)
-                                        (_CU_ 
-                                          (NP 
-                                            (NN restaurantes))
-                                          (,)
-                                          (NP 
-                                            (NN cabines)
-                                            (ADJP 
-                                              (JJ telefÃ³nicas)))
-                                          (,)
-                                          (NP 
-                                            (NN serviÃ§os)
-                                            (_CU_ 
-                                              (ADJP 
-                                                (JJ bancÃ¡rios))
-                                              (CC e)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN correios))))))))
-                       (VP (ADVP 
-                                   (RB enquanto))
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT a)
-                                     (NN sala)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN imprensa)))))
-                                 (NP 
-                                   (DT os)
-                                   (NN empregados)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       (NNP TelefÃ³nica))))
-                                 (ADVP 
-                                   (RB ainda))
-                                 (VP (VBP instalavam))
-                                 (_CU_ 
-                                   (NP 
-                                     (DT os)
-                                     (NN telefones))
-                                   (CC e)
-                                   (NP 
-                                     (NN mÃ¡quinas)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN fax)))))
-                                 (PP 
-                                   (IN para)
-                                   (NP 
-                                     (DT o)
-                                     (NN batalhÃ£o)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN jornalistas)))
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP chegou))
-                                       (PP 
-                                         (IN a+)
-                                         (NP 
-                                           (DT a)
-                                           (NN cidade)))))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Várias)
+      (NN tendas)
+    )
+    (VP 
+      (VBP ofereciam)
+    )
+    (NP 
+      (DT os)
+      (ADJP 
+        (RB mais)
+        (VBN variados)
+      )
+      (NN serviços)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT os)
+        (NN tripulantes)
+      )
+    )
+    (,)
+    (NP 
+      (ADVP 
+        (RB como)
+        (NP 
+          (NP 
+            (NN restaurantes)
+          )
+          (,)
+          (NP 
+            (NN cabines)
+            (ADJP 
+              (JJ telefónicas)
+            )
+          )
+          (,)
+          (NP 
+            (NN serviços)
+            (UCP 
+              (ADJP 
+                (JJ bancários)
+              )
+              (CC e)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN correios)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (ADVP 
+        (RB enquanto)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NN sala)
+          (PP 
+            (IN de)
+            (NP 
+              (NN imprensa)
+            )
+          )
+        )
+      )
+      (NP 
+        (DT os)
+        (NN empregados)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP Telefónica)
+          )
+        )
+      )
+      (ADVP 
+        (RB ainda)
+      )
+      (VP 
+        (VBP instalavam)
+      )
+      (NP 
+        (NP 
+          (DT os)
+          (NN telefones)
+        )
+        (CC e)
+        (NP 
+          (NN máquinas)
+          (PP 
+            (IN de)
+            (NP 
+              (NN fax)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (DT o)
+          (NN batalhão)
+          (PP 
+            (IN de)
+            (NP 
+              (NN jornalistas)
+            )
+          )
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP chegou)
+            )
+            (PP 
+              (IN a+)
+              (NP 
+                (DT a)
+                (NN cidade)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

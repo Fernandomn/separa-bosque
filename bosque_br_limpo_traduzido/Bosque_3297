@@ -1,17 +1,32 @@
-(S (VP (Â«)
-                        (ADVP (RB Hoje))
-                        (,)
-                        (VP (VBP tenho))
-                        (_CU_ (NP (RB sÃ³)
-                                        (DT uma)
-                                        (NN fazenda))
-                                (CC e)
-                                (NP (PRP pouco)
-                                        (RB mais_de)
-                                        (CD 500)
-                                        (NN cabeÃ§as)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN gado)))))
-                        (.)))
+(S 
+  (VP 
+    («)
+    (ADVP 
+      (RB Hoje)
+    )
+    (,)
+    (VP 
+      (VBP tenho)
+    )
+    (NP 
+      (NP 
+        (RB só)
+        (DT uma)
+        (NN fazenda)
+      )
+      e      (NP 
+        (PRP pouco)
+        (RB mais_de)
+        (CD 500)
+        (NN cabeças)
+        (PP 
+          (IN de)
+          (NP 
+            (NN gado)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

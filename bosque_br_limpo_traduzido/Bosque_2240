@@ -1,73 +1,114 @@
-(S (VP (PP (IN Segundo)
-                                 (NP (NNP Laerte_Leite_Cordeiro)
-                                        (,)
-                                        (NP 
-                                          (NN consultor)
-                                          (VP 
-                                            (VP 
-                                              (VBN especializado))
-                                            (PP 
-                                              (IN em)
-                                              (NP 
-                                                (NN recolocaÃ§Ã£o)))))
-                                        (,)))
-                        (NP (DT o)
-                                 (NN currÃ­culo))
-                        (VP (VBP deve)
-                              (VB ser)
-                              (VBN dividido))
-                        (PP (IN em)
-                                (NP (CD trÃªs)
-                                       (NN partes)
-                                       (;)
-                                       (_CU_ 
-                                         (NP 
-                                           (NN Ã¡rea)
-                                           (ADJP 
-                                             (JJ geral))
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN interesse)))
-                                           ({)
-                                           (_CU_ 
-                                             (ADJP 
-                                               (JJ administrativa))
-                                             (,)
-                                             (ADJP 
-                                               (JJ contÃ¡bil))
-                                             (,)
-                                             (ADJP 
-                                               (JJ financeira))
-                                             (ADVP 
-                                               (RB etc.)))
-                                           (}))
-                                         (,)
-                                         (NP 
-                                           (NN qualificaÃ§Ãµes)
-                                           (ADJP 
-                                             (JJ profissionais)))
-                                         (CC e)
-                                         (NP 
-                                           (NN descriÃ§Ã£o)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT a)
-                                               (NN trajetÃ³ria)
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (NN empregos)))
-                                               ({)
-                                               (_CU_ 
-                                                 (NP 
-                                                   (NN empresas))
-                                                 (,)
-                                                 (NP 
-                                                   (NN cargos))
-                                                 (,)
-                                                 (NP 
-                                                   (NN perÃ­odos)))
-                                               (})))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Segundo)
+      (NP 
+        (NNP Laerte_Leite_Cordeiro)
+        (,)
+        (NP 
+          (NN consultor)
+          (VP 
+            (VP 
+              (VBN especializado)
+            )
+            (PP 
+              (IN em)
+              (NP 
+                (NN recolocação)
+              )
+            )
+          )
+        )
+        (,)
+      )
+    )
+    (NP 
+      (DT o)
+      (NN currículo)
+    )
+    (VP 
+      (VBP deve)
+      (VB ser)
+      (VBN dividido)
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (CD três)
+        (NN partes)
+        (;)
+        (NP 
+          (NP 
+            (NN área)
+            (ADJP 
+              (JJ geral)
+            )
+            (PP 
+              (IN de)
+              (NP 
+                (NN interesse)
+              )
+            )
+            ({)
+            (UCP 
+              (ADJP 
+                (JJ administrativa)
+              )
+              (,)
+              (ADJP 
+                (JJ contábil)
+              )
+              (,)
+              (ADJP 
+                (JJ financeira)
+              )
+              (ADVP 
+                (RB etc.)
+              )
+            )
+            (})
+          )
+          (,)
+          (NP 
+            (NN qualificações)
+            (ADJP 
+              (JJ profissionais)
+            )
+          )
+          e          (NP 
+            (NN descrição)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN trajetória)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN empregos)
+                  )
+                )
+                ({)
+                (NP 
+                  (NP 
+                    (NN empresas)
+                  )
+                  (,)
+                  (NP 
+                    (NN cargos)
+                  )
+                  (,)
+                  (NP 
+                    (NN períodos)
+                  )
+                )
+                (})
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

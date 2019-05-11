@@ -1,89 +1,135 @@
-(S (VP (ADVP (RB Depois))
-                        (,)
-                        (VP (VBP iniciou-))
-                        (NP (PRP se))
-                        (NP (DT a)
-                                 (NN colabora√ß√£o)
-                                 (_CU_ (PP 
-                                          (IN de)
-                                          (NP 
-                                            (PRP todos_os)
-                                            (NN elementos)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT o)
-                                                (NN grupo)))))
-                                        (CC e)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (PRP muitos)
-                                            (PRP outros)
-                                            (_CU_ 
-                                              (NP 
-                                                (NN portugueses)
-                                                (,)
-                                                (VP 
-                                                  (VP 
-                                                    (VBN ligados))
-                                                  (PP 
-                                                    (IN a+)
-                                                    (NP 
-                                                      (DT a)
-                                                      (NN colabora√ß√£o)
-                                                      (VBN escrita))))
-                                                (,)
-                                                (_CU_ 
-                                                  (VBN emigrados)
-                                                  (CC ou)
-                                                  (VP 
-                                                    (ADVP 
-                                                      (RB n√£o))))
-                                                (,)
-                                                (ADVP 
-                                                  (RB como)
-                                                  (_CU_ 
-                                                    (NP 
-                                                      (NNP Jo√£o_Vidal))
-                                                    (,)
-                                                    (NP 
-                                                      (NNP J._M._Sim√µes))
-                                                    (,)
-                                                    (NP 
-                                                      (NNP Jos√©_Gil))
-                                                    (,)
-                                                    (NP 
-                                                      (NNP Helder_Macedo))
-                                                    (,)
-                                                    (NP 
-                                                      (NNP Nuno_Bragan√ßa))
-                                                    (,)
-                                                    (NP 
-                                                      (NNP Cristovam_de_Paiva))
-                                                    (,)
-                                                    (NP 
-                                                      (NNP Alfredo_Margarido))
-                                                    (,)
-                                                    (NP 
-                                                      (NNP Ant√≥nio_Areal))
-                                                    (,)
-                                                    (NP 
-                                                      (NNP Jos√©-Augusto_Fran√ßa)))))
-                                              (;)
-                                              (CC ou)
-                                              (NP 
-                                                (NN estrangeiros)
-                                                (,)
-                                                (ADVP 
-                                                  (RB como)
-                                                  (_CU_ 
-                                                    (NP 
-                                                      (NNP Andr√©_Pieyre_de_Mandriargues))
-                                                    (,)
-                                                    (NP 
-                                                      (NNP Karl_Laszlo))
-                                                    (,)
-                                                    (NP 
-                                                      (NNP Benjamim_Peterson))))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Depois)
+    )
+    (,)
+    (VP 
+      (VBP iniciou-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (NP 
+      (DT a)
+      (NN colaboraÁ„o)
+      (PP 
+        (PP 
+          (IN de)
+          (NP 
+            (PRP todos_os)
+            (NN elementos)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN grupo)
+              )
+            )
+          )
+        )
+        (CC e)
+        (PP 
+          (IN de)
+          (NP 
+            (PRP muitos)
+            (PRP outros)
+            (UCP 
+              (NP 
+                (NN portugueses)
+                (,)
+                (VP 
+                  (VP 
+                    (VBN ligados)
+                  )
+                  (PP 
+                    (IN a+)
+                    (NP 
+                      (DT a)
+                      (NN colaboraÁ„o)
+                      (VBN escrita)
+                    )
+                  )
+                )
+                (,)
+                (UCP 
+                  (VBN emigrados)
+                  (CC ou)
+                  (VP 
+                    (ADVP 
+                      (RB n„o)
+                    )
+                  )
+                )
+                (,)
+                (ADVP 
+                  (RB como)
+                  (NP 
+                    (NP 
+                      (NNP Jo„o_Vidal)
+                    )
+                    (,)
+                    (NP 
+                      (NNP J._M._Simıes)
+                    )
+                    (,)
+                    (NP 
+                      (NNP JosÈ_Gil)
+                    )
+                    (,)
+                    (NP 
+                      (NNP Helder_Macedo)
+                    )
+                    (,)
+                    (NP 
+                      (NNP Nuno_BraganÁa)
+                    )
+                    (,)
+                    (NP 
+                      (NNP Cristovam_de_Paiva)
+                    )
+                    (,)
+                    (NP 
+                      (NNP Alfredo_Margarido)
+                    )
+                    (,)
+                    (NP 
+                      (NNP AntÛnio_Areal)
+                    )
+                    (,)
+                    (NP 
+                      (NNP JosÈ-Augusto_FranÁa)
+                    )
+                  )
+                )
+              )
+              (;)
+              (CC ou)
+              (NP 
+                (NN estrangeiros)
+                (,)
+                (ADVP 
+                  (RB como)
+                  (NP 
+                    (NP 
+                      (NNP AndrÈ_Pieyre_de_Mandriargues)
+                    )
+                    (,)
+                    (NP 
+                      (NNP Karl_Laszlo)
+                    )
+                    (,)
+                    (NP 
+                      (NNP Benjamim_Peterson)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

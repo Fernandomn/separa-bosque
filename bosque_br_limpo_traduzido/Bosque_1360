@@ -1,34 +1,58 @@
-(S (VP (_CU_ (Â«)
-                                (VP 
-                                  (ADVP 
-                                    (RB NÃ£o))
-                                  (VP (VBP acho))
-                                  (VP 
-                                    (IN que)
-                                    (VP 
-                                      (VBP seja))
-                                    (NP 
-                                      (NN cÃ¢ncer))))
-                                (,)
-                                (VP 
-                                  (VP (VBP pode)
-                                        (VB ser))
-                                  (NP 
-                                    (PRP algo)
-                                    (VP 
-                                      (VP 
-                                        (VBN relacionado))
-                                      (PP 
-                                        (IN a+)
-                                        (_CU_ 
-                                          (NP 
-                                            (DT os)
-                                            (PRP meus)
-                                            (NN medos))
-                                          (CC e)
-                                          (NP 
-                                            (NN angÃºstias)))))))
-                                (Â»))
-                        (,)
-                        (VP (VBP afirmou))
-                        (.)))
+(S 
+  (VP 
+    (UCP 
+      («)
+      (VP 
+        (ADVP 
+          (RB Não)
+        )
+        (VP 
+          (VBP acho)
+        )
+        (VP 
+          (IN que)
+          (VP 
+            (VBP seja)
+          )
+          (NP 
+            (NN câncer)
+          )
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBP pode)
+          (VB ser)
+        )
+        (NP 
+          (PRP algo)
+          (VP 
+            (VP 
+              (VBN relacionado)
+            )
+            (PP 
+              (IN a+)
+              (NP 
+                (NP 
+                  (DT os)
+                  (PRP meus)
+                  (NN medos)
+                )
+                e                (NP 
+                  (NN angústias)
+                )
+              )
+            )
+          )
+        )
+      )
+      (»)
+    )
+    (,)
+    (VP 
+      (VBP afirmou)
+    )
+    (.)
+  )
+)

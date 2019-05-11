@@ -1,45 +1,78 @@
-(S (VP (NP (PRP Este)
-                                (NN tipo)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN aÃ§Ãºcar))))
-                       (VP (VBP foi)
-                             (VBN banido))
-                       (_CU_ (PP (IN em+)
-                                        (NP 
-                                          (DT os)
-                                          (NNP Estados_Unidos)))
-                                (CC e)
-                                (PP (IN em+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP GrÃ£-Bretanha))))
-                       (ADVP (RB depois)
-                                  (PP 
-                                    (IN de)
-                                    (VP 
-                                      (NP 
-                                        (DT uma)
-                                        (NN sÃ©rie)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN testes))))
-                                      (VP 
-                                        (VB ter)
-                                        (VBN demonstrado))
-                                      (VP 
-                                        (IN que)
-                                        (NP 
-                                          (DT o)
-                                          (NN produto))
-                                        (VP 
-                                          (VBP provocava))
-                                        (NP 
-                                          (NN cancro))
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT os)
-                                            (NN ratos)))))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Este)
+      (NN tipo)
+      (PP 
+        (IN de)
+        (NP 
+          (NN açúcar)
+        )
+      )
+    )
+    (VP 
+      (VBP foi)
+      (VBN banido)
+    )
+    (PP 
+      (PP 
+        (IN em+)
+        (NP 
+          (DT os)
+          (NNP Estados_Unidos)
+        )
+      )
+      (CC e)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NNP Grã-Bretanha)
+        )
+      )
+    )
+    (ADVP 
+      (RB depois)
+      (PP 
+        (IN de)
+        (VP 
+          (NP 
+            (DT uma)
+            (NN série)
+            (PP 
+              (IN de)
+              (NP 
+                (NN testes)
+              )
+            )
+          )
+          (VP 
+            (VB ter)
+            (VBN demonstrado)
+          )
+          (VP 
+            (IN que)
+            (NP 
+              (DT o)
+              (NN produto)
+            )
+            (VP 
+              (VBP provocava)
+            )
+            (NP 
+              (NN cancro)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT os)
+                (NN ratos)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

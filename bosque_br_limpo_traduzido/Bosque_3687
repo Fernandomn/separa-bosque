@@ -1,36 +1,64 @@
-(S (VP (NP (DT A)
-                                 (NN federa√ß√£o)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT as)
-                                          (_CU_ 
-                                            (ADJP 
-                                              (JJ pequenas))
-                                            (CC e)
-                                            (ADJP 
-                                              (JJ m√©dias)))
-                                          (NN empresas))))
-                        (VP (VBP revelou))
-                        (PP (IN em+)
-                                 (NP (DT uma)
-                                        (NN pesquisa)))
-                        (VP (IN que)
-                                 (NP 
-                                   (PRP seus)
-                                   (VBN filiados))
-                                 (VP (VBP est√£o))
-                                 (ADJP 
-                                   (JJ pr√≥ximos)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (NN p√¢nico))))
-                                 (PP 
-                                   (IN em_rela√ß√£o_a+)
-                                   (NP 
-                                     (DT a)
-                                     (NN situa√ß√£o)
-                                     (ADJP 
-                                       (JJ econ√¥mica)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN federaÁ„o)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (ADJP 
+            (ADJP 
+              (JJ pequenas)
+            )
+            e            (ADJP 
+              (JJ mÈdias)
+            )
+          )
+          (NN empresas)
+        )
+      )
+    )
+    (VP 
+      (VBP revelou)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT uma)
+        (NN pesquisa)
+      )
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (PRP seus)
+        (VBN filiados)
+      )
+      (VP 
+        (VBP est„o)
+      )
+      (ADJP 
+        (JJ prÛximos)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN p‚nico)
+          )
+        )
+      )
+      (PP 
+        (IN em_relaÁ„o_a+)
+        (NP 
+          (DT a)
+          (NN situaÁ„o)
+          (ADJP 
+            (JJ econÙmica)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

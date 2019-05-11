@@ -1,45 +1,71 @@
-(S (VP (NP (DT Os)
-                                 (NNP EUA))
-                        (,)
-                        (ADVP (RB depois)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (DT um)
-                                       (JJ hist√≥rico)
-                                       (NN discurso)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (PRP seu)
-                                           (NN presidente)
-                                           (,)
-                                           (NP 
-                                             (NNP Franklin_Delano_Roosevelt))
-                                           (,))))))
-                        (VP (VBP entraram))
-                        (PP (IN em)
-                               (NP (NN guerra)
-                                      (PP 
-                                        (IN contra)
-                                        (_CU_ 
-                                          (NP 
-                                            (DT o)
-                                            (NNP Jap√£o))
-                                          (CC e)
-                                          (NP 
-                                            (PRP seus)
-                                            (NN aliados)
-                                            (PP 
-                                              (IN em+)
-                                              (NP 
-                                                (DT o)
-                                                (NN Eixo)
-                                                (,)
-                                                (_CU_ 
-                                                  (NP 
-                                                    (NNP Alemanha))
-                                                  (CC e)
-                                                  (NP 
-                                                    (NNP It√°lia))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NNP EUA)
+    )
+    (,)
+    (ADVP 
+      (RB depois)
+      (PP 
+        (IN de)
+        (NP 
+          (DT um)
+          (JJ histÛrico)
+          (NN discurso)
+          (PP 
+            (IN de)
+            (NP 
+              (PRP seu)
+              (NN presidente)
+              (,)
+              (NP 
+                (NNP Franklin_Delano_Roosevelt)
+              )
+              (,)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP entraram)
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NN guerra)
+        (PP 
+          (IN contra)
+          (NP 
+            (NP 
+              (DT o)
+              (NNP Jap„o)
+            )
+            e            (NP 
+              (PRP seus)
+              (NN aliados)
+              (PP 
+                (IN em+)
+                (NP 
+                  (DT o)
+                  (NN Eixo)
+                  (,)
+                  (NP 
+                    (NP 
+                      (NNP Alemanha)
+                    )
+                    e                    (NP 
+                      (NNP It·lia)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

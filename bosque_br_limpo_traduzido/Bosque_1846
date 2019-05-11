@@ -1,27 +1,49 @@
-(S (NP (NN Testes)
-                       (_CU_ (ADJP (JJ periÃ³dicos))
-                              (CC e)
-                              (ADJP (JJ aleatÃ³rios)))
-                       (PP (IN com)
-                              (NP (NN funcionÃ¡rios)
-                                     (,)
-                                     (PP 
-                                       (RB principalmente)
-                                       (IN com)
-                                       (NP 
-                                         (PRP os)
-                                         (VP 
-                                           (NP 
-                                             (PRP que))
-                                           (VP 
-                                             (VBP exercem))
-                                           (NP 
-                                             (NN funÃ§Ãµes)
-                                             (PP 
-                                               (IN de)
-                                               (_CU_ 
-                                                 (NP 
-                                                   (NN risco))
-                                                 (CC e)
-                                                 (NP 
-                                                   (NN confianÃ§a))))))))))))
+(S 
+  (NP 
+    (NN Testes)
+    (ADJP 
+      (ADJP 
+        (JJ periódicos)
+      )
+      e      (ADJP 
+        (JJ aleatórios)
+      )
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (NN funcionários)
+        (,)
+        (PP 
+          (RB principalmente)
+          (IN com)
+          (NP 
+            (PRP os)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP exercem)
+              )
+              (NP 
+                (NN funções)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NP 
+                      (NN risco)
+                    )
+                    e                    (NP 
+                      (NN confiança)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+)

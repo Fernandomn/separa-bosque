@@ -1,45 +1,70 @@
-(S (VP (VP (VBP Teremos))
-                        (,)
-                        (ADVP (RB ent√£o))
-                        (,)
-                        (NP (DT um)
-                                (NN meio-campo)
-                                (_CU_ (ADJP 
-                                         (ADVP 
-                                           (RB ainda)
-                                           (RB mais))
-                                         (JJ s√≥lido)
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT a)
-                                             (NN prote√ß√£o)
-                                             (PP 
-                                               (IN a+)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN zaga))))))
-                                       (CC e)
-                                       (ADJP 
-                                         (RB mais)
-                                         (_CU_ 
-                                           (ADJP 
-                                             (JJ inteligente))
-                                           (,)
-                                           (ADJP 
-                                             (JJ veloz))
-                                           (CC e)
-                                           (ADJP 
-                                             (JJ agressivo))
-                                           (,))
-                                         (PP 
-                                           (IN em+)
-                                           (NP 
-                                             (DT a)
-                                             (NN combina√ß√£o)
-                                             (PP 
-                                               (IN com)
-                                               (NP 
-                                                 (DT o)
-                                                 (NN ataque))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Teremos)
+    )
+    (,)
+    (ADVP 
+      (RB ent„o)
+    )
+    (,)
+    (NP 
+      (DT um)
+      (NN meio-campo)
+      (ADJP 
+        (ADJP 
+          (ADVP 
+            (RB ainda)
+            (RB mais)
+          )
+          (JJ sÛlido)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN proteÁ„o)
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT a)
+                  (NN zaga)
+                )
+              )
+            )
+          )
+        )
+        e        (ADJP 
+          (RB mais)
+          (ADJP 
+            (ADJP 
+              (JJ inteligente)
+            )
+            (,)
+            (ADJP 
+              (JJ veloz)
+            )
+            e            (ADJP 
+              (JJ agressivo)
+            )
+            (,)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN combinaÁ„o)
+              (PP 
+                (IN com)
+                (NP 
+                  (DT o)
+                  (NN ataque)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

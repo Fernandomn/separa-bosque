@@ -1,52 +1,83 @@
-(S (VP (ADJP (CD Uma)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT as)
-                                       (PRP poucas)
-                                       (NN surpresas)
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT a)
-                                           (NN eleiÃ§Ã£o)
-                                           (ADJP 
-                                             (JJ anticlimÃ¡tica))
-                                           (IN por)
-                                           (VP 
-                                             (NP 
-                                               (PRP que))
-                                             (VP 
-                                               (VBP passou))
-                                             (NP 
-                                               (DT o)
-                                               (NN paÃ­s))))))))
-                        (VP (VBP foi))
-                        (NP (DT a)
-                               (JJ alta)
-                               (NN incidÃªncia)
-                               (PP 
-                                 (IN de)
-                                 (NP (NN votos)
-                                        (_CU_ 
-                                          (ADJP 
-                                            (JJ brancos))
-                                          (CC e)
-                                          (ADJP 
-                                            (JJ nulos)))))
-                               (_CU_ (PP 
-                                        (IN em+)
-                                        (NP 
-                                          (DT as)
-                                          (NN eleiÃ§Ãµes)
-                                          (ADJP 
-                                            (JJ legislativas))))
-                                      (CC e)
-                                      (PP 
-                                        (IN para)
-                                        (NP 
-                                          (DT os)
-                                          (NN governos)
-                                          (ADJP 
-                                            (JJ estaduais))))))
-                        (.)))
+(S 
+  (VP 
+    (ADJP 
+      (CD Uma)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (PRP poucas)
+          (NN surpresas)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN eleição)
+              (ADJP 
+                (JJ anticlimática)
+              )
+              (IN por)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP passou)
+                )
+                (NP 
+                  (DT o)
+                  (NN país)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP foi)
+    )
+    (NP 
+      (DT a)
+      (JJ alta)
+      (NN incidência)
+      (PP 
+        (IN de)
+        (NP 
+          (NN votos)
+          (ADJP 
+            (ADJP 
+              (JJ brancos)
+            )
+            e            (ADJP 
+              (JJ nulos)
+            )
+          )
+        )
+      )
+      (PP 
+        (PP 
+          (IN em+)
+          (NP 
+            (DT as)
+            (NN eleições)
+            (ADJP 
+              (JJ legislativas)
+            )
+          )
+        )
+        e        (PP 
+          (IN para)
+          (NP 
+            (DT os)
+            (NN governos)
+            (ADJP 
+              (JJ estaduais)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

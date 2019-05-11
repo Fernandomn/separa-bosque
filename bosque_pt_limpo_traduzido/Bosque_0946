@@ -1,21 +1,42 @@
-(S (_CU_ (NP (NN MÃºsica)
-                               (ADJP (JJ irlandesa)))
-                       (PP (IN em)
-                                (NP (NNP Ã‰vora)))
-                       (;)
-                       (VP (NP 
-                                  (DT os)
-                                  (NNP Wingers))
-                                (VP (VBP tocam))
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (DT a)
-                                    (NNP Feira_de_SÃ£o_JoÃ£o)))
-                                (,)
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (PRP aquela)
-                                    (NN cidade))))
-                       (.)))
+(S 
+  (UCP 
+    (NP 
+      (NN Música)
+      (ADJP 
+        (JJ irlandesa)
+      )
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NNP Évora)
+      )
+    )
+    (;)
+    (VP 
+      (NP 
+        (DT os)
+        (NNP Wingers)
+      )
+      (VP 
+        (VBP tocam)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NNP Feira_de_São_João)
+        )
+      )
+      (,)
+      (PP 
+        (IN em+)
+        (NP 
+          (PRP aquela)
+          (NN cidade)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,55 +1,93 @@
-(S (VP (NP (DT A)
-                                 (NN advertÃªncia))
-                        (VP (VBP foi)
-                              (VBN feita))
-                        (ADVP (RB ontem))
-                        (PP (IN em)
-                                 (NP (NNP TÃ³quio)))
-                        (PP (IN por+)
-                                 (NP (DT o)
-                                        (NN secretÃ¡rio)
-                                        (ADJP 
-                                          (JJ norte-americano))
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NNP Tesouro)))
-                                        (,)
-                                        (NP 
-                                          (NNP Lloyd_Bentsen))
-                                        (,)))
-                        (ADVP (RB depois)
-                                   (PP 
-                                     (IN de)
-                                     (VP 
-                                       (NP 
-                                         (PRP se))
-                                       (VP 
-                                         (VB ter)
-                                         (VBN encontrado))
-                                       (PP 
-                                         (IN a)
-                                         (NP 
-                                           (PRP seu)
-                                           (NN pedido)))
-                                       (PP 
-                                         (IN com)
-                                         (_CU_ 
-                                           (NP 
-                                             (DT o)
-                                             (NN primeiro-ministro)
-                                             (NP 
-                                               (NNP Morihiro_Hosokawa)))
-                                           (CC e)
-                                           (NP 
-                                             (DT o)
-                                             (NN ministro)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT as)
-                                                 (NNP FinanÃ§as)))
-                                             (NP 
-                                               (NNP Hirohisa_Fujii))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN advertência)
+    )
+    (VP 
+      (VBP foi)
+      (VBN feita)
+    )
+    (ADVP 
+      (RB ontem)
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NNP Tóquio)
+      )
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT o)
+        (NN secretário)
+        (ADJP 
+          (JJ norte-americano)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NNP Tesouro)
+          )
+        )
+        (,)
+        (NP 
+          (NNP Lloyd_Bentsen)
+        )
+        (,)
+      )
+    )
+    (ADVP 
+      (RB depois)
+      (PP 
+        (IN de)
+        (VP 
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VB ter)
+            (VBN encontrado)
+          )
+          (PP 
+            (IN a)
+            (NP 
+              (PRP seu)
+              (NN pedido)
+            )
+          )
+          (PP 
+            (IN com)
+            (NP 
+              (NP 
+                (DT o)
+                (NN primeiro-ministro)
+                (NP 
+                  (NNP Morihiro_Hosokawa)
+                )
+              )
+              (CC e)
+              (NP 
+                (DT o)
+                (NN ministro)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT as)
+                    (NNP Finanças)
+                  )
+                )
+                (NP 
+                  (NNP Hirohisa_Fujii)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

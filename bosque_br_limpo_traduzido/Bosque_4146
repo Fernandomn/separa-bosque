@@ -1,38 +1,68 @@
-(S (_CU_ (VP (NP 
-                                  (DT As)
-                                  (NN emissoras))
-                                (NP (PRP se))
-                                (VP (VBP negaram))
-                                (PP (IN a)
-                                        (VP 
-                                          (NP 
-                                            (PRP se))
-                                          (VP 
-                                            (VB retratar)))))
-                       (CC e)
-                       (VP (NP 
-                                  (DT o)
-                                  (NN juiz))
-                                (VP (VBP ameaÃ§ou))
-                                (Â«)
-                                (VP 
-                                  (VP (VB terminar))
-                                  (PP 
-                                    (IN com)
-                                    (NP 
-                                      (DT a)
-                                      (NN cobertura)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN julgamento)))))
-                                  (Â»)
-                                  (,)
-                                  (PP 
-                                    (IN sem)
-                                    (VP 
-                                      (VP 
-                                        (VB especificar))
-                                      (RB como)))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT As)
+        (NN emissoras)
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP negaram)
+      )
+      (PP 
+        (IN a)
+        (VP 
+          (NP 
+            (PRP se)
+          )
+          (VP 
+            (VB retratar)
+          )
+        )
+      )
+    )
+    e    (VP 
+      (NP 
+        (DT o)
+        (NN juiz)
+      )
+      (VP 
+        (VBP ameaçou)
+      )
+      («)
+      (VP 
+        (VP 
+          (VB terminar)
+        )
+        (PP 
+          (IN com)
+          (NP 
+            (DT a)
+            (NN cobertura)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN julgamento)
+              )
+            )
+          )
+        )
+        (»)
+        (,)
+        (PP 
+          (IN sem)
+          (VP 
+            (VP 
+              (VB especificar)
+            )
+            (RB como)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

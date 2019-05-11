@@ -1,50 +1,84 @@
-(S (VP (VP (NP 
-                                    (PRP Quem))
-                                  (VP (VBP prefere))
-                                  (NP 
-                                    (DT as)
-                                    (NN miss√µes)
-                                    (ADJP 
-                                      (JJ espaciais))))
-                        (VP (VBP tem))
-                        (PP (IN a+)
-                                (NP (DT a)
-                                       (NN disposi√ß√£o)))
-                        (NP (RB cerca_de)
-                                (CD oito)
-                                (NN horas)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN informa√ß√µes)
-                                         (PP 
-                                           (IN sobre)
-                                           (NP 
-                                             (CD 1.600)
-                                             (NN miss√µes)))
-                                         (,)
-                                         (VP 
-                                           (VP 
-                                             (VBG incluindo))
-                                           (_CU_ 
-                                             (NP 
-                                               (DT o)
-                                               (NN programa)
-                                               (NP 
-                                                 (NNP Apollo)))
-                                             (CC e)
-                                             (NP 
-                                               (DT o)
-                                               (NN passeio)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT o)
-                                                   (NN astronauta)
-                                                   (NP 
-                                                     (NNP Neil_Armstrong))))
-                                               (PP 
-                                                 (IN em+)
-                                                 (NP 
-                                                   (DT a)
-                                                   (NN Lua)))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (PRP Quem)
+      )
+      (VP 
+        (VBP prefere)
+      )
+      (NP 
+        (DT as)
+        (NN missıes)
+        (ADJP 
+          (JJ espaciais)
+        )
+      )
+    )
+    (VP 
+      (VBP tem)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT a)
+        (NN disposiÁ„o)
+      )
+    )
+    (NP 
+      (RB cerca_de)
+      (CD oito)
+      (NN horas)
+      (PP 
+        (IN de)
+        (NP 
+          (NN informaÁıes)
+          (PP 
+            (IN sobre)
+            (NP 
+              (CD 1.600)
+              (NN missıes)
+            )
+          )
+          (,)
+          (VP 
+            (VP 
+              (VBG incluindo)
+            )
+            (NP 
+              (NP 
+                (DT o)
+                (NN programa)
+                (NP 
+                  (NNP Apollo)
+                )
+              )
+              e              (NP 
+                (DT o)
+                (NN passeio)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN astronauta)
+                    (NP 
+                      (NNP Neil_Armstrong)
+                    )
+                  )
+                )
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT a)
+                    (NN Lua)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

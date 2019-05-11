@@ -1,55 +1,89 @@
-(S (VP (CC Mas)
-                        (NP (NNP Michael_Tilson_Thomas))
-                        (,)
-                        (VP 
-                          (VP (VBG regendo))
-                          (NP (PRP tudo))
-                          (PP (IN com)
-                                   (_CU_ 
-                                     (NP 
-                                       (DT uma)
-                                       (NN seguranÃ§a)
-                                       (ADJP 
-                                         (JJ natural)))
-                                     (CC e)
-                                     (NP 
-                                       (PRP nenhuma)
-                                       (NN pompa)))))
-                        (,)
-                        (VP (VBP parece))
-                        (NP (DT o)
-                               (NN regente)
-                               (ADJP (JJ por_excelÃªncia))
-                               (PP (IN de+)
-                                      (NP 
-                                        (PRP esse)
-                                        (PRP nosso)
-                                        (NN tempo)
-                                        (,)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (PP 
-                                            (RB ao_menos)
-                                            (IN em+)
-                                            (NP 
-                                              (DT a)
-                                              (NN mÃºsica)))
-                                          (VP 
-                                            (VBP Ã©))
-                                          (NP 
-                                            (DT um)
-                                            (NN tempo)
-                                            (PP 
-                                              (IN de)
-                                              (_CU_ 
-                                                (NP 
-                                                  (NN refinamento))
-                                                (CC e)
-                                                (NP 
-                                                  (NN inteligÃªncia))
-                                                (,)
-                                                (IN alÃ©m_de)
-                                                (NP 
-                                                  (NN comunicaÃ§Ã£o)))))))))
-                        (.)))
+(S 
+  (VP 
+    Mas    (NP 
+      (NNP Michael_Tilson_Thomas)
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG regendo)
+      )
+      (NP 
+        (PRP tudo)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (NP 
+            (DT uma)
+            (NN segurança)
+            (ADJP 
+              (JJ natural)
+            )
+          )
+          e          (NP 
+            (PRP nenhuma)
+            (NN pompa)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP parece)
+    )
+    (NP 
+      (DT o)
+      (NN regente)
+      (ADJP 
+        (JJ por_excelência)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (PRP esse)
+          (PRP nosso)
+          (NN tempo)
+          (,)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (PP 
+              (RB ao_menos)
+              (IN em+)
+              (NP 
+                (DT a)
+                (NN música)
+              )
+            )
+            (VP 
+              (VBP é)
+            )
+            (NP 
+              (DT um)
+              (NN tempo)
+              (PP 
+                (IN de)
+                (UCP 
+                  (NP 
+                    (NN refinamento)
+                  )
+                  e                  (NP 
+                    (NN inteligência)
+                  )
+                  (,)
+                  (IN além_de)
+                  (NP 
+                    (NN comunicação)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

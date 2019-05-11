@@ -1,16 +1,32 @@
-(S (VP (--)
-                        (VP (VBP interroga))
-                        (NP (DT a)
-                                 (NN divis√£o)
-                                 (PP (IN de)
-                                        (_CU_ 
-                                          (NP 
-                                            (NN estudos))
-                                          (CC e)
-                                          (NP 
-                                            (NN planeamento))))
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP Direc√ß√£o_Geral_dos_Servi√ßos_Prisionais))))
-                        (.)))
+(S 
+  (VP 
+    (--)
+    (VP 
+      (VBP interroga)
+    )
+    (NP 
+      (DT a)
+      (NN divis„o)
+      (PP 
+        (IN de)
+        (NP 
+          (NP 
+            (NN estudos)
+          )
+          (CC e)
+          (NP 
+            (NN planeamento)
+          )
+        )
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP DirecÁ„o_Geral_dos_ServiÁos_Prisionais)
+        )
+      )
+    )
+    (.)
+  )
+)

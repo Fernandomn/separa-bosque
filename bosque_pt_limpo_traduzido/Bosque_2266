@@ -1,44 +1,73 @@
-(S (VP (ADVP (RB Depois))
-                        (,)
-                        (PP (IN em+)
-                                 (NP (DT um)
-                                        (NN cÃºmulo)
-                                        (PP 
-                                          (IN de)
-                                          (_CU_ 
-                                            (NP 
-                                              (NN mÃºsica))
-                                            (CC e)
-                                            (NP 
-                                              (NN emoÃ§Ã£o))))))
-                        (,)
-                        (VP (VBP cantou-))
-                        (NP (PRP se))
-                        (NP (Â«)
-                                (NNP Peace_Mission)
-                                (Â»)
-                                (,)
-                                (NP 
-                                  (DT o)
-                                  (NN hino)
-                                  (VP 
-                                    (_CU_ 
-                                      (VBN composto)
-                                      (CC e)
-                                      (VBN ensaiado))
-                                    (PP 
-                                      (IN para)
-                                      (NP 
-                                        (DT o)
-                                        (NN primeiro)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (CD dois)
-                                            (NN dias)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN festa))))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Depois)
+    )
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT um)
+        (NN cúmulo)
+        (PP 
+          (IN de)
+          (NP 
+            (NP 
+              (NN música)
+            )
+            (CC e)
+            (NP 
+              (NN emoção)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP cantou-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (NP 
+      («)
+      (NNP Peace_Mission)
+      (»)
+      (,)
+      (NP 
+        (DT o)
+        (NN hino)
+        (VP 
+          (VBN 
+            (VBN composto)
+            (CC e)
+            (VBN ensaiado)
+          )
+          (PP 
+            (IN para)
+            (NP 
+              (DT o)
+              (NN primeiro)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (CD dois)
+                  (NN dias)
+                  (PP 
+                    (IN de)
+                    (NP 
+                      (NN festa)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

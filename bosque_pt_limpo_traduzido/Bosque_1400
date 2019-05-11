@@ -1,12 +1,27 @@
-(S (VP (VP (VBP Pense-))
-                        (NP (PRP se))
-                        (PP (IN em)
-                                (_CU_ (NP 
-                                         (NNP Kingsley_Amis))
-                                       (,)
-                                       (NP 
-                                         (NNP Malcolm_Bradbury))
-                                       (CC e)
-                                       (NP 
-                                         (NNP Albert_Finney))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VBP Pense-)
+    )
+    (NP 
+      (PRP se)
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NP 
+          (NNP Kingsley_Amis)
+        )
+        (,)
+        (NP 
+          (NNP Malcolm_Bradbury)
+        )
+        (CC e)
+        (NP 
+          (NNP Albert_Finney)
+        )
+      )
+    )
+    (.)
+  )
+)

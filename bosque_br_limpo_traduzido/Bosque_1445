@@ -1,38 +1,61 @@
-(S (VP (ADVP (RB Entretanto))
-                        (,)
-                        (VP (VBP disse))
-                        (VP (ADVP 
-                                   (RB nÃ£o))
-                                 (VP (VB saber))
-                                 (_CU_ 
-                                   (VP 
-                                     (Â«)
-                                     (IN que)
-                                     (NP 
-                                       (NN perdas))
-                                     (VP 
-                                       (VBP sÃ£o))
-                                     (NP 
-                                       (PRP essas))
-                                     (Â»))
-                                   (,)
-                                   (CC e)
-                                   (VP 
-                                     (IN que)
-                                     (Â«)
-                                     (ADVP 
-                                       (IN atÃ©)
-                                       (RB agora))
-                                     (NP 
-                                       (PRP todo)
-                                       (NN mundo))
-                                     (VP 
-                                       (VBP estÃ¡)
-                                       (VBG ganhando))
-                                     (PP 
-                                       (IN com)
-                                       (NP 
-                                         (DT a)
-                                         (NN URV)))
-                                     (Â»))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Entretanto)
+    )
+    (,)
+    (VP 
+      (VBP disse)
+    )
+    (VP 
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VB saber)
+      )
+      (VP 
+        (VP 
+          («)
+          (IN que)
+          (NP 
+            (NN perdas)
+          )
+          (VP 
+            (VBP são)
+          )
+          (NP 
+            (PRP essas)
+          )
+          (»)
+        )
+        (,)
+        e        (VP 
+          (IN que)
+          («)
+          (ADVP 
+            (IN até)
+            (RB agora)
+          )
+          (NP 
+            (PRP todo)
+            (NN mundo)
+          )
+          (VP 
+            (VBP está)
+            (VBG ganhando)
+          )
+          (PP 
+            (IN com)
+            (NP 
+              (DT a)
+              (NN URV)
+            )
+          )
+          (»)
+        )
+      )
+    )
+    (.)
+  )
+)

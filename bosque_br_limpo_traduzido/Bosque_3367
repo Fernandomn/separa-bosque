@@ -1,38 +1,67 @@
-(S (VP (NP (DT O)
-                                 (NN presidente)
-                                 (NP (NNP Bill_Clinton)))
-                        (VP (VBP passou))
-                        (PP (IN a)
-                               (NP (JJ maior)
-                                      (NN parte)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN dia)
-                                          (PP 
-                                            (IN de)
-                                            (RB ontem))))))
-                        (PP (IN em)
-                                 (NP (NN reuni√µes)
-                                        (PP 
-                                          (IN com)
-                                          (NP 
-                                            (PRP seus)
-                                            (NN assessores)
-                                            (_CU_ 
-                                              (ADJP 
-                                                (JJ militares))
-                                              (CC e)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN seguran√ßa)
-                                                  (ADJP 
-                                                    (JJ nacional)))))))
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT a)
-                                            (NNP Casa_Branca)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN presidente)
+      (NP 
+        (NNP Bill_Clinton)
+      )
+    )
+    (VP 
+      (VBP passou)
+    )
+    (PP 
+      (IN a)
+      (NP 
+        (JJ maior)
+        (NN parte)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN dia)
+            (PP 
+              (IN de)
+              (RB ontem)
+            )
+          )
+        )
+      )
+    )
+    (PP 
+      (IN em)
+      (NP 
+        (NN reuniıes)
+        (PP 
+          (IN com)
+          (NP 
+            (PRP seus)
+            (NN assessores)
+            (UCP 
+              (ADJP 
+                (JJ militares)
+              )
+              e              (PP 
+                (IN de)
+                (NP 
+                  (NN seguranÁa)
+                  (ADJP 
+                    (JJ nacional)
+                  )
+                )
+              )
+            )
+          )
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT a)
+            (NNP Casa_Branca)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

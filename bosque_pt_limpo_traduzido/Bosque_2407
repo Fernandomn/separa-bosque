@@ -1,73 +1,120 @@
-(S (VP (PP (RB Ainda)
-                                 (IN quanto_a)
-                                 (NP (NN alteraÃ§Ãµes)
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT a)
-                                            (NNP Liga_de_Clubes)))))
-                        (,)
-                        (NP (DT a)
-                                 (NN direcÃ§Ã£o))
-                        (VP (VBP serÃ¡)
-                              (VBN reduzida))
-                        (_CU_ (PP 
-                                   (IN de)
-                                   (ADJP 
-                                     (CD quatro)))
-                                 (PP 
-                                   (IN para)
-                                   (NP 
-                                     (CD trÃªs)
-                                     (NN membros))))
-                        (,)
-                        (VP 
-                          (VP (VBG passando))
-                          (ADVP (RB apenas))
-                          (VP (IN a)
-                                 (VB haver))
-                          (_CU_ (NP 
-                                    (DT um)
-                                    (NN presidente)
-                                    ({)
-                                    (VP 
-                                      (VP 
-                                        (VBN eleito))
-                                      (PP 
-                                        (IN em)
-                                        (NP 
-                                          (NNP AG))))
-                                    (}))
-                                  (,)
-                                  (NP 
-                                    (DT um)
-                                    (NN director-executivo))
-                                  (CC e)
-                                  (NP 
-                                    (PRP outro)
-                                    (NN elemento)
-                                    (VP 
-                                      (VP 
-                                        (VBN eleito))
-                                      (PP 
-                                        (IN por+)
-                                        (NP 
-                                          (DT a)
-                                          (NN direcÃ§Ã£o)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP Liga)
-                                              (,)
-                                              (VP 
-                                                (ADVP 
-                                                  (RB onde))
-                                                (VP 
-                                                  (VBP tÃªm))
-                                                (NP 
-                                                  (NN assento))
-                                                (NP 
-                                                  (CD onze)
-                                                  (NN clubes)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (RB Ainda)
+      (IN quanto_a)
+      (NP 
+        (NN alterações)
+        (PP 
+          (IN em+)
+          (NP 
+            (DT a)
+            (NNP Liga_de_Clubes)
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NN direcção)
+    )
+    (VP 
+      (VBP será)
+      (VBN reduzida)
+    )
+    (PP 
+      (PP 
+        (IN de)
+        (ADJP 
+          (CD quatro)
+        )
+      )
+      (PP 
+        (IN para)
+        (NP 
+          (CD três)
+          (NN membros)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG passando)
+      )
+      (ADVP 
+        (RB apenas)
+      )
+      (VP 
+        (IN a)
+        (VB haver)
+      )
+      (NP 
+        (NP 
+          (DT um)
+          (NN presidente)
+          ({)
+          (VP 
+            (VP 
+              (VBN eleito)
+            )
+            (PP 
+              (IN em)
+              (NP 
+                (NNP AG)
+              )
+            )
+          )
+          (})
+        )
+        (,)
+        (NP 
+          (DT um)
+          (NN director-executivo)
+        )
+        (CC e)
+        (NP 
+          (PRP outro)
+          (NN elemento)
+          (VP 
+            (VP 
+              (VBN eleito)
+            )
+            (PP 
+              (IN por+)
+              (NP 
+                (DT a)
+                (NN direcção)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NNP Liga)
+                    (,)
+                    (VP 
+                      (ADVP 
+                        (RB onde)
+                      )
+                      (VP 
+                        (VBP têm)
+                      )
+                      (NP 
+                        (NN assento)
+                      )
+                      (NP 
+                        (CD onze)
+                        (NN clubes)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

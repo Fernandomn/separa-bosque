@@ -1,43 +1,73 @@
-(S (VP (NP (DT Os)
-                                 (NN produtos)
-                                 (VBN fabricados))
-                        (VP (VBP sÃ£o))
-                        (,)
-                        (ADVP (RB fundamentalmente))
-                        (,)
-                        (_CU_ (NP (DT o)
-                                       (NN papel)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN cÃ³pia))))
-                               (,)
-                               (NP (DT o)
-                                       (NN papel)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN impressÃ£o)
-                                           (Â«)
-                                           (NP 
-                                             (NN offset))
-                                           (Â»))))
-                               (CC e)
-                               (NP (DT os)
-                                       (NN papÃ©is)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN computador)))
-                                       (VP 
-                                         (NP 
-                                           (PRP que))
-                                         (VP 
-                                           (VBP representam))
-                                         (NP 
-                                           (DT os)
-                                           (NN mercados)
-                                           (ADJP 
-                                             (RB mais)
-                                             (JJ promissores))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      (NN produtos)
+      (VBN fabricados)
+    )
+    (VP 
+      (VBP são)
+    )
+    (,)
+    (ADVP 
+      (RB fundamentalmente)
+    )
+    (,)
+    (NP 
+      (NP 
+        (DT o)
+        (NN papel)
+        (PP 
+          (IN de)
+          (NP 
+            (NN cópia)
+          )
+        )
+      )
+      (,)
+      (NP 
+        (DT o)
+        (NN papel)
+        (PP 
+          (IN de)
+          (NP 
+            (NN impressão)
+            («)
+            (NP 
+              (NN offset)
+            )
+            (»)
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (DT os)
+        (NN papéis)
+        (PP 
+          (IN de)
+          (NP 
+            (NN computador)
+          )
+        )
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP representam)
+          )
+          (NP 
+            (DT os)
+            (NN mercados)
+            (ADJP 
+              (RB mais)
+              (JJ promissores)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

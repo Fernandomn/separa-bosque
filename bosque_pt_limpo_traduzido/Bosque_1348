@@ -1,19 +1,36 @@
-(S (VP (CC Mas)
-                        (ADVP (RB ontem))
-                        (,)
-                        (_CU_ (NP 
-                                   (NNP Catherine_Deneuve))
-                                 (CC e)
-                                 (NP 
-                                   (NNP John_Malkovich)))
-                        (VP (VBP foram))
-                        (,)
-                        (PP de_facto)
-                        (,)
-                        (NP (PRP as)
-                               (NN atracÃ§Ãµes)
-                               (PP (IN de+)
-                                      (NP 
-                                        (PRP a)
-                                        (NN imprensa))))
-                        (.)))
+(S 
+  (VP 
+    (CC Mas)
+    (ADVP 
+      (RB ontem)
+    )
+    (,)
+    (NP 
+      (NP 
+        (NNP Catherine_Deneuve)
+      )
+      (CC e)
+      (NP 
+        (NNP John_Malkovich)
+      )
+    )
+    (VP 
+      (VBP foram)
+    )
+    (,)
+    (PP de_facto)
+    (,)
+    (NP 
+      (PRP as)
+      (NN atracções)
+      (PP 
+        (IN de+)
+        (NP 
+          (PRP a)
+          (NN imprensa)
+        )
+      )
+    )
+    (.)
+  )
+)

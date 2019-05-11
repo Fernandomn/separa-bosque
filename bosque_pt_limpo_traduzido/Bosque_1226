@@ -1,60 +1,95 @@
-(S (VP (PP Por_outro_lado)
-                        (,)
-                        (NP (DT os)
-                                 (NN defesas-centrais)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP Celtic)))
-                                 (,)
-                                 (_CU_ 
-                                   (NP 
-                                     (NNP Mowbray))
-                                   (CC e)
-                                   (NP 
-                                     (NNP Grant)))
-                                 (,)
-                                 (VP 
-                                   (ADVP 
-                                     (RB sempre))
-                                   (VP 
-                                     (VBN coadjuvados))
-                                   (PP 
-                                     (IN por)
-                                     (NP 
-                                       (NNP McGinlay))))
-                                 (,))
-                        (VP (VBP chegaram))
-                        (PP (IN para)
-                                 (VP 
-                                   (VP 
-                                     (VB reduzir))
-                                   (PP 
-                                     (IN a)
-                                     (RB pouco))
-                                   (NP 
-                                     (DT o)
-                                     (NN ataque)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NNP Rangers)))
-                                     (,)
-                                     (VP 
-                                       (ADVP 
-                                         (RB onde))
-                                       (NP 
-                                         (NNP Hateley))
-                                       (ADVP 
-                                         (RB n√£o))
-                                       (VP 
-                                         (VBP dispunha))
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NN apoio)
-                                           (ADJP 
-                                             (JJ habitual))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP Por_outro_lado)
+    (,)
+    (NP 
+      (DT os)
+      (NN defesas-centrais)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NNP Celtic)
+        )
+      )
+      (,)
+      (NP 
+        (NP 
+          (NNP Mowbray)
+        )
+        (CC e)
+        (NP 
+          (NNP Grant)
+        )
+      )
+      (,)
+      (VP 
+        (ADVP 
+          (RB sempre)
+        )
+        (VP 
+          (VBN coadjuvados)
+        )
+        (PP 
+          (IN por)
+          (NP 
+            (NNP McGinlay)
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP chegaram)
+    )
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VB reduzir)
+        )
+        (PP 
+          (IN a)
+          (RB pouco)
+        )
+        (NP 
+          (DT o)
+          (NN ataque)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Rangers)
+            )
+          )
+          (,)
+          (VP 
+            (ADVP 
+              (RB onde)
+            )
+            (NP 
+              (NNP Hateley)
+            )
+            (ADVP 
+              (RB n„o)
+            )
+            (VP 
+              (VBP dispunha)
+            )
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN apoio)
+                (ADJP 
+                  (JJ habitual)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

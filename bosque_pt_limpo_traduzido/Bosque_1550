@@ -1,32 +1,58 @@
-(S (_CU_ (ADVP (RB P.S.))
-                       (--)
-                       (VP (_CU_ 
-                                  (Â«)
-                                  (NP 
-                                    (NNP PROJECTO_DE_DIPLOMA))
-                                  (Â»)
-                                  (CC e)
-                                  (Â«)
-                                  (NP 
-                                    (NN Portaria))
-                                  (Â»))
-                                (VP (VBP vÃªm))
-                                (PP (IN em)
-                                       (NP 
-                                         (NN maiÃºsculas)))
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (DT o)
-                                    (NN texto))))
-                       (,)
-                       (CC mas)
-                       (VP (Â«)
-                                (NP 
-                                  (NN escola))
-                                (Â»)
-                                (VP (VBP vem))
-                                (PP (IN em)
-                                       (NP 
-                                         (NN minÃºsculas))))
-                       (!)))
+(S 
+  (UCP 
+    (ADVP 
+      (RB P.S.)
+    )
+    (--)
+    (VP 
+      (UCP 
+        («)
+        (NP 
+          (NNP PROJECTO_DE_DIPLOMA)
+        )
+        (»)
+        (CC e)
+        («)
+        (NP 
+          (NN Portaria)
+        )
+        (»)
+      )
+      (VP 
+        (VBP vêm)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NN maiúsculas)
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN texto)
+        )
+      )
+    )
+    (,)
+    (CC mas)
+    (VP 
+      («)
+      (NP 
+        (NN escola)
+      )
+      (»)
+      (VP 
+        (VBP vem)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NN minúsculas)
+        )
+      )
+    )
+    (!)
+  )
+)

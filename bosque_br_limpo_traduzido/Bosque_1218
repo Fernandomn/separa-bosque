@@ -1,48 +1,82 @@
-(S (VP (PP (IN Para)
-                                 (VP 
-                                   (NP 
-                                     (PRP se))
-                                   (VP 
-                                     (VB ter))
-                                   (NP 
-                                     (DT uma)
-                                     (NN id√©ia)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NN import√¢ncia)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT a)
-                                             (NNP InterNet))))))))
-                        (,)
-                        (NP (DT a)
-                                 (NNP Casa_Branca))
-                        (VP (VBP est√°))
-                        (VP (VP (VBN conectada))
-                                (PP (IN a)
-                                        (NP 
-                                          (PRP essa)
-                                          (NN rede)))
-                                (,)
-                                (VP 
-                                  (VP (VBG disponibilizando))
-                                  (_CU_ 
-                                    (NP 
-                                      (NN publica√ß√µes))
-                                    (CC e)
-                                    (NP 
-                                      (NN documentos)))
-                                  (PP 
-                                    (IN para)
-                                    (NP 
-                                      (PRP qualquer)
-                                      (NN pessoa)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN mundo)))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Para)
+      (VP 
+        (NP 
+          (PRP se)
+        )
+        (VP 
+          (VB ter)
+        )
+        (NP 
+          (DT uma)
+          (NN idÈia)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN import‚ncia)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NNP InterNet)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NNP Casa_Branca)
+    )
+    (VP 
+      (VBP est·)
+    )
+    (VP 
+      (VP 
+        (VBN conectada)
+      )
+      (PP 
+        (IN a)
+        (NP 
+          (PRP essa)
+          (NN rede)
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBG disponibilizando)
+        )
+        (NP 
+          (NP 
+            (NN publicaÁıes)
+          )
+          e          (NP 
+            (NN documentos)
+          )
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (PRP qualquer)
+            (NN pessoa)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN mundo)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

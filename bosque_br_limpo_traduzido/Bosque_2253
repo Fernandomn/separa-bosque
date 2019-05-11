@@ -1,45 +1,76 @@
-(S (VP (ADVP (RB Desta_feita))
-                        (,)
-                        (ADVP (RB por√©m))
-                        (,)
-                        (ADVP (RB n√£o))
-                        (VP (VBP foi))
-                        (NP (_CU_ (NP 
-                                       (DT uma)
-                                       (NN aventura)
-                                       (ADJP 
-                                         (JJ castrista)))
-                                     (CC ou)
-                                     (NP 
-                                       (DT uma)
-                                       (NN injun√ß√£o)
-                                       (ADJP 
-                                         (JJ pol√≠tica))
-                                       (NP 
-                                         (PRP qualquer))))
-                               (VP (NP 
-                                         (PRP que))
-                                       (VP 
-                                         (VBP levou))
-                                       (NP 
-                                         (DT o)
-                                         (NN governo)
-                                         (ADJP 
-                                           (JJ venezuelano)))
-                                       (PP 
-                                         (IN a)
-                                         (NP 
-                                           (PRP este)
-                                           (NN ato)
-                                           (ADJP 
-                                             (JJ extremo))))
-                                       (,)
-                                       (CC mas)
-                                       (ADVP 
-                                         (RB sim))
-                                       (NP 
-                                         (DT a)
-                                         (NN conjuntura)
-                                         (ADJP 
-                                           (JJ econ√¥mica)))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Desta_feita)
+    )
+    (,)
+    (ADVP 
+      (RB porÈm)
+    )
+    (,)
+    (ADVP 
+      (RB n„o)
+    )
+    (VP 
+      (VBP foi)
+    )
+    (NP 
+      (NP 
+        (NP 
+          (DT uma)
+          (NN aventura)
+          (ADJP 
+            (JJ castrista)
+          )
+        )
+        ou        (NP 
+          (DT uma)
+          (NN injunÁ„o)
+          (ADJP 
+            (JJ polÌtica)
+          )
+          (NP 
+            (PRP qualquer)
+          )
+        )
+      )
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP levou)
+        )
+        (NP 
+          (DT o)
+          (NN governo)
+          (ADJP 
+            (JJ venezuelano)
+          )
+        )
+        (PP 
+          (IN a)
+          (NP 
+            (PRP este)
+            (NN ato)
+            (ADJP 
+              (JJ extremo)
+            )
+          )
+        )
+        (,)
+        mas        (ADVP 
+          (RB sim)
+        )
+        (NP 
+          (DT a)
+          (NN conjuntura)
+          (ADJP 
+            (JJ econÙmica)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

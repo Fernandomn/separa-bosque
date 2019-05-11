@@ -1,44 +1,73 @@
-(S (VP (NP (DT O)
-                                 (NN financiamento)
-                                 (ADJP 
-                                   (JJ pÃºblico)))
-                        (VP (VBP seria)
-                              (VBN baseado))
-                        (_CU_ (PP (IN em)
-                                        (NP 
-                                          (NN fundos)
-                                          (ADJP 
-                                            (JJ sociais))
-                                          ({)
-                                          (NP 
-                                            (NNP FGTS))
-                                          (,)
-                                          (NP 
-                                            (NNP FAT))
-                                          (})))
-                                (,)
-                                (PP (IN em+)
-                                        (NP 
-                                          (DT a)
-                                          (NN atraÃ§Ã£o)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN recursos)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN pensÃ£o)))))))
-                                (CC e)
-                                (PP (IN em+)
-                                        (NP 
-                                          (DT as)
-                                          (NN parcerias)
-                                          (PP 
-                                            (IN com)
-                                            (NP 
-                                              (DT a)
-                                              (NN iniciativa)
-                                              (ADJP 
-                                                (JJ privada)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN financiamento)
+      (ADJP 
+        (JJ público)
+      )
+    )
+    (VP 
+      (VBP seria)
+      (VBN baseado)
+    )
+    (PP 
+      (PP 
+        (IN em)
+        (NP 
+          (NN fundos)
+          (ADJP 
+            (JJ sociais)
+          )
+          ({)
+          (NP 
+            (NNP FGTS)
+          )
+          (,)
+          (NP 
+            (NNP FAT)
+          )
+          (})
+        )
+      )
+      (,)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NN atração)
+          (PP 
+            (IN de)
+            (NP 
+              (NN recursos)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN pensão)
+                )
+              )
+            )
+          )
+        )
+      )
+      e      (PP 
+        (IN em+)
+        (NP 
+          (DT as)
+          (NN parcerias)
+          (PP 
+            (IN com)
+            (NP 
+              (DT a)
+              (NN iniciativa)
+              (ADJP 
+                (JJ privada)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

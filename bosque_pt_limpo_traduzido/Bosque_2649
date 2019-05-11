@@ -1,21 +1,41 @@
-(S (NP (_CU_ (NP (DT O)
-                                     (_CU_ 
-                                       (NP 
-                                         (NNP NigÃ©ria))
-                                       (-)
-                                       (NP 
-                                         (NNP Espanha))))
-                             (CC e)
-                             (NP (DT o)
-                                     (_CU_ 
-                                       (NP 
-                                         (NNP Inglaterra))
-                                       (-)
-                                       (NP 
-                                         (NNP RomÃ©nia)))))
-                       (,)
-                       (PP (IN de+)
-                              (NP (DT a)
-                                     (JJ primeira)
-                                     (NN fase)))
-                       (?)))
+(S 
+  (NP 
+    (NP 
+      (NP 
+        (DT O)
+        (UCP 
+          (NP 
+            (NNP Nigéria)
+          )
+          (-)
+          (NP 
+            (NNP Espanha)
+          )
+        )
+      )
+      (CC e)
+      (NP 
+        (DT o)
+        (UCP 
+          (NP 
+            (NNP Inglaterra)
+          )
+          (-)
+          (NP 
+            (NNP Roménia)
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN de+)
+      (NP 
+        (DT a)
+        (JJ primeira)
+        (NN fase)
+      )
+    )
+    (?)
+  )
+)

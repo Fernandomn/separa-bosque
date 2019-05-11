@@ -1,133 +1,206 @@
-(S (_CU_ (VP (NP 
-                                  (DT A)
-                                  (NN defesa)
-                                  (PP 
-                                    (IN de+)
-                                    (NP 
-                                      (PRP esta)
-                                      (NN estratÃ©gia)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (Â«)
-                                          (NN guerra)
-                                          (ADJP 
-                                            (JJ total))
-                                          (Â»)
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT o)
-                                              (NN plenÃ¡rio)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT as)
-                                                  (NNP NaÃ§Ãµes_Unidas))))))))))
-                                (ADVP 
-                                  (RB nÃ£o))
-                                (VP (VBP assenta))
-                                (ADVP 
-                                  (RB exclusivamente))
-                                (PP (IN em+)
-                                        (NP 
-                                          (DT o)
-                                          (NN impulso)
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (NP 
-                                              (DT a)
-                                              (NN questÃ£o)
-                                              (ADJP 
-                                                (JJ timorense)))
-                                            (VP 
-                                              (VBP ganhou))
-                                            (PP 
-                                              (IN com)
-                                              (NP 
-                                                (DT a)
-                                                (NN atribuiÃ§Ã£o)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NNP Nobel)))
-                                                (_CU_ 
-                                                  (PP 
-                                                    (IN a)
-                                                    (NP 
-                                                      (NNP Horta)))
-                                                  (CC e)
-                                                  (PP 
-                                                    (IN a)
-                                                    (NP 
-                                                      (NNP Belo)))))))))
-                                (--)
-                                (VP 
-                                  (NP 
-                                    (NNP Ramos_Horta))
-                                  (ADVP 
-                                    (RB jÃ¡))
-                                  (VP (VBP tinha)
-                                        (VBN sugerido))
-                                  (NP 
-                                    (PRP esse)
-                                    (NN passo))
-                                  (PP 
-                                    (IN em+)
-                                    (NP 
-                                      (DT um)
-                                      (NN memorando)
-                                      (VP 
-                                        (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP fez))
-                                        (VP 
-                                          (VP 
-                                            (VB chegar))
-                                          (PP 
-                                            (IN a+)
-                                            (NP 
-                                              (DT o)
-                                              (NNP PalÃ¡cio_das_Necessidades)))
-                                          (NP 
-                                            (NN meses)
-                                            (ADVP 
-                                              (RB antes)
-                                              (PP 
-                                                (IN de)
-                                                (VP 
-                                                  (NP 
-                                                    (PRP se))
-                                                  (VP 
-                                                    (VB conhecer))
-                                                  (NP 
-                                                    (DT a)
-                                                    (NN escolha)
-                                                    (PP 
-                                                      (IN de)
-                                                      (NP 
-                                                        (NNP Oslo)))))))))))))
-                                (--))
-                       (,)
-                       (CC mas)
-                       (VP (NP 
-                                  (DT o)
-                                  (NN certo))
-                                (VP (VBP Ã©))
-                                (VP (IN que)
-                                        (NP 
-                                          (DT o)
-                                          (NNP Nobel_da_Paz)
-                                          (ADJP 
-                                            (JJ timorense)))
-                                        (VP 
-                                          (VBP constitui))
-                                        (NP 
-                                          (DT um)
-                                          (NN reforÃ§o)
-                                          (ADJP 
-                                            (JJ importante)))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT A)
+        (NN defesa)
+        (PP 
+          (IN de+)
+          (NP 
+            (PRP esta)
+            (NN estratégia)
+            (PP 
+              (IN de)
+              (NP 
+                («)
+                (NN guerra)
+                (ADJP 
+                  (JJ total)
+                )
+                (»)
+                (PP 
+                  (IN em+)
+                  (NP 
+                    (DT o)
+                    (NN plenário)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT as)
+                        (NNP Nações_Unidas)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (ADVP 
+        (RB não)
+      )
+      (VP 
+        (VBP assenta)
+      )
+      (ADVP 
+        (RB exclusivamente)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN impulso)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (NP 
+              (DT a)
+              (NN questão)
+              (ADJP 
+                (JJ timorense)
+              )
+            )
+            (VP 
+              (VBP ganhou)
+            )
+            (PP 
+              (IN com)
+              (NP 
+                (DT a)
+                (NN atribuição)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NNP Nobel)
+                  )
+                )
+                (PP 
+                  (PP 
+                    (IN a)
+                    (NP 
+                      (NNP Horta)
+                    )
+                  )
+                  (CC e)
+                  (PP 
+                    (IN a)
+                    (NP 
+                      (NNP Belo)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (--)
+      (VP 
+        (NP 
+          (NNP Ramos_Horta)
+        )
+        (ADVP 
+          (RB já)
+        )
+        (VP 
+          (VBP tinha)
+          (VBN sugerido)
+        )
+        (NP 
+          (PRP esse)
+          (NN passo)
+        )
+        (PP 
+          (IN em+)
+          (NP 
+            (DT um)
+            (NN memorando)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP fez)
+              )
+              (VP 
+                (VP 
+                  (VB chegar)
+                )
+                (PP 
+                  (IN a+)
+                  (NP 
+                    (DT o)
+                    (NNP Palácio_das_Necessidades)
+                  )
+                )
+                (NP 
+                  (NN meses)
+                  (ADVP 
+                    (RB antes)
+                    (PP 
+                      (IN de)
+                      (VP 
+                        (NP 
+                          (PRP se)
+                        )
+                        (VP 
+                          (VB conhecer)
+                        )
+                        (NP 
+                          (DT a)
+                          (NN escolha)
+                          (PP 
+                            (IN de)
+                            (NP 
+                              (NNP Oslo)
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (--)
+    )
+    (,)
+    (CC mas)
+    (VP 
+      (NP 
+        (DT o)
+        (NN certo)
+      )
+      (VP 
+        (VBP é)
+      )
+      (VP 
+        (IN que)
+        (NP 
+          (DT o)
+          (NNP Nobel_da_Paz)
+          (ADJP 
+            (JJ timorense)
+          )
+        )
+        (VP 
+          (VBP constitui)
+        )
+        (NP 
+          (DT um)
+          (NN reforço)
+          (ADJP 
+            (JJ importante)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

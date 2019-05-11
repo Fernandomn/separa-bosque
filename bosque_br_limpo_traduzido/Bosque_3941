@@ -1,45 +1,76 @@
-(S (VP (_CU_ (PP 
-                                   (IN Em+)
-                                   (NP 
-                                     (PRP isto)))
-                                 (PP 
-                                   (RB tambÃ©m)
-                                   (IN em+)
-                                   (NP 
-                                     (DT a)
-                                     (_CU_ 
-                                       (NP 
-                                         (NN resistÃªncia))
-                                       (CC e)
-                                       (NP 
-                                         (NN repetiÃ§Ã£o)))
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NNP Beethoven))))))
-                        (NP (NNP Liszt))
-                        (VP (VBP Ã©))
-                        (NP (DT um)
-                               (NN foco)
-                               (ADJP (JJ importante))
-                               (,)
-                               (PP 
-                                 (IN com)
-                                 (NP (NN reflexos)
-                                        (PP 
-                                          (IN em+)
-                                          (NP 
-                                            (DT a)
-                                            (NN obra)
-                                            (PP 
-                                              (IN de)
-                                              (_CU_ 
-                                                (NP 
-                                                  (NNP Tchaikovsky))
-                                                (,)
-                                                (NP 
-                                                  (NNP Scriabin))
-                                                (CC e)
-                                                (NP 
-                                                  (NNP Strauss)))))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (PP 
+        (IN Em+)
+        (NP 
+          (PRP isto)
+        )
+      )
+      (PP 
+        (RB também)
+        (IN em+)
+        (NP 
+          (DT a)
+          (NP 
+            (NP 
+              (NN resistência)
+            )
+            e            (NP 
+              (NN repetição)
+            )
+          )
+          (PP 
+            (IN de)
+            (NP 
+              (NNP Beethoven)
+            )
+          )
+        )
+      )
+    )
+    (NP 
+      (NNP Liszt)
+    )
+    (VP 
+      (VBP é)
+    )
+    (NP 
+      (DT um)
+      (NN foco)
+      (ADJP 
+        (JJ importante)
+      )
+      (,)
+      (PP 
+        (IN com)
+        (NP 
+          (NN reflexos)
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NN obra)
+              (PP 
+                (IN de)
+                (NP 
+                  (NP 
+                    (NNP Tchaikovsky)
+                  )
+                  (,)
+                  (NP 
+                    (NNP Scriabin)
+                  )
+                  e                  (NP 
+                    (NNP Strauss)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

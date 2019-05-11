@@ -1,31 +1,53 @@
-(S (VP (ADJP (JJ Maior)
-                                   (ADVP 
-                                     (IN que)
-                                     (NP 
-                                       (DT o)
-                                       (PRP seu)
-                                       (NN antecessor)
-                                       (,)
-                                       (NP 
-                                         (DT o)
-                                         (NNP Y10))
-                                       (,))))
-                        (NP (DT o)
-                                 (NNP Y))
-                        (VP (VBP assume))
-                        (NP (NN formas)
-                                (_CU_ (ADJP 
-                                         (JJ tridimensionais))
-                                       (CC e)
-                                       (ADJP 
-                                         (JJ curvilÃ­neas)))
-                                (,)
-                                (_CU_ 
-                                  (ADJP 
-                                    (RB sempre)
-                                    (JJ exclusivas))
-                                  (CC e)
-                                  (ADJP 
-                                    (RB eternamente)
-                                    (JJ femininas))))
-                        (.)))
+(S 
+  (VP 
+    (ADJP 
+      (JJ Maior)
+      (ADVP 
+        (IN que)
+        (NP 
+          (DT o)
+          (PRP seu)
+          (NN antecessor)
+          (,)
+          (NP 
+            (DT o)
+            (NNP Y10)
+          )
+          (,)
+        )
+      )
+    )
+    (NP 
+      (DT o)
+      (NNP Y)
+    )
+    (VP 
+      (VBP assume)
+    )
+    (NP 
+      (NN formas)
+      (ADJP 
+        (ADJP 
+          (JJ tridimensionais)
+        )
+        (CC e)
+        (ADJP 
+          (JJ curvilíneas)
+        )
+      )
+      (,)
+      (ADJP 
+        (ADJP 
+          (RB sempre)
+          (JJ exclusivas)
+        )
+        (CC e)
+        (ADJP 
+          (RB eternamente)
+          (JJ femininas)
+        )
+      )
+    )
+    (.)
+  )
+)

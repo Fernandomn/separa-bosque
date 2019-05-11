@@ -1,29 +1,52 @@
-(S (NP (NP (NNP Folha))
-                       (--)
-                       (VP (NP (PRP o_que))
-                                (NP 
-                                  (PRP vocÃª))
-                                (VP (VBP acha))
-                                (PP (IN de+)
-                                        (NP 
-                                          (DT as)
-                                          (NN crÃ­ticas)
-                                          (VP 
-                                            (NP 
-                                              (PRP que))
-                                            (VP 
-                                              (VBP vem)
-                                              (VBG recebendo))
-                                            (_CU_ 
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN torcida)))
-                                              (CC e)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT a)
-                                                  (NN imprensa)))))))
-                                (?))))
+(S 
+  (NP 
+    (NP 
+      (NNP Folha)
+    )
+    (--)
+    (VP 
+      (NP 
+        (PRP o_que)
+      )
+      (NP 
+        (PRP você)
+      )
+      (VP 
+        (VBP acha)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (NN críticas)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP vem)
+              (VBG recebendo)
+            )
+            (PP 
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NN torcida)
+                )
+              )
+              e              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NN imprensa)
+                )
+              )
+            )
+          )
+        )
+      )
+      (?)
+    )
+  )
+)

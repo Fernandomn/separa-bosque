@@ -1,42 +1,73 @@
-(S (VP (_CU_ (VP 
-                                    (VP 
-                                      (VBG Vindo))
-                                    (PP 
-                                      (RB directamente)
-                                      (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NNP Algarve)))
-                                    (,)
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (NN aviÃ£o)))))
-                        (,)
-                        (VP (VBP chegou))
-                        (PP (IN a+)
-                               (NP (DT as)
-                                      (NN instalaÃ§Ãµes)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP Igreja)))))
-                        (PP (IN a+)
-                                 (NP (DT o)
-                                        (NN volante)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (DT um)
-                                            (NNP Mercedes)))))
-                        (_CU_ (CC e)
-                                  (VP 
-                                    (VP 
-                                      (VBG vestindo))
-                                    (NP 
-                                      (CD uma)
-                                      (Â«)
-                                      (NN t-shirt)
-                                      (Â»))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VP 
+          (VBG Vindo)
+        )
+        (PP 
+          (RB directamente)
+          (IN de+)
+          (NP 
+            (DT o)
+            (NNP Algarve)
+          )
+        )
+        (,)
+        (PP 
+          (IN de)
+          (NP 
+            (NN avião)
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP chegou)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT as)
+        (NN instalações)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP Igreja)
+          )
+        )
+      )
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT o)
+        (NN volante)
+        (PP 
+          (IN de)
+          (NP 
+            (DT um)
+            (NNP Mercedes)
+          )
+        )
+      )
+    )
+    (VP 
+      (CC e)
+      (VP 
+        (VP 
+          (VBG vestindo)
+        )
+        (NP 
+          (CD uma)
+          («)
+          (NN t-shirt)
+          (»)
+        )
+      )
+    )
+    (.)
+  )
+)

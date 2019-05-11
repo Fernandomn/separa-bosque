@@ -1,18 +1,35 @@
-(S (_CU_ (VP (NP 
-                                  (DT As)
-                                  (VBN chibatadas))
-                                (VP (VBP rompem))
-                                (NP (DT a)
-                                        (NN pele)))
-                       (CC e)
-                       (VP (NP 
-                                  (DT as)
-                                  (NN cicatrizes))
-                                (VP (VBP ficam))
-                                (PP 
-                                  (IN por)
-                                  (NP 
-                                    (PRP toda)
-                                    (DT a)
-                                    (NN vida))))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT As)
+        (VBN chibatadas)
+      )
+      (VP 
+        (VBP rompem)
+      )
+      (NP 
+        (DT a)
+        (NN pele)
+      )
+    )
+    e    (VP 
+      (NP 
+        (DT as)
+        (NN cicatrizes)
+      )
+      (VP 
+        (VBP ficam)
+      )
+      (PP 
+        (IN por)
+        (NP 
+          (PRP toda)
+          (DT a)
+          (NN vida)
+        )
+      )
+    )
+    (.)
+  )
+)

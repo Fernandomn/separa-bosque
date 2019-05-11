@@ -1,65 +1,100 @@
-(S (VP (CC Mas)
-                        (_CU_ (NP 
-                                   (DT o)
-                                   (NN abrandamento)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       (NN invers√£o)
-                                       (ADJP 
-                                         (JJ t√©rmica))
-                                       ({)
-                                       (NP 
-                                         (NN fen√¥meno)
-                                         (VP 
-                                           (VP 
-                                             (VBN causado))
-                                           (PP 
-                                             (IN por)
-                                             (NP 
-                                               (NN massas)
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (NN ar)
-                                                   (ADJP 
-                                                     (JJ quente))
-                                                   (VP 
-                                                     (NP 
-                                                       (PRP que))
-                                                     (VP 
-                                                       (VBP impedem))
-                                                     (NP 
-                                                       (DT a)
-                                                       (NN dispers√£o)
-                                                       (PP 
-                                                         (IN de+)
-                                                         (NP 
-                                                           (DT os)
-                                                           (NN poluentes)))))))))))
-                                       (}))))
-                                 (CC e)
-                                 (NP 
-                                   (DT a)
-                                   (NN volta)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT os)
-                                       (NN ventos)))))
-                        (VP (VBP dever√£o)
-                              (VB contribuir))
-                        (PP (IN para)
-                                (NP (NN melhora)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NN qualidade)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT o)
-                                               (NN ar)))))))
-                        (.)))
+(S 
+  (VP 
+    Mas    (NP 
+      (NP 
+        (DT o)
+        (NN abrandamento)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN invers„o)
+            (ADJP 
+              (JJ tÈrmica)
+            )
+            ({)
+            (NP 
+              (NN fenÙmeno)
+              (VP 
+                (VP 
+                  (VBN causado)
+                )
+                (PP 
+                  (IN por)
+                  (NP 
+                    (NN massas)
+                    (PP 
+                      (IN de)
+                      (NP 
+                        (NN ar)
+                        (ADJP 
+                          (JJ quente)
+                        )
+                        (VP 
+                          (NP 
+                            (PRP que)
+                          )
+                          (VP 
+                            (VBP impedem)
+                          )
+                          (NP 
+                            (DT a)
+                            (NN dispers„o)
+                            (PP 
+                              (IN de+)
+                              (NP 
+                                (DT os)
+                                (NN poluentes)
+                              )
+                            )
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+            (})
+          )
+        )
+      )
+      e      (NP 
+        (DT a)
+        (NN volta)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN ventos)
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP dever„o)
+      (VB contribuir)
+    )
+    (PP 
+      (IN para)
+      (NP 
+        (NN melhora)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN qualidade)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN ar)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

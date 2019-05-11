@@ -1,36 +1,66 @@
-(S (VP (_CU_ (PP (IN A+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP √çndia)))
-                                (CC e)
-                                (PP (IN a+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP Paquist√£o))))
-                        (VP (VBP √©)
-                              (VBN reconhecida))
-                        (NP (DT a)
-                                 (NN capacidade)
-                                 (_CU_ (PP 
-                                          (IN de)
-                                          (VP 
-                                            (_CU_ 
-                                              (VB fabricar)
-                                              (--)
-                                              (CC e))))
-                                        (PP 
-                                          (IN de))
-                                        (PP 
-                                          (VP 
-                                            (_CU_ 
-                                              (VP 
-                                                (ADVP 
-                                                  (RB j√°))
-                                                (VP 
-                                                  (VB possuir)))
-                                              (--))
-                                            (NP 
-                                              (NN armamento)
-                                              (ADJP 
-                                                (JJ nuclear)))))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (PP 
+        (IN A+)
+        (NP 
+          (DT a)
+          (NNP Õndia)
+        )
+      )
+      (CC e)
+      (PP 
+        (IN a+)
+        (NP 
+          (DT o)
+          (NNP Paquist„o)
+        )
+      )
+    )
+    (VP 
+      (VBP È)
+      (VBN reconhecida)
+    )
+    (NP 
+      (DT a)
+      (NN capacidade)
+      (PP 
+        (PP 
+          (IN de)
+          (VP 
+            (UCP 
+              (VB fabricar)
+              (--)
+              (CC e)
+            )
+          )
+        )
+        (PP 
+          (IN de)
+        )
+        (PP 
+          (VP 
+            (UCP 
+              (VP 
+                (ADVP 
+                  (RB j·)
+                )
+                (VP 
+                  (VB possuir)
+                )
+              )
+              (--)
+            )
+            (NP 
+              (NN armamento)
+              (ADJP 
+                (JJ nuclear)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

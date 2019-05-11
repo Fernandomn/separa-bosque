@@ -1,50 +1,80 @@
-(S (VP (CC Mas)
-                        (NP (DT o)
-                                 (NNP Itamaraty))
-                        (VP (VBP tem)
-                              (VBN vindo)
-                              (IN a)
-                              (VB sofrer))
-                        (_CU_ (NP (DT a)
-                                        (NN acÃ§Ã£o)
-                                        (ADJP 
-                                          (JJ corrosiva))
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (JJ Ãºltimos)
-                                            (NN governos)
-                                            (,)
-                                            (VP 
-                                              (NP 
-                                                (PRP que))
-                                              (NP 
-                                                (PRP lhe))
-                                              (VP 
-                                                (VBP impuseram))
-                                              (NP 
-                                                (NN ministros)
-                                                (PP 
-                                                  (IN sem)
-                                                  (NP 
-                                                    (NN preparaÃ§Ã£o))))))))
-                                (,)
-                                (PP (IN alÃ©m_de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN reduÃ§Ã£o)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (ADJP 
-                                                (RB mais_de)
-                                                (CD 50))
-                                              (NN por_cento)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (PRP seu)
-                                                  (NN orÃ§amento))))))))
-                        (.)))
+(S 
+  (VP 
+    (CC Mas)
+    (NP 
+      (DT o)
+      (NNP Itamaraty)
+    )
+    (VP 
+      (VBP tem)
+      (VBN vindo)
+      (IN a)
+      (VB sofrer)
+    )
+    (UCP 
+      (NP 
+        (DT a)
+        (NN acção)
+        (ADJP 
+          (JJ corrosiva)
+        )
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (JJ últimos)
+            (NN governos)
+            (,)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (NP 
+                (PRP lhe)
+              )
+              (VP 
+                (VBP impuseram)
+              )
+              (NP 
+                (NN ministros)
+                (PP 
+                  (IN sem)
+                  (NP 
+                    (NN preparação)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (PP 
+        (IN além_de+)
+        (NP 
+          (DT a)
+          (NN redução)
+          (PP 
+            (IN de)
+            (NP 
+              (ADJP 
+                (RB mais_de)
+                (CD 50)
+              )
+              (NN por_cento)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (PRP seu)
+                  (NN orçamento)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

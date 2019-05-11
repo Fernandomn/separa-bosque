@@ -1,14 +1,31 @@
-(S (_CU_ (VP (NP 
-                                  (DT O)
-                                  (NN sindicato))
-                                (VP (VBP pede))
-                                (NP (CD 99)
-                                        (NN %)))
-                       (CC e)
-                       (VP (NP 
-                                  (DT os)
-                                  (NN empres√°rios))
-                                (VP (VBP oferecem))
-                                (NP (CD 13,56)
-                                        (NN %)))
-                       (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (NN sindicato)
+      )
+      (VP 
+        (VBP pede)
+      )
+      (NP 
+        (CD 99)
+        (NN %)
+      )
+    )
+    e    (VP 
+      (NP 
+        (DT os)
+        (NN empres·rios)
+      )
+      (VP 
+        (VBP oferecem)
+      )
+      (NP 
+        (CD 13,56)
+        (NN %)
+      )
+    )
+    (.)
+  )
+)

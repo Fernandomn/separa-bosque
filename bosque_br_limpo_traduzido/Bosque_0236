@@ -1,56 +1,90 @@
-(S (VP (Â«)
-                       (_CU_ (VP (NP 
-                                          (DT Um)
-                                          (NN diplomata)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP BÃ©lgica))))
-                                        (VP 
-                                          (VBP comprou))
-                                        (NP 
-                                          (NN apartamento))
-                                        (PP 
-                                          (IN para)
-                                          (VP 
-                                            (VP 
-                                              (VB passar))
-                                            (NP 
-                                              (DT as)
-                                              (NN fÃ©rias)
-                                              (PP 
-                                                (IN de)
-                                                (_CU_ 
-                                                  (NP 
-                                                    (NN julho))
-                                                  (CC e)
-                                                  (NP 
-                                                    (NN janeiro))))))))
-                               (,)
-                               (CC mas)
-                               (VP (ADVP 
-                                          (RB fora)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (PRP esse)
-                                              (NN perÃ­odo))))
-                                        (NP 
-                                          (PRP ele))
-                                        (VP 
-                                          (VBP aluga))
-                                        (NP 
-                                          (DT o)
-                                          (NN imÃ³vel))
-                                        (PP 
-                                          (IN por)
-                                          (NP 
-                                            (NN US$)
-                                            (ADJP 
-                                              (CD 1.000))))))
-                       (Â»)
-                       (,)
-                       (VP (VBP diz))
-                       (NP (NNP Bezerra))
-                       (.)))
+(S 
+  (VP 
+    («)
+    (VP 
+      (VP 
+        (NP 
+          (DT Um)
+          (NN diplomata)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Bélgica)
+            )
+          )
+        )
+        (VP 
+          (VBP comprou)
+        )
+        (NP 
+          (NN apartamento)
+        )
+        (PP 
+          (IN para)
+          (VP 
+            (VP 
+              (VB passar)
+            )
+            (NP 
+              (DT as)
+              (NN férias)
+              (PP 
+                (IN de)
+                (NP 
+                  (NP 
+                    (NN julho)
+                  )
+                  e                  (NP 
+                    (NN janeiro)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      mas      (VP 
+        (ADVP 
+          (RB fora)
+          (PP 
+            (IN de+)
+            (NP 
+              (PRP esse)
+              (NN período)
+            )
+          )
+        )
+        (NP 
+          (PRP ele)
+        )
+        (VP 
+          (VBP aluga)
+        )
+        (NP 
+          (DT o)
+          (NN imóvel)
+        )
+        (PP 
+          (IN por)
+          (NP 
+            (NN US$)
+            (ADJP 
+              (CD 1.000)
+            )
+          )
+        )
+      )
+    )
+    (»)
+    (,)
+    (VP 
+      (VBP diz)
+    )
+    (NP 
+      (NNP Bezerra)
+    )
+    (.)
+  )
+)

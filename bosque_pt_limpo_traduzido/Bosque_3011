@@ -1,37 +1,64 @@
-(S (VP (NP (DT A)
-                                 (NN titular)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN pasta)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP SaÃºde))))))
-                        (VP (VBP disse))
-                        (VP (IN que)
-                                 (Â«)
-                                 (NP 
-                                   (DT o)
-                                   (JJ futuro)
-                                   (NN atendimento)
-                                   (PP 
-                                     (IN em+)
-                                     (NP 
-                                       (DT os)
-                                       (NN centros)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN saÃºde))))))
-                                 (VP (VBP serÃ¡))
-                                 (_CU_ (VP 
-                                          (ADVP 
-                                            (RB mais))
-                                          (VP 
-                                            (VBN humanizado)))
-                                        (CC e)
-                                        (VBN personalizado))
-                                 (Â»))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN titular)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN pasta)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Saúde)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP disse)
+    )
+    (VP 
+      (IN que)
+      («)
+      (NP 
+        (DT o)
+        (JJ futuro)
+        (NN atendimento)
+        (PP 
+          (IN em+)
+          (NP 
+            (DT os)
+            (NN centros)
+            (PP 
+              (IN de)
+              (NP 
+                (NN saúde)
+              )
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP será)
+      )
+      (UCP 
+        (VP 
+          (ADVP 
+            (RB mais)
+          )
+          (VP 
+            (VBN humanizado)
+          )
+        )
+        (CC e)
+        (VBN personalizado)
+      )
+      (»)
+    )
+    (.)
+  )
+)

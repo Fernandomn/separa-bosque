@@ -1,40 +1,74 @@
-(S (VP (VP (VP 
-                                          (VBN Ultrapassadas))
-                                        (NP 
-                                          (DT as)
-                                          (NN consideraÃ§Ãµes)
-                                          (ADJP 
-                                            (JJ gerais))))
-                        (,)
-                        (NP (DT o)
-                                 (NN documento))
-                        (VP (VBP mergulha))
-                        (NP (RB quase)
-                                 (NN ponto)
-                                 (PP (IN por)
-                                        (NP 
-                                          (NN ponto))))
-                        (PP (IN em+)
-                               (NP (DT as)
-                                      (NN propostas)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN ministÃ©rio)))))
-                        (_CU_ (VP 
-                                   (VP 
-                                     (VBG sugerindo))
-                                   (NP 
-                                     (NN caminhos)))
-                                 (,)
-                                 (VP 
-                                   (VP 
-                                     (VBG apresentando))
-                                   (_CU_ 
-                                     (NP 
-                                       (NN alternativas))
-                                     (CC e)
-                                     (NP 
-                                       (NN recomendaÃ§Ãµes)))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBN Ultrapassadas)
+      )
+      (NP 
+        (DT as)
+        (NN considerações)
+        (ADJP 
+          (JJ gerais)
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN documento)
+    )
+    (VP 
+      (VBP mergulha)
+    )
+    (NP 
+      (RB quase)
+      (NN ponto)
+      (PP 
+        (IN por)
+        (NP 
+          (NN ponto)
+        )
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT as)
+        (NN propostas)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN ministério)
+          )
+        )
+      )
+    )
+    (VP 
+      (VP 
+        (VP 
+          (VBG sugerindo)
+        )
+        (NP 
+          (NN caminhos)
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBG apresentando)
+        )
+        (NP 
+          (NP 
+            (NN alternativas)
+          )
+          (CC e)
+          (NP 
+            (NN recomendações)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

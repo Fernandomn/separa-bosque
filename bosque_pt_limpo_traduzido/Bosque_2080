@@ -1,97 +1,150 @@
-(S (VP (--)
-                        (NP (DT as)
-                                 (CD duas)
-                                 (NN estaÃ§Ãµes)
-                                 (VP 
-                                   (NP 
-                                     (PRP que))
-                                   (VP 
-                                     (VBP constituem))
-                                   (NP 
-                                     (DT o)
-                                     (NN consÃ³rcio)
-                                     (PP em_causa)))
-                                 (--)
-                                 (_CU_ 
-                                   (NP 
-                                     (NNP Antena_1))
-                                   (CC e)
-                                   (NP 
-                                     (NNP RÃ¡dio_RenascenÃ§a)))
-                                 (--))
-                        (VP (VBP assumiram))
-                        (,)
-                        (PP (IN desde)
-                                 (NP (DT o)
-                                        (NN inÃ­cio)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT os)
-                                            (NN contactos)
-                                            (VP 
-                                              (NP 
-                                                (PRP que))
-                                              (VP 
-                                                (VBP estabeleceram))
-                                              (PP entre_si))))))
-                        (,)
-                        (VP (IN que)
-                                 (NP 
-                                   (DT os)
-                                   (NN programas)
-                                   (PP 
-                                     (IN a)
-                                     (VP 
-                                       (VP 
-                                         (VB realizar))
-                                       (PP 
-                                         (IN por)
-                                         (ADJP 
-                                           (PRP cada)
-                                           (CD uma)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT as)
-                                               (NN partes))))))))
-                                 (NP 
-                                   (PRP se))
-                                 (VP (VBP norteariam))
-                                 (PP 
-                                   (IN por+)
-                                   (NP 
-                                     (DT as)
-                                     (NN caracterÃ­sticas)
-                                     (VP 
-                                       (NP 
-                                         (PRP que))
-                                       (NP 
-                                         (PRP as))
-                                       (VP 
-                                         (VBP marcam)))
-                                     (;)
-                                     (_CU_ 
-                                       (NP 
-                                         (DT a)
-                                         (NP 
-                                           (NNP RR))
-                                         (,)
-                                         (NP 
-                                           (NN rÃ¡dio)
-                                           (ADJP 
-                                             (JJ privada)))
-                                         (,))
-                                       (NP 
-                                         (DT a)
-                                         (NNP Antena_1)
-                                         (,)
-                                         (NP 
-                                           (NN rÃ¡dio)
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN serviÃ§o)
-                                               (ADJP 
-                                                 (JJ pÃºblico))))))))))
-                        (;)))
+(S 
+  (VP 
+    (--)
+    (NP 
+      (DT as)
+      (CD duas)
+      (NN estações)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP constituem)
+        )
+        (NP 
+          (DT o)
+          (NN consórcio)
+          (PP em_causa)
+        )
+      )
+      (--)
+      (NP 
+        (NP 
+          (NNP Antena_1)
+        )
+        (CC e)
+        (NP 
+          (NNP Rádio_Renascença)
+        )
+      )
+      (--)
+    )
+    (VP 
+      (VBP assumiram)
+    )
+    (,)
+    (PP 
+      (IN desde)
+      (NP 
+        (DT o)
+        (NN início)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN contactos)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP estabeleceram)
+              )
+              (PP entre_si)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (IN que)
+      (NP 
+        (DT os)
+        (NN programas)
+        (PP 
+          (IN a)
+          (VP 
+            (VP 
+              (VB realizar)
+            )
+            (PP 
+              (IN por)
+              (ADJP 
+                (PRP cada)
+                (CD uma)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT as)
+                    (NN partes)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+      (NP 
+        (PRP se)
+      )
+      (VP 
+        (VBP norteariam)
+      )
+      (PP 
+        (IN por+)
+        (NP 
+          (DT as)
+          (NN características)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (NP 
+              (PRP as)
+            )
+            (VP 
+              (VBP marcam)
+            )
+          )
+          (;)
+          (NP 
+            (NP 
+              (DT a)
+              (NP 
+                (NNP RR)
+              )
+              (,)
+              (NP 
+                (NN rádio)
+                (ADJP 
+                  (JJ privada)
+                )
+              )
+              (,)
+            )
+            (NP 
+              (DT a)
+              (NNP Antena_1)
+              (,)
+              (NP 
+                (NN rádio)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN serviço)
+                    (ADJP 
+                      (JJ público)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (;)
+  )
+)

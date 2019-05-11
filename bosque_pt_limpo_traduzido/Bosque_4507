@@ -1,29 +1,49 @@
-(S (VP (NP (DT Os)
-                                 (Â«)
-                                 (IN sem)
-                                 (NN convite)
-                                 (Â»))
-                        (VP (VBP permaneceram))
-                        (_CU_ (PP (IN atrÃ¡s_de+)
-                                       (NP 
-                                         (DT as)
-                                         (NN cadeiras)))
-                               (CC e)
-                               (PP (IN em+)
-                                       (NP 
-                                         (DT as)
-                                         (NN varandas)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT os)
-                                             (CD trÃªs)
-                                             (NN pisos)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT o)
-                                                 (Â«)
-                                                 (NN shopping)
-                                                 (Â»))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT Os)
+      («)
+      (IN sem)
+      (NN convite)
+      (»)
+    )
+    (VP 
+      (VBP permaneceram)
+    )
+    (PP 
+      (PP 
+        (IN atrás_de+)
+        (NP 
+          (DT as)
+          (NN cadeiras)
+        )
+      )
+      (CC e)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT as)
+          (NN varandas)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (CD três)
+              (NN pisos)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  («)
+                  (NN shopping)
+                  (»)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

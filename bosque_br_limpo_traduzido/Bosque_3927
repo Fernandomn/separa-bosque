@@ -1,40 +1,64 @@
-(S (VP (NP (DT O)
-                                 (NN aumento)
-                                 (PP 
-                                   (IN de+)
-                                   (NP 
-                                     (DT as)
-                                     (NN despesas))))
-                        (VP (VBP acontece))
-                        (PP (RB at√©_mesmo)
-                                 (IN em+)
-                                 (NP (DT os)
-                                        (NN minist√©rios)
-                                        (_CU_ 
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN Fazenda)))
-                                          (CC e)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NN Planejamento))))
-                                        (,)
-                                        (ADJP 
-                                          (JJ respons√°veis)
-                                          (PP 
-                                            (IN por+)
-                                            (NP 
-                                              (DT a)
-                                              (NN montagem)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT o)
-                                                  (NN Or√ßamento)
-                                                  (ADJP 
-                                                    (JJ federal)))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN aumento)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (NN despesas)
+        )
+      )
+    )
+    (VP 
+      (VBP acontece)
+    )
+    (PP 
+      (RB atÈ_mesmo)
+      (IN em+)
+      (NP 
+        (DT os)
+        (NN ministÈrios)
+        (PP 
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN Fazenda)
+            )
+          )
+          e          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN Planejamento)
+            )
+          )
+        )
+        (,)
+        (ADJP 
+          (JJ respons·veis)
+          (PP 
+            (IN por+)
+            (NP 
+              (DT a)
+              (NN montagem)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN OrÁamento)
+                  (ADJP 
+                    (JJ federal)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

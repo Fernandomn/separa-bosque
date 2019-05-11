@@ -1,35 +1,60 @@
-(S (VP (NP (DT O)
-                                 (NN procurador)
-                                 (ADJP 
-                                   (JJ especial)))
-                        (VP (VBP chamou))
-                        (ADVP (PP (IN a)
-                                        (VB depor))
-                                 (_CU_ 
-                                   (NP 
-                                     (CD seis)
-                                     (NN funcion√°rios)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NNP Casa_Branca))))
-                                   (CC e)
-                                   (NP 
-                                     (CD quatro)
-                                     (NN elementos)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NNP Departamento_do_Tesouro))))))
-                        (,)
-                        (PP (IN para)
-                                 (VP 
-                                   (VP 
-                                     (VB esclarecerem))
-                                   (NP 
-                                     (DT os)
-                                     (NN contactos)
-                                     (VBN mantidos))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN procurador)
+      (ADJP 
+        (JJ especial)
+      )
+    )
+    (VP 
+      (VBP chamou)
+    )
+    (ADVP 
+      (PP 
+        (IN a)
+        (VB depor)
+      )
+      (NP 
+        (NP 
+          (CD seis)
+          (NN funcion·rios)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Casa_Branca)
+            )
+          )
+        )
+        (CC e)
+        (NP 
+          (CD quatro)
+          (NN elementos)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Departamento_do_Tesouro)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VB esclarecerem)
+        )
+        (NP 
+          (DT os)
+          (NN contactos)
+          (VBN mantidos)
+        )
+      )
+    )
+    (.)
+  )
+)
