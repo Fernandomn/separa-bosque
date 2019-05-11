@@ -50,7 +50,8 @@ def tradutor(tag, i, originalLines):
             'vp': 'VP',  # Sintagma verbais
             'pp': 'PP',  # Sintagma preposicionais
             # Sintagma evidenciador coordenação
-            'cu': '_CU_',
+            # 'cu': '_CU_',
+            'cu': 'CU',
             # Sintagma sequências discursivas - (pnc dessa tag). Substituir por NP, por ser a tag filha imediata desta
             'sq': 'NP',
 

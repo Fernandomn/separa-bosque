@@ -1,9 +1,17 @@
 import os
 
-endereco = '.'
 tagHifem = '_EC_'
+# os.chdir('bosque_anotado_separado_limpo_traduzido')
+
+portugues = 'br'
+# portugues = 'pt'
+dirBrasil = 'bosque_br_limpo_traduzido'
+dirPortugal = 'bosque_pt_limpo_traduzido'
+pasta = dirPortugal if portugues == 'pt' else dirBrasil
+os.chdir(pasta)
+
+endereco = '.'
 diretorio = os.fsdecode(endereco)
-os.chdir('bosque_anotado_separado_limpo_traduzido')
 
 for nomeArquivo in os.listdir(diretorio):
     arquivo = open(nomeArquivo, 'r', encoding='utf-8')
