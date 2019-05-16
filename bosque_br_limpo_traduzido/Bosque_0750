@@ -14,11 +14,11 @@
     (NP 
       (DT a)
       (NNP Fenatec)
-      ({)
+      (-LCB-)
       (NP 
         (NNP Feira_Internacional_de_Tecelagem)
       )
-      (})
+      (-RCB-)
     )
     (,)
     (PP 
@@ -41,7 +41,8 @@
               (NP 
                 (NNP França)
               )
-              e              (NP 
+              (CC e)
+              (NP 
                 (NNP Estados_Unidos)
               )
             )

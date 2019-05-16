@@ -41,11 +41,11 @@
               (NP 
                 (CD um)
                 (NN dia)
-                ({)
+                (-LCB-)
                 (NP 
                   (NNP CDI)
                 )
-                (})
+                (-RCB-)
               )
             )
           )
@@ -56,7 +56,8 @@
             (NP 
               (NN empréstimos)
             )
-            e            (NP 
+            (CC e)
+            (NP 
               (NN carteiras)
             )
           )
@@ -68,7 +69,8 @@
                 (ADJP 
                   (JJ estaduais)
                 )
-                e                (ADJP 
+                (CC e)
+                (ADJP 
                   (JJ municipais)
                 )
               )

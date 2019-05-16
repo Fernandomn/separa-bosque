@@ -43,16 +43,17 @@
                   (IN em)
                   (NP 
                     (NNP Recife)
-                    ({)
+                    (-LCB-)
                     (NP 
                       (NNP PE)
                     )
-                    (})
+                    (-RCB-)
                   )
                 )
               )
             )
-            e            (VP 
+            (CC e)
+            (VP 
               (NP 
                 (PRP que)
               )
@@ -79,7 +80,8 @@
                           (NP 
                             (NNP Argentina)
                           )
-                          e                          (NP 
+                          (CC e)
+                          (NP 
                             (NNP Eslovênia)
                           )
                         )

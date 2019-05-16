@@ -1,6 +1,7 @@
 (S 
   (VP 
-    Mas    (NP 
+    (CC Mas)
+    (NP 
       (NP 
         (DT o)
         (NN abrandamento)
@@ -12,7 +13,7 @@
             (ADJP 
               (JJ térmica)
             )
-            ({)
+            (-LCB-)
             (NP 
               (NN fenômeno)
               (VP 
@@ -55,11 +56,12 @@
                 )
               )
             )
-            (})
+            (-RCB-)
           )
         )
       )
-      e      (NP 
+      (CC e)
+      (NP 
         (DT a)
         (NN volta)
         (PP 

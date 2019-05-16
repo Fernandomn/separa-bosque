@@ -42,7 +42,8 @@
               (ADJP 
                 (JJ II)
               )
-              e              (ADJP 
+              (CC e)
+              (ADJP 
                 (JJ III)
               )
               (,)
@@ -121,11 +122,11 @@
                 (IN em)
                 (NP 
                   (NNP Unidade_Real_de_Valor)
-                  ({)
+                  (-LCB-)
                   (NP 
                     (NNP URV)
                   )
-                  (})
+                  (-RCB-)
                 )
               )
             )
@@ -147,7 +148,8 @@
             )
           )
         )
-        e        (PP 
+        (CC e)
+        (PP 
           (IN de)
           (NP 
             (JJ fácil)

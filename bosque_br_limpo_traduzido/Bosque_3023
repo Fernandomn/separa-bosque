@@ -23,11 +23,11 @@
         (NP 
           (PRP outra)
           (NNP Jacqueline)
-          ({)
+          (-LCB-)
           (NP 
             (NNP Bisset)
           )
-          (})
+          (-RCB-)
         )
       )
     )
@@ -73,7 +73,8 @@
                   (RB mais)
                   (UCP 
                     (VBN pranteada)
-                    e                    (ADJP 
+                    (CC e)
+                    (ADJP 
                       (JJ sedutora)
                     )
                   )

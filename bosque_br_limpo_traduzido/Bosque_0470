@@ -11,12 +11,13 @@
             (NNP Rio)
           )
         )
-        e        (PP 
+        (CC e)
+        (PP 
           (IN de+)
           (NP 
             (DT o)
             (NNP Grande_Rio)
-            ({)
+            (-LCB-)
             (NP 
               (NN data-base)
               (PP 
@@ -26,7 +27,7 @@
                 )
               )
             )
-            (})
+            (-RCB-)
           )
         )
       )
@@ -49,7 +50,7 @@
           (NP 
             (DT a)
             (NNP Firjan)
-            ({)
+            (-LCB-)
             (NP 
               (NN federação)
               (PP 
@@ -67,7 +68,7 @@
                 )
               )
             )
-            (})
+            (-RCB-)
           )
         )
       )

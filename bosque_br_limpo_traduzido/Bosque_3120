@@ -14,14 +14,14 @@
             (NNP Folha)
           )
         )
-        ({)
+        (-LCB-)
         (PP 
           (IN em)
           (NP 
             (CD 10/10/1994)
           )
         )
-        (})
+        (-RCB-)
       )
       (PP 
         (IN de)
@@ -53,7 +53,7 @@
                   (NP 
                     (NN sindical)
                   )
-                  ({)
+                  (-LCB-)
                   (NP 
                     (NN sindicato)
                     (ADJP 
@@ -69,7 +69,8 @@
                           (PRP mesma)
                           (NN categoria)
                         )
-                        e                        (PP 
+                        (CC e)
+                        (PP 
                           (IN em+)
                           (NP 
                             (DT a)
@@ -122,7 +123,7 @@
                       )
                     )
                   )
-                  (})
+                  (-RCB-)
                 )
               )
             )

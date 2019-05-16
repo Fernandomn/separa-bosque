@@ -8,14 +8,14 @@
         (NNP Apresentando_Rembrandt_-_Pintor,_Gravador,_Professor)
       )
       (»)
-      ({)
+      (-LCB-)
       (NP 
         (NN editora)
         (NP 
           (NNP Klick)
         )
       )
-      (})
+      (-RCB-)
       (,)
       (PP 
         (IN de)
@@ -40,7 +40,8 @@
           (DT a)
           (NN vida)
         )
-        e        (NP 
+        (CC e)
+        (NP 
           (DT as)
           (NN obras)
           (PP 

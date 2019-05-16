@@ -9,11 +9,11 @@
         (NP 
           (DT o)
           (NNP Conselho_Federal_de_Medicina)
-          ({)
+          (-LCB-)
           (NP 
             (NNP CFM)
           )
-          (})
+          (-RCB-)
         )
       )
     )
@@ -47,7 +47,8 @@
               (NP 
                 (NNP França)
               )
-              e              (NP 
+              (CC e)
+              (NP 
                 (NNP Itália)
               )
               (,)

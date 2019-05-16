@@ -1,7 +1,25 @@
 import os
+import sys
 
-endereco = "~/stanford-parser/BOSQUE/"
-nomeArquivo = "Bosque_CP_8.0.PennTreebank.txt"
+try:
+    portugues = sys.argv[sys.argv.index('-l')+1]
+except:
+    portugues = 'br'
+
+# CENTEMPublico (portugues de portugual)
+arquivoPortugal = "Bosque_CP_8.0.PennTreebank.txt"
+# CENTEMFolha (portugues brasileiro)
+arquivoBrasil = "Bosque_CF_8.0.PennTreebank.txt"
+
+nomeArquivo = arquivoPortugal if portugues == 'pt' else arquivoBrasil
+
+dirBrasil = 'bosque_sentencas_separado_br'
+dirPortugal = 'bosque_sentencas_separado_pt'
+diretorio = dirPortugal if portugues == 'pt' else dirBrasil
+
+if not os.path.exists(diretorio):
+    os.mkdir(diretorio)
+os.chdir(diretorio)
 
 
 def tratarNumero(numero):
@@ -20,19 +38,16 @@ def tratarNumero(numero):
         return '0000'
 
 
-a = []
-originalFile = open(nomeArquivo, 'r', encoding='latin-1')
-os.chdir('bosque_sentencas_separado')
+originalFile = open(nomeArquivo, 'r', encoding='ISO-8859-1')
+
 with open('Bosque_sent_0000', 'w') as finalFile:
-    # eu quero declarar a variavel de arquivo aqui
     for line in originalFile:
-        # print ('line: ', line)
         if line[0] == '#':
             numero = line[1:].split(' ')[0]
             if numero.isdigit():
                 numeroTratado = tratarNumero(numero)
-                finalFile = open('Bosque_sent_'+numeroTratado, 'w')
-                # print('Abrindo arquivo Bosque_'+numero)
+                finalFile = open('Bosque_sent_'+numeroTratado,
+                                 'w', encoding='ISO-8859-1')
                 frase = line.split(' ')[2:]
                 finalFile.write(' '.join(frase))
                 finalFile.close()

@@ -23,7 +23,7 @@
             (,)
             (NP 
               (NNP Rio_de_Janeiro)
-              ({)
+              (-LCB-)
               (PP 
                 (IN em+)
                 (NP 
@@ -31,12 +31,12 @@
                   (NN domingo)
                 )
               )
-              (})
+              (-RCB-)
             )
             (,)
             (NP 
               (NNP Capão_da_Canoa)
-              ({)
+              (-LCB-)
               (NP 
                 (NNP RS)
               )
@@ -47,18 +47,19 @@
                   (CD 21)
                 )
               )
-              (})
+              (-RCB-)
             )
-            e            (NP 
+            (CC e)
+            (NP 
               (NNP Florianópolis)
-              ({)
+              (-LCB-)
               (NP 
                 (NN dia)
                 (ADJP 
                   (CD 23)
                 )
               )
-              (})
+              (-RCB-)
             )
           )
         )
@@ -110,7 +111,8 @@
                 (ADJP 
                   (JJ novas)
                 )
-                e                (ADJP 
+                (CC e)
+                (ADJP 
                   (JJ antigas)
                 )
               )
@@ -119,13 +121,15 @@
                 (JJ nacionais)
               )
             )
-            e            (NP 
+            (CC e)
+            (NP 
               (NN atrações)
               (ADJP 
                 (ADJP 
                   (JJ étnicas)
                 )
-                e/ou                (ADJP 
+                (CC e/ou)
+                (ADJP 
                   (JJ regionais)
                 )
               )

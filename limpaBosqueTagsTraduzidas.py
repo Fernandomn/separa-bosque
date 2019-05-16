@@ -1,4 +1,5 @@
 import os
+import sys
 
 # Referencias:
 # https://www.linguateca.pt/floresta/BibliaFlorestal/anexo1.html
@@ -188,7 +189,11 @@ def tratarNumero(numero):
 
 
 portugues = 'br'
-# portugues = 'pt'
+
+try:
+    portugues = sys.argv[sys.argv.index('-l')+1]
+except:
+    portugues = 'br'
 
 endereco = "~/stanford-parser/BOSQUE/"
 # CENTEMPublico (portugues de portugual)
@@ -202,7 +207,7 @@ nomeArquivo = arquivoPortugal if portugues == 'pt' else arquivoBrasil
 
 a = []
 nomeArquivoAbertoAtual = ''
-# originalFile = open(nomeArquivo, 'r')
+
 originalFile = open(nomeArquivo, 'r', encoding='ISO-8859-1')
 
 originalLines = originalFile.readlines()
@@ -210,7 +215,21 @@ originalLines = originalFile.readlines()
 dirBrasil = 'bosque_br_limpo_traduzido'
 dirPortugal = 'bosque_pt_limpo_traduzido'
 diretorio = dirPortugal if portugues == 'pt' else dirBrasil
+
+if not os.path.exists(diretorio):
+    os.mkdir(diretorio)
 os.chdir(diretorio)
+
+tagRemover = '(FRASE'
+tamTagRemover = len(tagRemover)
+
+listaBrackets = ['(', ')', '[', ']', '{', '}']
+dictBrackets = {'(': '-LRB-',
+                ')': '-RRB-',
+                '[': '-LSB-',
+                ']': '-RSB-',
+                '{': '-LCB-',
+                '}': '-RCB-'}
 
 with open('Bosque_0001', 'w') as finalFile:
     # eu quero declarar a variavel de arquivo aqui
@@ -234,8 +253,6 @@ with open('Bosque_0001', 'w') as finalFile:
                 continue
 
             # remove a tag FRASE
-            tagRemover = '(FRASE'
-            tamTagRemover = len(tagRemover)
 
             if(line.find(tagRemover) >= 0):
                 # o 2 é uma correção de quantidade de caracteres
@@ -253,7 +270,7 @@ with open('Bosque_0001', 'w') as finalFile:
 
                 inicio = j
 
-                try:
+                if line[inicio:].find(' ') >= 0:
                     final = inicio + line[inicio:].index(' ')
                     listaClasse = line[inicio+1:final].split(':')
                     if len(listaClasse) > 1:
@@ -266,9 +283,14 @@ with open('Bosque_0001', 'w') as finalFile:
 
                         newLine = line.replace(
                             line[inicio:final], '(' + tradutor(classe, i,  originalLines))
-
                         line = newLine
-                except ValueError:
+
+                elif listaBrackets.count(line[inicio:][1]) > 0:
+                    newLine = line.replace(
+                        line[inicio:][1], dictBrackets[line[inicio:][1]])
+                    line = newLine
+
+                else:
                     continue
             if not finalFile.closed:
                 finalFile.write(line)

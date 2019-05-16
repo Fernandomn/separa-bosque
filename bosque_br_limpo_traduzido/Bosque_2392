@@ -7,7 +7,8 @@
         (NP 
           (NNP Tejofran)
         )
-        e        (NP 
+        (CC e)
+        (NP 
           (NNP Power)
         )
       )
@@ -33,11 +34,11 @@
               (DT o)
               (NNP TRE)
             )
-            ({)
+            (-LCB-)
             (NP 
               (NNP Tribunal_Regional_Eleitoral)
             )
-            (})
+            (-RCB-)
           )
         )
       )
@@ -64,7 +65,8 @@
                 (NP 
                   (NNP PSDB)
                 )
-                e                (NP 
+                (CC e)
+                (NP 
                   (NNP PMDB)
                 )
               )

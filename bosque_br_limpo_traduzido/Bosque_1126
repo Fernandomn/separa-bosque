@@ -3,11 +3,11 @@
     (VP 
       (NP 
         (NNP Júlio)
-        ({)
+        (-LCB-)
         (NP 
           (NNP Othon_Bastos)
         )
-        (})
+        (-RCB-)
       )
       (VP 
         (VBP chega)
@@ -32,7 +32,8 @@
         )
       )
     )
-    e    (VP 
+    (CC e)
+    (VP 
       (ADVP 
         (RB lá)
       )

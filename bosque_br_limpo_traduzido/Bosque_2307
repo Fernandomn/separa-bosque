@@ -13,11 +13,11 @@
               (IN de)
               (NP 
                 (NNP Betim)
-                ({)
+                (-LCB-)
                 (NP 
                   (NNP MG)
                 )
-                (})
+                (-RCB-)
               )
             )
             (,)
@@ -25,14 +25,15 @@
               (IN de)
               (NP 
                 (NNP Ribeirão_Preto)
-                ({)
+                (-LCB-)
                 (NP 
                   (NNP SP)
                 )
-                (})
+                (-RCB-)
               )
             )
-            e            (PP 
+            (CC e)
+            (PP 
               (IN de+)
               (NP 
                 (DT a)

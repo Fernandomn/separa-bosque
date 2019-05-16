@@ -21,7 +21,7 @@ def tratarNumero(numero):
 
 
 a = []
-originalFile = open(nomeArquivo, 'r', encoding='latin-1')
+originalFile = open(nomeArquivo, 'r', encoding='ISO-8859-1')
 os.chdir('bosque_anotado_separado_limpo')
 with open('Bosque_0001', 'w') as finalFile:
     # eu quero declarar a variavel de arquivo aqui
@@ -31,7 +31,8 @@ with open('Bosque_0001', 'w') as finalFile:
             numero = line[1:].split(' ')[0]
             if numero.isdigit():
                 numeroTratado = tratarNumero(numero)
-                finalFile = open('Bosque_'+numeroTratado, 'w')
+                finalFile = open('Bosque_'+numeroTratado,
+                                 'w', encoding='ISO-8859-1')
                 # print('Abrindo arquivo Bosque_'+numero)
         elif line.strip() == '':
             if not finalFile.closed:

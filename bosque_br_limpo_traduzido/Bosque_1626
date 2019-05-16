@@ -71,7 +71,8 @@
                         (NP 
                           (NN identidade)
                         )
-                        e                        (NP 
+                        (CC e)
+                        (NP 
                           (NN CPF)
                         )
                       )
@@ -84,7 +85,8 @@
                           (NN representante)
                         )
                       )
-                      e                      (PP 
+                      (CC e)
+                      (PP 
                         (IN de+)
                         (NP 
                           (DT o)
@@ -113,7 +115,8 @@
           )
         )
         (;)
-        e        (VP 
+        (CC e)
+        (VP 
           (IN se)
           (PP 
             (IN de)
@@ -139,7 +142,7 @@
               (IN a)
               (NP 
                 (NN procurador)
-                ({)
+                (-LCB-)
                 (NP 
                   (NNP Fund.)
                   (;)
@@ -159,7 +162,7 @@
                     )
                   )
                 )
-                (})
+                (-RCB-)
               )
             )
           )

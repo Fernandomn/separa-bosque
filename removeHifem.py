@@ -1,9 +1,15 @@
 import os
+import sys
 
 tagHifem = '_EC_'
 
 portugues = 'br'
 # portugues = 'pt'
+try:
+    portugues = sys.argv[sys.argv.index('-l')+1]
+except:
+    portugues = 'br'
+
 dirBrasil = 'bosque_br_limpo_traduzido'
 dirPortugal = 'bosque_pt_limpo_traduzido'
 pasta = dirPortugal if portugues == 'pt' else dirBrasil

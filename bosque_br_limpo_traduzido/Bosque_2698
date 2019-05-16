@@ -12,7 +12,7 @@
             (IN de)
             (NP 
               (NNP Babel)
-              ({)
+              (-LCB-)
               (NP 
                 (NN Gênesis)
                 (,)
@@ -31,7 +31,7 @@
                   (NNP Antigo_Testamento)
                 )
               )
-              (})
+              (-RCB-)
             )
           )
         )
@@ -56,7 +56,8 @@
           (JJ só)
           (NN língua)
         )
-        e        (NP 
+        (CC e)
+        (NP 
           (DT um)
           (JJ só)
           (NN modo_de_falar)

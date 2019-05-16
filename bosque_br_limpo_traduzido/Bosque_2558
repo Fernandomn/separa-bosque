@@ -49,11 +49,11 @@
             (NP 
               (DT a)
               (NNP ECT)
-              ({)
+              (-LCB-)
               (NP 
                 (NNP Empresa_de_Correios_e_Telégrafos)
               )
-              (})
+              (-RCB-)
             )
           )
         )
@@ -61,7 +61,8 @@
         (NP 
           (NN agências)
         )
-        e        (NP 
+        (CC e)
+        (NP 
           (NN postos)
           (PP 
             (IN de)

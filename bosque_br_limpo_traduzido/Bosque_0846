@@ -12,7 +12,7 @@
     (NP 
       (NP 
         (NN pedras)
-        ({)
+        (-LCB-)
         (NP 
           (NP 
             (NN pedra)
@@ -20,11 +20,12 @@
               (NN goiás)
             )
           )
-          e          (NP 
+          (CC e)
+          (NP 
             (NN ardósias)
           )
         )
-        (})
+        (-RCB-)
       )
       (,)
       (NP 
@@ -32,7 +33,7 @@
         (ADJP 
           (JJ não-brilhantes)
         )
-        ({)
+        (-LCB-)
         (VP 
           (NP 
             (PRP que)
@@ -44,8 +45,9 @@
             (RB facilmente)
           )
         )
-        (})
-        e        (NP 
+        (-RCB-)
+        (CC e)
+        (NP 
           (NN cerâmicas)
           (VBN não-esmaltadas)
         )

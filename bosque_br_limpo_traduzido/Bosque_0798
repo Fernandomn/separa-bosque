@@ -18,7 +18,7 @@
           (ADJP 
             (JJ interna)
           )
-          ({)
+          (-LCB-)
           (NP 
             (NN pagamento)
             (PP 
@@ -29,7 +29,7 @@
               )
             )
           )
-          (})
+          (-RCB-)
           (VP 
             (VP 
               (VBN acompanhada)
@@ -46,7 +46,7 @@
                       (DT uma)
                       (JJ nova)
                       (NN moeda)
-                      ({)
+                      (-LCB-)
                       («)
                       (VP 
                         (VP 
@@ -74,11 +74,12 @@
                         )
                       )
                       (»)
-                      (})
+                      (-RCB-)
                     )
                   )
                 )
-                e                (NP 
+                (CC e)
+                (NP 
                   (NN imposição)
                   (PP 
                     (IN de)

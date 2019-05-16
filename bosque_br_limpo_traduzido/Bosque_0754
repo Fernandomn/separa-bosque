@@ -24,11 +24,11 @@
               (IN de)
               (NP 
                 (NNP Harvard)
-                ({)
+                (-LCB-)
                 (NP 
                   (NNP EUA)
                 )
-                (})
+                (-RCB-)
               )
             )
           )
@@ -63,7 +63,8 @@
           )
         )
       )
-      e      (NP 
+      (CC e)
+      (NP 
         (NN professor)
         (PP 
           (IN de+)
@@ -71,11 +72,11 @@
             (DT a)
             (NP 
               (NNP Fundação_Getúlio_Vargas)
-              ({)
+              (-LCB-)
               (NP 
                 (NNP SP)
               )
-              (})
+              (-RCB-)
             )
           )
         )

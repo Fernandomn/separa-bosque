@@ -8,14 +8,14 @@
                         (PP (IN a+)
                                  (NP (DT as)
                                         (NN 20h30)
-                                        ({)
+                                        (-LCB-)
                                         (NP 
                                           (NN 15h30)
                                           (PP 
                                             (IN de)
                                             (NP 
                                               (NNP Brasília))))
-                                        (})))
+                                        (-RCB-)))
                         (PP (IN para)
                                  (VP 
                                    (VP 
@@ -54,7 +54,7 @@
                                          (NP 
                                            (DT o)
                                            (NN Mundial)))))))
-                        ({)
+                        (-LCB-)
                         (VP (VP (VBP leia))
                                  (NP 
                                    (NN matéria))
@@ -63,5 +63,5 @@
                                    (NP 
                                      (PRP esta)
                                      (NN página))))
-                        (})
+                        (-RCB-)
                         (.)))

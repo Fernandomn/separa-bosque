@@ -29,11 +29,11 @@
         (NP 
           (DT o)
           (NNP Instituto_Brasileiro_de_Turismo)
-          ({)
+          (-LCB-)
           (NP 
             (NNP Embratur)
           )
-          (})
+          (-RCB-)
         )
       )
     )
@@ -75,7 +75,8 @@
                       )
                     )
                   )
-                  e                  (NP 
+                  (CC e)
+                  (NP 
                     (NN hotel-residência)
                   )
                   (,)
@@ -123,7 +124,8 @@
                       (VBN sinalizado)
                     )
                   )
-                  e                  (VP 
+                  (CC e)
+                  (VP 
                     (VP 
                       (VBN apropriado)
                     )
@@ -135,7 +137,8 @@
                           (NP 
                             (NN embarque)
                           )
-                          e                          (NP 
+                          (CC e)
+                          (NP 
                             (NN desembarque)
                           )
                         )

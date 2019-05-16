@@ -23,7 +23,7 @@
         (ADJP 
           (RB mais)
           (JJ comuns)
-          ({)
+          (-LCB-)
           (VP 
             (VP 
               (VBP veja)
@@ -39,7 +39,7 @@
               )
             )
           )
-          (})
+          (-RCB-)
         )
       )
     )
@@ -53,11 +53,11 @@
         (IN de)
         (NP 
           (NN gaiola)
-          ({)
+          (-LCB-)
           (NP 
             (NNP Gaiola_de_Faraday)
           )
-          (})
+          (-RCB-)
         )
       )
       (,)
@@ -128,7 +128,8 @@
                   )
                 )
               )
-              e              (NP 
+              (CC e)
+              (NP 
                 (NN conector)
                 (PP 
                   (IN de)

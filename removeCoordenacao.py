@@ -1,4 +1,8 @@
 import os
+import sys
+
+#  arquivos problemáticos
+# brasil: 102
 
 tagCoordenacao = '_CU_'
 tagConjCoord = 'CC'
@@ -78,10 +82,12 @@ def verificaCasosCU(arvore):
             classeCoord = listaClasses[0] if classesIguais(
                 listaClasses) else "UCP"
         else:
+            # TODO Verificar se são sempre iguais
             if classesIguais(listaClasses):
-                classeCoord = dicSintagma[listaClasses[0]]
+                classeCoord = 'WL_'+dicSintagma[listaClasses[0]]
             else:
-                classeCoord = descobreSintagma(listaClasses)
+                print('classes diferentes em wordlevel')
+            #     classeCoord = descobreSintagma(listaClasses)
         arvore[0] = classeCoord
 
     if numFilhos > 0:
@@ -97,16 +103,22 @@ def imprimeArvore(arvore, nivel):
     espacoEsquerda = ''.join('  ' for n in range(nivel))
 
     if type(arvore[1]) is list:
-        stringRetorno = '{0}({1} \n'.format(espacoEsquerda, classe)
+        if classe[:3] == 'WL_':
+            # stringRetorno = '{0}{1}'.format(espacoEsquerda, arvore[1])
+            lPalavras = ' '.join(filho[1] for filho in arvore[1])
 
-        filhos = ''.join(imprimeArvore(filho, nivel+1) for filho in arvore[1])
-        stringRetorno += filhos
+            stringRetorno = '{0}({1} {2})\n'.format(
+                espacoEsquerda, classe[3:], lPalavras)
+        else:
+            stringRetorno = '{0}({1} \n'.format(espacoEsquerda, classe)
 
-        stringRetorno += '{0})\n'.format(espacoEsquerda)
+            filhos = ''.join(imprimeArvore(filho, nivel+1)
+                             for filho in arvore[1])
+            stringRetorno += filhos
+
+            stringRetorno += '{0})\n'.format(espacoEsquerda)
     else:
         if classe.isalpha():
-            # if classe == 'CC':
-            #     stringRetorno = '{0}{1}'.format(espacoEsquerda, arvore[1])
             # else:
             stringRetorno = '{0}({1} {2})\n'.format(
                 espacoEsquerda, classe, arvore[1])
@@ -117,6 +129,12 @@ def imprimeArvore(arvore, nivel):
 
 portugues = 'br'
 # portugues = 'pt'
+
+try:
+    portugues = sys.argv[sys.argv.index('-l')+1]
+except:
+    portugues = 'br'
+
 dirBrasil = 'bosque_br_limpo_traduzido'
 dirPortugal = 'bosque_pt_limpo_traduzido'
 pasta = dirPortugal if portugues == 'pt' else dirBrasil
@@ -140,7 +158,7 @@ for nomeArquivo in os.listdir(diretorio):
 
         if(indice < 0):
             continue
-        print('nomeArquivo:', nomeArquivo)
+        # print('nomeArquivo:', nomeArquivo)
         frase = ''.join(linha for linha in linhas)
         i, arvore = reconstroiProf(frase, 0, [])
         verificaCasosCU(arvore)

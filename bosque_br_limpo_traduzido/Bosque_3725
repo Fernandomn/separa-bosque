@@ -17,11 +17,12 @@
             (NNP Carrington)
           )
         )
-        e        (NP 
+        (CC e)
+        (NP 
           (NNP Henry_Kissinger)
         )
       )
-      ({)
+      (-LCB-)
       (NP 
         (NP ex-ministros)
         (PP 
@@ -38,7 +39,8 @@
               (DT o)
               (NNP Reino_Unido)
             )
-            e            (NP 
+            (CC e)
+            (NP 
               (NNP EUA)
             )
           )
@@ -48,7 +50,7 @@
       (ADVP 
         (RB respectivamente)
       )
-      (})
+      (-RCB-)
     )
     (NP 
       (PRP se)
@@ -70,19 +72,20 @@
         (NP 
           (NP 
             (NNP Nelson_Mandela)
-            ({)
+            (-LCB-)
             (NP 
               (NNP CNA)
             )
-            (})
+            (-RCB-)
           )
-          e          (NP 
+          (CC e)
+          (NP 
             (NNP Mangosuthu_Buthelezi)
-            ({)
+            (-LCB-)
             (NP 
               (NN zulu)
             )
-            (})
+            (-RCB-)
           )
         )
       )

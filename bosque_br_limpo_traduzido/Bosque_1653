@@ -17,11 +17,11 @@
           (NP 
             (DT a)
             (NNP OEA)
-            ({)
+            (-LCB-)
             (NP 
               (NNP Organização_dos_Estados_Americanos)
             )
-            (})
+            (-RCB-)
           )
         )
       )
@@ -44,7 +44,8 @@
       )
     )
     (,)
-    mas    (VP 
+    (CC mas)
+    (VP 
       (NP 
         (PRP ela)
       )

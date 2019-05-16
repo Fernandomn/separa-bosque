@@ -3,7 +3,7 @@
     (NP 
       (DT O)
       (NNP IPC-amplo)
-      ({)
+      (-LCB-)
       (NP 
         (NN cesta)
         (PP 
@@ -35,7 +35,7 @@
           )
         )
       )
-      (})
+      (-RCB-)
     )
     (VP 
       (VBP registrou)
@@ -51,7 +51,8 @@
           )
         )
       )
-      e      (NP 
+      (CC e)
+      (NP 
         (CD 41,96)
         (NN %)
         (PP 
