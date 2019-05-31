@@ -1,35 +1,60 @@
-(S (VP (NP (DT O)
-                                 (NN mercado))
-                        (VP (VBP trabalhou))
-                        (PP (IN com)
-                                (NP (DT a)
-                                       (NN expectativa)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN aprovação)
-                                           (,)
-                                           (PP 
-                                             (IN por+)
-                                             (NP 
-                                               (DT o)
-                                               (NNP Conselho_Monetário_Nacional)))
-                                           (,))
-                                         (NP 
-                                           (PP 
-                                             (IN de)
-                                             (NP 
-                                               (NN medidas)
-                                               (PP 
-                                                 (IN de)
-                                                 (NP 
-                                                   (NN socorro)))
-                                               (PP 
-                                                 (IN a)
-                                                 (NP 
-                                                   (NN bancos)
-                                                   (PP 
-                                                     (IN em)
-                                                     (NP 
-                                                       (NN dificuldades)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN mercado)
+    )
+    (VP 
+      (VBP trabalhou)
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (DT a)
+        (NN expectativa)
+        (PP 
+          (IN de)
+          (NP 
+            (NN aprovaï¿½ï¿½o)
+            (,)
+            (PP 
+              (IN por+)
+              (NP 
+                (DT o)
+                (NNP Conselho_Monetï¿½rio_Nacional)
+              )
+            )
+            (,)
+          )
+          (NP 
+            (PP 
+              (IN de)
+              (NP 
+                (NN medidas)
+                (PP 
+                  (IN de)
+                  (NP 
+                    (NN socorro)
+                  )
+                )
+                (PP 
+                  (IN a)
+                  (NP 
+                    (NN bancos)
+                    (PP 
+                      (IN em)
+                      (NP 
+                        (NN dificuldades)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,59 +1,98 @@
-(S (VP (VP («)
-                                 (NP 
-                                   (DT O)
-                                   (NNP Rio))
-                                 (ADVP 
-                                   (RB sempre))
-                                 (VP (VBP foi))
-                                 (NP (DT um)
-                                        (NN lugar)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP deu))
-                                          (NP 
-                                            (NN exemplo))
-                                          (PP 
-                                            (IN para)
-                                            (NP 
-                                              (DT o)
-                                              (NNP Brasil)))))
-                                 (»))
-                        (,)
-                        (VP (VBP disse))
-                        (NP (DT o)
-                                 (NN corregedor)
-                                 (ADJP 
-                                   (JJ eleitoral)))
-                        (,)
-                        (VP 
-                          (VP (VBG tentando))
-                          (VP (VP 
-                                     (VB desfazer))
-                                   (NP 
-                                     (DT o)
-                                     (NN caráter)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         («)
-                                         (NN intervenção)
-                                         (ADJP 
-                                           (JJ branca))
-                                         (»)))
-                                     (VP 
-                                       (VP 
-                                         (VBN atribuído))
-                                       (PP 
-                                         (IN a+)
-                                         (NP 
-                                           (DT a)
-                                           (PRP sua)
-                                           (NN viagem)
-                                           (PP 
-                                             (IN a+)
-                                             (NP 
-                                               (DT o)
-                                               (NNP Rio_de_Janeiro)))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (ï¿½)
+      (NP 
+        (DT O)
+        (NNP Rio)
+      )
+      (ADVP 
+        (RB sempre)
+      )
+      (VP 
+        (VBP foi)
+      )
+      (NP 
+        (DT um)
+        (NN lugar)
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP deu)
+          )
+          (NP 
+            (NN exemplo)
+          )
+          (PP 
+            (IN para)
+            (NP 
+              (DT o)
+              (NNP Brasil)
+            )
+          )
+        )
+      )
+      (ï¿½)
+    )
+    (,)
+    (VP 
+      (VBP disse)
+    )
+    (NP 
+      (DT o)
+      (NN corregedor)
+      (ADJP 
+        (JJ eleitoral)
+      )
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBG tentando)
+      )
+      (VP 
+        (VP 
+          (VB desfazer)
+        )
+        (NP 
+          (DT o)
+          (NN carï¿½ter)
+          (PP 
+            (IN de)
+            (NP 
+              (ï¿½)
+              (NN intervenï¿½ï¿½o)
+              (ADJP 
+                (JJ branca)
+              )
+              (ï¿½)
+            )
+          )
+          (VP 
+            (VP 
+              (VBN atribuï¿½do)
+            )
+            (PP 
+              (IN a+)
+              (NP 
+                (DT a)
+                (PRP sua)
+                (NN viagem)
+                (PP 
+                  (IN a+)
+                  (NP 
+                    (DT o)
+                    (NNP Rio_de_Janeiro)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

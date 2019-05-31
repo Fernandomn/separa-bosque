@@ -1,22 +1,45 @@
-(S (VP (NP (DT O)
-                                 (NP ex-deputado)
-                                 (NP (NNP Ibsen_Pinheiro))
-                                 (-LCB-)
-                                 (NP 
-                                   (NNP PMDB-RS))
-                                 (-RCB-))
-                        (ADVP (RB também))
-                        (ADVP (RB não))
-                        (VP (VBP quis))
-                        (VP (VP (VB falar))
-                                 (PP 
-                                   (IN sobre)
-                                   (NP 
-                                     (DT a)
-                                     (NN absolvição)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NP ex-presidente))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NP ex-deputado)
+      (NP 
+        (NNP Ibsen_Pinheiro)
+      )
+      (-LCB-)
+      (NP 
+        (NNP PMDB-RS)
+      )
+      (-RCB-)
+    )
+    (ADVP 
+      (RB tambï¿½m)
+    )
+    (ADVP 
+      (RB nï¿½o)
+    )
+    (VP 
+      (VBP quis)
+    )
+    (VP 
+      (VP 
+        (VB falar)
+      )
+      (PP 
+        (IN sobre)
+        (NP 
+          (DT a)
+          (NN absolviï¿½ï¿½o)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NP ex-presidente)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

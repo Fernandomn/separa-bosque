@@ -1,42 +1,69 @@
-(S (VP (PP (IN Em+)
-                                (NP (DT a)
-                                       (NN semana)
-                                       (VBN passada)))
-                       (,)
-                       (NP (DT a)
-                                (NNP Secretaria_Nacional_de_Direito_Econômico))
-                       (VP (VBP baixou))
-                       (NP (CD uma)
-                               (NN portaria)
-                               (,)
-                               (VP 
-                                 (NP 
-                                   (PRP que))
-                                 (VP (VBP aplica))
-                                 (NP 
-                                   (DT uma)
-                                   (NN multa)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (CD 250)
-                                       (NNP Ufirs)
-                                       (-LCB-)
-                                       (NP 
-                                         (NN R$)
-                                         (ADJP 
-                                           (CD 170)))
-                                       (-RCB-))))
-                                 (PP 
-                                   (IN a+)
-                                   (NP 
-                                     (DT os)
-                                     (CD seis)
-                                     (NN colégios)))
-                                 (PP 
-                                   (IN por)
-                                   (NP 
-                                     (PRP cada)
-                                     (NN matrícula)
-                                     (VBN recusada)))))
-                       (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (DT a)
+        (NN semana)
+        (VBN passada)
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NNP Secretaria_Nacional_de_Direito_Econï¿½mico)
+    )
+    (VP 
+      (VBP baixou)
+    )
+    (NP 
+      (CD uma)
+      (NN portaria)
+      (,)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP aplica)
+        )
+        (NP 
+          (DT uma)
+          (NN multa)
+          (PP 
+            (IN de)
+            (NP 
+              (CD 250)
+              (NNP Ufirs)
+              (-LCB-)
+              (NP 
+                (NN R$)
+                (ADJP 
+                  (CD 170)
+                )
+              )
+              (-RCB-)
+            )
+          )
+        )
+        (PP 
+          (IN a+)
+          (NP 
+            (DT os)
+            (CD seis)
+            (NN colï¿½gios)
+          )
+        )
+        (PP 
+          (IN por)
+          (NP 
+            (PRP cada)
+            (NN matrï¿½cula)
+            (VBN recusada)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,34 +1,57 @@
-(S (VP (NP (DT O)
-                                 (NN órgão)
-                                 (ADJP 
-                                   (JJ responsável)
-                                   (PP 
-                                     (IN por+)
-                                     (NP 
-                                       (DT o)
-                                       (NN mercado)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN telebingos)))))))
-                        (VP (VBP é))
-                        (NP (DT a)
-                               (NNP Susep)
-                               (-LCB-)
-                               (NP (NNP Superintendência_de_Seguros_Privados))
-                               (-RCB-)
-                               (,)
-                               (NP 
-                                 (DT uma)
-                                 (NN autarquia)
-                                 (ADJP 
-                                   (JJ federal))
-                                 (VP 
-                                   (VP 
-                                     (VBN subordinada))
-                                   (PP 
-                                     (IN a+)
-                                     (NP 
-                                       (DT o)
-                                       (NNP Ministério_da_Fazenda))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN ï¿½rgï¿½o)
+      (ADJP 
+        (JJ responsï¿½vel)
+        (PP 
+          (IN por+)
+          (NP 
+            (DT o)
+            (NN mercado)
+            (PP 
+              (IN de)
+              (NP 
+                (NN telebingos)
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP ï¿½)
+    )
+    (NP 
+      (DT a)
+      (NNP Susep)
+      (-LCB-)
+      (NP 
+        (NNP Superintendï¿½ncia_de_Seguros_Privados)
+      )
+      (-RCB-)
+      (,)
+      (NP 
+        (DT uma)
+        (NN autarquia)
+        (ADJP 
+          (JJ federal)
+        )
+        (VP 
+          (VP 
+            (VBN subordinada)
+          )
+          (PP 
+            (IN a+)
+            (NP 
+              (DT o)
+              (NNP Ministï¿½rio_da_Fazenda)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

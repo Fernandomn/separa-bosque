@@ -1,38 +1,63 @@
-(S (VP (NP (NN Cientistas)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP Universidade_da_Califórnia)
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (NNP Irvine)
-                                              (-LCB-)
-                                              (NP 
-                                                (NNP EUA))
-                                              (-RCB-))))))
-                        (VP (VBP publicaram))
-                        (NP (DT a)
-                                (NN pesquisa))
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (JJ última)
-                                        (NN edição)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NN revista)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT a)
-                                                (NNP Associação_Médica_Norte-americana)
-                                                (,)
-                                                (-LCB-)
-                                                («)
-                                                (NP 
-                                                  (NNP Jama))
-                                                (»)
-                                                (-RCB-)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Cientistas)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP Universidade_da_Califï¿½rnia)
+          (PP 
+            (IN em)
+            (NP 
+              (NNP Irvine)
+              (-LCB-)
+              (NP 
+                (NNP EUA)
+              )
+              (-RCB-)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP publicaram)
+    )
+    (NP 
+      (DT a)
+      (NN pesquisa)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (JJ ï¿½ltima)
+        (NN ediï¿½ï¿½o)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NN revista)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NNP Associaï¿½ï¿½o_Mï¿½dica_Norte-americana)
+                (,)
+                (-LCB-)
+                (ï¿½)
+                (NP 
+                  (NNP Jama)
+                )
+                (ï¿½)
+                (-RCB-)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,41 +1,74 @@
-(S (VP (NP (DT O)
-                                 (NNP Índice_de_Preços_ao_Consumidor)
-                                 (-LCB-)
-                                 (NP 
-                                   (NNP IPCA))
-                                 (-RCB-)
-                                 (PP (IN de)
-                                        (NP 
-                                          (NNP Belo_Horizonte))))
-                        (VP (VBP fechou))
-                        (NP (DT a)
-                                (JJ última)
-                                (NN quadrissemana)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN novembro))))
-                        (PP (IN com)
-                                 (NP (NN variação)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (CD 3,12)
-                                            (NN %)))))
-                        (,)
-                        (PP (IN contra)
-                                 (NP (DT os)
-                                        (CD 2,54)
-                                        (NN %)
-                                        (VP 
-                                          (VP 
-                                            (VBN registrados))
-                                          (PP 
-                                            (IN em)
-                                            (NP 
-                                              (JJ igual)
-                                              (NN período)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN outubro))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NNP ï¿½ndice_de_Preï¿½os_ao_Consumidor)
+      (-LCB-)
+      (NP 
+        (NNP IPCA)
+      )
+      (-RCB-)
+      (PP 
+        (IN de)
+        (NP 
+          (NNP Belo_Horizonte)
+        )
+      )
+    )
+    (VP 
+      (VBP fechou)
+    )
+    (NP 
+      (DT a)
+      (JJ ï¿½ltima)
+      (NN quadrissemana)
+      (PP 
+        (IN de)
+        (NP 
+          (NN novembro)
+        )
+      )
+    )
+    (PP 
+      (IN com)
+      (NP 
+        (NN variaï¿½ï¿½o)
+        (PP 
+          (IN de)
+          (NP 
+            (CD 3,12)
+            (NN %)
+          )
+        )
+      )
+    )
+    (,)
+    (PP 
+      (IN contra)
+      (NP 
+        (DT os)
+        (CD 2,54)
+        (NN %)
+        (VP 
+          (VP 
+            (VBN registrados)
+          )
+          (PP 
+            (IN em)
+            (NP 
+              (JJ igual)
+              (NN perï¿½odo)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN outubro)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

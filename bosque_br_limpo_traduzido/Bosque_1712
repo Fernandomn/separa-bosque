@@ -1,27 +1,50 @@
-(S (VP (NP (DT As)
-                                 (NN taxas)
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN juros)
-                                          (ADJP 
-                                            (JJ equivalentes))
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT os)
-                                              (NNP CDBs))))))
-                        (VP (VBP diminuíram))
-                        (NP (CD 2,31)
-                                (NN pontos)
-                                (ADJP 
-                                  (JJ percentuais)))
-                        (PP (IN em_relação_a+)
-                                 (NP (DT a)
-                                        (NN média)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (JJ última)
-                                            (NN segunda-feira)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT As)
+      (NN taxas)
+      (PP 
+        (IN de)
+        (NP 
+          (NN juros)
+          (ADJP 
+            (JJ equivalentes)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT os)
+              (NNP CDBs)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP diminuï¿½ram)
+    )
+    (NP 
+      (CD 2,31)
+      (NN pontos)
+      (ADJP 
+        (JJ percentuais)
+      )
+    )
+    (PP 
+      (IN em_relaï¿½ï¿½o_a+)
+      (NP 
+        (DT a)
+        (NN mï¿½dia)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (JJ ï¿½ltima)
+            (NN segunda-feira)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

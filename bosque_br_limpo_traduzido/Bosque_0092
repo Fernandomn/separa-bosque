@@ -1,34 +1,60 @@
-(S (VP (NP (DT A)
-                                (JJ primeira)
-                                (NN previsão)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NNP IBGE)
-                                         (-LCB-)
-                                         (NP 
-                                           (NNP Fundação_Instituto_Brasileiro_de_Geografia_e_Estatística))
-                                         (-RCB-))))
-                       (VP (VBP indica))
-                       (NP (NN queda)
-                               (PP (IN de)
-                                      (NP 
-                                        (CD 0,62)
-                                        (NN %)))
-                               (PP 
-                                 (IN em+)
-                                 (NP (DT a)
-                                        (NN área)
-                                        (VP 
-                                          (VP 
-                                            (VBN plantada))
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (PRP esta)
-                                              (NN safra)))
-                                          (PP 
-                                            (IN em_relação_a)
-                                            (ADJP 
-                                              (JJ anterior)))))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (JJ primeira)
+      (NN previsï¿½o)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NNP IBGE)
+          (-LCB-)
+          (NP 
+            (NNP Fundaï¿½ï¿½o_Instituto_Brasileiro_de_Geografia_e_Estatï¿½stica)
+          )
+          (-RCB-)
+        )
+      )
+    )
+    (VP 
+      (VBP indica)
+    )
+    (NP 
+      (NN queda)
+      (PP 
+        (IN de)
+        (NP 
+          (CD 0,62)
+          (NN %)
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NN ï¿½rea)
+          (VP 
+            (VP 
+              (VBN plantada)
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (PRP esta)
+                (NN safra)
+              )
+            )
+            (PP 
+              (IN em_relaï¿½ï¿½o_a)
+              (ADJP 
+                (JJ anterior)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

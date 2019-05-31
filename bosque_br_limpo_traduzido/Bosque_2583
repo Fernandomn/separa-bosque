@@ -1,27 +1,55 @@
-(S (VP (NP (DT O)
-                                 (NN número)
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN ações)
-                                          (ADJP 
-                                            (JJ ordinárias))))
-                                 (PP (IN em)
-                                        (NP 
-                                          (NN junho))))
-                        (VP (VBP apresentou))
-                        (NP (NN queda)
-                                (PP (IN de)
-                                       (NP 
-                                         (CD 10,36)
-                                         (NN %))))
-                        (VP (VP (VBN comparado))
-                                  (PP 
-                                    (IN com)
-                                    (NP 
-                                      (DT o)
-                                      (NN mês)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN maio))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN nï¿½mero)
+      (PP 
+        (IN de)
+        (NP 
+          (NN aï¿½ï¿½es)
+          (ADJP 
+            (JJ ordinï¿½rias)
+          )
+        )
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NN junho)
+        )
+      )
+    )
+    (VP 
+      (VBP apresentou)
+    )
+    (NP 
+      (NN queda)
+      (PP 
+        (IN de)
+        (NP 
+          (CD 10,36)
+          (NN %)
+        )
+      )
+    )
+    (VP 
+      (VP 
+        (VBN comparado)
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (DT o)
+          (NN mï¿½s)
+          (PP 
+            (IN de)
+            (NP 
+              (NN maio)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

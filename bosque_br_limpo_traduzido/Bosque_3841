@@ -1,13 +1,28 @@
-(S (VP (NP (DT O)
-                                 (NN bombeiro))
-                        (VP (VBP suspeita))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT o)
-                                   (NN golfinho))
-                                 (VP (VBP tenha)
-                                       (VBN morrido))
-                                 (VP 
-                                   (VP 
-                                     (VBN afogado))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN bombeiro)
+    )
+    (VP 
+      (VBP suspeita)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT o)
+        (NN golfinho)
+      )
+      (VP 
+        (VBP tenha)
+        (VBN morrido)
+      )
+      (VP 
+        (VP 
+          (VBN afogado)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,38 +1,64 @@
-(S (VP (NP (NNP Cordeiro))
-                        (VP (VBP morreu))
-                        (PP (IN devido_a)
-                                 (NP (NN complicações)
-                                        (ADJP 
-                                          (JJ decorrentes)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (DT um)
-                                              (NN enfisema)
-                                              (ADJP 
-                                                (JJ pulmonar))
-                                              (-LCB-)
-                                              (NP 
-                                                (NN diminuição)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT a)
-                                                    (NN área)
-                                                    (ADJP 
-                                                      (JJ disponível))
-                                                    (PP 
-                                                      (IN para)
-                                                      (NP 
-                                                        (NN troca)
-                                                        (PP 
-                                                          (IN de)
-                                                          (NP 
-                                                            (NN ar)))
-                                                        (PP 
-                                                          (IN em+)
-                                                          (NP 
-                                                            (DT os)
-                                                            (NN pulmões)))))))
-                                                (-RCB-)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Cordeiro)
+    )
+    (VP 
+      (VBP morreu)
+    )
+    (PP 
+      (IN devido_a)
+      (NP 
+        (NN complicaï¿½ï¿½es)
+        (ADJP 
+          (JJ decorrentes)
+          (PP 
+            (IN de)
+            (NP 
+              (DT um)
+              (NN enfisema)
+              (ADJP 
+                (JJ pulmonar)
+              )
+              (-LCB-)
+              (NP 
+                (NN diminuiï¿½ï¿½o)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NN ï¿½rea)
+                    (ADJP 
+                      (JJ disponï¿½vel)
+                    )
+                    (PP 
+                      (IN para)
+                      (NP 
+                        (NN troca)
+                        (PP 
+                          (IN de)
+                          (NP 
+                            (NN ar)
+                          )
+                        )
+                        (PP 
+                          (IN em+)
+                          (NP 
+                            (DT os)
+                            (NN pulmï¿½es)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+                (-RCB-)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

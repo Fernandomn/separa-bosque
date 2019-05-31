@@ -1,53 +1,92 @@
-(S (VP (VP (VP (VBN Nascido))
-                                (PP 
-                                  (IN em+)
-                                  (NP 
-                                    (DT o)
-                                    (NN dia)
-                                    (ADJP 
-                                      (CD 23))
-                                    (PP 
-                                      (IN de)
-                                      (NP 
-                                        (NN maio)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (CD 1972)))))))
-                                (,)
-                                (PP 
-                                  (IN em)
-                                  (NP 
-                                    (NNP São_Paulo)))
-                                (,))
-                        (NP (NNP Rubens_Gonçalves_Barrichello))
-                        (VP (VBP começou))
-                        (NP (PRP sua)
-                                (NN carreira)
-                                (ADJP 
-                                  (JJ automobilística)))
-                        (PP (IN em+)
-                                 (NP (DT o)
-                                        (NN kart)))
-                        (,)
-                        (PP (IN em)
-                                 (ADJP 
-                                   (CD 81)
-                                   (,)
-                                   (VP 
-                                     (ADVP 
-                                       (RB quando))
-                                     (VP 
-                                       (VBP foi))
-                                     (NP 
-                                       (NP vice-campeão)
-                                       (ADJP 
-                                         (JJ júnior))
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT a)
-                                           (NN capital)
-                                           (ADJP 
-                                             (JJ paulista))))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBN Nascido)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN dia)
+          (ADJP 
+            (CD 23)
+          )
+          (PP 
+            (IN de)
+            (NP 
+              (NN maio)
+              (PP 
+                (IN de)
+                (NP 
+                  (CD 1972)
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (PP 
+        (IN em)
+        (NP 
+          (NNP Sï¿½o_Paulo)
+        )
+      )
+      (,)
+    )
+    (NP 
+      (NNP Rubens_Gonï¿½alves_Barrichello)
+    )
+    (VP 
+      (VBP comeï¿½ou)
+    )
+    (NP 
+      (PRP sua)
+      (NN carreira)
+      (ADJP 
+        (JJ automobilï¿½stica)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT o)
+        (NN kart)
+      )
+    )
+    (,)
+    (PP 
+      (IN em)
+      (ADJP 
+        (CD 81)
+        (,)
+        (VP 
+          (ADVP 
+            (RB quando)
+          )
+          (VP 
+            (VBP foi)
+          )
+          (NP 
+            (NP vice-campeï¿½o)
+            (ADJP 
+              (JJ jï¿½nior)
+            )
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NN capital)
+                (ADJP 
+                  (JJ paulista)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

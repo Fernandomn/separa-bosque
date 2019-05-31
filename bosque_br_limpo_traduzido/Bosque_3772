@@ -1,25 +1,44 @@
-(S (VP (NP (NN Dados)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP IBGE)
-                                          (-LCB-)
-                                          (NP 
-                                            (NNP Instituto_Brasileiro_de_Geografia_e_Estatística))
-                                          (-RCB-)
-                                          (,)
-                                          (PP 
-                                            (IN de)
-                                            (ADJP 
-                                              (CD 1989)))
-                                          (,))))
-                        (VP (VBP mostram))
-                        (VP (IN que)
-                                 (NP 
-                                   (CD 30,6)
-                                   (NN milhões)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN brasileiros)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Dados)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NNP IBGE)
+          (-LCB-)
+          (NP 
+            (NNP Instituto_Brasileiro_de_Geografia_e_Estatï¿½stica)
+          )
+          (-RCB-)
+          (,)
+          (PP 
+            (IN de)
+            (ADJP 
+              (CD 1989)
+            )
+          )
+          (,)
+        )
+      )
+    )
+    (VP 
+      (VBP mostram)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (CD 30,6)
+        (NN milhï¿½es)
+        (PP 
+          (IN de)
+          (NP 
+            (NN brasileiros)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

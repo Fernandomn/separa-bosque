@@ -1,20 +1,40 @@
-(S (VP (NP (DT O)
-                                 (NN texto))
-                        (VP (VBP defende))
-                        (NP (DT o)
-                                (NN voto)
-                                (PP (IN para)
-                                       (NP 
-                                         (DT a)
-                                         (NN Presidência)))
-                                (VP (VP 
-                                          (VBN baseado))
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (NN programas)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN governo)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN texto)
+    )
+    (VP 
+      (VBP defende)
+    )
+    (NP 
+      (DT o)
+      (NN voto)
+      (PP 
+        (IN para)
+        (NP 
+          (DT a)
+          (NN Presidï¿½ncia)
+        )
+      )
+      (VP 
+        (VP 
+          (VBN baseado)
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (NN programas)
+            (PP 
+              (IN de)
+              (NP 
+                (NN governo)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

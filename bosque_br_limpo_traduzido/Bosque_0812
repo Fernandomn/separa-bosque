@@ -1,42 +1,71 @@
-(S (VP (NP (DT O)
-                                 (NN presidente)
-                                 (NP (NNP Itamar_Franco)))
-                        (VP (VBP disse))
-                        (VP (IN que)
-                                 («)
-                                 (VP (VBP serão))
-                                 (NP (ADJP 
-                                          (RB mais_de)
-                                          (CD 50))
-                                        (NN demissões))
-                                 (»)
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT as)
-                                     (NN estatais)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NNP Ministério_dos_Transportes)))))
-                                 (PP 
-                                   (IN por_causa_de+)
-                                   (NP 
-                                     (DT a)
-                                     (NN desobediência)
-                                     (PP 
-                                       (IN a+)
-                                       (NP 
-                                         (DT a)
-                                         (NNP MP)))))
-                                 (PP 
-                                   (IN de)
-                                   (NP 
-                                     (NN conversão)
-                                     (PP 
-                                       (IN a+)
-                                       (NP 
-                                         (DT a)
-                                         (NN URV))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN presidente)
+      (NP 
+        (NNP Itamar_Franco)
+      )
+    )
+    (VP 
+      (VBP disse)
+    )
+    (VP 
+      (IN que)
+      (ï¿½)
+      (VP 
+        (VBP serï¿½o)
+      )
+      (NP 
+        (ADJP 
+          (RB mais_de)
+          (CD 50)
+        )
+        (NN demissï¿½es)
+      )
+      (ï¿½)
+      (PP 
+        (IN em+)
+        (NP 
+          (DT as)
+          (NN estatais)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Ministï¿½rio_dos_Transportes)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN por_causa_de+)
+        (NP 
+          (DT a)
+          (NN desobediï¿½ncia)
+          (PP 
+            (IN a+)
+            (NP 
+              (DT a)
+              (NNP MP)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NN conversï¿½o)
+          (PP 
+            (IN a+)
+            (NP 
+              (DT a)
+              (NN URV)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

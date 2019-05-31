@@ -1,42 +1,70 @@
-(S (VP (NP (DT O)
-                                  (NN brinquedinho)
-                                  (ADJP 
-                                    (JJ eletrônico)))
-                         (VP (VBP tem))
-                         (NP (DT uma)
-                                 (NN função)
-                                 (ADJP 
-                                   (JJ interessante)))
-                         (PP (IN em+)
-                                  (NP 
-                                    (DT o)
-                                    (NN mundo)
-                                    (PP 
-                                      (IN de+)
-                                      (NP 
-                                        (DT os)
-                                        (NN plínios)))))
-                         (;)
-                         (VP (VP 
-                                       (VBP substitui))
-                                     (NP 
-                                       (DT o)
-                                       (JJ antigo)
-                                       («)
-                                       (NN torpedo)
-                                       (»)
-                                       (,)
-                                       (NP 
-                                         (NN bilhete)
-                                         (VP 
-                                           (VP 
-                                             (VBN desferido))
-                                           (PP 
-                                             (IN entre)
-                                             (ADJP 
-                                               (JJ jovens)))
-                                           (PP 
-                                             (IN em)
-                                             (NP 
-                                               (NN bares)))))))
-                         (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN brinquedinho)
+      (ADJP 
+        (JJ eletrï¿½nico)
+      )
+    )
+    (VP 
+      (VBP tem)
+    )
+    (NP 
+      (DT uma)
+      (NN funï¿½ï¿½o)
+      (ADJP 
+        (JJ interessante)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT o)
+        (NN mundo)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN plï¿½nios)
+          )
+        )
+      )
+    )
+    (;)
+    (VP 
+      (VP 
+        (VBP substitui)
+      )
+      (NP 
+        (DT o)
+        (JJ antigo)
+        (ï¿½)
+        (NN torpedo)
+        (ï¿½)
+        (,)
+        (NP 
+          (NN bilhete)
+          (VP 
+            (VP 
+              (VBN desferido)
+            )
+            (PP 
+              (IN entre)
+              (ADJP 
+                (JJ jovens)
+              )
+            )
+            (PP 
+              (IN em)
+              (NP 
+                (NN bares)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

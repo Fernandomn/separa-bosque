@@ -1,70 +1,112 @@
-(S (VP (NP (NN Estudo)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP Associação_dos_Engenheiros)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP Petrobrás)))))
-                                 (PP (IN sobre)
-                                        (NP 
-                                          (DT a)
-                                          (NN estrutura)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (NN preços)
-                                              (PP 
-                                                (IN de+)
-                                                (NP 
-                                                  (DT os)
-                                                  (NN combustíveis))))))))
-                        (VP (VBP mostra))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT a)
-                                   (NNP Petrobrás))
-                                 (VP (VBP tem))
-                                 (NP 
-                                   (DT uma)
-                                   (NN margem)
-                                   (PP 
-                                     (IN de)
-                                     (PP 
-                                       (IN até)
-                                       (NP 
-                                         (CD 29)
-                                         (NN %)))))
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT o)
-                                     (NN preço)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN combustível))))
-                                   (VP 
-                                     (NP 
-                                       (PRP que))
-                                     (VP 
-                                       (VBP poderia)
-                                       (VB ser)
-                                       (VBN usada))
-                                     (PP 
-                                       (IN para)
-                                       (VP 
-                                         (VP 
-                                           (VB reduzir))
-                                         (NP 
-                                           (DT o)
-                                           (NN valor)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT a)
-                                               (NN gasolina)))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Estudo)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP Associaï¿½ï¿½o_dos_Engenheiros)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Petrobrï¿½s)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN sobre)
+        (NP 
+          (DT a)
+          (NN estrutura)
+          (PP 
+            (IN de)
+            (NP 
+              (NN preï¿½os)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT os)
+                  (NN combustï¿½veis)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP mostra)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT a)
+        (NNP Petrobrï¿½s)
+      )
+      (VP 
+        (VBP tem)
+      )
+      (NP 
+        (DT uma)
+        (NN margem)
+        (PP 
+          (IN de)
+          (PP 
+            (IN atï¿½)
+            (NP 
+              (CD 29)
+              (NN %)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (NN preï¿½o)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN combustï¿½vel)
+            )
+          )
+        )
+        (VP 
+          (NP 
+            (PRP que)
+          )
+          (VP 
+            (VBP poderia)
+            (VB ser)
+            (VBN usada)
+          )
+          (PP 
+            (IN para)
+            (VP 
+              (VP 
+                (VB reduzir)
+              )
+              (NP 
+                (DT o)
+                (NN valor)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT a)
+                    (NN gasolina)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

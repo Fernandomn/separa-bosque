@@ -1,34 +1,61 @@
-(S (VP (PP (IN Segundo)
-                                 (NP (NNP Franco)))
-                        (,)
-                        (NP (DT o)
-                                 (NNP BC))
-                        (VP (VBP vai)
-                              (VB comprar))
-                        (NP (NN dólares))
-                        (VP (ADVP 
-                                    (RB quando))
-                                  (NP 
-                                    (DT a)
-                                    (NN cotação))
-                                  (VP (VBP cair))
-                                  (PP 
-                                    (IN a)
-                                    (NP 
-                                      (DT um)
-                                      (NN ponto)
-                                      (VBN determinado)
-                                      (,)
-                                      (VP 
-                                        («)
-                                        (ADVP 
-                                          (RB não))
-                                        (VP 
-                                          (VBN conhecido))
-                                        (PP 
-                                          (IN por+)
-                                          (NP 
-                                            (DT o)
-                                            (NN mercado)))
-                                        (»)))))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Segundo)
+      (NP 
+        (NNP Franco)
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NNP BC)
+    )
+    (VP 
+      (VBP vai)
+      (VB comprar)
+    )
+    (NP 
+      (NN dï¿½lares)
+    )
+    (VP 
+      (ADVP 
+        (RB quando)
+      )
+      (NP 
+        (DT a)
+        (NN cotaï¿½ï¿½o)
+      )
+      (VP 
+        (VBP cair)
+      )
+      (PP 
+        (IN a)
+        (NP 
+          (DT um)
+          (NN ponto)
+          (VBN determinado)
+          (,)
+          (VP 
+            (ï¿½)
+            (ADVP 
+              (RB nï¿½o)
+            )
+            (VP 
+              (VBN conhecido)
+            )
+            (PP 
+              (IN por+)
+              (NP 
+                (DT o)
+                (NN mercado)
+              )
+            )
+            (ï¿½)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

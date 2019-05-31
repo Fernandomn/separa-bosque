@@ -1,25 +1,46 @@
-(S (VP (VP (VP 
-                                          (VBG Falando))
-                                        (PP 
-                                          (IN em)
-                                          (NP 
-                                            (NN futebol)
-                                            (,)
-                                            (PP 
-                                              (IN em)
-                                              (NP 
-                                                (JJ bom)
-                                                (NN futebol))))))
-                        (,)
-                        (VP (VBP devemos)
-                              (VB saudar))
-                        (NP (DT a)
-                                (NN chegada)
-                                (PP 
-                                  (IN de)
-                                  (NP 
-                                    (NNP Ronaldão))))
-                        (PP (IN a+)
-                                (NP (DT os)
-                                       (NNP Estados_Unidos)))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (VP 
+        (VBG Falando)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NN futebol)
+          (,)
+          (PP 
+            (IN em)
+            (NP 
+              (JJ bom)
+              (NN futebol)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP devemos)
+      (VB saudar)
+    )
+    (NP 
+      (DT a)
+      (NN chegada)
+      (PP 
+        (IN de)
+        (NP 
+          (NNP Ronaldï¿½o)
+        )
+      )
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT os)
+        (NNP Estados_Unidos)
+      )
+    )
+    (.)
+  )
+)

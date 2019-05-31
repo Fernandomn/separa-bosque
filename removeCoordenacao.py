@@ -61,7 +61,7 @@ def verificaCasosCU(arvore):
     if type(arvore[1]) is list:
         numFilhos = len(arvore[1])
 
-    if arvore[0] == '_CU_':
+    if arvore[0] == tagCoordenacao:
         listaClasses = []
 
         wordLevel = True
@@ -147,26 +147,38 @@ for nomeArquivo in os.listdir(diretorio):
     arquivo = open(nomeArquivo, 'r', encoding='ISO-8859-1')
     linhas = arquivo.readlines()
 
-    for indiceLinha in range(len(linhas)):
+    # nota: anteriormente, era feito um looop pelo arquivo para verificar a existencia da Tag.
+    # Porém, notou-se que uma vez que a verificação de sua existencia já é feita em "verificaCasosCU()",
+    # e também que, na verdade, é interessante reformatar todas as arvores (em "imprimeArvore()"),
+    # preferiu-se por remover o loop / verificação
+    frase = ''.join(linha for linha in linhas)
+    i, arvore = reconstroiProf(frase, 0, [])
+    verificaCasosCU(arvore)
+    novaArvore = imprimeArvore(arvore, 0)
+    arquivo = open(nomeArquivo, 'w', encoding='ISO-8859-1')
+    arquivo.write(novaArvore)
+    arquivo.close()
 
-        if indiceLinha >= len(linhas):
-            break
+    # for indiceLinha in range(len(linhas)):
 
-        linha = linhas[indiceLinha]
+    #     if indiceLinha >= len(linhas):
+    #         break
 
-        indice = linha.find(tagCoordenacao)
+    #     linha = linhas[indiceLinha]
 
-        if(indice < 0):
-            continue
-        # print('nomeArquivo:', nomeArquivo)
-        frase = ''.join(linha for linha in linhas)
-        i, arvore = reconstroiProf(frase, 0, [])
-        verificaCasosCU(arvore)
-        novaArvore = imprimeArvore(arvore, 0)
-        arquivo = open(nomeArquivo, 'w', encoding='ISO-8859-1')
-        arquivo.write(novaArvore)
-        arquivo.close()
-        break
+    #     indice = linha.find(tagCoordenacao)
+
+    #     if(indice < 0):
+    #         continue
+    #     print('nomeArquivo:', nomeArquivo)
+    #     frase = ''.join(linha for linha in linhas)
+    #     i, arvore = reconstroiProf(frase, 0, [])
+    #     verificaCasosCU(arvore)
+    #     novaArvore = imprimeArvore(arvore, 0)
+    #     arquivo = open(nomeArquivo, 'w', encoding='ISO-8859-1')
+    #     arquivo.write(novaArvore)
+    #     arquivo.close()
+    #     break
 
 
 # frase = '(S (_CU_ (VP (NP (PRP Alguns))(ADVP (RB at�))(ADVP (RB j�))(VP (VBP desapareceram))(,)(NP (ADVP (RB como)(NP (PRP o)(PP (IN de)(NP (NNP Castro_Verde)))))))(,)(CC e)(VP (NP (PRP outros))(VP (VBP t�m)(VBN vindo)(IN a)(VB perder))(NP (NN quadros)))(.)))'

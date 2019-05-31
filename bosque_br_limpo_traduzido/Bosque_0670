@@ -1,37 +1,67 @@
-(S (VP (NP (DT A)
-                                 (NN projeção)
-                                 (PP 
-                                   (IN de)
-                                   (NP 
-                                     (NN juros)
-                                     (VP 
-                                       (VP 
-                                         (VBN acumulados))
-                                       (PP 
-                                         (IN para)
-                                         (NP 
-                                           (PRP este)
-                                           (NN mês)))
-                                       (PP 
-                                         (IN em+)
-                                         (NP 
-                                           (DT o)
-                                           (NN mercado)
-                                           (ADJP 
-                                             (JJ futuro))))))))
-                        (VP (VBP caiu))
-                        (PP (IN de)
-                                 (NP (CD 3,76)
-                                        (NN %)))
-                        (PP (IN em+)
-                                 (NP (DT o)
-                                        (NN dia)
-                                        (ADJP 
-                                          (JJ anterior))
-                                        (PP 
-                                          (IN para)
-                                          (NP 
-                                            (CD 3,71)
-                                            (NN %)))))
-                        (ADVP (RB ontem))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN projeï¿½ï¿½o)
+      (PP 
+        (IN de)
+        (NP 
+          (NN juros)
+          (VP 
+            (VP 
+              (VBN acumulados)
+            )
+            (PP 
+              (IN para)
+              (NP 
+                (PRP este)
+                (NN mï¿½s)
+              )
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT o)
+                (NN mercado)
+                (ADJP 
+                  (JJ futuro)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP caiu)
+    )
+    (PP 
+      (IN de)
+      (NP 
+        (CD 3,76)
+        (NN %)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT o)
+        (NN dia)
+        (ADJP 
+          (JJ anterior)
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (CD 3,71)
+            (NN %)
+          )
+        )
+      )
+    )
+    (ADVP 
+      (RB ontem)
+    )
+    (.)
+  )
+)

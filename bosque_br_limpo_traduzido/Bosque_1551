@@ -1,38 +1,62 @@
-(S (VP (NP (DT O)
-                                 (NN trabalho)
-                                 (,)
-                                 (VP 
-                                   (VP 
-                                     (VBN coordenado))
-                                   (PP 
-                                     (IN por+)
-                                     (NP 
-                                       (DT a)
-                                       (NN diretora)
-                                       (NP 
-                                         (NNP Vera_Bononi))
-                                       (,)
-                                       (ADJP 
-                                         (CD 49))))
-                                   (,)))
-                        (VP (VBP propõe))
-                        (NP (NN soluções)
-                                (PP (IN para)
-                                       (NP 
-                                         (DT o)
-                                         (NN aproveitamento)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT o)
-                                             (NN espaço)
-                                             (VBN construído)
-                                             (,)
-                                             (PP 
-                                               (IN em)
-                                               (ADJP 
-                                                 (NN especial)))
-                                             (NP 
-                                               (DT a)
-                                               (NN marquise)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN trabalho)
+      (,)
+      (VP 
+        (VP 
+          (VBN coordenado)
+        )
+        (PP 
+          (IN por+)
+          (NP 
+            (DT a)
+            (NN diretora)
+            (NP 
+              (NNP Vera_Bononi)
+            )
+            (,)
+            (ADJP 
+              (CD 49)
+            )
+          )
+        )
+        (,)
+      )
+    )
+    (VP 
+      (VBP propï¿½e)
+    )
+    (NP 
+      (NN soluï¿½ï¿½es)
+      (PP 
+        (IN para)
+        (NP 
+          (DT o)
+          (NN aproveitamento)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN espaï¿½o)
+              (VBN construï¿½do)
+              (,)
+              (PP 
+                (IN em)
+                (ADJP 
+                  (NN especial)
+                )
+              )
+              (NP 
+                (DT a)
+                (NN marquise)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

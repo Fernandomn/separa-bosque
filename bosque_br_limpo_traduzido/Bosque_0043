@@ -1,33 +1,60 @@
-(S (VP (NP (DT A)
-                               (NN maioria)
-                               (PP (IN de+)
-                                      (NP 
-                                        (DT as)
-                                        (NN empresas)
-                                        (VP 
-                                          (NP 
-                                            (PRP que))
-                                          (VP 
-                                            (VBP produzem))
-                                          (NP 
-                                            (NN leite)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT as)
-                                                (NN marcas)
-                                                (VBN interditadas))))))))
-                      (ADVP (RB não))
-                      (VP (VBP tinha)
-                            (VBN sido)
-                            (VBN comunicada))
-                      (ADVP (RB ontem))
-                      (PP (IN sobre)
-                              (NP (DT a)
-                                     (NN liberação)
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT o)
-                                         (NN produto)))))
-                      (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN maioria)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT as)
+          (NN empresas)
+          (VP 
+            (NP 
+              (PRP que)
+            )
+            (VP 
+              (VBP produzem)
+            )
+            (NP 
+              (NN leite)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT as)
+                  (NN marcas)
+                  (VBN interditadas)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (ADVP 
+      (RB nï¿½o)
+    )
+    (VP 
+      (VBP tinha)
+      (VBN sido)
+      (VBN comunicada)
+    )
+    (ADVP 
+      (RB ontem)
+    )
+    (PP 
+      (IN sobre)
+      (NP 
+        (DT a)
+        (NN liberaï¿½ï¿½o)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN produto)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

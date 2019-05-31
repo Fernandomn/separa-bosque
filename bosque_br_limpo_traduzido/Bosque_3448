@@ -1,21 +1,43 @@
-(S (VP (NP (DT O)
-                                 (NN deputado)
-                                 (NP (NNP Adroaldo_Streck))
-                                 (-LCB-)
-                                 (NP 
-                                   (NNP PSDB-RS))
-                                 (-RCB-))
-                        (VP (VBP ficou))
-                        (VP (VP (VBN encarregado))
-                                (PP (IN de)
-                                        (VP 
-                                          (VP 
-                                            (VB confirmar))
-                                          (PP 
-                                            (IN com)
-                                            (NP 
-                                              (NNP Britto)))
-                                          (NP 
-                                            (DT o)
-                                            (NN encontro)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN deputado)
+      (NP 
+        (NNP Adroaldo_Streck)
+      )
+      (-LCB-)
+      (NP 
+        (NNP PSDB-RS)
+      )
+      (-RCB-)
+    )
+    (VP 
+      (VBP ficou)
+    )
+    (VP 
+      (VP 
+        (VBN encarregado)
+      )
+      (PP 
+        (IN de)
+        (VP 
+          (VP 
+            (VB confirmar)
+          )
+          (PP 
+            (IN com)
+            (NP 
+              (NNP Britto)
+            )
+          )
+          (NP 
+            (DT o)
+            (NN encontro)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

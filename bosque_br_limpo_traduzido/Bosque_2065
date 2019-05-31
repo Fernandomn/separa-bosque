@@ -1,28 +1,56 @@
-(S (VP (NP (DT O)
-                                 (NN meia)
-                                 (NP (NNP Mazinho)))
-                        (VP (VBP deve)
-                              (VB substituir))
-                        (NP (DT o)
-                                (NN meia)
-                                (ADJP 
-                                  (JJ defensivo))
-                                (NP (NNP Mauro_Silva)))
-                        (NP (NN segunda-feira))
-                        (PP (IN contra)
-                                 (NP (DT os)
-                                        (NNP Estados_Unidos)))
-                        (PP (IN por+)
-                                 (NP (DT a)
-                                        (JJ segunda)
-                                        (NN fase)
-                                        (-LCB-)
-                                        (NP 
-                                          (NN oitavas-de-final))
-                                        (-RCB-)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NNP Copa_do_Mundo)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN meia)
+      (NP 
+        (NNP Mazinho)
+      )
+    )
+    (VP 
+      (VBP deve)
+      (VB substituir)
+    )
+    (NP 
+      (DT o)
+      (NN meia)
+      (ADJP 
+        (JJ defensivo)
+      )
+      (NP 
+        (NNP Mauro_Silva)
+      )
+    )
+    (NP 
+      (NN segunda-feira)
+    )
+    (PP 
+      (IN contra)
+      (NP 
+        (DT os)
+        (NNP Estados_Unidos)
+      )
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT a)
+        (JJ segunda)
+        (NN fase)
+        (-LCB-)
+        (NP 
+          (NN oitavas-de-final)
+        )
+        (-RCB-)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP Copa_do_Mundo)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

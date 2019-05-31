@@ -1,56 +1,90 @@
-(S (VP (NP (DT O)
-                                 (NN chefe)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NN gerência)
-                                          (ADJP 
-                                            (JJ jurídica))
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT o)
-                                              (NNP BNDES)
-                                              (,)
-                                              (PP 
-                                                (IN em)
-                                                (NP 
-                                                  (NNP São_Paulo)))))))
-                                 (,)
-                                 (NP 
-                                   (NNP Arnaldo_Montenegro))
-                                 (,)
-                                 (ADJP 
-                                   (CD 43))
-                                 (,))
-                        (VP (VBP disse))
-                        (VP (IN que)
-                                 (VP (VBP será)
-                                       (VBN impetrada))
-                                 (NP 
-                                   (DT uma)
-                                   (NN ação)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (NN agravo)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN instrumento)))))
-                                   (PP 
-                                     (IN com)
-                                     (NP 
-                                       (NN pedido)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN reconsideração)))
-                                       (PP 
-                                         (IN a+)
-                                         (NP 
-                                           (DT o)
-                                           (NN juiz)
-                                           (NP 
-                                             (NNP Andrade_Martins))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN chefe)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NN gerï¿½ncia)
+          (ADJP 
+            (JJ jurï¿½dica)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP BNDES)
+              (,)
+              (PP 
+                (IN em)
+                (NP 
+                  (NNP Sï¿½o_Paulo)
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+      (NP 
+        (NNP Arnaldo_Montenegro)
+      )
+      (,)
+      (ADJP 
+        (CD 43)
+      )
+      (,)
+    )
+    (VP 
+      (VBP disse)
+    )
+    (VP 
+      (IN que)
+      (VP 
+        (VBP serï¿½)
+        (VBN impetrada)
+      )
+      (NP 
+        (DT uma)
+        (NN aï¿½ï¿½o)
+        (PP 
+          (IN de)
+          (NP 
+            (NN agravo)
+            (PP 
+              (IN de)
+              (NP 
+                (NN instrumento)
+              )
+            )
+          )
+        )
+        (PP 
+          (IN com)
+          (NP 
+            (NN pedido)
+            (PP 
+              (IN de)
+              (NP 
+                (NN reconsideraï¿½ï¿½o)
+              )
+            )
+            (PP 
+              (IN a+)
+              (NP 
+                (DT o)
+                (NN juiz)
+                (NP 
+                  (NNP Andrade_Martins)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

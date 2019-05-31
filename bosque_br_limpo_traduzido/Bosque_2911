@@ -1,28 +1,48 @@
-(S (VP (NP (DT O)
-                                 (NNP Folha_Informações))
-                        (VP (VBP é))
-                        (NP (DT um)
-                               (NN serviço)
-                               (PP (IN de+)
-                                      (NP 
-                                        (DT o)
-                                        (NN Banco)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NN Dados)
-                                            (PP 
-                                              (IN de+)
-                                              (NP 
-                                                (DT a)
-                                                (NNP Folha_de_S._Paulo)))))
-                                        (-LCB-)
-                                        (NP 
-                                          (NN tecnologia)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP Telesis_Sistemas_em_Telecomunicações))))
-                                        (-RCB-))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NNP Folha_Informaï¿½ï¿½es)
+    )
+    (VP 
+      (VBP ï¿½)
+    )
+    (NP 
+      (DT um)
+      (NN serviï¿½o)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN Banco)
+          (PP 
+            (IN de)
+            (NP 
+              (NN Dados)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT a)
+                  (NNP Folha_de_S._Paulo)
+                )
+              )
+            )
+          )
+          (-LCB-)
+          (NP 
+            (NN tecnologia)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT a)
+                (NNP Telesis_Sistemas_em_Telecomunicaï¿½ï¿½es)
+              )
+            )
+          )
+          (-RCB-)
+        )
+      )
+    )
+    (.)
+  )
+)

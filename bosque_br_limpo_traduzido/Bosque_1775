@@ -1,38 +1,65 @@
-(S (VP (NP (DT O)
-                                 (NN lucro)
-                                 (ADJP 
-                                   (JJ líquido))
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP Banco_Bandeirantes)))
-                                 (PP (IN em+)
-                                        (NP 
-                                          (DT o)
-                                          (JJ primeiro)
-                                          (NN semestre))))
-                        (VP (VBP foi))
-                        (PP (IN de)
-                               (NP (NN CR$)
-                                      (NP 
-                                        (CD 44)
-                                        (NN bilhões))
-                                      (,)
-                                      (PP 
-                                        (IN com)
-                                        (NP 
-                                          (DT um)
-                                          (NN retorno)
-                                          (PP 
-                                            (IN de)
-                                            (NP 
-                                              (CD 12,6)
-                                              (NN %)))
-                                          (PP 
-                                            (IN sobre)
-                                            (NP 
-                                              (DT o)
-                                              (NN patrimônio)
-                                              (ADJP 
-                                                (JJ líquido))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN lucro)
+      (ADJP 
+        (JJ lï¿½quido)
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NNP Banco_Bandeirantes)
+        )
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT o)
+          (JJ primeiro)
+          (NN semestre)
+        )
+      )
+    )
+    (VP 
+      (VBP foi)
+    )
+    (PP 
+      (IN de)
+      (NP 
+        (NN CR$)
+        (NP 
+          (CD 44)
+          (NN bilhï¿½es)
+        )
+        (,)
+        (PP 
+          (IN com)
+          (NP 
+            (DT um)
+            (NN retorno)
+            (PP 
+              (IN de)
+              (NP 
+                (CD 12,6)
+                (NN %)
+              )
+            )
+            (PP 
+              (IN sobre)
+              (NP 
+                (DT o)
+                (NN patrimï¿½nio)
+                (ADJP 
+                  (JJ lï¿½quido)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

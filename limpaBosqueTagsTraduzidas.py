@@ -31,6 +31,14 @@ import sys
 # 3581,3583,3592,3820,3833,3853,3881,3882,3898,3898,3976,4028,4096,4117,4160,
 # 4300,4320,4338,4426,4517,4519,4553,4565,4580,4622,4710,4856,4973,5086,5099,
 # 5101,5113,5139
+# Erro nos arquivos (CF):
+# 498: Possuia uma tag P.vp -> converti pra P:vp
+# 593: tem um PRP 'tipo' mal formatado. O prp não estava numa folha.
+# 922: tinha um espaço em N>ARGS :pp, que tava zoando o rolê
+# 1031: um artigo não fechado, que nem no 593
+# 1183: palavra "tiro" não fechada. Como em 593
+# 3013: Artigo não fechado. "o mais bonito". como em 593
+# 3159: Artigo não fechado. Descobrir porque tem tantos artigos abertos.
 
 tabela = {}
 
