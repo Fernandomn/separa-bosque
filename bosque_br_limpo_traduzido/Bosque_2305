@@ -1,26 +1,47 @@
-(S (VP (NP (DT O)
-                                 (NN partido))
-                        (VP (VBP atua))
-                        (PP (IN em+)
-                                (NP (DT o)
-                                       (NN movimento)
-                                       (ADJP 
-                                         (JJ sindical))))
-                        (ADVP (RB através)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT a)
-                                       («)
-                                       (NNP Corrente_Sindical_Classista)
-                                       (»)
-                                       (,)
-                                       (VP 
-                                         (VP 
-                                           (VBN filiada))
-                                         (PP 
-                                           (IN a+)
-                                           (NP 
-                                             (DT a)
-                                             (NNP CUT)))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN partido)
+    )
+    (VP 
+      (VBP atua)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT o)
+        (NN movimento)
+        (ADJP 
+          (JJ sindical)
+        )
+      )
+    )
+    (ADVP 
+      (RB atravï¿½s)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (ï¿½)
+          (NNP Corrente_Sindical_Classista)
+          (ï¿½)
+          (,)
+          (VP 
+            (VP 
+              (VBN filiada)
+            )
+            (PP 
+              (IN a+)
+              (NP 
+                (DT a)
+                (NNP CUT)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

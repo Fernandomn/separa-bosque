@@ -1,33 +1,56 @@
-(S (VP (NP (NN Pesquisa)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP Laerte_Cordeiro_&_Associados)))
-                                 (,)
-                                 (PP 
-                                   (IN com_base_em)
-                                   (NP 
-                                     (NN anúncios)
-                                     (PP 
-                                       (IN de)
-                                       (NP 
-                                         (NN emprego)))))
-                                 (,))
-                        (VP (VBP indica))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT a)
-                                   (NN área))
-                                 (VP (VBP voltou)
-                                       (IN a)
-                                       (VB ocupar))
-                                 (NP 
-                                   (DT a)
-                                   (JJ segunda)
-                                   (NN posição))
-                                 (PP 
-                                   (IN em+)
-                                   (NP 
-                                     (DT a)
-                                     (NN demanda))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Pesquisa)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP Laerte_Cordeiro_&_Associados)
+        )
+      )
+      (,)
+      (PP 
+        (IN com_base_em)
+        (NP 
+          (NN anï¿½ncios)
+          (PP 
+            (IN de)
+            (NP 
+              (NN emprego)
+            )
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP indica)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT a)
+        (NN ï¿½rea)
+      )
+      (VP 
+        (VBP voltou)
+        (IN a)
+        (VB ocupar)
+      )
+      (NP 
+        (DT a)
+        (JJ segunda)
+        (NN posiï¿½ï¿½o)
+      )
+      (PP 
+        (IN em+)
+        (NP 
+          (DT a)
+          (NN demanda)
+        )
+      )
+    )
+    (.)
+  )
+)

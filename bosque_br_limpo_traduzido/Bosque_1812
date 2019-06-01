@@ -1,31 +1,55 @@
-(S (VP (ADVP (RB Ontem))
-                        (NP (DT a)
-                                 (NN cidade))
-                        (VP (VBP conferiu))
-                        (NP (DT os)
-                                (NN estragos)
-                                (VP (VP 
-                                          (VBN causados))
-                                        (PP 
-                                          (IN por+)
-                                          (NP 
-                                            (DT a)
-                                            (NN chuva)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NN quinta_feira)))
-                                            (,)
-                                            (NP 
-                                              (DT a)
-                                              (JJ maior)
-                                              (NN chuva)
-                                              (PP 
-                                                (IN de)
-                                                (NP 
-                                                  (NN março)))
-                                              (PP 
-                                                (IN desde)
-                                                (ADJP 
-                                                  (CD 1930))))))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Ontem)
+    )
+    (NP 
+      (DT a)
+      (NN cidade)
+    )
+    (VP 
+      (VBP conferiu)
+    )
+    (NP 
+      (DT os)
+      (NN estragos)
+      (VP 
+        (VP 
+          (VBN causados)
+        )
+        (PP 
+          (IN por+)
+          (NP 
+            (DT a)
+            (NN chuva)
+            (PP 
+              (IN de)
+              (NP 
+                (NN quinta_feira)
+              )
+            )
+            (,)
+            (NP 
+              (DT a)
+              (JJ maior)
+              (NN chuva)
+              (PP 
+                (IN de)
+                (NP 
+                  (NN marï¿½o)
+                )
+              )
+              (PP 
+                (IN desde)
+                (ADJP 
+                  (CD 1930)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

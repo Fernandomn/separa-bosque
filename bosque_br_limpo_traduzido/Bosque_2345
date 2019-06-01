@@ -1,39 +1,69 @@
-(S (VP (NP (DT A)
-                                 (NN disciplina)
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN cirurgia)
-                                          (ADJP 
-                                            (JJ plástica))))
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT a)
-                                          (NNP Faculdade_de_Medicina)
-                                          (PP 
-                                            (IN de+)
-                                            (NP 
-                                              (DT a)
-                                              (NN USP))))))
-                        (VP (VBP está)
-                              (VBG lançando))
-                        (NP (DT um)
-                                (NN programa)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN cirurgia)
-                                         (ADJP 
-                                           (JJ plástica))
-                                         (PP 
-                                           (IN em)
-                                           (NP 
-                                             (NN crianças)))))
-                                (PP (IN com)
-                                       (NP 
-                                         (DT a)
-                                         (NN colaboração)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT o)
-                                             (NNP Banco_Real))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN disciplina)
+      (PP 
+        (IN de)
+        (NP 
+          (NN cirurgia)
+          (ADJP 
+            (JJ plï¿½stica)
+          )
+        )
+      )
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP Faculdade_de_Medicina)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN USP)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP estï¿½)
+      (VBG lanï¿½ando)
+    )
+    (NP 
+      (DT um)
+      (NN programa)
+      (PP 
+        (IN de)
+        (NP 
+          (NN cirurgia)
+          (ADJP 
+            (JJ plï¿½stica)
+          )
+          (PP 
+            (IN em)
+            (NP 
+              (NN crianï¿½as)
+            )
+          )
+        )
+      )
+      (PP 
+        (IN com)
+        (NP 
+          (DT a)
+          (NN colaboraï¿½ï¿½o)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NNP Banco_Real)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

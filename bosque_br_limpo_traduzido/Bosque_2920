@@ -1,20 +1,39 @@
-(S (VP (NP (PRP Ele))
-                        (VP (VBP acredita))
-                        (,)
-                        (ADVP (RB no_entanto))
-                        (,)
-                        (VP (IN que)
-                                 (NP 
-                                   (DT o)
-                                   (NN mercado)
-                                   (ADJP 
-                                     (JJ acionário))
-                                   (ADJP 
-                                     (JJ brasileiro)))
-                                 (VP (VBP deve)
-                                       (VB crescer))
-                                 (PP 
-                                   (IN em)
-                                   (ADJP 
-                                     (CD 1995))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Ele)
+    )
+    (VP 
+      (VBP acredita)
+    )
+    (,)
+    (ADVP 
+      (RB no_entanto)
+    )
+    (,)
+    (VP 
+      (IN que)
+      (NP 
+        (DT o)
+        (NN mercado)
+        (ADJP 
+          (JJ acionï¿½rio)
+        )
+        (ADJP 
+          (JJ brasileiro)
+        )
+      )
+      (VP 
+        (VBP deve)
+        (VB crescer)
+      )
+      (PP 
+        (IN em)
+        (ADJP 
+          (CD 1995)
+        )
+      )
+    )
+    (.)
+  )
+)

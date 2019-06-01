@@ -1,34 +1,56 @@
-(S (VP (NP (DT O)
-                                 (NN museu))
-                        (VP (VBP funciona))
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NN casa)
-                                        (PP 
-                                          (IN em)
-                                          (VP 
-                                            (PRP que)
-                                            (VP 
-                                              (VBP nasceu))
-                                            (NP 
-                                              (NNP Meirelles)
-                                              (,)
-                                              (NP 
-                                                (NN autor)
-                                                (PP 
-                                                  (IN de+)
-                                                  (NP 
-                                                    (DT o)
-                                                    (NN quadro)
-                                                    («)
-                                                    (NP 
-                                                      (NNP A_Primeira_Missa_no_Brasil))
-                                                    (»)
-                                                    (,)
-                                                    (NP 
-                                                      (PRP sua)
-                                                      (NN obra)
-                                                      (ADJP 
-                                                        (RB mais)
-                                                        (JJ famosa)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN museu)
+    )
+    (VP 
+      (VBP funciona)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NN casa)
+        (PP 
+          (IN em)
+          (VP 
+            (PRP que)
+            (VP 
+              (VBP nasceu)
+            )
+            (NP 
+              (NNP Meirelles)
+              (,)
+              (NP 
+                (NN autor)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT o)
+                    (NN quadro)
+                    (ï¿½)
+                    (NP 
+                      (NNP A_Primeira_Missa_no_Brasil)
+                    )
+                    (ï¿½)
+                    (,)
+                    (NP 
+                      (PRP sua)
+                      (NN obra)
+                      (ADJP 
+                        (RB mais)
+                        (JJ famosa)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

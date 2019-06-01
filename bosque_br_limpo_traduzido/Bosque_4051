@@ -1,20 +1,38 @@
-(S (VP (NP (DT A)
-                                 (NN falta)
-                                 (PP 
-                                   (IN de)
-                                   (NP 
-                                     (DT um)
-                                     (NN programa))))
-                        (VP (VBP poderia)
-                              (VB dar))
-                        (NP (DT a)
-                                (NN impressão)
-                                (PP (IN de)
-                                       (VP 
-                                         (ADVP 
-                                           (RB não))
-                                         (VP 
-                                           (VB ter))
-                                         (NP 
-                                           (NN metas)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN falta)
+      (PP 
+        (IN de)
+        (NP 
+          (DT um)
+          (NN programa)
+        )
+      )
+    )
+    (VP 
+      (VBP poderia)
+      (VB dar)
+    )
+    (NP 
+      (DT a)
+      (NN impressï¿½o)
+      (PP 
+        (IN de)
+        (VP 
+          (ADVP 
+            (RB nï¿½o)
+          )
+          (VP 
+            (VB ter)
+          )
+          (NP 
+            (NN metas)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,12 +1,25 @@
-(S (NP (NN trajeto)
-                        (PP (IN de+)
-                               (NP (DT o)
-                                      (NN cruzeiro)))
-                        (-LCB-)
-                        (VP (VP 
-                                      (VBN marcado))
-                                    (PP 
-                                      (IN em)
-                                      (ADJP 
-                                        (JJ azul))))
-                        (-RCB-)))
+(S 
+  (NP 
+    (NN trajeto)
+    (PP 
+      (IN de+)
+      (NP 
+        (DT o)
+        (NN cruzeiro)
+      )
+    )
+    (-LCB-)
+    (VP 
+      (VP 
+        (VBN marcado)
+      )
+      (PP 
+        (IN em)
+        (ADJP 
+          (JJ azul)
+        )
+      )
+    )
+    (-RCB-)
+  )
+)

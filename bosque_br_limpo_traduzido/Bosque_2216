@@ -1,36 +1,60 @@
-(S (VP (VP (NP 
-                                   (DT O)
-                                   (NN inglês)
-                                   (NP 
-                                     (NNP John_Ritchings)))
-                                 (VP (VBP vai)
-                                       (VB escrever))
-                                 (NP 
-                                   (DT um)
-                                   (NN livro)
-                                   (PP 
-                                     (IN sobre)
-                                     (NP 
-                                       (DT os)
-                                       (NN meses)
-                                       (VP 
-                                         (NP 
-                                           (PRP que))
-                                         (VP 
-                                           (VBP foi)
-                                           (VBN torturado))
-                                         (PP 
-                                           (IN por+)
-                                           (NP 
-                                             (DT o)
-                                             (NN galo)
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN vizinha))))))))))
-                        (,)
-                        (VP (VBP diz))
-                        (NP (DT o)
-                                 (NN jornal))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (NP 
+        (DT O)
+        (NN inglï¿½s)
+        (NP 
+          (NNP John_Ritchings)
+        )
+      )
+      (VP 
+        (VBP vai)
+        (VB escrever)
+      )
+      (NP 
+        (DT um)
+        (NN livro)
+        (PP 
+          (IN sobre)
+          (NP 
+            (DT os)
+            (NN meses)
+            (VP 
+              (NP 
+                (PRP que)
+              )
+              (VP 
+                (VBP foi)
+                (VBN torturado)
+              )
+              (PP 
+                (IN por+)
+                (NP 
+                  (DT o)
+                  (NN galo)
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (NN vizinha)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP diz)
+    )
+    (NP 
+      (DT o)
+      (NN jornal)
+    )
+    (.)
+  )
+)

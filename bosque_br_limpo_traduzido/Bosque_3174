@@ -1,34 +1,61 @@
-(S (VP (...)
-                        (NP (NN casos)
-                                 (ADJP 
-                                   (JJ positivos))
-                                 (PP (IN de)
-                                        (NP 
-                                          (NN dengue)))
-                                 (PP (IN em)
-                                        (NP 
-                                          (NNP Monte_Aprazível)
-                                          (-LCB-)
-                                          (NP 
-                                            (CD 38)
-                                            (NN km)
-                                            (PP 
-                                              (IN de)
-                                              (NP 
-                                                (NNP Rio_Preto-SP))))
-                                          (-RCB-))))
-                        (VP (VBP foram)
-                              (VBN divulgados))
-                        (ADVP (RB ontem))
-                        (PP (IN por+)
-                                 (NP (DT o)
-                                        (NNP Ersa)
-                                        (-LCB-)
-                                        (NP 
-                                          (NNP Escritório_Regional_de_Saúde))
-                                        (-RCB-)
-                                        (PP 
-                                          (IN de)
-                                          (NP 
-                                            (NNP Rio_Preto)))))
-                        (.)))
+(S 
+  (VP 
+    (...)
+    (NP 
+      (NN casos)
+      (ADJP 
+        (JJ positivos)
+      )
+      (PP 
+        (IN de)
+        (NP 
+          (NN dengue)
+        )
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NNP Monte_Aprazï¿½vel)
+          (-LCB-)
+          (NP 
+            (CD 38)
+            (NN km)
+            (PP 
+              (IN de)
+              (NP 
+                (NNP Rio_Preto-SP)
+              )
+            )
+          )
+          (-RCB-)
+        )
+      )
+    )
+    (VP 
+      (VBP foram)
+      (VBN divulgados)
+    )
+    (ADVP 
+      (RB ontem)
+    )
+    (PP 
+      (IN por+)
+      (NP 
+        (DT o)
+        (NNP Ersa)
+        (-LCB-)
+        (NP 
+          (NNP Escritï¿½rio_Regional_de_Saï¿½de)
+        )
+        (-RCB-)
+        (PP 
+          (IN de)
+          (NP 
+            (NNP Rio_Preto)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,12 +1,29 @@
-(S (VP (NP (DT A)
-                                 (NN frase)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN ministro))))
-                        (VP (VBP desagradou))
-                        (ADVP (RB até_mesmo))
-                        (PP (IN a+)
-                                (NP (DT o)
-                                       (NNP PSDB)))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN frase)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NN ministro)
+        )
+      )
+    )
+    (VP 
+      (VBP desagradou)
+    )
+    (ADVP 
+      (RB atï¿½_mesmo)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT o)
+        (NNP PSDB)
+      )
+    )
+    (.)
+  )
+)

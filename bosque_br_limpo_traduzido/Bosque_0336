@@ -1,24 +1,52 @@
-(S (VP (NP (ADJP 
-                                  (RB Cerca_de)
-                                  (NP (CD 20)
-                                        (NN mil)))
-                                (NN pessoas))
-                       (VP (VBP fizeram))
-                       (NP (NN cursos)
-                               (ADJP (JJ proficionalizantes)))
-                       (PP (IN em+)
-                                (NP (DT o)
-                                       (NNP Senac)
-                                       (-LCB-)
-                                       (NP 
-                                         (NNP Serviço_Nacional_de_Aprendizagem_Comercial))
-                                       (-RCB-)))
-                       (PP (IN em+)
-                                (NP (DT o)
-                                       (NN ano)
-                                       (VBN passado)))
-                       (,)
-                       (PP (IN em+)
-                                (NP (DT a)
-                                       (NNP Paraíba)))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (ADJP 
+        (RB Cerca_de)
+        (NP 
+          (CD 20)
+          (NN mil)
+        )
+      )
+      (NN pessoas)
+    )
+    (VP 
+      (VBP fizeram)
+    )
+    (NP 
+      (NN cursos)
+      (ADJP 
+        (JJ proficionalizantes)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT o)
+        (NNP Senac)
+        (-LCB-)
+        (NP 
+          (NNP Serviï¿½o_Nacional_de_Aprendizagem_Comercial)
+        )
+        (-RCB-)
+      )
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT o)
+        (NN ano)
+        (VBN passado)
+      )
+    )
+    (,)
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NNP Paraï¿½ba)
+      )
+    )
+    (.)
+  )
+)

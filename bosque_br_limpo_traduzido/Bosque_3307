@@ -1,16 +1,35 @@
-(S (VP (PP (IN Em+)
-                                 (NP (PRP este)
-                                        (NN ano)))
-                        (,)
-                        (NP (DT a)
-                                 (NN secretaria))
-                        (VP (VBP espera))
-                        (VP (VP (VB vacinar))
-                                 (NP 
-                                   (NP 
-                                     (ADJP 
-                                       (RB cerca_de)
-                                       (CD 480))
-                                     (NN mil))
-                                   (NN crianças)))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Em+)
+      (NP 
+        (PRP este)
+        (NN ano)
+      )
+    )
+    (,)
+    (NP 
+      (DT a)
+      (NN secretaria)
+    )
+    (VP 
+      (VBP espera)
+    )
+    (VP 
+      (VP 
+        (VB vacinar)
+      )
+      (NP 
+        (NP 
+          (ADJP 
+            (RB cerca_de)
+            (CD 480)
+          )
+          (NN mil)
+        )
+        (NN crianï¿½as)
+      )
+    )
+    (.)
+  )
+)

@@ -1,40 +1,69 @@
-(S (VP (NP (NNP Juan_Manuel_Fangio)
-                                 (,)
-                                 (NP 
-                                   (NN sobrinho)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT o)
-                                       (NN argentino)
-                                       (ADJP 
-                                         (JJ pentacampeão)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NNP Fórmula_1)))))))
-                                 (,))
-                        (VP (VBP está)
-                              (VBG testando))
-                        (PP (IN em+)
-                                 (NP (DT a)
-                                        (NNP Califórnia)))
-                        (NP (DT um)
-                                (JJ novo)
-                                (NN protótipo)
-                                (VP (NP 
-                                          (PRP que))
-                                        (VP 
-                                          (VBP vai)
-                                          (VB dar))
-                                        (VP 
-                                          (NP 
-                                            (PRP o_que))
-                                          (VP 
-                                            (VBP falar))
-                                          (PP 
-                                            (IN em+)
-                                            (NP 
-                                              (DT a)
-                                              (NNP Fórmula_Indy))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Juan_Manuel_Fangio)
+      (,)
+      (NP 
+        (NN sobrinho)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT o)
+            (NN argentino)
+            (ADJP 
+              (JJ pentacampeï¿½o)
+              (PP 
+                (IN de)
+                (NP 
+                  (NNP Fï¿½rmula_1)
+                )
+              )
+            )
+          )
+        )
+      )
+      (,)
+    )
+    (VP 
+      (VBP estï¿½)
+      (VBG testando)
+    )
+    (PP 
+      (IN em+)
+      (NP 
+        (DT a)
+        (NNP Califï¿½rnia)
+      )
+    )
+    (NP 
+      (DT um)
+      (JJ novo)
+      (NN protï¿½tipo)
+      (VP 
+        (NP 
+          (PRP que)
+        )
+        (VP 
+          (VBP vai)
+          (VB dar)
+        )
+        (VP 
+          (NP 
+            (PRP o_que)
+          )
+          (VP 
+            (VBP falar)
+          )
+          (PP 
+            (IN em+)
+            (NP 
+              (DT a)
+              (NNP Fï¿½rmula_Indy)
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

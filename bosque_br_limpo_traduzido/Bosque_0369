@@ -1,15 +1,34 @@
-(S (VP (NP (DT A)
-                                (NN estimativa)
-                                (PP (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NNP Receita_Federal))))
-                       (VP (VBP era))
-                       (VP (VP (VB receber))
-                               (NP (CD 7)
-                                       (NN milhões)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN declarações)))))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (DT A)
+      (NN estimativa)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (NNP Receita_Federal)
+        )
+      )
+    )
+    (VP 
+      (VBP era)
+    )
+    (VP 
+      (VP 
+        (VB receber)
+      )
+      (NP 
+        (CD 7)
+        (NN milhï¿½es)
+        (PP 
+          (IN de)
+          (NP 
+            (NN declaraï¿½ï¿½es)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

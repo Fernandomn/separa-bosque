@@ -1,27 +1,51 @@
-(S (VP (NP (ADVP 
-                                   (RB Mais)
-                                   (PP 
-                                     (IN de+ 
-                                       (NP 
-                                         (DT a)
-                                         (NN metade)
-                                         (PP 
-                                           (IN de+)
-                                           (NP 
-                                             (DT o)
-                                             (NN rombo)
-                                             (PP 
-                                               (IN em+)
-                                               (NP 
-                                                 (DT a)
-                                                 (NN Previdência))))))))))
-                        (VP (VBP tem))
-                        (ADVP (RB como)
-                                (NP (NN causa)))
-                        (NP (DT a)
-                                (NN sonegação)
-                                (PP 
-                                  (IN de)
-                                  (NP 
-                                    (NN empresas))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (ADVP 
+        (RB Mais)
+        (PP 
+          (IN 
+            (NP 
+              (DT a)
+              (NN metade)
+              (PP 
+                (IN de+)
+                (NP 
+                  (DT o)
+                  (NN rombo)
+                  (PP 
+                    (IN em+)
+                    (NP 
+                      (DT a)
+                      (NN Previdï¿½ncia)
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP tem)
+    )
+    (ADVP 
+      (RB como)
+      (NP 
+        (NN causa)
+      )
+    )
+    (NP 
+      (DT a)
+      (NN sonegaï¿½ï¿½o)
+      (PP 
+        (IN de)
+        (NP 
+          (NN empresas)
+        )
+      )
+    )
+    (.)
+  )
+)

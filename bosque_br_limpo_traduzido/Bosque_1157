@@ -1,26 +1,46 @@
-(S (VP (NP (DT O)
-                                 (NN brinquedo))
-                        (VP (VBP é))
-                        (NP (DT a)
-                               (ADJP (RB mais)
-                                        (JJ recente))
-                               (NN sensação)
-                               (PP (IN de+)
-                                      (NP 
-                                        (DT a)
-                                        (JJ apetitosa)
-                                        (NN loja)
-                                        (NP 
-                                          (NNP Fao_Schwarz))
-                                        (,)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NNP Quinta_avenida)))
-                                        (,))
-                                      (PP 
-                                        (IN em)
-                                        (NP 
-                                          (NNP Nova_York)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN brinquedo)
+    )
+    (VP 
+      (VBP ï¿½)
+    )
+    (NP 
+      (DT a)
+      (ADJP 
+        (RB mais)
+        (JJ recente)
+      )
+      (NN sensaï¿½ï¿½o)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT a)
+          (JJ apetitosa)
+          (NN loja)
+          (NP 
+            (NNP Fao_Schwarz)
+          )
+          (,)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NNP Quinta_avenida)
+            )
+          )
+          (,)
+        )
+        (PP 
+          (IN em)
+          (NP 
+            (NNP Nova_York)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

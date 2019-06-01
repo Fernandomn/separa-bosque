@@ -1,8 +1,21 @@
-(S (VP (NP (DT O)
-                                (NN castelo)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN cartas))))
-                       (VP (VBP ruiu))
-                       (ADVP (RB logo))
-                       (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN castelo)
+      (PP 
+        (IN de)
+        (NP 
+          (NN cartas)
+        )
+      )
+    )
+    (VP 
+      (VBP ruiu)
+    )
+    (ADVP 
+      (RB logo)
+    )
+    (.)
+  )
+)

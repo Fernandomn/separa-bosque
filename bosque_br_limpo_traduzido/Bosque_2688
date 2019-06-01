@@ -1,13 +1,28 @@
-(S (NP (NP (NNP Folha))
-                       (--)
-                       (VP (NP 
-                                  (DT O)
-                                  (NN estado)
-                                  (PP 
-                                    (IN de)
-                                    (NP 
-                                      (NN sítio))))
-                                (VP (VBP seria))
-                                (NP (DT um)
-                                       (NN golpe))
-                                (?))))
+(S 
+  (NP 
+    (NP 
+      (NNP Folha)
+    )
+    (--)
+    (VP 
+      (NP 
+        (DT O)
+        (NN estado)
+        (PP 
+          (IN de)
+          (NP 
+            (NN sï¿½tio)
+          )
+        )
+      )
+      (VP 
+        (VBP seria)
+      )
+      (NP 
+        (DT um)
+        (NN golpe)
+      )
+      (?)
+    )
+  )
+)

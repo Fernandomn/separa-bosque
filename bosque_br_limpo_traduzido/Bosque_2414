@@ -1,22 +1,45 @@
-(S (VP (PP (IN Para)
-                                 (VP 
-                                   (NP 
-                                     (PRP quem))
-                                   (VP 
-                                     (VBP paga))))
-                        (,)
-                        (VP (VBP pode))
-                        (ADVP (RB não))
-                        (VP (VB ser))
-                        (NP (DT um)
-                               (JJ grande)
-                               (NN negócio))
-                        (VP (VP (VB ter)
-                                        (IN de)
-                                        (VB pagar))
-                                  (NP 
-                                    (PRP mais)
-                                    (NN dinheiro))
-                                  (ADVP 
-                                    (RB todos_os_dias)))
-                        (.)))
+(S 
+  (VP 
+    (PP 
+      (IN Para)
+      (VP 
+        (NP 
+          (PRP quem)
+        )
+        (VP 
+          (VBP paga)
+        )
+      )
+    )
+    (,)
+    (VP 
+      (VBP pode)
+    )
+    (ADVP 
+      (RB nï¿½o)
+    )
+    (VP 
+      (VB ser)
+    )
+    (NP 
+      (DT um)
+      (JJ grande)
+      (NN negï¿½cio)
+    )
+    (VP 
+      (VP 
+        (VB ter)
+        (IN de)
+        (VB pagar)
+      )
+      (NP 
+        (PRP mais)
+        (NN dinheiro)
+      )
+      (ADVP 
+        (RB todos_os_dias)
+      )
+    )
+    (.)
+  )
+)

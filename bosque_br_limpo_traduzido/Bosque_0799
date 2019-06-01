@@ -1,51 +1,84 @@
-(S (VP (NP (PRP Essa)
-                                 (NN proposta))
-                        (VP (VBP permitiria))
-                        (PP (IN a+)
-                                (NP (DT o)
-                                       (NN governo)))
-                        (VP (VP (VB negociar))
-                                 (PP 
-                                   (IN em)
-                                   (NP 
-                                     (NN posição)
-                                     (ADJP 
-                                       (JJ favorável))))
-                                 (NP 
-                                   (DT o)
-                                   (NN resgate)
-                                   (PP 
-                                     (IN de+)
-                                     (NP 
-                                       (DT os)
-                                       (NN títulos)
-                                       (ADJP 
-                                         (JJ públicos)))))
-                                 (,)
-                                 (VP 
-                                   (IN já_que)
-                                   (NP 
-                                     (DT o)
-                                     (NN programa))
-                                   (VP 
-                                     (VBP admite))
-                                   (NP 
-                                     (DT o)
-                                     («)
-                                     (NN não-pagamento)
-                                     (ADJP 
-                                       (JJ parcial))
-                                     (PP 
-                                       (IN de+)
-                                       (NP 
-                                         (DT a)
-                                         (NN dívida)
-                                         (,)
-                                         (VP 
-                                           (VP 
-                                             (VBN assegurada))
-                                           (NP 
-                                             (DT a)
-                                             (NN poupança)))))
-                                     (»))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Essa)
+      (NN proposta)
+    )
+    (VP 
+      (VBP permitiria)
+    )
+    (PP 
+      (IN a+)
+      (NP 
+        (DT o)
+        (NN governo)
+      )
+    )
+    (VP 
+      (VP 
+        (VB negociar)
+      )
+      (PP 
+        (IN em)
+        (NP 
+          (NN posiï¿½ï¿½o)
+          (ADJP 
+            (JJ favorï¿½vel)
+          )
+        )
+      )
+      (NP 
+        (DT o)
+        (NN resgate)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT os)
+            (NN tï¿½tulos)
+            (ADJP 
+              (JJ pï¿½blicos)
+            )
+          )
+        )
+      )
+      (,)
+      (VP 
+        (IN jï¿½_que)
+        (NP 
+          (DT o)
+          (NN programa)
+        )
+        (VP 
+          (VBP admite)
+        )
+        (NP 
+          (DT o)
+          (ï¿½)
+          (NN nï¿½o-pagamento)
+          (ADJP 
+            (JJ parcial)
+          )
+          (PP 
+            (IN de+)
+            (NP 
+              (DT a)
+              (NN dï¿½vida)
+              (,)
+              (VP 
+                (VP 
+                  (VBN assegurada)
+                )
+                (NP 
+                  (DT a)
+                  (NN poupanï¿½a)
+                )
+              )
+            )
+          )
+          (ï¿½)
+        )
+      )
+    )
+    (.)
+  )
+)

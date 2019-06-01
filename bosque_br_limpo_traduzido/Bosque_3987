@@ -1,37 +1,61 @@
-(S (VP (NP (NNP Ferrara))
-                        (VP (VBP põe))
-                        (NP (DT o)
-                                (JJ excelente)
-                                (NNP Harvey_Keitel))
-                        (PP (IN para)
-                                 (VP 
-                                   (VP 
-                                     (VB interpretar))
-                                   (NP 
-                                     (DT o)
-                                     (PRP seu)
-                                     (NN papel)
-                                     (;)
-                                     (NP 
-                                       (PRP o)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NN diretor)
-                                           (VP 
-                                             (NP 
-                                               (PRP que))
-                                             (VP 
-                                               (VBP faz))
-                                             (PP 
-                                               (IN de+)
-                                               (NP 
-                                                 (DT a)
-                                                 (JJ falsa)
-                                                 (NN loira)))
-                                             (NP 
-                                               (DT uma)
-                                               (JJ verdadeira)
-                                               (NN atriz)))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Ferrara)
+    )
+    (VP 
+      (VBP pï¿½e)
+    )
+    (NP 
+      (DT o)
+      (JJ excelente)
+      (NNP Harvey_Keitel)
+    )
+    (PP 
+      (IN para)
+      (VP 
+        (VP 
+          (VB interpretar)
+        )
+        (NP 
+          (DT o)
+          (PRP seu)
+          (NN papel)
+          (;)
+          (NP 
+            (PRP o)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN diretor)
+                (VP 
+                  (NP 
+                    (PRP que)
+                  )
+                  (VP 
+                    (VBP faz)
+                  )
+                  (PP 
+                    (IN de+)
+                    (NP 
+                      (DT a)
+                      (JJ falsa)
+                      (NN loira)
+                    )
+                  )
+                  (NP 
+                    (DT uma)
+                    (JJ verdadeira)
+                    (NN atriz)
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,31 +1,56 @@
-(S (VP (ADVP (RB Hoje))
-                        (NP (PRP nós))
-                        (VP (VBP temos))
-                        (NP (DT o)
-                                (JJ maior)
-                                (NN setor)
-                                (ADJP 
-                                  (JJ agrícola))
-                                (ADJP 
-                                  (JJ privado)))
-                        (PP (IN entre)
-                                 (NP (DT os)
-                                        (NN países)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT a)
-                                            (NNP Comunidade_de_Estados_Independentes)
-                                            (-LCB-)
-                                            (NP 
-                                              (NN aliança)
-                                              (VP 
-                                                (NP 
-                                                  (PRP que))
-                                                (VP 
-                                                  (VBP substituiu))
-                                                (NP 
-                                                  (DT a)
-                                                  (NNP URSS))))
-                                            (-RCB-)))))
-                        (.)))
+(S 
+  (VP 
+    (ADVP 
+      (RB Hoje)
+    )
+    (NP 
+      (PRP nï¿½s)
+    )
+    (VP 
+      (VBP temos)
+    )
+    (NP 
+      (DT o)
+      (JJ maior)
+      (NN setor)
+      (ADJP 
+        (JJ agrï¿½cola)
+      )
+      (ADJP 
+        (JJ privado)
+      )
+    )
+    (PP 
+      (IN entre)
+      (NP 
+        (DT os)
+        (NN paï¿½ses)
+        (PP 
+          (IN de+)
+          (NP 
+            (DT a)
+            (NNP Comunidade_de_Estados_Independentes)
+            (-LCB-)
+            (NP 
+              (NN alianï¿½a)
+              (VP 
+                (NP 
+                  (PRP que)
+                )
+                (VP 
+                  (VBP substituiu)
+                )
+                (NP 
+                  (DT a)
+                  (NNP URSS)
+                )
+              )
+            )
+            (-RCB-)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

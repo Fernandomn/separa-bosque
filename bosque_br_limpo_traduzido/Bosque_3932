@@ -1,40 +1,68 @@
-(S (VP (VP (IN Embora)
-                                  (VP (VBP esteja))
-                                  (PP 
-                                    (IN a)
-                                    (NP 
-                                      (RB quase)
-                                      (CD 40)
-                                      (NN km)
-                                      (PP 
-                                        (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NN estádio))))))
-                        (,)
-                        (NP (DT o)
-                                 (NN hotel))
-                        (VP (VBP foi)
-                              (VBN escolhido))
-                        (VP (IN porque)
-                                  (VP (VBP está))
-                                  (PP 
-                                    (IN próximo_de+)
-                                    (NP 
-                                      (DT a)
-                                      (NNP California_State_University)
-                                      (,)
-                                      (VP 
-                                        (ADVP 
-                                          (RB onde))
-                                        (NP 
-                                          (DT o)
-                                          (NNP Brasil))
-                                        (VP 
-                                          (VBP treinará))
-                                        (PP 
-                                          (IN durante)
-                                          (NP 
-                                            (PRP esta)
-                                            (NN semana)))))))
-                        (.)))
+(S 
+  (VP 
+    (VP 
+      (IN Embora)
+      (VP 
+        (VBP esteja)
+      )
+      (PP 
+        (IN a)
+        (NP 
+          (RB quase)
+          (CD 40)
+          (NN km)
+          (PP 
+            (IN de+)
+            (NP 
+              (DT o)
+              (NN estï¿½dio)
+            )
+          )
+        )
+      )
+    )
+    (,)
+    (NP 
+      (DT o)
+      (NN hotel)
+    )
+    (VP 
+      (VBP foi)
+      (VBN escolhido)
+    )
+    (VP 
+      (IN porque)
+      (VP 
+        (VBP estï¿½)
+      )
+      (PP 
+        (IN prï¿½ximo_de+)
+        (NP 
+          (DT a)
+          (NNP California_State_University)
+          (,)
+          (VP 
+            (ADVP 
+              (RB onde)
+            )
+            (NP 
+              (DT o)
+              (NNP Brasil)
+            )
+            (VP 
+              (VBP treinarï¿½)
+            )
+            (PP 
+              (IN durante)
+              (NP 
+                (PRP esta)
+                (NN semana)
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,16 +1,33 @@
-(S (VP (CC E)
-                         (NP (NN entrevista)
-                                  (PP 
-                                    (IN em)
-                                    (NP 
-                                      (NN baile)
-                                      (PP 
-                                        (IN de)
-                                        (NP 
-                                          (NN Carnaval))))))
-                         (VP (VBP parece))
-                         (NP (NN diálogo)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN surdo))))
-                         (;)))
+(S 
+  (VP 
+    (CC E)
+    (NP 
+      (NN entrevista)
+      (PP 
+        (IN em)
+        (NP 
+          (NN baile)
+          (PP 
+            (IN de)
+            (NP 
+              (NN Carnaval)
+            )
+          )
+        )
+      )
+    )
+    (VP 
+      (VBP parece)
+    )
+    (NP 
+      (NN diï¿½logo)
+      (PP 
+        (IN de)
+        (NP 
+          (NN surdo)
+        )
+      )
+    )
+    (;)
+  )
+)

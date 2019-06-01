@@ -1,16 +1,34 @@
-(S (VP (NP (DT O)
-                                 (NN candidato)
-                                 (PP (IN de+)
-                                        (NP 
-                                          (DT o)
-                                          (NNP PDT))))
-                        (VP (VBP disse))
-                        (VP (IN que)
-                                 (VP (VBP quer))
-                                 (VP 
-                                   (VP 
-                                     (VB fazer))
-                                   (NP 
-                                     (DT o)
-                                     (PRP mesmo))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (DT O)
+      (NN candidato)
+      (PP 
+        (IN de+)
+        (NP 
+          (DT o)
+          (NNP PDT)
+        )
+      )
+    )
+    (VP 
+      (VBP disse)
+    )
+    (VP 
+      (IN que)
+      (VP 
+        (VBP quer)
+      )
+      (VP 
+        (VP 
+          (VB fazer)
+        )
+        (NP 
+          (DT o)
+          (PRP mesmo)
+        )
+      )
+    )
+    (.)
+  )
+)

@@ -1,36 +1,63 @@
-(S (VP (NP (NN Comandantes)
-                                 (ADJP 
-                                   (JJ militares)))
-                        (VP (VBP voltaram)
-                              (IN a)
-                              (VB receber))
-                        (NP (NN comunicado))
-                        (NP (PRP esta)
-                                 (NN semana))
-                        (,)
-                        (VP (VP (VBN destinado))
-                                  (PP 
-                                    (IN a+)
-                                    (NP 
-                                      (DT a)
-                                      (NN tropa)))
-                                  (,)
-                                  (VP 
-                                    (VP 
-                                      (VBG dizendo))
-                                    (VP 
-                                      (IN que)
-                                      (NP 
-                                        (DT o)
-                                        (NN reajuste)
-                                        (PP 
-                                          (IN de+)
-                                          (NP 
-                                            (DT o)
-                                            (NN soldo))))
-                                      (VP 
-                                        (VBP sairá))
-                                      (NP 
-                                        (PRP este)
-                                        (NN mês)))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NN Comandantes)
+      (ADJP 
+        (JJ militares)
+      )
+    )
+    (VP 
+      (VBP voltaram)
+      (IN a)
+      (VB receber)
+    )
+    (NP 
+      (NN comunicado)
+    )
+    (NP 
+      (PRP esta)
+      (NN semana)
+    )
+    (,)
+    (VP 
+      (VP 
+        (VBN destinado)
+      )
+      (PP 
+        (IN a+)
+        (NP 
+          (DT a)
+          (NN tropa)
+        )
+      )
+      (,)
+      (VP 
+        (VP 
+          (VBG dizendo)
+        )
+        (VP 
+          (IN que)
+          (NP 
+            (DT o)
+            (NN reajuste)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN soldo)
+              )
+            )
+          )
+          (VP 
+            (VBP sairï¿½)
+          )
+          (NP 
+            (PRP este)
+            (NN mï¿½s)
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

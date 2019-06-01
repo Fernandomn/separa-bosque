@@ -1,46 +1,75 @@
-(S (VP (NP (NNP Neukirchen))
-                        (VP (VBP disse))
-                        (VP (IN que)
-                                 (NP 
-                                   (DT a)
-                                   (NN proposta)
-                                   (VP 
-                                     (VP 
-                                       (VBN apresentada))
-                                     (PP 
-                                       (IN a+)
-                                       (NP 
-                                         (DT os)
-                                         (NN bancos)))))
-                                 (VP (VBP inclui))
-                                 (NP 
-                                   (DT uma)
-                                   (NN injeção)
-                                   (PP 
-                                     (IN de)
-                                     (NP 
-                                       (CD 2,7)
-                                       (NN bilhões)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN marcos)
-                                           (-LCB-)
-                                           (NP 
-                                             (NN US$)
-                                             (NP 
-                                               (CD 1,55)
-                                               (NN bilhões)))
-                                           (-RCB-)))))
-                                   (PP 
-                                     (IN para)
-                                     (NP 
-                                       (NN aumento)
-                                       (PP 
-                                         (IN de+)
-                                         (NP 
-                                           (DT o)
-                                           (NN capital)
-                                           (ADJP 
-                                             (JJ acionário))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (NNP Neukirchen)
+    )
+    (VP 
+      (VBP disse)
+    )
+    (VP 
+      (IN que)
+      (NP 
+        (DT a)
+        (NN proposta)
+        (VP 
+          (VP 
+            (VBN apresentada)
+          )
+          (PP 
+            (IN a+)
+            (NP 
+              (DT os)
+              (NN bancos)
+            )
+          )
+        )
+      )
+      (VP 
+        (VBP inclui)
+      )
+      (NP 
+        (DT uma)
+        (NN injeï¿½ï¿½o)
+        (PP 
+          (IN de)
+          (NP 
+            (CD 2,7)
+            (NN bilhï¿½es)
+            (PP 
+              (IN de)
+              (NP 
+                (NN marcos)
+                (-LCB-)
+                (NP 
+                  (NN US$)
+                  (NP 
+                    (CD 1,55)
+                    (NN bilhï¿½es)
+                  )
+                )
+                (-RCB-)
+              )
+            )
+          )
+        )
+        (PP 
+          (IN para)
+          (NP 
+            (NN aumento)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT o)
+                (NN capital)
+                (ADJP 
+                  (JJ acionï¿½rio)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)

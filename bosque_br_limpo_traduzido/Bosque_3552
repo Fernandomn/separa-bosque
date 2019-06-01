@@ -1,55 +1,90 @@
-(S (VP (NP (PRP Ambos))
-                        (VP (VBP apontam))
-                        (NP (DT o)
-                                (JJ baixo)
-                                (NN volume)
-                                (PP (IN de)
-                                       (NP 
-                                         (NN captação)
-                                         (PP 
-                                           (IN de)
-                                           (NP 
-                                             (NN recursos)))
-                                         (PP 
-                                           (IN com)
-                                           (NP 
-                                             (DT a)
-                                             (NN venda)
-                                             (PP 
-                                               (IN de)
-                                               (NP 
-                                                 (NNP CDBs)))
-                                             (PP 
-                                               (IN a+)
-                                               (NP 
-                                                 (DT os)
-                                                 (NN investidores))))))))
-                        (ADVP (RB como)
-                                (NP (DT o)
-                                       (JJ principal)
-                                       (NN fator)
-                                       (PP 
-                                         (IN de)
-                                         (NP 
-                                           (NN insegurança)
-                                           (PP 
-                                             (IN de+)
-                                             (NP 
-                                               (DT os)
-                                               (NN bancos)))
-                                           (PP 
-                                             (IN em+)
-                                             (NP 
-                                               (DT a)
-                                               (NN definição)
-                                               (PP 
-                                                 (IN de+)
-                                                 (NP 
-                                                   (DT os)
-                                                   (NN custos)
-                                                   (PP 
-                                                     (IN de+)
-                                                     (NP 
-                                                       (DT os)
-                                                       (NN empréstimos)))))))))))
-                        (.)))
+(S 
+  (VP 
+    (NP 
+      (PRP Ambos)
+    )
+    (VP 
+      (VBP apontam)
+    )
+    (NP 
+      (DT o)
+      (JJ baixo)
+      (NN volume)
+      (PP 
+        (IN de)
+        (NP 
+          (NN captaï¿½ï¿½o)
+          (PP 
+            (IN de)
+            (NP 
+              (NN recursos)
+            )
+          )
+          (PP 
+            (IN com)
+            (NP 
+              (DT a)
+              (NN venda)
+              (PP 
+                (IN de)
+                (NP 
+                  (NNP CDBs)
+                )
+              )
+              (PP 
+                (IN a+)
+                (NP 
+                  (DT os)
+                  (NN investidores)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (ADVP 
+      (RB como)
+      (NP 
+        (DT o)
+        (JJ principal)
+        (NN fator)
+        (PP 
+          (IN de)
+          (NP 
+            (NN inseguranï¿½a)
+            (PP 
+              (IN de+)
+              (NP 
+                (DT os)
+                (NN bancos)
+              )
+            )
+            (PP 
+              (IN em+)
+              (NP 
+                (DT a)
+                (NN definiï¿½ï¿½o)
+                (PP 
+                  (IN de+)
+                  (NP 
+                    (DT os)
+                    (NN custos)
+                    (PP 
+                      (IN de+)
+                      (NP 
+                        (DT os)
+                        (NN emprï¿½stimos)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+    (.)
+  )
+)
