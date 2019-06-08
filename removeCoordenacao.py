@@ -146,6 +146,15 @@ diretorio = os.fsdecode(endereco)
 for nomeArquivo in os.listdir(diretorio):
     arquivo = open(nomeArquivo, 'r', encoding='ISO-8859-1')
     linhas = arquivo.readlines()
+    anotacoes = []
+    # for l in range(len(linhas)-1, 0, -1):
+    for l in range(len(linhas)):
+        linha = linhas[l]
+        if linha[0] == '#':
+            anotacoes.append(linha)
+            # linhas.remove(linha)
+    for anotacao in anotacoes:
+        linhas.remove(anotacao)
 
     # nota: anteriormente, era feito um looop pelo arquivo para verificar a existencia da Tag.
     # Porém, notou-se que uma vez que a verificação de sua existencia já é feita em "verificaCasosCU()",
@@ -156,6 +165,8 @@ for nomeArquivo in os.listdir(diretorio):
     verificaCasosCU(arvore)
     novaArvore = imprimeArvore(arvore, 0)
     arquivo = open(nomeArquivo, 'w', encoding='ISO-8859-1')
+    # for anotacao in anotacoes:
+    #     arquivo.write(anotacao)
     arquivo.write(novaArvore)
     arquivo.close()
 

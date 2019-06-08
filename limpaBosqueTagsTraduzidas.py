@@ -247,6 +247,7 @@ with open('Bosque_0001', 'w') as finalFile:
         if line[0] == '#':
             numero = line[1:].split(' ')[0]
             if numero.isdigit():
+                frase = line[line.index(' ')+1:]
                 numeroTratado = tratarNumero(numero)
                 nomeArquivoAbertoAtual = 'Bosque_'+numeroTratado
                 finalFile = open(nomeArquivoAbertoAtual,
@@ -268,7 +269,7 @@ with open('Bosque_0001', 'w') as finalFile:
                                    1:].index(' ')+tamTagRemover+2
                 line = line.replace(line[:aSubstituir], '(S ')
 
-            for j in range(len(line)-1, 0, -1):
+            for j in reversed(range(len(line))):
                 if(j >= len(line)):
                     break
 
@@ -287,6 +288,12 @@ with open('Bosque_0001', 'w') as finalFile:
                         if classe == 'x' or funcao == 'X':
                             finalFile.close()
                             os.remove(finalFile.name)
+                            finalFile = open(nomeArquivoAbertoAtual,
+                                             'w', encoding='ISO-8859-1')
+                            finalFile.write('# Frase com tag X\n')
+                            finalFile.write('# '+frase)
+                            finalFile.write('(S)')
+                            finalFile.close()
                             break
 
                         newLine = line.replace(
