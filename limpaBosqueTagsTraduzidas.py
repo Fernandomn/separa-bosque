@@ -85,7 +85,6 @@ def tradutor(tag, i, originalLines):
             'pron-pess': 'PRP',  # pronomes pessoais
             # pronomes pessoais (tag nao está no dicionario oficial da linguateca)
             'pron-pers': 'PRP',
-            'adv': 'RB',  # advérbios
             'prp': 'IN',  # preposições
             'intj': 'UH',  # interjeições
             'conj-s': 'IN',  # conjunções subordinativa
