@@ -92,64 +92,63 @@ def tradutor(tag, i, originalLines):
             'ec': '_EC_',  # prefixos - ativei o modo Elza e let it go
 
             # Enunciados
-            'UTT': 'NP',  # enunciados - não tem muito o que fazer aqui...
-            'STA': 'NP',  # declarativo - outra tag aleatória
-            'QUE': 'NP',  # interrogativo
-            'CMD': 'VP',  # imperativo - caraio, não tem tag pra isso.
-            'EXC': 'NP',  # exclamativo - pode ser literalmente qualquer um
+            # 'UTT': 'NP',  # enunciados - não tem muito o que fazer aqui...
+            # 'STA': 'NP',  # declarativo - outra tag aleatória
+            # 'QUE': 'NP',  # interrogativo
+            # 'CMD': 'VP',  # imperativo - caraio, não tem tag pra isso.
+            # 'EXC': 'NP',  # exclamativo - pode ser literalmente qualquer um
 
-            # Orações
-            'SUBJ': '-SBJ',  # sujeito
-            'ACC': '-OBJ',  # obj. directo
-            'ACC-PASS': 'NP',  # part. apassivante - ok, inglês não tem nenhuma particula de voz passiva. é obj+to be + verbo participio + compl. seguindo o proprio BOSQUE, é um NP
-            'DAT': '-OBJ',  # obj. ind. pronominal - não tem a inflexão dativa no inglês, e não tem tag no ptb para objeto indireto
-            'PIV': 'IN',  # obj. ind. preposicional
-            'PASS': 'IN',  # agente passiva - de acordo com o bosque, é pp
-            # adj. adverbiais do sujeito SUB:conj-s poderia ser cu, pp, advp e np (referente ao BOSQUE), mas pp ocorre muito mais vezes
-            'SA': 'IN',
-            'OA': 'IN',  # adj. adverbiaiSUB:conj-s do objecto
-            'ADVL': 'IN',  # adj. adverbiSUB:conj-sis livres - pode ser pp, advp, flc, icl, np, cu. principalmente pp ou advp. esses dois ultimos quase em igual proporção. vou chutar pp
-            'SC': 'NP',  # predicativosSUB:conj-sdo sujeito - mais um caso múltiplo. pode ser np, advp, pp, icl, adjp, cu. np e advp com grandes chances. deliberadamente vou escolher np
-            'OC': 'ADVP',  # predicativosSUB:conj-sdo objecto - pode ser adjp, advp, acl, cu, v-pcp, np, pp, icl. maior parte noa amostra foi acl
-            # predicativos verbo-nominaisSUB:conj-s- podem ser icl, np, pp, adjp, cu, adj, pron-det. icl maioria.
-            'PRED': 'VP',
-            'VOC': 'NP',  # vocativo - toSUB:conj-so vocativo do bosque é um NP
-            'APP': 'NP',  # apostos normaSUB:conj-s - pode ser fcl, np, adjp, cu, advp. np maioria
-            'N<PRED': 'NP',  # apostos epit. predicativo - pode ser fcl, np, pp, cu. É bem distribuido, mas a priori, a maior parte é NP
-            '>S': 'JJ',  # apostos da oração - se for >S, é sempre adj.
-            'S<': 'NP',  # apostos da oração - se for S<, pode ser fcl ou np. Mais seguro ir no np
-            # 'N<ARG.*': '_',  # compl. nominais - não existe
-            'N<ARGS': 'IN',  # compl. nominais do sujeito - só tem pp, ufa
-            'N<ARGO': 'IN',  # compl. nominais do objecto - só tem pp
-            'N<ARG': 'IN',  # compl. nominais outros - só pp
-            'P': 'VB',  # predicador - maior parte disparado é vp
-            'FOC': 'RB',  # foco - maioria é advp
-            # tópico - poucos casos. todos envolvem ou np, ou pronome.
-            'TOP': 'NP',
+            # # Orações
+            # 'SUBJ': '-SBJ',  # sujeito
+            # 'ACC': '-OBJ',  # obj. directo
+            # 'ACC-PASS': 'NP',  # part. apassivante - ok, inglês não tem nenhuma particula de voz passiva. é obj+to be + verbo participio + compl. seguindo o proprio BOSQUE, é um NP
+            # 'DAT': '-OBJ',  # obj. ind. pronominal - não tem a inflexão dativa no inglês, e não tem tag no ptb para objeto indireto
+            # 'PIV': 'IN',  # obj. ind. preposicional
+            # 'PASS': 'IN',  # agente passiva - de acordo com o bosque, é pp
+            # # adj. adverbiais do sujeito - poderia ser cu, pp, advp e np (referente ao BOSQUE), mas pp ocorre muito mais vezes
+            # 'SA': 'IN',
+            # 'OA': 'IN',  # adj. adverbiais do objecto
+            # 'ADVL': 'IN',  # adj. adverbiais livres - pode ser pp, advp, flc, icl, np, cu. principalmente pp ou advp. esses dois ultimos quase em igual proporção. vou chutar pp
+            # 'SC': 'NP',  # predicativos do sujeito - mais um caso múltiplo. pode ser np, advp, pp, icl, adjp, cu. np e advp com grandes chances. deliberadamente vou escolher np
+            # 'OC': 'ADVP',  # predicativos do objecto - pode ser adjp, advp, acl, cu, v-pcp, np, pp, icl. maior parte noa amostra foi acl
+            # # predicativos verbo-nominais - podem ser icl, np, pp, adjp, cu, adj, pron-det. icl maioria.
+            # 'PRED': 'VP',
+            # 'VOC': 'NP',  # vocativo - todo vocativo do bosque é um NP
+            # 'APP': 'NP',  # apostos normal - pode ser fcl, np, adjp, cu, advp. np maioria
+            # 'N<PRED': 'NP',  # apostos epit. predicativo - pode ser fcl, np, pp, cu. É bem distribuido, mas a priori, a maior parte é NP
+            # '>S': 'JJ',  # apostos da oração - se for >S, é sempre adj.
+            # 'S<': 'NP',  # apostos da oração - se for S<, pode ser fcl ou np. Mais seguro ir no np
+            # 'N<ARGS': 'IN',  # compl. nominais do sujeito - só tem pp, ufa
+            # 'N<ARGO': 'IN',  # compl. nominais do objecto - só tem pp
+            # 'N<ARG': 'IN',  # compl. nominais outros - só pp
+            # 'P': 'VB',  # predicador - maior parte disparado é vp
+            # 'FOC': 'RB',  # foco - maioria é advp
+            # # tópico - poucos casos. todos envolvem ou np, ou pronome.
+            # 'TOP': 'NP',
 
-            # Palavra
-            'H': 'NN',  # núcleo - pqp. maior parte é n (substantivo)
-            'MV': 'VBP',  # verbo principal - maioria v-fin
-            'PMV': 'VBP',  # verbo principal - maioria são verbos finitos. Inflexões verbais do portugues muito diferentes da do inglês
-            # verbo auxiliar (pra que por duas tags pramsm função? tnc). Maioria v-fin
-            'AUX': 'VBP',
-            'PAUX': 'VBP',  # verbo auxiliar
-            'PRT-AUX': 'IN',  # part. lig. verbal - MAIOR PARTE DISPARADA PRP
-            'SUB': 'IN',  # subordinador - sempre conj-s
-            'CO': 'CC',  # coordenador - CONJ-C maioria
-            # elemento conjunto - P/ cjt, maioria np (maioria nao absoluta)
-            'CJT': 'NP',
-            'PCJT': 'IN',  # elemento conjunto - p/ pcjt, maioria pp
-            'x': 'VB',  # Tomar no cu essa tag. TODO
-            'COM': 'RB',  # compl. comparação - maioria adv
+            # # Palavra
+            # 'H': 'NN',  # núcleo - pqp. maior parte é n (substantivo)
+            # 'MV': 'VBP',  # verbo principal - maioria v-fin
+            # 'PMV': 'VBP',  # verbo principal - maioria são verbos finitos. Inflexões verbais do portugues muito diferentes da do inglês
+            # # verbo auxiliar (pra que por duas tags pramsm função? tnc). Maioria v-fin
+            # 'AUX': 'VBP',
+            # 'PAUX': 'VBP',  # verbo auxiliar
+            # 'PRT-AUX': 'IN',  # part. lig. verbal - MAIOR PARTE DISPARADA PRP
+            # 'SUB': 'IN',  # subordinador - sempre conj-s
+            # 'CO': 'CC',  # coordenador - CONJ-C maioria
+            # # elemento conjunto - P/ cjt, maioria np (maioria nao absoluta)
+            # 'CJT': 'NP',
+            # 'PCJT': 'IN',  # elemento conjunto - p/ pcjt, maioria pp
+            # 'x': 'VB',  # Tomar no cu essa tag. TODO
+            # 'COM': 'RB',  # compl. comparação - maioria adv
 
-            # Adjuntos
-            '>N': 'DT',  # Adjuntos adnominais - maioria art
-            'N<': 'IN',  # Adjuntos adnominais - maioria absoluta pp
-            '>A': 'RB',  # Adjuntos adverbiais/adjectivais - maioria adv
-            'A<': 'IN',  # Adjuntos adverbiais/adjectivais - maioria pp
-            '>P': 'RB',  # Adjuntos preposicionais - maioria adv
-            'P<': 'NP'  # Adjuntos preposicionais - maioria np
+            # # Adjuntos
+            # '>N': 'DT',  # Adjuntos adnominais - maioria art
+            # 'N<': 'IN',  # Adjuntos adnominais - maioria absoluta pp
+            # '>A': 'RB',  # Adjuntos adverbiais/adjectivais - maioria adv
+            # 'A<': 'IN',  # Adjuntos adverbiais/adjectivais - maioria pp
+            # '>P': 'RB',  # Adjuntos preposicionais - maioria adv
+            # 'P<': 'NP'  # Adjuntos preposicionais - maioria np
         }
 
     # remove o travessão da tag
