@@ -50,7 +50,7 @@ def tradutor(tag, i, originalLines):
             # Formas Oracionais
             'fcl': 'VP',  # Forma Oracional Finita -> usa verbos não no infinitivo -> sintagma verbal
             'icl': 'VP',  # Forma Oracional não finita
-            'acl': 'ADVP',  # Forma Oracional adverbial
+            'acl': 'ADVP',  # Forma Oracional adverbial TODO
 
             # Sintagmas
             'np': 'NP',  # Sintagma nominais
