@@ -1,55 +1,31 @@
-(S 
-  (VP 
-    (NP 
-      (NN Parte)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NN recursos)
-          (PP 
-            (IN para)
-            (NP 
-              (DT a)
-              (NN forma��o)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NNP FSE)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP foi)
-      (VBN deslocado)
-    )
-    (PP 
-      (IN de+)
-      (NP 
-        (DT o)
-        (NN or�amento)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NP 
-              (NP 
-                (NN sa�de)
-              )
-              (CC e)
-              (NP 
-                (NN educa��o)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN Parte)
+                               (PP 
+                                 (IN de+)
+                                 (NP (DT os)
+                                        (NN recursos)
+                                        (PP 
+                                          (IN para)
+                                          (NP 
+                                            (DT a)
+                                            (NN forma��o)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT o)
+                                                (NNP FSE))))))))
+                      (VP (VBP foi)
+                            (VBN deslocado))
+                      (PP (IN de+)
+                              (NP (DT o)
+                                     (NN or�amento)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (_CU_ 
+                                           (NP 
+                                             (NN sa�de))
+                                           (CC e)
+                                           (NP 
+                                             (NN educa��o)))))))
+                      (.)))

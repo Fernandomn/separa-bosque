@@ -1,53 +1,29 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN ataques)
-      (PP 
-        (IN a)
-        (NP 
-          (NNP Sarney)
-        )
-      )
-    )
-    (ADVP 
-      (RB s�)
-    )
-    (VP 
-      (VBP ser�o)
-      (VBN feitos)
-    )
-    (VP 
-      (IN se)
-      (NP 
-        (DT a)
-        (NN contabilidade)
-        (ADJP 
-          (JJ quercista)
-        )
-      )
-      (VP 
-        (VBP constatar)
-      )
-      (VP 
-        (IN que)
-        (NP 
-          (DT a)
-          (NN vit�ria)
-          (PP 
-            (IN em+)
-            (NP 
-              (DT a)
-              (NN pr�via)
-            )
-          )
-        )
-        (VP 
-          (VBP est�)
-        )
-        (VBN amea�ada)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN ataques)
+                                 (PP (IN a)
+                                        (NP 
+                                          (NNP Sarney))))
+                        (ADVP (RB s�))
+                        (VP (VBP ser�o)
+                              (VBN feitos))
+                        (VP (IN se)
+                                  (NP 
+                                    (DT a)
+                                    (NN contabilidade)
+                                    (ADJP 
+                                      (JJ quercista)))
+                                  (VP (VBP constatar))
+                                  (VP 
+                                    (IN que)
+                                    (NP 
+                                      (DT a)
+                                      (NN vit�ria)
+                                      (PP 
+                                        (IN em+)
+                                        (NP 
+                                          (DT a)
+                                          (NN pr�via))))
+                                    (VP 
+                                      (VBP est�))
+                                    (VBN amea�ada)))
+                        (.)))

@@ -1,60 +1,33 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN maioria)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT as)
-          (NN empresas)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (VP 
-              (VBP produzem)
-            )
-            (NP 
-              (NN leite)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT as)
-                  (NN marcas)
-                  (VBN interditadas)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP tinha)
-      (VBN sido)
-      (VBN comunicada)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (PP 
-      (IN sobre)
-      (NP 
-        (DT a)
-        (NN libera��o)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN produto)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                               (NN maioria)
+                               (PP (IN de+)
+                                      (NP 
+                                        (DT as)
+                                        (NN empresas)
+                                        (VP 
+                                          (NP 
+                                            (PRP que))
+                                          (VP 
+                                            (VBP produzem))
+                                          (NP 
+                                            (NN leite)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT as)
+                                                (NN marcas)
+                                                (VBN interditadas))))))))
+                      (ADVP (RB n�o))
+                      (VP (VBP tinha)
+                            (VBN sido)
+                            (VBN comunicada))
+                      (ADVP (RB ontem))
+                      (PP (IN sobre)
+                              (NP (DT a)
+                                     (NN libera��o)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN produto)))))
+                      (.)))

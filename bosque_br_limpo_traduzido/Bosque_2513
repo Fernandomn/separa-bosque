@@ -1,109 +1,70 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Imagino)
-    )
-    (VP 
-      (IN que)
-      (PP 
-        (IN para)
-        (NP 
-          (DT a)
-          (JJ grande)
-          (NN maioria)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT os)
-              (NN pol�ticos)
-            )
-          )
-        )
-      )
-      (NP 
-        (PRP este)
-      )
-      (VP 
-        (VBP seja)
-      )
-      (NP 
-        (DT o)
-        (NN momento)
-        (PP 
-          (IN de)
-          (NP 
-            (NN gl�ria)
-          )
-        )
-      )
-      (VP 
-        (IN porque)
-        (VP 
-          (VBP exercita)
-        )
-        (VP 
-          (NP 
-            (PRP o_que)
-          )
-          (VP 
-            (VBP considera)
-          )
-          (NP 
-            (DT uma)
-            (NN virtude)
-            (;)
-            (NP 
-              (NP 
-                (DT a)
-                (NN arte)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT a)
-                    (NN esperteza)
-                  )
-                )
-              )
-              (,)
-              (NP 
-                (DT a)
-                (NN pol�tica)
-                (PP 
-                  (IN segundo)
-                  (NP 
-                    (DT os)
-                    (NN c�nones)
-                    (VP 
-                      (VP 
-                        (VBN herdados)
-                      )
-                      (PP 
-                        (IN de+)
-                        (NP 
-                          (DT a)
-                          (JJ velha)
-                          (NN tradi��o)
-                          (PP 
-                            (IN de+)
-                            (NP 
-                              (DT as)
-                              (NN raposas)
-                              (ADJP 
-                                (JJ pol�ticas)
-                              )
-                            )
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Imagino))
+                        (VP (IN que)
+                                 (PP 
+                                   (IN para)
+                                   (NP 
+                                     (DT a)
+                                     (JJ grande)
+                                     (NN maioria)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT os)
+                                         (NN pol�ticos)))))
+                                 (NP 
+                                   (PRP este))
+                                 (VP (VBP seja))
+                                 (NP (DT o)
+                                        (NN momento)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN gl�ria))))
+                                 (VP 
+                                   (IN porque)
+                                   (VP 
+                                     (VBP exercita))
+                                   (VP 
+                                     (NP 
+                                       (PRP o_que))
+                                     (VP 
+                                       (VBP considera))
+                                     (NP 
+                                       (DT uma)
+                                       (NN virtude)
+                                       (;)
+                                       (_CU_ 
+                                         (NP 
+                                           (DT a)
+                                           (NN arte)
+                                           (PP 
+                                             (IN de+)
+                                             (NP 
+                                               (DT a)
+                                               (NN esperteza))))
+                                         (,)
+                                         (NP 
+                                           (DT a)
+                                           (NN pol�tica)
+                                           (PP 
+                                             (IN segundo)
+                                             (NP 
+                                               (DT os)
+                                               (NN c�nones)
+                                               (VP 
+                                                 (VP 
+                                                   (VBN herdados))
+                                                 (PP 
+                                                   (IN de+)
+                                                   (NP 
+                                                     (DT a)
+                                                     (JJ velha)
+                                                     (NN tradi��o)
+                                                     (PP 
+                                                       (IN de+)
+                                                       (NP 
+                                                         (DT as)
+                                                         (NN raposas)
+                                                         (ADJP 
+                                                           (JJ pol�ticas)))))))))))))))
+                        (.)))

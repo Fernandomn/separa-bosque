@@ -1,57 +1,32 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NNP Secretaria_das_Finan�as)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Prefeitura_de_S�o_Paulo)
-        )
-      )
-    )
-    (VP 
-      (VBP informou)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (VP 
-      (IN que)
-      (PP 
-        (IN a_partir_de)
-        (NP 
-          (NN segunda-feira)
-          (,)
-          (NP 
-            (NN dia)
-            (ADJP 
-              (CD 8)
-            )
-          )
-          (,)
-        )
-      )
-      (NP 
-        (DT a)
-        (NNP UFM)
-        (-LCB-)
-        (NP 
-          (NNP Unidade_Fiscal_do_Munic�pio)
-        )
-        (-RCB-)
-      )
-      (VP 
-        (VBP valer�)
-      )
-      (NP 
-        (NN R$)
-        (ADJP 
-          (CD 28,15)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NNP Secretaria_das_Finan�as)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP Prefeitura_de_S�o_Paulo))))
+                        (VP (VBP informou))
+                        (ADVP (RB ontem))
+                        (VP (IN que)
+                                 (PP 
+                                   (IN a_partir_de)
+                                   (NP 
+                                     (NN segunda-feira)
+                                     (,)
+                                     (NP 
+                                       (NN dia)
+                                       (ADJP 
+                                         (CD 8)))
+                                     (,)))
+                                 (NP 
+                                   (DT a)
+                                   (NNP UFM)
+                                   (-LCB-)
+                                   (NP 
+                                     (NNP Unidade_Fiscal_do_Munic�pio))
+                                   (-RCB-))
+                                 (VP (VBP valer�))
+                                 (NP 
+                                   (NN R$)
+                                   (ADJP 
+                                     (CD 28,15))))
+                        (.)))

@@ -1,32 +1,16 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Aqui)
-    )
-    (VP 
-      (VBP era)
-    )
-    (NP 
-      (DT o)
-      (NN quarto)
-      (ADJP 
-        (ADJP 
-          (JJ pobre)
-        )
-        (,)
-        (ADJP 
-          (JJ simples)
-        )
-        (,)
-        (ADJP 
-          (JJ limpo)
-        )
-        (CC e)
-        (ADJP 
-          (JJ acolhedor)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Aqui))
+                        (VP (VBP era))
+                        (NP (DT o)
+                                 (NN quarto)
+                                 (_CU_ (ADJP 
+                                          (JJ pobre))
+                                        (,)
+                                        (ADJP 
+                                          (JJ simples))
+                                        (,)
+                                        (ADJP 
+                                          (JJ limpo))
+                                        (CC e)
+                                        (ADJP 
+                                          (JJ acolhedor))))
+                        (.)))

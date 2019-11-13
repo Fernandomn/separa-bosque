@@ -1,40 +1,21 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN pra�a)
-    )
-    (,)
-    (VP 
-      (IN por)
-      (VP 
-        (VB ser)
-        (VBN tombada)
-      )
-    )
-    (,)
-    (VP 
-      (VBP deveria)
-      (VB ficar)
-    )
-    (VP 
-      (ADVP 
-        (RB como)
-      )
-      (VP 
-        (VBP era)
-      )
-      (ADVP 
-        (RB antes)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN obra)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN pra�a))
+                        (,)
+                        (VP (IN por)
+                                  (VP 
+                                    (VB ser)
+                                    (VBN tombada)))
+                        (,)
+                        (VP (VBP deveria)
+                              (VB ficar))
+                        (VP (ADVP 
+                                    (RB como))
+                                  (VP (VBP era))
+                                  (ADVP 
+                                    (RB antes)
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT a)
+                                        (NN obra)))))
+                        (.)))

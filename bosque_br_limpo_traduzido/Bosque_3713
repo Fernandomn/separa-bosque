@@ -1,68 +1,40 @@
-(S 
-  (NP 
-    (NP 
-      (NNP Folha)
-    )
-    (--)
-    (VP 
-      (NP 
-        (NN Pa�ses)
-        (ADVP 
-          (RB como)
-          (NP 
-            (DT a)
-            (NNP Argentina)
-          )
-        )
-        (,)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP passaram)
-          )
-          (PP 
-            (IN por)
-            (NP 
-              (NN ajustes)
-              (VP 
-                (VP 
-                  (VBN parecidos)
-                )
-                (PP 
-                  (IN com)
-                  (NP 
-                    (PRP o)
-                    (PP 
-                      (IN de+)
-                      (NP 
-                        (DT o)
-                        (NNP Brasil)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-        (,)
-      )
-      (VP 
-        (VBP t�m)
-      )
-      (ADVP 
-        (RB hoje)
-      )
-      (NP 
-        (DT um)
-        (NN desemprego)
-        (ADJP 
-          (JJ recorde)
-        )
-      )
-      (...)
-    )
-  )
-)
+(S (NP (NP (NNP Folha))
+                       (--)
+                       (VP (NP 
+                                  (NN Pa�ses)
+                                  (ADVP 
+                                    (RB como)
+                                    (NP 
+                                      (DT a)
+                                      (NNP Argentina)))
+                                  (,)
+                                  (VP 
+                                    (NP 
+                                      (PRP que))
+                                    (VP 
+                                      (VBP passaram))
+                                    (PP 
+                                      (IN por)
+                                      (NP 
+                                        (NN ajustes)
+                                        (VP 
+                                          (VP 
+                                            (VBN parecidos))
+                                          (PP 
+                                            (IN com)
+                                            (NP 
+                                              (PRP o)
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT o)
+                                                  (NNP Brasil)))))))))
+                                  (,))
+                                (VP (VBP t�m))
+                                (ADVP 
+                                  (RB hoje))
+                                (NP (DT um)
+                                        (NN desemprego)
+                                        (ADJP 
+                                          (JJ recorde)))
+                                (...))))

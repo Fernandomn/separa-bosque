@@ -1,72 +1,40 @@
-(S 
-  (VP 
-    (PP 
-      (IN Segundo)
-      (NP 
-        (DT o)
-        (NN c�nsul)
-      )
-    )
-    (,)
-    (VP 
-      (VBP era)
-    )
-    (ADJP 
-      (JJ crescente)
-    )
-    (NP 
-      (DT a)
-      (NN press�o)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN Congresso)
-          (ADJP 
-            (JJ norte-americano)
-          )
-        )
-      )
-      (PP 
-        (IN sobre)
-        (NP 
-          (DT o)
-          (NNP Departamento_de_Estado)
-        )
-      )
-      (PP 
-        (IN para)
-        (VP 
-          (IN que)
-          (NP 
-            (PRP se)
-          )
-          (VP 
-            (VBP adotasse)
-          )
-          (NP 
-            (DT uma)
-            (NN pol�tica)
-            (ADJP 
-              (JJ id�ntica)
-              (PP 
-                (IN a+)
-                (NP 
-                  (PRP a)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT o)
-                      (NNP Brasil)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Segundo)
+                                 (NP (DT o)
+                                        (NN c�nsul)))
+                        (,)
+                        (VP (VBP era))
+                        (ADJP (JJ crescente))
+                        (NP (DT a)
+                                 (NN press�o)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN Congresso)
+                                          (ADJP 
+                                            (JJ norte-americano))))
+                                 (PP (IN sobre)
+                                        (NP 
+                                          (DT o)
+                                          (NNP Departamento_de_Estado)))
+                                 (PP (IN para)
+                                        (VP 
+                                          (IN que)
+                                          (NP 
+                                            (PRP se))
+                                          (VP 
+                                            (VBP adotasse))
+                                          (NP 
+                                            (DT uma)
+                                            (NN pol�tica)
+                                            (ADJP 
+                                              (JJ id�ntica)
+                                              (PP 
+                                                (IN a+)
+                                                (NP 
+                                                  (PRP a)
+                                                  (PP 
+                                                    (IN de+)
+                                                    (NP 
+                                                      (DT o)
+                                                      (NNP Brasil))))))))))
+                        (.)))

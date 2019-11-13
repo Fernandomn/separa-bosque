@@ -1,52 +1,25 @@
-(S 
-  (VP 
-    (NP 
-      (NN Presidente)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Portuguesa)
-        )
-        (,)
-        (NP 
-          (NNP Manuel_Pacheco)
-        )
-        (,)
-      )
-    )
-    (VP 
-      (VBP deve)
-      (VB entrar)
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (NN a��o)
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NN ter�a-feira)
-      )
-    )
-    (PP 
-      (PP 
-        (IN contra)
-        (NP 
-          (DT o)
-          (NN clube)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NNP Rio)
-            )
-          )
-        )
-      )
-    )
-  )
-)
+(S (VP (NP (NN Presidente)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP Portuguesa))
+                                        (,)
+                                        (NP 
+                                          (NNP Manuel_Pacheco))
+                                        (,)))
+                        (VP (VBP deve)
+                              (VB entrar))
+                        (PP (IN com)
+                                 (NP (NN a��o)))
+                        (PP (IN em+)
+                                 (NP (DT a)
+                                        (NN ter�a-feira)))
+                        (PP (PP (IN contra)
+                                        (NP 
+                                          (DT o)
+                                          (NN clube)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (NNP Rio))))))))

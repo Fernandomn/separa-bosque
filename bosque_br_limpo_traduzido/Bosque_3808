@@ -1,60 +1,32 @@
-(S 
-  (VP 
-    (NP 
-      (NN Aumento)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT o)
-          (NN n�mero)
-          (PP 
-            (IN de)
-            (NP 
-              (NP 
-                (NN passes)
-              )
-              (CC e)
-              (NP 
-                (NN lan�amentos)
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP aproxima)
-    )
-    (NP 
-      (NN futebol)
-      (ADJP 
-        (JJ brasileiro)
-      )
-    )
-    (PP 
-      (IN de+)
-      (NP 
-        (PRP o)
-        (VP 
-          (VP 
-            (VBN praticado)
-          )
-          (PP 
-            (IN em+)
-            (NP 
-              (DT o)
-              (NN Mundial)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT os)
-                  (NNP EUA)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-  )
-)
+(S (VP (NP (NN Aumento)
+                                 (PP (IN em+)
+                                        (NP 
+                                          (DT o)
+                                          (NN n�mero)
+                                          (PP 
+                                            (IN de)
+                                            (_CU_ 
+                                              (NP 
+                                                (NN passes))
+                                              (CC e)
+                                              (NP 
+                                                (NN lan�amentos)))))))
+                        (VP (VBP aproxima))
+                        (NP (NN futebol)
+                                (ADJP 
+                                  (JJ brasileiro)))
+                        (PP (IN de+)
+                                (NP (PRP o)
+                                       (VP 
+                                         (VP 
+                                           (VBN praticado))
+                                         (PP 
+                                           (IN em+)
+                                           (NP 
+                                             (DT o)
+                                             (NN Mundial)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT os)
+                                                 (NNP EUA))))))))))

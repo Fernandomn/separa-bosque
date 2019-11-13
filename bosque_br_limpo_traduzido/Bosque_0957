@@ -1,53 +1,30 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN diretor-geral)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP PF)
-        )
-      )
-      (,)
-      (NP 
-        (NN coronel)
-        (NP 
-          (NNP Wilson_Rom�o)
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP disse)
-    )
-    (VP 
-      (IN que)
-      (VP 
-        (VBP recebeu)
-      )
-      (NP 
-        (�)
-        (NN recomenda��es)
-        (VBN expressas)
-        (PP 
-          (IN para)
-          (VP 
-            (VP 
-              (VB investigar)
-            )
-            (NP 
-              (PRP tudo)
-            )
-            (ADVP 
-              (RB a_fundo)
-            )
-          )
-        )
-        (�)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN diretor-geral)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP PF)))
+                                 (,)
+                                 (NP 
+                                   (NN coronel)
+                                   (NP 
+                                     (NNP Wilson_Rom�o)))
+                                 (,))
+                        (VP (VBP disse))
+                        (VP (IN que)
+                                 (VP (VBP recebeu))
+                                 (NP 
+                                   (�)
+                                   (NN recomenda��es)
+                                   (VBN expressas)
+                                   (PP 
+                                     (IN para)
+                                     (VP 
+                                       (VP 
+                                         (VB investigar))
+                                       (NP 
+                                         (PRP tudo))
+                                       (ADVP 
+                                         (RB a_fundo))))
+                                   (�)))
+                        (.)))

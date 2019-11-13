@@ -1,99 +1,63 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Essas)
-      (NN mudan�as)
-    )
-    (ADVP 
-      (RB geralmente)
-    )
-    (VP 
-      (VBP coincidem)
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (DT a)
-        (�)
-        (NN crise)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (JJ meia)
-            (NN idade)
-          )
-        )
-        (�)
-        (,)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP �)
-            (VBN definida)
-          )
-          (ADVP 
-            (ADVP 
-              (RB n�o)
-              (PP 
-                (IN por+)
-                (NP 
-                  (DT a)
-                  (NN faixa)
-                  (ADJP 
-                    (JJ et�ria)
-                  )
-                )
-              )
-            )
-            (,)
-            (CC mas)
-            (ADVP 
-              (RB como)
-              (NP 
-                (DT um)
-                (PRP certo)
-                (NN momento)
-                (PP 
-                  (IN em)
-                  (VP 
-                    (NP 
-                      (PRP que)
-                    )
-                    (NP 
-                      (DT as)
-                      (NN pessoas)
-                    )
-                    (VP 
-                      (VBP reavaliam)
-                    )
-                    (NP 
-                      (DT as)
-                      (NN escolhas)
-                      (VP 
-                        (VP 
-                          (VBN feitas)
-                        )
-                        (PP 
-                          (IN em+)
-                          (NP 
-                            (DT a)
-                            (PRP sua)
-                            (NN vida)
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Essas)
+                                 (NN mudan�as))
+                        (ADVP (RB geralmente))
+                        (VP (VBP coincidem))
+                        (PP (IN com)
+                                (NP (DT a)
+                                       (�)
+                                       (NN crise)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT a)
+                                           (JJ meia)
+                                           (NN idade)))
+                                       (�)
+                                       (,)
+                                       (VP 
+                                         (NP 
+                                           (PRP que))
+                                         (VP 
+                                           (VBP �)
+                                           (VBN definida))
+                                         (_CU_ 
+                                           (ADVP 
+                                             (RB n�o)
+                                             (PP 
+                                               (IN por+)
+                                               (NP 
+                                                 (DT a)
+                                                 (NN faixa)
+                                                 (ADJP 
+                                                   (JJ et�ria)))))
+                                           (,)
+                                           (CC mas)
+                                           (ADVP 
+                                             (RB como)
+                                             (NP 
+                                               (DT um)
+                                               (PRP certo)
+                                               (NN momento)
+                                               (PP 
+                                                 (IN em)
+                                                 (VP 
+                                                   (NP 
+                                                     (PRP que))
+                                                   (NP 
+                                                     (DT as)
+                                                     (NN pessoas))
+                                                   (VP 
+                                                     (VBP reavaliam))
+                                                   (NP 
+                                                     (DT as)
+                                                     (NN escolhas)
+                                                     (VP 
+                                                       (VP 
+                                                         (VBN feitas))
+                                                       (PP 
+                                                         (IN em+)
+                                                         (NP 
+                                                           (DT a)
+                                                           (PRP sua)
+                                                           (NN vida)))))))))))))
+                        (.)))

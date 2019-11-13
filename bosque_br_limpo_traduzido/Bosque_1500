@@ -1,60 +1,36 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Alguns)
-      (NN propriet�rios)
-    )
-    (VP 
-      (VBP fazem)
-    )
-    (NP 
-      (NP 
-        (DT um)
-        (NN contrato)
-        (PP 
-          (IN para)
-          (NP 
-            (DT o)
-            (NN apartamento)
-          )
-        )
-      )
-      (CC e)
-      (NP 
-        (DT um)
-        (NN acordo)
-        (,)
-        (ADJP 
-          (RB muitas_vezes)
-          (JJ verbal)
-        )
-        (,)
-        (PP 
-          (IN para)
-          (NP 
-            (DT a)
-            (NN loca��o)
-            (PP 
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT a)
-                  (NN garagem)
-                )
-              )
-              (CC e/ou)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NN telefone)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Alguns)
+                                 (NN propriet�rios))
+                        (VP (VBP fazem))
+                        (_CU_ (NP (DT um)
+                                        (NN contrato)
+                                        (PP 
+                                          (IN para)
+                                          (NP 
+                                            (DT o)
+                                            (NN apartamento))))
+                                (CC e)
+                                (NP (DT um)
+                                        (NN acordo)
+                                        (,)
+                                        (ADJP 
+                                          (RB muitas_vezes)
+                                          (JJ verbal))
+                                        (,)
+                                        (PP 
+                                          (IN para)
+                                          (NP 
+                                            (DT a)
+                                            (NN loca��o)
+                                            (_CU_ 
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT a)
+                                                  (NN garagem)))
+                                              (CC e/ou)
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT o)
+                                                  (NN telefone))))))))
+                        (.)))

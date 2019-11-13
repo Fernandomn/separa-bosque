@@ -1,48 +1,26 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (NP 
-          (DT O)
-          (NN contrato)
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VBP diz)
-    )
-    (NP 
-      (PRP ele)
-    )
-    (,)
-    (VP 
-      (VP 
-        (VP 
-          (VBP expirou)
-        )
-        (NP 
-          (NN ano)
-          (VBN passado)
-        )
-      )
-      (CC e)
-      (VP 
-        (ADVP 
-          (RB s�)
-        )
-        (VP 
-          (VBP foi)
-          (VBN renovado)
-        )
-        (PP 
-          (IN em)
-          (NP 
-            (NN fevereiro)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (VP 
+                                   (NP 
+                                     (DT O)
+                                     (NN contrato))))
+                        (,)
+                        (VP (VBP diz))
+                        (NP (PRP ele))
+                        (,)
+                        (_CU_ (VP 
+                                   (VP 
+                                     (VBP expirou))
+                                   (NP 
+                                     (NN ano)
+                                     (VBN passado)))
+                                 (CC e)
+                                 (VP 
+                                   (ADVP 
+                                     (RB s�))
+                                   (VP 
+                                     (VBP foi)
+                                     (VBN renovado))
+                                   (PP 
+                                     (IN em)
+                                     (NP 
+                                       (NN fevereiro)))))
+                        (.)))

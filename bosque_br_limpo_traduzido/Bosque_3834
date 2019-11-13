@@ -1,42 +1,23 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Era)
-    )
-    (NP 
-      (DT uma)
-      (NN �poca)
-      (VP 
-        (PP 
-          (IN em)
-          (NP 
-            (PRP que)
-          )
-        )
-        (NP 
-          (DT os)
-          (NN cariocas)
-        )
-        (VP 
-          (VBP imperavam)
-        )
-        (PP 
-          (PP 
-            (IN em)
-            (NP 
-              (NN campo)
-            )
-          )
-          (CC e)
-          (PP 
-            (IN fora_de+)
-            (NP 
-              (PRP ele)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Era))
+                        (NP (DT uma)
+                               (NN �poca)
+                               (VP (PP 
+                                         (IN em)
+                                         (NP 
+                                           (PRP que)))
+                                       (NP 
+                                         (DT os)
+                                         (NN cariocas))
+                                       (VP 
+                                         (VBP imperavam))
+                                       (_CU_ 
+                                         (PP 
+                                           (IN em)
+                                           (NP 
+                                             (NN campo)))
+                                         (CC e)
+                                         (PP 
+                                           (IN fora_de+)
+                                           (NP 
+                                             (PRP ele))))))
+                        (.)))

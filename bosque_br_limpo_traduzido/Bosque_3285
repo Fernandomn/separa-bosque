@@ -1,70 +1,39 @@
-(S 
-  (VP 
-    (PP 
-      (IN Para)
-      (VP 
-        (VP 
-          (VB multiplicar)
-        )
-        (NP 
-          (DT o)
-          (NN porte)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT as)
-              (PRP suas)
-              (NN den�ncias)
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (PRP ele)
-    )
-    (VP 
-      (VBP apresentou)
-    )
-    (NP 
-      (DT as)
-      (PRP suas)
-      (NN perora��es)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (CD dois)
-        (NN s�tios)
-        (ADJP 
-          (JJ diferentes)
-        )
-      )
-    )
-    (,)
-    (PP 
-      (IN a+)
-      (NP 
-        (DT as)
-        (NN procuradorias)
-        (PP 
-          (PP 
-            (IN de)
-            (NP 
-              (NNP Roma)
-            )
-          )
-          (CC e)
-          (PP 
-            (IN de)
-            (NP 
-              (NNP Mil�o)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Para)
+                                 (VP 
+                                   (VP 
+                                     (VB multiplicar))
+                                   (NP 
+                                     (DT o)
+                                     (NN porte)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT as)
+                                         (PRP suas)
+                                         (NN den�ncias))))))
+                        (,)
+                        (NP (PRP ele))
+                        (VP (VBP apresentou))
+                        (NP (DT as)
+                                (PRP suas)
+                                (NN perora��es))
+                        (PP (IN em)
+                                 (NP (CD dois)
+                                        (NN s�tios)
+                                        (ADJP 
+                                          (JJ diferentes))))
+                        (,)
+                        (PP (IN a+)
+                                 (NP (DT as)
+                                        (NN procuradorias)
+                                        (_CU_ 
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NNP Roma)))
+                                          (CC e)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NNP Mil�o))))))
+                        (.)))

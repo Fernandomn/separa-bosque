@@ -1,95 +1,56 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em)
-      (NP 
-        (NNP Nova_York)
-      )
-    )
-    (,)
-    (NP 
-      (DT o)
-      (NNP FBI)
-      (-LCB-)
-      (NP 
-        (NNP Federal_Bureau_Investigation)
-      )
-      (,)
-      (NP 
-        (DT a)
-        (NN pol�cia)
-        (ADJP 
-          (JJ federal)
-        )
-        (PP 
-          (IN de+)
-          (NP 
-            (DT os)
-            (NNP Estados_Unidos)
-          )
-        )
-      )
-      (-RCB-)
-    )
-    (VP 
-      (VBP recebeu)
-    )
-    (NP 
-      (DT uma)
-      (NN liga��o)
-      (ADJP 
-        (JJ an�nima)
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (NN final)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN noite)
-            (PP 
-              (IN de)
-              (RB anteontem)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VP 
-        (VBG informando)
-      )
-      (VP 
-        (IN que)
-        (NP 
-          (DT o)
-          (NN Consulado)
-          (PP 
-            (IN de)
-            (NP 
-              (NNP Israel)
-            )
-          )
-        )
-        (VP 
-          (VBP sofreria)
-        )
-        (NP 
-          (DT um)
-          (NN atentado)
-          (PP 
-            (IN a)
-            (NP 
-              (NN bomba)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em)
+                                 (NP (NNP Nova_York)))
+                        (,)
+                        (NP (DT o)
+                                 (NNP FBI)
+                                 (-LCB-)
+                                 (NP 
+                                   (NNP Federal_Bureau_Investigation))
+                                 (,)
+                                 (NP 
+                                   (DT a)
+                                   (NN pol�cia)
+                                   (ADJP 
+                                     (JJ federal))
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT os)
+                                       (NNP Estados_Unidos))))
+                                 (-RCB-))
+                        (VP (VBP recebeu))
+                        (NP (DT uma)
+                                (NN liga��o)
+                                (ADJP 
+                                  (JJ an�nima)))
+                        (PP (IN em+)
+                                 (NP (DT o)
+                                        (NN final)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NN noite)
+                                            (PP 
+                                              (IN de)
+                                              (RB anteontem))))))
+                        (VP 
+                          (VP (VBG informando))
+                          (VP (IN que)
+                                   (NP 
+                                     (DT o)
+                                     (NN Consulado)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NNP Israel))))
+                                   (VP 
+                                     (VBP sofreria))
+                                   (NP 
+                                     (DT um)
+                                     (NN atentado)
+                                     (PP 
+                                       (IN a)
+                                       (NP 
+                                         (NN bomba))))))
+                        (.)))

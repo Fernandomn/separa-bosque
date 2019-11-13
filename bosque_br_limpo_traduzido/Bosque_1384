@@ -1,70 +1,39 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em)
-      (NP 
-        (NNP Salvador)
-      )
-    )
-    (,)
-    (VP 
-      (VBP haver�)
-    )
-    (ADVP 
-      (RB hoje)
-    )
-    (NP 
-      (DT a)
-      (NN inaugura��o)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NN esta��o)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NNP Lapa)
-            (-LCB-)
-            (NP 
-              (NN centro)
-            )
-            (-RCB-)
-          )
-        )
-      )
-    )
-    (NP 
-      (PP 
-        (IN de)
-        (NP 
-          (DT um)
-          (NN balc�o)
-          (PP 
-            (IN de)
-            (NP 
-              (NN informa��es)
-              (PP 
-                (IN sobre)
-                (NP 
-                  (DT as)
-                  (NN quest�es)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NN mulher)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em)
+                                 (NP (NNP Salvador)))
+                        (,)
+                        (VP (VBP haver�))
+                        (ADVP (RB hoje))
+                        (NP (DT a)
+                                 (NN inaugura��o))
+                        (PP (IN em+)
+                                 (NP (DT a)
+                                        (NN esta��o)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NNP Lapa)
+                                            (-LCB-)
+                                            (NP 
+                                              (NN centro))
+                                            (-RCB-)))))
+                        (NP (PP 
+                                   (IN de)
+                                   (NP 
+                                     (DT um)
+                                     (NN balc�o)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NN informa��es)
+                                         (PP 
+                                           (IN sobre)
+                                           (NP 
+                                             (DT as)
+                                             (NN quest�es)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT a)
+                                                 (NN mulher))))))))))
+                        (.)))

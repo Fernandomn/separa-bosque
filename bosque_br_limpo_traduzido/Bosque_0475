@@ -1,102 +1,63 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN governador)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Fl�rida)
-          (,)
-          (NP 
-            (NNP Lawton_Chiles)
-          )
-          (,)
-          (ADJP 
-            (CD 63)
-          )
-          (,)
-        )
-      )
-    )
-    (VP 
-      (VBP resolveu)
-    )
-    (VP 
-      (VP 
-        (VB processar)
-      )
-      (NP 
-        (DT o)
-        (NN governo)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT os)
-            (NNP EUA)
-          )
-        )
-      )
-      (PP 
-        (IN para)
-        (VP 
-          (VP 
-            (VB recuperar)
-          )
-          (NP 
-            (DT os)
-            (NN US$)
-            (NP 
-              (CD 739)
-              (NN milh�es)
-            )
-            (ADJP 
-              (JJ anuais)
-            )
-            (VP 
-              (NP 
-                (PRP que)
-              )
-              (NP 
-                (PRP ele)
-              )
-              (VP 
-                (VBP diz)
-              )
-              (VP 
-                (VP 
-                  (VB estar)
-                  (VBG gastando)
-                )
-                (PP 
-                  (IN em)
-                  (NP 
-                    (NN despesas)
-                    (PP 
-                      (IN com)
-                      (NP 
-                        (NN imigrantes)
-                        (ADJP 
-                          (JJ ilegais)
-                        )
-                      )
-                    )
-                  )
-                )
-                (PP 
-                  (IN em)
-                  (NP 
-                    (PRP seu)
-                    (NN Estado)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN governador)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP Fl�rida)
+                                          (,)
+                                          (NP 
+                                            (NNP Lawton_Chiles))
+                                          (,)
+                                          (ADJP 
+                                            (CD 63))
+                                          (,))))
+                        (VP (VBP resolveu))
+                        (VP (VP (VB processar))
+                                 (NP 
+                                   (DT o)
+                                   (NN governo)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT os)
+                                       (NNP EUA))))
+                                 (PP 
+                                   (IN para)
+                                   (VP 
+                                     (VP 
+                                       (VB recuperar))
+                                     (NP 
+                                       (DT os)
+                                       (NN US$)
+                                       (NP 
+                                         (CD 739)
+                                         (NN milh�es))
+                                       (ADJP 
+                                         (JJ anuais))
+                                       (VP 
+                                         (NP 
+                                           (PRP que))
+                                         (NP 
+                                           (PRP ele))
+                                         (VP 
+                                           (VBP diz))
+                                         (VP 
+                                           (VP 
+                                             (VB estar)
+                                             (VBG gastando))
+                                           (PP 
+                                             (IN em)
+                                             (NP 
+                                               (NN despesas)
+                                               (PP 
+                                                 (IN com)
+                                                 (NP 
+                                                   (NN imigrantes)
+                                                   (ADJP 
+                                                     (JJ ilegais))))))
+                                           (PP 
+                                             (IN em)
+                                             (NP 
+                                               (PRP seu)
+                                               (NN Estado)))))))))
+                        (.)))

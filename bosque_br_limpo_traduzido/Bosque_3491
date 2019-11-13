@@ -1,50 +1,25 @@
-(S 
-  (VP 
-    (NP 
-      (DT Um)
-      (NN psicanalista)
-      (-LCB-)
-      (ADVP 
-        (RB sic)
-      )
-      (-RCB-)
-      (,)
-      (NP 
-        (NNP Jos�_Nazar)
-      )
-      (,)
-    )
-    (VP 
-      (VBP sugere)
-    )
-    (,)
-    (VP 
-      (VP 
-        (VBP acreditem)
-      )
-      (VP 
-        (IN se)
-        (VP 
-          (VBP quiser)
-        )
-      )
-    )
-    (,)
-    (ADVP 
-      (RB nada_mais_nada_menos)
-      (ADVP 
-        (IN do_que)
-      )
-    )
-    (NP 
-      (NN linchamento)
-    )
-    (ADVP 
-      (RB como)
-      (NP 
-        (NN puni��o)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Um)
+                                 (NN psicanalista)
+                                 (-LCB-)
+                                 (ADVP 
+                                   (RB sic))
+                                 (-RCB-)
+                                 (,)
+                                 (NP 
+                                   (NNP Jos�_Nazar))
+                                 (,))
+                        (VP (VBP sugere))
+                        (,)
+                        (VP (VP (VBP acreditem))
+                                  (VP 
+                                    (IN se)
+                                    (VP 
+                                      (VBP quiser))))
+                        (,)
+                        (ADVP (RB nada_mais_nada_menos)
+                                   (ADVP 
+                                     (IN do_que)))
+                        (NP (NN linchamento))
+                        (ADVP (RB como)
+                                (NP (NN puni��o)))
+                        (.)))

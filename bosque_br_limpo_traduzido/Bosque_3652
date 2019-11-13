@@ -1,64 +1,34 @@
-(S 
-  (VP 
-    (PP 
-      (IN Al�m_de+)
-      (NP 
-        (DT a)
-        (NN proposta)
-        (PP 
-          (IN de)
-          (NP 
-            (CD 18)
-            (NN cassa��es)
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT o)
-      (NN relat�rio)
-      (ADJP 
-        (JJ final)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP CPI)
-        )
-      )
-    )
-    (VP 
-      (VBP sugere)
-    )
-    (VP 
-      (IN que)
-      (ADJP 
-        (CD oito)
-        (PP 
-          (IN de+)
-          (NP 
-            (PRP eles)
-          )
-        )
-      )
-      (VP 
-        (VBP sejam)
-      )
-      (NP 
-        (NN objeto)
-        (PP 
-          (IN de)
-          (NP 
-            (NN processo)
-            (ADJP 
-              (JJ criminal)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Al�m_de+)
+                                 (NP (DT a)
+                                        (NN proposta)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (CD 18)
+                                            (NN cassa��es)))))
+                        (,)
+                        (NP (DT o)
+                                 (NN relat�rio)
+                                 (ADJP 
+                                   (JJ final))
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP CPI))))
+                        (VP (VBP sugere))
+                        (VP (IN que)
+                                 (ADJP 
+                                   (CD oito)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (PRP eles))))
+                                 (VP (VBP sejam))
+                                 (NP (NN objeto)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN processo)
+                                            (ADJP 
+                                              (JJ criminal))))))
+                        (.)))

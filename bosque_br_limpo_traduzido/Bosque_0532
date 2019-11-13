@@ -1,51 +1,27 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Ronald_Reagan)
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP poupou)
-    )
-    (NP 
-      (NN esfor�os)
-    )
-    (PP 
-      (IN para)
-      (VP 
-        (VP 
-          (VB eleger)
-        )
-        (NP 
-          (PRP seu)
-          (NN vice)
-          (,)
-          (NP 
-            (NNP George_Bush)
-          )
-          (,)
-          (NP 
-            (NN presidente)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT os)
-                (NNP Estados_Unidos)
-              )
-            )
-          )
-          (,)
-        )
-      )
-    )
-    (PP 
-      (IN em)
-      (ADJP 
-        (CD 1988)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Ronald_Reagan))
+                        (ADVP (RB n�o))
+                        (VP (VBP poupou))
+                        (NP (NN esfor�os))
+                        (PP (IN para)
+                                 (VP 
+                                   (VP 
+                                     (VB eleger))
+                                   (NP 
+                                     (PRP seu)
+                                     (NN vice)
+                                     (,)
+                                     (NP 
+                                       (NNP George_Bush))
+                                     (,)
+                                     (NP 
+                                       (NN presidente)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT os)
+                                           (NNP Estados_Unidos))))
+                                     (,))))
+                        (PP (IN em)
+                                 (ADJP 
+                                   (CD 1988)))
+                        (.)))

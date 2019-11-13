@@ -1,55 +1,31 @@
-(S 
-  (VP 
-    (PP 
-      (IN Ao_lado_de+)
-      (NP 
-        (DT a)
-        (NNP Fenit)
-      )
-    )
-    (VP 
-      (VBP foi)
-      (VBN realizada)
-    )
-    (NP 
-      (DT a)
-      (NNP Fenatec)
-      (-LCB-)
-      (NP 
-        (NNP Feira_Internacional_de_Tecelagem)
-      )
-      (-RCB-)
-    )
-    (,)
-    (PP 
-      (IN com)
-      (NP 
-        (NN representantes)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NP 
-              (NP 
-                (NNP Argentina)
-              )
-              (,)
-              (NP 
-                (NNP Alemanha)
-              )
-              (,)
-              (NP 
-                (NNP Fran�a)
-              )
-              (CC e)
-              (NP 
-                (NNP Estados_Unidos)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Ao_lado_de+)
+                                 (NP (DT a)
+                                        (NNP Fenit)))
+                        (VP (VBP foi)
+                              (VBN realizada))
+                        (NP (DT a)
+                                 (NNP Fenatec)
+                                 (-LCB-)
+                                 (NP 
+                                   (NNP Feira_Internacional_de_Tecelagem))
+                                 (-RCB-))
+                        (,)
+                        (PP (IN com)
+                                 (NP (NN representantes)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (_CU_ 
+                                              (NP 
+                                                (NNP Argentina))
+                                              (,)
+                                              (NP 
+                                                (NNP Alemanha))
+                                              (,)
+                                              (NP 
+                                                (NNP Fran�a))
+                                              (CC e)
+                                              (NP 
+                                                (NNP Estados_Unidos)))))))
+                        (.)))

@@ -1,71 +1,43 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN panorama)
-    )
-    (VP 
-      (VBP �)
-    )
-    (ADJP 
-      (JJ assustador)
-    )
-    (;)
-    (NP 
-      (NP 
-        (NN amea�a)
-        (PP 
-          (IN de)
-          (NP 
-            (NN greve)
-          )
-        )
-      )
-      (,)
-      (NP 
-        (NN possibilidade)
-        (PP 
-          (IN de)
-          (NP 
-            (NP 
-              (NN hiperinfla��o)
-            )
-            (CC e)
-            (NP 
-              (NN descontrole)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN pre�os)
-                )
-              )
-            )
-          )
-        )
-      )
-      (,)
-      (NP 
-        (NN perda)
-        (ADJP 
-          (JJ salarial)
-        )
-      )
-      (,)
-      (NP 
-        (NN nuvens)
-        (ADJP 
-          (JJ negras)
-        )
-        (PP 
-          (IN para)
-          (NP 
-            (PRP todos)
-            (DT os)
-            (NN lados)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN panorama))
+                        (VP (VBP �))
+                        (ADJP (JJ assustador))
+                        (;)
+                        (_CU_ (NP 
+                                     (NN amea�a)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NN greve))))
+                                   (,)
+                                   (NP 
+                                     (NN possibilidade)
+                                     (PP 
+                                       (IN de)
+                                       (_CU_ 
+                                         (NP 
+                                           (NN hiperinfla��o))
+                                         (CC e)
+                                         (NP 
+                                           (NN descontrole)
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NN pre�os)))))))
+                                   (,)
+                                   (NP 
+                                     (NN perda)
+                                     (ADJP 
+                                       (JJ salarial)))
+                                   (,)
+                                   (NP 
+                                     (NN nuvens)
+                                     (ADJP 
+                                       (JJ negras))
+                                     (PP 
+                                       (IN para)
+                                       (NP 
+                                         (PRP todos)
+                                         (DT os)
+                                         (NN lados)))))
+                        (.)))

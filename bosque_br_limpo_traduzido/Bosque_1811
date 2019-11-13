@@ -1,77 +1,45 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (NNP J�nio_Quadros)
-      )
-      (ADVP 
-        (RB tamb�m)
-      )
-      (VP 
-        (VBP gastou)
-      )
-      (PP 
-        (IN em)
-        (NP 
-          (NN obras)
-          (ADJP 
-            (JJ vi�rias)
-          )
-        )
-      )
-    )
-    (CC e)
-    (VP 
-      (NP 
-        (NNP Mario_Covas)
-      )
-      (VP 
-        (VBP marcou)
-      )
-      (NP 
-        (PRP sua)
-        (NN gest�o)
-      )
-      (PP 
-        (IN por+)
-        (NP 
-          (DT a)
-          (NN constru��o)
-          (PP 
-            (IN de)
-            (NP 
-              (NN corredores)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN �nibus)
-                  (ADJP 
-                    (JJ exclusivos)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-      (,)
-      (ADVP 
-        (RB como)
-        (NP 
-          (PRP o)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN avenida)
-              (NP 
-                (NNP Nove_de_Julho)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (NNP J�nio_Quadros))
+                                (ADVP 
+                                  (RB tamb�m))
+                                (VP (VBP gastou))
+                                (PP 
+                                  (IN em)
+                                  (NP 
+                                    (NN obras)
+                                    (ADJP 
+                                      (JJ vi�rias)))))
+                       (CC e)
+                       (VP (NP 
+                                  (NNP Mario_Covas))
+                                (VP (VBP marcou))
+                                (NP (PRP sua)
+                                        (NN gest�o))
+                                (PP 
+                                  (IN por+)
+                                  (NP 
+                                    (DT a)
+                                    (NN constru��o)
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (NN corredores)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN �nibus)
+                                            (ADJP 
+                                              (JJ exclusivos))))))))
+                                (,)
+                                (ADVP 
+                                  (RB como)
+                                  (NP 
+                                    (PRP o)
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT a)
+                                        (NN avenida)
+                                        (NP 
+                                          (NNP Nove_de_Julho)))))))
+                       (.)))

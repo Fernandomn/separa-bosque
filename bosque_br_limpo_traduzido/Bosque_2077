@@ -1,38 +1,18 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN integrantes)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NN movimentos)
-          (NP 
-            (NP 
-              (NNP Pinheiros_Vivo)
-            )
-            (CC e)
-            (NP 
-              (NNP Vila_Ol�mpia_Viva)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP receberam)
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (NN alegria)
-      )
-    )
-    (NP 
-      (DT a)
-      (NN not�cia)
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN integrantes)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT os)
+                                          (NN movimentos)
+                                          (_CU_ 
+                                            (NP 
+                                              (NNP Pinheiros_Vivo))
+                                            (CC e)
+                                            (NP 
+                                              (NNP Vila_Ol�mpia_Viva))))))
+                        (VP (VBP receberam))
+                        (PP (IN com)
+                                 (NP (NN alegria)))
+                        (NP (DT a)
+                                (NN not�cia))
+                        (.)))

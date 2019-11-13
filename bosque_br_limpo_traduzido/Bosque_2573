@@ -1,51 +1,27 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NNP Conselho_Monet�rio_Nacional)
-    )
-    (VP 
-      (VBP aprovou)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (NP 
-      (DT uma)
-      (JJ nova)
-      (NN linha)
-      (PP 
-        (IN de)
-        (NP 
-          (NN empr�stimos)
-        )
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP Banco_Central)
-        )
-      )
-    )
-    (PP 
-      (IN para)
-      (VP 
-        (VP 
-          (VB socorrer)
-        )
-        (NP 
-          (NN bancos)
-          (PP 
-            (IN de)
-            (NP 
-              (PRP qualquer)
-              (NN porte)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NNP Conselho_Monet�rio_Nacional))
+                        (VP (VBP aprovou))
+                        (ADVP (RB ontem))
+                        (NP (DT uma)
+                                (JJ nova)
+                                (NN linha)
+                                (PP (IN de)
+                                       (NP 
+                                         (NN empr�stimos)))
+                                (PP 
+                                  (IN de+)
+                                  (NP 
+                                    (DT o)
+                                    (NNP Banco_Central))))
+                        (PP (IN para)
+                                        (VP 
+                                          (VP 
+                                            (VB socorrer))
+                                          (NP 
+                                            (NN bancos)
+                                            (PP 
+                                              (IN de)
+                                              (NP 
+                                                (PRP qualquer)
+                                                (NN porte))))))
+                        (.)))

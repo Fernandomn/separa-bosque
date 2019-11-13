@@ -1,64 +1,39 @@
-(S 
-  (VP 
-    (PP 
-      (IN Atr�s_de)
-      (NP 
-        (NNP Buenos_Aires)
-      )
-    )
-    (,)
-    (VP 
-      (VBP est�o)
-    )
-    (NP 
-      (NP 
-        (CD duas)
-        (NN cidades)
-        (ADJP 
-          (JJ asi�ticas)
-        )
-        (-LCB-)
-        (NP 
-          (NP 
-            (NNP Hong_Kong)
-          )
-          (CC e)
-          (NP 
-            (NNP Taip�)
-          )
-        )
-        (-RCB-)
-      )
-      (CC e)
-      (NP 
-        (CD duas)
-        (NN europ�ias)
-        (-LCB-)
-        (NP 
-          (NP 
-            (NP 
-              (NNP Zurique)
-            )
-            (CC e)
-            (NP 
-              (NNP Genebra)
-            )
-          )
-          (,)
-          (NP 
-            (PRP ambas)
-            (PP 
-              (IN em+)
-              (NP 
-                (DT a)
-                (NNP Su��a)
-              )
-            )
-          )
-        )
-        (-RCB-)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Atr�s_de)
+                                 (NP (NNP Buenos_Aires)))
+                        (,)
+                        (VP (VBP est�o))
+                        (_CU_ (NP 
+                                   (CD duas)
+                                   (NN cidades)
+                                   (ADJP 
+                                     (JJ asi�ticas))
+                                   (-LCB-)
+                                   (_CU_ 
+                                     (NP 
+                                       (NNP Hong_Kong))
+                                     (CC e)
+                                     (NP 
+                                       (NNP Taip�)))
+                                   (-RCB-))
+                                 (CC e)
+                                 (NP 
+                                   (CD duas)
+                                   (NN europ�ias)
+                                   (-LCB-)
+                                   (NP 
+                                     (_CU_ 
+                                       (NP 
+                                         (NNP Zurique))
+                                       (CC e)
+                                       (NP 
+                                         (NNP Genebra)))
+                                     (,)
+                                     (NP 
+                                       (PRP ambas)
+                                       (PP 
+                                         (IN em+)
+                                         (NP 
+                                           (DT a)
+                                           (NNP Su��a)))))
+                                   (-RCB-)))
+                        (.)))

@@ -1,23 +1,9 @@
-(S 
-  (VP 
-    (NP 
-      (NN Ministro)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN Aeron�utica)
-        )
-      )
-    )
-    (VP 
-      (VBP cita)
-    )
-    (NP 
-      (NN quest�o)
-      (ADJP 
-        (JJ salarial)
-      )
-    )
-  )
-)
+(S (VP (NP (NN Ministro)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN Aeron�utica))))
+                        (VP (VBP cita))
+                        (NP (NN quest�o)
+                                (ADJP 
+                                  (JJ salarial)))))

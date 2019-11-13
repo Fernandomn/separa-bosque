@@ -1,34 +1,17 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN paulistanos)
-    )
-    (VP 
-      (VBP est�o)
-      (VBG pagando)
-    )
-    (ADVP 
-      (RB menos)
-    )
-    (PP 
-      (RB tamb�m)
-      (IN por+)
-      (NP 
-        (DT os)
-        (NN produtos)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN cesta)
-            (ADJP 
-              (JJ b�sica)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN paulistanos))
+                        (VP (VBP est�o)
+                              (VBG pagando))
+                        (ADVP (RB menos))
+                        (PP (RB tamb�m)
+                                (IN por+)
+                                (NP (DT os)
+                                       (NN produtos)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT a)
+                                           (NN cesta)
+                                           (ADJP 
+                                             (JJ b�sica))))))
+                        (.)))

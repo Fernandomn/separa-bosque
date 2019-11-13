@@ -1,66 +1,39 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Essas)
-      (NN conversas)
-    )
-    (VP 
-      (VBP levaram)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NN mar�o)
-      )
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT a)
-        (NN demiss�o)
-        (PP 
-          (IN de)
-          (NP 
-            (NNP Bernard_Nussbaum)
-          )
-          (,)
-          (NP 
-            (NN amigo)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (NN primeira-dama)
-              )
-            )
-          )
-          (,)
-        )
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN cargo)
-            (PP 
-              (IN de)
-              (NP 
-                (NN assessor)
-                (ADJP 
-                  (JJ jur�dico)
-                )
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT a)
-                    (NNP Casa_Branca)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Essas)
+                                (NN conversas))
+                       (VP (VBP levaram))
+                       (PP (IN em)
+                                (NP 
+                                  (NN mar�o)))
+                       (PP (IN a+)
+                               (NP (DT a)
+                                      (NN demiss�o)
+                                      (PP 
+                                        (IN de)
+                                        (NP 
+                                          (NNP Bernard_Nussbaum))
+                                        (,)
+                                        (NP 
+                                          (NN amigo)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT a)
+                                              (NN primeira-dama))))
+                                        (,))
+                                      (PP 
+                                        (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN cargo)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN assessor)
+                                              (ADJP 
+                                                (JJ jur�dico))
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT a)
+                                                  (NNP Casa_Branca)))))))))
+                       (.)))

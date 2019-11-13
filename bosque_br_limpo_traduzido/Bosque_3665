@@ -1,58 +1,29 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (DT o)
-        (NN banheiro)
-      )
-    )
-    (,)
-    (NP 
-      (DT um)
-      (NN funcion�rio)
-    )
-    (VP 
-      (VBP vende)
-    )
-    (UCP 
-      (NP 
-        (NN balas)
-      )
-      (,)
-      (NP 
-        (NN cigarros)
-      )
-      (,)
-      (NP 
-        (NN chocolates)
-      )
-      (,)
-      (NP 
-        (NN �gua)
-        (ADJP 
-          (JJ mineral)
-        )
-      )
-      (,)
-      (NP 
-        (NN rem�dios)
-        (-LCB-)
-        (NP 
-          (NNP Engov)
-        )
-        (-RCB-)
-      )
-      (CC e)
-      (,)
-      (ADJP 
-        (JJ claro)
-      )
-      (,)
-      (NP 
-        (NN camisinhas)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (DT o)
+                                        (NN banheiro)))
+                        (,)
+                        (NP (DT um)
+                                 (NN funcion�rio))
+                        (VP (VBP vende))
+                        (_CU_ (NP (NN balas))
+                                (,)
+                                (NP (NN cigarros))
+                                (,)
+                                (NP (NN chocolates))
+                                (,)
+                                (NP (NN �gua)
+                                        (ADJP 
+                                          (JJ mineral)))
+                                (,)
+                                (NP (NN rem�dios)
+                                        (-LCB-)
+                                        (NP 
+                                          (NNP Engov))
+                                        (-RCB-))
+                                (CC e)
+                                (,)
+                                (ADJP 
+                                  (JJ claro))
+                                (,)
+                                (NP (NN camisinhas)))
+                        (.)))

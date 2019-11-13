@@ -1,96 +1,55 @@
-(S 
-  (VP 
-    (VP 
-      (ADVP 
-        (RB Toda_vez_que)
-      )
-      (NP 
-        (DT um)
-        (NN crime)
-        (VP 
-          (VP 
-            (VBN cometido)
-          )
-          (PP 
-            (IN por)
-            (NP 
-              (NN representantes)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NN poder)
-                  (ADJP 
-                    (JJ p�blico)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-      (VP 
-        (VBP fica)
-      )
-      (PP 
-        (IN sem)
-        (NP 
-          (NN puni��o)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT o)
-      (NN �nus)
-    )
-    (VP 
-      (VBP recai)
-    )
-    (PP 
-      (IN sobre)
-      (NP 
-        (DT a)
-        (NN corpora��o)
-      )
-    )
-    (ADVP 
-      (RB como)
-      (NP 
-        (DT um)
-        (PRP todo)
-      )
-    )
-    (,)
-    (VP 
-      (VP 
-        (VBG gerando)
-      )
-      (NP 
-        (DT um)
-        (NN turbilh�o)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP indifer�ncia)
-          )
-          (NP 
-            (DT os)
-            (NN bons)
-          )
-          (PP 
-            (IN de+)
-            (NP 
-              (DT os)
-              (JJ maus)
-              (NN policiais)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (ADVP 
+                                    (RB Toda_vez_que))
+                                  (NP 
+                                    (DT um)
+                                    (NN crime)
+                                    (VP 
+                                      (VP 
+                                        (VBN cometido))
+                                      (PP 
+                                        (IN por)
+                                        (NP 
+                                          (NN representantes)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (NN poder)
+                                              (ADJP 
+                                                (JJ p�blico))))))))
+                                  (VP (VBP fica))
+                                  (PP 
+                                    (IN sem)
+                                    (NP 
+                                      (NN puni��o))))
+                        (,)
+                        (NP (DT o)
+                                 (NN �nus))
+                        (VP (VBP recai))
+                        (PP (IN sobre)
+                                (NP (DT a)
+                                       (NN corpora��o)))
+                        (ADVP (RB como)
+                                  (NP 
+                                    (DT um)
+                                    (PRP todo)))
+                        (,)
+                        (VP 
+                          (VP (VBG gerando))
+                          (NP (DT um)
+                                  (NN turbilh�o)
+                                  (VP 
+                                    (NP 
+                                      (PRP que))
+                                    (VP 
+                                      (VBP indifer�ncia))
+                                    (NP 
+                                      (DT os)
+                                      (NN bons))
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT os)
+                                        (JJ maus)
+                                        (NN policiais))))))
+                        (.)))

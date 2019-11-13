@@ -1,65 +1,39 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (VBN Determinadas)
-      )
-      (PP 
-        (IN por+)
-        (NP 
-          (DT o)
-          (NNP Conselho_Federal_de_Medicina)
-          (-LCB-)
-          (NP 
-            (NNP CFM)
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT as)
-      (NN normas)
-      (ADJP 
-        (JJ �ticas)
-      )
-    )
-    (VP 
-      (VBP foram)
-      (VBN inspiradas)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (PRP as)
-        (PP 
-          (IN de)
-          (NP 
-            (PRP outros)
-            (NN pa�ses)
-            (,)
-            (UCP 
-              (NP 
-                (NNP Estados_Unidos)
-              )
-              (,)
-              (NP 
-                (NNP Fran�a)
-              )
-              (CC e)
-              (NP 
-                (NNP It�lia)
-              )
-              (,)
-              (ADVP 
-                (RB por_exemplo)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VP (VBN Determinadas))
+                                (PP 
+                                  (IN por+)
+                                  (NP 
+                                    (DT o)
+                                    (NNP Conselho_Federal_de_Medicina)
+                                    (-LCB-)
+                                    (NP 
+                                      (NNP CFM))
+                                    (-RCB-))))
+                        (,)
+                        (NP (DT as)
+                                 (NN normas)
+                                 (ADJP 
+                                   (JJ �ticas)))
+                        (VP (VBP foram)
+                              (VBN inspiradas))
+                        (PP (IN em+)
+                                (NP 
+                                  (PRP as)
+                                  (PP 
+                                    (IN de)
+                                    (NP 
+                                      (PRP outros)
+                                      (NN pa�ses)
+                                      (,)
+                                      (_CU_ 
+                                        (NP 
+                                          (NNP Estados_Unidos))
+                                        (,)
+                                        (NP 
+                                          (NNP Fran�a))
+                                        (CC e)
+                                        (NP 
+                                          (NNP It�lia))
+                                        (,)
+                                        (ADVP 
+                                          (RB por_exemplo)))))))
+                        (.)))

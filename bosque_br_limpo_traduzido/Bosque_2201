@@ -1,60 +1,37 @@
-(S 
-  (VP 
-    (NP 
-      (NN Cartas)
-      (VP 
-        (VP 
-          (VBG pedindo)
-        )
-        (NP 
-          (NP 
-            (DT a)
-            (JJ imediata)
-            (NN comuta��o)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT as)
-                (NN condena��es)
-                (PP 
-                  (IN a+)
-                  (NP 
-                    (DT a)
-                    (NN morte)
-                  )
-                )
-              )
-            )
-          )
-          (CC e)
-          (NP 
-            (DT uma)
-            (NN investiga��o)
-            (PP 
-              (IN sobre)
-              (NP 
-                (DT as)
-                (NN den�ncias)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NN maus-tratos)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP devem)
-      (VB ser)
-    )
-    (VP 
-      (VBN enviadas)
-    )
-    (IN a)
-    (;)
-  )
-)
+(S (VP (NP (NN Cartas)
+                                 (VP 
+                                   (VP 
+                                     (VBG pedindo))
+                                   (_CU_ 
+                                     (NP 
+                                       (DT a)
+                                       (JJ imediata)
+                                       (NN comuta��o)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT as)
+                                           (NN condena��es)
+                                           (PP 
+                                             (IN a+)
+                                             (NP 
+                                               (DT a)
+                                               (NN morte))))))
+                                     (CC e)
+                                     (NP 
+                                       (DT uma)
+                                       (NN investiga��o)
+                                       (PP 
+                                         (IN sobre)
+                                         (NP 
+                                           (DT as)
+                                           (NN den�ncias)
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NN maus-tratos)))))))))
+                        (VP (VBP devem)
+                              (VB ser))
+                        (VP (VBN enviadas))
+                        (IN a)
+                        (;)))

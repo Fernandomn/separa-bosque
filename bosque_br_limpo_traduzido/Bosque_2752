@@ -1,37 +1,21 @@
-(S 
-  (NP 
-    (-LCB-)
-    (NP 
-      (NNP Tot�_Parente)
-      (,)
-      (PP 
-        (IN sobre)
-        (NP 
-          (DT o)
-          (NN apoio)
-          (PP 
-            (IN a)
-            (NP 
-              (NNP Qu�rcia)
-            )
-          )
-        )
-      )
-    )
-    (ADVP 
-      (RB como)
-      (NP 
-        (DT uma)
-        (NN etapa)
-        (PP 
-          (IN rumo_a+)
-          (NP 
-            (DT o)
-            (NN socialismo)
-          )
-        )
-      )
-    )
-    (-RCB-)
-  )
-)
+(S (NP (-LCB-)
+                       (NP (NNP Tot�_Parente)
+                             (,)
+                             (PP (IN sobre)
+                                        (NP 
+                                          (DT o)
+                                          (NN apoio)
+                                          (PP 
+                                            (IN a)
+                                            (NP 
+                                              (NNP Qu�rcia))))))
+                       (ADVP (RB como)
+                                   (NP 
+                                     (DT uma)
+                                     (NN etapa)
+                                     (PP 
+                                       (IN rumo_a+)
+                                       (NP 
+                                         (DT o)
+                                         (NN socialismo)))))
+                       (-RCB-)))

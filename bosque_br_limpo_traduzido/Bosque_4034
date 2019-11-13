@@ -1,52 +1,29 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NNP PMD)
-      (-LCB-)
-      (NP 
-        (NN psicose)
-        (ADJP 
-          (JJ man�aco-depressiva)
-        )
-      )
-      (-RCB-)
-    )
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (DT uma)
-      (NN doen�a)
-      (ADJP 
-        (JJ psiqui�trica)
-      )
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (VP 
-          (VBP leva)
-        )
-        (PP 
-          (IN a)
-          (NP 
-            (DT uma)
-            (NN altera��o)
-            (ADJP 
-              (JJ abrupta)
-            )
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN comportamento)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NNP PMD)
+                                 (-LCB-)
+                                 (NP 
+                                   (NN psicose)
+                                   (ADJP 
+                                     (JJ man�aco-depressiva)))
+                                 (-RCB-))
+                        (VP (VBP �))
+                        (NP (DT uma)
+                               (NN doen�a)
+                               (ADJP (JJ psiqui�trica))
+                               (VP (NP 
+                                         (PRP que))
+                                       (VP 
+                                         (VBP leva))
+                                       (PP 
+                                         (IN a)
+                                         (NP 
+                                           (DT uma)
+                                           (NN altera��o)
+                                           (ADJP 
+                                             (JJ abrupta))
+                                           (PP 
+                                             (IN de+)
+                                             (NP 
+                                               (DT o)
+                                               (NN comportamento)))))))
+                        (.)))

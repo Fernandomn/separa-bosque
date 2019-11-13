@@ -1,53 +1,28 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN �ndice)
-      (ADJP 
-        (JJ mensal)
-      )
-      (PP 
-        (IN de)
-        (NP 
-          (NN expectativa)
-          (PP 
-            (IN de)
-            (NP 
-              (NN infla��o)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP teve)
-    )
-    (NP 
-      (PRP este)
-      (NN m�s)
-    )
-    (NP 
-      (DT o)
-      (NN resultado)
-      (ADJP 
-        (RB mais)
-        (JJ baixo)
-      )
-    )
-    (VP 
-      (IN desde_que)
-      (VP 
-        (VBP foi)
-        (VBN criado)
-      )
-      (PP 
-        (IN h�)
-        (NP 
-          (CD tr�s)
-          (NN anos)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN �ndice)
+                                 (ADJP 
+                                   (JJ mensal))
+                                 (PP (IN de)
+                                        (NP 
+                                          (NN expectativa)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN infla��o))))))
+                        (VP (VBP teve))
+                        (NP (PRP este)
+                                 (NN m�s))
+                        (NP (DT o)
+                                (NN resultado)
+                                (ADJP 
+                                  (RB mais)
+                                  (JJ baixo)))
+                        (VP (IN desde_que)
+                                  (VP (VBP foi)
+                                        (VBN criado))
+                                  (PP 
+                                    (IN h�)
+                                    (NP 
+                                      (CD tr�s)
+                                      (NN anos))))
+                        (.)))

@@ -1,23 +1,8 @@
-(S 
-  (VP 
-    (NP 
-      (NN Presidente)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Yashica)
-        )
-      )
-    )
-    (VP 
-      (VBP morre)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NNP S�o_Paulo)
-      )
-    )
-  )
-)
+(S (VP (NP (NN Presidente)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP Yashica))))
+                        (VP (VBP morre))
+                        (PP (IN em)
+                                 (NP (NNP S�o_Paulo)))))

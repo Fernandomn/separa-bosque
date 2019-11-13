@@ -1,30 +1,13 @@
-(S 
-  (VP 
-    (PP 
-      (IN Segundo)
-      (NP 
-        (DT o)
-        (NN delegado)
-        (NP 
-          (NNP Roberto_Ilhesca)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (NNP Silva)
-    )
-    (VP 
-      (VBP teria)
-      (VBN confessado)
-    )
-    (PP 
-      (IN de+)
-      (NP 
-        (DT o)
-        (NN crime)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Segundo)
+                                 (NP (DT o)
+                                        (NN delegado)
+                                        (NP 
+                                          (NNP Roberto_Ilhesca))))
+                        (,)
+                        (NP (NNP Silva))
+                        (VP (VBP teria)
+                              (VBN confessado))
+                        (PP (IN de+)
+                                (NP (DT o)
+                                       (NN crime)))
+                        (.)))

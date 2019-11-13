@@ -1,53 +1,30 @@
-(S 
-  (NP 
-    (NP 
-      (NNP Folha)
-    )
-    (--)
-    (VP 
-      (NP 
-        (DT O)
-        (NN senhor)
-      )
-      (VP 
-        (VBP acha)
-      )
-      (VP 
-        (IN que)
-        (NP 
-          (DT o)
-          (NN usu�rio)
-        )
-        (VP 
-          (VBP �)
-        )
-        (NP 
-          (NN quest�o)
-          (PP 
-            (PP 
-              (IN de)
-              (NP 
-                (NN sa�de)
-              )
-            )
-            (,)
-            (PP 
-              (IN de)
-              (NP 
-                (NN educa��o)
-              )
-            )
-            (CC ou)
-            (PP 
-              (IN de)
-              (NP 
-                (NN pol�cia)
-              )
-            )
-          )
-        )
-      )
-      (?)
-    )
-  )
-)
+(S (NP (NP (NNP Folha))
+                       (--)
+                       (VP (NP 
+                                  (DT O)
+                                  (NN senhor))
+                                (VP (VBP acha))
+                                (VP 
+                                  (IN que)
+                                  (NP 
+                                    (DT o)
+                                    (NN usu�rio))
+                                  (VP (VBP �))
+                                  (NP 
+                                    (NN quest�o)
+                                    (_CU_ 
+                                      (PP 
+                                        (IN de)
+                                        (NP 
+                                          (NN sa�de)))
+                                      (,)
+                                      (PP 
+                                        (IN de)
+                                        (NP 
+                                          (NN educa��o)))
+                                      (CC ou)
+                                      (PP 
+                                        (IN de)
+                                        (NP 
+                                          (NN pol�cia))))))
+                                (?))))

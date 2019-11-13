@@ -1,58 +1,35 @@
-(S 
-  (VP 
-    (�)
-    (VP 
-      (CC Mas)
-      (NP 
-        (DT a)
-        (NNP Dow)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT os)
-            (NNP EUA)
-          )
-        )
-      )
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP quis)
-      )
-      (VP 
-        (VP 
-          (VP 
-            (VB cumprir)
-          )
-          (NP 
-            (DT o)
-            (NN contrato)
-          )
-        )
-        (CC e)
-        (VP 
-          (VP 
-            (VB transferir)
-          )
-          (NP 
-            (NN tecnologia)
-          )
-          (PP 
-            (IN a)
-            (NP 
-              (DT uma)
-              (NN concorrente)
-            )
-          )
-        )
-      )
-    )
-    (�)
-    (,)
-    (VP 
-      (VBP diz)
-    )
-    (.)
-  )
-)
+(S (VP (�)
+                        (VP (CC Mas)
+                                 (NP 
+                                   (DT a)
+                                   (NNP Dow)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT os)
+                                       (NNP EUA))))
+                                 (ADVP 
+                                   (RB n�o))
+                                 (VP (VBP quis))
+                                 (_CU_ 
+                                   (VP 
+                                     (VP 
+                                       (VB cumprir))
+                                     (NP 
+                                       (DT o)
+                                       (NN contrato)))
+                                   (CC e)
+                                   (VP 
+                                     (VP 
+                                       (VB transferir))
+                                     (NP 
+                                       (NN tecnologia))
+                                     (PP 
+                                       (IN a)
+                                       (NP 
+                                         (DT uma)
+                                         (NN concorrente))))))
+                        (�)
+                        (,)
+                        (VP (VBP diz))
+                        (.)))

@@ -1,44 +1,26 @@
-(S 
-  (VP 
-    (NP 
-      (DT Uma)
-      (NN vaca)
-      (ADJP 
-        (JJ pardo-su��o)
-      )
-    )
-    (VP 
-      (VBP conseguiu)
-    )
-    (NP 
-      (DT a)
-      (JJ maior)
-      (NN cota��o)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Expomilk)
-        )
-      )
-      (,)
-      (NP 
-        (NN R$)
-        (NP 
-          (CD 36)
-          (NN mil)
-        )
-        (-LCB-)
-        (NP 
-          (NN US$)
-          (NP 
-            (CD 42,2)
-            (NN mil)
-          )
-        )
-        (-RCB-)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Uma)
+                                 (NN vaca)
+                                 (ADJP 
+                                   (JJ pardo-su��o)))
+                        (VP (VBP conseguiu))
+                        (NP (DT a)
+                                (JJ maior)
+                                (NN cota��o)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NNP Expomilk)))
+                                (,)
+                                (NP 
+                                  (NN R$)
+                                  (NP 
+                                    (CD 36)
+                                    (NN mil))
+                                  (-LCB-)
+                                  (NP 
+                                    (NN US$)
+                                    (NP 
+                                      (CD 42,2)
+                                      (NN mil)))
+                                  (-RCB-)))
+                        (.)))

@@ -1,41 +1,28 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Recebeu)
-    )
-    (NP 
-      (NP 
-        (CD 27)
-        (NN %)
-        (PP 
-          (IN de)
-          (NP �timo e bom)
-        )
-      )
-      (,)
-      (NP 
-        (CD 30)
-        (NN %)
-        (PP 
-          (IN de)
-          (NP ruim e p�ssimo)
-        )
-      )
-      (CC e)
-      (NP 
-        (CD 42)
-        (NN %)
-        (PP 
-          (IN de)
-          (NP 
-            (NN avalia��o)
-            (ADJP 
-              (JJ regular)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Recebeu))
+                        (_CU_ (NP (CD 27)
+                                        (NN %)
+                                        (PP 
+                                          (IN de)
+                                          (_CU_ 
+                                            (NN �timo)
+                                            (CC e)
+                                            (NN bom))))
+                                (,)
+                                (NP (CD 30)
+                                        (NN %)
+                                        (PP 
+                                          (IN de)
+                                          (_CU_ 
+                                            (NN ruim)
+                                            (CC e)
+                                            (NN p�ssimo))))
+                                (CC e)
+                                (NP (CD 42)
+                                        (NN %)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN avalia��o)
+                                            (ADJP 
+                                              (JJ regular))))))
+                        (.)))

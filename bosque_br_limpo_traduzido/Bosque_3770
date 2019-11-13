@@ -1,58 +1,34 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN problema)
-    )
-    (VP 
-      (VBP �)
-    )
-    (ADJP 
-      (JJ pol�tico)
-    )
-    (VP 
-      (IN porque)
-      (VP 
-        (VBP envolve)
-      )
-      (,)
-      (ADVP 
-        (RB por_exemplo)
-      )
-      (,)
-      (NP 
-        (DT a)
-        (NN gratuidade)
-        (PP 
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN educa��o)
-            )
-          )
-          (,)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN sa�de)
-            )
-          )
-          (,)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN previd�ncia)
-              (ADJP 
-                (JJ m�nima)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN problema))
+                        (VP (VBP �))
+                        (ADJP (JJ pol�tico))
+                        (VP (IN porque)
+                                  (VP (VBP envolve))
+                                  (,)
+                                  (ADVP 
+                                    (RB por_exemplo))
+                                  (,)
+                                  (NP 
+                                    (DT a)
+                                    (NN gratuidade)
+                                    (_CU_ 
+                                      (PP 
+                                        (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN educa��o)))
+                                      (,)
+                                      (PP 
+                                        (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN sa�de)))
+                                      (,)
+                                      (PP 
+                                        (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN previd�ncia)
+                                          (ADJP 
+                                            (JJ m�nima)))))))
+                        (.)))

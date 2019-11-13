@@ -1,65 +1,39 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN motorista)
-    )
-    (VP 
-      (VBP teria)
-      (VBN perdido)
-    )
-    (NP 
-      (DT o)
-      (NN controle)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN carro)
-          (,)
-          (VP 
-            (VP 
-              (VP 
-                (VBN batido)
-              )
-              (PP 
-                (PP 
-                  (IN em)
-                  (NP 
-                    (DT um)
-                    (NNP Monza)
-                  )
-                )
-                (CC e)
-                (PP 
-                  (IN em)
-                  (NP 
-                    (DT uma)
-                    (NN �rvore)
-                  )
-                )
-              )
-              (CC e)
-              (VP 
-                (VP 
-                  (VBN capotado)
-                )
-                (PP 
-                  (IN em+)
-                  (NP 
-                    (DT a)
-                    (NN rua)
-                    (NP 
-                      (NNP En�as_Luiz_Carlos_Barbante)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN motorista))
+                        (VP (VBP teria)
+                              (VBN perdido))
+                        (NP (DT o)
+                                (NN controle)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN carro)
+                                         (,)
+                                         (_CU_ 
+                                           (VP 
+                                             (VP 
+                                               (VBN batido))
+                                             (_CU_ 
+                                               (PP 
+                                                 (IN em)
+                                                 (NP 
+                                                   (DT um)
+                                                   (NNP Monza)))
+                                               (CC e)
+                                               (PP 
+                                                 (IN em)
+                                                 (NP 
+                                                   (DT uma)
+                                                   (NN �rvore))))
+                                             (CC e)
+                                             (VP 
+                                               (VP 
+                                                 (VBN capotado))
+                                               (PP 
+                                                 (IN em+)
+                                                 (NP 
+                                                   (DT a)
+                                                   (NN rua)
+                                                   (NP 
+                                                     (NNP En�as_Luiz_Carlos_Barbante))))))))))
+                        (.)))

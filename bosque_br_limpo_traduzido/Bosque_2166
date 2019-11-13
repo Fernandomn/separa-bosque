@@ -1,23 +1,10 @@
-(S 
-  (VP 
-    (NP 
-      (NP ex-jogadores)
-    )
-    (VP 
-      (VBP elogiam)
-    )
-    (NP 
-      (DT os)
-      (NN colunistas)
-      (NP 
-        (NP 
-          (NNP Tel�)
-        )
-        (CC e)
-        (NP 
-          (NNP Cruyff)
-        )
-      )
-    )
-  )
-)
+(S (VP (NP (_EC_ ex-)
+                                 (NN jogadores))
+                        (VP (VBP elogiam))
+                        (NP (DT os)
+                                (NN colunistas)
+                                (_CU_ (NP 
+                                         (NNP Tel�))
+                                       (CC e)
+                                       (NP 
+                                         (NNP Cruyff))))))

@@ -1,39 +1,21 @@
-(S 
-  (NP 
-    (NP 
-      (NNP Folha)
-    )
-    (--)
-    (VP 
-      (NP 
-        (DT O)
-        (NNP Mercosul)
-      )
-      (VP 
-        (VBP foi)
-      )
-      (NP 
-        (NN objeto)
-        (PP 
-          (IN de)
-          (NP 
-            (NN declara��es)
-            (ADJP 
-              (RB meio)
-              (JJ euf�ricas)
-            )
-          )
-        )
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT os)
-          (JJ �ltimos)
-          (NN dias)
-        )
-      )
-      (.)
-    )
-  )
-)
+(S (NP (NP (NNP Folha))
+                       (--)
+                       (VP (NP 
+                                  (DT O)
+                                  (NNP Mercosul))
+                                (VP (VBP foi))
+                                (NP (NN objeto)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN declara��es)
+                                           (ADJP 
+                                             (RB meio)
+                                             (JJ euf�ricas)))))
+                                (PP 
+                                  (IN em+)
+                                  (NP 
+                                    (DT os)
+                                    (JJ �ltimos)
+                                    (NN dias)))
+                                (.))))

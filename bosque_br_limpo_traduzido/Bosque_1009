@@ -1,50 +1,27 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN objetivo)
-    )
-    (VP 
-      (VBP �)
-    )
-    (VP 
-      (VP 
-        (VP 
-          (VB facilitar)
-        )
-        (NP 
-          (DT a)
-          (NN vida)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT os)
-              (NN clientes)
-            )
-          )
-        )
-      )
-      (CC e)
-      (VP 
-        (VP 
-          (VB reduzir)
-        )
-        (NP 
-          (DT os)
-          (NN custos)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN institui��o)
-              (ADJP 
-                (JJ financeira)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN objetivo))
+                        (VP (VBP �))
+                        (_CU_ (VP (VP 
+                                          (VB facilitar))
+                                        (NP 
+                                          (DT a)
+                                          (NN vida)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT os)
+                                              (NN clientes)))))
+                               (CC e)
+                               (VP (VP 
+                                          (VB reduzir))
+                                        (NP 
+                                          (DT os)
+                                          (NN custos)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT a)
+                                              (NN institui��o)
+                                              (ADJP 
+                                                (JJ financeira)))))))
+                        (.)))

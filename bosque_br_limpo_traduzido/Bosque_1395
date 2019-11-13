@@ -1,26 +1,10 @@
-(S 
-  (VP 
-    (NP 
-      (NN Presidente)
-    )
-    (VP 
-      (VBP diz)
-    )
-    (VP 
-      (VP 
-        (VB estar)
-      )
-      (VP 
-        (VP 
-          (VBN apaixonado)
-        )
-        (PP 
-          (IN por)
-          (NP 
-            (NNP June)
-          )
-        )
-      )
-    )
-  )
-)
+(S (VP (NP (NN Presidente))
+                        (VP (VBP diz))
+                        (VP (VP (VB estar))
+                                 (VP 
+                                   (VP 
+                                     (VBN apaixonado))
+                                   (PP 
+                                     (IN por)
+                                     (NP 
+                                       (NNP June)))))))

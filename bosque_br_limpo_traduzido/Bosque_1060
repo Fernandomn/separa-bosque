@@ -1,71 +1,42 @@
-(S 
-  (VP 
-    (VP 
-      (VBP H�)
-    )
-    (NP 
-      (PRP algo)
-      (PP 
-        (IN de)
-        (NP 
-          (NN novo)
-        )
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (PRP estes)
-        (CD quatro)
-        (NN filmes)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (NP 
-            (NNP Cac�_Diegues)
-          )
-          (VP 
-            (VBP fez)
-          )
-          (PP 
-            (IN para)
-            (NP 
-              (DT a)
-              (NNP TV_Cultura)
-            )
-          )
-          (,)
-          (PP 
-            (IN em_cima_de)
-            (NP 
-              (CD quatro)
-              (NN can��es)
-              (PP 
-                (IN de)
-                (NP 
-                  (NP 
-                    (NNP Gil)
-                  )
-                  (,)
-                  (NP 
-                    (NNP Caetano)
-                  )
-                  (,)
-                  (NP 
-                    (NNP Chico)
-                  )
-                  (CC e)
-                  (NP 
-                    (NNP Jorge_Ben_Jor)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP H�))
+                        (NP (PRP algo)
+                                (PP (IN de)
+                                       (NP 
+                                         (NN novo))))
+                        (PP (IN em+)
+                                 (NP (PRP estes)
+                                        (CD quatro)
+                                        (NN filmes)
+                                        (VP 
+                                          (NP 
+                                            (PRP que))
+                                          (NP 
+                                            (NNP Cac�_Diegues))
+                                          (VP 
+                                            (VBP fez))
+                                          (PP 
+                                            (IN para)
+                                            (NP 
+                                              (DT a)
+                                              (NNP TV_Cultura)))
+                                          (,)
+                                          (PP 
+                                            (IN em_cima_de)
+                                            (NP 
+                                              (CD quatro)
+                                              (NN can��es)
+                                              (PP 
+                                                (IN de)
+                                                (_CU_ 
+                                                  (NP 
+                                                    (NNP Gil))
+                                                  (,)
+                                                  (NP 
+                                                    (NNP Caetano))
+                                                  (,)
+                                                  (NP 
+                                                    (NNP Chico))
+                                                  (CC e)
+                                                  (NP 
+                                                    (NNP Jorge_Ben_Jor)))))))))
+                        (.)))

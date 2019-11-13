@@ -1,63 +1,34 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN valores)
-      (ADJP 
-        (JJ m�dios)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT as)
-          (NN loca��es)
-          (PP 
-            (IN de)
-            (NP 
-              (NN im�veis)
-              (ADJP 
-                (RB n�o)
-                (JJ residenciais)
-              )
-            )
-          )
-          (PP 
-            (IN em+)
-            (NP 
-              (DT a)
-              (NN cidade)
-              (PP 
-                (IN de)
-                (NP 
-                  (NNP S�o_Paulo)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP subiram)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NN junho)
-      )
-    )
-    (NP 
-      (CD 50,16)
-      (NN %)
-    )
-    (,)
-    (PP 
-      (IN segundo)
-      (NP 
-        (DT a)
-        (NNP Hubert_Im�veis_e_Administra��o_Ltda)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN valores)
+                                 (ADJP 
+                                   (JJ m�dios))
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT as)
+                                          (NN loca��es)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN im�veis)
+                                              (ADJP 
+                                                (RB n�o)
+                                                (JJ residenciais))))
+                                          (PP 
+                                            (IN em+)
+                                            (NP 
+                                              (DT a)
+                                              (NN cidade)
+                                              (PP 
+                                                (IN de)
+                                                (NP 
+                                                  (NNP S�o_Paulo))))))))
+                        (VP (VBP subiram))
+                        (PP (IN em)
+                                 (NP (NN junho)))
+                        (NP (CD 50,16)
+                                (NN %))
+                        (,)
+                        (PP (IN segundo)
+                                 (NP (DT a)
+                                        (NNP Hubert_Im�veis_e_Administra��o_Ltda)))
+                        (.)))

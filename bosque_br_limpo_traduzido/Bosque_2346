@@ -1,56 +1,32 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN objetivo)
-    )
-    (VP 
-      (VBP �)
-    )
-    (VP 
-      (VP 
-        (VB divulgar)
-      )
-      (NP 
-        (DT as)
-        (NN t�cnicas)
-        (ADJP 
-          (RB mais)
-          (JJ modernas)
-        )
-        (PP 
-          (IN de)
-          (NP 
-            (NN tratamento)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT as)
-                (NN deformidades)
-                (ADJP 
-                  (JJ cong�nitas)
-                )
-              )
-            )
-          )
-        )
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT as)
-          (JJ diversas)
-          (NN regi�es)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN pa�s)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN objetivo))
+                        (VP (VBP �))
+                        (VP (VP (VB divulgar))
+                                (NP (DT as)
+                                        (NN t�cnicas)
+                                        (ADJP 
+                                          (RB mais)
+                                          (JJ modernas))
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN tratamento)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT as)
+                                                (NN deformidades)
+                                                (ADJP 
+                                                  (JJ cong�nitas)))))))
+                                (PP 
+                                  (IN em+)
+                                  (NP 
+                                    (DT as)
+                                    (JJ diversas)
+                                    (NN regi�es)
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT o)
+                                        (NN pa�s))))))
+                        (.)))

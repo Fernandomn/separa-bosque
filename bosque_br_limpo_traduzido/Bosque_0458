@@ -1,66 +1,34 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN escrit�rio)
-      (PP 
-        (IN de)
-        (NP 
-          (NNP J�lio_Neves)
-        )
-      )
-    )
-    (ADVP 
-      (RB j�)
-    )
-    (VP 
-      (VBP come�a)
-      (IN a)
-      (VB preparar)
-    )
-    (NP 
-      (JJ novos)
-      (NN estudos)
-    )
-    (PP 
-      (IN para)
-      (NP 
-        (DT o)
-        (NN prolongamento)
-        (PP 
-          (IN de+)
-          (NP 
-            (PRP este)
-            (NN corredor)
-          )
-        )
-      )
-    )
-    (PP 
-      (IN al�m_de+)
-      (NP 
-        (DT o)
-        (NN shopping)
-        (NP 
-          (NNP Morumbi)
-        )
-      )
-    )
-    (,)
-    (PP 
-      (IN em_dire��o_a+)
-      (NP 
-        (DT a)
-        (NN ponte)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN Socorro)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN escrit�rio)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NNP J�lio_Neves))))
+                        (ADVP (RB j�))
+                        (VP (VBP come�a)
+                              (IN a)
+                              (VB preparar))
+                        (NP (JJ novos)
+                                (NN estudos))
+                        (PP (IN para)
+                                 (NP (DT o)
+                                        (NN prolongamento)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (PRP este)
+                                            (NN corredor)))))
+                        (PP (IN al�m_de+)
+                                 (NP (DT o)
+                                        (NN shopping)
+                                        (NP 
+                                          (NNP Morumbi))))
+                        (,)
+                        (PP (IN em_dire��o_a+)
+                                 (NP (DT a)
+                                        (NN ponte)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN Socorro)))))
+                        (.)))

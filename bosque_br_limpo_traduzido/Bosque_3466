@@ -1,31 +1,15 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN secret�rio-geral)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN Presid�ncia)
-          (,)
-          (NP 
-            (NNP Mauro_Durante)
-          )
-          (,)
-        )
-      )
-    )
-    (ADVP 
-      (RB tamb�m)
-    )
-    (VP 
-      (VBP tem)
-    )
-    (NP 
-      (NN emprego)
-      (VBN garantido)
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN secret�rio-geral)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN Presid�ncia)
+                                          (,)
+                                          (NP 
+                                            (NNP Mauro_Durante))
+                                          (,))))
+                        (ADVP (RB tamb�m))
+                        (VP (VBP tem))
+                        (NP (NN emprego)
+                                (VBN garantido))
+                        (.)))

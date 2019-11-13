@@ -1,40 +1,23 @@
-(S 
-  (VP 
-    (NP 
-      (NN Fuzis)
-    )
-    (VP 
-      (VBP disparam)
-    )
-    (UCP 
-      (NP 
-        (NN muni��o)
-        (ADJP 
-          (RB mais)
-          (JJ poderosa)
-        )
-      )
-      (CC e)
-      (PP 
-        (IN a)
-        (NP 
-          (DT um)
-          (NN alcance)
-          (ADJP 
-            (JJ maior)
-          )
-          (,)
-          (PP 
-            (IN de)
-            (NP 
-              (RB at�)
-              (CD um)
-              (NN quil�metro)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN Fuzis))
+                        (VP (VBP disparam))
+                        (_CU_ (NP 
+                                  (NN muni��o)
+                                  (ADJP 
+                                    (RB mais)
+                                    (JJ poderosa)))
+                                (CC e)
+                                (PP 
+                                  (IN a)
+                                  (NP 
+                                    (DT um)
+                                    (NN alcance)
+                                    (ADJP 
+                                      (JJ maior))
+                                    (,)
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (RB at�)
+                                        (CD um)
+                                        (NN quil�metro))))))
+                        (.)))

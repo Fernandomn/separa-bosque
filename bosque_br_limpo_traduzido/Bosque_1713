@@ -1,83 +1,48 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em)
-      (ADJP 
-        (CD 1920)
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN sujei��o)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN sult�o)
-          (NP 
-            (NNP Mohamed_6�)
-          )
-        )
-      )
-      (PP 
-        (IN a+)
-        (NP 
-          (DT o)
-          (NNP Tratado_de_S�vres)
-        )
-      )
-    )
-    (VP 
-      (VBP desagradou)
-    )
-    (NP 
-      (DT os)
-      (NN nacionalistas)
-      (VP 
-        (VP 
-          (VBN liderados)
-        )
-        (PP 
-          (IN por)
-          (NP 
-            (NNP Mustaf�_Kemal)
-            (,)
-            (NP 
-              (NN militar)
-              (VP 
-                (NP 
-                  (PRP que)
-                )
-                (VP 
-                  (VBP lutou)
-                )
-                (PP 
-                  (PP 
-                    (IN em+)
-                    (NP 
-                      (DT as)
-                      (NN guerras)
-                      (ADJP 
-                        (JJ balc�nicas)
-                      )
-                    )
-                  )
-                  (CC e)
-                  (PP 
-                    (IN em+)
-                    (NP 
-                      (DT a)
-                      (NNP Primeira_Guerra_Mundial)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em)
+                                 (ADJP 
+                                   (CD 1920)))
+                        (,)
+                        (NP (DT a)
+                                 (NN sujei��o)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN sult�o)
+                                          (NP 
+                                            (NNP Mohamed_6�))))
+                                 (PP (IN a+)
+                                        (NP 
+                                          (DT o)
+                                          (NNP Tratado_de_S�vres))))
+                        (VP (VBP desagradou))
+                        (NP (DT os)
+                                (NN nacionalistas)
+                                (VP (VP 
+                                          (VBN liderados))
+                                        (PP 
+                                          (IN por)
+                                          (NP 
+                                            (NNP Mustaf�_Kemal)
+                                            (,)
+                                            (NP 
+                                              (NN militar)
+                                              (VP 
+                                                (NP 
+                                                  (PRP que))
+                                                (VP 
+                                                  (VBP lutou))
+                                                (_CU_ 
+                                                  (PP 
+                                                    (IN em+)
+                                                    (NP 
+                                                      (DT as)
+                                                      (NN guerras)
+                                                      (ADJP 
+                                                        (JJ balc�nicas))))
+                                                  (CC e)
+                                                  (PP 
+                                                    (IN em+)
+                                                    (NP 
+                                                      (DT a)
+                                                      (NNP Primeira_Guerra_Mundial))))))))))
+                        (.)))

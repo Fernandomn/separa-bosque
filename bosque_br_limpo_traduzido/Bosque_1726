@@ -1,45 +1,22 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Cobram)
-    )
-    (NP 
-      (NN di�rias)
-      (PP 
-        (IN a_partir_de)
-        (NP 
-          (NN US$)
-          (ADJP 
-            (CD 50)
-          )
-          (-LCB-)
-          (NP 
-            (NN CR$)
-            (NP 
-              (CD 22,9)
-              (NN mil)
-            )
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (PP 
-      (IN por)
-      (NP 
-        (NN pessoa)
-      )
-    )
-    (,)
-    (PP 
-      (IN com)
-      (NP 
-        (NN pens�o)
-        (ADJP 
-          (JJ completa)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Cobram))
+                        (NP (NN di�rias)
+                                (PP (IN a_partir_de)
+                                       (NP 
+                                         (NN US$)
+                                         (ADJP 
+                                           (CD 50))
+                                         (-LCB-)
+                                         (NP 
+                                           (NN CR$)
+                                           (NP 
+                                             (CD 22,9)
+                                             (NN mil)))
+                                         (-RCB-))))
+                        (PP (IN por)
+                                 (NP (NN pessoa)))
+                        (,)
+                        (PP (IN com)
+                                 (NP (NN pens�o)
+                                        (ADJP 
+                                          (JJ completa))))
+                        (.)))

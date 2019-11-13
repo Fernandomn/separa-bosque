@@ -1,19 +1,8 @@
-(S 
-  (NP 
-    (ADJP 
-      (JJ 1.)
-    )
-    (NN Curr�culo)
-    (PP 
-      (IN com)
-      (NP 
-        (ADJP 
-          (RB mais_de)
-          (CD tr�s)
-        )
-        (NN p�ginas)
-      )
-    )
-    (.)
-  )
-)
+(S (NP (ADJP (JJ 1.))
+                       (NN Curr�culo)
+                       (PP (IN com)
+                              (NP (ADJP 
+                                       (RB mais_de)
+                                       (CD tr�s))
+                                     (NN p�ginas)))
+                       (.)))

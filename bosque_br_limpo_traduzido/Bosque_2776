@@ -1,45 +1,27 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NP vice-presidente)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN C�mara)
-          (,)
-          (NP 
-            (NNP Adylson_Motta)
-          )
-          (,)
-        )
-      )
-    )
-    (VP 
-      (VBP disse)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT o)
-        (NN regimento)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN C�mara)
-          )
-        )
-      )
-      (VP 
-        (VBP impede)
-      )
-      (NP 
-        (DT o)
-        (NN corte)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                  (_EC_ vice-)
+                                  (NN presidente)
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT a)
+                                      (NN C�mara)
+                                      (,)
+                                      (NP 
+                                        (NNP Adylson_Motta))
+                                      (,))))
+                         (VP (VBP disse))
+                         (VP (IN que)
+                                  (NP 
+                                    (DT o)
+                                    (NN regimento)
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT a)
+                                        (NN C�mara))))
+                                  (VP (VBP impede))
+                                  (NP 
+                                    (DT o)
+                                    (NN corte)))
+                         (.)))

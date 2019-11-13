@@ -1,81 +1,49 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN droga)
-      (�)
-      (NP 
-        (NN salmeterol)
-      )
-      (�)
-    )
-    (VP 
-      (VBP �)
-    )
-    (ADJP 
-      (RB mais)
-      (JJ eficaz)
-    )
-    (PP 
-      (IN para)
-      (VP 
-        (VP 
-          (VB tratar)
-        )
-        (NP 
-          (NN asma)
-        )
-        (ADVP 
-          (RB a_longo_prazo)
-        )
-      )
-      (ADVP 
-        (IN do_que)
-        (NP 
-          (PRP a)
-          (ADJP 
-            (RB comumente)
-            (VBN usada)
-          )
-        )
-      )
-    )
-    (,)
-    (PP 
-      (IN segundo)
-      (NP 
-        (NN estudo)
-        (PP 
-          (IN em+)
-          (NP 
-            (DT a)
-            (JJ �ltima)
-            (NN edi��o)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (NN revista)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT a)
-                    (NNP Associa��o_M�dica_Norte-americana)
-                    (-LCB-)
-                    (�)
-                    (NP 
-                      (NNP Jama)
-                    )
-                    (�)
-                    (-RCB-)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN droga)
+                                 (�)
+                                 (NP (NN salmeterol))
+                                 (�))
+                        (VP (VBP �))
+                        (ADJP (RB mais)
+                                 (JJ eficaz))
+                        (PP (IN para)
+                                 (VP 
+                                   (VP 
+                                     (VB tratar))
+                                   (NP 
+                                     (NN asma))
+                                   (ADVP 
+                                     (RB a_longo_prazo)))
+                                 (ADVP 
+                                   (IN do_que)
+                                   (NP 
+                                     (PRP a)
+                                     (ADJP 
+                                       (RB comumente)
+                                       (VBN usada)))))
+                        (,)
+                        (PP (IN segundo)
+                                 (NP (NN estudo)
+                                        (PP 
+                                          (IN em+)
+                                          (NP 
+                                            (DT a)
+                                            (JJ �ltima)
+                                            (NN edi��o)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT a)
+                                                (NN revista)
+                                                (PP 
+                                                  (IN de+)
+                                                  (NP 
+                                                    (DT a)
+                                                    (NNP Associa��o_M�dica_Norte-americana)
+                                                    (-LCB-)
+                                                    (�)
+                                                    (NP 
+                                                      (NNP Jama))
+                                                    (�)
+                                                    (-RCB-)))))))))
+                        (.)))

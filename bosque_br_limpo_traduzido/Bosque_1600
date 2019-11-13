@@ -1,80 +1,47 @@
-(S 
-  (VP 
-    (PP 
-      (IN Al�m_de)
-      (NP 
-        (NP 
-          (NNP Serpa)
-        )
-        (CC e)
-        (NP 
-          (NNP Teixeira)
-        )
-      )
-    )
-    (,)
-    (ADVP 
-      (RB j�)
-    )
-    (VP 
-      (VBP estavam)
-    )
-    (PP 
-      (IN sob)
-      (NP 
-        (NN investiga��o)
-        (ADJP 
-          (JJ judicial)
-        )
-        (ADJP 
-          (JJ eleitoral)
-        )
-      )
-    )
-    (NP 
-      (DT os)
-      (NN candidatos)
-      (NP 
-        (NP 
-          (NNP M�rcia_Cibilis_Viana)
-          (-LCB-)
-          (ADJP 
-            (JJ federal)
-          )
-          (,)
-          (NP 
-            (NNP PDT)
-          )
-          (-RCB-)
-        )
-        (,)
-        (NP 
-          (NNP Paulo_de_Almeida)
-          (-LCB-)
-          (ADJP 
-            (JJ federal)
-          )
-          (,)
-          (NP 
-            (NNP PSD)
-          )
-          (-RCB-)
-        )
-        (CC e)
-        (NP 
-          (NNP Aluizio_de_Castro)
-          (-LCB-)
-          (ADJP 
-            (JJ estadual)
-          )
-          (,)
-          (NP 
-            (NNP PPR)
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Al�m_de)
+                                 (_CU_ (NP 
+                                          (NNP Serpa))
+                                        (CC e)
+                                        (NP 
+                                          (NNP Teixeira))))
+                        (,)
+                        (ADVP (RB j�))
+                        (VP (VBP estavam))
+                        (PP (IN sob)
+                               (NP (NN investiga��o)
+                                      (ADJP 
+                                        (JJ judicial))
+                                      (ADJP 
+                                        (JJ eleitoral))))
+                        (NP (DT os)
+                                 (NN candidatos)
+                                 (_CU_ (NP 
+                                          (NNP M�rcia_Cibilis_Viana)
+                                          (-LCB-)
+                                          (ADJP 
+                                            (JJ federal))
+                                          (,)
+                                          (NP 
+                                            (NNP PDT))
+                                          (-RCB-))
+                                        (,)
+                                        (NP 
+                                          (NNP Paulo_de_Almeida)
+                                          (-LCB-)
+                                          (ADJP 
+                                            (JJ federal))
+                                          (,)
+                                          (NP 
+                                            (NNP PSD))
+                                          (-RCB-))
+                                        (CC e)
+                                        (NP 
+                                          (NNP Aluizio_de_Castro)
+                                          (-LCB-)
+                                          (ADJP 
+                                            (JJ estadual))
+                                          (,)
+                                          (NP 
+                                            (NNP PPR))
+                                          (-RCB-))))
+                        (.)))

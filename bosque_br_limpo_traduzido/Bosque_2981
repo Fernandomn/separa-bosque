@@ -1,38 +1,18 @@
-(S 
-  (VP 
-    (NP 
-      (NN Acordo)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT a)
-          (NNP C�mara_Setorial)
-        )
-      )
-    )
-    (VP 
-      (VBP garante)
-    )
-    (NP 
-      (NN cr�dito)
-      (PP 
-        (IN de)
-        (NP 
-          (NN US$)
-          (NP 
-            (CD 650)
-            (NN milh�es)
-          )
-        )
-      )
-      (PP 
-        (IN para)
-        (NP 
-          (DT o)
-          (NNP Finame_Rural)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN Acordo)
+                                 (PP (IN em+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP C�mara_Setorial))))
+                        (VP (VBP garante))
+                        (NP (NN cr�dito)
+                                (PP (IN de)
+                                       (NP 
+                                         (NN US$)
+                                         (NP 
+                                           (CD 650)
+                                           (NN milh�es))))
+                                (PP (IN para)
+                                       (NP 
+                                         (DT o)
+                                         (NNP Finame_Rural))))
+                        (.)))

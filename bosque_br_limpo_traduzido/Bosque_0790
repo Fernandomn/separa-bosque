@@ -1,49 +1,27 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN modelo)
-      (PP 
-        (IN de)
-        (NP 
-          (NN privatiza��o)
-        )
-      )
-      (VP 
-        (VP 
-          (VBN previsto)
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT a)
-            (NNP MP)
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP foi)
-      (VBN organizado)
-    )
-    (PP 
-      (IN por+)
-      (NP 
-        (DT o)
-        (NN presidente)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NNP BNDES)
-          )
-        )
-        (,)
-        (NP 
-          (NNP P�rsio_Arida)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN modelo)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NN privatiza��o)))
+                                 (VP 
+                                   (VP 
+                                     (VBN previsto))
+                                   (PP 
+                                     (IN em+)
+                                     (NP 
+                                       (DT a)
+                                       (NNP MP)))))
+                        (VP (VBP foi)
+                              (VBN organizado))
+                        (PP (IN por+)
+                                 (NP (DT o)
+                                        (NN presidente)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NNP BNDES)))
+                                        (,)
+                                        (NP 
+                                          (NNP P�rsio_Arida))))
+                        (.)))

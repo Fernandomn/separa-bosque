@@ -1,80 +1,49 @@
-(S 
-  (VP 
-    (PP 
-      (IN Entre)
-      (NP 
-        (PRP elas)
-      )
-    )
-    (,)
-    (VP 
-      (VBP est�o)
-    )
-    (NP 
-      (DT as)
-      (NP 
-        (NP 
-          (NN reformas)
-        )
-        (CC e)
-        (NP 
-          (NN amplia��es)
-        )
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NN hospitais)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NP 
-                (NP 
-                  (NNP Tatuap�)
-                  (-LCB-)
-                  (NP 
-                    (NN US$)
-                    (NP 
-                      (CD 7,4)
-                      (NN milh�es)
-                    )
-                  )
-                  (-RCB-)
-                )
-                (,)
-                (NP 
-                  (NNP Vila_Nova_Cachoeirinha)
-                  (-LCB-)
-                  (NP 
-                    (NN US$)
-                    (NP 
-                      (CD 17)
-                      (NN milh�es)
-                    )
-                  )
-                  (-RCB-)
-                )
-                (CC e)
-                (NP 
-                  (NNP Tide_Setubal)
-                  (-LCB-)
-                  (NP 
-                    (NN US$)
-                    (NP 
-                      (CD 9,4)
-                      (NN milh�es)
-                    )
-                  )
-                  (-RCB-)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Entre)
+                                 (NP (PRP elas)))
+                        (,)
+                        (VP (VBP est�o))
+                        (NP (DT as)
+                                 (_CU_ (NP 
+                                         (NN reformas))
+                                       (CC e)
+                                       (NP 
+                                         (NN amplia��es)))
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT os)
+                                          (NN hospitais)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (_CU_ 
+                                                (NP 
+                                                  (NNP Tatuap�)
+                                                  (-LCB-)
+                                                  (NP 
+                                                    (NN US$)
+                                                    (NP 
+                                                      (CD 7,4)
+                                                      (NN milh�es)))
+                                                  (-RCB-))
+                                                (,)
+                                                (NP 
+                                                  (NNP Vila_Nova_Cachoeirinha)
+                                                  (-LCB-)
+                                                  (NP 
+                                                    (NN US$)
+                                                    (NP 
+                                                      (CD 17)
+                                                      (NN milh�es)))
+                                                  (-RCB-))
+                                                (CC e)
+                                                (NP 
+                                                  (NNP Tide_Setubal)
+                                                  (-LCB-)
+                                                  (NP 
+                                                    (NN US$)
+                                                    (NP 
+                                                      (CD 9,4)
+                                                      (NN milh�es)))
+                                                  (-RCB-))))))))
+                        (.)))

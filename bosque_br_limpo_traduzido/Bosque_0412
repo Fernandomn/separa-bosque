@@ -1,29 +1,11 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN verdade)
-    )
-    (,)
-    (ADVP 
-      (RB por�m)
-    )
-    (,)
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP d�)
-    )
-    (NP 
-      (NP 
-        (NN cartas)
-      )
-      (CC nem)
-      (NP 
-        (NN votos)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN verdade))
+                        (,)
+                        (ADVP (RB por�m))
+                        (,)
+                        (ADVP (RB n�o))
+                        (VP (VBP d�))
+                        (_CU_ (NP (NN cartas))
+                                (CC nem)
+                                (NP (NN votos)))
+                        (.)))

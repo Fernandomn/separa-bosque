@@ -1,27 +1,12 @@
-(S 
-  (VP 
-    (NP 
-      (DT As)
-      (NN consultas)
-    )
-    (VP 
-      (VBP ser�o)
-      (VBN feitas)
-    )
-    (ADVP 
-      (RB por_escrito)
-    )
-    (PP 
-      (IN para)
-      (VP 
-        (VP 
-          (VB evitar)
-        )
-        (NP 
-          (NN contesta��o)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT As)
+                                 (NN consultas))
+                        (VP (VBP ser�o)
+                              (VBN feitas))
+                        (ADVP (RB por_escrito))
+                        (PP (IN para)
+                                 (VP 
+                                   (VP 
+                                     (VB evitar))
+                                   (NP 
+                                     (NN contesta��o))))
+                        (.)))

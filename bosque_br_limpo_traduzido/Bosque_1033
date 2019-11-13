@@ -1,69 +1,38 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB De_acordo)
-      (PP 
-        (IN com)
-        (NP 
-          (NNP Leite)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT o)
-      (NN Tc)
-    )
-    (VP 
-      (VBP considerou)
-    )
-    (ADJP 
-      (JJ desnecess�rias)
-    )
-    (NP 
-      (DT as)
-      (NN licita��es)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT as)
-          (NN opera��es)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN programa)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (IN porque)
-      (NP 
-        (DT o)
-        (NNP Sebrae)
-      )
-      (VP 
-        (VBP �)
-      )
-      (NP 
-        (DT uma)
-        (NN entidade)
-        (ADJP 
-          (JJ civil)
-        )
-        (PP 
-          (IN sem)
-          (NP 
-            (NN fins)
-            (ADJP 
-              (JJ lucrativos)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB De_acordo)
+                                   (PP 
+                                     (IN com)
+                                     (NP 
+                                       (NNP Leite))))
+                        (,)
+                        (NP (DT o)
+                                 (NN Tc))
+                        (VP (VBP considerou))
+                        (ADJP (JJ desnecess�rias))
+                        (NP (DT as)
+                                (NN licita��es)
+                                (PP (IN em+)
+                                       (NP 
+                                         (DT as)
+                                         (NN opera��es)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT o)
+                                             (NN programa))))))
+                        (VP (IN porque)
+                                  (NP 
+                                    (DT o)
+                                    (NNP Sebrae))
+                                  (VP (VBP �))
+                                  (NP 
+                                    (DT uma)
+                                    (NN entidade)
+                                    (ADJP 
+                                      (JJ civil))
+                                    (PP 
+                                      (IN sem)
+                                      (NP 
+                                        (NN fins)
+                                        (ADJP 
+                                          (JJ lucrativos))))))
+                        (.)))

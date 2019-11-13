@@ -1,57 +1,33 @@
-(S 
-  (VP 
-    (NP 
-      (PRP V�rias)
-      (NN empresas)
-      (VP 
-        (VP 
-          (VBN ligadas)
-        )
-        (PP 
-          (IN a)
-          (NP 
-            (PRP este)
-            (NN Minist�rio)
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP converteram)
-    )
-    (NP 
-      (DT os)
-      (NN sal�rios)
-    )
-    (PP 
-      (PP 
-        (IN por+)
-        (NP 
-          (DT o)
-          (�)
-          (NN pico)
-          (�)
-        )
-      )
-      (CC e)
-      (PP 
-        (RB n�o)
-        (IN por+)
-        (NP 
-          (DT a)
-          (NN m�dia)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT os)
-              (JJ �ltimos)
-              (CD quatro)
-              (NN meses)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP V�rias)
+                                 (NN empresas)
+                                 (VP 
+                                   (VP 
+                                     (VBN ligadas))
+                                   (PP 
+                                     (IN a)
+                                     (NP 
+                                       (PRP este)
+                                       (NN Minist�rio)))))
+                        (VP (VBP converteram))
+                        (NP (DT os)
+                                (NN sal�rios))
+                        (_CU_ (PP (IN por+)
+                                        (NP 
+                                          (DT o)
+                                          (�)
+                                          (NN pico)
+                                          (�)))
+                                (CC e)
+                                (PP (RB n�o)
+                                        (IN por+)
+                                        (NP 
+                                          (DT a)
+                                          (NN m�dia)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT os)
+                                              (JJ �ltimos)
+                                              (CD quatro)
+                                              (NN meses))))))
+                        (.)))

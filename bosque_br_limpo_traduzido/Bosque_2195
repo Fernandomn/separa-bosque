@@ -1,64 +1,35 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN destaque)
-    )
-    (,)
-    (PP 
-      (IN sem)
-      (NP 
-        (NN d�vida)
-      )
-    )
-    (,)
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (DT o)
-      (NN bal�)
-      (NP 
-        (NNP Bolshoi)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP R�ssia)
-        )
-      )
-      (,)
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (PP 
-          (IN h�)
-          (NP 
-            (RB pelo_menos)
-            (CD cinco)
-            (NN anos)
-            (ADJP 
-              (JJ consecutivos)
-            )
-          )
-        )
-        (NP 
-          (PRP se)
-        )
-        (VP 
-          (VBP apresenta)
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT a)
-            (NN cidade)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN destaque))
+                        (,)
+                        (PP (IN sem)
+                                 (NP (NN d�vida)))
+                        (,)
+                        (VP (VBP �))
+                        (NP (DT o)
+                               (NN bal�)
+                               (NP (NNP Bolshoi))
+                               (PP (IN de+)
+                                      (NP 
+                                        (DT a)
+                                        (NNP R�ssia)))
+                               (,)
+                               (VP 
+                                 (NP 
+                                   (PRP que))
+                                 (PP 
+                                   (IN h�)
+                                   (NP 
+                                     (RB pelo_menos)
+                                     (CD cinco)
+                                     (NN anos)
+                                     (ADJP 
+                                       (JJ consecutivos))))
+                                 (NP 
+                                   (PRP se))
+                                 (VP (VBP apresenta))
+                                 (PP 
+                                   (IN em+)
+                                   (NP 
+                                     (DT a)
+                                     (NN cidade)))))
+                        (.)))

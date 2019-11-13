@@ -1,48 +1,22 @@
-(S 
-  (VP 
-    (PP 
-      (IN Segundo)
-      (NP 
-        (PRP eles)
-      )
-    )
-    (,)
-    (NP 
-      (NN casos)
-      (PP 
-        (IN de)
-        (NP 
-          (NN doen�as)
-          (PP 
-            (IN de)
-            (NP 
-              (NN pele)
-              (PP 
-                (IN em)
-                (NP 
-                  (NN �ndios)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP estariam)
-    )
-    (VP 
-      (VP 
-        (VBN relacionados)
-      )
-      (PP 
-        (IN a+)
-        (NP 
-          (DT a)
-          (NN contamina��o)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Segundo)
+                                (NP (PRP eles)))
+                       (,)
+                       (NP (NN casos)
+                                (PP (IN de)
+                                       (NP 
+                                         (NN doen�as)
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NN pele)
+                                             (PP 
+                                               (IN em)
+                                               (NP 
+                                                 (NN �ndios))))))))
+                       (VP (VBP estariam))
+                       (VP (VP (VBN relacionados))
+                               (PP (IN a+)
+                                       (NP 
+                                         (DT a)
+                                         (NN contamina��o))))
+                       (.)))

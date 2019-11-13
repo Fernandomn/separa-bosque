@@ -1,42 +1,21 @@
-(S 
-  (NP 
-    (NN Termo)
-    (PP 
-      (IN de)
-      (NP 
-        (NN conv�nio)
-      )
-    )
-    (VP 
-      (NP 
-        (PRP que)
-      )
-      (VP 
-        (VBP celebram)
-      )
-      (,)
-      (ADVP 
-        (RB entre_si)
-      )
-      (,)
-      (NP 
-        (NP 
-          (DT a)
-          (NN Uni�o)
-        )
-        (CC e)
-        (NP 
-          (DT o)
-          (NN Estado)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NNP Rio_de_Janeiro)
-            )
-          )
-        )
-      )
-    )
-  )
-)
+(S (NP (NN Termo)
+                       (PP (IN de)
+                              (NP (NN conv�nio)))
+                       (VP (NP (PRP que))
+                               (VP (VBP celebram))
+                               (,)
+                               (ADVP 
+                                 (RB entre_si))
+                               (,)
+                               (_CU_ (NP 
+                                          (DT a)
+                                          (NN Uni�o))
+                                        (CC e)
+                                        (NP 
+                                          (DT o)
+                                          (NN Estado)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (NNP Rio_de_Janeiro))))))))

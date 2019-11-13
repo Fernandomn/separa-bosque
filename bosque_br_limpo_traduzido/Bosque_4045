@@ -1,45 +1,25 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN professora)
-      (NP 
-        (NNP Cl�udia_Morgado)
-      )
-      (,)
-      (ADJP 
-        (CD 25)
-      )
-      (,)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN academia)
-          (NP 
-            (NNP Competition)
-          )
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP recomenda)
-    )
-    (NP 
-      (NN exerc�cios)
-      (ADJP 
-        (JJ leves)
-      )
-    )
-    (,)
-    (ADVP 
-      (RB como)
-      (NP 
-        (DT a)
-        (NN corrida)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN professora)
+                                 (NP (NNP Cl�udia_Morgado))
+                                 (,)
+                                 (ADJP 
+                                   (CD 25))
+                                 (,)
+                                 (PP 
+                                   (IN de+)
+                                   (NP 
+                                     (DT a)
+                                     (NN academia)
+                                     (NP 
+                                       (NNP Competition))))
+                                 (,))
+                        (VP (VBP recomenda))
+                        (NP (NN exerc�cios)
+                                (ADJP 
+                                  (JJ leves)))
+                        (,)
+                        (ADVP (RB como)
+                                  (NP 
+                                    (DT a)
+                                    (NN corrida)))
+                        (.)))

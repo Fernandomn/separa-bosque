@@ -1,53 +1,28 @@
-(S 
-  (VP 
-    (VP 
-      (VBP T�m)
-    )
-    (NP 
-      (NN resolu��o)
-      (PP 
-        (IN de)
-        (NP 
-          (CD 600x600)
-          (NN pontos)
-          (PP 
-            (IN por)
-            (NP 
-              (NN polegada)
-            )
-          )
-          (-LCB-)
-          (NP 
-            (NN dpi)
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (,)
-    (VP 
-      (NP 
-        (PRP o_que)
-      )
-      (VP 
-        (VBP permite)
-      )
-      (VP 
-        (VP 
-          (VB obter)
-        )
-        (NP 
-          (NN imagens)
-          (PP 
-            (IN com)
-            (NP 
-              (PRP mais)
-              (NN defini��o)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP T�m))
+                        (NP (NN resolu��o)
+                                (PP (IN de)
+                                       (NP 
+                                         (CD 600x600)
+                                         (NN pontos)
+                                         (PP 
+                                           (IN por)
+                                           (NP 
+                                             (NN polegada)))
+                                         (-LCB-)
+                                         (NP 
+                                           (NN dpi))
+                                         (-RCB-))))
+                        (,)
+                        (VP (NP 
+                                  (PRP o_que))
+                                (VP (VBP permite))
+                                (VP 
+                                  (VP (VB obter))
+                                  (NP 
+                                    (NN imagens)
+                                    (PP 
+                                      (IN com)
+                                      (NP 
+                                        (PRP mais)
+                                        (NN defini��o))))))
+                        (.)))

@@ -1,45 +1,21 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (DT A)
-        (NNP Fifa)
-      )
-      (CC e)
-      (NP 
-        (DT a)
-        (NNP CBF)
-      )
-    )
-    (VP 
-      (VBP deveriam)
-      (VB entrar)
-    )
-    (PP 
-      (IN de)
-      (NP 
-        (NN sola)
-      )
-    )
-    (PP 
-      (PP 
-        (IN em+)
-        (NP 
-          (PRP esse)
-          (NN caso)
-        )
-      )
-      (CC e)
-      (PP 
-        (IN em)
-        (NP 
-          (PRP todas)
-          (DT as)
-          (PRP outras)
-          (NN federa��es)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (NP (DT A)
+                                        (NNP Fifa))
+                                (CC e)
+                                (NP (DT a)
+                                        (NNP CBF)))
+                       (VP (VBP deveriam)
+                             (VB entrar))
+                       (PP (IN de)
+                                (NP (NN sola)))
+                       (_CU_ (PP (IN em+)
+                                        (NP 
+                                          (PRP esse)
+                                          (NN caso)))
+                                (CC e)
+                                (PP (IN em)
+                                        (NP 
+                                          (PRP todas)
+                                          (DT as)
+                                          (PRP outras)
+                                          (NN federa��es))))
+                       (.)))

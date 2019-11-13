@@ -1,47 +1,25 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (PRP pr�prio)
-      (NN presidente)
-      (NP 
-        (NNP Itamar_Franco)
-      )
-    )
-    (VP 
-      (VBP pedir�)
-    )
-    (NP 
-      (NN empenho)
-      (PP 
-        (IN de)
-        (NP 
-          (PRP todos)
-          (DT os)
-          (NN ministros)
-        )
-      )
-    )
-    (PP 
-      (IN para)
-      (VP 
-        (VP 
-          (VB mobilizar)
-        )
-        (NP 
-          (DT os)
-          (PRP seus)
-          (NN partidos)
-        )
-        (PP 
-          (IN para)
-          (NP 
-            (DT a)
-            (NN vota��o)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (PRP pr�prio)
+                                 (NN presidente)
+                                 (NP (NNP Itamar_Franco)))
+                        (VP (VBP pedir�))
+                        (NP (NN empenho)
+                                (PP (IN de)
+                                       (NP 
+                                         (PRP todos)
+                                         (DT os)
+                                         (NN ministros))))
+                        (PP (IN para)
+                                        (VP 
+                                          (VP 
+                                            (VB mobilizar))
+                                          (NP 
+                                            (DT os)
+                                            (PRP seus)
+                                            (NN partidos))
+                                          (PP 
+                                            (IN para)
+                                            (NP 
+                                              (DT a)
+                                              (NN vota��o)))))
+                        (.)))

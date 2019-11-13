@@ -1,36 +1,16 @@
-(S 
-  (VP 
-    (NP 
-      (DT As)
-      (NN m�sicas)
-    )
-    (VP 
-      (VBP incluem)
-    )
-    (NP 
-      (NP 
-        (NNP The_Jackson_5)
-      )
-      (,)
-      (NP 
-        (NNP Stevie_Wonder)
-      )
-      (,)
-      (NP 
-        (NNP Jimi_Hendrix)
-      )
-      (,)
-      (NP 
-        (NNP James_Brown)
-      )
-      (CC e)
-      (NP 
-        (PRP outros)
-        (CD 18)
-        (JJ bons)
-        (NN nomes)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT As)
+                                 (NN m�sicas))
+                        (VP (VBP incluem))
+                        (_CU_ (NP (NNP The_Jackson_5))
+                                (,)
+                                (NP (NNP Stevie_Wonder))
+                                (,)
+                                (NP (NNP Jimi_Hendrix))
+                                (,)
+                                (NP (NNP James_Brown))
+                                (CC e)
+                                (NP (PRP outros)
+                                        (CD 18)
+                                        (JJ bons)
+                                        (NN nomes)))
+                        (.)))

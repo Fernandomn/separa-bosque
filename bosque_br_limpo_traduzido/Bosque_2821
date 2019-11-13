@@ -1,62 +1,36 @@
-(S 
-  (VP 
-    (PP 
-      (IN Entre)
-      (NP 
-        (DT os)
-        (NN corpos)
-        (ADJP 
-          (RB mais)
-          (JJ feios)
-        )
-      )
-    )
-    (VP 
-      (VBP est�)
-    )
-    (NP 
-      (PRP o)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN top-model)
-          (NP 
-            (NNP Kate_Moss)
-            (,)
-            (VP 
-              (NP 
-                (PRP que)
-              )
-              (PP 
-                (IN segundo)
-                (NP 
-                  (DT o)
-                  (NN jornal)
-                )
-              )
-              (VP 
-                (VBP tem)
-              )
-              (NP 
-                (NP 
-                  (NN ombros)
-                  (VBN ca�dos)
-                )
-                (CC e)
-                (NP 
-                  (DT o)
-                  (NN peito)
-                  (ADJP 
-                    (JJ liso)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Entre)
+                                 (NP (DT os)
+                                        (NN corpos)
+                                        (ADJP 
+                                          (RB mais)
+                                          (JJ feios))))
+                        (VP (VBP est�))
+                        (NP (PRP o)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN top-model)
+                                          (NP 
+                                            (NNP Kate_Moss)
+                                            (,)
+                                            (VP 
+                                              (NP 
+                                                (PRP que))
+                                              (PP 
+                                                (IN segundo)
+                                                (NP 
+                                                  (DT o)
+                                                  (NN jornal)))
+                                              (VP 
+                                                (VBP tem))
+                                              (_CU_ 
+                                                (NP 
+                                                  (NN ombros)
+                                                  (VBN ca�dos))
+                                                (CC e)
+                                                (NP 
+                                                  (DT o)
+                                                  (NN peito)
+                                                  (ADJP 
+                                                    (JJ liso)))))))))
+                        (.)))

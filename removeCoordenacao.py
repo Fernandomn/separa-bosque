@@ -4,7 +4,7 @@ import sys
 #  arquivos problemáticos
 # brasil: 102
 
-tagCoordenacao = '_CU_'
+tagCoord = '_CU_'
 tagConjCoord = 'CC'
 
 # dicionario com unico objetivo de devolver o sintagma equivalente À cordenação de partes de mesma POS
@@ -61,7 +61,7 @@ def verificaCasosCU(arvore):
     if type(arvore[1]) is list:
         numFilhos = len(arvore[1])
 
-    if arvore[0] == tagCoordenacao:
+    if arvore[0] == tagCoord:
         listaClasses = []
 
         wordLevel = True
@@ -103,7 +103,7 @@ def imprimeArvore(arvore, nivel):
     espacoEsquerda = ''.join('  ' for n in range(nivel))
 
     if type(arvore[1]) is list:
-        if classe[:3] == 'WL_':
+        if 'WL_' in classe:
             # stringRetorno = '{0}{1}'.format(espacoEsquerda, arvore[1])
             lPalavras = ' '.join(filho[1] for filho in arvore[1])
 
@@ -156,7 +156,7 @@ for nomeArquivo in os.listdir(diretorio):
     for anotacao in anotacoes:
         linhas.remove(anotacao)
 
-    # nota: anteriormente, era feito um looop pelo arquivo para verificar a existencia da Tag.
+    # nota: anteriormente, era feito um loop pelo arquivo para verificar a existencia da Tag.
     # Porém, notou-se que uma vez que a verificação de sua existencia já é feita em "verificaCasosCU()",
     # e também que, na verdade, é interessante reformatar todas as arvores (em "imprimeArvore()"),
     # preferiu-se por remover o loop / verificação
@@ -177,7 +177,7 @@ for nomeArquivo in os.listdir(diretorio):
 
     #     linha = linhas[indiceLinha]
 
-    #     indice = linha.find(tagCoordenacao)
+    #     indice = linha.find(tagCoord)
 
     #     if(indice < 0):
     #         continue

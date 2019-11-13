@@ -1,44 +1,22 @@
-(S 
-  (VP 
-    (PP 
-      (IN Segundo)
-      (NP 
-        (PRP ele)
-      )
-    )
-    (,)
-    (NP italianos e belgas)
-    (ADVP 
-      (RB j�)
-    )
-    (VP 
-      (VBP descobriram)
-    )
-    (VP 
-      (IN que)
-      (VP 
-        (VP 
-          (VB comprar)
-        )
-        (NP 
-          (NN im�veis)
-        )
-        (PP 
-          (IN em)
-          (NP 
-            (NNP Natal)
-          )
-        )
-      )
-      (VP 
-        (VBP �)
-      )
-      (NP 
-        (DT um)
-        (JJ �timo)
-        (NN neg�cio)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Segundo)
+                                (NP (PRP ele)))
+                       (,)
+                       (_CU_ (NN italianos)
+                                (CC e)
+                                (NN belgas))
+                       (ADVP (RB j�))
+                       (VP (VBP descobriram))
+                       (VP (IN que)
+                                (VP 
+                                  (VP (VB comprar))
+                                  (NP 
+                                    (NN im�veis))
+                                  (PP 
+                                    (IN em)
+                                    (NP 
+                                      (NNP Natal))))
+                                (VP (VBP �))
+                                (NP (DT um)
+                                       (JJ �timo)
+                                       (NN neg�cio)))
+                       (.)))

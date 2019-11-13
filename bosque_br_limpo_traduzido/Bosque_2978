@@ -1,125 +1,78 @@
-(S 
-  (VP 
-    (CC E)
-    (,)
-    (PP 
-      (IN para)
-      (NP 
-        (NNP Bruno_Bettelheim)
-      )
-    )
-    (,)
-    (NP 
-      (DT as)
-      (JJ pequenas)
-      (NP 
-        (NP 
-          (NN velas)
-        )
-        (CC e)
-        (NP 
-          (NN l�mpadas)
-        )
-      )
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (NP 
-          (PRP a)
-        )
-        (VP 
-          (VBP iluminam)
-        )
-      )
-    )
-    (VP 
-      (VBP seriam)
-    )
-    (NP 
-      (NN vest�gios)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT as)
-          (JJ antigas)
-          (NN fogueiras)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (NP 
-              (DT os)
-              (NN pag�os)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NN norte)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NNP Europa)
-                    )
-                  )
-                )
-              )
-            )
-            (VP 
-              (VBP ateavam)
-            )
-            (PP 
-              (IN em+)
-              (NP 
-                (DT o)
-                (NN alto)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT as)
-                    (NN montanhas)
-                  )
-                )
-              )
-            )
-            (PP 
-              (IN para)
-              (VP 
-                (VP 
-                  (VB antecipar)
-                )
-                (NP 
-                  (NP 
-                    (DT a)
-                    (NN chegada)
-                    (PP 
-                      (IN de+)
-                      (NP 
-                        (DT o)
-                        (NN Sol)
-                      )
-                    )
-                  )
-                  (CC e)
-                  (NP 
-                    (DT o)
-                    (NN fim)
-                    (PP 
-                      (IN de+)
-                      (NP 
-                        (DT o)
-                        (NN inverno)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (CC E)
+                        (,)
+                        (PP (IN para)
+                                 (NP (NNP Bruno_Bettelheim)))
+                        (,)
+                        (NP (DT as)
+                                 (JJ pequenas)
+                                 (_CU_ (NP 
+                                         (NN velas))
+                                       (CC e)
+                                       (NP 
+                                         (NN l�mpadas)))
+                                 (VP 
+                                   (NP 
+                                     (PRP que))
+                                   (NP 
+                                     (PRP a))
+                                   (VP 
+                                     (VBP iluminam))))
+                        (VP (VBP seriam))
+                        (NP (NN vest�gios)
+                               (PP (IN de+)
+                                      (NP 
+                                        (DT as)
+                                        (JJ antigas)
+                                        (NN fogueiras)
+                                        (VP 
+                                          (NP 
+                                            (PRP que))
+                                          (NP 
+                                            (DT os)
+                                            (NN pag�os)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT o)
+                                                (NN norte)
+                                                (PP 
+                                                  (IN de+)
+                                                  (NP 
+                                                    (DT a)
+                                                    (NNP Europa))))))
+                                          (VP 
+                                            (VBP ateavam))
+                                          (PP 
+                                            (IN em+)
+                                            (NP 
+                                              (DT o)
+                                              (NN alto)
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT as)
+                                                  (NN montanhas)))))
+                                          (PP 
+                                            (IN para)
+                                            (VP 
+                                              (VP 
+                                                (VB antecipar))
+                                              (_CU_ 
+                                                (NP 
+                                                  (DT a)
+                                                  (NN chegada)
+                                                  (PP 
+                                                    (IN de+)
+                                                    (NP 
+                                                      (DT o)
+                                                      (NN Sol))))
+                                                (CC e)
+                                                (NP 
+                                                  (DT o)
+                                                  (NN fim)
+                                                  (PP 
+                                                    (IN de+)
+                                                    (NP 
+                                                      (DT o)
+                                                      (NN inverno)))))))))))
+                        (.)))

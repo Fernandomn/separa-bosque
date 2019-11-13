@@ -1,67 +1,38 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN conselho)
-    )
-    (ADVP 
-      (RB tamb�m)
-    )
-    (VP 
-      (VBP manteve)
-    )
-    (NP 
-      (NN multas)
-      (VP 
-        (VP 
-          (VBN aplicadas)
-        )
-        (PP 
-          (PP 
-            (IN a+)
-            (NP 
-              (DT a)
-              (NNP Ind�strias_J.B._Duarte)
-            )
-          )
-          (CC e)
-          (PP 
-            (IN a)
-            (NP 
-              (PRP seus)
-              (NN dirigentes)
-            )
-          )
-        )
-        (PP 
-          (IN por+)
-          (NP 
-            (DT a)
-            (NN pr�tica)
-            (PP 
-              (IN de)
-              (NP 
-                (NN atividades)
-                (VP 
-                  (VP 
-                    (VBN restritas)
-                  )
-                  (PP 
-                    (IN a)
-                    (NP 
-                      (NN institui��es)
-                      (ADJP 
-                        (JJ financeiras)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN conselho))
+                        (ADVP (RB tamb�m))
+                        (VP (VBP manteve))
+                        (NP (NN multas)
+                                (VP (VP 
+                                          (VBN aplicadas))
+                                        (_CU_ 
+                                          (PP 
+                                            (IN a+)
+                                            (NP 
+                                              (DT a)
+                                              (NNP Ind�strias_J.B._Duarte)))
+                                          (CC e)
+                                          (PP 
+                                            (IN a)
+                                            (NP 
+                                              (PRP seus)
+                                              (NN dirigentes))))
+                                        (PP 
+                                          (IN por+)
+                                          (NP 
+                                            (DT a)
+                                            (NN pr�tica)
+                                            (PP 
+                                              (IN de)
+                                              (NP 
+                                                (NN atividades)
+                                                (VP 
+                                                  (VP 
+                                                    (VBN restritas))
+                                                  (PP 
+                                                    (IN a)
+                                                    (NP 
+                                                      (NN institui��es)
+                                                      (ADJP 
+                                                        (JJ financeiras)))))))))))
+                        (.)))

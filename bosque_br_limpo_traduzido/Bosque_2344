@@ -1,22 +1,8 @@
-(S 
-  (VP 
-    (NP 
-      (NN USP)
-    )
-    (VP 
-      (VBP faz)
-    )
-    (NP 
-      (NN curso)
-      (PP 
-        (IN sobre)
-        (NP 
-          (NN deformidade)
-          (ADJP 
-            (JJ cong�nita)
-          )
-        )
-      )
-    )
-  )
-)
+(S (VP (NP (NN USP))
+                        (VP (VBP faz))
+                        (NP (NN curso)
+                                (PP (IN sobre)
+                                       (NP 
+                                         (NN deformidade)
+                                         (ADJP 
+                                           (JJ cong�nita)))))))

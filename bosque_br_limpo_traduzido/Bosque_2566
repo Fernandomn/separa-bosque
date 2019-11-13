@@ -1,53 +1,29 @@
-(S 
-  (NP 
-    (NP 
-      (NNP Folha)
-    )
-    (--)
-    (VP 
-      (NP 
-        (PRP o_que)
-      )
-      (NP 
-        (PRP voc�)
-      )
-      (VP 
-        (VBP acha)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT as)
-          (NN cr�ticas)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (VP 
-              (VBP vem)
-              (VBG recebendo)
-            )
-            (PP 
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT a)
-                  (NN torcida)
-                )
-              )
-              (CC e)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT a)
-                  (NN imprensa)
-                )
-              )
-            )
-          )
-        )
-      )
-      (?)
-    )
-  )
-)
+(S (NP (NP (NNP Folha))
+                       (--)
+                       (VP (NP (PRP o_que))
+                                (NP 
+                                  (PRP voc�))
+                                (VP (VBP acha))
+                                (PP (IN de+)
+                                        (NP 
+                                          (DT as)
+                                          (NN cr�ticas)
+                                          (VP 
+                                            (NP 
+                                              (PRP que))
+                                            (VP 
+                                              (VBP vem)
+                                              (VBG recebendo))
+                                            (_CU_ 
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT a)
+                                                  (NN torcida)))
+                                              (CC e)
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT a)
+                                                  (NN imprensa)))))))
+                                (?))))

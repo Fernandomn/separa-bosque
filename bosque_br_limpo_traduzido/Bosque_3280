@@ -1,70 +1,44 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN caso)
-    )
-    (VP 
-      (VBP nasceu)
-    )
-    (PP 
-      (IN de)
-      (NP 
-        (DT uma)
-        (�)
-        (NN vendetta)
-        (�)
-        (,)
-        (NP 
-          (NP 
-            (NP 
-              (NN obra)
-            )
-            (CC e)
-            (NP 
-              (NN desgra�a)
-            )
-          )
-          (PP 
-            (IN de)
-            (NP 
-              (DT um)
-              (JJ certo)
-              (NNP Francesco_Farina)
-              (,)
-              (NP 
-                (NN dono)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (NNP Modena)
-                    (,)
-                    (NP 
-                      (DT um)
-                      (NN time)
-                      (VP 
-                        (VP 
-                          (VBN rebaixado)
-                        )
-                        (PP 
-                          (IN a+)
-                          (NP 
-                            (DT a)
-                            (JJ 3�)
-                            (NN divis�o)
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN caso))
+                        (VP (VBP nasceu))
+                        (PP (IN de)
+                                (NP (DT uma)
+                                       (�)
+                                       (NN vendetta)
+                                       (�)
+                                       (,)
+                                       (NP 
+                                         (_CU_ 
+                                           (NP 
+                                             (NN obra))
+                                           (CC e)
+                                           (NP 
+                                             (NN desgra�a)))
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (DT um)
+                                             (JJ certo)
+                                             (NNP Francesco_Farina)
+                                             (,)
+                                             (NP 
+                                               (NN dono)
+                                               (PP 
+                                                 (IN de+)
+                                                 (NP 
+                                                   (DT o)
+                                                   (NNP Modena)
+                                                   (,)
+                                                   (NP 
+                                                     (DT um)
+                                                     (NN time)
+                                                     (VP 
+                                                       (VP 
+                                                         (VBN rebaixado))
+                                                       (PP 
+                                                         (IN a+)
+                                                         (NP 
+                                                           (DT a)
+                                                           (JJ 3�)
+                                                           (NN divis�o)))))))))))))
+                        (.)))

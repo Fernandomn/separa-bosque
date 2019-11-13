@@ -1,38 +1,19 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em)
-      (�)
-      (NP 
-        (NNP Um_Mundo_Perfeito)
-      )
-      (�)
-    )
-    (,)
-    (NP 
-      (NP 
-        (DT o)
-        (NN tema)
-      )
-      (CC e)
-      (NP 
-        (PRP seu)
-        (NN desenvolvimento)
-      )
-    )
-    (VP 
-      (VBP s�o)
-    )
-    (PP 
-      (IN de)
-      (NP 
-        (DT uma)
-        (NN clareza)
-        (ADJP 
-          (JJ exemplar)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em)
+                                 (�)
+                                 (NP (NNP Um_Mundo_Perfeito))
+                                 (�))
+                        (,)
+                        (_CU_ (NP 
+                                   (DT o)
+                                   (NN tema))
+                                 (CC e)
+                                 (NP 
+                                   (PRP seu)
+                                   (NN desenvolvimento)))
+                        (VP (VBP s�o))
+                        (PP (IN de)
+                               (NP (DT uma)
+                                      (NN clareza)
+                                      (ADJP 
+                                        (JJ exemplar))))
+                        (.)))

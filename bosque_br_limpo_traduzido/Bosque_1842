@@ -1,32 +1,15 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Foi)
-      (VBN recebido)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (NN aeroporto)
-      )
-    )
-    (PP 
-      (IN por)
-      (NP 
-        (NP 
-          (NN militantes)
-        )
-        (,)
-        (NP 
-          (NN prefeitos)
-        )
-        (CC e)
-        (NP 
-          (NN vereadores)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Foi)
+                              (VBN recebido))
+                        (PP (IN em+)
+                                 (NP (DT o)
+                                        (NN aeroporto)))
+                        (PP (IN por)
+                                 (_CU_ (NP 
+                                          (NN militantes))
+                                        (,)
+                                        (NP 
+                                          (NN prefeitos))
+                                        (CC e)
+                                        (NP 
+                                          (NN vereadores))))
+                        (.)))

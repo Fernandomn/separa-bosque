@@ -1,47 +1,27 @@
-(S 
-  (VP 
-    (VP 
-      (VBP S�o)
-    )
-    (ADJP 
-      (JJ peemedebistas)
-    )
-    (NP 
-      (DT os)
-      (NN l�deres)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (NP 
-          (DT o)
-          (NNP Rio_Grande_do_Sul)
-          (-LCB-)
-          (NP 
-            (NNP Jos�_Foga�a)
-          )
-          (-RCB-)
-        )
-        (,)
-        (NP 
-          (NNP Paran�)
-          (-LCB-)
-          (NP 
-            (NNP Roberto_Requi�o)
-          )
-          (-RCB-)
-        )
-        (CC e)
-        (NP 
-          (NNP Cear�)
-          (-LCB-)
-          (NP 
-            (NNP Mauro_Benevides)
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP S�o))
+                        (ADJP (JJ peemedebistas))
+                        (NP (DT os)
+                                 (NN l�deres))
+                        (PP (IN em+)
+                                 (_CU_ (NP 
+                                          (DT o)
+                                          (NNP Rio_Grande_do_Sul)
+                                          (-LCB-)
+                                          (NP 
+                                            (NNP Jos�_Foga�a))
+                                          (-RCB-))
+                                        (,)
+                                        (NP 
+                                          (NNP Paran�)
+                                          (-LCB-)
+                                          (NP 
+                                            (NNP Roberto_Requi�o))
+                                          (-RCB-))
+                                        (CC e)
+                                        (NP 
+                                          (NNP Cear�)
+                                          (-LCB-)
+                                          (NP 
+                                            (NNP Mauro_Benevides))
+                                          (-RCB-))))
+                        (.)))

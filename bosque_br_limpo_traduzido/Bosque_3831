@@ -1,28 +1,11 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB N�o)
-    )
-    (VP 
-      (VBP houve)
-    )
-    (NP 
-      (NN acordo)
-      (PP 
-        (IN para)
-        (NP 
-          (DT uma)
-          (NN tr�gua)
-        )
-      )
-    )
-    (PP 
-      (IN durante)
-      (NP 
-        (DT a)
-        (NN Copa)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB N�o))
+                        (VP (VBP houve))
+                        (NP (NN acordo)
+                                (PP (IN para)
+                                       (NP 
+                                         (DT uma)
+                                         (NN tr�gua))))
+                        (PP (IN durante)
+                                 (NP (DT a)
+                                        (NN Copa)))
+                        (.)))

@@ -1,46 +1,24 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (PRP Cada)
-        (NN curso)
-      )
-      (VP 
-        (VBP dura)
-      )
-      (NP 
-        (CD dois)
-        (NN s�bados)
-      )
-      (,)
-      (PP 
-        (IN em)
-        (NP 
-          (DT um)
-          (NN total)
-          (PP 
-            (IN de)
-            (NP 
-              (CD 14)
-              (NN horas)
-            )
-          )
-        )
-      )
-      (,)
-    )
-    (CC e)
-    (VP 
-      (VP 
-        (VBP custa)
-      )
-      (NP 
-        (NN US$)
-        (ADJP 
-          (CD 250)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (PRP Cada)
+                                  (NN curso))
+                                (VP (VBP dura))
+                                (NP (CD dois)
+                                       (NN s�bados))
+                                (,)
+                                (PP 
+                                  (IN em)
+                                  (NP 
+                                    (DT um)
+                                    (NN total)
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (CD 14)
+                                        (NN horas)))))
+                                (,))
+                       (CC e)
+                       (VP (VP (VBP custa))
+                                (NP (NN US$)
+                                        (ADJP 
+                                          (CD 250))))
+                       (.)))

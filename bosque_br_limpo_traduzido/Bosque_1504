@@ -1,29 +1,12 @@
-(S 
-  (VP 
-    (NP 
-      (NN Volume)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN dinheiro)
-          (PP 
-            (IN em)
-            (NP 
-              (NN circula��o)
-            )
-          )
-        )
-      )
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP cresce)
-    )
-    (ADVP 
-      (RB mais)
-    )
-  )
-)
+(S (VP (NP (NN Volume)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN dinheiro)
+                                          (PP 
+                                            (IN em)
+                                            (NP 
+                                              (NN circula��o))))))
+                        (ADVP (RB n�o))
+                        (VP (VBP cresce))
+                        (ADVP (RB mais))))

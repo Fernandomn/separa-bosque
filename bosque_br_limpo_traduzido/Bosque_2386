@@ -1,74 +1,43 @@
-(S 
-  (VP 
-    (NP 
-      (NN Funcion�rios)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN escrit�rio)
-          (ADJP 
-            (JJ cubano)
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP tentaram)
-    )
-    (VP 
-      (VP 
-        (VB abafar)
-      )
-      (NP 
-        (DT os)
-        (NN protestos)
-        (PP 
-          (IN em+)
-          (NP 
-            (DT a)
-            (NN rua)
-          )
-        )
-      )
-      (VP 
-        (VP 
-          (VBG colocando)
-        )
-        (NP 
-          (NN caixas)
-          (PP 
-            (IN de)
-            (NP 
-              (NN som)
-            )
-          )
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT as)
-            (NN janelas)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN pr�dio)
-              )
-            )
-          )
-        )
-        (PP 
-          (IN com)
-          (NP 
-            (NN m�sica)
-            (ADJP 
-              (JJ alta)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN Funcion�rios)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN escrit�rio)
+                                          (ADJP 
+                                            (JJ cubano)))))
+                        (VP (VBP tentaram))
+                        (VP (VP (VB abafar))
+                                 (NP 
+                                   (DT os)
+                                   (NN protestos)
+                                   (PP 
+                                     (IN em+)
+                                     (NP 
+                                       (DT a)
+                                       (NN rua))))
+                                 (VP 
+                                   (VP 
+                                     (VBG colocando))
+                                   (NP 
+                                     (NN caixas)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NN som))))
+                                   (PP 
+                                     (IN em+)
+                                     (NP 
+                                       (DT as)
+                                       (NN janelas)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT o)
+                                           (NN pr�dio)))))
+                                   (PP 
+                                     (IN com)
+                                     (NP 
+                                       (NN m�sica)
+                                       (ADJP 
+                                         (JJ alta))))))
+                        (.)))

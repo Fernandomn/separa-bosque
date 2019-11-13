@@ -1,77 +1,46 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN norte-americano)
-      (NP 
-        (NNP Evander_Holyfield)
-      )
-    )
-    (VP 
-      (VBP coloca)
-    )
-    (NP 
-      (DT o)
-      (NN t�tulo)
-      (ADJP 
-        (JJ mundial)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NN pesos-pesados)
-          (-LCB-)
-          (PP 
-            (IN acima_de)
-            (NP 
-              (CD 86,183)
-              (NN quilos)
-            )
-          )
-          (-RCB-)
-          (,)
-          (NP 
-            (NN vers�o)
-            (NP 
-              (NP 
-                (NNP Associa��o_Mundial)
-                (-LCB-)
-                (NP 
-                  (NNP AMB)
-                )
-                (-RCB-)
-              )
-              (CC e)
-              (NP 
-                (NNP Federa��o_Internacional)
-                (-LCB-)
-                (NP 
-                  (NNP FIB)
-                )
-                (-RCB-)
-              )
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (ADVP 
-      (RB hoje)
-    )
-    (,)
-    (PP 
-      (IN contra)
-      (NP 
-        (DT o)
-        (PRP seu)
-        (NN compatriota)
-        (NP 
-          (NNP Michael_Moorer)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN norte-americano)
+                                 (NP (NNP Evander_Holyfield)))
+                        (VP (VBP coloca))
+                        (NP (DT o)
+                                (NN t�tulo)
+                                (ADJP 
+                                  (JJ mundial))
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT os)
+                                         (NN pesos-pesados)
+                                         (-LCB-)
+                                         (PP 
+                                           (IN acima_de)
+                                           (NP 
+                                             (CD 86,183)
+                                             (NN quilos)))
+                                         (-RCB-)
+                                         (,)
+                                         (NP 
+                                           (NN vers�o)
+                                           (_CU_ 
+                                             (NP 
+                                               (NNP Associa��o_Mundial)
+                                               (-LCB-)
+                                               (NP 
+                                                 (NNP AMB))
+                                               (-RCB-))
+                                             (CC e)
+                                             (NP 
+                                               (NNP Federa��o_Internacional)
+                                               (-LCB-)
+                                               (NP 
+                                                 (NNP FIB))
+                                               (-RCB-)))))))
+                        (,)
+                        (ADVP (RB hoje))
+                        (,)
+                        (PP (IN contra)
+                                 (NP (DT o)
+                                        (PRP seu)
+                                        (NN compatriota)
+                                        (NP 
+                                          (NNP Michael_Moorer))))
+                        (.)))

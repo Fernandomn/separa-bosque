@@ -1,42 +1,23 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN secret�rio)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN Tesouro)
-          (,)
-          (NP 
-            (NNP Lloyd_Bentsen)
-          )
-          (,)
-        )
-      )
-    )
-    (VP 
-      (VBP disse)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT a)
-        (NN quest�o)
-        (ADJP 
-          (JJ �tica)
-        )
-      )
-      (VP 
-        (VBP vai)
-        (VB ser)
-        (VBN examinada)
-      )
-      (ADVP 
-        (RB agora)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                (NN secret�rio)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN Tesouro)
+                                         (,)
+                                         (NP 
+                                           (NNP Lloyd_Bentsen))
+                                         (,))))
+                       (VP (VBP disse))
+                       (VP (IN que)
+                                (NP 
+                                  (DT a)
+                                  (NN quest�o)
+                                  (ADJP 
+                                    (JJ �tica)))
+                                (VP (VBP vai)
+                                      (VB ser)
+                                      (VBN examinada))
+                                (ADVP 
+                                  (RB agora)))
+                       (.)))

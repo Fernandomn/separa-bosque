@@ -1,31 +1,15 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Cristou)
-    )
-    (VP 
-      (VBP representa)
-    )
-    (NP 
-      (DT os)
-      (NN clubes)
-      (ADJP 
-        (JJ alem�es)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (NP 
-            (DT o)
-            (NNP Bayern_Leverkusen)
-          )
-          (CC e)
-          (NP 
-            (NNP Shalk-04)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Cristou))
+                        (VP (VBP representa))
+                        (NP (DT os)
+                                (NN clubes)
+                                (ADJP 
+                                  (JJ alem�es))
+                                (PP (IN de+)
+                                       (_CU_ 
+                                         (NP 
+                                           (DT o)
+                                           (NNP Bayern_Leverkusen))
+                                         (CC e)
+                                         (NP 
+                                           (NNP Shalk-04)))))
+                        (.)))

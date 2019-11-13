@@ -1,39 +1,21 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Acabou-)
-    )
-    (NP 
-      (PRP se)
-    )
-    (NP 
-      (DT a)
-      (NN gest�o)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NP ex-craque)
-          (NP 
-            (NNP Giampiero_Boniperti)
-          )
-        )
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT a)
-          (NN administra��o)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN clube)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Acabou-))
+                        (NP (PRP se))
+                        (NP (DT a)
+                                 (NN gest�o)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (_EC_ ex-)
+                                          (NN craque)
+                                          (NP 
+                                            (NNP Giampiero_Boniperti))))
+                                 (PP (IN em+)
+                                        (NP 
+                                          (DT a)
+                                          (NN administra��o)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (NN clube))))))
+                        (.)))

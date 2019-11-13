@@ -1,64 +1,36 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN prolifera��o)
-      (PP 
-        (IN em+)
-        (NP 
-          (PRP essa)
-          (NN �rea)
-        )
-      )
-    )
-    (VP 
-      (VBP �)
-    )
-    (ADJP 
-      (JJ maior)
-    )
-    (PP 
-      (IN por+)
-      (NP 
-        (DT o)
-        (NN fato)
-        (PP 
-          (IN de)
-          (VP 
-            (VP 
-              (NP 
-                (DT os)
-                (NN ind�genas)
-              )
-              (ADVP 
-                (RB n�o)
-              )
-              (VP 
-                (VB pagarem)
-              )
-              (NP 
-                (NN impostos)
-              )
-              (PP 
-                (IN com)
-                (NP 
-                  (DT a)
-                  (NN atividade)
-                )
-              )
-            )
-            (,)
-            (CC mas)
-            (VP 
-              (NP 
-                (RB apenas)
-                (NN taxas)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN prolifera��o)
+                                 (PP (IN em+)
+                                        (NP 
+                                          (PRP essa)
+                                          (NN �rea))))
+                        (VP (VBP �))
+                        (ADJP (JJ maior))
+                        (PP (IN por+)
+                                 (NP (DT o)
+                                        (NN fato)
+                                        (PP 
+                                          (IN de)
+                                          (_CU_ 
+                                            (VP 
+                                              (NP 
+                                                (DT os)
+                                                (NN ind�genas))
+                                              (ADVP 
+                                                (RB n�o))
+                                              (VP 
+                                                (VB pagarem))
+                                              (NP 
+                                                (NN impostos))
+                                              (PP 
+                                                (IN com)
+                                                (NP 
+                                                  (DT a)
+                                                  (NN atividade))))
+                                            (,)
+                                            (CC mas)
+                                            (VP 
+                                              (NP 
+                                                (RB apenas)
+                                                (NN taxas)))))))
+                        (.)))

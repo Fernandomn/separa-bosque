@@ -1,30 +1,15 @@
-(S 
-  (VP 
-    (NP 
-      (DT As)
-      (NN causas)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN viol�ncia)
-          (PP 
-            (IN em+)
-            (NP 
-              (DT o)
-              (NN campo)
-            )
-          )
-        )
-      )
-    )
-    (ADVP 
-      (RB tamb�m)
-    )
-    (VP 
-      (VBP s�o)
-      (VBN discutidas)
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT As)
+                                 (NN causas)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN viol�ncia)
+                                          (PP 
+                                            (IN em+)
+                                            (NP 
+                                              (DT o)
+                                              (NN campo))))))
+                        (ADVP (RB tamb�m))
+                        (VP (VBP s�o)
+                              (VBN discutidas))
+                        (.)))

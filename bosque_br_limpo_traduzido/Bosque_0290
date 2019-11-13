@@ -1,38 +1,18 @@
-(S 
-  (ADVP 
-    (PP 
-      (IN Com)
-      (NP 
-        (DT a)
-        (NN interven��o)
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (NNP Rio)
-      )
-    )
-    (,)
-    (IN que)
-    (NP 
-      (PRP se)
-    )
-    (VP 
-      (VBP cuide)
-    )
-    (NP 
-      (DT o)
-      (NN resto)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN pa�s)
-        )
-      )
-    )
-    (!)
-  )
-)
+(S (ADVP (PP (IN Com)
+                                (NP (DT a)
+                                       (NN interven��o)))
+                       (PP (IN em+)
+                                (NP (DT o)
+                                       (NNP Rio)))
+                       (,)
+                       (IN que)
+                       (NP (PRP se))
+                       (VP (VBP cuide))
+                       (NP (DT o)
+                                (NN resto)
+                                (PP 
+                                  (IN de+)
+                                  (NP 
+                                    (DT o)
+                                    (NN pa�s))))
+                       (!)))

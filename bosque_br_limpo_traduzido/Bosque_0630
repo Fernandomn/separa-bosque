@@ -1,23 +1,11 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NNP Piranhos)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP Kung_Fu)
-        )
-      )
-    )
-    (VP 
-      (VBP invadem)
-    )
-    (NP 
-      (DT o)
-      (NN sal�o)
-    )
-    (!)
-  )
-)
+(S (VP (NP (DT Os)
+                                  (NNP Piranhos)
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT o)
+                                      (NNP Kung_Fu))))
+                         (VP (VBP invadem))
+                         (NP (DT o)
+                                 (NN sal�o))
+                         (!)))

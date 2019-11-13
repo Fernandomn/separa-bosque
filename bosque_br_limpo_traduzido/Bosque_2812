@@ -1,68 +1,38 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (DT O)
-        (NN pa�s)
-      )
-      (VP 
-        (VBP convive)
-      )
-      (PP 
-        (IN com)
-        (NP 
-          (DT o)
-          (JJ novo)
-          (NN indexador)
-        )
-      )
-      (PP 
-        (IN h�)
-        (NP 
-          (CD um)
-          (NN m�s)
-        )
-      )
-    )
-    (,)
-    (VP 
-      (NP 
-        (DT o)
-        (NN ministro)
-      )
-      (VP 
-        (VBP virou)
-      )
-      (NP 
-        (NN candidato)
-      )
-    )
-    (CC e)
-    (VP 
-      (NP 
-        (DT os)
-        (NN pre�os)
-        (VP 
-          (VP 
-            (VBN chamados)
-          )
-          (PP 
-            (IN de)
-            (�)
-            (ADJP 
-              (JJ abusivos)
-            )
-            (�)
-          )
-        )
-      )
-      (VP 
-        (VBP continuam)
-      )
-      (ADVP 
-        (RB em_vigor)
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                   (DT O)
+                                   (NN pa�s))
+                                 (VP (VBP convive))
+                                 (PP 
+                                   (IN com)
+                                   (NP 
+                                     (DT o)
+                                     (JJ novo)
+                                     (NN indexador)))
+                                 (PP 
+                                   (IN h�)
+                                   (NP 
+                                     (CD um)
+                                     (NN m�s))))
+                        (,)
+                        (VP (NP 
+                                   (DT o)
+                                   (NN ministro))
+                                 (VP (VBP virou))
+                                 (NP (NN candidato)))
+                        (CC e)
+                        (VP (NP 
+                                   (DT os)
+                                   (NN pre�os)
+                                   (VP 
+                                     (VP 
+                                       (VBN chamados))
+                                     (PP 
+                                       (IN de)
+                                       (�)
+                                       (ADJP 
+                                         (JJ abusivos))
+                                       (�))))
+                                 (VP (VBP continuam))
+                                 (ADVP 
+                                   (RB em_vigor)))
+                        (.)))

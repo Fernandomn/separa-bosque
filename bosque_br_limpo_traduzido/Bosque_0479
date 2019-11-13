@@ -1,50 +1,27 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (PRP Sua)
-        (NN popularidade)
-      )
-      (VP 
-        (VBP est�)
-      )
-      (ADJP 
-        (RB mais)
-        (JJ baixa)
-        (VP 
-          (IN do_que)
-          (ADVP 
-            (RB nunca)
-          )
-        )
-      )
-    )
-    (CC e)
-    (VP 
-      (ADJP 
-        (CD um)
-        (PP 
-          (IN de)
-          (NP 
-            (PRP seus)
-            (JJ poss�veis)
-            (NN oponentes)
-          )
-        )
-      )
-      (VP 
-        (VBP �)
-      )
-      (NP 
-        (NN filho)
-        (PP 
-          (IN de)
-          (NP 
-            (NNP George_Bush)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (PRP Sua)
+                                  (NN popularidade))
+                                (VP (VBP est�))
+                                (ADJP 
+                                  (RB mais)
+                                  (JJ baixa)
+                                  (VP 
+                                    (IN do_que)
+                                    (ADVP 
+                                      (RB nunca)))))
+                       (CC e)
+                       (VP (ADJP 
+                                  (CD um)
+                                  (PP 
+                                    (IN de)
+                                    (NP 
+                                      (PRP seus)
+                                      (JJ poss�veis)
+                                      (NN oponentes))))
+                                (VP (VBP �))
+                                (NP (NN filho)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NNP George_Bush)))))
+                       (.)))

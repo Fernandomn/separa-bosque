@@ -1,55 +1,32 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Vale)
-    )
-    (NP 
-      (DT a)
-      (NN pena)
-    )
-    (VP 
-      (VP 
-        (VP 
-          (VB conferir)
-        )
-        (NP 
-          (DT os)
-          (NN produtos)
-        )
-      )
-      (CC e)
-      (VP 
-        (VP 
-          (VB comparar)
-        )
-        (NP 
-          (DT a)
-          (NN qualidade)
-          (PP 
-            (IN de)
-            (NP 
-              (NN impress�o)
-            )
-          )
-          (PP 
-            (IN de+)
-            (NP 
-              (DT os)
-              (NN modelos)
-              (NP 
-                (NN jato)
-              )
-              (PP 
-                (IN de)
-                (NP 
-                  (NN tinta)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Vale))
+                        (NP (DT a)
+                                (NN pena))
+                        (_CU_ (VP 
+                                   (VP 
+                                     (VB conferir))
+                                   (NP 
+                                     (DT os)
+                                     (NN produtos)))
+                                 (CC e)
+                                 (VP 
+                                   (VP 
+                                     (VB comparar))
+                                   (NP 
+                                     (DT a)
+                                     (NN qualidade)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NN impress�o)))
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT os)
+                                         (NN modelos)
+                                         (NP 
+                                           (NN jato))
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NN tinta))))))))
+                        (.)))

@@ -1,69 +1,40 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Juan_Manuel_Fangio)
-      (,)
-      (NP 
-        (NN sobrinho)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN argentino)
-            (ADJP 
-              (JJ pentacampe�o)
-              (PP 
-                (IN de)
-                (NP 
-                  (NNP F�rmula_1)
-                )
-              )
-            )
-          )
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP est�)
-      (VBG testando)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NNP Calif�rnia)
-      )
-    )
-    (NP 
-      (DT um)
-      (JJ novo)
-      (NN prot�tipo)
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (VP 
-          (VBP vai)
-          (VB dar)
-        )
-        (VP 
-          (NP 
-            (PRP o_que)
-          )
-          (VP 
-            (VBP falar)
-          )
-          (PP 
-            (IN em+)
-            (NP 
-              (DT a)
-              (NNP F�rmula_Indy)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Juan_Manuel_Fangio)
+                                 (,)
+                                 (NP 
+                                   (NN sobrinho)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT o)
+                                       (NN argentino)
+                                       (ADJP 
+                                         (JJ pentacampe�o)
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NNP F�rmula_1)))))))
+                                 (,))
+                        (VP (VBP est�)
+                              (VBG testando))
+                        (PP (IN em+)
+                                 (NP (DT a)
+                                        (NNP Calif�rnia)))
+                        (NP (DT um)
+                                (JJ novo)
+                                (NN prot�tipo)
+                                (VP (NP 
+                                          (PRP que))
+                                        (VP 
+                                          (VBP vai)
+                                          (VB dar))
+                                        (VP 
+                                          (NP 
+                                            (PRP o_que))
+                                          (VP 
+                                            (VBP falar))
+                                          (PP 
+                                            (IN em+)
+                                            (NP 
+                                              (DT a)
+                                              (NNP F�rmula_Indy))))))
+                        (.)))

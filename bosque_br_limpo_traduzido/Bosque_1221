@@ -1,39 +1,18 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Fica)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NN fazenda)
-        (NP 
-          (NNP Itere�)
-        )
-      )
-    )
-    (,)
-    (PP 
-      (IN em)
-      (NP 
-        (NNP Juquitiba)
-      )
-    )
-    (,)
-    (PP 
-      (IN a)
-      (NP 
-        (CD 120)
-        (NN quil�metros)
-        (PP 
-          (IN de)
-          (NP 
-            (NNP S�o_Paulo)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Fica))
+                        (PP (IN em+)
+                               (NP (DT a)
+                                      (NN fazenda)
+                                      (NP 
+                                        (NNP Itere�))))
+                        (,)
+                        (PP (IN em)
+                                 (NP (NNP Juquitiba)))
+                        (,)
+                        (PP (IN a)
+                                 (NP (CD 120)
+                                        (NN quil�metros)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NNP S�o_Paulo)))))
+                        (.)))

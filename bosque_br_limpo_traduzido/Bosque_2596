@@ -1,32 +1,15 @@
-(S 
-  (VP 
-    (NP 
-      (NN Decis�es)
-      (ADJP 
-        (JJ governamentais)
-      )
-    )
-    (VP 
-      (VBP eram)
-    )
-    (VP 
-      (VP 
-        (VBN ultrapassadas)
-      )
-      (PP 
-        (IN por+)
-        (NP 
-          (DT a)
-          (NN for�a)
-          (PP 
-            (IN de)
-            (NP 
-              (NN manifesta��es)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN Decis�es)
+                                 (ADJP 
+                                   (JJ governamentais)))
+                        (VP (VBP eram))
+                        (VP (VP (VBN ultrapassadas))
+                                (PP 
+                                  (IN por+)
+                                  (NP 
+                                    (DT a)
+                                    (NN for�a)
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (NN manifesta��es))))))
+                        (.)))

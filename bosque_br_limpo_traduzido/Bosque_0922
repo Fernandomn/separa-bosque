@@ -1,77 +1,47 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN pol�cia)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP Mato_Grosso_do_Sul)
-        )
-      )
-    )
-    (VP 
-      (VBP vai)
-      (VB combater)
-    )
-    (NP 
-      (DT a)
-      (NN pesca)
-      (ADJP 
-        (JJ predat�ria)
-      )
-    )
-    (PP 
-      (IN durante)
-      (NP 
-        (DT a)
-        (NN piracema)
-        (-LCB-)
-        (NP 
-          (NN �poca)
-          (PP 
-            (IN de)
-            (NP 
-              (NN reprodu��o)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT os)
-                  (NN peixes)
-                )
-              )
-            )
-          )
-        )
-        (-RCB-)
-        (,)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP termina)
-          )
-          (PP 
-            (IN em+)
-            (NP 
-              (DT o)
-              (NN dia)
-              (ADJP 
-                (CD 31)
-              )
-              (PP 
-                (IN de)
-                (NP 
-                  (NN janeiro)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN pol�cia)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NNP Mato_Grosso_do_Sul))))
+                        (VP (VBP vai)
+                              (VB combater))
+                        (NP (DT a)
+                                (NN pesca)
+                                (ADJP 
+                                  (JJ predat�ria)))
+                        (PP (IN durante)
+                                        (NP 
+                                          (DT a)
+                                          (NN piracema)
+                                          (-LCB-)
+                                          (NP 
+                                            (NN �poca)
+                                            (PP 
+                                              (IN de)
+                                              (NP 
+                                                (NN reprodu��o)
+                                                (N<ARGS :pp 
+                                                  (IN de+)
+                                                  (NP 
+                                                    (DT os)
+                                                    (NN peixes))))))
+                                          (-RCB-)
+                                          (,)
+                                          (VP 
+                                            (NP 
+                                              (PRP que))
+                                            (VP 
+                                              (VBP termina))
+                                            (PP 
+                                              (IN em+)
+                                              (NP 
+                                                (DT o)
+                                                (NN dia)
+                                                (ADJP 
+                                                  (CD 31))
+                                                (PP 
+                                                  (IN de)
+                                                  (NP 
+                                                    (NN janeiro))))))))
+                        (.)))

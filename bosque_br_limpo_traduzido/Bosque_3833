@@ -1,46 +1,23 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NNP CBD)
-    )
-    (VP 
-      (VBP aliciou)
-    )
-    (NP 
-      (NP 
-        (NNP Le�nidas)
-        (-LCB-)
-        (NP 
-          (NNP Vasco)
-        )
-        (-RCB-)
-      )
-      (,)
-      (NP 
-        (NP 
-          (NP 
-            (NNP Luizinho)
-          )
-          (CC e)
-          (NP 
-            (NNP Waldemar_de_Brito)
-          )
-        )
-        (-LCB-)
-        (NP 
-          (NNP S�o_Paulo)
-        )
-        (-RCB-)
-      )
-    )
-    (,)
-    (PP 
-      (IN entre)
-      (NP 
-        (PRP outros)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NNP CBD))
+                        (VP (VBP aliciou))
+                        (_CU_ (NP (NNP Le�nidas)
+                                        (-LCB-)
+                                        (NP 
+                                          (NNP Vasco))
+                                        (-RCB-))
+                                (,)
+                                (NP (_CU_ 
+                                          (NP 
+                                            (NNP Luizinho))
+                                          (CC e)
+                                          (NP 
+                                            (NNP Waldemar_de_Brito)))
+                                        (-LCB-)
+                                        (NP 
+                                          (NNP S�o_Paulo))
+                                        (-RCB-)))
+                        (,)
+                        (PP (IN entre)
+                                 (NP (PRP outros)))
+                        (.)))

@@ -1,114 +1,75 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (NNP Johnny)
-        (-LCB-)
-        (NP 
-          (NN guitarra)
-        )
-        (-RCB-)
-      )
-      (,)
-      (NP 
-        (NNP Joey)
-        (-LCB-)
-        (NP 
-          (NN vocal)
-        )
-        (-RCB-)
-      )
-      (,)
-      (NP 
-        (NNP CJ)
-        (-LCB-)
-        (NP 
-          (NN baixo)
-        )
-        (-RCB-)
-      )
-      (CC e)
-      (NP 
-        (NNP Mark)
-        (-LCB-)
-        (NP 
-          (NN bateria)
-        )
-        (-RCB-)
-      )
-    )
-    (VP 
-      (VBP falam)
-    )
-    (PP 
-      (IN sobre)
-      (NP 
-        (DT o)
-        (NN surgimento)
-        (PP 
-          (IN de+)
-          (NP 
-            (NP 
-              (DT o)
-              (NN grupo)
-            )
-            (,)
-            (NP 
-              (DT a)
-              (NN influ�ncia)
-              (PP 
-                (IN de)
-                (NP 
-                  (NNP Iggy_Pop)
-                )
-              )
-            )
-            (,)
-            (NP 
-              (NN processo)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN cria��o)
-                )
-              )
-            )
-            (CC e)
-            (NP 
-              (DT o)
-              (NN revival)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NN punk)
-                  (VP 
-                    (VP 
-                      (VBN considerado)
-                    )
-                    (ADJP 
-                      (ADJP 
-                        (JJ rid�culo)
-                      )
-                      (CC e)
-                      (ADJP 
-                        (JJ ileg�timo)
-                      )
-                    )
-                    (PP 
-                      (IN por)
-                      (NP 
-                        (NNP CJ)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (NP 
+                                   (NNP Johnny)
+                                   (-LCB-)
+                                   (NP 
+                                     (NN guitarra))
+                                   (-RCB-))
+                                 (,)
+                                 (NP 
+                                   (NNP Joey)
+                                   (-LCB-)
+                                   (NP 
+                                     (NN vocal))
+                                   (-RCB-))
+                                 (,)
+                                 (NP 
+                                   (NNP CJ)
+                                   (-LCB-)
+                                   (NP 
+                                     (NN baixo))
+                                   (-RCB-))
+                                 (CC e)
+                                 (NP 
+                                   (NNP Mark)
+                                   (-LCB-)
+                                   (NP 
+                                     (NN bateria))
+                                   (-RCB-)))
+                        (VP (VBP falam))
+                        (PP (IN sobre)
+                                (NP (DT o)
+                                       (NN surgimento)
+                                       (PP 
+                                         (IN de+)
+                                         (_CU_ 
+                                           (NP 
+                                             (DT o)
+                                             (NN grupo))
+                                           (,)
+                                           (NP 
+                                             (DT a)
+                                             (NN influ�ncia)
+                                             (PP 
+                                               (IN de)
+                                               (NP 
+                                                 (NNP Iggy_Pop))))
+                                           (,)
+                                           (NP 
+                                             (NN processo)
+                                             (PP 
+                                               (IN de)
+                                               (NP 
+                                                 (NN cria��o))))
+                                           (CC e)
+                                           (NP 
+                                             (DT o)
+                                             (NN revival)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT o)
+                                                 (NN punk)
+                                                 (VP 
+                                                   (VP 
+                                                     (VBN considerado))
+                                                   (_CU_ 
+                                                     (ADJP 
+                                                       (JJ rid�culo))
+                                                     (CC e)
+                                                     (ADJP 
+                                                       (JJ ileg�timo)))
+                                                   (PP 
+                                                     (IN por)
+                                                     (NP 
+                                                       (NNP CJ)))))))))))
+                        (.)))

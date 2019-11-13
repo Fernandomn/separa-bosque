@@ -1,75 +1,41 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Como)
-    )
-    (VP 
-      (VB julgar)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NN consci�ncia)
-      )
-    )
-    (NP 
-      (NN contratos)
-      (UCP 
-        (VBN escritos)
-        (CC ou)
-        (ADJP 
-          (JJ impl�citos)
-        )
-      )
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (VP 
-          (VBP dependem)
-        )
-        (PP 
-          (PP 
-            (IN de)
-            (NP 
-              (DT uma)
-              (NN moeda)
-              (ADVP 
-                (RB como)
-                (NP 
-                  (NN meio)
-                  (PP 
-                    (IN de)
-                    (NP 
-                      (NN pagamento)
-                    )
-                  )
-                )
-              )
-            )
-          )
-          (CC e)
-          (PP 
-            (IN de)
-            (NP 
-              (PRP outra)
-              (ADVP 
-                (RB como)
-                (NP 
-                  (NN unidade)
-                  (PP 
-                    (IN de)
-                    (NP 
-                      (NN conta)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (?)
-  )
-)
+(S (VP (ADVP (RB Como))
+                        (VP (VB julgar))
+                        (PP (IN em)
+                                 (NP (NN consci�ncia)))
+                        (NP (NN contratos)
+                                (_CU_ (VBN escritos)
+                                       (CC ou)
+                                       (ADJP 
+                                         (JJ impl�citos)))
+                                (VP (NP 
+                                          (PRP que))
+                                        (VP 
+                                          (VBP dependem))
+                                        (_CU_ 
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (DT uma)
+                                              (NN moeda)
+                                              (ADVP 
+                                                (RB como)
+                                                (NP 
+                                                  (NN meio)
+                                                  (PP 
+                                                    (IN de)
+                                                    (NP 
+                                                      (NN pagamento)))))))
+                                          (CC e)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (PRP outra)
+                                              (ADVP 
+                                                (RB como)
+                                                (NP 
+                                                  (NN unidade)
+                                                  (PP 
+                                                    (IN de)
+                                                    (NP 
+                                                      (NN conta))))))))))
+                        (?)))

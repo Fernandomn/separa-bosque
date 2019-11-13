@@ -1,55 +1,33 @@
-(S 
-  (VP 
-    (�)
-    (VP 
-      (ADVP 
-        (RB Normalmente)
-      )
-      (NP 
-        (PRP n�s)
-      )
-      (VP 
-        (VBP utilizamos)
-      )
-      (NP 
-        (NN dados)
-        (ADJP 
-          (JJ hist�ricos)
-        )
-        (PP 
-          (IN sobre)
-          (UCP 
-            (NP 
-              (DT a)
-              (NN produtividade)
-              (PP 
-                (IN em)
-                (NP 
-                  (PRP cada)
-                  (NN regi�o)
-                )
-              )
-            )
-            (,)
-            (IN al�m_de)
-            (NP 
-              (NN informa��es)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN agricultores)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (�)
-    (,)
-    (VP 
-      (VBP diz)
-    )
-    (.)
-  )
-)
+(S (VP (�)
+                        (VP (ADVP 
+                                   (RB Normalmente))
+                                 (NP 
+                                   (PRP n�s))
+                                 (VP (VBP utilizamos))
+                                 (NP 
+                                   (NN dados)
+                                   (ADJP 
+                                     (JJ hist�ricos))
+                                   (PP 
+                                     (IN sobre)
+                                     (_CU_ 
+                                       (NP 
+                                         (DT a)
+                                         (NN produtividade)
+                                         (PP 
+                                           (IN em)
+                                           (NP 
+                                             (PRP cada)
+                                             (NN regi�o))))
+                                       (,)
+                                       (IN al�m_de)
+                                       (NP 
+                                         (NN informa��es)
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NN agricultores))))))))
+                        (�)
+                        (,)
+                        (VP (VBP diz))
+                        (.)))

@@ -1,55 +1,31 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN candidato)
-      (PP 
-        (IN a+)
-        (NP 
-          (DT a)
-          (NN Presid�ncia)
-          (PP 
-            (IN por+)
-            (NP 
-              (DT o)
-              (NNP PT)
-              (-LCB-)
-              (NP 
-                (NNP Partido_dos_Trabalhadores)
-              )
-              (-RCB-)
-            )
-          )
-        )
-      )
-      (,)
-      (NP 
-        (NNP Luis_In�cio_Lula_da_Silva)
-      )
-      (,)
-    )
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (DT o)
-      (NN convidado)
-      (PP 
-        (IN de)
-        (NP 
-          (NNP Mar�lia_Gabriela)
-        )
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (�)
-        (NNP Cara_Cara)
-        (�)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN candidato)
+                                 (PP (IN a+)
+                                        (NP 
+                                          (DT a)
+                                          (NN Presid�ncia)
+                                          (PP 
+                                            (IN por+)
+                                            (NP 
+                                              (DT o)
+                                              (NNP PT)
+                                              (-LCB-)
+                                              (NP 
+                                                (NNP Partido_dos_Trabalhadores))
+                                              (-RCB-)))))
+                                 (,)
+                                 (NP 
+                                   (NNP Luis_In�cio_Lula_da_Silva))
+                                 (,))
+                        (VP (VBP �))
+                        (NP (DT o)
+                               (NN convidado)
+                               (PP (IN de)
+                                      (NP 
+                                        (NNP Mar�lia_Gabriela))))
+                        (PP (IN em+)
+                                 (NP (DT o)
+                                        (�)
+                                        (NNP Cara_Cara)
+                                        (�)))
+                        (.)))

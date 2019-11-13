@@ -1,48 +1,28 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (JJ paralela)
-      (�)
-      (NNP Um_Certo_Olhar)
-      (�)
-    )
-    (VP 
-      (VBP selecionou)
-    )
-    (NP 
-      (NP 
-        (�)
-        (NNP Los_Naufragos)
-        (�)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN chileno)
-            (NP 
-              (NNP Miguel_Littin)
-            )
-          )
-        )
-      )
-      (CC e)
-      (NP 
-        (�)
-        (NNP Sin_Compassion)
-        (�)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN peruano)
-            (NP 
-              (NNP Francisco_Lombardi)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (JJ paralela)
+                                 (�)
+                                 (NNP Um_Certo_Olhar)
+                                 (�))
+                        (VP (VBP selecionou))
+                        (_CU_ (NP (�)
+                                        (NNP Los_Naufragos)
+                                        (�)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN chileno)
+                                            (NP 
+                                              (NNP Miguel_Littin)))))
+                                (CC e)
+                                (NP (�)
+                                        (NNP Sin_Compassion)
+                                        (�)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN peruano)
+                                            (NP 
+                                              (NNP Francisco_Lombardi))))))
+                        (.)))

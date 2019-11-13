@@ -1,33 +1,14 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (PRP outros)
-      (NN profissionais)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN �rea)
-        )
-      )
-    )
-    (VP 
-      (VBP s�o)
-    )
-    (NP 
-      (NP 
-        (NN t�cnicos)
-      )
-      (,)
-      (NP 
-        (NN auxiliares)
-      )
-      (CC e)
-      (NP 
-        (NN atendentes)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (PRP outros)
+                                 (NN profissionais)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN �rea))))
+                        (VP (VBP s�o))
+                        (_CU_ (NP (NN t�cnicos))
+                               (,)
+                               (NP (NN auxiliares))
+                               (CC e)
+                               (NP (NN atendentes)))
+                        (.)))

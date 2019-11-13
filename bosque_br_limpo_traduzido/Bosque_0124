@@ -1,94 +1,54 @@
-(S 
-  (VP 
-    (PP 
-      (IN Para)
-      (VP 
-        (VP 
-          (VB fazer)
-        )
-        (NP 
-          (DT uma)
-          (JJ boa)
-          (NN compra)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN t�cnica)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP Procon)
-        )
-      )
-    )
-    (VP 
-      (VBP recomenda)
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT o)
-        (NN consumidor)
-      )
-    )
-    (VP 
-      (IN que)
-      (VP 
-        (VBP verifique)
-      )
-      (VP 
-        (IN se)
-        (ADVP 
-          (RB j�)
-        )
-        (VP 
-          (VBP h�)
-        )
-        (PP 
-          (IN dentro_de)
-          (NP 
-            (NN casa)
-          )
-        )
-        (NP 
-          (DT os)
-          (JJ tradicionais)
-          (NN equipamentos)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (VP 
-              (VBP desempenham)
-            )
-            (NP 
-              (DT as)
-              (PRP mesmas)
-              (NN fun��es)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NN conjugado)
-                )
-              )
-            )
-            (,)
-            (ADVP 
-              (RB s�)
-            )
-            (IN que)
-            (ADVP 
-              (RB separadamente)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Para)
+                                (VP (VP 
+                                          (VB fazer))
+                                        (NP 
+                                          (DT uma)
+                                          (JJ boa)
+                                          (NN compra))))
+                       (,)
+                       (NP (DT a)
+                                (NN t�cnica)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NNP Procon))))
+                       (VP (VBP recomenda))
+                       (PP (IN a+)
+                               (NP (DT o)
+                                      (NN consumidor)))
+                       (VP (IN que)
+                                (VP (VBP verifique))
+                                (VP 
+                                  (IN se)
+                                  (ADVP 
+                                    (RB j�))
+                                  (VP (VBP h�))
+                                  (PP 
+                                    (IN dentro_de)
+                                    (NP 
+                                      (NN casa)))
+                                  (NP 
+                                    (DT os)
+                                    (JJ tradicionais)
+                                    (NN equipamentos)
+                                    (VP 
+                                      (NP 
+                                        (PRP que))
+                                      (VP 
+                                        (VBP desempenham))
+                                      (NP 
+                                        (DT as)
+                                        (PRP mesmas)
+                                        (NN fun��es)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN conjugado))))
+                                      (,)
+                                      (ADVP 
+                                        (RB s�))
+                                      (IN que)
+                                      (ADVP 
+                                        (RB separadamente))))))
+                       (.)))

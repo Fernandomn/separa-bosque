@@ -1,72 +1,42 @@
-(S 
-  (VP 
-    (NP 
-      (NN Crian�as)
-      (ADJP 
-        (RB mais)
-        (JJ velhas)
-      )
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (ADVP 
-          (RB nunca)
-        )
-        (VP 
-          (VBP seguiram)
-        )
-        (NP 
-          (DT a)
-          (NN dieta)
-        )
-      )
-    )
-    (VP 
-      (VBP podem)
-      (VB ter)
-    )
-    (NP 
-      (NP 
-        (NN retardo)
-        (ADJP 
-          (JJ mental)
-        )
-      )
-      (,)
-      (NP 
-        (NN desenvolvimento)
-        (ADJP 
-          (JJ motor)
-        )
-        (VBN prejudicado)
-      )
-      (CC e)
-      (NP 
-        (NN altera��es)
-        (ADJP 
-          (JJ significativas)
-        )
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN comportamento)
-            (-LCB-)
-            (NP 
-              (NP 
-                (NN isolamento)
-              )
-              (CC e)
-              (NP 
-                (NN agressividade)
-              )
-            )
-            (-RCB-)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN Crian�as)
+                                 (ADJP 
+                                   (RB mais)
+                                   (JJ velhas))
+                                 (VP 
+                                   (NP 
+                                     (PRP que))
+                                   (ADVP 
+                                     (RB nunca))
+                                   (VP 
+                                     (VBP seguiram))
+                                   (NP 
+                                     (DT a)
+                                     (NN dieta))))
+                        (VP (VBP podem)
+                              (VB ter))
+                        (_CU_ (NP (NN retardo)
+                                        (ADJP 
+                                          (JJ mental)))
+                                (,)
+                                (NP (NN desenvolvimento)
+                                        (ADJP 
+                                          (JJ motor))
+                                        (VBN prejudicado))
+                                (CC e)
+                                (NP (NN altera��es)
+                                        (ADJP 
+                                          (JJ significativas))
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN comportamento)
+                                            (-LCB-)
+                                            (_CU_ 
+                                              (NP 
+                                                (NN isolamento))
+                                              (CC e)
+                                              (NP 
+                                                (NN agressividade)))
+                                            (-RCB-)))))
+                        (.)))

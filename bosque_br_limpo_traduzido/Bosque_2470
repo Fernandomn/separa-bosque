@@ -1,67 +1,37 @@
-(S 
-  (VP 
-    (NP 
-      (NN F�)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN t�cnico)
-          (ADJP 
-            (JJ s�o-paulino)
-          )
-          (NP 
-            (NNP Tel�_Santana)
-          )
-        )
-      )
-    )
-    (-LCB-)
-    (VP 
-      (�)
-      (VP 
-        (VBP �)
-      )
-      (ADJP 
-        (RB muito)
-        (JJ modesto)
-      )
-      (�)
-    )
-    (-RCB-)
-    (,)
-    (NP 
-      (NNP Bianchi)
-    )
-    (VP 
-      (VBP v�)
-    )
-    (NP 
-      (DT o)
-      (NN time)
-      (ADJP 
-        (JJ paulista)
-      )
-    )
-    (ADJP 
-      (RB t�o)
-      (JJ forte)
-      (ADVP 
-        (RB como)
-        (PP 
-          (IN em)
-          (UCP 
-            (NP 
-              (CD 1992)
-            )
-            (CC e)
-            (ADJP 
-              (CD 93)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN F�)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN t�cnico)
+                                          (ADJP 
+                                            (JJ s�o-paulino))
+                                          (NP 
+                                            (NNP Tel�_Santana)))))
+                        (-LCB-)
+                        (VP (�)
+                                 (VP (VBP �))
+                                 (ADJP 
+                                   (RB muito)
+                                   (JJ modesto))
+                                 (�))
+                        (-RCB-)
+                        (,)
+                        (NP (NNP Bianchi))
+                        (VP (VBP v�))
+                        (NP (DT o)
+                                (NN time)
+                                (ADJP 
+                                  (JJ paulista)))
+                        (ADJP (RB t�o)
+                                   (JJ forte)
+                                   (ADVP 
+                                     (RB como)
+                                     (PP 
+                                       (IN em)
+                                       (_CU_ 
+                                         (NP 
+                                           (CD 1992))
+                                         (CC e)
+                                         (ADJP 
+                                           (CD 93))))))
+                        (.)))

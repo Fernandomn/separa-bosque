@@ -1,56 +1,33 @@
-(S 
-  (VP 
-    (NP 
-      (NN Pesquisa)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Laerte_Cordeiro_&_Associados)
-        )
-      )
-      (,)
-      (PP 
-        (IN com_base_em)
-        (NP 
-          (NN an�ncios)
-          (PP 
-            (IN de)
-            (NP 
-              (NN emprego)
-            )
-          )
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP indica)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT a)
-        (NN �rea)
-      )
-      (VP 
-        (VBP voltou)
-        (IN a)
-        (VB ocupar)
-      )
-      (NP 
-        (DT a)
-        (JJ segunda)
-        (NN posi��o)
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT a)
-          (NN demanda)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN Pesquisa)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP Laerte_Cordeiro_&_Associados)))
+                                 (,)
+                                 (PP 
+                                   (IN com_base_em)
+                                   (NP 
+                                     (NN an�ncios)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NN emprego)))))
+                                 (,))
+                        (VP (VBP indica))
+                        (VP (IN que)
+                                 (NP 
+                                   (DT a)
+                                   (NN �rea))
+                                 (VP (VBP voltou)
+                                       (IN a)
+                                       (VB ocupar))
+                                 (NP 
+                                   (DT a)
+                                   (JJ segunda)
+                                   (NN posi��o))
+                                 (PP 
+                                   (IN em+)
+                                   (NP 
+                                     (DT a)
+                                     (NN demanda))))
+                        (.)))

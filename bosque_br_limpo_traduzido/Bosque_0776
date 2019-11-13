@@ -1,73 +1,43 @@
-(S 
-  (VP 
-    (VP 
-      (ADVP 
-        (RB Quando)
-      )
-      (NP 
-        (NNP Ricupero)
-      )
-      (VP 
-        (VBP foi)
-        (VBN pin�ado)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (PRP sua)
-          (NN miss�o)
-          (ADJP 
-            (JJ amaz�nica)
-          )
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VBP lembrei)
-    )
-    (NP 
-      (NNP Osvaldo_Aranha)
-      (,)
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (VP 
-          (VBP dizia)
-        )
-        (VP 
-          (IN que)
-          (NP 
-            (DT o)
-            (NNP Brasil)
-          )
-          (VP 
-            (VBP �)
-          )
-          (NP 
-            (DT um)
-            (NN deserto)
-            (PP 
-              (PP 
-                (IN de)
-                (NP 
-                  (NN homens)
-                )
-              )
-              (CC e)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN id�ias)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (ADVP 
+                                    (RB Quando))
+                                  (NP 
+                                    (NNP Ricupero))
+                                  (VP (VBP foi)
+                                        (VBN pin�ado))
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT a)
+                                      (PRP sua)
+                                      (NN miss�o)
+                                      (ADJP 
+                                        (JJ amaz�nica)))))
+                        (,)
+                        (VP (VBP lembrei))
+                        (NP (NNP Osvaldo_Aranha)
+                                (,)
+                                (VP 
+                                  (NP 
+                                    (PRP que))
+                                  (VP (VBP dizia))
+                                  (VP 
+                                    (IN que)
+                                    (NP 
+                                      (DT o)
+                                      (NNP Brasil))
+                                    (VP 
+                                      (VBP �))
+                                    (NP 
+                                      (DT um)
+                                      (NN deserto)
+                                      (_CU_ 
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN homens)))
+                                        (CC e)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN id�ias))))))))
+                        (.)))

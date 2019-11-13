@@ -1,36 +1,17 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NNP PT)
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP tem)
-    )
-    (NP 
-      (NN estatura)
-      (ADJP 
-        (JJ ideol�gica)
-      )
-      (PP 
-        (IN para)
-        (VP 
-          (VP 
-            (VB enfrentar)
-          )
-          (NP 
-            (DT o)
-            (NN candidato)
-            (ADJP 
-              (JJ conservador)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NNP PT))
+                        (ADVP (RB n�o))
+                        (VP (VBP tem))
+                        (NP (NN estatura)
+                                (ADJP 
+                                  (JJ ideol�gica))
+                                (PP (IN para)
+                                       (VP 
+                                         (VP 
+                                           (VB enfrentar))
+                                         (NP 
+                                           (DT o)
+                                           (NN candidato)
+                                           (ADJP 
+                                             (JJ conservador))))))
+                        (.)))

@@ -1,80 +1,47 @@
-(S 
-  (VP 
-    (PP 
-      (IN Para)
-      (NP 
-        (PRP tanto)
-      )
-    )
-    (VP 
-      (VBP �)
-    )
-    (ADJP 
-      (JJ imprescind�vel)
-    )
-    (VP 
-      (VP 
-        (VB priorizar)
-      )
-      (NP 
-        (PRP algumas)
-        (NN a��es)
-        (ADVP 
-          (RB como)
-          (UCP 
-            (NP 
-              (DT a)
-              (NN recupera��o)
-              (PP 
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NN unidades)
-                    (ADJP 
-                      (JJ armazenadoras)
-                      (PP 
-                        (IN de)
-                        (NP 
-                          (NN cereais)
-                        )
-                      )
-                    )
-                  )
-                )
-                (CC e)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT as)
-                    (NN rodovias)
-                  )
-                )
-              )
-            )
-            (,)
-            (IN al�m_de+)
-            (NP 
-              (DT o)
-              (NN incentivo)
-              (PP 
-                (IN a+)
-                (NP 
-                  (DT a)
-                  (NN utiliza��o)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT as)
-                      (NN ferrovias)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Para)
+                                (NP (PRP tanto)))
+                       (VP (VBP �))
+                       (ADJP (JJ imprescind�vel))
+                       (VP (VP (VB priorizar))
+                                 (NP 
+                                   (PRP algumas)
+                                   (NN a��es)
+                                   (ADVP 
+                                     (RB como)
+                                     (_CU_ 
+                                       (NP 
+                                         (DT a)
+                                         (NN recupera��o)
+                                         (_CU_ 
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NN unidades)
+                                               (ADJP 
+                                                 (JJ armazenadoras)
+                                                 (PP 
+                                                   (IN de)
+                                                   (NP 
+                                                     (NN cereais))))))
+                                           (CC e)
+                                           (PP 
+                                             (IN de+)
+                                             (NP 
+                                               (DT as)
+                                               (NN rodovias)))))
+                                       (,)
+                                       (IN al�m_de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN incentivo)
+                                         (PP 
+                                           (IN a+)
+                                           (NP 
+                                             (DT a)
+                                             (NN utiliza��o)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT as)
+                                                 (NN ferrovias))))))))))
+                       (.)))

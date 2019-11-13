@@ -1,50 +1,27 @@
-(S 
-  (VP 
-    (NP 
-      (RB Cerca_de)
-      (CD 300)
-      (NN cubano-americanos)
-    )
-    (VP 
-      (VBP protestaram)
-    )
-    (PP 
-      (IN na_frente_de+)
-      (NP 
-        (DT o)
-        (NN pr�dio)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN miss�o)
-            (ADJP 
-              (JJ cubana)
-            )
-          )
-        )
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NNP ONU)
-        (,)
-        (VP 
-          (ADVP 
-            (RB onde)
-          )
-          (NP 
-            (DT as)
-            (NN negocia��es)
-          )
-          (VP 
-            (VBP ocorreram)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (RB Cerca_de)
+                                 (CD 300)
+                                 (NN cubano-americanos))
+                        (VP (VBP protestaram))
+                        (PP (IN na_frente_de+)
+                                 (NP (DT o)
+                                        (NN pr�dio)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NN miss�o)
+                                            (ADJP 
+                                              (JJ cubana))))))
+                        (PP (IN em+)
+                                 (NP (DT a)
+                                        (NNP ONU)
+                                        (,)
+                                        (VP 
+                                          (ADVP 
+                                            (RB onde))
+                                          (NP 
+                                            (DT as)
+                                            (NN negocia��es))
+                                          (VP 
+                                            (VBP ocorreram)))))
+                        (.)))

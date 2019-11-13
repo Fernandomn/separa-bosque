@@ -1,33 +1,14 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN treinador)
-      (NP 
-        (NNP Levir_Culpi)
-      )
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP quis)
-    )
-    (VP 
-      (VP 
-        (VB adiantar)
-      )
-      (NP 
-        (DT o)
-        (NN substituto)
-        (PP 
-          (IN de)
-          (NP 
-            (NNP �der_Aleixo)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN treinador)
+                                 (NP (NNP Levir_Culpi)))
+                        (ADVP (RB n�o))
+                        (VP (VBP quis))
+                        (VP (VP (VB adiantar))
+                                 (NP 
+                                   (DT o)
+                                   (NN substituto)
+                                   (PP 
+                                     (IN de)
+                                     (NP 
+                                       (NNP �der_Aleixo)))))
+                        (.)))

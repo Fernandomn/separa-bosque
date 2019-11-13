@@ -1,54 +1,30 @@
-(S 
-  (VP 
-    (VBG Resumindo)
-    (;)
-    (NP 
-      (NNP Lutoslawski)
-    )
-    (VP 
-      (VBP radicalizou)
-    )
-    (NP 
-      (NNP Bart�k)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (PRP aquilo)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (NP 
-            (PRP este)
-          )
-          (VP 
-            (VBP tinha)
-          )
-          (UCP 
-            (PP 
-              (IN de)
-              (ADJP 
-                (JJ noturno)
-              )
-            )
-            (,)
-            (PP 
-              (IN de)
-              (ADJP 
-                (JJ dram�tico)
-              )
-            )
-            (CC e)
-            (�)
-            (ADJP 
-              (JJ moderno)
-            )
-            (�)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VBG Resumindo)
+                        (;)
+                        (NP (NNP Lutoslawski))
+                        (VP (VBP radicalizou))
+                        (NP (NNP Bart�k))
+                        (PP (IN em+)
+                                 (NP (PRP aquilo)
+                                        (VP 
+                                          (NP 
+                                            (PRP que))
+                                          (NP 
+                                            (PRP este))
+                                          (VP 
+                                            (VBP tinha))
+                                          (_CU_ 
+                                            (PP 
+                                              (IN de)
+                                              (ADJP 
+                                                (JJ noturno)))
+                                            (,)
+                                            (PP 
+                                              (IN de)
+                                              (ADJP 
+                                                (JJ dram�tico)))
+                                            (CC e)
+                                            (�)
+                                            (ADJP 
+                                              (JJ moderno))
+                                            (�)))))
+                        (.)))

@@ -1,42 +1,19 @@
-(S 
-  (VP 
-    (NP 
-      (ADJP 
-        (RB Apenas)
-        (CD dois)
-      )
-      (NN �rbitros)
-    )
-    (VP 
-      (VBP resolveram)
-    )
-    (VP 
-      (VP 
-        (VB contar)
-      )
-      (NP 
-        (PRP todos)
-        (DT os)
-        (NN podres)
-      )
-    )
-    (,)
-    (VP 
-      (ADVP 
-        (RB enquanto)
-      )
-      (NP 
-        (DT a)
-        (NN federa��o)
-      )
-      (VP 
-        (VBP tem)
-      )
-      (NP 
-        (RB mais_de)
-        (CD 70)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (ADJP (RB Apenas)
+                                        (CD dois))
+                               (NN �rbitros))
+                      (VP (VBP resolveram))
+                      (VP (VP (VB contar))
+                               (NP (PRP todos)
+                                       (DT os)
+                                       (NN podres)))
+                      (,)
+                      (VP (ADVP 
+                                  (RB enquanto))
+                                (NP 
+                                  (DT a)
+                                  (NN federa��o))
+                                (VP (VBP tem))
+                                (NP 
+                                  (RB mais_de)
+                                  (CD 70)))
+                      (.)))

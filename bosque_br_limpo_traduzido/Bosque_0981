@@ -1,46 +1,23 @@
-(S 
-  (UCP 
-    (VP 
-      (NP 
-        (PRP O)
-        (PP 
-          (IN de)
-          (NP 
-            (NN meia-noite)
-          )
-        )
-      )
-      (VP 
-        (VBP �)
-      )
-      (ADJP 
-        (JJ �timo)
-      )
-    )
-    (,)
-    (CC mas)
-    (VP 
-      (VP 
-        (VP 
-          (VBP �)
-        )
-        (PP 
-          (IN em)
-          (NP 
-            (NNP Botafogo)
-          )
-        )
-      )
-      (CC e)
-      (VP 
-        (VP 
-          (VBP acaba)
-        )
-        (ADVP 
-          (RB tarde)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (PRP O)
+                                  (PP 
+                                    (IN de)
+                                    (NP 
+                                      (NN meia-noite))))
+                                (VP (VBP �))
+                                (ADJP 
+                                  (JJ �timo)))
+                       (,)
+                       (CC mas)
+                       (_CU_ (VP (VP 
+                                          (VBP �))
+                                        (PP 
+                                          (IN em)
+                                          (NP 
+                                            (NNP Botafogo))))
+                               (CC e)
+                               (VP (VP 
+                                          (VBP acaba))
+                                        (ADVP 
+                                          (RB tarde))))
+                       (.)))

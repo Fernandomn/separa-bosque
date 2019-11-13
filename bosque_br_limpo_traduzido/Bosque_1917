@@ -1,67 +1,42 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (DT A)
-        (NN taxa��o)
-        (PP 
-          (IN de)
-          (NP 
-            (JJ grandes)
-            (NN fortunas)
-          )
-        )
-      )
-      (CC e)
-      (NP 
-        (DT o)
-        (NN dinheiro)
-        (PP 
-          (IN de)
-          (NP 
-            (NN privatiza��o)
-            (--)
-            (PP 
-              (IN de)
-              (NP 
-                (NN estatais)
-                (ADJP 
-                  (JJ n�o-estrat�gicas)
-                )
-              )
-            )
-            (-LCB-)
-            (VP 
-              (VP 
-                (VBP exclui)
-              )
-              (NP 
-                (NP 
-                  (NN min�rios)
-                )
-                (,)
-                (NP 
-                  (NN petr�leo)
-                )
-                (CC e)
-                (NP 
-                  (NN telecomunica��es)
-                )
-              )
-            )
-            (-RCB-)
-          )
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VBP complementaria)
-    )
-    (NP 
-      (PRP esses)
-      (NN fundos)
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (NP 
+                                   (DT A)
+                                   (NN taxa��o)
+                                   (PP 
+                                     (IN de)
+                                     (NP 
+                                       (JJ grandes)
+                                       (NN fortunas))))
+                                 (CC e)
+                                 (NP 
+                                   (DT o)
+                                   (NN dinheiro)
+                                   (PP 
+                                     (IN de)
+                                     (NP 
+                                       (NN privatiza��o)
+                                       (--)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN estatais)
+                                           (ADJP 
+                                             (JJ n�o-estrat�gicas))))
+                                       (-LCB-)
+                                       (VP 
+                                         (VP 
+                                           (VBP exclui))
+                                         (_CU_ 
+                                           (NP 
+                                             (NN min�rios))
+                                           (,)
+                                           (NP 
+                                             (NN petr�leo))
+                                           (CC e)
+                                           (NP 
+                                             (NN telecomunica��es))))
+                                       (-RCB-)))))
+                        (,)
+                        (VP (VBP complementaria))
+                        (NP (PRP esses)
+                                (NN fundos))
+                        (.)))

@@ -1,35 +1,16 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (PRP este)
-        (NN caso)
-      )
-    )
-    (,)
-    (NP 
-      (DT o)
-      (NN registro)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN candidatura)
-        )
-      )
-    )
-    (VP 
-      (VBP seria)
-      (VBN cancelado)
-    )
-    (PP 
-      (IN por+)
-      (NP 
-        (DT a)
-        (NN Justi�a)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                (NP (PRP este)
+                                       (NN caso)))
+                       (,)
+                       (NP (DT o)
+                                (NN registro)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NN candidatura))))
+                       (VP (VBP seria)
+                             (VBN cancelado))
+                       (PP (IN por+)
+                                (NP (DT a)
+                                       (NN Justi�a)))
+                       (.)))

@@ -1,31 +1,13 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Reis)
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP quis)
-    )
-    (VP 
-      (VP 
-        (VB dizer)
-      )
-      (VP 
-        (IN se)
-        (ADVP 
-          (RB tamb�m)
-        )
-        (VP 
-          (VBP abandonar�)
-        )
-        (NP 
-          (NNP Esperidi�o_Amin)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Reis))
+                        (ADVP (RB n�o))
+                        (VP (VBP quis))
+                        (VP (VP (VB dizer))
+                                 (VP 
+                                   (IN se)
+                                   (ADVP 
+                                     (RB tamb�m))
+                                   (VP 
+                                     (VBP abandonar�))
+                                   (NP 
+                                     (NNP Esperidi�o_Amin))))
+                        (.)))

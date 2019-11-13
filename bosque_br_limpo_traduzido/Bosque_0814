@@ -1,64 +1,38 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Itamar)
-    )
-    (VP 
-      (VBP disse)
-    )
-    (VP 
-      (IN que)
-      (PP 
-        (IN at�)
-        (RB agora)
-      )
-      (NP 
-        (PRP poucas)
-        (NN demiss�es)
-      )
-      (VP 
-        (VBP foram)
-        (VBN efetivadas)
-      )
-      (VP 
-        (IN porque)
-        (�)
-        (VP 
-          (VBP h�)
-        )
-        (ADVP 
-          (RB sempre)
-        )
-        (NP 
-          (DT um)
-          (NN processo)
-          (ADJP 
-            (ADJP 
-              (JJ legal)
-            )
-            (CC e)
-            (ADJP 
-              (JJ burocr�tico)
-            )
-          )
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (VP 
-              (VBP precisar)
-            )
-            (VP 
-              (VP 
-                (VB ser)
-                (VBN cumprido)
-              )
-            )
-          )
-        )
-        (�)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Itamar))
+                        (VP (VBP disse))
+                        (VP (IN que)
+                                 (PP 
+                                   (IN at�)
+                                   (RB agora))
+                                 (NP 
+                                   (PRP poucas)
+                                   (NN demiss�es))
+                                 (VP (VBP foram)
+                                       (VBN efetivadas))
+                                 (VP 
+                                   (IN porque)
+                                   (�)
+                                   (VP 
+                                     (VBP h�))
+                                   (ADVP 
+                                     (RB sempre))
+                                   (NP 
+                                     (DT um)
+                                     (NN processo)
+                                     (_CU_ 
+                                       (ADJP 
+                                         (JJ legal))
+                                       (CC e)
+                                       (ADJP 
+                                         (JJ burocr�tico)))
+                                     (VP 
+                                       (NP 
+                                         (PRP que))
+                                       (VP 
+                                         (VBP precisar))
+                                       (VP 
+                                         (VP 
+                                           (VB ser)
+                                           (VBN cumprido)))))
+                                   (�)))
+                        (.)))

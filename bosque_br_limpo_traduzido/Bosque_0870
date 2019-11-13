@@ -1,28 +1,13 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN projeto)
-    )
-    (VP 
-      (VBP �)
-    )
-    (PP 
-      (IN de+)
-      (NP 
-        (DT as)
-        (NN empresas)
-        (NP 
-          (NP 
-            (NNP Xerox)
-          )
-          (CC e)
-          (NP 
-            (NNP Ernst_&_Rubican)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN projeto))
+                        (VP (VBP �))
+                        (PP (IN de+)
+                               (NP (DT as)
+                                      (NN empresas)
+                                      (_CU_ 
+                                        (NP 
+                                          (NNP Xerox))
+                                        (CC e)
+                                        (NP 
+                                          (NNP Ernst_&_Rubican)))))
+                        (.)))

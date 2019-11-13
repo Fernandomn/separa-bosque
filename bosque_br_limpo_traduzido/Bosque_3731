@@ -1,75 +1,42 @@
-(S 
-  (VP 
-    (NP 
-      (NN Biotecnologia)
-    )
-    (--)
-    (VP 
-      (VBP busca)
-    )
-    (NP 
-      (NP 
-        (NP 
-          (DT o)
-          (NN aprimoramento)
-        )
-        (CC e)
-        (NP 
-          (NN cria��o)
-        )
-      )
-      (PP 
-        (IN de)
-        (NP 
-          (JJ novos)
-          (NN produtos)
-        )
-      )
-    )
-    (PP 
-      (IN a_partir_de+)
-      (NP 
-        (DT a)
-        (NN manipula��o)
-        (PP 
-          (IN de)
-          (NP 
-            (NP 
-              (NP 
-                (NN animais)
-              )
-              (CC e)
-              (NP 
-                (NN plantas)
-              )
-            )
-            (VP 
-              (VP 
-                (VBN destinados)
-              )
-              (PP 
-                (IN a+)
-                (NP 
-                  (DT a)
-                  (NP 
-                    (NP 
-                      (NN sa�de)
-                    )
-                    (CC e)
-                    (NP 
-                      (NN est�tica)
-                    )
-                  )
-                  (ADJP 
-                    (JJ humana)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN Biotecnologia))
+                        (--)
+                        (VP (VBP busca))
+                        (NP (_CU_ (NP 
+                                        (DT o)
+                                        (NN aprimoramento))
+                                      (CC e)
+                                      (NP 
+                                        (NN cria��o)))
+                                (PP 
+                                  (IN de)
+                                  (NP 
+                                    (JJ novos)
+                                    (NN produtos))))
+                        (PP (IN a_partir_de+)
+                                 (NP (DT a)
+                                        (NN manipula��o)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (_CU_ 
+                                              (NP 
+                                                (NN animais))
+                                              (CC e)
+                                              (NP 
+                                                (NN plantas)))
+                                            (VP 
+                                              (VP 
+                                                (VBN destinados))
+                                              (PP 
+                                                (IN a+)
+                                                (NP 
+                                                  (DT a)
+                                                  (_CU_ 
+                                                    (NP 
+                                                      (NN sa�de))
+                                                    (CC e)
+                                                    (NP 
+                                                      (NN est�tica)))
+                                                  (ADJP 
+                                                    (JJ humana)))))))))
+                        (.)))

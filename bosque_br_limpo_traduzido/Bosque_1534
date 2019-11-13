@@ -1,24 +1,10 @@
-(S 
-  (NP 
-    (NN Final)
-    (PP 
-      (IN de)
-      (NP 
-        (NN treino)
-      )
-    )
-    (PP 
-      (IN para)
-      (NP 
-        (NP 
-          (PRP ele)
-        )
-        (CC e)
-        (NP 
-          (NNP Schumacher)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (NP (NN Final)
+                       (PP (IN de)
+                              (NP (NN treino)))
+                       (PP (IN para)
+                              (_CU_ (NP 
+                                       (PRP ele))
+                                     (CC e)
+                                     (NP 
+                                       (NNP Schumacher))))
+                       (.)))

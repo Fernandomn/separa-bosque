@@ -1,51 +1,31 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (DT Os)
-        (NN rel�gios)
-      )
-      (VP 
-        (VBP ser�o)
-        (VBN atrasados)
-      )
-      (PP 
-        (IN a+)
-        (NP 
-          (DT a)
-          (NN meia-noite)
-        )
-      )
-      (PP 
-        (IN para)
-        (NP 
-          (NN 23h)
-        )
-      )
-    )
-    (,)
-    (CC e)
-    (VP 
-      (NP 
-        (DT os)
-        (NN trens)
-      )
-      (VP 
-        (VBP continuar�o)
-        (IN a)
-        (VB correr)
-      )
-      (PP 
-        (IN at�)
-        (NP 
-          (DT a)
-          (�)
-          (JJ segunda)
-          (NN meia-noite)
-          (�)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (DT Os)
+                                  (NN rel�gios))
+                                (VP (VBP ser�o)
+                                      (VBN atrasados))
+                                (PP 
+                                  (IN a+)
+                                  (NP 
+                                    (DT a)
+                                    (NN meia-noite)))
+                                (PP 
+                                  (IN para)
+                                  (NP 
+                                    (NN 23h))))
+                       (,)
+                       (CC e)
+                       (VP (NP 
+                                  (DT os)
+                                  (NN trens))
+                                (VP (VBP continuar�o)
+                                      (IN a)
+                                      (VB correr))
+                                (PP 
+                                  (IN at�)
+                                  (NP 
+                                    (DT a)
+                                    (�)
+                                    (JJ segunda)
+                                    (NN meia-noite)
+                                    (�))))
+                       (.)))

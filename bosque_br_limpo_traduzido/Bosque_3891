@@ -1,92 +1,54 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (VBN Nascido)
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT o)
-          (NN dia)
-          (ADJP 
-            (CD 23)
-          )
-          (PP 
-            (IN de)
-            (NP 
-              (NN maio)
-              (PP 
-                (IN de)
-                (NP 
-                  (CD 1972)
-                )
-              )
-            )
-          )
-        )
-      )
-      (,)
-      (PP 
-        (IN em)
-        (NP 
-          (NNP S�o_Paulo)
-        )
-      )
-      (,)
-    )
-    (NP 
-      (NNP Rubens_Gon�alves_Barrichello)
-    )
-    (VP 
-      (VBP come�ou)
-    )
-    (NP 
-      (PRP sua)
-      (NN carreira)
-      (ADJP 
-        (JJ automobil�stica)
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (NN kart)
-      )
-    )
-    (,)
-    (PP 
-      (IN em)
-      (ADJP 
-        (CD 81)
-        (,)
-        (VP 
-          (ADVP 
-            (RB quando)
-          )
-          (VP 
-            (VBP foi)
-          )
-          (NP 
-            (NP vice-campe�o)
-            (ADJP 
-              (JJ j�nior)
-            )
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (NN capital)
-                (ADJP 
-                  (JJ paulista)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VP (VBN Nascido))
+                                (PP 
+                                  (IN em+)
+                                  (NP 
+                                    (DT o)
+                                    (NN dia)
+                                    (ADJP 
+                                      (CD 23))
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (NN maio)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (CD 1972)))))))
+                                (,)
+                                (PP 
+                                  (IN em)
+                                  (NP 
+                                    (NNP S�o_Paulo)))
+                                (,))
+                        (NP (NNP Rubens_Gon�alves_Barrichello))
+                        (VP (VBP come�ou))
+                        (NP (PRP sua)
+                                (NN carreira)
+                                (ADJP 
+                                  (JJ automobil�stica)))
+                        (PP (IN em+)
+                                 (NP (DT o)
+                                        (NN kart)))
+                        (,)
+                        (PP (IN em)
+                                 (ADJP 
+                                   (CD 81)
+                                   (,)
+                                   (VP 
+                                     (ADVP 
+                                       (RB quando))
+                                     (VP 
+                                       (VBP foi))
+                                     (NP 
+                                       (_EC_ vice-)
+                                       (NN campe�o)
+                                       (ADJP 
+                                         (JJ j�nior))
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT a)
+                                           (NN capital)
+                                           (ADJP 
+                                             (JJ paulista))))))))
+                        (.)))

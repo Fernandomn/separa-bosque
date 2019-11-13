@@ -1,74 +1,41 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NNP �ndice_de_Pre�os_ao_Consumidor)
-      (-LCB-)
-      (NP 
-        (NNP IPCA)
-      )
-      (-RCB-)
-      (PP 
-        (IN de)
-        (NP 
-          (NNP Belo_Horizonte)
-        )
-      )
-    )
-    (VP 
-      (VBP fechou)
-    )
-    (NP 
-      (DT a)
-      (JJ �ltima)
-      (NN quadrissemana)
-      (PP 
-        (IN de)
-        (NP 
-          (NN novembro)
-        )
-      )
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (NN varia��o)
-        (PP 
-          (IN de)
-          (NP 
-            (CD 3,12)
-            (NN %)
-          )
-        )
-      )
-    )
-    (,)
-    (PP 
-      (IN contra)
-      (NP 
-        (DT os)
-        (CD 2,54)
-        (NN %)
-        (VP 
-          (VP 
-            (VBN registrados)
-          )
-          (PP 
-            (IN em)
-            (NP 
-              (JJ igual)
-              (NN per�odo)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN outubro)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NNP �ndice_de_Pre�os_ao_Consumidor)
+                                 (-LCB-)
+                                 (NP 
+                                   (NNP IPCA))
+                                 (-RCB-)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NNP Belo_Horizonte))))
+                        (VP (VBP fechou))
+                        (NP (DT a)
+                                (JJ �ltima)
+                                (NN quadrissemana)
+                                (PP (IN de)
+                                       (NP 
+                                         (NN novembro))))
+                        (PP (IN com)
+                                 (NP (NN varia��o)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (CD 3,12)
+                                            (NN %)))))
+                        (,)
+                        (PP (IN contra)
+                                 (NP (DT os)
+                                        (CD 2,54)
+                                        (NN %)
+                                        (VP 
+                                          (VP 
+                                            (VBN registrados))
+                                          (PP 
+                                            (IN em)
+                                            (NP 
+                                              (JJ igual)
+                                              (NN per�odo)
+                                              (PP 
+                                                (IN de)
+                                                (NP 
+                                                  (NN outubro))))))))
+                        (.)))

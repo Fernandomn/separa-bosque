@@ -1,41 +1,20 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN produ��o)
-      (PP 
-        (IN de)
-        (NP 
-          (NN petr�leo)
-        )
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT a)
-          (NNP Argentina)
-        )
-      )
-    )
-    (VP 
-      (VBP aumentou)
-    )
-    (NP 
-      (CD 30)
-      (NN %)
-    )
-    (PP 
-      (IN entre)
-      (UCP 
-        (NP 
-          (CD 1991)
-        )
-        (CC e)
-        (ADJP 
-          (CD 1993)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN produ��o)
+                                 (PP 
+                                   (IN de)
+                                   (NP 
+                                     (NN petr�leo)))
+                                 (PP (IN em+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP Argentina))))
+                        (VP (VBP aumentou))
+                        (NP (CD 30)
+                                (NN %))
+                        (PP (IN entre)
+                                 (_CU_ (NP 
+                                          (CD 1991))
+                                        (CC e)
+                                        (ADJP 
+                                          (CD 1993))))
+                        (.)))

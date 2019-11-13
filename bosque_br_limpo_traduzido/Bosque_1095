@@ -1,48 +1,25 @@
-(S 
-  (VP 
-    (NP 
-      (NN Met�foras)
-      (PP 
-        (IN em)
-        (NP 
-          (NN pol�tica)
-        )
-      )
-    )
-    (ADVP 
-      (RB quase)
-      (RB sempre)
-    )
-    (VP 
-      (VBP s�o)
-    )
-    (ADJP 
-      (JJ burras)
-    )
-    (-LCB-)
-    (VP 
-      (ADVP 
-        (IN de+)
-        (RB a�)
-      )
-      (NP 
-        (PRP tantos)
-        (NP 
-          (NP 
-            (NN psicologismos)
-          )
-          (,)
-          (NP 
-            (NN antropologismos)
-          )
-          (,)
-          (NP 
-            (NN literatices)
-          )
-        )
-      )
-    )
-    (...)
-    (-RCB-)
-  )
-)
+(S (VP (NP (NN Met�foras)
+                                 (PP (IN em)
+                                        (NP 
+                                          (NN pol�tica))))
+                        (ADVP (RB quase)
+                                   (RB sempre))
+                        (VP (VBP s�o))
+                        (ADJP (JJ burras))
+                        (-LCB-)
+                        (VP (ADVP 
+                                    (IN de+)
+                                    (RB a�))
+                                  (NP 
+                                    (PRP tantos)
+                                    (_CU_ 
+                                      (NP 
+                                        (NN psicologismos))
+                                      (,)
+                                      (NP 
+                                        (NN antropologismos))
+                                      (,)
+                                      (NP 
+                                        (NN literatices)))))
+                        (...)
+                        (-RCB-)))

@@ -1,86 +1,51 @@
-(S 
-  (UCP 
-    (�)
-    (VP 
-      (VP 
-        (VBP �)
-      )
-      (NP 
-        (DT uma)
-        (NN obra)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP fala)
-          )
-          (PP 
-            (IN de)
-            (NP 
-              (NN f�)
-            )
-          )
-        )
-      )
-    )
-    (CC e)
-    (VP 
-      (NP 
-        (PRP eu)
-      )
-      (VP 
-        (VBP espero)
-      )
-      (VP 
-        (IN que)
-        (VP 
-          (VBP possibilite)
-        )
-        (PP 
-          (IN a+)
-          (NP 
-            (DT o)
-            (NN p�blico)
-          )
-        )
-        (NP 
-          (DT uma)
-          (NN compreens�o)
-          (ADJP 
-            (JJ direta)
-          )
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN gospel)
-              (,)
-              (NP 
-                (DT uma)
-                (NN m�sica)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NN palavras)
-                    (ADJP 
-                      (ADJP 
-                        (JJ simples)
-                      )
-                      (CC e)
-                      (ADJP 
-                        (JJ profundas)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-    (�)
-  )
-)
+(S (_CU_ (�)
+                       (VP (VP (VBP �))
+                                (NP (DT uma)
+                                       (NN obra)
+                                       (VP 
+                                         (NP 
+                                           (PRP que))
+                                         (VP 
+                                           (VBP fala))
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NN f�))))))
+                       (CC e)
+                       (VP (NP 
+                                  (PRP eu))
+                                (VP (VBP espero))
+                                (VP 
+                                  (IN que)
+                                  (VP (VBP possibilite))
+                                  (PP 
+                                    (IN a+)
+                                    (NP 
+                                      (DT o)
+                                      (NN p�blico)))
+                                  (NP 
+                                    (DT uma)
+                                    (NN compreens�o)
+                                    (ADJP 
+                                      (JJ direta))
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT o)
+                                        (NN gospel)
+                                        (,)
+                                        (NP 
+                                          (DT uma)
+                                          (NN m�sica)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN palavras)
+                                              (_CU_ 
+                                                (ADJP 
+                                                  (JJ simples))
+                                                (CC e)
+                                                (ADJP 
+                                                  (JJ profundas)))))))))))
+                       (.)
+                       (�)))

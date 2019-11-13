@@ -1,33 +1,15 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Lula)
-    )
-    (VP 
-      (VBP respondeu)
-    )
-    (NP 
-      (NN perguntas)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN p�blico)
-        )
-      )
-      (PP 
-        (IN sobre)
-        (NP 
-          (NP 
-            (NN sa�de)
-          )
-          (CC e)
-          (NP 
-            (NN cultura)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Lula))
+                        (VP (VBP respondeu))
+                        (NP (NN perguntas)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN p�blico)))
+                                (PP (IN sobre)
+                                       (_CU_ 
+                                         (NP 
+                                           (NN sa�de))
+                                         (CC e)
+                                         (NP 
+                                           (NN cultura)))))
+                        (.)))

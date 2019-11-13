@@ -1,38 +1,20 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN mudan�a)
-    )
-    (VP 
-      (VBP foi)
-      (VBN determinada)
-    )
-    (ADVP 
-      (RB como)
-      (NP 
-        (NN op��o)
-        (PP 
-          (IN de)
-          (NP 
-            (NP 
-              (NN retorno)
-            )
-            (CC ou)
-            (NP 
-              (NN acesso)
-              (PP 
-                (IN a+)
-                (NP 
-                  (DT a)
-                  (NNP avenida_Santo_Amaro)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN mudan�a))
+                        (VP (VBP foi)
+                              (VBN determinada))
+                        (ADVP (RB como)
+                                (NP (NN op��o)
+                                       (PP 
+                                         (IN de)
+                                         (_CU_ 
+                                           (NP 
+                                             (NN retorno))
+                                           (CC ou)
+                                           (NP 
+                                             (NN acesso)
+                                             (PP 
+                                               (IN a+)
+                                               (NP 
+                                                 (DT a)
+                                                 (NNP avenida_Santo_Amaro))))))))
+                        (.)))

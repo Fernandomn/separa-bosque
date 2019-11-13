@@ -1,77 +1,41 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN assessor)
-      (PP 
-        (IN de)
-        (NP 
-          (NN imprensa)
-        )
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP Minist�rio_da_Fazenda)
-        )
-      )
-      (,)
-      (NP 
-        (NNP S�rgio_Danese)
-      )
-      (,)
-    )
-    (VP 
-      (VBP disse)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT o)
-        (NN ministro)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NNP Fazenda)
-          )
-        )
-        (,)
-        (NP 
-          (NNP Rubens_Ric�pero)
-        )
-      )
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP iria)
-        (VB comentar)
-      )
-      (NP 
-        (DT o)
-        (NN assunto)
-      )
-      (VP 
-        (IN porque)
-        (ADVP 
-          (RB n�o)
-        )
-        (VP 
-          (VBP tinha)
-        )
-        (NP 
-          (NN informa��es)
-          (ADJP 
-            (JJ suficientes)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                               (NN assessor)
+                               (PP (IN de)
+                                      (NP 
+                                        (NN imprensa)))
+                               (PP (IN de+)
+                                      (NP 
+                                        (DT o)
+                                        (NNP Minist�rio_da_Fazenda)))
+                               (,)
+                               (NP (NNP S�rgio_Danese))
+                               (,))
+                      (VP (VBP disse))
+                      (ADVP (RB ontem))
+                      (VP (IN que)
+                               (NP (DT o)
+                                        (NN ministro)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NNP Fazenda)))
+                                        (,)
+                                        (NP 
+                                          (NNP Rubens_Ric�pero)))
+                               (ADVP 
+                                 (RB n�o))
+                               (VP (VBP iria)
+                                     (VB comentar))
+                               (NP (DT o)
+                                       (NN assunto))
+                               (VP 
+                                 (IN porque)
+                                 (ADVP 
+                                   (RB n�o))
+                                 (VP (VBP tinha))
+                                 (NP 
+                                   (NN informa��es)
+                                   (ADJP 
+                                     (JJ suficientes)))))
+                      (.)))

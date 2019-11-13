@@ -1,94 +1,57 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em)
-      (NP 
-        (NNP Miami)
-      )
-    )
-    (,)
-    (NP 
-      (CD duas)
-      (NN bombas)
-      (ADJP 
-        (JJ caseiras)
-      )
-      (-LCB-)
-      (NP 
-        (NN coquet�is)
-        (ADJP 
-          (JJ Molotov)
-        )
-      )
-      (-RCB-)
-    )
-    (VP 
-      (VBP foram)
-      (VBN encontradas)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (ADVP 
-      (RB em_frente)
-      (PP 
-        (IN a+)
-        (NP 
-          (DT a)
-          (NN revista)
-          (ADJP 
-            (JJ cubana)
-          )
-          (NP 
-            (�)
-            (NNP Replica)
-            (�)
-            (,)
-            (VP 
-              (NP 
-                (PRP que)
-              )
-              (VP 
-                (VBP ap�ia)
-              )
-              (NP 
-                (DT as)
-                (NN negocia��es)
-                (PP 
-                  (IN entre)
-                  (NP 
-                    (NP 
-                      (NNP Cuba)
-                    )
-                    (CC e)
-                    (NP 
-                      (NNP EUA)
-                    )
-                  )
-                )
-              )
-              (PP 
-                (IN para)
-                (VP 
-                  (VP 
-                    (VB tentar)
-                  )
-                  (VP 
-                    (VP 
-                      (VB resolver)
-                    )
-                    (NP 
-                      (DT a)
-                      (NN crise)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em)
+                                 (NP (NNP Miami)))
+                        (,)
+                        (NP (CD duas)
+                                 (NN bombas)
+                                 (ADJP 
+                                   (JJ caseiras))
+                                 (-LCB-)
+                                 (NP 
+                                   (NN coquet�is)
+                                   (ADJP 
+                                     (JJ Molotov)))
+                                 (-RCB-))
+                        (VP (VBP foram)
+                              (VBN encontradas))
+                        (ADVP (RB ontem))
+                        (ADVP (RB em_frente)
+                                   (PP 
+                                     (IN a+)
+                                     (NP 
+                                       (DT a)
+                                       (NN revista)
+                                       (ADJP 
+                                         (JJ cubana))
+                                       (NP 
+                                         (�)
+                                         (NNP Replica)
+                                         (�)
+                                         (,)
+                                         (VP 
+                                           (NP 
+                                             (PRP que))
+                                           (VP 
+                                             (VBP ap�ia))
+                                           (NP 
+                                             (DT as)
+                                             (NN negocia��es)
+                                             (PP 
+                                               (IN entre)
+                                               (_CU_ 
+                                                 (NP 
+                                                   (NNP Cuba))
+                                                 (CC e)
+                                                 (NP 
+                                                   (NNP EUA)))))
+                                           (PP 
+                                             (IN para)
+                                             (VP 
+                                               (VP 
+                                                 (VB tentar))
+                                               (VP 
+                                                 (VP 
+                                                   (VB resolver))
+                                                 (NP 
+                                                   (DT a)
+                                                   (NN crise))))))))))
+                        (.)))

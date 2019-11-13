@@ -1,43 +1,22 @@
-(S 
-  (VP 
-    (PP 
-      (IN Com)
-      (NP 
-        (NN mandados)
-        (PP 
-          (IN de)
-          (NP 
-            (NP 
-              (NN busca)
-            )
-            (CC e)
-            (NP 
-              (NN apreens�o)
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT os)
-      (NN homens)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Rota)
-        )
-      )
-    )
-    (VP 
-      (VBP invadiram)
-    )
-    (NP 
-      (DT os)
-      (CD tr�s)
-      (NN apartamentos)
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Com)
+                                 (NP (NN mandados)
+                                        (PP 
+                                          (IN de)
+                                          (_CU_ 
+                                            (NP 
+                                              (NN busca))
+                                            (CC e)
+                                            (NP 
+                                              (NN apreens�o))))))
+                        (,)
+                        (NP (DT os)
+                                 (NN homens)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP Rota))))
+                        (VP (VBP invadiram))
+                        (NP (DT os)
+                                (CD tr�s)
+                                (NN apartamentos))
+                        (.)))

@@ -1,44 +1,22 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Foi)
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT o)
-        (NN final)
-        (PP 
-          (IN de)
-          (NP 
-            (NP 
-              (CD um)
-              (NN ano)
-            )
-            (CC e)
-            (NP 
-              (CD tr�s)
-              (NN meses)
-            )
-          )
-        )
-      )
-    )
-    (ADVP 
-      (RB que)
-    )
-    (NP 
-      (DT o)
-      (NN prefeito)
-    )
-    (VP 
-      (VBP teve)
-    )
-    (NP 
-      (PRP sua)
-      (JJ melhor)
-      (NN avalia��o)
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Foi))
+                        (PP (IN a+)
+                                 (NP (DT o)
+                                        (NN final)
+                                        (PP 
+                                          (IN de)
+                                          (_CU_ 
+                                            (NP 
+                                              (CD um)
+                                              (NN ano))
+                                            (CC e)
+                                            (NP 
+                                              (CD tr�s)
+                                              (NN meses))))))
+                        (ADVP (RB que))
+                        (NP (DT o)
+                                 (NN prefeito))
+                        (VP (VBP teve))
+                        (NP (PRP sua)
+                                (JJ melhor)
+                                (NN avalia��o))
+                        (.)))

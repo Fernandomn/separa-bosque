@@ -1,51 +1,27 @@
-(S 
-  (NP 
-    (NN Testes)
-    (ADJP 
-      (ADJP 
-        (JJ peri�dicos)
-      )
-      (CC e)
-      (ADJP 
-        (JJ aleat�rios)
-      )
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (NN funcion�rios)
-        (,)
-        (PP 
-          (RB principalmente)
-          (IN com)
-          (NP 
-            (PRP os)
-            (VP 
-              (NP 
-                (PRP que)
-              )
-              (VP 
-                (VBP exercem)
-              )
-              (NP 
-                (NN fun��es)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NP 
-                      (NN risco)
-                    )
-                    (CC e)
-                    (NP 
-                      (NN confian�a)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-  )
-)
+(S (NP (NN Testes)
+                       (_CU_ (ADJP (JJ peri�dicos))
+                              (CC e)
+                              (ADJP (JJ aleat�rios)))
+                       (PP (IN com)
+                              (NP (NN funcion�rios)
+                                     (,)
+                                     (PP 
+                                       (RB principalmente)
+                                       (IN com)
+                                       (NP 
+                                         (PRP os)
+                                         (VP 
+                                           (NP 
+                                             (PRP que))
+                                           (VP 
+                                             (VBP exercem))
+                                           (NP 
+                                             (NN fun��es)
+                                             (PP 
+                                               (IN de)
+                                               (_CU_ 
+                                                 (NP 
+                                                   (NN risco))
+                                                 (CC e)
+                                                 (NP 
+                                                   (NN confian�a))))))))))))

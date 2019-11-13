@@ -1,81 +1,49 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Antes)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (JJ urgente)
-          (NN reforma)
-          (ADJP 
-            (JJ constitucional)
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN extens�o)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN desonera��o)
-          (ADJP 
-            (JJ tribut�ria)
-          )
-          (PP 
-            (IN de+)
-            (NP 
-              (DT as)
-              (NN exporta��es)
-              (PP 
-                (IN para)
-                (NP 
-                  (PRP todas)
-                  (DT as)
-                  (NN etapas)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NN cadeia)
-                      (ADJP 
-                        (JJ produtiva)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP enfrenta)
-    )
-    (NP 
-      (NN dificuldades)
-      (ADJP 
-        (JJ operacionais)
-      )
-      (ADJP 
-        (JJ insuper�veis)
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (NN �mbito)
-        (ADJP 
-          (JJ federal)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Antes)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT a)
+                                       (JJ urgente)
+                                       (NN reforma)
+                                       (ADJP 
+                                         (JJ constitucional)))))
+                        (,)
+                        (NP (DT a)
+                                 (NN extens�o)
+                                 (PP 
+                                   (IN de+)
+                                   (NP 
+                                     (DT a)
+                                     (NN desonera��o)
+                                     (ADJP 
+                                       (JJ tribut�ria))
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT as)
+                                         (NN exporta��es)
+                                         (PP 
+                                           (IN para)
+                                           (NP 
+                                             (PRP todas)
+                                             (DT as)
+                                             (NN etapas)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT a)
+                                                 (NN cadeia)
+                                                 (ADJP 
+                                                   (JJ produtiva)))))))))))
+                        (VP (VBP enfrenta))
+                        (NP (NN dificuldades)
+                                (ADJP 
+                                  (JJ operacionais))
+                                (ADJP 
+                                  (JJ insuper�veis)))
+                        (PP (IN em+)
+                                 (NP (DT o)
+                                        (NN �mbito)
+                                        (ADJP 
+                                          (JJ federal))))
+                        (.)))

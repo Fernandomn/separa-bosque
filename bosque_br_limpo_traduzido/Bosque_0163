@@ -1,28 +1,14 @@
-(S 
-  (VP 
-    (NP 
-      (NP Ex-pastor)
-      (VP 
-        (VP 
-          (VBN acusado)
-        )
-        (PP 
-          (IN de)
-          (NP 
-            (NP 
-              (NN estupro)
-            )
-            (CC e)
-            (NP 
-              (NN morte)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP �)
-      (VBN preso)
-    )
-  )
-)
+(S (VP (NP (_EC_ Ex-)
+                                (NN pastor)
+                                (VP (VP 
+                                          (VBN acusado))
+                                        (PP 
+                                          (IN de)
+                                          (_CU_ 
+                                            (NP 
+                                              (NN estupro))
+                                            (CC e)
+                                            (NP 
+                                              (NN morte))))))
+                       (VP (VBP �)
+                             (VBN preso))))

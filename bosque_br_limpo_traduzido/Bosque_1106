@@ -1,48 +1,26 @@
-(S 
-  (VP 
-    (NP 
-      (NN Metade)
-      (PP 
-        (IN de+)
-        (NP 
-          (NP 
-            (DT os)
-            (NN Estados)
-          )
-          (CC e)
-          (NP 
-            (NN munic�pios)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN pa�s)
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP �)
-    )
-    (ADJP 
-      (ADJP 
-        (JJ federativa)
-      )
-      (CC e)
-      (ADJP 
-        (RB economicamente)
-        (JJ invi�vel)
-      )
-    )
-    (,)
-    (PP 
-      (IN segundo)
-      (NP 
-        (NNP Asp�sia_Camargo)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN Metade)
+                                 (PP 
+                                   (IN de+)
+                                   (_CU_ 
+                                     (NP 
+                                       (DT os)
+                                       (NN Estados))
+                                     (CC e)
+                                     (NP 
+                                       (NN munic�pios)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT o)
+                                           (NN pa�s)))))))
+                        (VP (VBP �))
+                        (_CU_ (ADJP 
+                                 (JJ federativa))
+                               (CC e)
+                               (ADJP 
+                                 (RB economicamente)
+                                 (JJ invi�vel)))
+                        (,)
+                        (PP (IN segundo)
+                                 (NP (NNP Asp�sia_Camargo)))
+                        (.)))

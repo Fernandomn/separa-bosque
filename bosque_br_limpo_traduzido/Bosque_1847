@@ -1,125 +1,79 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (DT O)
-        (NN modo)
-        (PP 
-          (IN de)
-          (VB escapar)
-        )
-      )
-    )
-    (VP 
-      (VBP disse)
-    )
-    (VP 
-      (VP 
-        (VBP �)
-      )
-      (ADJP 
-        (JJ simples)
-        (;)
-        (UCP 
-          (VP 
-            (VP 
-              (VBP aplica-)
-            )
-            (NP 
-              (PRP se)
-            )
-            (NP 
-              (DT um)
-              (NN reajuste)
-              (PP 
-                (IN de)
-              )
-              (,)
-              (VP 
-                (VP 
-                  (VBP digamos)
-                )
-              )
-              (,)
-            )
-            (NP 
-              (NP 
-                (CD 40)
-                (NN %)
-              )
-            )
-          )
-          (;)
-          (VP 
-            (ADVP 
-              (RB em_seguida)
-            )
-            (,)
-            (VP 
-              (VBP avalia-)
-            )
-            (NP 
-              (PRP se)
-            )
-            (VP 
-              (NP 
-                (PRP qual)
-              )
-              (NP 
-                (DT a)
-                (NN infla��o)
-                (ADJP 
-                  (JJ di�ria)
-                )
-                (,)
-                (VP 
-                  (VP 
-                    (VBP digamos)
-                  )
-                  (PP 
-                    (IN de)
-                    (NP 
-                      (CD 1,5)
-                      (NN %)
-                    )
-                  )
-                )
-                (,)
-              )
-            )
-          )
-          (CC e)
-          (VP 
-            (ADVP 
-              (RB a�)
-            )
-            (NP 
-              (PRP se)
-            )
-            (VP 
-              (VBP aplica)
-            )
-            (PP 
-              (IN a+)
-              (NP 
-                (DT o)
-                (NN pre�o)
-                (ADJP 
-                  (JJ cheio)
-                )
-              )
-            )
-            (NP 
-              (DT um)
-              (NN desconto)
-              (ADJP 
-                (JJ decrescente)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (NP 
+                                    (DT O)
+                                    (NN modo)
+                                    (PP 
+                                      (IN de)
+                                      (VB escapar))))
+                        (VP (VBP disse))
+                        (VP (VP (VBP �))
+                                  (ADJP 
+                                    (JJ simples)
+                                    (;)
+                                    (_CU_ 
+                                      (VP 
+                                        (VP 
+                                          (VBP aplica-))
+                                        (NP 
+                                          (PRP se))
+                                        (NP 
+                                          (DT um)
+                                          (NN reajuste)
+                                          (PP 
+                                            (IN de))
+                                          (,)
+                                          (VP 
+                                            (VP 
+                                              (VBP digamos)))
+                                          (,))
+                                        (NP 
+                                          (NP 
+                                            (CD 40)
+                                            (NN %))))
+                                      (;)
+                                      (VP 
+                                        (ADVP 
+                                          (RB em_seguida))
+                                        (,)
+                                        (VP 
+                                          (VBP avalia-))
+                                        (NP 
+                                          (PRP se))
+                                        (VP 
+                                          (NP 
+                                            (PRP qual))
+                                          (NP 
+                                            (DT a)
+                                            (NN infla��o)
+                                            (ADJP 
+                                              (JJ di�ria))
+                                            (,)
+                                            (VP 
+                                              (VP 
+                                                (VBP digamos))
+                                              (PP 
+                                                (IN de)
+                                                (NP 
+                                                  (CD 1,5)
+                                                  (NN %))))
+                                            (,))))
+                                      (CC e)
+                                      (VP 
+                                        (ADVP 
+                                          (RB a�))
+                                        (NP 
+                                          (PRP se))
+                                        (VP 
+                                          (VBP aplica))
+                                        (PP 
+                                          (IN a+)
+                                          (NP 
+                                            (DT o)
+                                            (NN pre�o)
+                                            (ADJP 
+                                              (JJ cheio))))
+                                        (NP 
+                                          (DT um)
+                                          (NN desconto)
+                                          (ADJP 
+                                            (JJ decrescente)))))))
+                        (.)))

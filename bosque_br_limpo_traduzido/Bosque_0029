@@ -1,76 +1,41 @@
-(S 
-  (VP 
-    (VP 
-      (IN Como)
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP houve)
-      )
-      (NP 
-        (NN acordo)
-        (PP 
-          (IN entre)
-          (NP 
-            (NP 
-              (NN governo)
-            )
-            (CC e)
-            (NP 
-              (NN tribunal)
-            )
-          )
-        )
-        (PP 
-          (IN quanto_a+)
-          (NP 
-            (DT o)
-            (NN volume)
-            (PP 
-              (IN de)
-              (NP 
-                (NN recursos)
-              )
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN dota��o)
-    )
-    (VP 
-      (VBP foi)
-      (VBN inclu�da)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NN reserva)
-        (PP 
-          (IN de)
-          (NP 
-            (NN conting�ncia)
-          )
-        )
-      )
-    )
-    (PP 
-      (IN sem)
-      (NP 
-        (NN especifica��o)
-        (PP 
-          (IN de)
-          (NP 
-            (NN despesa)
-          )
-        )
-      )
-      (.)
-    )
-  )
-)
+(S (VP (VP (IN Como)
+                                (ADVP 
+                                  (RB n�o))
+                                (VP (VBP houve))
+                                (NP (NN acordo)
+                                        (PP 
+                                          (IN entre)
+                                          (_CU_ 
+                                            (NP 
+                                              (NN governo))
+                                            (CC e)
+                                            (NP 
+                                              (NN tribunal))))
+                                        (PP 
+                                          (IN quanto_a+)
+                                          (NP 
+                                            (DT o)
+                                            (NN volume)
+                                            (PP 
+                                              (IN de)
+                                              (NP 
+                                                (NN recursos)))))))
+                      (,)
+                      (NP (DT a)
+                               (NN dota��o))
+                      (VP (VBP foi)
+                            (VBN inclu�da))
+                      (PP (IN em+)
+                               (NP (DT a)
+                                      (NN reserva)
+                                      (PP 
+                                        (IN de)
+                                        (NP 
+                                          (NN conting�ncia)))))
+                      (PP (IN sem)
+                               (NP (NN especifica��o)
+                                      (PP 
+                                        (IN de)
+                                        (NP 
+                                          (NN despesa))))
+                               (.))))

@@ -1,57 +1,33 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN deputados)
-      (ADJP 
-        (JJ petistas)
-      )
-      (NP 
-        (NP 
-          (NNP Luiz_Gushiken)
-          (-LCB-)
-          (ADJP 
-            (JJ federal)
-          )
-          (-RCB-)
-        )
-        (CC e)
-        (NP 
-          (NNP Luiz_Azevedo)
-          (-LCB-)
-          (ADJP 
-            (JJ estadual)
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (VP 
-      (VBP pedem)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT o)
-        (NNP Minist�rio_P�blico)
-        (ADJP 
-          (JJ estadual)
-        )
-      )
-      (VP 
-        (VBP reabra)
-      )
-      (NP 
-        (NN processo)
-        (PP 
-          (IN sobre)
-          (NP 
-            (DT as)
-            (NN importa��es)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN deputados)
+                                 (ADJP 
+                                   (JJ petistas))
+                                 (_CU_ (NP 
+                                          (NNP Luiz_Gushiken)
+                                          (-LCB-)
+                                          (ADJP 
+                                            (JJ federal))
+                                          (-RCB-))
+                                        (CC e)
+                                        (NP 
+                                          (NNP Luiz_Azevedo)
+                                          (-LCB-)
+                                          (ADJP 
+                                            (JJ estadual))
+                                          (-RCB-))))
+                        (VP (VBP pedem))
+                        (VP (IN que)
+                                 (NP 
+                                   (DT o)
+                                   (NNP Minist�rio_P�blico)
+                                   (ADJP 
+                                     (JJ estadual)))
+                                 (VP (VBP reabra))
+                                 (NP 
+                                   (NN processo)
+                                   (PP 
+                                     (IN sobre)
+                                     (NP 
+                                       (DT as)
+                                       (NN importa��es)))))
+                        (.)))

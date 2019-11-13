@@ -1,65 +1,36 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN t�cnico)
-      (NP 
-        (NNP Carlos_Alberto_Parreira)
-      )
-    )
-    (VP 
-      (VBP afirmou)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT a)
-        (NN sele��o)
-        (ADJP 
-          (JJ brasileira)
-        )
-      )
-      (VP 
-        (VBP precisar�)
-      )
-      (VP 
-        (VP 
-          (VB tocar)
-        )
-        (ADVP 
-          (RB mais)
-        )
-        (NP 
-          (DT a)
-          (NN bola)
-        )
-        (PP 
-          (IN contra)
-          (NP 
-            (DT um)
-            (NN advers�rio)
-            (VP 
-              (NP 
-                (PRP que)
-              )
-              (NP 
-                (PRP ele)
-              )
-              (VP 
-                (VBP prev�)
-              )
-              (ADJP 
-                (RB muito)
-                (JJ defensivo)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN t�cnico)
+                                 (NP (NNP Carlos_Alberto_Parreira)))
+                        (VP (VBP afirmou))
+                        (ADVP (RB ontem))
+                        (VP (IN que)
+                                 (NP 
+                                   (DT a)
+                                   (NN sele��o)
+                                   (ADJP 
+                                     (JJ brasileira)))
+                                 (VP (VBP precisar�))
+                                 (VP 
+                                   (VP 
+                                     (VB tocar))
+                                   (ADVP 
+                                     (RB mais))
+                                   (NP 
+                                     (DT a)
+                                     (NN bola))
+                                   (PP 
+                                     (IN contra)
+                                     (NP 
+                                       (DT um)
+                                       (NN advers�rio)
+                                       (VP 
+                                         (NP 
+                                           (PRP que))
+                                         (NP 
+                                           (PRP ele))
+                                         (VP 
+                                           (VBP prev�))
+                                         (ADJP 
+                                           (RB muito)
+                                           (JJ defensivo)))))))
+                        (.)))

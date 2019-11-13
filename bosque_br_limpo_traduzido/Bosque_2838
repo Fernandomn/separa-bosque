@@ -1,124 +1,80 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Pode-)
-    )
-    (NP 
-      (PRP se)
-    )
-    (VP 
-      (VB dizer)
-    )
-    (,)
-    (PP 
-      (PP 
-        (IN em)
-        (NP 
-          (PRP outras)
-          (NN palavras)
-        )
-      )
-      (,)
-      (CC e)
-      (PP 
-        (IN a)
-        (NP 
-          (�)
-          (JJ grosso)
-          (NN modo)
-          (�)
-        )
-      )
-    )
-    (,)
-    (VP 
-      (IN que)
-      (NP 
-        (DT o)
-        (NN aluguel)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (JJ primeiro)
-            (NN m�s)
-            (PP 
-              (IN de)
-              (NP 
-                (NN reajuste)
-              )
-            )
-          )
-        )
-      )
-      (ADVP 
-        (RB sempre)
-      )
-      (VP 
-        (VBP embute)
-      )
-      (-LCB-)
-      (PP 
-        (IN por)
-        (NP 
-          (NN estimativa)
-        )
-      )
-      (-RCB-)
-      (NP 
-        (DT uma)
-        (NN infla��o)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP reduzir�)
-          )
-          (NP 
-            (DT o)
-            (NN aluguel)
-            (ADJP 
-              (JJ nominal)
-            )
-          )
-          (PP 
-            (IN a+)
-            (NP 
-              (DT o)
-              (PRP seu)
-              (NN valor)
-              (ADJP 
-                (JJ real)
-              )
-            )
-          )
-          (PP 
-            (IN em+)
-            (NP 
-              (DT a)
-              (NN metade)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NN per�odo)
-                  (PP 
-                    (IN de)
-                    (NP 
-                      (NN reajuste)
-                      (ADJP 
-                        (JJ subsequente)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Pode-))
+                        (NP (PRP se))
+                        (VP (VB dizer))
+                        (,)
+                        (_CU_ (PP 
+                                   (IN em)
+                                   (NP 
+                                     (PRP outras)
+                                     (NN palavras)))
+                                 (,)
+                                 (CC e)
+                                 (PP 
+                                   (IN a)
+                                   (NP 
+                                     (�)
+                                     (JJ grosso)
+                                     (NN modo)
+                                     (�))))
+                        (,)
+                        (VP (IN que)
+                                 (NP 
+                                   (DT o)
+                                   (NN aluguel)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT o)
+                                       (JJ primeiro)
+                                       (NN m�s)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN reajuste))))))
+                                 (ADVP 
+                                   (RB sempre))
+                                 (VP (VBP embute))
+                                 (-LCB-)
+                                 (PP 
+                                   (IN por)
+                                   (NP 
+                                     (NN estimativa)))
+                                 (-RCB-)
+                                 (NP 
+                                   (DT uma)
+                                   (NN infla��o)
+                                   (VP 
+                                     (NP 
+                                       (PRP que))
+                                     (VP 
+                                       (VBP reduzir�))
+                                     (NP 
+                                       (DT o)
+                                       (NN aluguel)
+                                       (ADJP 
+                                         (JJ nominal)))
+                                     (PP 
+                                       (IN a+)
+                                       (NP 
+                                         (DT o)
+                                         (PRP seu)
+                                         (NN valor)
+                                         (ADJP 
+                                           (JJ real))))
+                                     (PP 
+                                       (IN em+)
+                                       (NP 
+                                         (DT a)
+                                         (NN metade)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT o)
+                                             (NN per�odo)
+                                             (PP 
+                                               (IN de)
+                                               (NP 
+                                                 (NN reajuste)
+                                                 (ADJP 
+                                                   (JJ subsequente)))))))))))
+                        (.)))

@@ -1,25 +1,10 @@
-(S 
-  (VP 
-    (NP 
-      (NN M�dia)
-    )
-    (VP 
-      (VBP �)
-    )
-    (PP 
-      (IN de)
-      (NP 
-        (CD 4)
-        (UCP 
-          (NP 
-            (NN passageiros)
-          )
-          (IN $/)
-          (NP 
-            (NN viagem)
-          )
-        )
-      )
-    )
-  )
-)
+(S (VP (NP (NN M�dia))
+                        (VP (VBP �))
+                        (PP (IN de)
+                               (NP (CD 4)
+                                      (_CU_ 
+                                        (NP 
+                                          (NN passageiros))
+                                        (IN $/)
+                                        (NP 
+                                          (NN viagem)))))))

@@ -1,82 +1,53 @@
-(S 
-  (VP 
-    (VP 
-      (�)
-      (NP 
-        (DT O)
-        (NN aumento)
-        (PP 
-          (IN em+)
-          (NP 
-            (DT a)
-            (NN arrecada��o)
-          )
-        )
-      )
-      (VP 
-        (VBP possibilitou)
-      )
-      (VP 
-        (IN que)
-        (,)
-        (ADVP 
-          (RB depois)
-          (PP 
-            (IN de)
-            (NP 
-              (CD 30)
-              (NN anos)
-            )
-          )
-        )
-        (,)
-        (NP 
-          (DT a)
-          (NN prefeitura)
-        )
-        (VP 
-          (VBP pudesse)
-          (VB comprar)
-        )
-        (NP 
-          (NP 
-            (CD tr�s)
-            (NN caminh�es)
-          )
-          (,)
-          (NP 
-            (DT um)
-            (NN �nibus)
-          )
-          (CC e)
-          (NP 
-            (DT um)
-            (NN trator)
-          )
-        )
-      )
-      (�)
-    )
-    (,)
-    (VP 
-      (VBP disse)
-    )
-    (NP 
-      (DT o)
-      (NN prefeito)
-      (NP 
-        (NNP Fausto_Camper)
-      )
-      (,)
-      (ADJP 
-        (CD 43)
-        (-LCB-)
-        (NP 
-          (NNP PMDB)
-        )
-        (-RCB-)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (�)
+                                 (NP 
+                                   (DT O)
+                                   (NN aumento)
+                                   (PP 
+                                     (IN em+)
+                                     (NP 
+                                       (DT a)
+                                       (NN arrecada��o))))
+                                 (VP (VBP possibilitou))
+                                 (VP 
+                                   (IN que)
+                                   (,)
+                                   (ADVP 
+                                     (RB depois)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (CD 30)
+                                         (NN anos))))
+                                   (,)
+                                   (NP 
+                                     (DT a)
+                                     (NN prefeitura))
+                                   (VP 
+                                     (VBP pudesse)
+                                     (VB comprar))
+                                   (_CU_ 
+                                     (NP 
+                                       (CD tr�s)
+                                       (NN caminh�es))
+                                     (,)
+                                     (NP 
+                                       (DT um)
+                                       (NN �nibus))
+                                     (CC e)
+                                     (NP 
+                                       (DT um)
+                                       (NN trator))))
+                                 (�))
+                        (,)
+                        (VP (VBP disse))
+                        (NP (DT o)
+                                 (NN prefeito)
+                                 (NP (NNP Fausto_Camper))
+                                 (,)
+                                 (ADJP 
+                                   (CD 43)
+                                   (-LCB-)
+                                   (NP 
+                                     (NNP PMDB))
+                                   (-RCB-)))
+                        (.)))

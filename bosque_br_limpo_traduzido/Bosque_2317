@@ -1,56 +1,27 @@
-(S 
-  (ADVP 
-    (ADVP 
-      (RB �)
-    )
-    (ADVP 
-      (RB particularmente)
-    )
-    (UCP 
-      (PP 
-        (IN a)
-        (NP 
-          (PRP estes)
-        )
-      )
-      (ADVP 
-        (RB bem_como)
-      )
-      (PP 
-        (IN a)
-        (NP 
-          (PRP toda)
-          (DT a)
-          (NN sociedade)
-        )
-      )
-    )
-    (ADVP 
-      (RB que)
-    )
-    (VP 
-      (VBP interessa)
-    )
-    (NP 
-      (DT a)
-      (NN apura��o)
-      (ADJP 
-        (ADJP 
-          (JJ completa)
-        )
-        (CC e)
-        (ADJP 
-          (JJ rigorosa)
-        )
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NN massacres)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (ADVP (ADVP (RB �))
+                        (ADVP (RB particularmente))
+                        (_CU_ (PP (IN a)
+                                        (NP 
+                                          (PRP estes)))
+                                (ADVP 
+                                  (RB bem_como))
+                                (PP (IN a)
+                                        (NP 
+                                          (PRP toda)
+                                          (DT a)
+                                          (NN sociedade))))
+                        (ADVP (RB que))
+                        (VP (VBP interessa))
+                        (NP (DT a)
+                                 (NN apura��o)
+                                 (_CU_ (ADJP 
+                                          (JJ completa))
+                                        (CC e)
+                                        (ADJP 
+                                          (JJ rigorosa)))
+                                 (PP 
+                                   (IN de+)
+                                   (NP 
+                                     (DT os)
+                                     (NN massacres))))
+                        (.)))

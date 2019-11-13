@@ -1,156 +1,98 @@
-(S 
-  (UCP 
-    (CC Mas)
-    (VP 
-      (NP 
-        (DT a)
-        (NN roubalheira)
-      )
-      (VP 
-        (VBP �)
-      )
-      (NP 
-        (RB apenas)
-        (DT a)
-        (NN ponta)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (�)
-            (NN lama�al)
-            (�)
-          )
-        )
-      )
-    )
-    (;)
-    (VP 
-      (NP 
-        (DT o)
-        (NN problema)
-        (ADJP 
-          (JJ essencial)
-        )
-        (,)
-        (NP 
-          (DT a)
-          (JJ grande)
-          (NN delinqu�ncia)
-        )
-        (,)
-      )
-      (VP 
-        (VBP �)
-      )
-      (NP 
-        (DT a)
-        (JJ baixa)
-        (NN taxa)
-        (PP 
-          (IN de)
-          (NP 
-            (NP 
-              (NP 
-                (NN seriedade)
-              )
-              (CC e)
-              (NP 
-                (NN compromisso)
-              )
-            )
-            (PP 
-              (IN de+)
-              (NP 
-                (DT os)
-                (NN homens)
-                (ADJP 
-                  (JJ p�blicos)
-                )
-              )
-            )
-          )
-        )
-        (,)
-        (ADJP 
-          (JJ respons�vel)
-          (PP 
-            (IN por)
-            (VP 
-              (VP 
-                (VB estarmos)
-              )
-              (VP 
-                (VP 
-                  (VBN atolados)
-                )
-                (PP 
-                  (IN em)
-                  (NP 
-                    (NN n�veis)
-                    (ADJP 
-                      (RB jamais)
-                      (JJ vistos)
-                    )
-                    (PP 
-                      (IN de)
-                      (NP 
-                        (NP 
-                          (NN mis�ria)
-                        )
-                        (CC e)
-                        (NP 
-                          (NN viol�ncia)
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (CC e)
-    (VP 
-      (,)
-      (VP 
-        (IN como)
-        (VP 
-          (VBP diz)
-        )
-        (NP 
-          (DT o)
-          (NN salmo)
-        )
-      )
-      (,)
-      (VP 
-        (VBP �)
-      )
-      (ADVP 
-        (RB a�)
-      )
-      (VP 
-        (IN que)
-        (�)
-        (ADVP 
-          (RB n�o)
-        )
-        (NP 
-          (PRP se)
-        )
-        (VP 
-          (VBP pode)
-          (VB estar)
-        )
-        (ADVP 
-          (RB em_p�)
-        )
-        (�)
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (CC Mas)
+                       (VP (NP 
+                                  (DT a)
+                                  (NN roubalheira))
+                                (VP (VBP �))
+                                (NP (RB apenas)
+                                       (DT a)
+                                       (NN ponta)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT o)
+                                           (�)
+                                           (NN lama�al)
+                                           (�)))))
+                       (;)
+                       (VP (NP 
+                                  (DT o)
+                                  (NN problema)
+                                  (ADJP 
+                                    (JJ essencial))
+                                  (,)
+                                  (NP 
+                                    (DT a)
+                                    (JJ grande)
+                                    (NN delinqu�ncia))
+                                  (,))
+                                (VP (VBP �))
+                                (NP (DT a)
+                                       (JJ baixa)
+                                       (NN taxa)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (_CU_ 
+                                             (NP 
+                                               (NN seriedade))
+                                             (CC e)
+                                             (NP 
+                                               (NN compromisso)))
+                                           (PP 
+                                             (IN de+)
+                                             (NP 
+                                               (DT os)
+                                               (NN homens)
+                                               (ADJP 
+                                                 (JJ p�blicos))))))
+                                       (,)
+                                       (ADJP 
+                                         (JJ respons�vel)
+                                         (PP 
+                                           (IN por)
+                                           (VP 
+                                             (VP 
+                                               (VB estarmos))
+                                             (VP 
+                                               (VP 
+                                                 (VBN atolados))
+                                               (PP 
+                                                 (IN em)
+                                                 (NP 
+                                                   (NN n�veis)
+                                                   (ADJP 
+                                                     (RB jamais)
+                                                     (JJ vistos))
+                                                   (PP 
+                                                     (IN de)
+                                                     (_CU_ 
+                                                       (NP 
+                                                         (NN mis�ria))
+                                                       (CC e)
+                                                       (NP 
+                                                         (NN viol�ncia))))))))))))
+                       (CC e)
+                       (VP (,)
+                                (VP 
+                                  (IN como)
+                                  (VP (VBP diz))
+                                  (NP 
+                                    (DT o)
+                                    (NN salmo)))
+                                (,)
+                                (VP (VBP �))
+                                (ADVP 
+                                  (RB a�))
+                                (VP 
+                                  (IN que)
+                                  (�)
+                                  (ADVP 
+                                    (RB n�o))
+                                  (NP 
+                                    (PRP se))
+                                  (VP (VBP pode)
+                                        (VB estar))
+                                  (ADVP 
+                                    (RB em_p�))
+                                  (�)))
+                       (.)))

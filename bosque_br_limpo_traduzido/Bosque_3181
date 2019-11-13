@@ -1,35 +1,14 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em)
-      (NP 
-        (NNP Mato_Grosso)
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN paralisa��o)
-    )
-    (VP 
-      (VBP est�)
-    )
-    (VP 
-      (VP 
-        (VBN prevista)
-      )
-      (PP 
-        (IN para)
-        (VP 
-          (VP 
-            (VB come�ar)
-          )
-          (ADVP 
-            (RB hoje)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em)
+                                 (NP (NNP Mato_Grosso)))
+                        (,)
+                        (NP (DT a)
+                                 (NN paralisa��o))
+                        (VP (VBP est�))
+                        (VP (VP (VBN prevista))
+                                (PP (IN para)
+                                        (VP 
+                                          (VP 
+                                            (VB come�ar))
+                                          (ADVP 
+                                            (RB hoje)))))
+                        (.)))

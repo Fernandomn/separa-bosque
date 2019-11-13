@@ -1,35 +1,15 @@
-(S 
-  (VP 
-    (NP 
-      (NN Viagem)
-    )
-    (ADVP 
-      (RB s�)
-    )
-    (VP 
-      (VBP �)
-    )
-    (ADJP 
-      (JJ vi�vel)
-    )
-    (PP 
-      (IN entre)
-      (NP 
-        (DT os)
-        (NN meses)
-        (PP 
-          (IN de)
-          (NP 
-            (NP 
-              (NN fevereiro)
-            )
-            (CC e)
-            (NP 
-              (NN abril)
-            )
-          )
-        )
-      )
-    )
-  )
-)
+(S (VP (NP (NN Viagem))
+                        (ADVP (RB s�))
+                        (VP (VBP �))
+                        (ADJP (JJ vi�vel))
+                        (PP (IN entre)
+                                 (NP (DT os)
+                                        (NN meses)
+                                        (PP 
+                                          (IN de)
+                                          (_CU_ 
+                                            (NP 
+                                              (NN fevereiro))
+                                            (CC e)
+                                            (NP 
+                                              (NN abril))))))))

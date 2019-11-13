@@ -1,61 +1,37 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (PRP Cada)
-        (NN hesita��o)
-      )
-      (,)
-      (NP 
-        (PRP cada)
-        (NN sil�ncio)
-      )
-      (,)
-      (NP 
-        (PRP cada)
-        (NN desvio)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN olhar)
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP era)
-    )
-    (NP 
-      (DT um)
-      (NN ganho)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT a)
-          (NN contabilidade)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN sublime)
-              (VP 
-                (NP 
-                  (PRP que)
-                )
-                (NP 
-                  (DT o)
-                  (NN diretor-autor)
-                )
-                (VP 
-                  (VBP planejava)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (NP 
+                                   (PRP Cada)
+                                   (NN hesita��o))
+                                 (,)
+                                 (NP 
+                                   (PRP cada)
+                                   (NN sil�ncio))
+                                 (,)
+                                 (NP 
+                                   (PRP cada)
+                                   (NN desvio)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT o)
+                                       (NN olhar)))))
+                        (VP (VBP era))
+                        (NP (DT um)
+                               (NN ganho)
+                               (PP (IN em+)
+                                      (NP 
+                                        (DT a)
+                                        (NN contabilidade)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN sublime)
+                                            (VP 
+                                              (NP 
+                                                (PRP que))
+                                              (NP 
+                                                (DT o)
+                                                (NN diretor-autor))
+                                              (VP 
+                                                (VBP planejava))))))))
+                        (.)))

@@ -1,78 +1,49 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN crise)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT o)
-          (NNP M�xico)
-        )
-      )
-    )
-    (VP 
-      (VBP deve)
-      (VB fazer)
-    )
-    (PP 
-      (IN com)
-      (VP 
-        (IN que)
-        (NP 
-          (PRP todos)
-          (DT os)
-          (NN pa�ses)
-          (ADJP 
-            (JJ emergentes)
-          )
-        )
-        (VP 
-          (VBP recebam)
-        )
-        (NP 
-          (DT um)
-          (JJ menor)
-          (NN volume)
-          (PP 
-            (IN de)
-            (NP 
-              (NN capitais)
-              (ADJP 
-                (JJ externos)
-              )
-              (PP 
-                (IN de)
-                (NP 
-                  (NN renda)
-                  (ADJP 
-                    (JJ fixa)
-                  )
-                )
-              )
-              (-LCB-)
-              (VP 
-                (VP 
-                  (VBN aplicados)
-                )
-                (,)
-                (ADVP 
-                  (RB por_exemplo)
-                )
-                (,)
-                (PP 
-                  (IN em)
-                  (NP 
-                    (NN eurob�nus)
-                  )
-                )
-              )
-              (-RCB-)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN crise)
+                                 (PP (IN em+)
+                                        (NP 
+                                          (DT o)
+                                          (NNP M�xico))))
+                        (VP (VBP deve)
+                              (VB fazer))
+                        (PP (IN com)
+                                 (VP 
+                                   (IN que)
+                                   (NP 
+                                     (PRP todos)
+                                     (DT os)
+                                     (NN pa�ses)
+                                     (ADJP 
+                                       (JJ emergentes)))
+                                   (VP 
+                                     (VBP recebam))
+                                   (NP 
+                                     (DT um)
+                                     (JJ menor)
+                                     (NN volume)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NN capitais)
+                                         (ADJP 
+                                           (JJ externos))
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NN renda)
+                                             (ADJP 
+                                               (JJ fixa))))
+                                         (-LCB-)
+                                         (VP 
+                                           (VP 
+                                             (VBN aplicados))
+                                           (,)
+                                           (ADVP 
+                                             (RB por_exemplo))
+                                           (,)
+                                           (PP 
+                                             (IN em)
+                                             (NP 
+                                               (NN eurob�nus))))
+                                         (-RCB-))))))
+                        (.)))

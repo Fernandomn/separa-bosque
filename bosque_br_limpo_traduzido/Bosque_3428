@@ -1,33 +1,17 @@
-(S 
-  (PP 
-    (ADJP 
-      (JJ I)
-    )
-    (--)
-    (IN em+)
-    (NP 
-      (NP 
-        (DT os)
-        (NN pre�os)
-        (ADJP 
-          (JJ p�blicos)
-        )
-      )
-      (CC e)
-      (NP 
-        (NN tarifas)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT os)
-            (NN servi�os)
-            (ADJP 
-              (JJ p�blicos)
-            )
-          )
-        )
-      )
-    )
-    (;)
-  )
-)
+(S (PP (ADJP (JJ I))
+                       (--)
+                       (IN em+)
+                       (_CU_ (NP (DT os)
+                                      (NN pre�os)
+                                      (ADJP 
+                                        (JJ p�blicos)))
+                              (CC e)
+                              (NP (NN tarifas)
+                                      (PP 
+                                        (IN de+)
+                                        (NP 
+                                          (DT os)
+                                          (NN servi�os)
+                                          (ADJP 
+                                            (JJ p�blicos))))))
+                       (;)))

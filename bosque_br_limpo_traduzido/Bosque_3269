@@ -1,41 +1,21 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Taranto)
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP soube)
-    )
-    (VP 
-      (VP 
-        (VB dizer)
-      )
-      (VP 
-        (IN se)
-        (NP 
-          (DT os)
-          (NN parentes)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT as)
-              (NN v�timas)
-            )
-          )
-        )
-        (VP 
-          (VBP poder�o)
-          (VB pedir)
-        )
-        (NP 
-          (PRP alguma)
-          (NN indeniza��o)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Taranto))
+                        (ADVP (RB n�o))
+                        (VP (VBP soube))
+                        (VP (VP (VB dizer))
+                                 (VP 
+                                   (IN se)
+                                   (NP 
+                                     (DT os)
+                                     (NN parentes)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT as)
+                                         (NN v�timas))))
+                                   (VP 
+                                     (VBP poder�o)
+                                     (VB pedir))
+                                   (NP 
+                                     (PRP alguma)
+                                     (NN indeniza��o))))
+                        (.)))

@@ -1,69 +1,37 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Elas)
-    )
-    (NP 
-      (PRP se)
-    )
-    (VP 
-      (VBP algemaram)
-    )
-    (UCP 
-      (ADVP 
-        (RB entre_si)
-      )
-      (CC e)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT os)
-          (NN m�veis)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN escrit�rio)
-            )
-          )
-        )
-      )
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NN protesto)
-        (PP 
-          (IN contra)
-          (NP 
-            (DT a)
-            (NN utiliza��o)
-            (PP 
-              (IN de)
-              (NP 
-                (NN peles)
-                (ADJP 
-                  (JJ animais)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NN cria��es)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN estilista)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Elas))
+                        (NP (PRP se))
+                        (VP (VBP algemaram))
+                        (_CU_ (ADVP 
+                                   (RB entre_si))
+                                 (CC e)
+                                 (PP 
+                                   (IN em+)
+                                   (NP 
+                                     (DT os)
+                                     (NN m�veis)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN escrit�rio))))))
+                        (PP (IN em)
+                                 (NP (NN protesto)
+                                        (PP 
+                                          (IN contra)
+                                          (NP 
+                                            (DT a)
+                                            (NN utiliza��o)
+                                            (PP 
+                                              (IN de)
+                                              (NP 
+                                                (NN peles)
+                                                (ADJP 
+                                                  (JJ animais))))))))
+                        (PP (IN em)
+                                 (NP (NN cria��es)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN estilista)))))
+                        (.)))

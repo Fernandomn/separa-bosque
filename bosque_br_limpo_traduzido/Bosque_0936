@@ -1,29 +1,13 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Daria)
-    )
-    (NP 
-      (DT a)
-      (PRP mesma)
-      (NN nota)
-    )
-    (PP 
-      (PP 
-        (IN para)
-        (NP 
-          (PRP ele)
-        )
-      )
-      (CC e)
-      (PP 
-        (IN para)
-        (NP 
-          (DT o)
-          (NNP Rossi)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Daria))
+                        (NP (DT a)
+                                (PRP mesma)
+                                (NN nota))
+                        (_CU_ (PP (IN para)
+                                        (NP 
+                                          (PRP ele)))
+                                (CC e)
+                                (PP (IN para)
+                                        (NP 
+                                          (DT o)
+                                          (NNP Rossi))))
+                        (.)))

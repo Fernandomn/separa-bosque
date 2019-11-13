@@ -1,51 +1,27 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN taxa)
-      (PP 
-        (IN de)
-        (NP 
-          (NN servi�o)
-        )
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Brasoftware)
-        )
-      )
-    )
-    (VP 
-      (VBP �)
-      (VBN coberta)
-    )
-    (PP 
-      (IN por+)
-      (NP 
-        (DT o)
-        (NN desconto)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP obt�m)
-          )
-          (ADVP 
-            (RB junto)
-            (PP 
-              (IN a+)
-              (NP 
-                (DT o)
-                (NN fornecedor)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN taxa)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NN servi�o)))
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP Brasoftware))))
+                        (VP (VBP �)
+                              (VBN coberta))
+                        (PP (IN por+)
+                                 (NP (DT o)
+                                        (NN desconto)
+                                        (VP 
+                                          (NP 
+                                            (PRP que))
+                                          (VP 
+                                            (VBP obt�m))
+                                          (ADVP 
+                                            (RB junto)
+                                            (PP 
+                                              (IN a+)
+                                              (NP 
+                                                (DT o)
+                                                (NN fornecedor)))))))
+                        (.)))

@@ -1,71 +1,42 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN presidente)
-      (NP 
-        (NNP Itamar_Franco)
-      )
-    )
-    (VP 
-      (VBP disse)
-    )
-    (VP 
-      (IN que)
-      (�)
-      (VP 
-        (VBP ser�o)
-      )
-      (NP 
-        (ADJP 
-          (RB mais_de)
-          (CD 50)
-        )
-        (NN demiss�es)
-      )
-      (�)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT as)
-          (NN estatais)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NNP Minist�rio_dos_Transportes)
-            )
-          )
-        )
-      )
-      (PP 
-        (IN por_causa_de+)
-        (NP 
-          (DT a)
-          (NN desobedi�ncia)
-          (PP 
-            (IN a+)
-            (NP 
-              (DT a)
-              (NNP MP)
-            )
-          )
-        )
-      )
-      (PP 
-        (IN de)
-        (NP 
-          (NN convers�o)
-          (PP 
-            (IN a+)
-            (NP 
-              (DT a)
-              (NN URV)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN presidente)
+                                 (NP (NNP Itamar_Franco)))
+                        (VP (VBP disse))
+                        (VP (IN que)
+                                 (�)
+                                 (VP (VBP ser�o))
+                                 (NP (ADJP 
+                                          (RB mais_de)
+                                          (CD 50))
+                                        (NN demiss�es))
+                                 (�)
+                                 (PP 
+                                   (IN em+)
+                                   (NP 
+                                     (DT as)
+                                     (NN estatais)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NNP Minist�rio_dos_Transportes)))))
+                                 (PP 
+                                   (IN por_causa_de+)
+                                   (NP 
+                                     (DT a)
+                                     (NN desobedi�ncia)
+                                     (PP 
+                                       (IN a+)
+                                       (NP 
+                                         (DT a)
+                                         (NNP MP)))))
+                                 (PP 
+                                   (IN de)
+                                   (NP 
+                                     (NN convers�o)
+                                     (PP 
+                                       (IN a+)
+                                       (NP 
+                                         (DT a)
+                                         (NN URV))))))
+                        (.)))

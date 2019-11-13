@@ -1,70 +1,40 @@
-(S 
-  (VP 
-    (PP 
-      (IN Com)
-      (NP 
-        (NP 
-          (NP 
-            (DT uma)
-            (NN ponte)
-            (PP 
-              (IN de)
-              (NP 
-                (NN safena)
-              )
-            )
-          )
-          (CC e)
-          (NP 
-            (DT uma)
-            (NN mam�ria)
-          )
-        )
-        (VP 
-          (VP 
-            (VBN implantadas)
-          )
-          (PP 
-            (IN h�)
-            (UCP 
-              (NP 
-                (CD um)
-                (NN ano)
-              )
-              (CC e)
-              (ADJP 
-                (CD meio)
-              )
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VBP fez)
-    )
-    (NP 
-      (DT o)
-      (NN trajeto)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NN 1h41)
-        (NP 
-          (CD 58)
-          (NN minutos)
-        )
-        (PP 
-          (IN atr�s_de+)
-          (NP 
-            (DT o)
-            (NN vencedor)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Com)
+                                 (NP (_CU_ 
+                                          (NP 
+                                            (DT uma)
+                                            (NN ponte)
+                                            (PP 
+                                              (IN de)
+                                              (NP 
+                                                (NN safena))))
+                                          (CC e)
+                                          (NP 
+                                            (DT uma)
+                                            (NN mam�ria)))
+                                        (VP 
+                                          (VP 
+                                            (VBN implantadas))
+                                          (PP 
+                                            (IN h�)
+                                            (_CU_ 
+                                              (NP 
+                                                (CD um)
+                                                (NN ano))
+                                              (CC e)
+                                              (ADJP 
+                                                (CD meio)))))))
+                        (,)
+                        (VP (VBP fez))
+                        (NP (DT o)
+                                (NN trajeto))
+                        (PP (IN em)
+                                 (NP (NN 1h41)
+                                        (NP 
+                                          (CD 58)
+                                          (NN minutos))
+                                        (PP 
+                                          (IN atr�s_de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN vencedor)))))
+                        (.)))

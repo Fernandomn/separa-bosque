@@ -1,82 +1,45 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN agita��o)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (VP 
-      (VBP foi)
-    )
-    (ADJP 
-      (JJ grande)
-    )
-    (ADVP 
-      (RB tamb�m)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NNP Bolsa_de_Mercadorias)
-      )
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (JJ frequentes)
-        (NN boatos)
-        (PP 
-          (IN de)
-          (NP 
-            (NN dificuldades)
-            (PP 
-              (IN de)
-              (NP 
-                (NN institui��es)
-                (ADJP 
-                  (JJ financeiras)
-                )
-              )
-            )
-            (PP 
-              (IN em)
-              (VP 
-                (VP 
-                  (VB cumprirem)
-                )
-                (NP 
-                  (PRP seus)
-                  (NN compromissos)
-                )
-                (PP 
-                  (IN em+)
-                  (NP 
-                    (DT o)
-                    (NN mercado)
-                    (ADJP 
-                      (JJ futuro)
-                    )
-                    (PP 
-                      (IN de+)
-                      (NP 
-                        (DT o)
-                        (NN �ndice)
-                        (NP 
-                          (NNP Bovespa)
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN agita��o))
+                        (ADVP (RB ontem))
+                        (VP (VBP foi))
+                        (ADJP (JJ grande))
+                        (ADVP (RB tamb�m))
+                        (PP (IN em+)
+                                 (NP (DT a)
+                                        (NNP Bolsa_de_Mercadorias)))
+                        (PP (IN com)
+                                 (NP (JJ frequentes)
+                                        (NN boatos)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN dificuldades)
+                                            (PP 
+                                              (IN de)
+                                              (NP 
+                                                (NN institui��es)
+                                                (ADJP 
+                                                  (JJ financeiras))))
+                                            (PP 
+                                              (IN em)
+                                              (VP 
+                                                (VP 
+                                                  (VB cumprirem))
+                                                (NP 
+                                                  (PRP seus)
+                                                  (NN compromissos))
+                                                (PP 
+                                                  (IN em+)
+                                                  (NP 
+                                                    (DT o)
+                                                    (NN mercado)
+                                                    (ADJP 
+                                                      (JJ futuro))
+                                                    (PP 
+                                                      (IN de+)
+                                                      (NP 
+                                                        (DT o)
+                                                        (NN �ndice)
+                                                        (NP 
+                                                          (NNP Bovespa))))))))))))
+                        (.)))

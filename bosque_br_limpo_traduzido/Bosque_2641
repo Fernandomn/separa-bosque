@@ -1,47 +1,24 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN secret�rio)
-    )
-    (VP 
-      (VBP comandou)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (NP 
-      (DT uma)
-      (NN reuni�o)
-      (PP 
-        (IN sobre)
-        (NP 
-          (NN seguran�a)
-          (PP 
-            (IN em+)
-            (NP 
-              (DT os)
-              (NN est�dios)
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NN sede)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NNP Federa��o_Paulista_de_Futebol)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN secret�rio))
+                        (VP (VBP comandou))
+                        (ADVP (RB ontem))
+                        (NP (DT uma)
+                                (NN reuni�o)
+                                (PP (IN sobre)
+                                       (NP 
+                                         (NN seguran�a)
+                                         (PP 
+                                           (IN em+)
+                                           (NP 
+                                             (DT os)
+                                             (NN est�dios))))))
+                        (,)
+                        (PP (IN em+)
+                                 (NP (DT a)
+                                        (NN sede)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NNP Federa��o_Paulista_de_Futebol)))))
+                        (.)))

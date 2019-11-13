@@ -1,34 +1,16 @@
-(S 
-  (VP 
-    (NP 
-      (DT As)
-      (NNP LaserJet)
-      (NP 
-        (NP 
-          (NNP 4_Plus)
-        )
-        (CC e)
-        (NP 
-          (NNP 4M_Plus)
-        )
-      )
-    )
-    (VP 
-      (VBP substituem)
-    )
-    (NP 
-      (DT os)
-      (NN modelos)
-      (UCP 
-        (NP 
-          (CD 4)
-        )
-        (CC e)
-        (ADJP 
-          (CD 4M)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT As)
+                                 (NNP LaserJet)
+                                 (_CU_ (NP 
+                                          (NNP 4_Plus))
+                                        (CC e)
+                                        (NP 
+                                          (NNP 4M_Plus))))
+                        (VP (VBP substituem))
+                        (NP (DT os)
+                                (NN modelos)
+                                (_CU_ (NP 
+                                         (CD 4))
+                                       (CC e)
+                                       (ADJP 
+                                         (CD 4M))))
+                        (.)))

@@ -1,76 +1,47 @@
-(S 
-  (VP 
-    (�)
-    (VP 
-      (VBP �)
-    )
-    (ADJP 
-      (JJ preciso)
-    )
-    (VP 
-      (VP 
-        (VB ter)
-      )
-      (ADVP 
-        (RB em_conta)
-      )
-      (VP 
-        (IN que)
-        (NP 
-          (DT a)
-          (NN eleva��o)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT as)
-              (NN importa��es)
-            )
-          )
-          (PP 
-            (IN com)
-            (NP 
-              (DT a)
-              (NN redu��o)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT as)
-                  (NN al�quotas)
-                )
-              )
-            )
-          )
-        )
-        (VP 
-          (VBP �)
-          (VBN estimada)
-        )
-        (PP 
-          (IN em)
-          (NP 
-            (CD 1)
-            (NN %)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (NN pauta)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT as)
-                    (NN importa��es)
-                    (ADJP 
-                      (JJ brasileira)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (�)
+                        (VP (VBP �))
+                        (ADJP (JJ preciso))
+                        (VP (VP (VB ter))
+                                  (ADVP 
+                                    (RB em_conta))
+                                  (VP 
+                                    (IN que)
+                                    (NP 
+                                      (DT a)
+                                      (NN eleva��o)
+                                      (PP 
+                                        (IN de+)
+                                        (NP 
+                                          (DT as)
+                                          (NN importa��es)))
+                                      (PP 
+                                        (IN com)
+                                        (NP 
+                                          (DT a)
+                                          (NN redu��o)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT as)
+                                              (NN al�quotas))))))
+                                    (VP 
+                                      (VBP �)
+                                      (VBN estimada))
+                                    (PP 
+                                      (IN em)
+                                      (NP 
+                                        (CD 1)
+                                        (NN %)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NN pauta)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT as)
+                                                (NN importa��es)
+                                                (ADJP 
+                                                  (JJ brasileira))))))))))
+                        (.)))

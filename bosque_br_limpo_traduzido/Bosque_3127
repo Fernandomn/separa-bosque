@@ -1,36 +1,18 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Helcio_Emerich)
-    )
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (NP 
-        (NP 
-          (NN jornalista)
-        )
-        (,)
-        (NP 
-          (NN publicit�rio)
-        )
-        (CC e)
-        (NP 
-          (NP vice-presidente)
-        )
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN ag�ncia)
-          (NP 
-            (NNP Almap/BBDO)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Helcio_Emerich))
+                        (VP (VBP �))
+                        (NP (_CU_ (NP 
+                                       (NN jornalista))
+                                     (,)
+                                     (NP 
+                                       (NN publicit�rio))
+                                     (CC e)
+                                     (NP 
+                                       (_EC_ vice-)
+                                       (NN presidente)))
+                               (PP (IN de+)
+                                      (NP 
+                                        (DT a)
+                                        (NN ag�ncia)
+                                        (NP 
+                                          (NNP Almap/BBDO)))))
+                        (.)))

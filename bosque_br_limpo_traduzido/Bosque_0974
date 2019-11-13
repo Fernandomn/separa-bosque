@@ -1,91 +1,53 @@
-(S 
-  (VP 
-    (NP 
-      (NN Profissionais)
-      (PP 
-        (IN com)
-        (NP 
-          (JJ longa)
-          (NN experi�ncia)
-          (PP 
-            (IN em)
-            (NP 
-              (NN cargos)
-              (ADJP 
-                (ADJP 
-                  (JJ gerenciais)
-                )
-                (CC e)
-                (ADJP 
-                  (JJ administrativos)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP devem)
-    )
-    (NP 
-      (PRP se)
-    )
-    (VP 
-      (VB preocupar)
-    )
-    (,)
-    (PP 
-      (IN a+)
-      (VP 
-        (DT o)
-        (VP 
-          (VB fazer)
-        )
-        (NP 
-          (DT o)
-          (NN curr�culo)
-        )
-      )
-    )
-    (,)
-    (PP 
-      (IN em)
-      (VP 
-        (VP 
-          (VB mostrar)
-        )
-        (NP 
-          (DT a)
-          (NN ess�ncia)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN carreira)
-            )
-          )
-        )
-        (,)
-        (VP 
-          (VP 
-            (VBG resumindo)
-          )
-          (NP 
-            (PRP suas)
-            (NP 
-              (NP 
-                (NN conquistas)
-              )
-              (CC e)
-              (NP 
-                (NN realiza��es)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN Profissionais)
+                                 (PP (IN com)
+                                        (NP 
+                                          (JJ longa)
+                                          (NN experi�ncia)
+                                          (PP 
+                                            (IN em)
+                                            (NP 
+                                              (NN cargos)
+                                              (_CU_ 
+                                                (ADJP 
+                                                  (JJ gerenciais))
+                                                (CC e)
+                                                (ADJP 
+                                                  (JJ administrativos))))))))
+                        (VP (VBP devem))
+                        (NP (PRP se))
+                        (VP (VB preocupar))
+                        (,)
+                        (PP (IN a+)
+                                 (VP 
+                                   (DT o)
+                                   (VP 
+                                     (VB fazer))
+                                   (NP 
+                                     (DT o)
+                                     (NN curr�culo))))
+                        (,)
+                        (PP (IN em)
+                                 (VP 
+                                   (VP 
+                                     (VB mostrar))
+                                   (NP 
+                                     (DT a)
+                                     (NN ess�ncia)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NN carreira))))
+                                   (,)
+                                   (VP 
+                                     (VP 
+                                       (VBG resumindo))
+                                     (NP 
+                                       (PRP suas)
+                                       (_CU_ 
+                                         (NP 
+                                           (NN conquistas))
+                                         (CC e)
+                                         (NP 
+                                           (NN realiza��es)))))))
+                        (.)))

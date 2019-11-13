@@ -1,38 +1,21 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (VBP Foram)
-        (VBN analisadas)
-      )
-      (NP 
-        (RB apenas)
-        (DT a)
-        (JJ primeira)
-        (NN amostra)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT os)
-            (NN produtos)
-          )
-        )
-      )
-    )
-    (CC e)
-    (VP 
-      (ADVP 
-        (RB ainda)
-      )
-      (VP 
-        (VBP deve)
-        (VB ser)
-        (VBN feita)
-      )
-      (NP 
-        (NN contraprova)
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (VP (VBP Foram)
+                                      (VBN analisadas))
+                                (NP 
+                                  (RB apenas)
+                                  (DT a)
+                                  (JJ primeira)
+                                  (NN amostra)
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT os)
+                                      (NN produtos)))))
+                       (CC e)
+                       (VP (ADVP 
+                                  (RB ainda))
+                                (VP (VBP deve)
+                                      (VB ser)
+                                      (VBN feita))
+                                (NP 
+                                  (NN contraprova)))
+                       (.)))

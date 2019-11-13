@@ -1,66 +1,39 @@
-(S 
-  (VP 
-    (VP 
-      (IN Sen�o)
-      (NP 
-        (PRP eu)
-      )
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP ia)
-      )
-      (ADVP 
-        (RB mais)
-      )
-      (VP 
-        (VP 
-          (VB conseguir)
-        )
-        (VP 
-          (VP 
-            (VP 
-              (VB discutir)
-            )
-            (NP 
-              (NN sal�rio)
-              (PP 
-                (IN com)
-                (NP 
-                  (PRP ele)
-                )
-              )
-            )
-            (PP 
-              (IN sem)
-              (VP 
-                (NP 
-                  (PRP me)
-                )
-                (VP 
-                  (VB lembrar)
-                )
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (NN epis�dio)
-                  )
-                )
-              )
-            )
-          )
-          (CC e)
-          (VP 
-            (VP 
-              (VB rir)
-            )
-          )
-        )
-      )
-    )
-    (.)
-    (�)
-  )
-)
+(S (VP (VP (IN Sen�o)
+                                  (NP 
+                                    (PRP eu))
+                                  (ADVP 
+                                    (RB n�o))
+                                  (VP (VBP ia))
+                                  (ADVP 
+                                    (RB mais))
+                                  (VP 
+                                    (VP 
+                                      (VB conseguir))
+                                    (_CU_ 
+                                      (VP 
+                                        (VP 
+                                          (VB discutir))
+                                        (NP 
+                                          (NN sal�rio)
+                                          (PP 
+                                            (IN com)
+                                            (NP 
+                                              (PRP ele))))
+                                        (PP 
+                                          (IN sem)
+                                          (VP 
+                                            (NP 
+                                              (PRP me))
+                                            (VP 
+                                              (VB lembrar))
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT o)
+                                                (NN epis�dio))))))
+                                      (CC e)
+                                      (VP 
+                                        (VP 
+                                          (VB rir))))))
+                        (.)
+                        (�)))

@@ -1,53 +1,31 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Essa)
-      (NN permiss�o)
-      (PP 
-        (IN de)
-        (NP 
-          (NN entrada)
-          (PP 
-            (IN de)
-            (NP 
-              (NN brasileiros)
-              (,)
-              (PP 
-                (IN sem)
-                (NP 
-                  (DT o)
-                  (NN visto)
-                )
-              )
-              (,)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP partiu)
-    )
-    (PP 
-      (IN de)
-      (NP 
-        (DT uma)
-        (NN negocia��o)
-        (PP 
-          (IN entre)
-          (NP 
-            (NP 
-              (NNP Portugal)
-            )
-            (CC e)
-            (NP 
-              (DT a)
-              (NNP Uni�o_Europ�ia)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Essa)
+                                 (NN permiss�o)
+                                 (PP 
+                                   (IN de)
+                                   (NP 
+                                     (NN entrada)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NN brasileiros)
+                                         (,)
+                                         (PP 
+                                           (IN sem)
+                                           (NP 
+                                             (DT o)
+                                             (NN visto)))
+                                         (,))))))
+                        (VP (VBP partiu))
+                        (PP (IN de)
+                                (NP (DT uma)
+                                       (NN negocia��o)
+                                       (PP 
+                                         (IN entre)
+                                         (_CU_ 
+                                           (NP 
+                                             (NNP Portugal))
+                                           (CC e)
+                                           (NP 
+                                             (DT a)
+                                             (NNP Uni�o_Europ�ia))))))
+                        (.)))

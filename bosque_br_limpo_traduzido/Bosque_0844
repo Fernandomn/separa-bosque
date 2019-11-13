@@ -1,32 +1,15 @@
-(S 
-  (VP 
-    (�)
-    (VP 
-      (VP 
-        (VBP �)
-      )
-      (NP 
-        (DT uma)
-        (NN solu��o)
-        (ADJP 
-          (ADJP 
-            (JJ econ�mica)
-          )
-          (CC e)
-          (ADJP 
-            (JJ segura)
-          )
-        )
-      )
-    )
-    (�)
-    (,)
-    (VP 
-      (VBP diz)
-    )
-    (NP 
-      (NNP Vinograd)
-    )
-    (.)
-  )
-)
+(S (VP (�)
+                        (VP (VP (VBP �))
+                                 (NP (DT uma)
+                                        (NN solu��o)
+                                        (_CU_ 
+                                          (ADJP 
+                                            (JJ econ�mica))
+                                          (CC e)
+                                          (ADJP 
+                                            (JJ segura)))))
+                        (�)
+                        (,)
+                        (VP (VBP diz))
+                        (NP (NNP Vinograd))
+                        (.)))

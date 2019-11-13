@@ -1,49 +1,26 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Ela)
-    )
-    (VP 
-      (VBP foi)
-      (VBN constru�da)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NNP Mar�lia)
-        (-LCB-)
-        (NP 
-          (NN cidade)
-          (VP 
-            (ADVP 
-              (RB onde)
-            )
-            (VP 
-              (VBP foi)
-              (VBN fundada)
-            )
-            (NP 
-              (DT o)
-              (NN banco)
-            )
-          )
-        )
-        (-RCB-)
-      )
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (NN capacidade)
-        (PP 
-          (IN para)
-          (NP 
-            (NN mil)
-            (NN alunos)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Ela))
+                        (VP (VBP foi)
+                              (VBN constru�da))
+                        (PP (IN em)
+                                 (NP (NNP Mar�lia)
+                                        (-LCB-)
+                                        (NP 
+                                          (NN cidade)
+                                          (VP 
+                                            (ADVP 
+                                              (RB onde))
+                                            (VP 
+                                              (VBP foi)
+                                              (VBN fundada))
+                                            (NP 
+                                              (DT o)
+                                              (NN banco))))
+                                        (-RCB-)))
+                        (PP (IN com)
+                                 (NP (NN capacidade)
+                                        (PP 
+                                          (IN para)
+                                          (NP 
+                                            (NN mil)
+                                            (NN alunos)))))
+                        (.)))

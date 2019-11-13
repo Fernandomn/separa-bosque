@@ -1,67 +1,40 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Este)
-      (NN levantamento)
-      (PP 
-        (IN de)
-        (NP 
-          (NN pre�os)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (VP 
-              (VBP inclui)
-            )
-            (ADVP 
-              (RB tamb�m)
-            )
-            (NP 
-              (NN produtos)
-              (PP 
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NN higiene)
-                  )
-                )
-                (CC e)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NN limpeza)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP mostra)
-    )
-    (NP 
-      (NN recuo)
-      (PP 
-        (IN de)
-        (NP 
-          (CD 1,58)
-          (NN %)
-          (PP 
-            (IN em_rela��o_a+)
-            (NP 
-              (DT a)
-              (NN sexta-feira)
-              (ADJP 
-                (JJ anterior)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Este)
+                                 (NN levantamento)
+                                 (PP 
+                                   (IN de)
+                                   (NP 
+                                     (NN pre�os)
+                                     (VP 
+                                       (NP 
+                                         (PRP que))
+                                       (VP 
+                                         (VBP inclui))
+                                       (ADVP 
+                                         (RB tamb�m))
+                                       (NP 
+                                         (NN produtos)
+                                         (_CU_ 
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NN higiene)))
+                                           (CC e)
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NN limpeza)))))))))
+                        (VP (VBP mostra))
+                        (NP (NN recuo)
+                                (PP 
+                                  (IN de)
+                                  (NP 
+                                    (CD 1,58)
+                                    (NN %)
+                                    (PP 
+                                      (IN em_rela��o_a+)
+                                      (NP 
+                                        (DT a)
+                                        (NN sexta-feira)
+                                        (ADJP 
+                                          (JJ anterior)))))))
+                        (.)))

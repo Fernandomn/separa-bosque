@@ -1,120 +1,71 @@
-(S 
-  (VP 
-    (NP 
-      (DT Uma)
-      (NN mesa)
-      (PP 
-        (IN de)
-        (VP 
-          (VP 
-            (VB encostar)
-          )
-        )
-      )
-      (,)
-      (PP 
-        (IN em)
-        (NP 
-          (NN jacarand�)
-          (ADJP 
-            (JJ claro)
-          )
-        )
-      )
-      (,)
-      (VP 
-        (VP 
-          (VBN feita)
-        )
-        (PP 
-          (IN a+)
-          (NP 
-            (DT a)
-            (NN m�o)
-          )
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT o)
-            (NNP Rio)
-          )
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT o)
-            (NN s�culo)
-            (ADJP 
-              (CD 18)
-            )
-          )
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP vai)
-    )
-    (PP 
-      (IN a)
-      (NP 
-        (NN leil�o)
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (JJ pr�ximo)
-        (NN m�s)
-      )
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NNP S�o_Paulo)
-      )
-    )
-    (PP 
-      (IN por)
-      (NP 
-        (NN US$)
-        (NP 
-          (CD 15)
-          (NN mil)
-        )
-        (,)
-        (NP 
-          (NN pre�o)
-          (ADJP 
-            (JJ equivalente)
-            (PP 
-              (IN a)
-              (NP 
-                (CD dois)
-                (NN carros)
-                (ADJP 
-                  (JJ populares)
-                )
-                (NP 
-                  (CD zero)
-                  (NN quil�metro)
-                )
-                (,)
-                (ADVP 
-                  (RB como)
-                  (NP 
-                    (DT o)
-                    (NN Fusca)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Uma)
+                                 (NN mesa)
+                                 (PP (IN de)
+                                        (VP 
+                                          (VP 
+                                            (VB encostar))))
+                                 (,)
+                                 (PP 
+                                   (IN em)
+                                   (NP 
+                                     (NN jacarand�)
+                                     (ADJP 
+                                       (JJ claro))))
+                                 (,)
+                                 (VP 
+                                   (VP 
+                                     (VBN feita))
+                                   (PP 
+                                     (IN a+)
+                                     (NP 
+                                       (DT a)
+                                       (NN m�o)))
+                                   (PP 
+                                     (IN em+)
+                                     (NP 
+                                       (DT o)
+                                       (NNP Rio)))
+                                   (PP 
+                                     (IN em+)
+                                     (NP 
+                                       (DT o)
+                                       (NN s�culo)
+                                       (ADJP 
+                                         (CD 18)))))
+                                 (,))
+                        (VP (VBP vai))
+                        (PP (IN a)
+                               (NP (NN leil�o)))
+                        (PP (IN em+)
+                                 (NP (DT o)
+                                        (JJ pr�ximo)
+                                        (NN m�s)))
+                        (PP (IN em)
+                                 (NP (NNP S�o_Paulo)))
+                        (PP (IN por)
+                                 (NP (NN US$)
+                                        (NP 
+                                          (CD 15)
+                                          (NN mil))
+                                        (,)
+                                        (NP 
+                                          (NN pre�o)
+                                          (ADJP 
+                                            (JJ equivalente)
+                                            (PP 
+                                              (IN a)
+                                              (NP 
+                                                (CD dois)
+                                                (NN carros)
+                                                (ADJP 
+                                                  (JJ populares))
+                                                (NP 
+                                                  (CD zero)
+                                                  (NN quil�metro))
+                                                (,)
+                                                (ADVP 
+                                                  (RB como)
+                                                  (NP 
+                                                    (DT o)
+                                                    (NN Fusca)))))))))
+                        (.)))

@@ -1,55 +1,32 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Cada)
-      (NN modelo)
-      (PP 
-        (IN de)
-        (NP 
-          (NN fac-s�mile)
-          (,)
-          (PP 
-            (IN com)
-            (NP 
-              (PRP suas)
-              (NN especifica��es)
-              (ADJP 
-                (JJ t�cnicas)
-              )
-              (ADJP 
-                (JJ peculiares)
-              )
-            )
-          )
-        )
-        (,)
-      )
-    )
-    (VP 
-      (VBP recebe)
-    )
-    (NP 
-      (DT uma)
-      (NN patente)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN tipo)
-          (NP 
-            (NN MI)
-          )
-          (-LCB-)
-          (NP 
-            (NN modelo)
-            (ADJP 
-              (JJ industrial)
-            )
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Cada)
+                                 (NN modelo)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NN fac-s�mile)
+                                          (,)
+                                          (PP 
+                                            (IN com)
+                                            (NP 
+                                              (PRP suas)
+                                              (NN especifica��es)
+                                              (ADJP 
+                                                (JJ t�cnicas))
+                                              (ADJP 
+                                                (JJ peculiares)))))
+                                        (,)))
+                        (VP (VBP recebe))
+                        (NP (DT uma)
+                                (NN patente)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN tipo)
+                                         (NP 
+                                           (NN MI))
+                                         (-LCB-)
+                                         (NP 
+                                           (NN modelo)
+                                           (ADJP 
+                                             (JJ industrial)))
+                                         (-RCB-))))
+                        (.)))

@@ -1,66 +1,39 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NP ex-jogador)
-    )
-    (VP 
-      (VBP assumiu)
-    )
-    (NP 
-      (DT o)
-      (NN cargo)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NN substitui��o)
-        (PP 
-          (IN a)
-          (NP 
-            (NNP Carlinhos)
-            (,)
-            (VP 
-              (VP 
-                (VBN demitido)
-              )
-              (PP 
-                (IN ap�s)
-                (NP 
-                  (DT a)
-                  (NN derrota)
-                  (PP 
-                    (IN para)
-                    (NP 
-                      (DT o)
-                      (NNP Bahia)
-                    )
-                  )
-                  (-LCB-)
-                  (NP 
-                    (CD 0)
-                    (PP 
-                      (IN a)
-                      (ADJP 
-                        (CD 1)
-                      )
-                    )
-                  )
-                  (-RCB-)
-                )
-              )
-              (,)
-              (ADVP 
-                (RB anteontem)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (_EC_ ex-)
+                                 (NN jogador))
+                        (VP (VBP assumiu))
+                        (NP (DT o)
+                                (NN cargo))
+                        (ADVP (RB ontem))
+                        (PP (IN em)
+                                 (NP (NN substitui��o)
+                                        (PP 
+                                          (IN a)
+                                          (NP 
+                                            (NNP Carlinhos)
+                                            (,)
+                                            (VP 
+                                              (VP 
+                                                (VBN demitido))
+                                              (PP 
+                                                (IN ap�s)
+                                                (NP 
+                                                  (DT a)
+                                                  (NN derrota)
+                                                  (PP 
+                                                    (IN para)
+                                                    (NP 
+                                                      (DT o)
+                                                      (NNP Bahia)))
+                                                  (-LCB-)
+                                                  (NP 
+                                                    (CD 0)
+                                                    (PP 
+                                                      (IN a)
+                                                      (ADJP 
+                                                        (CD 1))))
+                                                  (-RCB-)))
+                                              (,)
+                                              (ADVP 
+                                                (RB anteontem)))))))
+                        (.)))

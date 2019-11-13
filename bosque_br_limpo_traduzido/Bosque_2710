@@ -1,95 +1,59 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (PRP esta)
-        (NN ala)
-      )
-    )
-    (VP 
-      (VBP merece)
-    )
-    (NP 
-      (NN men��o)
-    )
-    (NP 
-      (DT o)
-      (PRP seu)
-      (NNP Bruto_Ros�)
-      (,)
-      (NP 
-        (DT um)
-        (NN espumante)
-        (VP 
-          (VP 
-            (VBN elaborado)
-          )
-          (PP 
-            (IN com)
-            (NP 
-              (NN uva)
-              (NP 
-                (NN Baga)
-              )
-              (-LCB-)
-              (NP 
-                (CD 100)
-                (NN %)
-              )
-              (-RCB-)
-              (VP 
-                (NP 
-                  (PRP que)
-                )
-                (VP 
-                  (VBP conserva)
-                )
-                (ADVP 
-                  (ADVP 
-                    (RB um_pouco)
-                    (PP 
-                      (IN de+)
-                      (NP 
-                        (DT a)
-                        (NN cor)
-                      )
-                    )
-                  )
-                  (CC e)
-                  (ADVP 
-                    (RB muito)
-                    (PP 
-                      (IN de)
-                      (NP 
-                        (NN frutado)
-                        (PP 
-                          (IN de+)
-                          (NP 
-                            (PRP esta)
-                            (NN variedade)
-                            (ADJP 
-                              (JJ t�pica)
-                            )
-                            (PP 
-                              (IN de+)
-                              (NP 
-                                (DT a)
-                                (NN regi�o)
-                              )
-                            )
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (PRP esta)
+                                        (NN ala)))
+                        (VP (VBP merece))
+                        (NP (NN men��o))
+                        (NP (DT o)
+                                 (PRP seu)
+                                 (NNP Bruto_Ros�)
+                                 (,)
+                                 (NP 
+                                   (DT um)
+                                   (NN espumante)
+                                   (VP 
+                                     (VP 
+                                       (VBN elaborado))
+                                     (PP 
+                                       (IN com)
+                                       (NP 
+                                         (NN uva)
+                                         (NP 
+                                           (NN Baga))
+                                         (-LCB-)
+                                         (NP 
+                                           (CD 100)
+                                           (NN %))
+                                         (-RCB-)
+                                         (VP 
+                                           (NP 
+                                             (PRP que))
+                                           (VP 
+                                             (VBP conserva))
+                                           (_CU_ 
+                                             (ADVP 
+                                               (RB um_pouco)
+                                               (PP 
+                                                 (IN de+)
+                                                 (NP 
+                                                   (DT a)
+                                                   (NN cor))))
+                                             (CC e)
+                                             (ADVP 
+                                               (RB muito)
+                                               (PP 
+                                                 (IN de)
+                                                 (NP 
+                                                   (NN frutado)
+                                                   (PP 
+                                                     (IN de+)
+                                                     (NP 
+                                                       (PRP esta)
+                                                       (NN variedade)
+                                                       (ADJP 
+                                                         (JJ t�pica))
+                                                       (PP 
+                                                         (IN de+)
+                                                         (NP 
+                                                           (DT a)
+                                                           (NN regi�o)))))))))))))))
+                        (.)))

@@ -1,49 +1,28 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NP ex-jogador)
-    )
-    (VP 
-      (VBP defendeu)
-    )
-    (ADVP 
-      (RB tamb�m)
-    )
-    (NP 
-      (DT a)
-      (NN ado��o)
-      (PP 
-        (IN de)
-        (NP 
-          (NN penas)
-          (PP 
-            (IN para)
-            (NP 
-              (NN menores)
-              (PP 
-                (IN de)
-                (NP 
-                  (CD 18)
-                  (NN anos)
-                )
-              )
-              (VP 
-                (NP 
-                  (PRP que)
-                )
-                (VP 
-                  (VBP cometam)
-                )
-                (NP 
-                  (NN crimes)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (_EC_ ex-)
+                                 (NN jogador))
+                        (VP (VBP defendeu))
+                        (ADVP (RB tamb�m))
+                        (NP (DT a)
+                                (NN ado��o)
+                                (PP 
+                                  (IN de)
+                                  (NP 
+                                    (NN penas)
+                                    (PP 
+                                      (IN para)
+                                      (NP 
+                                        (NN menores)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (CD 18)
+                                            (NN anos)))
+                                        (VP 
+                                          (NP 
+                                            (PRP que))
+                                          (VP 
+                                            (VBP cometam))
+                                          (NP 
+                                            (NN crimes))))))))
+                        (.)))

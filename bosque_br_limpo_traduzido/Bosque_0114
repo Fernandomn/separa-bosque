@@ -1,40 +1,23 @@
-(S 
-  (VP 
-    (NP 
-      (DT As)
-      (NN linhas)
-      (,)
-      (ADJP 
-        (JJ invis�veis)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN superf�cie)
-          )
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP foram)
-      (VBN detectadas)
-    )
-    (ADVP 
-      (RB atrav�s)
-      (PP 
-        (IN de)
-        (NP 
-          (NN dados)
-          (PP 
-            (IN de)
-            (NP 
-              (NN sat�lites)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT As)
+                                (NN linhas)
+                                (,)
+                                (ADJP 
+                                  (JJ invis�veis)
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT a)
+                                      (NN superf�cie))))
+                                (,))
+                       (VP (VBP foram)
+                             (VBN detectadas))
+                       (ADVP (RB atrav�s)
+                                  (PP 
+                                    (IN de)
+                                    (NP 
+                                      (NN dados)
+                                      (PP 
+                                        (IN de)
+                                        (NP 
+                                          (NN sat�lites))))))
+                       (.)))

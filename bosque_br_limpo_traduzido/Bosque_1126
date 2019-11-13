@@ -1,69 +1,38 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (NNP J�lio)
-        (-LCB-)
-        (NP 
-          (NNP Othon_Bastos)
-        )
-        (-RCB-)
-      )
-      (VP 
-        (VBP chega)
-      )
-      (ADVP 
-        (RB logo)
-      )
-      (ADVP 
-        (RB depois)
-      )
-      (PP 
-        (IN a+)
-        (NP 
-          (DT a)
-          (NN casa)
-          (PP 
-            (IN de)
-            (NP 
-              (NNP Em�lia)
-            )
-          )
-        )
-      )
-    )
-    (CC e)
-    (VP 
-      (ADVP 
-        (RB l�)
-      )
-      (VP 
-        (VBP tem)
-      )
-      (NP 
-        (DT uma)
-        (JJ forte)
-        (NN crise)
-        (PP 
-          (IN de)
-          (NP 
-            (NN �lcera)
-          )
-        )
-      )
-      (,)
-      (VP 
-        (VP 
-          (VBG sendo)
-          (VBN socorrido)
-        )
-        (PP 
-          (IN por)
-          (NP 
-            (NNP Justina)
-          )
-        )
-      )
-    )
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (NNP J�lio)
+                                  (-LCB-)
+                                  (NP 
+                                    (NNP Othon_Bastos))
+                                  (-RCB-))
+                                (VP (VBP chega))
+                                (ADVP 
+                                  (RB logo))
+                                (ADVP 
+                                  (RB depois))
+                                (PP (IN a+)
+                                       (NP 
+                                         (DT a)
+                                         (NN casa)
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NNP Em�lia))))))
+                       (CC e)
+                       (VP (ADVP 
+                                  (RB l�))
+                                (VP (VBP tem))
+                                (NP (DT uma)
+                                        (JJ forte)
+                                        (NN crise)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN �lcera))))
+                                (,)
+                                (VP 
+                                  (VP (VBG sendo)
+                                        (VBN socorrido))
+                                  (PP 
+                                    (IN por)
+                                    (NP 
+                                      (NNP Justina)))))))

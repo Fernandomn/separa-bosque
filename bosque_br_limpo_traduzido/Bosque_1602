@@ -1,65 +1,39 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN tribunal)
-    )
-    (VP 
-      (VBP anulou)
-    )
-    (NP 
-      (NP 
-        (CD 108)
-        (NN votos)
-        (PP 
-          (IN de)
-          (NP 
-            (NNP Nilton_Cerqueira)
-            (-LCB-)
-            (ADJP 
-              (JJ federal)
-            )
-            (,)
-            (ADJP 
-              (NN PP)
-            )
-            (-RCB-)
-          )
-        )
-      )
-      (CC e)
-      (NP 
-        (CD 93)
-        (PP 
-          (IN de)
-          (NP 
-            (NNP Emir_Larangeira)
-            (-LCB-)
-            (ADJP 
-              (JJ estadual)
-            )
-            (,)
-            (NP 
-              (NNP PFL)
-            )
-            (-RCB-)
-          )
-        )
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (JJ 113�)
-        (NN zona)
-        (-LCB-)
-        (NP 
-          (NNP Niter�i)
-        )
-        (-RCB-)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN tribunal))
+                        (VP (VBP anulou))
+                        (_CU_ (NP (CD 108)
+                                        (NN votos)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NNP Nilton_Cerqueira)
+                                            (-LCB-)
+                                            (ADJP 
+                                              (JJ federal))
+                                            (,)
+                                            (ADJP 
+                                              (NN PP))
+                                            (-RCB-))))
+                                (CC e)
+                                (NP 
+                                  (CD 93)
+                                  (PP 
+                                    (IN de)
+                                    (NP 
+                                      (NNP Emir_Larangeira)
+                                      (-LCB-)
+                                      (ADJP 
+                                        (JJ estadual))
+                                      (,)
+                                      (NP 
+                                        (NNP PFL))
+                                      (-RCB-)))))
+                        (PP (IN em+)
+                                 (NP (DT a)
+                                        (JJ 113�)
+                                        (NN zona)
+                                        (-LCB-)
+                                        (NP 
+                                          (NNP Niter�i))
+                                        (-RCB-)))
+                        (.)))

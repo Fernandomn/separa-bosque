@@ -1,78 +1,49 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN empres�rio)
-    )
-    (VP 
-      (VBP disse)
-    )
-    (VP 
-      (IN que)
-      (VP 
-        (VBP pretende)
-      )
-      (VP 
-        (VP 
-          (VB ver)
-        )
-        (ADVP 
-          (RB tamb�m)
-        )
-        (NP 
-          (PRP outros)
-          (NN jogadores)
-          (ADJP 
-            (JJ brasileiros)
-          )
-          (,)
-          (PP 
-            (IN entre)
-            (NP 
-              (PRP eles)
-              (NP 
-                (NP 
-                  (NNP Cafu)
-                  (,)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT o)
-                      (NNP S�o_Paulo)
-                    )
-                  )
-                )
-                (,)
-                (NP 
-                  (NNP Mirandinha)
-                  (,)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT o)
-                      (NNP Paysandu)
-                    )
-                  )
-                )
-                (,)
-                (CC e)
-                (NP 
-                  (NNP Claudinho)
-                  (,)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NNP Ponte_Preta)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN empres�rio))
+                        (VP (VBP disse))
+                        (VP (IN que)
+                                 (VP (VBP pretende))
+                                 (VP 
+                                   (VP 
+                                     (VB ver))
+                                   (ADVP 
+                                     (RB tamb�m))
+                                   (NP 
+                                     (PRP outros)
+                                     (NN jogadores)
+                                     (ADJP 
+                                       (JJ brasileiros))
+                                     (,)
+                                     (PP 
+                                       (IN entre)
+                                       (NP 
+                                         (PRP eles)
+                                         (_CU_ 
+                                           (NP 
+                                             (NNP Cafu)
+                                             (,)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT o)
+                                                 (NNP S�o_Paulo))))
+                                           (,)
+                                           (NP 
+                                             (NNP Mirandinha)
+                                             (,)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT o)
+                                                 (NNP Paysandu))))
+                                           (,)
+                                           (CC e)
+                                           (NP 
+                                             (NNP Claudinho)
+                                             (,)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT a)
+                                                 (NNP Ponte_Preta))))))))))
+                        (.)))

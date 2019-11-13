@@ -1,43 +1,22 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN guerra)
-    )
-    (VP 
-      (VBP come�ou)
-    )
-    (PP 
-      (IN h�)
-      (NP 
-        (CD 13)
-        (NN dias)
-      )
-    )
-    (PP 
-      (IN por_causa_de)
-      (NP 
-        (DT um)
-        (NN confronto)
-        (PP 
-          (IN entre)
-          (NP 
-            (NP 
-              (DT o)
-              (NN presidente)
-              (NP 
-                (NNP Ali_Abdulllah_Saleh)
-              )
-            )
-            (CC e)
-            (NP 
-              (PRP seu)
-              (NN vice)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN guerra))
+                        (VP (VBP come�ou))
+                        (PP (IN h�)
+                                 (NP (CD 13)
+                                        (NN dias)))
+                        (PP (IN por_causa_de)
+                                 (NP (DT um)
+                                        (NN confronto)
+                                        (PP 
+                                          (IN entre)
+                                          (_CU_ 
+                                            (NP 
+                                              (DT o)
+                                              (NN presidente)
+                                              (NP 
+                                                (NNP Ali_Abdulllah_Saleh)))
+                                            (CC e)
+                                            (NP 
+                                              (PRP seu)
+                                              (NN vice))))))
+                        (.)))

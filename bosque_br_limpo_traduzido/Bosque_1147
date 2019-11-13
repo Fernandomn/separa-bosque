@@ -1,60 +1,35 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN mercado)
-    )
-    (VP 
-      (VBP trabalhou)
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (DT a)
-        (NN expectativa)
-        (PP 
-          (IN de)
-          (NP 
-            (NN aprova��o)
-            (,)
-            (PP 
-              (IN por+)
-              (NP 
-                (DT o)
-                (NNP Conselho_Monet�rio_Nacional)
-              )
-            )
-            (,)
-          )
-          (NP 
-            (PP 
-              (IN de)
-              (NP 
-                (NN medidas)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NN socorro)
-                  )
-                )
-                (PP 
-                  (IN a)
-                  (NP 
-                    (NN bancos)
-                    (PP 
-                      (IN em)
-                      (NP 
-                        (NN dificuldades)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN mercado))
+                        (VP (VBP trabalhou))
+                        (PP (IN com)
+                                (NP (DT a)
+                                       (NN expectativa)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN aprova��o)
+                                           (,)
+                                           (PP 
+                                             (IN por+)
+                                             (NP 
+                                               (DT o)
+                                               (NNP Conselho_Monet�rio_Nacional)))
+                                           (,))
+                                         (NP 
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NN medidas)
+                                               (PP 
+                                                 (IN de)
+                                                 (NP 
+                                                   (NN socorro)))
+                                               (PP 
+                                                 (IN a)
+                                                 (NP 
+                                                   (NN bancos)
+                                                   (PP 
+                                                     (IN em)
+                                                     (NP 
+                                                       (NN dificuldades)))))))))))
+                        (.)))

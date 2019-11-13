@@ -1,37 +1,18 @@
-(S 
-  (VP 
-    (PP 
-      (IN Segundo)
-      (NP 
-        (NNP Concei��o)
-      )
-    )
-    (,)
-    (VP 
-      (VBP tem)
-      (VBN existido)
-    )
-    (NP 
-      (PRP certa)
-      (NN indiferen�a)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN pol�cia)
-          (ADJP 
-            (JJ local)
-          )
-        )
-      )
-      (PP 
-        (IN em_rela��o_a+)
-        (NP 
-          (DT o)
-          (NN caso)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Segundo)
+                                 (NP (NNP Concei��o)))
+                        (,)
+                        (VP (VBP tem)
+                              (VBN existido))
+                        (NP (PRP certa)
+                                 (NN indiferen�a)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN pol�cia)
+                                          (ADJP 
+                                            (JJ local))))
+                                 (PP (IN em_rela��o_a+)
+                                        (NP 
+                                          (DT o)
+                                          (NN caso))))
+                        (.)))

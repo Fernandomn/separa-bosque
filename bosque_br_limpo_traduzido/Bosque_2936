@@ -1,23 +1,10 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN m�dico)
-    )
-    (VP 
-      (VBP negou)
-    )
-    (VP 
-      (IN que)
-      (VP 
-        (VBP esteja)
-        (VBG tratando)
-      )
-      (NP 
-        (PRP mais)
-        (PRP algu�m)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN m�dico))
+                        (VP (VBP negou))
+                        (VP (IN que)
+                                 (VP (VBP esteja)
+                                       (VBG tratando))
+                                 (NP 
+                                   (PRP mais)
+                                   (PRP algu�m)))
+                        (.)))

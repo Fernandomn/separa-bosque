@@ -1,66 +1,40 @@
-(S 
-  (VP 
-    (NP 
-      (CD 33)
-      (...)
-      (NN dias)
-    )
-    (VP 
-      (VBP ser�o)
-      (VBN completados)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (JJ pr�xima)
-        (NN segunda-feira)
-        (,)
-        (NP 
-          (NN dia)
-          (PP 
-            (IN de)
-            (NP 
-              (NN elei��o)
-            )
-          )
-        )
-        (,)
-      )
-    )
-    (PP 
-      (IN sem)
-      (VP 
-        (IN que)
-        (NP 
-          (DT os)
-          (NN vereadores)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN C�mara)
-              (PP 
-                (IN de)
-                (NP 
-                  (NNP S�o_Paulo)
-                )
-              )
-            )
-          )
-        )
-        (VP 
-          (VBP votem)
-        )
-        (NP 
-          (PRP algum)
-          (NN projeto)
-          (ADJP 
-            (JJ importante)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (CD 33)
+                                 (...)
+                                 (NN dias))
+                        (VP (VBP ser�o)
+                              (VBN completados))
+                        (PP (IN em+)
+                                 (NP (DT a)
+                                        (JJ pr�xima)
+                                        (NN segunda-feira)
+                                        (,)
+                                        (NP 
+                                          (NN dia)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN elei��o))))
+                                        (,)))
+                        (PP (IN sem)
+                                 (VP 
+                                   (IN que)
+                                   (NP 
+                                     (DT os)
+                                     (NN vereadores)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NN C�mara)
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NNP S�o_Paulo))))))
+                                   (VP 
+                                     (VBP votem))
+                                   (NP 
+                                     (PRP algum)
+                                     (NN projeto)
+                                     (ADJP 
+                                       (JJ importante)))))
+                        (.)))

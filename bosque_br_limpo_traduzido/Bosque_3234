@@ -1,35 +1,17 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Corresponde)
-    )
-    (PP 
-      (IN a)
-      (NP 
-        (NP 
-          (CD duas)
-          (NN vezes)
-        )
-        (CC e)
-        (NP 
-          (NN meia)
-        )
-      )
-    )
-    (NP 
-      (DT o)
-      (NN patrimonio)
-      (ADJP 
-        (JJ liquido)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN institui��o)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Corresponde))
+                        (PP (IN a)
+                                (_CU_ (NP 
+                                         (CD duas)
+                                         (NN vezes))
+                                       (CC e)
+                                       (NP 
+                                         (NN meia))))
+                        (NP (DT o)
+                                 (NN patrimonio)
+                                 (ADJP 
+                                   (JJ liquido))
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN institui��o))))
+                        (.)))

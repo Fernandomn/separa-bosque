@@ -1,55 +1,32 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Por_enquanto)
-    )
-    (,)
-    (NP 
-      (PRP este)
-      (NN indexador)
-    )
-    (VP 
-      (VBP projeta)
-    )
-    (NP 
-      (NN varia��o)
-      (PP 
-        (IN de)
-        (NP 
-          (CD 1)
-          (NN %)
-        )
-      )
-      (,)
-      (PP 
-        (IN com)
-        (NP 
-          (PRP o)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (NP 
-              (DT os)
-              (NN fundos)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN commodities)
-                )
-              )
-            )
-            (VP 
-              (VBP renderiam)
-            )
-            (NP 
-              (CD 3,03)
-              (NN %)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Por_enquanto))
+                        (,)
+                        (NP (PRP este)
+                                 (NN indexador))
+                        (VP (VBP projeta))
+                        (NP (NN varia��o)
+                                (PP 
+                                  (IN de)
+                                  (NP 
+                                    (CD 1)
+                                    (NN %)))
+                                (,)
+                                (PP 
+                                  (IN com)
+                                  (NP 
+                                    (PRP o)
+                                    (VP 
+                                      (NP 
+                                        (PRP que))
+                                      (NP 
+                                        (DT os)
+                                        (NN fundos)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN commodities))))
+                                      (VP 
+                                        (VBP renderiam))
+                                      (NP 
+                                        (CD 3,03)
+                                        (NN %))))))
+                        (.)))

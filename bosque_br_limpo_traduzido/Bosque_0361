@@ -1,40 +1,20 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Ciro)
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP quis)
-    )
-    (VP 
-      (VP 
-        (VB confirmar)
-      )
-      (VP 
-        (IN se)
-        (NP 
-          (DT a)
-          (NNP TR)
-          (-LCB-)
-          (NP 
-            (NNP Taxa_Referencial)
-          )
-          (-RCB-)
-        )
-        (VP 
-          (VBP deixar�)
-          (IN de)
-          (VB corrigir)
-        )
-        (NP 
-          (PRP esses)
-          (NN financiamentos)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Ciro))
+                       (ADVP (RB n�o))
+                       (VP (VBP quis))
+                       (VP (VP (VB confirmar))
+                                (VP 
+                                  (IN se)
+                                  (NP 
+                                    (DT a)
+                                    (NNP TR)
+                                    (-LCB-)
+                                    (NP 
+                                      (NNP Taxa_Referencial))
+                                    (-RCB-))
+                                  (VP (VBP deixar�)
+                                        (IN de)
+                                        (VB corrigir))
+                                  (NP 
+                                    (PRP esses)
+                                    (NN financiamentos))))
+                       (.)))

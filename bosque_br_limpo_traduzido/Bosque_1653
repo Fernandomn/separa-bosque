@@ -1,76 +1,46 @@
-(S 
-  (VP 
-    (VP 
-      (PP 
-        (IN Em+)
-        (NP 
-          (DT os)
-          (NNP EUA)
-        )
-      )
-      (,)
-      (NP 
-        (DT o)
-        (NN Museu)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NNP OEA)
-            (-LCB-)
-            (NP 
-              (NNP Organiza��o_dos_Estados_Americanos)
-            )
-            (-RCB-)
-          )
-        )
-      )
-      (ADVP 
-        (RB j�)
-      )
-      (VP 
-        (VBP tem)
-        (VBN agendada)
-      )
-      (NP 
-        (DT uma)
-        (NN exposi��o)
-        (PP 
-          (IN de)
-          (NP 
-            (NNP Am�lia)
-          )
-        )
-      )
-    )
-    (,)
-    (CC mas)
-    (VP 
-      (NP 
-        (PRP ela)
-      )
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP sabe)
-      )
-      (VP 
-        (IN se)
-        (VP 
-          (VBP instala)
-        )
-        (ADVP 
-          (RB l�)
-        )
-        (NP 
-          (PRP suas)
-          (�)
-          (NNP Sete_Ondas)
-          (�)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (PP 
+                                  (IN Em+)
+                                  (NP 
+                                    (DT os)
+                                    (NNP EUA)))
+                                (,)
+                                (NP 
+                                  (DT o)
+                                  (NN Museu)
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT a)
+                                      (NNP OEA)
+                                      (-LCB-)
+                                      (NP 
+                                        (NNP Organiza��o_dos_Estados_Americanos))
+                                      (-RCB-))))
+                                (ADVP 
+                                  (RB j�))
+                                (VP (VBP tem)
+                                      (VBN agendada))
+                                (NP (DT uma)
+                                        (NN exposi��o)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NNP Am�lia)))))
+                       (,)
+                       (CC mas)
+                       (VP (NP 
+                                  (PRP ela))
+                                (ADVP 
+                                  (RB n�o))
+                                (VP (VBP sabe))
+                                (VP 
+                                  (IN se)
+                                  (VP (VBP instala))
+                                  (ADVP 
+                                    (RB l�))
+                                  (NP 
+                                    (PRP suas)
+                                    (�)
+                                    (NNP Sete_Ondas)
+                                    (�))))
+                       (.)))

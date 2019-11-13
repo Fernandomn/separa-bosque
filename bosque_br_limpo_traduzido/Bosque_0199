@@ -1,37 +1,17 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (NNP Ilmar_Galv�o)
-      )
-      (CC e)
-      (NP 
-        (NNP Moreira_Alves)
-      )
-    )
-    (VP 
-      (VBP votaram)
-    )
-    (PP 
-      (IN por+)
-      (NP 
-        (DT a)
-        (NN concess�o)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN mandato)
-            (PP 
-              (IN de)
-              (NP 
-                (NN seguran�a)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (NP (NNP Ilmar_Galv�o))
+                                (CC e)
+                                (NP (NNP Moreira_Alves)))
+                       (VP (VBP votaram))
+                       (PP (IN por+)
+                               (NP (DT a)
+                                      (NN concess�o)
+                                      (PP 
+                                        (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN mandato)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN seguran�a)))))))
+                       (.)))

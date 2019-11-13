@@ -1,28 +1,12 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Participa)
-    )
-    (PP 
-      (IN de)
-      (NP 
-        (NN reuni�o)
-        (ADJP 
-          (JJ partid�ria)
-        )
-      )
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NNP Maravilha)
-        (-LCB-)
-        (NP 
-          (NNP Santa_Catarina)
-        )
-        (-RCB-)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Participa))
+                        (PP (IN de)
+                                (NP (NN reuni�o)
+                                       (ADJP 
+                                         (JJ partid�ria))))
+                        (PP (IN em)
+                                 (NP (NNP Maravilha)
+                                        (-LCB-)
+                                        (NP 
+                                          (NNP Santa_Catarina))
+                                        (-RCB-)))
+                        (.)))

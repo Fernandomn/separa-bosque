@@ -1,40 +1,20 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Os)
-      (PP 
-        (IN de)
-        (NP 
-          (JJ maior)
-          (NN porte)
-        )
-      )
-    )
-    (VP 
-      (VBP est�o)
-    )
-    (PP 
-      (PP 
-        (IN em+)
-        (NP 
-          (DT os)
-          (NNP TREs)
-          (-LCB-)
-          (NP 
-            (NNP Tribunais_Regionais_Eleitorais)
-          )
-          (-RCB-)
-        )
-      )
-      (CC e)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT o)
-          (NNP TSE)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Os)
+                                 (PP (IN de)
+                                        (NP 
+                                          (JJ maior)
+                                          (NN porte))))
+                        (VP (VBP est�o))
+                        (_CU_ (PP (IN em+)
+                                       (NP 
+                                         (DT os)
+                                         (NNP TREs)
+                                         (-LCB-)
+                                         (NP 
+                                           (NNP Tribunais_Regionais_Eleitorais))
+                                         (-RCB-)))
+                               (CC e)
+                               (PP (IN em+)
+                                       (NP 
+                                         (DT o)
+                                         (NNP TSE))))
+                        (.)))

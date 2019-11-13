@@ -1,73 +1,44 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Antonio_Jorge)
-      (,)
-      (NP 
-        (NN diretor)
-        (ADJP 
-          (JJ t�cnico)
-        )
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NNP Amil)
-          )
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP diz)
-    )
-    (VP 
-      (VP 
-        (IN que)
-        (NP 
-          (DT a)
-          (NN empresa)
-        )
-        (ADVP 
-          (RB ainda)
-        )
-        (VP 
-          (VBP estuda)
-        )
-        (NP 
-          (DT a)
-          (NN convers�o)
-        )
-      )
-      (,)
-      (CC mas)
-      (VP 
-        (IN que)
-        (NP 
-          (DT os)
-          (NN carn�s)
-          (PP 
-            (IN de)
-            (NP 
-              (NN junho)
-            )
-          )
-        )
-        (ADVP 
-          (RB j�)
-        )
-        (VP 
-          (VBP ser�o)
-          (VBN emitidos)
-        )
-        (PP 
-          (IN em)
-          (NP 
-            (NN URV)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Antonio_Jorge)
+                                 (,)
+                                 (NP 
+                                   (NN diretor)
+                                   (ADJP 
+                                     (JJ t�cnico))
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT a)
+                                       (NNP Amil))))
+                                 (,))
+                        (VP (VBP diz))
+                        (_CU_ (VP 
+                                  (IN que)
+                                  (NP 
+                                    (DT a)
+                                    (NN empresa))
+                                  (ADVP 
+                                    (RB ainda))
+                                  (VP (VBP estuda))
+                                  (NP 
+                                    (DT a)
+                                    (NN convers�o)))
+                                (,)
+                                (CC mas)
+                                (VP 
+                                  (IN que)
+                                  (NP 
+                                    (DT os)
+                                    (NN carn�s)
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (NN junho))))
+                                  (ADVP 
+                                    (RB j�))
+                                  (VP (VBP ser�o)
+                                        (VBN emitidos))
+                                  (PP 
+                                    (IN em)
+                                    (NP 
+                                      (NN URV)))))
+                        (.)))

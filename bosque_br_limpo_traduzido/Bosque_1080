@@ -1,89 +1,55 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NP ex-prefeita)
-      (NP 
-        (NNP Luiza_Erundina)
-      )
-    )
-    (VP 
-      (VBP participa)
-    )
-    (ADVP 
-      (RB hoje)
-    )
-    (PP 
-      (IN de+)
-      (NP 
-        (DT a)
-        (NN divulga��o)
-        (PP 
-          (IN de)
-          (NP 
-            (DT um)
-            (NN balan�o)
-            (ADJP 
-              (JJ comparativo)
-            )
-            (PP 
-              (IN entre)
-              (NP 
-                (NP 
-                  (PRP sua)
-                  (NN administra��o)
-                  (ADJP 
-                    (CD 89)
-                  )
-                  (PP 
-                    (IN a)
-                    (ADJP 
-                      (CD 92)
-                    )
-                  )
-                )
-                (CC e)
-                (NP 
-                  (DT o)
-                  (JJ primeiro)
-                  (NN ano)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NN gest�o)
-                      (NP 
-                        (NNP Paulo_Maluf)
-                      )
-                      (PP 
-                        (IN a+)
-                        (NP 
-                          (DT a)
-                          (NN frente)
-                          (PP 
-                            (IN de+)
-                            (NP 
-                              (DT a)
-                              (NN Prefeitura)
-                              (PP 
-                                (IN de)
-                                (NP 
-                                  (NNP S�o_Paulo)
-                                )
-                              )
-                            )
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (_EC_ ex-)
+                                 (NN prefeita)
+                                 (NP (NNP Luiza_Erundina)))
+                        (VP (VBP participa))
+                        (ADVP (RB hoje))
+                        (PP (IN de+)
+                                (NP (DT a)
+                                       (NN divulga��o)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (DT um)
+                                           (NN balan�o)
+                                           (ADJP 
+                                             (JJ comparativo))
+                                           (PP 
+                                             (IN entre)
+                                             (_CU_ 
+                                               (NP 
+                                                 (PRP sua)
+                                                 (NN administra��o)
+                                                 (ADJP 
+                                                   (CD 89))
+                                                 (PP 
+                                                   (IN a)
+                                                   (ADJP 
+                                                     (CD 92))))
+                                               (CC e)
+                                               (NP 
+                                                 (DT o)
+                                                 (JJ primeiro)
+                                                 (NN ano)
+                                                 (PP 
+                                                   (IN de+)
+                                                   (NP 
+                                                     (DT a)
+                                                     (NN gest�o)
+                                                     (NP 
+                                                       (NNP Paulo_Maluf))
+                                                     (PP 
+                                                       (IN a+)
+                                                       (NP 
+                                                         (DT a)
+                                                         (NN frente)
+                                                         (PP 
+                                                           (IN de+)
+                                                           (NP 
+                                                             (DT a)
+                                                             (NN Prefeitura)
+                                                             (PP 
+                                                               (IN de)
+                                                               (NP 
+                                                                 (NNP S�o_Paulo))))))))))))))))
+                        (.)))

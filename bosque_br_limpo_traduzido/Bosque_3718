@@ -1,58 +1,34 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN dados)
-    )
-    (VP 
-      (VBP s�o)
-    )
-    (PP 
-      (IN de+)
-      (NP 
-        (DT o)
-        (NNP SCI)
-        (-LCB-)
-        (NP 
-          (NNP Servi�o_de_Seguran�a_ao_Cr�dito_e_Informa��es)
-        )
-        (-RCB-)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP armazena)
-          )
-          (NP 
-            (NN informa��es)
-            (ADJP 
-              (JJ comerciais)
-            )
-            (PP 
-              (IN sobre)
-              (NP 
-                (CD 1,6)
-                (NN milh�o)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NN empresas)
-                  )
-                )
-              )
-            )
-          )
-          (PP 
-            (IN em+)
-            (NP 
-              (DT o)
-              (NNP Brasil)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN dados))
+                        (VP (VBP s�o))
+                        (PP (IN de+)
+                               (NP (DT o)
+                                      (NNP SCI)
+                                      (-LCB-)
+                                      (NP 
+                                        (NNP Servi�o_de_Seguran�a_ao_Cr�dito_e_Informa��es))
+                                      (-RCB-)
+                                      (VP 
+                                        (NP 
+                                          (PRP que))
+                                        (VP 
+                                          (VBP armazena))
+                                        (NP 
+                                          (NN informa��es)
+                                          (ADJP 
+                                            (JJ comerciais))
+                                          (PP 
+                                            (IN sobre)
+                                            (NP 
+                                              (CD 1,6)
+                                              (NN milh�o)
+                                              (PP 
+                                                (IN de)
+                                                (NP 
+                                                  (NN empresas))))))
+                                        (PP 
+                                          (IN em+)
+                                          (NP 
+                                            (DT o)
+                                            (NNP Brasil))))))
+                        (.)))

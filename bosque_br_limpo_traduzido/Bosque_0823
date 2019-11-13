@@ -1,78 +1,49 @@
-(S 
-  (VP 
-    (VP 
-      (PP 
-        (IN Segundo)
-        (NP 
-          (NNP Marcondes)
-        )
-      )
-      (,)
-      (NP 
-        (DT o)
-        (NN valor)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN patrim�nio)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN hospital)
-              )
-            )
-          )
-        )
-      )
-      (VP 
-        (VBP �)
-      )
-      (PP 
-        (IN de)
-        (NP 
-          (NN US$)
-          (NP 
-            (CD 50)
-            (NN milh�es)
-          )
-          (-LCB-)
-          (NP 
-            (NN R$)
-            (NP 
-              (CD 42,7)
-              (NN milh�es)
-            )
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (CC e)
-    (VP 
-      (NP 
-        (DT o)
-        (NN total)
-        (PP 
-          (IN de)
-          (NP 
-            (NN d�vidas)
-            (,)
-            (PP 
-              (IN de)
-              (NP 
-                (NN R$)
-                (NP 
-                  (CD 50)
-                  (NN milh�es)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (PP 
+                                  (IN Segundo)
+                                  (NP 
+                                    (NNP Marcondes)))
+                                (,)
+                                (NP 
+                                  (DT o)
+                                  (NN valor)
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT o)
+                                      (NN patrim�nio)
+                                      (PP 
+                                        (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN hospital))))))
+                                (VP (VBP �))
+                                (PP (IN de)
+                                       (NP 
+                                         (NN US$)
+                                         (NP 
+                                           (CD 50)
+                                           (NN milh�es))
+                                         (-LCB-)
+                                         (NP 
+                                           (NN R$)
+                                           (NP 
+                                             (CD 42,7)
+                                             (NN milh�es)))
+                                         (-RCB-))))
+                       (CC e)
+                       (VP (NP 
+                                         (DT o)
+                                         (NN total)
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NN d�vidas)
+                                             (,)
+                                             (PP 
+                                               (IN de)
+                                               (NP 
+                                                 (NN R$)
+                                                 (NP 
+                                                   (CD 50)
+                                                   (NN milh�es))))))))
+                       (.)))

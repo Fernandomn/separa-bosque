@@ -1,103 +1,63 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Ele)
-    )
-    (NP 
-      (PRP a)
-    )
-    (VP 
-      (VBP emprega)
-    )
-    (VP 
-      (ADVP 
-        (RB quando)
-      )
-      (VP 
-        (VBP tem)
-        (IN que)
-        (VB dizer)
-      )
-      (NP 
-        (NN n�o)
-      )
-      (PP 
-        (PP 
-          (IN a)
-          (NP 
-            (DT uma)
-            (NN pessoa)
-          )
-          (PP 
-            (IN sem)
-            (VP 
-              (VP 
-                (VB desagrad�-)
-              )
-              (NP 
-                (PRP la)
-              )
-              (PP 
-                (IN em+)
-                (NP 
-                  (DT o)
-                  (NN caso)
-                )
-              )
-            )
-          )
-        )
-        (,)
-        (PP 
-          (IN a)
-          (NP 
-            (PRP seus)
-            (NN colegas)
-            (PP 
-              (IN de)
-              (NP 
-                (NNP PFL)
-              )
-            )
-            (VP 
-              (NP 
-                (PRP que)
-              )
-              (VP 
-                (VBP querem)
-              )
-              (VP 
-                (VP 
-                  (VB repartir)
-                )
-                (NP 
-                  (DT os)
-                  (NN cargos)
-                )
-                (PP 
-                  (IN com)
-                  (NP 
-                    (DT o)
-                    (NNP PSDB)
-                  )
-                )
-                (ADVP 
-                  (RB antes)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT o)
-                      (JJ 1�)
-                      (NN turno)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Ele))
+                        (NP (PRP a))
+                        (VP (VBP emprega))
+                        (VP (ADVP 
+                                    (RB quando))
+                                  (VP (VBP tem)
+                                        (IN que)
+                                        (VB dizer))
+                                  (NP 
+                                    (NN n�o))
+                                  (_CU_ 
+                                    (PP 
+                                      (IN a)
+                                      (NP 
+                                        (DT uma)
+                                        (NN pessoa))
+                                      (PP 
+                                        (IN sem)
+                                        (VP 
+                                          (VP 
+                                            (VB desagrad�-))
+                                          (NP 
+                                            (PRP la))
+                                          (PP 
+                                            (IN em+)
+                                            (NP 
+                                              (DT o)
+                                              (NN caso))))))
+                                    (,)
+                                    (PP 
+                                      (IN a)
+                                      (NP 
+                                        (PRP seus)
+                                        (NN colegas)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NNP PFL)))
+                                        (VP 
+                                          (NP 
+                                            (PRP que))
+                                          (VP 
+                                            (VBP querem))
+                                          (VP 
+                                            (VP 
+                                              (VB repartir))
+                                            (NP 
+                                              (DT os)
+                                              (NN cargos))
+                                            (PP 
+                                              (IN com)
+                                              (NP 
+                                                (DT o)
+                                                (NNP PSDB)))
+                                            (ADVP 
+                                              (RB antes)
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT o)
+                                                  (JJ 1�)
+                                                  (NN turno))))))))))
+                        (.)))

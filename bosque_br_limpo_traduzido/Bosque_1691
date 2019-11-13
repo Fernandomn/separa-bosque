@@ -1,92 +1,55 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (CD tr�s)
-      (NN primeiros)
-    )
-    (VP 
-      (VBP est�o)
-    )
-    (VP 
-      (VP 
-        (VBN voltados)
-      )
-      (PP 
-        (IN para)
-        (NP 
-          (DT a)
-          (NN TV)
-          (PP 
-            (IN a)
-            (NP 
-              (NN cabo)
-              (,)
-              (VP 
-                (ADVP 
-                  (RB onde)
-                )
-                (VP 
-                  (VBP atuam)
-                )
-                (ADVP 
-                  (ADVP 
-                    (ADVP 
-                      (RB como)
-                    )
-                    (NP 
-                      (NN operadores)
-                    )
-                  )
-                )
-                (PP 
-                  (IN em)
-                  (NP 
-                    (PRP v�rios)
-                    (NN Estados)
-                  )
-                  (CC e)
-                )
-                (ADVP 
-                  (ADVP 
-                    (ADVP 
-                      (RB como)
-                    )
-                    (NP 
-                      (NN s�cios)
-                      (PP 
-                        (IN de+)
-                        (NP 
-                          (DT a)
-                          (JJ maior)
-                          (NN empresa)
-                          (PP 
-                            (IN de)
-                            (NP 
-                              (NN distribui��o)
-                              (PP 
-                                (IN de)
-                                (NP 
-                                  (NN programa��o)
-                                )
-                              )
-                            )
-                          )
-                          (;)
-                          (NP 
-                            (DT a)
-                            (NNP Net_Brasil)
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-  )
-)
+(S (VP (NP (DT Os)
+                                 (CD tr�s)
+                                 (NN primeiros))
+                        (VP (VBP est�o))
+                        (VP (VP (VBN voltados))
+                                (PP (IN para)
+                                       (NP 
+                                         (DT a)
+                                         (NN TV)
+                                         (PP 
+                                           (IN a)
+                                           (NP 
+                                             (NN cabo)
+                                             (,)
+                                             (VP 
+                                               (ADVP 
+                                                 (RB onde))
+                                               (VP 
+                                                 (VBP atuam))
+                                               (_CU_ 
+                                                 (ADVP 
+                                                   (ADVP 
+                                                     (RB como))
+                                                   (NP 
+                                                     (NN operadores))))
+                                               (PP 
+                                                 (IN em)
+                                                 (NP 
+                                                   (PRP v�rios)
+                                                   (NN Estados))
+                                                 (CC e))
+                                               (_CU_ 
+                                                 (ADVP 
+                                                   (ADVP 
+                                                     (RB como))
+                                                   (NP 
+                                                     (NN s�cios)
+                                                     (PP 
+                                                       (IN de+)
+                                                       (NP 
+                                                         (DT a)
+                                                         (JJ maior)
+                                                         (NN empresa)
+                                                         (PP 
+                                                           (IN de)
+                                                           (NP 
+                                                             (NN distribui��o)
+                                                             (PP 
+                                                               (IN de)
+                                                               (NP 
+                                                                 (NN programa��o)))))
+                                                         (;)
+                                                         (NP 
+                                                           (DT a)
+                                                           (NNP Net_Brasil)))))))))))))))

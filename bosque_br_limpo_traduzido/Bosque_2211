@@ -1,43 +1,24 @@
-(S 
-  (NP 
-    (NP 
-      (NNP Patr�cia)
-    )
-    (--)
-    (VP 
-      (NP 
-        (PRP Minha)
-        (NN literatura)
-      )
-      (VP 
-        (VBP vem)
-      )
-      (PP 
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN imagem)
-          )
-        )
-        (,)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN TV)
-          )
-        )
-        (,)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN cinema)
-          )
-        )
-      )
-      (.)
-    )
-  )
-)
+(S (NP (NP (NNP Patr�cia))
+                       (--)
+                       (VP (NP 
+                                  (PRP Minha)
+                                  (NN literatura))
+                                (VP (VBP vem))
+                                (_CU_ (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NN imagem)))
+                                        (,)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NN TV)))
+                                        (,)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN cinema))))
+                                (.))))

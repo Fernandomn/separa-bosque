@@ -1,68 +1,39 @@
-(S 
-  (VP 
-    (PP 
-      (IN A_partir_de+)
-      (NP 
-        (DT a)
-        (JJ pr�xima)
-        (NN semana)
-      )
-    )
-    (,)
-    (VP 
-      (VBP v�o)
-      (VB viajar)
-    )
-    (PP 
-      (IN para)
-      (NP 
-        (DT os)
-        (NN Estados)
-      )
-    )
-    (NP 
-      (DT os)
-      (NN membros)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN coordena��o)
-        )
-      )
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (ADVP 
-          (RB n�o)
-        )
-        (VP 
-          (VBP pertenceram)
-        )
-        (PP 
-          (IN a+)
-          (NP 
-            (DT o)
-            (NN n�cleo)
-            (VP 
-              (NP 
-                (PRP que)
-              )
-              (VP 
-                (VBP passa)
-                (IN a)
-                (VB deter)
-              )
-              (NP 
-                (DT as)
-                (NN decis�es)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN A_partir_de+)
+                                 (NP (DT a)
+                                        (JJ pr�xima)
+                                        (NN semana)))
+                        (,)
+                        (VP (VBP v�o)
+                              (VB viajar))
+                        (PP (IN para)
+                               (NP (DT os)
+                                      (NN Estados)))
+                        (NP (DT os)
+                                 (NN membros)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN coordena��o)))
+                                 (VP 
+                                   (NP 
+                                     (PRP que))
+                                   (ADVP 
+                                     (RB n�o))
+                                   (VP 
+                                     (VBP pertenceram))
+                                   (PP 
+                                     (IN a+)
+                                     (NP 
+                                       (DT o)
+                                       (NN n�cleo)
+                                       (VP 
+                                         (NP 
+                                           (PRP que))
+                                         (VP 
+                                           (VBP passa)
+                                           (IN a)
+                                           (VB deter))
+                                         (NP 
+                                           (DT as)
+                                           (NN decis�es)))))))
+                        (.)))

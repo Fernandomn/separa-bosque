@@ -1,32 +1,16 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN m�dico)
-    )
-    (VP 
-      (VBP diz)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT o)
-        (NN edema)
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (PRP este)
-          (NN caso)
-        )
-      )
-      (VP 
-        (VBP �)
-      )
-      (ADJP 
-        (JJ irrevers�vel)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN m�dico))
+                        (VP (VBP diz))
+                        (VP (IN que)
+                                 (NP 
+                                   (DT o)
+                                   (NN edema))
+                                 (PP 
+                                   (IN em+)
+                                   (NP 
+                                     (PRP este)
+                                     (NN caso)))
+                                 (VP (VBP �))
+                                 (ADJP 
+                                   (JJ irrevers�vel)))
+                        (.)))

@@ -1,28 +1,12 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Antes)
-    )
-    (NP 
-      (NP 
-        (DT o)
-        (NNP Scala)
-      )
-      (CC e)
-      (NP 
-        (DT o)
-        (NNP Monte_l�bano)
-      )
-    )
-    (ADVP 
-      (RB s�)
-    )
-    (VP 
-      (VBP contratavam)
-    )
-    (NP 
-      (NN peladas)
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Antes))
+                         (_CU_ (NP 
+                                    (DT o)
+                                    (NNP Scala))
+                                  (CC e)
+                                  (NP 
+                                    (DT o)
+                                    (NNP Monte_l�bano)))
+                         (ADVP (RB s�))
+                         (VP (VBP contratavam))
+                         (NP (NN peladas))
+                         (.)))

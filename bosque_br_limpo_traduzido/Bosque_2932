@@ -1,80 +1,46 @@
-(S 
-  (VP 
-    (ADJP 
-      (JJ Confiante)
-      (PP 
-        (IN em)
-        (NP 
-          (DT uma)
-          (JJ eventual)
-          (NN vit�ria)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN candidato)
-              (NP 
-                (NNP Fernando_Henrique_Cardoso)
-              )
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN c�pula)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP PSDB)
-        )
-      )
-    )
-    (ADVP 
-      (RB j�)
-    )
-    (VP 
-      (VBP articula)
-    )
-    (NP 
-      (DT a)
-      (NN forma��o)
-      (PP 
-        (IN de)
-        (NP 
-          (DT um)
-          (NN superpartido)
-        )
-      )
-    )
-    (PP 
-      (IN para)
-      (VP 
-        (ADVP 
-          (RB n�o)
-        )
-        (VP 
-          (VB depender)
-        )
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NNP PFL)
-          )
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT o)
-            (NN Congresso)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADJP (JJ Confiante)
+                                   (PP 
+                                     (IN em)
+                                     (NP 
+                                       (DT uma)
+                                       (JJ eventual)
+                                       (NN vit�ria)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT o)
+                                           (NN candidato)
+                                           (NP 
+                                             (NNP Fernando_Henrique_Cardoso)))))))
+                        (,)
+                        (NP (DT a)
+                                 (NN c�pula)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NNP PSDB))))
+                        (ADVP (RB j�))
+                        (VP (VBP articula))
+                        (NP (DT a)
+                                (NN forma��o)
+                                (PP (IN de)
+                                       (NP 
+                                         (DT um)
+                                         (NN superpartido))))
+                        (PP (IN para)
+                                 (VP 
+                                   (ADVP 
+                                     (RB n�o))
+                                   (VP 
+                                     (VB depender))
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT o)
+                                       (NNP PFL)))
+                                   (PP 
+                                     (IN em+)
+                                     (NP 
+                                       (DT o)
+                                       (NN Congresso)))))
+                        (.)))

@@ -1,44 +1,24 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN restante)
-    )
-    (VP 
-      (VBP ser�)
-      (VBN comercializado)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NP 
-          (NP 
-            (NN supermercados)
-          )
-          (,)
-          (NP 
-            (NN feiras)
-          )
-          (CC e)
-          (NP 
-            (NN ind�strias)
-          )
-        )
-        (PP 
-          (IN de)
-          (NP 
-            (NN sorvetes)
-          )
-        )
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NNP Paran�)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN restante))
+                        (VP (VBP ser�)
+                              (VBN comercializado))
+                        (PP (IN em)
+                                 (NP (_CU_ 
+                                          (NP 
+                                            (NN supermercados))
+                                          (,)
+                                          (NP 
+                                            (NN feiras))
+                                          (CC e)
+                                          (NP 
+                                            (NN ind�strias)))
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN sorvetes)))
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NNP Paran�)))))
+                        (.)))

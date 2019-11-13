@@ -1,26 +1,12 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Cada)
-      (PRP um)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NN produtos)
-        )
-      )
-    )
-    (VP 
-      (VBP deve)
-      (VB custar)
-    )
-    (NP 
-      (NN US$)
-      (ADJP 
-        (CD 329)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Cada)
+                                 (PRP um)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT os)
+                                          (NN produtos))))
+                        (VP (VBP deve)
+                              (VB custar))
+                        (NP (NN US$)
+                                (ADJP 
+                                  (CD 329)))
+                        (.)))

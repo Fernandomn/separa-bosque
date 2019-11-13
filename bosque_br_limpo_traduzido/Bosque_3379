@@ -1,75 +1,45 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Ohtake)
-    )
-    (VP 
-      (VBP diz)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (RB at�)
-        (DT o)
-        (NP 
-          (NP 
-            (NN compositor)
-          )
-          (CC e)
-          (NP 
-            (NN cantor)
-          )
-        )
-        (ADJP 
-          (JJ baiano)
-        )
-        (NP 
-          (NNP Caetano_Veloso)
-        )
-      )
-      (VP 
-        (VBP manifestou)
-      )
-      (NP 
-        (NN desejo)
-        (PP 
-          (IN de)
-          (VP 
-            (VP 
-              (VB assistir)
-            )
-            (PP 
-              (IN a+)
-              (NP 
-                (DT o)
-                (NN show)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NNP Nusrat)
-                  )
-                )
-              )
-            )
-            (,)
-            (PP 
-              (IN em+)
-              (NP 
-                (PRP esta)
-                (NN segunda-feira)
-              )
-            )
-            (,)
-            (PP 
-              (IN em)
-              (NP 
-                (NNP S�o_Paulo)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Ohtake))
+                        (VP (VBP diz))
+                        (VP (IN que)
+                                 (NP 
+                                   (RB at�)
+                                   (DT o)
+                                   (_CU_ 
+                                     (NP 
+                                       (NN compositor))
+                                     (CC e)
+                                     (NP 
+                                       (NN cantor)))
+                                   (ADJP 
+                                     (JJ baiano))
+                                   (NP 
+                                     (NNP Caetano_Veloso)))
+                                 (VP (VBP manifestou))
+                                 (NP 
+                                   (NN desejo)
+                                   (PP 
+                                     (IN de)
+                                     (VP 
+                                       (VP 
+                                         (VB assistir))
+                                       (PP 
+                                         (IN a+)
+                                         (NP 
+                                           (DT o)
+                                           (NN show)
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NNP Nusrat)))))
+                                       (,)
+                                       (PP 
+                                         (IN em+)
+                                         (NP 
+                                           (PRP esta)
+                                           (NN segunda-feira)))
+                                       (,)
+                                       (PP 
+                                         (IN em)
+                                         (NP 
+                                           (NNP S�o_Paulo)))))))
+                        (.)))

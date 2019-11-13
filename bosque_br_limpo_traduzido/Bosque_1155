@@ -1,110 +1,69 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Aposto)
-    )
-    (NP 
-      (DT uma)
-      (NN boneca)
-      (NP 
-        (NNP Barbie)
-      )
-    )
-    (VP 
-      (RB como)
-      (NP 
-        (DT os)
-        (NN pais)
-        (PP 
-          (IN de)
-          (NP 
-            (NN crian�as)
-            (PP 
-              (IN entre)
-              (NP 
-                (ADJP 
-                  (ADJP 
-                    (CD cinco)
-                  )
-                  (CC e)
-                  (ADJP 
-                    (CD doze)
-                  )
-                )
-                (NN anos)
-              )
-            )
-          )
-        )
-      )
-      (ADVP 
-        (RB ainda)
-      )
-      (VP 
-        (VBP v�o)
-        (VB perder)
-      )
-      (NP 
-        (PRP v�rios)
-        (NN fios)
-        (PP 
-          (IN de)
-          (NP 
-            (NN cabelo)
-          )
-        )
-        (VP 
-          (VP 
-            (VBG procurando)
-          )
-          (PP 
-            (IN por)
-            (NP 
-              (DT um)
-              (PRP tal)
-              (PP 
-                (IN de)
-                (NP 
-                  (NNP Mighty_Max)
-                )
-              )
-            )
-            (PP 
-              (PP 
-                (IN debaixo_de+)
-                (NP 
-                  (DT o)
-                  (NN sof�)
-                )
-              )
-              (,)
-              (PP 
-                (IN em+)
-                (NP 
-                  (DT o)
-                  (NN cinzeiro)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT o)
-                      (NN carro)
-                    )
-                  )
-                )
-              )
-              (CC ou)
-              (PP 
-                (IN atr�s_de+)
-                (NP 
-                  (DT a)
-                  (NN geladeira)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Aposto))
+                        (NP (DT uma)
+                                (NN boneca)
+                                (NP (NNP Barbie)))
+                        (VP (RB como)
+                                  (NP 
+                                    (DT os)
+                                    (NN pais)
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (NN crian�as)
+                                        (PP 
+                                          (IN entre)
+                                          (NP 
+                                            (_CU_ 
+                                              (ADJP 
+                                                (CD cinco))
+                                              (CC e)
+                                              (ADJP 
+                                                (CD doze)))
+                                            (NN anos))))))
+                                  (ADVP 
+                                    (RB ainda))
+                                  (VP (VBP v�o)
+                                        (VB perder))
+                                  (NP 
+                                    (PRP v�rios)
+                                    (NN fios)
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (NN cabelo)))
+                                    (VP 
+                                      (VP 
+                                        (VBG procurando))
+                                      (PP 
+                                        (IN por)
+                                        (NP 
+                                          (DT um)
+                                          (PRP tal)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NNP Mighty_Max))))
+                                        (_CU_ 
+                                          (PP 
+                                            (IN debaixo_de+)
+                                            (NP 
+                                              (DT o)
+                                              (NN sof�)))
+                                          (,)
+                                          (PP 
+                                            (IN em+)
+                                            (NP 
+                                              (DT o)
+                                              (NN cinzeiro)
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT o)
+                                                  (NN carro)))))
+                                          (CC ou)
+                                          (PP 
+                                            (IN atr�s_de+)
+                                            (NP 
+                                              (DT a)
+                                              (NN geladeira))))))))
+                        (.)))

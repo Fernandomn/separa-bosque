@@ -1,45 +1,25 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN pol�cia)
-    )
-    (VP 
-      (VBP pretende)
-    )
-    (VP 
-      (VP 
-        (VB localizar)
-      )
-      (NP 
-        (PRP todos)
-        (DT os)
-        (VBN envolvidos)
-        (PP 
-          (IN em+)
-          (NP 
-            (DT a)
-            (NN briga)
-          )
-        )
-      )
-      (PP 
-        (IN at�)
-        (NP 
-          (DT o)
-          (NN dia)
-          (ADJP 
-            (CD 21)
-          )
-          (PP 
-            (IN de)
-            (NP 
-              (NN outubro)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN pol�cia))
+                        (VP (VBP pretende))
+                        (VP (VP (VB localizar))
+                                 (NP 
+                                   (PRP todos)
+                                   (DT os)
+                                   (VBN envolvidos)
+                                   (PP 
+                                     (IN em+)
+                                     (NP 
+                                       (DT a)
+                                       (NN briga))))
+                                 (PP 
+                                   (IN at�)
+                                   (NP 
+                                     (DT o)
+                                     (NN dia)
+                                     (ADJP 
+                                       (CD 21))
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NN outubro))))))
+                        (.)))

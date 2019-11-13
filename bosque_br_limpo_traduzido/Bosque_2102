@@ -1,39 +1,21 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Citou)
-    )
-    (NP 
-      (PRP outros)
-      (VP 
-        (VP 
-          (VBN ocorridos)
-        )
-        (ADVP 
-          (RB recentemente)
-        )
-        (PP 
-          (IN em)
-          (NP 
-            (NP 
-              (NNP Carinhanha)
-            )
-            (,)
-            (NP 
-              (NNP Santa_Maria_da_Vit�ria)
-            )
-            (,)
-            (NP 
-              (NNP Paratinga)
-            )
-            (CC e)
-            (NP 
-              (NNP Guanambi)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Citou))
+                        (NP (PRP outros)
+                                (VP (VP 
+                                          (VBN ocorridos))
+                                        (ADVP 
+                                          (RB recentemente))
+                                        (PP 
+                                          (IN em)
+                                          (_CU_ 
+                                            (NP 
+                                              (NNP Carinhanha))
+                                            (,)
+                                            (NP 
+                                              (NNP Santa_Maria_da_Vit�ria))
+                                            (,)
+                                            (NP 
+                                              (NNP Paratinga))
+                                            (CC e)
+                                            (NP 
+                                              (NNP Guanambi))))))
+                        (.)))

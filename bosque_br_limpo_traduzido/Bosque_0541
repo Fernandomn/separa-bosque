@@ -1,22 +1,8 @@
-(S 
-  (VP 
-    (NP 
-      (NN Ag�ncia)
-      (ADJP 
-        (JJ tucana)
-      )
-    )
-    (VP 
-      (VBP reconhece)
-    )
-    (VP 
-      (VP 
-        (VB ter)
-        (VBN cometido)
-      )
-      (NP 
-        (NN erro)
-      )
-    )
-  )
-)
+(S (VP (NP (NN Ag�ncia)
+                                 (ADJP 
+                                   (JJ tucana)))
+                        (VP (VBP reconhece))
+                        (VP (VP (VB ter)
+                                       (VBN cometido))
+                                 (NP 
+                                   (NN erro)))))

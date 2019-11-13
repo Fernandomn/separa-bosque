@@ -1,76 +1,44 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN inten��o)
-      (PP 
-        (IN de)
-        (NP 
-          (NNP Fleury)
-        )
-      )
-    )
-    (VP 
-      (VBP �)
-    )
-    (VP 
-      (VP 
-        (VP 
-          (VB vender)
-        )
-        (NP 
-          (DT as)
-          (NN a��es)
-        )
-        (PP 
-          (IN para)
-          (VP 
-            (VP 
-              (VB equilibrar)
-            )
-            (NP 
-              (DT as)
-              (NN finan�as)
-            )
-          )
-        )
-      )
-      (CC e)
-      (VP 
-        (VP 
-          (VB come�ar)
-          (IN a)
-          (VB pagar)
-        )
-        (NP 
-          (DT a)
-          (NN d�vida)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN Estado)
-            )
-          )
-          (,)
-          (VP 
-            (VP 
-              (VBN estimada)
-            )
-            (PP 
-              (IN em)
-              (NP 
-                (NN R$)
-                (NP 
-                  (CD 31)
-                  (NN bilh�es)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN inten��o)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NNP Fleury))))
+                        (VP (VBP �))
+                        (_CU_ (VP (VP 
+                                          (VB vender))
+                                        (NP 
+                                          (DT as)
+                                          (NN a��es))
+                                        (PP 
+                                          (IN para)
+                                          (VP 
+                                            (VP 
+                                              (VB equilibrar))
+                                            (NP 
+                                              (DT as)
+                                              (NN finan�as)))))
+                               (CC e)
+                               (VP (VP 
+                                          (VB come�ar)
+                                          (IN a)
+                                          (VB pagar))
+                                        (NP 
+                                          (DT a)
+                                          (NN d�vida)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (NN Estado)))
+                                          (,)
+                                          (VP 
+                                            (VP 
+                                              (VBN estimada))
+                                            (PP 
+                                              (IN em)
+                                              (NP 
+                                                (NN R$)
+                                                (NP 
+                                                  (CD 31)
+                                                  (NN bilh�es))))))))
+                        (.)))

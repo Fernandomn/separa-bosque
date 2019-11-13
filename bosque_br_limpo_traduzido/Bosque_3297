@@ -1,33 +1,17 @@
-(S 
-  (VP 
-    (�)
-    (ADVP 
-      (RB Hoje)
-    )
-    (,)
-    (VP 
-      (VBP tenho)
-    )
-    (NP 
-      (NP 
-        (RB s�)
-        (DT uma)
-        (NN fazenda)
-      )
-      (CC e)
-      (NP 
-        (PRP pouco)
-        (RB mais_de)
-        (CD 500)
-        (NN cabe�as)
-        (PP 
-          (IN de)
-          (NP 
-            (NN gado)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (�)
+                        (ADVP (RB Hoje))
+                        (,)
+                        (VP (VBP tenho))
+                        (_CU_ (NP (RB s�)
+                                        (DT uma)
+                                        (NN fazenda))
+                                (CC e)
+                                (NP (PRP pouco)
+                                        (RB mais_de)
+                                        (CD 500)
+                                        (NN cabe�as)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN gado)))))
+                        (.)))

@@ -1,25 +1,11 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN resto)
-    )
-    (VP 
-      (VBP �)
-      (VBN composto)
-    )
-    (PP 
-      (IN de)
-      (NP 
-        (NP 
-          (NN meias-armadores)
-        )
-        (CC e)
-        (NP 
-          (NN atacantes)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN resto))
+                        (VP (VBP �)
+                              (VBN composto))
+                        (PP (IN de)
+                                (_CU_ (NP 
+                                         (NN meias-armadores))
+                                       (CC e)
+                                       (NP 
+                                         (NN atacantes))))
+                        (.)))

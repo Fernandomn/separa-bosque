@@ -1,66 +1,42 @@
-(S 
-  (NP 
-    (NN Consulta)
-    (VP 
-      (VP 
-        (VBN realizada)
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT os)
-          (NN dias)
-          (UCP 
-            (NP 
-              (CD 28)
-            )
-            (CC e)
-            (ADJP 
-              (CD 29/03/94)
-            )
-          )
-        )
-      )
-      (ADVP 
-        (RB junto)
-        (PP 
-          (IN a+)
-          (NP 
-            (DT as)
-            (NN locadoras)
-            (NP 
-              (NP 
-                (NNP Cine_Arte_V�deo)
-              )
-              (,)
-              (NP 
-                (NNP Gentile_V�deo_Hobby_V�deo)
-              )
-              (,)
-              (NP 
-                (NNP Over_V�deo)
-              )
-              (,)
-              (NP 
-                (NNP Real_V�deo)
-              )
-              (,)
-              (NP 
-                (NNP V�deo_Clube_do_Brasil)
-              )
-              (,)
-              (NP 
-                (NNP V�deo_Factory)
-              )
-              (CC e)
-              (NP 
-                (NNP Wolf_V�deo)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (NP (NN Consulta)
+                        (VP (VP (VBN realizada))
+                                (PP 
+                                  (IN em+)
+                                  (NP 
+                                    (DT os)
+                                    (NN dias)
+                                    (_CU_ 
+                                      (NP 
+                                        (CD 28))
+                                      (CC e)
+                                      (ADJP 
+                                        (CD 29/03/94)))))
+                                (ADVP 
+                                  (RB junto)
+                                  (PP 
+                                    (IN a+)
+                                    (NP 
+                                      (DT as)
+                                      (NN locadoras)
+                                      (_CU_ 
+                                        (NP 
+                                          (NNP Cine_Arte_V�deo))
+                                        (,)
+                                        (NP 
+                                          (NNP Gentile_V�deo_Hobby_V�deo))
+                                        (,)
+                                        (NP 
+                                          (NNP Over_V�deo))
+                                        (,)
+                                        (NP 
+                                          (NNP Real_V�deo))
+                                        (,)
+                                        (NP 
+                                          (NNP V�deo_Clube_do_Brasil))
+                                        (,)
+                                        (NP 
+                                          (NNP V�deo_Factory))
+                                        (CC e)
+                                        (NP 
+                                          (NNP Wolf_V�deo)))))))
+                        (.)))

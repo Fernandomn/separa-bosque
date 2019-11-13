@@ -1,82 +1,47 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (DT a)
-        (NN loja)
-        (PP 
-          (IN de)
-          (NP 
-            (NNP Nova_York)
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT o)
-      (NNP Compaq_Aero)
-    )
-    (VP 
-      (VBP est�)
-    )
-    (PP 
-      (IN por)
-      (NP 
-        (NN US$)
-        (ADJP 
-          (CD 996,97)
-        )
-      )
-    )
-    (-LCB-)
-    (VP 
-      (VP 
-        (IN se)
-        (VP 
-          (VBP chegar)
-        )
-        (PP 
-          (IN a+)
-          (NP 
-            (DT as)
-            (NN 9h)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (NN manh�)
-              )
-            )
-          )
-        )
-      )
-      (,)
-      (VP 
-        (VBP ganha)
-      )
-      (NP 
-        (DT o)
-        (NN cupom)
-        (PP 
-          (IN de)
-          (NP 
-            (NN desconto)
-            (PP 
-              (IN de)
-              (NP 
-                (NN US$)
-                (ADJP 
-                  (CD 100)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (-RCB-)
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (DT a)
+                                        (NN loja)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NNP Nova_York)))))
+                        (,)
+                        (NP (DT o)
+                                 (NNP Compaq_Aero))
+                        (VP (VBP est�))
+                        (PP (IN por)
+                               (NP (NN US$)
+                                      (ADJP 
+                                        (CD 996,97))))
+                        (-LCB-)
+                        (VP (VP 
+                                   (IN se)
+                                   (VP 
+                                     (VBP chegar))
+                                   (PP 
+                                     (IN a+)
+                                     (NP 
+                                       (DT as)
+                                       (NN 9h)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT a)
+                                           (NN manh�))))))
+                                 (,)
+                                 (VP (VBP ganha))
+                                 (NP 
+                                   (DT o)
+                                   (NN cupom)
+                                   (PP 
+                                     (IN de)
+                                     (NP 
+                                       (NN desconto)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN US$)
+                                           (ADJP 
+                                             (CD 100))))))))
+                        (-RCB-)
+                        (.)))

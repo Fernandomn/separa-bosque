@@ -1,32 +1,16 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Tem)
-    )
-    (NP 
-      (PRP v�rios)
-      (NN ap�ndices)
-      (PP 
-        (IN de)
-        (NP 
-          (NN software)
-        )
-      )
-      (PP 
-        (IN para)
-        (UCP 
-          (NP 
-            (NNP DOS)
-          )
-          (CC ou)
-          (�)
-          (NP 
-            (NNP Windows)
-          )
-          (�)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Tem))
+                        (NP (PRP v�rios)
+                                (NN ap�ndices)
+                                (PP (IN de)
+                                       (NP 
+                                         (NN software)))
+                                (PP (IN para)
+                                       (_CU_ 
+                                         (NP 
+                                           (NNP DOS))
+                                         (CC ou)
+                                         (�)
+                                         (NP 
+                                           (NNP Windows))
+                                         (�))))
+                        (.)))

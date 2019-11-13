@@ -1,50 +1,26 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN n�veis)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NN dep�sitos)
-        )
-      )
-    )
-    (VP 
-      (VBP aumentaram)
-    )
-    (NP 
-      (CD 440)
-      (NN %)
-    )
-    (,)
-    (PP 
-      (IN em)
-      (ADJP 
-        (CD 1993)
-      )
-    )
-    (,)
-    (PP 
-      (RB basicamente)
-      (IN em_fun��o_de)
-      (NP 
-        (NN dep�sitos)
-        (UCP 
-          (ADJP 
-            (JJ interfinanceiros)
-          )
-          (CC e)
-          (PP 
-            (IN a)
-            (NP 
-              (NN prazo)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN n�veis)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT os)
+                                          (NN dep�sitos))))
+                        (VP (VBP aumentaram))
+                        (NP (CD 440)
+                                (NN %))
+                        (,)
+                        (PP (IN em)
+                                 (ADJP 
+                                   (CD 1993)))
+                        (,)
+                        (PP (RB basicamente)
+                                 (IN em_fun��o_de)
+                                 (NP (NN dep�sitos)
+                                        (_CU_ 
+                                          (ADJP 
+                                            (JJ interfinanceiros))
+                                          (CC e)
+                                          (PP 
+                                            (IN a)
+                                            (NP 
+                                              (NN prazo))))))
+                        (.)))

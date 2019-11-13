@@ -1,64 +1,36 @@
-(S 
-  (VP 
-    (PP 
-      (IN Com)
-      (NP 
-        (PRP esse)
-        (NN caso)
-        (PP 
-          (IN em)
-          (NP 
-            (NNP Caetit�)
-          )
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VBP chega)
-    )
-    (PP 
-      (IN a)
-      (ADJP 
-        (CD 14)
-      )
-    )
-    (NP 
-      (DT o)
-      (NN n�mero)
-      (PP 
-        (IN de)
-        (NP 
-          (NN linchamentos)
-          (VP 
-            (VP 
-              (VBN registrados)
-            )
-            (PP 
-              (IN em+)
-              (NP 
-                (DT a)
-                (NNP Bahia)
-              )
-            )
-            (PP 
-              (IN desde)
-              (NP 
-                (DT o)
-                (NN in�cio)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (PRP este)
-                    (NN ano)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Com)
+                                 (NP (PRP esse)
+                                        (NN caso)
+                                        (PP 
+                                          (IN em)
+                                          (NP 
+                                            (NNP Caetit�)))))
+                        (,)
+                        (VP (VBP chega))
+                        (PP (IN a)
+                                (ADJP 
+                                  (CD 14)))
+                        (NP (DT o)
+                                 (NN n�mero)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NN linchamentos)
+                                          (VP 
+                                            (VP 
+                                              (VBN registrados))
+                                            (PP 
+                                              (IN em+)
+                                              (NP 
+                                                (DT a)
+                                                (NNP Bahia)))
+                                            (PP 
+                                              (IN desde)
+                                              (NP 
+                                                (DT o)
+                                                (NN in�cio)
+                                                (PP 
+                                                  (IN de+)
+                                                  (NP 
+                                                    (PRP este)
+                                                    (NN ano)))))))))
+                        (.)))

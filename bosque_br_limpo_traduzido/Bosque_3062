@@ -1,61 +1,36 @@
-(S 
-  (VP 
-    (PP 
-      (IN Por+)
-      (NP 
-        (DT o)
-        (NN grupo)
-        (ADJP 
-          (JJ brazuca)
-        )
-      )
-    )
-    (,)
-    (ADVP 
-      (RB ainda)
-    )
-    (VP 
-      (VBP estar�o)
-    )
-    (ADJP 
-      (JJ presentes)
-    )
-    (NP 
-      (NP 
-        (NNP Tyes)
-      )
-      (CC e)
-      (NP 
-        (NNP Caio)
-        (-LCB-)
-        (NP 
-          (NNP Rio_de_Janeiro)
-        )
-        (-RCB-)
-      )
-      (CC e)
-      (NP 
-        (DT o)
-        (NN especialista)
-        (PP 
-          (IN em)
-          (�)
-          (NP 
-            (NN body_piercing)
-          )
-          (�)
-        )
-        (,)
-        (NP 
-          (NNP Andr�_Meyer)
-        )
-        (-LCB-)
-        (NP 
-          (NNP S�o_Paulo)
-        )
-        (-RCB-)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Por+)
+                                 (NP (DT o)
+                                        (NN grupo)
+                                        (ADJP 
+                                          (JJ brazuca))))
+                        (,)
+                        (ADVP (RB ainda))
+                        (VP (VBP estar�o))
+                        (ADJP (JJ presentes))
+                        (_CU_ (NP 
+                                   (NNP Tyes))
+                                 (CC e)
+                                 (NP 
+                                   (NNP Caio)
+                                   (-LCB-)
+                                   (NP 
+                                     (NNP Rio_de_Janeiro))
+                                   (-RCB-))
+                                 (CC e)
+                                 (NP 
+                                   (DT o)
+                                   (NN especialista)
+                                   (PP 
+                                     (IN em)
+                                     (�)
+                                     (NP 
+                                       (NN body_piercing))
+                                     (�))
+                                   (,)
+                                   (NP 
+                                     (NNP Andr�_Meyer))
+                                   (-LCB-)
+                                   (NP 
+                                     (NNP S�o_Paulo))
+                                   (-RCB-)))
+                        (.)))
