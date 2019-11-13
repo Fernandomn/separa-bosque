@@ -7,9 +7,9 @@ except:
     portugues = 'br'
 
 # CENTEMPublico (portugues de portugual)
-arquivoPortugal = "Bosque_CP_8.0.PennTreebank.txt"
+arquivoPortugal = "Bosque_CF_8.0.PennTreebank.txt"
 # CENTEMFolha (portugues brasileiro)
-arquivoBrasil = "Bosque_CF_8.0.PennTreebank.txt"
+arquivoBrasil = "Bosque_CP_8.0.PennTreebank.txt"
 
 nomeArquivo = arquivoPortugal if portugues == 'pt' else arquivoBrasil
 

@@ -1,21 +1,36 @@
 import sys
 import os
 
-global tagRemover
-global tagHifem
-global tagCoord
-global tagConjCoord
-
-
-tagRemover = '(FRASE'
-tagHifem = '_EC_'
-tagCoord = '_CU_'
-tagConjCoord = 'CC'
-
 
 def init():
     global tabela
+    global tabelaFuncoes
+    global tagRemover
+    global tagHifem
+    global tagCoord
+    global tagConjCoord
+    global percentTag
+    global tag_x
+    global tagX
+    global posTagsProb
+    global tagCu
+    global tagCJT
+    global tagFlat
+
+    tagRemover = '(FRASE'
+    tagHifem = '_EC_'
+    tagCu = 'cu'
+    tagCoord = '_CU_'
+    tagCJT = '_CJT_'
+    tagConjCoord = 'CC'
+    percentTag = '_PERC_'
+    tag_x = 'x'
+    tagX = '_X_'
+    tagFlat='_FLAT_'
+    posTagsProb = [tag_x]
     tabela = {}
+    tabelaFuncoes = {}
+
 
 # Verifica se o o nó aliado é uma folha ou não
 

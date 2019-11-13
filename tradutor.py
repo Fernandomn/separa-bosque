@@ -30,7 +30,7 @@ def tradutor(tag):
             # Formas Oracionais
             'fcl': 'VP',  # Forma Oracional Finita -> usa verbos não no infinitivo -> sintagma verbal
             'icl': 'VP',  # Forma Oracional não finita
-            'acl': 'ADVP',  # Forma Oracional adverbial TODO
+            'acl': 'ADVP',  # Forma Oracional averbal TODO
 
             # Sintagmas
             'np': 'NP',  # Sintagma nominais
@@ -40,9 +40,8 @@ def tradutor(tag):
             'pp': 'PP',  # Sintagma preposicionais
             # Sintagma evidenciador coordenação
             'cu': settings.tagCoord,
-            # 'cu': 'CU',
             # Sintagma sequências discursivas - (pnc dessa tag). Substituir por NP, por ser a tag filha imediata desta
-            'sq': 'NP',
+            'sq': 'S',
 
             # Classes de palavras
             'n': 'NN',  # substantivos
@@ -68,79 +67,98 @@ def tradutor(tag):
             'prp': 'IN',  # preposições
             'intj': 'UH',  # interjeições
             'conj-s': 'IN',  # conjunções subordinativa
-            'conj-c': 'CC',  # conjunções coordenativa
+            'conj-c': settings.tagFlat,  # conjunções coordenativa
             'ec': settings.tagHifem,  # prefixos - ativei o modo Elza e let it go
-
-            # Enunciados
-            # 'UTT': 'NP',  # enunciados - não tem muito o que fazer aqui...
-            # 'STA': 'NP',  # declarativo - outra tag aleatória
-            # 'QUE': 'NP',  # interrogativo
-            # 'CMD': 'VP',  # imperativo - caraio, não tem tag pra isso.
-            # 'EXC': 'NP',  # exclamativo - pode ser literalmente qualquer um
-
-            # # Orações
-            # 'SUBJ': '-SBJ',  # sujeito
-            # 'ACC': '-OBJ',  # obj. directo
-            # 'ACC-PASS': 'NP',  # part. apassivante - ok, inglês não tem nenhuma particula de voz passiva. é obj+to be + verbo participio + compl. seguindo o proprio BOSQUE, é um NP
-            # 'DAT': '-OBJ',  # obj. ind. pronominal - não tem a inflexão dativa no inglês, e não tem tag no ptb para objeto indireto
-            # 'PIV': 'IN',  # obj. ind. preposicional
-            # 'PASS': 'IN',  # agente passiva - de acordo com o bosque, é pp
-            # # adj. adverbiais do sujeito - poderia ser cu, pp, advp e np (referente ao BOSQUE), mas pp ocorre muito mais vezes
-            # 'SA': 'IN',
-            # 'OA': 'IN',  # adj. adverbiais do objecto
-            # 'ADVL': 'IN',  # adj. adverbiais livres - pode ser pp, advp, flc, icl, np, cu. principalmente pp ou advp. esses dois ultimos quase em igual proporção. vou chutar pp
-            # 'SC': 'NP',  # predicativos do sujeito - mais um caso múltiplo. pode ser np, advp, pp, icl, adjp, cu. np e advp com grandes chances. deliberadamente vou escolher np
-            # 'OC': 'ADVP',  # predicativos do objecto - pode ser adjp, advp, acl, cu, v-pcp, np, pp, icl. maior parte noa amostra foi acl
-            # # predicativos verbo-nominais - podem ser icl, np, pp, adjp, cu, adj, pron-det. icl maioria.
-            # 'PRED': 'VP',
-            # 'VOC': 'NP',  # vocativo - todo vocativo do bosque é um NP
-            # 'APP': 'NP',  # apostos normal - pode ser fcl, np, adjp, cu, advp. np maioria
-            # 'N<PRED': 'NP',  # apostos epit. predicativo - pode ser fcl, np, pp, cu. É bem distribuido, mas a priori, a maior parte é NP
-            # '>S': 'JJ',  # apostos da oração - se for >S, é sempre adj.
-            # 'S<': 'NP',  # apostos da oração - se for S<, pode ser fcl ou np. Mais seguro ir no np
-            # 'N<ARGS': 'IN',  # compl. nominais do sujeito - só tem pp, ufa
-            # 'N<ARGO': 'IN',  # compl. nominais do objecto - só tem pp
-            # 'N<ARG': 'IN',  # compl. nominais outros - só pp
-            # 'P': 'VB',  # predicador - maior parte disparado é vp
-            # 'FOC': 'RB',  # foco - maioria é advp
-            # # tópico - poucos casos. todos envolvem ou np, ou pronome.
-            # 'TOP': 'NP',
-
-            # # Palavra
-            # 'H': 'NN',  # núcleo - pqp. maior parte é n (substantivo)
-            # 'MV': 'VBP',  # verbo principal - maioria v-fin
-            # 'PMV': 'VBP',  # verbo principal - maioria são verbos finitos. Inflexões verbais do portugues muito diferentes da do inglês
-            # # verbo auxiliar (pra que por duas tags pramsm função? tnc). Maioria v-fin
-            # 'AUX': 'VBP',
-            # 'PAUX': 'VBP',  # verbo auxiliar
-            # 'PRT-AUX': 'IN',  # part. lig. verbal - MAIOR PARTE DISPARADA PRP
-            # 'SUB': 'IN',  # subordinador - sempre conj-s
-            # 'CO': 'CC',  # coordenador - CONJ-C maioria
-            # # elemento conjunto - P/ cjt, maioria np (maioria nao absoluta)
-            # 'CJT': 'NP',
-            # 'PCJT': 'IN',  # elemento conjunto - p/ pcjt, maioria pp
-            # 'x': 'VB',  # Tomar no cu essa tag. TODO
-            # 'COM': 'RB',  # compl. comparação - maioria adv
-
-            # # Adjuntos
-            # '>N': 'DT',  # Adjuntos adnominais - maioria art
-            # 'N<': 'IN',  # Adjuntos adnominais - maioria absoluta pp
-            # '>A': 'RB',  # Adjuntos adverbiais/adjectivais - maioria adv
-            # 'A<': 'IN',  # Adjuntos adverbiais/adjectivais - maioria pp
-            # '>P': 'RB',  # Adjuntos preposicionais - maioria adv
-            # 'P<': 'NP'  # Adjuntos preposicionais - maioria np
         }
+
+    if tag == '':
+        return tag
 
     # remove o travessão da tag
     if tag[0] == '-':
         tag = tag[1:]
     if tag[-1] == '-':
         tag = tag[:-1]
+
     return settings.tabela[tag]
 
 
+def tradutorFuncao(func_tag, form_tag):
+    if not settings.tabelaFuncoes:
+        pass
+    settings.tabelaFuncoes = {
+        # Enunciados
+        'UTT': 'NP',  # enunciados -
+        'STA': 'NP',  # declarativo -
+        'QUE': 'NP',  # interrogativo
+        'CMD': 'VP',  # imperativo -
+        'EXC': 'NP',  # exclamativo -
+
+        # Orações
+        'SUBJ': '-SBJ',  # sujeito
+        'ACC': '-OBJ',  # obj. directo
+        'ACC-PASS': 'NP',
+        # part. apassivante - ok, inglês não tem nenhuma particula de voz passiva. é obj+to be + verbo participio + compl. seguindo o proprio BOSQUE, é um NP
+        'DAT': 'NP',  # obj. ind. pronominal - sempre NP.
+        'PIV': 'PP',  # obj. ind. preposicional
+        'PASS': 'PP',
+        # agente passiva - por def (https://www.normaculta.com.br/agente-da-passiva/), "é um termo preposicionado). Logo, PP
+        # adj. adverbiais do sujeito - poderia ser cu, pp, advp e np (referente ao BOSQUE), mas pp ocorre muito mais vezes
+        'SA': 'IN',
+        'OA': 'IN',  # adj. adverbiais do objecto
+        'ADVL': 'IN',
+        # adj. adverbiais livres - pode ser pp, advp, flc, icl, np, cu. principalmente pp ou advp. esses dois ultimos quase em igual proporção. vou chutar pp
+        'SC': 'NP',
+        # predicativos do sujeito - mais um caso múltiplo. pode ser np, advp, pp, icl, adjp, cu. np e advp com grandes chances. deliberadamente vou escolher np
+        'OC': 'ADVP',
+        # predicativos do objecto - pode ser adjp, advp, acl, cu, v-pcp, np, pp, icl. maior parte noa amostra foi acl
+        # predicativos verbo-nominais - podem ser icl, np, pp, adjp, cu, adj, pron-det. icl maioria.
+        'PRED': 'VP',
+        'VOC': 'NP',  # vocativo - todo vocativo do bosque é um NP
+        'APP': 'NP',  # apostos normal - pode ser fcl, np, adjp, cu, advp. np maioria
+        'N<PRED': 'NP',
+        # apostos epit. predicativo - pode ser fcl, np, pp, cu. É bem distribuido, mas a priori, a maior parte é NP
+        '>S': 'JJ',  # apostos da oração - se for >S, é sempre adj.
+        'S<': 'NP',  # apostos da oração - se for S<, pode ser fcl ou np. Mais seguro ir no np
+        'N<ARGS': 'IN',  # compl. nominais do sujeito - só tem pp, ufa
+        'N<ARGO': 'IN',  # compl. nominais do objecto - só tem pp
+        'N<ARG': 'IN',  # compl. nominais outros - só pp
+        'P': 'VB',  # predicador - maior parte disparado é vp
+        'FOC': 'RB',  # foco - maioria é advp
+        # tópico - poucos casos. todos envolvem ou np, ou pronome.
+        'TOP': 'NP',
+        'X': settings.tagX,
+
+        # Palavra
+        'H': form_tag,  # núcleo
+        # 'MV': 'VBP',  # verbo principal - maioria v-fin
+        # 'PMV': 'VBP',  # verbo principal - maioria são verbos finitos. Inflexões verbais do portugues muito diferentes da do inglês
+        # verbo auxiliar (pra que por duas tags pramsm função? tnc). Maioria v-fin
+        # 'AUX': 'VBP',
+        # 'PAUX': 'VBP',  # verbo auxiliar
+        # 'PRT-AUX': 'IN',  # part. lig. verbal - MAIOR PARTE DISPARADA PRP
+        # 'SUB': 'IN',  # subordinador - sempre conj-s
+        # 'CO': 'CC',  # coordenador - CONJ-C maioria
+        # elemento conjunto - P/ cjt, maioria np (maioria nao absoluta)
+        'CJT': settings.tagCJT,
+        # 'PCJT': 'IN',  # elemento conjunto - p/ pcjt, maioria pp
+        # # 'x': 'VB',  # Tomar no cu essa tag. TODO
+        # 'COM': 'RB',  # compl. comparação - maioria adv
+
+        # Adjuntos
+        '>N': 'NP',  # Adjuntos adnominais - pela teoria X', ocorre uma dobra do XP origem. (Mioto, p 68)
+        'N<': 'NP',  # Adjuntos adnominais - pela teoria X', ocorre uma dobra do XP origem. (Mioto, p 68)
+        # '>A': 'ADVP',  # Adjuntos adverbiais/adjectivais - PRECISA VERIFICAR O NUCLEO (irmão) TODO
+        # 'A<': 'ADVP',  # Adjuntos adverbiais/adjectivais - PRECISA VERIFICAR O NUCLEO (irmão) TODO
+        '>P': 'PP',  # Adjuntos preposicionais - Adjunto de PP, pela X'
+        'P<': 'PP'  # Adjuntos preposicionais - Adjunto de PP, pela X'
+    }
+
+    return settings.tabelaFuncoes[func_tag]
+
+
 def fatia_arvore(frase):
-    frase_split = re.findall('[\(\)]|[\wÀ-ú\,\.\'\"\!\*\,-\/\:\;\?\`\<\>\{\}\%\+]*', frase)
+    frase_split = re.findall('[\(\)]|[\wÀ-ú\,\.\'\"\!\*\,-\/\:\;\?\`\<\>\{\}\%\+\[\]]*', frase)
     frase_split = [c.strip() for c in frase_split]
     frase_split = [i for i in frase_split if i != '']
     return frase_split
@@ -235,11 +253,19 @@ def reconstroiArvore(frase_split, indice, arvore):
                 frase_split.remove(frase_split[i + 1])
                 frase_split.insert(i + 1, 'S')
                 # classe = 'S'
-                print(1)
+                # print(1)
+
             elif ':' in frase_split[i + 1]:
-                frase_split[i + 1] = frase_split[i + 1].split(':')[1]
-            # elif re.match('\W', frase_split[i + i]):
-            #     print(2)
+                split_temp = frase_split[i + 1].split(':')
+                if split_temp[1] not in settings.posTagsProb:
+                    frase_split[i + 1] = split_temp[1]
+                else:
+                    frase_split[i + 1] = tradutorFuncao(split_temp[0], split_temp[1])
+
+            elif re.match('\W', frase_split[i + 1]):
+                # print(2)
+                i += 1
+                continue
             #     TODO
             classe = frase_split[i + 1]
 
@@ -250,20 +276,25 @@ def reconstroiArvore(frase_split, indice, arvore):
         elif item == ')':
             # classe_temp = ''.join(frase_split[:i - 1])
             palavra = frase_split[i - 1]
-            if i - 1 == 0 and re.match('\W', palavra):
-                print(2)
-                subarvore = Sintagma('', [], tradutor(arvore.classe_pai), palavra)
-                # return i+indice, subarvore
-                arvore.filhos.append(subarvore)
-                i += 1
-                continue
-
             classe = tradutor(frase_split[0])
+            if palavra == '%':
+                classe = settings.percentTag
+
             if len(arvore.filhos):
                 subarvore = Sintagma(classe, arvore.filhos, tradutor(arvore.classe), '')
             else:
                 subarvore = Sintagma(classe, [], tradutor(arvore.classe_pai), palavra)
             return i + indice, subarvore
+        elif i - 1 == 0 and re.match('\W', item) and item != '%':
+            # porcentagem é considerada uma palavra, logo, um nó. será necessário marcá-lo, para transformar o símbolo,
+            # e o numero anterior, numa \textit{flat structure}
+            # print(2)
+            palavra = item if item not in dictBrackets.keys() else dictBrackets(item)
+            subarvore = Sintagma('', [], arvore.classe, palavra)
+            # return i+indice, subarvore
+            arvore.filhos.append(subarvore)
+            i += 2
+            continue
         # elif item in settings.pointList: #particular do CINTIL
         #     if frase_split[i - 1] == 'NNS':
         #         frase_split[i - 1] = settings.pointTag

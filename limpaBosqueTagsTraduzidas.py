@@ -49,18 +49,23 @@ import tradutor
 def main():
     settings.init()
 
-    portugues = 'br'
+    # portugues = 'br'
 
     try:
-        portugues = sys.argv[sys.argv.index('-l') + 1]
+        lingua = sys.argv[sys.argv.index('-l') + 1]
+        if lingua == 'pt' or lingua == 'br':
+            portugues = lingua
+        else:
+            print('Erro: lingua não esperada')
+            return 1
     except:
         portugues = 'br'
 
     endereco = "~/stanford-parser/BOSQUE/"
     # CENTEMPublico (portugues de portugual)
-    arquivoPortugal = "Bosque_CP_8.0.PennTreebank.txt"
+    arquivoPortugal = "Bosque_CF_8.0.PennTreebank.txt"
     # CENTEMFolha (portugues brasileiro)
-    arquivoBrasil = "Bosque_CF_8.0.PennTreebank.txt"
+    arquivoBrasil = "Bosque_CP_8.0.PennTreebank.txt"
     # NOTA: dentro do arquivo, a indicação está invertida: Aponta o CP como sendo
     # centemFolha, e viceversa. ignorar.
 
