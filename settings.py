@@ -13,7 +13,9 @@ def init():
     global percentTag
     global tag_x
     global tagX
+    global tag_acl
     global posTagsProb
+    global tagProblematica
     global tagCu
     global tagCJT
     global tagFlat
@@ -21,7 +23,9 @@ def init():
     global rel_func_tag
     global rel_form_tag
     global portugues
+    global kompTag
 
+    tagProblematica = False
     tagRemover = '_TOREMOVE_'
     tagHifem = '_EC_'
     tagCu = 'cu'
@@ -29,11 +33,13 @@ def init():
     tagCJT = '_CJT_'
     tagConjCoord = 'CC'
     percentTag = '_PERC_'
+    tag_acl = 'acl'
     tag_x = 'x'
     tagX = '_X_'
     tagFlat = '_FLAT_'
     tagPoint = 'PNT'
-    posTagsProb = [tag_x]
+    kompTag = '_KOMP_'
+    posTagsProb = [tag_x, tag_acl]
     tabela = {}
     tabelaFuncoes = {}
     rel_point = {}

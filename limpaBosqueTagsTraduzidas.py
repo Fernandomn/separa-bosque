@@ -58,7 +58,7 @@ def print_occ_list(rel, rel_name):
     if not os.path.exists(os.path.join(here, dir_relatorios)):
         os.mkdir(os.path.join(here, dir_relatorios))
 
-    occ_file = open(filepath, 'w')
+    occ_file = open(filepath, 'w', encoding='utf-8')
     list_keys = rel.keys()
     for key in sorted(list_keys):
         occ_file.write("{0}, {1}\n".format(key, rel[key] if key in rel else 0))
@@ -92,9 +92,9 @@ def main():
 
     endereco = "~/stanford-parser/BOSQUE/"
     # CENTEMPublico (portugues de portugual)
-    arquivoPortugal = "Bosque_CF_8.0.PennTreebank.txt"
+    arquivoPortugal = "Bosque_CP_8.0.PennTreebank.txt"
     # CENTEMFolha (portugues brasileiro)
-    arquivoBrasil = "Bosque_CP_8.0.PennTreebank.txt"
+    arquivoBrasil = "Bosque_CF_8.0.PennTreebank.txt"
     # NOTA: dentro do arquivo, a indicação está invertida: Aponta o CP como sendo
     # centemFolha, e viceversa. ignorar.
 
@@ -113,7 +113,7 @@ def main():
     os.chdir(diretorio)
 
     tradutor.createTransFile(originalLines)
-    if (imprime_rel):
+    if imprime_rel:
         imprimeRelatorios()
 
 
