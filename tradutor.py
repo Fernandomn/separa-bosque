@@ -153,7 +153,11 @@ def tradutorFuncao(func_tag, form_tag):
         '>P': 'PP',  # Adjuntos preposicionais - Adjunto de PP, pela X'
         'P<': 'PP'  # Adjuntos preposicionais - Adjunto de PP, pela X'
     }
-
+    # remove o travessão da tag
+    if func_tag[0] == '-':
+        func_tag = func_tag[1:]
+    if func_tag[-1] == '-':
+        func_tag = func_tag[:-1]
     return settings.tabelaFuncoes[func_tag]
 
 
@@ -165,7 +169,7 @@ def fatia_arvore(frase):
 
 
 def createTransFile(originalLines):
-    tamTagRemover = len(settings.tagRemover)
+    # tamTagRemover = len(settings.tagRemover)
     tree_text = ''
     with open('Bosque_0001', 'w') as finalFile:
         # eu quero declarar a variavel de arquivo aqui
@@ -242,6 +246,24 @@ def createTransFile(originalLines):
                 #     finalFile.write(line)
 
 
+def gera_tag_rels(func, form):
+    if func not in settings.rel_func_tag:
+        settings.rel_func_tag[func] = 1
+    else:
+        settings.rel_func_tag[func] += 1
+    if form not in settings.rel_form_tag:
+        settings.rel_form_tag[form] = 1
+    else:
+        settings.rel_form_tag[form] += 1
+
+
+def gera_point_rel(point):
+    if point not in settings.rel_point:
+        settings.rel_point[point] = 1
+    else:
+        settings.rel_point[point] += 1
+
+
 def reconstroiArvore(frase_split, indice, arvore):
     i = 0
 
@@ -252,21 +274,20 @@ def reconstroiArvore(frase_split, indice, arvore):
                 frase_split.remove(frase_split[i + 2])
                 frase_split.remove(frase_split[i + 1])
                 frase_split.insert(i + 1, 'S')
-                # classe = 'S'
-                # print(1)
 
             elif ':' in frase_split[i + 1]:
                 split_temp = frase_split[i + 1].split(':')
+                gera_tag_rels(split_temp[0], split_temp[1])
+
                 if split_temp[1] not in settings.posTagsProb:
-                    frase_split[i + 1] = split_temp[1]
+                    frase_split[i + 1] = tradutor(split_temp[1])
                 else:
                     frase_split[i + 1] = tradutorFuncao(split_temp[0], split_temp[1])
 
             elif re.match('\W', frase_split[i + 1]):
-                # print(2)
                 i += 1
                 continue
-            #     TODO
+
             classe = frase_split[i + 1]
 
             nova_arvore = Sintagma(classe, [], arvore.classe, '')
@@ -274,27 +295,40 @@ def reconstroiArvore(frase_split, indice, arvore):
             i = novo_indice + 1
             arvore.filhos.append(subarvore)
         elif item == ')':
-            # classe_temp = ''.join(frase_split[:i - 1])
+
             palavra = frase_split[i - 1]
-            classe = tradutor(frase_split[0])
-            if palavra == '%':
-                classe = settings.percentTag
+            classe = frase_split[0]
+            # classe = tradutor(frase_split[0])
+
+            if re.match('\W[^\(\)]', palavra):
+                if palavra == '%':
+                    classe = settings.percentTag
+                else:
+                    # porcentagem é considerada uma palavra, logo, um nó. será necessário marcá-lo, para transformar o símbolo,
+                    # e o numero anterior, numa \textit{flat structure}
+                    gera_point_rel(item)
+                    palavra = item if item not in dictBrackets.keys() else dictBrackets(item)
+                    subarvore = Sintagma(settings.tagPoint, [], arvore.classe, palavra)
+
+                    arvore.filhos.append(subarvore)
+                    i += 1
+                    continue
 
             if len(arvore.filhos):
-                subarvore = Sintagma(classe, arvore.filhos, tradutor(arvore.classe), '')
+                subarvore = Sintagma(classe, arvore.filhos, arvore.classe, '')
             else:
-                subarvore = Sintagma(classe, [], tradutor(arvore.classe_pai), palavra)
+                subarvore = Sintagma(classe, [], arvore.classe_pai, palavra)
             return i + indice, subarvore
-        elif i - 1 == 0 and re.match('\W', item) and item != '%':
-            # porcentagem é considerada uma palavra, logo, um nó. será necessário marcá-lo, para transformar o símbolo,
-            # e o numero anterior, numa \textit{flat structure}
-            # print(2)
-            palavra = item if item not in dictBrackets.keys() else dictBrackets(item)
-            subarvore = Sintagma('', [], arvore.classe, palavra)
-            # return i+indice, subarvore
-            arvore.filhos.append(subarvore)
-            i += 2
-            continue
+        # elif i - 1 == 0 and re.match('\W', item) and item != '%':
+        #     # porcentagem é considerada uma palavra, logo, um nó. será necessário marcá-lo, para transformar o símbolo,
+        #     # e o numero anterior, numa \textit{flat structure}
+        #     gera_point_rel(item)
+        #     palavra = item if item not in dictBrackets.keys() else dictBrackets(item)
+        #     subarvore = Sintagma(settings.tagPoint, [], arvore.classe, palavra)
+        #
+        #     arvore.filhos.append(subarvore)
+        #     i += 2
+        #     continue
         # elif item in settings.pointList: #particular do CINTIL
         #     if frase_split[i - 1] == 'NNS':
         #         frase_split[i - 1] = settings.pointTag

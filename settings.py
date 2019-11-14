@@ -5,6 +5,7 @@ import os
 def init():
     global tabela
     global tabelaFuncoes
+    global tagPoint
     global tagRemover
     global tagHifem
     global tagCoord
@@ -16,8 +17,12 @@ def init():
     global tagCu
     global tagCJT
     global tagFlat
+    global rel_point
+    global rel_func_tag
+    global rel_form_tag
+    global portugues
 
-    tagRemover = '(FRASE'
+    tagRemover = '_TOREMOVE_'
     tagHifem = '_EC_'
     tagCu = 'cu'
     tagCoord = '_CU_'
@@ -26,10 +31,14 @@ def init():
     percentTag = '_PERC_'
     tag_x = 'x'
     tagX = '_X_'
-    tagFlat='_FLAT_'
+    tagFlat = '_FLAT_'
+    tagPoint = 'PNT'
     posTagsProb = [tag_x]
     tabela = {}
     tabelaFuncoes = {}
+    rel_point = {}
+    rel_form_tag = {}
+    rel_func_tag = {}
 
 
 # Verifica se o o nó aliado é uma folha ou não

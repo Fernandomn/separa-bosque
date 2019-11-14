@@ -2,7 +2,7 @@ import settings
 import os
 import sys
 import tradutor
-
+import csv
 
 # Referencias:
 # https://www.linguateca.pt/floresta/BibliaFlorestal/anexo1.html
@@ -46,6 +46,33 @@ import tradutor
 
 #####################################
 
+dir_relatorios = 'relatorios'
+
+
+def print_occ_list(rel, rel_name):
+    here = os.path.dirname(os.path.realpath(__file__))
+    file_name = '{0}-{1}.csv'.format(rel_name, settings.portugues)
+    # file_name = '{0}/{1}-{2}.csv'.format(dir_relatorios, rel_name, settings.portugues)
+    filepath = os.path.join(here, dir_relatorios, file_name)
+
+    if not os.path.exists(os.path.join(here, dir_relatorios)):
+        os.mkdir(os.path.join(here, dir_relatorios))
+
+    occ_file = open(filepath, 'w')
+    list_keys = rel.keys()
+    for key in sorted(list_keys):
+        occ_file.write("{0}, {1}\n".format(key, rel[key] if key in rel else 0))
+
+    occ_file.close()
+
+
+def imprimeRelatorios():
+    rel_list = [settings.rel_point, settings.rel_form_tag, settings.rel_func_tag]
+    rel_names = ["rel_point", "rel_form_tag", "rel_func_tag"]
+    for i in range(len(rel_list)):
+        print_occ_list(rel_list[i], rel_names[i])
+
+
 def main():
     settings.init()
 
@@ -54,12 +81,14 @@ def main():
     try:
         lingua = sys.argv[sys.argv.index('-l') + 1]
         if lingua == 'pt' or lingua == 'br':
-            portugues = lingua
+            settings.portugues = lingua
         else:
             print('Erro: lingua não esperada')
             return 1
     except:
-        portugues = 'br'
+        settings.portugues = 'br'
+
+    imprime_rel = True
 
     endereco = "~/stanford-parser/BOSQUE/"
     # CENTEMPublico (portugues de portugual)
@@ -69,21 +98,23 @@ def main():
     # NOTA: dentro do arquivo, a indicação está invertida: Aponta o CP como sendo
     # centemFolha, e viceversa. ignorar.
 
-    nomeArquivo = arquivoPortugal if portugues == 'pt' else arquivoBrasil
+    nomeArquivo = arquivoPortugal if settings.portugues == 'pt' else arquivoBrasil
 
-    originalFile = open(nomeArquivo, 'r')
+    originalFile = open(nomeArquivo, 'r', encoding='utf-8')
 
     originalLines = originalFile.readlines()
 
     dirBrasil = 'bosque_br_limpo_traduzido'
     dirPortugal = 'bosque_pt_limpo_traduzido'
-    diretorio = dirPortugal if portugues == 'pt' else dirBrasil
+    diretorio = dirPortugal if settings.portugues == 'pt' else dirBrasil
 
     if not os.path.exists(diretorio):
         os.mkdir(diretorio)
     os.chdir(diretorio)
 
     tradutor.createTransFile(originalLines)
+    if (imprime_rel):
+        imprimeRelatorios()
 
 
 if __name__ == '__main__':
