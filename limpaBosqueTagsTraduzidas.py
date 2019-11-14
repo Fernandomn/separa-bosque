@@ -113,6 +113,7 @@ def main():
     os.chdir(diretorio)
 
     tradutor.createTransFile(originalLines)
+
     if imprime_rel:
         imprimeRelatorios()
 

@@ -181,7 +181,7 @@ def createTransFile(originalLines):
             if line[0] == '#':
                 numero = line[1:].split(' ')[0]
                 if numero.isdigit():
-                    frase = line[line.index(' ') + 1:]
+                    # frase = line[line.index(' ') + 1:]
                     numeroTratado = settings.tratarNumero(numero)
                     nomeArquivoAbertoAtual = 'Bosque_' + numeroTratado
                     finalFile = open(nomeArquivoAbertoAtual, 'w')
@@ -190,7 +190,7 @@ def createTransFile(originalLines):
                 if not finalFile.closed:
                     tree_split = fatia_arvore(tree_text)
                     tree_translate = translateTags(tree_split)
-
+                    finalFile.write(tree_translate)
                     finalFile.close()
                     tree_text = ''
 
@@ -218,6 +218,7 @@ def gera_point_rel(point):
         settings.rel_point[point] += 1
 
 
+# reconstroi a estrutura da sentença classificada em árvores lógicas
 def reconstroiArvore(frase_split, indice, arvore):
     i = 0
 
@@ -257,60 +258,73 @@ def reconstroiArvore(frase_split, indice, arvore):
 
             palavra = frase_split[i - 1]
             classe = frase_split[0]
-            # classe = tradutor(frase_split[0])
 
-            # if re.match('\W[^\(\)]', palavra):
+            # porcentagem é considerada uma palavra, logo, um nó. será necessário marcá-lo, para transformar o símbolo,
+            # e o numero anterior, numa \textit{flat structure}
             if palavra == '%':
-                # porcentagem é considerada uma palavra, logo, um nó. será necessário marcá-lo, para transformar o símbolo,
-                # e o numero anterior, numa \textit{flat structure}
                 classe = settings.percentTag
+
             #     palavra == classe quando é um sinal
             if re.match('\W', palavra) and palavra == classe:
                 gera_point_rel(palavra)
                 if palavra in dictBrackets:
                     palavra = dictBrackets[palavra]
                 classe = settings.tagPoint
-                # palavra = palavra if palavra not in dictBrackets.keys() else dictBrackets(palavra)
-                # subarvore = Sintagma(settings.tagPoint, [], arvore.classe_pai, palavra)
-
-                # arvore.filhos.append(subarvore)
-
-                # i += 1
-                # continue
 
             if len(arvore.filhos):
                 subarvore = Sintagma(classe, arvore.filhos, arvore.classe_pai, '')
             else:
                 subarvore = Sintagma(classe, [], arvore.classe_pai, palavra)
             return i + indice, subarvore
-        # elif i - 1 == 0 and re.match('\W', item) and item != '%':
-        #     # porcentagem é considerada uma palavra, logo, um nó. será necessário marcá-lo, para transformar o símbolo,
-        #     # e o numero anterior, numa \textit{flat structure}
-        #     gera_point_rel(item)
-        #     palavra = item if item not in dictBrackets.keys() else dictBrackets(item)
-        #     subarvore = Sintagma(settings.tagPoint, [], arvore.classe, palavra)
-        #
-        #     arvore.filhos.append(subarvore)
-        #     i += 2
-        #     continue
-        # elif item in settings.pointList: #particular do CINTIL
-        #     if frase_split[i - 1] == 'NNS':
-        #         frase_split[i - 1] = settings.pointTag
-        #         subarvore = Sintagma(settings.pointTag, [], arvore.classe, item)
-        #         # i+=1
-        #         arvore.filhos.append(subarvore)
-        #         # continue
-        #     else:
-        #         # point = item if not (item == '"' or item == "'") else item + item
-        #         subarvore = Sintagma(settings.pointTag, [], arvore.classe, item)
-        #         arvore.filhos.append(subarvore)
-        #     i += 1
         else:
             i += 1
     return i, arvore
+
+
+# revisa e corrige tags que precisem de tratamentos especiais
+def revisaTags(arvore):
+    pass
+
+
+# imprime a árvore no padrão PTB
+def imprimeArvore(arvore, nivel):
+    espaco_esquerda = ''.join(' ' for n in range(nivel))
+
+    # raiz
+    if arvore.classe == '':
+        return '(\n{0})'.format(imprimeArvore(arvore.filhos[0], nivel + 1))
+
+    # nao-terminal
+    if len(arvore.filhos) > 0:
+
+        string_filhos = ''
+        if arvore.classe in settings.wordLevelTags and arvore.valor != '':
+            for filho in arvore.filhos:
+                string_filhos += filho.valor + ' '
+
+            string_retorno = '{0}{1}\n'.format(espaco_esquerda, string_filhos.strip())
+            # string_retorno = '{0}({1} {2})\n'.format(espaco_esquerda, arvore.classe, string_filhos.strip())
+        else:
+            for filho in arvore.filhos:
+                string_filhos += imprimeArvore(filho, nivel + 1)
+
+            string_retorno = '{0}({1} \n{2}{0})\n'.format(espaco_esquerda, arvore.classe, string_filhos)
+    # terminal
+    else:
+        if arvore.classe == settings.pointTag:
+            string_retorno = '{0}{1}\n'.format(espaco_esquerda, arvore.valor)
+            # string_retorno = ''
+        else:
+            string_retorno = '{0}({1} {2})\n'.format(espaco_esquerda, arvore.classe, arvore.valor)
+
+    return string_retorno
 
 
 def translateTags(tree_split):
     raiz = Sintagma('', [], '', '')
     i, arvore = reconstroiArvore(tree_split, 0, raiz)
     print(arvore)
+    if settings.tagProblematica:
+        revisaTags(arvore)
+    tree_text = imprimeArvore(arvore, 0)
+    return tree_text
