@@ -1,53 +1,29 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em)
-      (NP 
-        (NNP Manaus)
-      )
-    )
-    (,)
-    (NP 
-      (DT o)
-      (NN representante)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN fam�lia)
-          (NP 
-            (NNP Gra�a)
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (NNP Manuel_Tavares_da_Gra�a)
-      (,)
-      (NP 
-        (NN candidato)
-        (VBN derrotado)
-        (PP 
-          (IN a)
-          (NP 
-            (NN deputado)
-            (ADJP 
-              (JJ estadual)
-            )
-          )
-        )
-        (PP 
-          (IN por+)
-          (NP 
-            (DT o)
-            (NNP PP)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em)
+                                 (NP (NNP Manaus)))
+                        (,)
+                        (NP (DT o)
+                               (NN representante)
+                               (PP (IN de+)
+                                      (NP 
+                                        (DT a)
+                                        (NN fam�lia)
+                                        (NP 
+                                          (NNP Gra�a)))))
+                        (VP (VBP �))
+                        (NP (NNP Manuel_Tavares_da_Gra�a)
+                                 (,)
+                                 (NP 
+                                   (NN candidato)
+                                   (VBN derrotado)
+                                   (PP 
+                                     (IN a)
+                                     (NP 
+                                       (NN deputado)
+                                       (ADJP 
+                                         (JJ estadual))))
+                                   (PP 
+                                     (IN por+)
+                                     (NP 
+                                       (DT o)
+                                       (NNP PP)))))
+                        (.)))

@@ -1,72 +1,39 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (VBN Excetuada)
-      )
-      (NP 
-        (DT a)
-        (NN educa��o)
-        (ADJP 
-          (JJ b�sica)
-        )
-        (PP 
-          (IN de)
-          (NP 
-            (JJ primeiro)
-            (NN grau)
-          )
-        )
-        (,)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP deve)
-            (VB ser)
-          )
-          (ADJP 
-            (ADJP 
-              (JJ gratuita)
-            )
-            (CC e)
-            (ADJP 
-              (JJ obrigat�ria)
-            )
-          )
-        )
-        (,)
-      )
-    )
-    (PP 
-      (IN para)
-      (NP 
-        (PRP todo)
-        (DT o)
-        (NN resto)
-      )
-    )
-    (VP 
-      (VBP �)
-    )
-    (ADJP 
-      (JJ preciso)
-    )
-    (VP 
-      (VP 
-        (VB discriminar)
-      )
-      (VP 
-        (NP 
-          (PRP quem)
-        )
-        (VP 
-          (VBP pode)
-          (VB pagar)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VP (VBN Excetuada))
+                                  (NP 
+                                    (DT a)
+                                    (NN educa��o)
+                                    (ADJP 
+                                      (JJ b�sica))
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (JJ primeiro)
+                                        (NN grau)))
+                                    (,)
+                                    (VP 
+                                      (NP 
+                                        (PRP que))
+                                      (VP 
+                                        (VBP deve)
+                                        (VB ser))
+                                      (_CU_ 
+                                        (ADJP 
+                                          (JJ gratuita))
+                                        (CC e)
+                                        (ADJP 
+                                          (JJ obrigat�ria))))
+                                    (,)))
+                        (PP (IN para)
+                                 (NP (PRP todo)
+                                        (DT o)
+                                        (NN resto)))
+                        (VP (VBP �))
+                        (ADJP (JJ preciso))
+                        (VP (VP (VB discriminar))
+                                  (VP 
+                                    (NP 
+                                      (PRP quem))
+                                    (VP 
+                                      (VBP pode)
+                                      (VB pagar))))
+                        (.)))

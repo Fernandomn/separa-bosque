@@ -1,56 +1,30 @@
-(S 
-  (VP 
-    (PP 
-      (IN Segundo)
-      (NP 
-        (NNP Calliari)
-      )
-    )
-    (,)
-    (NP 
-      (DT o)
-      (NN barulho)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT a)
-          (NN ag�ncia)
-        )
-      )
-      (VP 
-        (VP 
-          (VBN causado)
-        )
-        (PP 
-          (IN por+)
-          (NP 
-            (DT a)
-            (NN reforma)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN pr�dio)
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP abafaram)
-    )
-    (NP 
-      (DT o)
-      (NN ru�do)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN queda)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Segundo)
+                                 (NP (NNP Calliari)))
+                        (,)
+                        (NP (DT o)
+                                 (NN barulho)
+                                 (PP (IN em+)
+                                        (NP 
+                                          (DT a)
+                                          (NN ag�ncia)))
+                                 (VP 
+                                   (VP 
+                                     (VBN causado))
+                                   (PP 
+                                     (IN por+)
+                                     (NP 
+                                       (DT a)
+                                       (NN reforma)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT o)
+                                           (NN pr�dio)))))))
+                        (VP (VBP abafaram))
+                        (NP (DT o)
+                                (NN ru�do)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NN queda))))
+                        (.)))

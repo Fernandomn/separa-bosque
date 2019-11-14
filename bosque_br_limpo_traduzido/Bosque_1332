@@ -1,24 +1,10 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (NNP Sampras)
-      )
-      (CC e)
-      (NP 
-        (NNP Stich)
-      )
-    )
-    (VP 
-      (VBP s�o)
-      (VBN derrotados)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (NNP Qatar)
-      )
-    )
-  )
-)
+(S (VP (_CU_ (NP 
+                                   (NNP Sampras))
+                                 (CC e)
+                                 (NP 
+                                   (NNP Stich)))
+                        (VP (VBP s�o)
+                              (VBN derrotados))
+                        (PP (IN em+)
+                                 (NP (DT o)
+                                        (NNP Qatar)))))

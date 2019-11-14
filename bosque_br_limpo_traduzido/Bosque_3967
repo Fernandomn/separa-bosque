@@ -1,74 +1,42 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (JJ principal)
-      (NN destaque)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT a)
-          (NN pista)
-        )
-      )
-    )
-    (VP 
-      (VBP foi)
-    )
-    (NP 
-      (DT a)
-      (NN vaca)
-      (NP 
-        (NNP Santya)
-      )
-      (,)
-      (VP 
-        (VP 
-          (VBN selecionada)
-        )
-        (PP 
-          (IN para)
-          (VP 
-            (VP 
-              (VB ser)
-            )
-            (NP 
-              (NN doadora)
-              (PP 
-                (IN em)
-                (NP 
-                  (NN transfer�ncia)
-                  (PP 
-                    (IN de)
-                    (NP 
-                      (NN embri�es)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-      (,)
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (VP 
-          (VBP foi)
-          (VBN vendida)
-        )
-        (PP 
-          (IN por)
-          (NP 
-            (CD 40,2)
-            (NN mil)
-            (NNP URVs)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (JJ principal)
+                                 (NN destaque)
+                                 (PP (IN em+)
+                                        (NP 
+                                          (DT a)
+                                          (NN pista))))
+                        (VP (VBP foi))
+                        (NP (DT a)
+                               (NN vaca)
+                               (NP (NNP Santya))
+                               (,)
+                               (VP 
+                                 (VP (VBN selecionada))
+                                 (PP 
+                                   (IN para)
+                                   (VP 
+                                     (VP 
+                                       (VB ser))
+                                     (NP 
+                                       (NN doadora)
+                                       (PP 
+                                         (IN em)
+                                         (NP 
+                                           (NN transfer�ncia)
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NN embri�es)))))))))
+                               (,)
+                               (VP 
+                                 (NP 
+                                   (PRP que))
+                                 (VP (VBP foi)
+                                       (VBN vendida))
+                                 (PP 
+                                   (IN por)
+                                   (NP 
+                                     (CD 40,2)
+                                     (NN mil)
+                                     (NNP URVs)))))
+                        (.)))

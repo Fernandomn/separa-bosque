@@ -1,25 +1,12 @@
-(S 
-  (NP 
-    (NP 
-      (NNP Folha)
-    )
-    (--)
-    (ADVP 
-      (NP 
-        (PRP Qual)
-      )
-      (NP 
-        (DT o)
-        (NN segredo)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN vit�ria)
-          )
-        )
-      )
-      (?)
-    )
-  )
-)
+(S (NP (NP (NNP Folha))
+                       (--)
+                       (ADVP (NP (PRP Qual))
+                                (NP 
+                                  (DT o)
+                                  (NN segredo)
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT a)
+                                      (NN vit�ria))))
+                                (?))))

@@ -1,36 +1,17 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (JJ novo)
-      (NN manifesto)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN movimento)
-        )
-      )
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP ficar�)
-    )
-    (ADJP 
-      (JJ pronto)
-    )
-    (ADVP 
-      (RB antes)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT as)
-          (NN elei��es)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                (JJ novo)
+                                (NN manifesto)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN movimento))))
+                       (ADVP (RB n�o))
+                       (VP (VBP ficar�))
+                       (ADJP (JJ pronto))
+                       (ADVP (RB antes)
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT as)
+                                      (NN elei��es))))
+                       (.)))

@@ -1,63 +1,39 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN trabalho)
-    )
-    (VP 
-      (VBP faz)
-    )
-    (NP 
-      (NN parte)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN projeto)
-          (�)
-          (NP 
-            (NNP Exerc�cios_Visuais)
-          )
-          (�)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NNP Sesc_Pomp�ia)
-            )
-          )
-          (,)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (VP 
-              (VBP visa)
-            )
-            (NP 
-              (DT a)
-              (NN ocupa��o)
-              (ADJP 
-                (JJ inusual)
-              )
-              (PP 
-                (IN de)
-                (NP 
-                  (NN espa�os)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NP ex-f�brica)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                  (NN trabalho))
+                         (VP (VBP faz))
+                         (NP (NN parte)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN projeto)
+                                          (�)
+                                          (NP 
+                                            (NNP Exerc�cios_Visuais))
+                                          (�)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (NNP Sesc_Pomp�ia)))
+                                          (,)
+                                          (VP 
+                                            (NP 
+                                              (PRP que))
+                                            (VP 
+                                              (VBP visa))
+                                            (NP 
+                                              (DT a)
+                                              (NN ocupa��o)
+                                              (ADJP 
+                                                (JJ inusual))
+                                              (PP 
+                                                (IN de)
+                                                (NP 
+                                                  (NN espa�os)
+                                                  (PP 
+                                                    (IN de+)
+                                                    (NP 
+                                                      (DT a)
+                                                      (_EC_ ex-)
+                                                      (NN f�brica))))))))))
+                         (.)))

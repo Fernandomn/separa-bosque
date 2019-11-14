@@ -1,53 +1,30 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (DT As)
-        (NN f�bricas)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP atingiram)
-          )
-        )
-      )
-      (VP 
-        (VBP receberam)
-      )
-      (NP 
-        (DT uma)
-        (NN placa)
-      )
-    )
-    (CC e)
-    (VP 
-      (,)
-      (PP 
-        (IN em)
-        (NP 
-          (PRP alguns)
-          (NN casos)
-        )
-      )
-      (,)
-      (NP 
-        (DT um)
-        (NN ve�culo)
-      )
-      (VP 
-        (VBP �)
-        (VBN sorteado)
-      )
-      (PP 
-        (IN para)
-        (NP 
-          (PRP seus)
-          (NN funcion�rios)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (DT As)
+                                  (NN f�bricas)
+                                  (VP 
+                                    (NP 
+                                      (PRP que))
+                                    (VP 
+                                      (VBP atingiram))))
+                                (VP (VBP receberam))
+                                (NP (DT uma)
+                                        (NN placa)))
+                       (CC e)
+                       (VP (,)
+                                (PP 
+                                  (IN em)
+                                  (NP 
+                                    (PRP alguns)
+                                    (NN casos)))
+                                (,)
+                                (NP 
+                                  (DT um)
+                                  (NN ve�culo))
+                                (VP (VBP �)
+                                      (VBN sorteado))
+                                (PP 
+                                  (IN para)
+                                  (NP 
+                                    (PRP seus)
+                                    (NN funcion�rios))))
+                       (.)))

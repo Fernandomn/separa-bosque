@@ -1,85 +1,53 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (JJ principal)
-      (NN diferen�a)
-      (VBN verificada)
-    )
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (DT a)
-      (NN sensa��o)
-      (PP 
-        (IN de)
-        (NP 
-          (�)
-          (NN frio)
-          (PP 
-            (IN em+)
-            (NP 
-              (DT a)
-              (NN barriga)
-            )
-          )
-          (�)
-        )
-      )
-    )
-    (VP 
-      (ADVP 
-        (RB quando)
-      )
-      (NP 
-        (PRP se)
-      )
-      (VP 
-        (VBP passa)
-      )
-      (PP 
-        (IN por+)
-        (NP 
-          (DT as)
-          (NN curvas)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN elevado)
-              (NP 
-                (NNP Costa_e_Silva)
-              )
-              (-LCB-)
-              (NP 
-                (NN Minhoc�o)
-              )
-              (-RCB-)
-            )
-          )
-        )
-      )
-      (,)
-      (PP 
-        (RB mesmo)
-        (IN em)
-        (NP 
-          (DT uma)
-          (NN velocidade)
-          (ADJP 
-            (JJ m�dia)
-          )
-          (PP 
-            (IN de)
-            (NP 
-              (CD 60)
-              (NN km/h)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (JJ principal)
+                                 (NN diferen�a)
+                                 (VBN verificada))
+                        (VP (VBP �))
+                        (NP (DT a)
+                               (NN sensa��o)
+                               (PP (IN de)
+                                      (NP 
+                                        (�)
+                                        (NN frio)
+                                        (PP 
+                                          (IN em+)
+                                          (NP 
+                                            (DT a)
+                                            (NN barriga)))
+                                        (�))))
+                        (VP (ADVP 
+                                    (RB quando))
+                                  (NP 
+                                    (PRP se))
+                                  (VP (VBP passa))
+                                  (PP 
+                                    (IN por+)
+                                    (NP 
+                                      (DT as)
+                                      (NN curvas)
+                                      (PP 
+                                        (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN elevado)
+                                          (NP 
+                                            (NNP Costa_e_Silva))
+                                          (-LCB-)
+                                          (NP 
+                                            (NN Minhoc�o))
+                                          (-RCB-)))))
+                                  (,)
+                                  (PP 
+                                    (RB mesmo)
+                                    (IN em)
+                                    (NP 
+                                      (DT uma)
+                                      (NN velocidade)
+                                      (ADJP 
+                                        (JJ m�dia))
+                                      (PP 
+                                        (IN de)
+                                        (NP 
+                                          (CD 60)
+                                          (NN km/h))))))
+                        (.)))

@@ -1,40 +1,21 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Cuba)
-    )
-    (ADVP 
-      (RB tamb�m)
-    )
-    (VP 
-      (VBP est�)
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (DT a)
-        (NN imagem)
-        (ADJP 
-          (RB um_tanto)
-          (VBN abalada)
-        )
-        (-LCB-)
-        (NP 
-          (NP 
-            (NN crise)
-          )
-          (,)
-          (NP 
-            (NN �xodo)
-            (RB por_mar)
-          )
-        )
-        (ADVP 
-          (RB etc)
-        )
-        (-RCB-)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Cuba))
+                        (ADVP (RB tamb�m))
+                        (VP (VBP est�))
+                        (PP (IN com)
+                               (NP (DT a)
+                                      (NN imagem)
+                                      (ADJP 
+                                        (RB um_tanto)
+                                        (VBN abalada))
+                                      (-LCB-)
+                                      (_CU_ 
+                                        (NP 
+                                          (NN crise))
+                                        (,)
+                                        (NP 
+                                          (NN �xodo)
+                                          (RB por_mar)))
+                                      (ADVP 
+                                        (RB etc))
+                                      (-RCB-)))
+                        (.)))

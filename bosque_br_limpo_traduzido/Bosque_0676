@@ -1,57 +1,34 @@
-(S 
-  (VP 
-    (VP 
-      (ADVP 
-        (RB Quando)
-      )
-      (ADJP 
-        (DT os)
-        (CD dois)
-      )
-      (VP 
-        (VBP acertavam)
-      )
-      (ADJP 
-        (VBN juntos)
-      )
-    )
-    (-LCB-)
-    (UCP 
-      (�)
-      (NP 
-        (NNP Bonequinha_de_Luxo)
-      )
-      (�)
-      (,)
-      (�)
-      (NP 
-        (NNP V�cio_Maldito)
-      )
-      (�)
-      (,)
-      (�)
-      (NP 
-        (NNP A_Pantera_Cor-de-Rosa)
-      )
-      (�)
-    )
-    (-RCB-)
-    (,)
-    (VP 
-      (VBP era)
-    )
-    (NP 
-      (DT uma)
-      (NN festa)
-      (PP 
-        (IN para)
-        (NP 
-          (PRP todos)
-          (DT os)
-          (NN sentidos)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (ADVP 
+                                    (RB Quando))
+                                  (ADJP 
+                                    (DT os)
+                                    (CD dois))
+                                  (VP (VBP acertavam))
+                                  (ADJP 
+                                    (VBN juntos)))
+                        (-LCB-)
+                        (_CU_ (�)
+                                   (NP 
+                                     (NNP Bonequinha_de_Luxo))
+                                   (�)
+                                   (,)
+                                   (�)
+                                   (NP 
+                                     (NNP V�cio_Maldito))
+                                   (�)
+                                   (,)
+                                   (�)
+                                   (NP 
+                                     (NNP A_Pantera_Cor-de-Rosa))
+                                   (�))
+                        (-RCB-)
+                        (,)
+                        (VP (VBP era))
+                        (NP (DT uma)
+                               (NN festa)
+                               (PP (IN para)
+                                      (NP 
+                                        (PRP todos)
+                                        (DT os)
+                                        (NN sentidos))))
+                        (.)))

@@ -1,107 +1,67 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN servi�os)
-      (PP 
-        (IN de)
-        (NP 
-          (NN intelig�ncia)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NNP Argentina)
-            )
-          )
-        )
-      )
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (VP 
-          (VBP trabalham)
-        )
-        (PP 
-          (IN com)
-          (NP 
-            (DT a)
-            (NN ajuda)
-            (PP 
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NNP Mossad)
-                  (-LCB-)
-                  (NP 
-                    (NN servi�o)
-                    (ADJP 
-                      (JJ secreto)
-                    )
-                    (PP 
-                      (IN de)
-                      (NP 
-                        (NNP Israel)
-                      )
-                    )
-                  )
-                  (-RCB-)
-                )
-              )
-              (CC e)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NNP FBI)
-                  (-LCB-)
-                  (NP 
-                    (NNP Pol�cia_Federal)
-                    (PP 
-                      (IN de+)
-                      (NP 
-                        (DT os)
-                        (NNP EUA)
-                      )
-                    )
-                  )
-                  (-RCB-)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP atribuem)
-    )
-    (NP 
-      (DT o)
-      (NN atentado)
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT o)
-        (NNP Hizbollah)
-        (,)
-        (NP 
-          (NN grupo)
-          (ADJP 
-            (JJ mu�ulmano)
-          )
-          (ADJP 
-            (JJ xiita)
-          )
-          (ADJP 
-            (JJ pr�-Ir�)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN servi�os)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NN intelig�ncia)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT a)
+                                              (NNP Argentina)))))
+                                 (VP 
+                                   (NP 
+                                     (PRP que))
+                                   (VP 
+                                     (VBP trabalham))
+                                   (PP 
+                                     (IN com)
+                                     (NP 
+                                       (DT a)
+                                       (NN ajuda)
+                                       (_CU_ 
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT o)
+                                             (NNP Mossad)
+                                             (-LCB-)
+                                             (NP 
+                                               (NN servi�o)
+                                               (ADJP 
+                                                 (JJ secreto))
+                                               (PP 
+                                                 (IN de)
+                                                 (NP 
+                                                   (NNP Israel))))
+                                             (-RCB-)))
+                                         (CC e)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT o)
+                                             (NNP FBI)
+                                             (-LCB-)
+                                             (NP 
+                                               (NNP Pol�cia_Federal)
+                                               (PP 
+                                                 (IN de+)
+                                                 (NP 
+                                                   (DT os)
+                                                   (NNP EUA))))
+                                             (-RCB-))))))))
+                        (VP (VBP atribuem))
+                        (NP (DT o)
+                                (NN atentado))
+                        (PP (IN a+)
+                                (NP (DT o)
+                                       (NNP Hizbollah)
+                                       (,)
+                                       (NP 
+                                         (NN grupo)
+                                         (ADJP 
+                                           (JJ mu�ulmano))
+                                         (ADJP 
+                                           (JJ xiita))
+                                         (ADJP 
+                                           (JJ pr�-Ir�)))))
+                        (.)))

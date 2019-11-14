@@ -1,33 +1,15 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Jason)
-    )
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (ADJP 
-        (DT o)
-        (JJ maior)
-      )
-      (NN 
-        (PP 
-          (IN de)
-          (NP 
-            (PRP todos)
-          )
-        )
-      )
-      (,)
-      (PP 
-        (IN com)
-        (NP 
-          (CD 126)
-          (NN v�timas)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Jason))
+                        (VP (VBP �))
+                        (NP (ADJP (DT o)
+                                        (JJ maior))
+                               (NN assassino 
+                                 (PP 
+                                   (IN de)
+                                   (NP 
+                                     (PRP todos))))
+                               (,)
+                               (PP 
+                                 (IN com)
+                                 (NP (CD 126)
+                                        (NN v�timas))))
+                        (.)))

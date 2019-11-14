@@ -1,105 +1,66 @@
-(S 
-  (VP 
-    (PP 
-      (IN Ap�s)
-      (NP 
-        (DT a)
-        (NN negocia��o)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT as)
-            (NN d�vidas)
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN reabertura)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN hospital)
-        )
-      )
-    )
-    (VP 
-      (VBP est�)
-      (VBN condicionada)
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT o)
-        (NN destombamento)
-      )
-    )
-    (PP 
-      (IN por+)
-      (NP 
-        (DT o)
-        (NNP Condephaat)
-        (-LCB-)
-        (NP 
-          (NN �rg�o)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (VP 
-              (VBP cuida)
-            )
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN patrim�nio)
-                (ADJP 
-                  (JJ hist�rico)
-                )
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT a)
-                    (NN cidade)
-                  )
-                )
-              )
-            )
-          )
-        )
-        (-RCB-)
-        (PP 
-          (IN de)
-          (NP 
-            (DT uma)
-            (NN �rea)
-            (PP 
-              (IN de)
-              (NP 
-                (CD 10)
-                (NN mil)
-                (NN m2)
-                (,)
-                (VP 
-                  (NP 
-                    (PRP que)
-                  )
-                  (VP 
-                    (VBP dever�)
-                    (VB ser)
-                    (VBN comercializada)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Ap�s)
+                                 (NP (DT a)
+                                        (NN negocia��o)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT as)
+                                            (NN d�vidas)))))
+                        (,)
+                        (NP (DT a)
+                                 (NN reabertura)
+                                 (PP 
+                                   (IN de+)
+                                   (NP 
+                                     (DT o)
+                                     (NN hospital))))
+                        (VP (VBP est�)
+                              (VBN condicionada))
+                        (PP (IN a+)
+                                (NP (DT o)
+                                       (NN destombamento)))
+                        (PP (IN por+)
+                                        (NP 
+                                          (DT o)
+                                          (NNP Condephaat)
+                                          (-LCB-)
+                                          (NP 
+                                            (NN �rg�o)
+                                            (VP 
+                                              (NP 
+                                                (PRP que))
+                                              (VP 
+                                                (VBP cuida))
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT o)
+                                                  (NN patrim�nio)
+                                                  (ADJP 
+                                                    (JJ hist�rico))
+                                                  (PP 
+                                                    (IN de+)
+                                                    (NP 
+                                                      (DT a)
+                                                      (NN cidade)))))))
+                                          (-RCB-)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (DT uma)
+                                              (NN �rea)
+                                              (PP 
+                                                (IN de)
+                                                (NP 
+                                                  (CD 10)
+                                                  (NN mil)
+                                                  (NN m2)
+                                                  (,)
+                                                  (VP 
+                                                    (NP 
+                                                      (PRP que))
+                                                    (VP 
+                                                      (VBP dever�)
+                                                      (VB ser)
+                                                      (VBN comercializada)))))))))
+                        (.)))

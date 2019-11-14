@@ -1,42 +1,22 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN banco)
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP informou)
-    )
-    (VP 
-      (ADVP 
-        (RB porque)
-      )
-      (NP 
-        (DT o)
-        (NN sigilo)
-      )
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP foi)
-        (VBN mantido)
-      )
-      (PP 
-        (RB tamb�m)
-        (IN para)
-        (NP 
-          (DT os)
-          (NN grupos)
-          (ADJP 
-            (JJ estrangeiros)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN banco))
+                        (ADVP (RB n�o))
+                        (VP (VBP informou))
+                        (VP (ADVP 
+                                   (RB porque))
+                                 (NP 
+                                   (DT o)
+                                   (NN sigilo))
+                                 (ADVP 
+                                   (RB n�o))
+                                 (VP (VBP foi)
+                                       (VBN mantido))
+                                 (PP 
+                                   (RB tamb�m)
+                                   (IN para)
+                                   (NP 
+                                     (DT os)
+                                     (NN grupos)
+                                     (ADJP 
+                                       (JJ estrangeiros)))))
+                        (.)))

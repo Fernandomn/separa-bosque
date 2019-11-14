@@ -1,46 +1,24 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Afinal)
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN abertura)
-    )
-    (VP 
-      (VBP come�ou)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NN economia)
-        (ADJP 
-          (JJ brasileira)
-        )
-        (VP 
-          (VP 
-            (VBN movida)
-          )
-          (PP 
-            (IN por)
-            (NP 
-              (NN considera��es)
-              (ADJP 
-                (ADJP 
-                  (JJ pragm�ticas)
-                )
-                (CC e)
-                (ADJP 
-                  (JJ objetivas)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Afinal))
+                        (,)
+                        (NP (DT a)
+                                 (NN abertura))
+                        (VP (VBP come�ou))
+                        (PP (IN em+)
+                                 (NP (DT a)
+                                        (NN economia)
+                                        (ADJP 
+                                          (JJ brasileira))
+                                        (VP 
+                                          (VP 
+                                            (VBN movida))
+                                          (PP 
+                                            (IN por)
+                                            (NP 
+                                              (NN considera��es)
+                                              (_CU_ 
+                                                (ADJP 
+                                                  (JJ pragm�ticas))
+                                                (CC e)
+                                                (ADJP 
+                                                  (JJ objetivas))))))))
+                        (.)))

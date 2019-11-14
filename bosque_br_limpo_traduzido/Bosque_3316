@@ -1,35 +1,17 @@
-(S 
-  (NP 
-    (NP 
-      (NN �nibus)
-      (ADJP 
-        (JJ leve)
-      )
-      (,)
-      (NP 
-        (NN US$)
-        (NP 
-          (CD 55)
-          (NN mil)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (PP 
-        (IN para)
-        (NP 
-          (DT o)
-          (NN pesado)
-        )
-      )
-      (,)
-      (NN US$)
-      (NP 
-        (CD 70)
-        (NN mil)
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (NP (NN �nibus)
+                               (ADJP (JJ leve))
+                               (,)
+                               (NP 
+                                 (NN US$)
+                                 (NP (CD 55)
+                                        (NN mil))))
+                       (,)
+                       (NP (PP (IN para)
+                                      (NP 
+                                        (DT o)
+                                        (NN pesado)))
+                               (,)
+                               (NN US$)
+                               (NP (CD 70)
+                                      (NN mil)))
+                       (.)))

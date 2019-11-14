@@ -1,34 +1,16 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (DT o)
-        (NN projeto)
-      )
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP h�)
-    )
-    (NP 
-      (NN defini��o)
-      (PP 
-        (IN de)
-        (VP 
-          (NP 
-            (PRP quantos)
-          )
-          (VP 
-            (VBP podem)
-            (VB ser)
-            (VBN constru�dos)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (DT o)
+                                        (NN projeto)))
+                        (ADVP (RB n�o))
+                        (VP (VBP h�))
+                        (NP (NN defini��o)
+                                (PP 
+                                  (IN de)
+                                  (VP 
+                                    (NP 
+                                      (PRP quantos))
+                                    (VP 
+                                      (VBP podem)
+                                      (VB ser)
+                                      (VBN constru�dos)))))
+                        (.)))

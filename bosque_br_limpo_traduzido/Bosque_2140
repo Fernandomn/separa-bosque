@@ -1,85 +1,51 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NNP Congresso_Internacional_de_Direitos_Autorais)
-    )
-    (VP 
-      (VBP enviou)
-    )
-    (,)
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (JJ �ltima)
-        (NN sexta)
-      )
-    )
-    (,)
-    (NP 
-      (DT uma)
-      (NN recomenda��o)
-      (PP 
-        (IN a+)
-        (NP 
-          (DT o)
-          (NN ministro)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN Cultura)
-            )
-          )
-          (,)
-          (NP 
-            (NNP Luiz_Roberto_Nascimento_Silva)
-          )
-          (,)
-        )
-      )
-      (PP 
-        (IN para)
-        (VP 
-          (VP 
-            (VB reativar)
-          )
-          (NP 
-            (DT o)
-            (NN �rg�o)
-            (ADJP 
-              (JJ governamental)
-            )
-            (VP 
-              (NP 
-                (PRP que)
-              )
-              (VP 
-                (VBP cuidava)
-              )
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT a)
-                  (NN �rea)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NN propriedade)
-                      (ADJP 
-                        (JJ intelectual)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NNP Congresso_Internacional_de_Direitos_Autorais))
+                        (VP (VBP enviou))
+                        (,)
+                        (PP (IN em+)
+                                 (NP (DT a)
+                                        (JJ �ltima)
+                                        (NN sexta)))
+                        (,)
+                        (NP (DT uma)
+                                (NN recomenda��o)
+                                (PP (IN a+)
+                                       (NP 
+                                         (DT o)
+                                         (NN ministro)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT a)
+                                             (NN Cultura)))
+                                         (,)
+                                         (NP 
+                                           (NNP Luiz_Roberto_Nascimento_Silva))
+                                         (,)))
+                                (PP (IN para)
+                                       (VP 
+                                         (VP 
+                                           (VB reativar))
+                                         (NP 
+                                           (DT o)
+                                           (NN �rg�o)
+                                           (ADJP 
+                                             (JJ governamental))
+                                           (VP 
+                                             (NP 
+                                               (PRP que))
+                                             (VP 
+                                               (VBP cuidava))
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT a)
+                                                 (NN �rea)
+                                                 (PP 
+                                                   (IN de+)
+                                                   (NP 
+                                                     (DT a)
+                                                     (NN propriedade)
+                                                     (ADJP 
+                                                       (JJ intelectual)))))))))))
+                        (.)))

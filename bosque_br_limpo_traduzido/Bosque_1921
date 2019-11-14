@@ -1,58 +1,32 @@
-(S 
-  (VP 
-    (PP 
-      (IN Durante)
-      (NP 
-        (DT o)
-        (NN jantar)
-      )
-    )
-    (,)
-    (NP 
-      (NN pessoas)
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (VP 
-          (VBP estavam)
-        )
-        (PP 
-          (IN em)
-          (NP 
-            (DT uma)
-            (NN mesa)
-            (ADJP 
-              (JJ pr�xima)
-              (PP 
-                (IN a+)
-                (NP 
-                  (PRP a)
-                  (PP 
-                    (IN de)
-                    (NP 
-                      (NP 
-                        (NNP Collor)
-                      )
-                      (CC e)
-                      (NP 
-                        (NNP Rosane)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP tiraram)
-    )
-    (NP 
-      (NN fotos)
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Durante)
+                                 (NP (DT o)
+                                        (NN jantar)))
+                        (,)
+                        (NP (NN pessoas)
+                                 (VP 
+                                   (NP 
+                                     (PRP que))
+                                   (VP 
+                                     (VBP estavam))
+                                   (PP 
+                                     (IN em)
+                                     (NP 
+                                       (DT uma)
+                                       (NN mesa)
+                                       (ADJP 
+                                         (JJ pr�xima)
+                                         (PP 
+                                           (IN a+)
+                                           (NP 
+                                             (PRP a)
+                                             (PP 
+                                               (IN de)
+                                               (_CU_ 
+                                                 (NP 
+                                                   (NNP Collor))
+                                                 (CC e)
+                                                 (NP 
+                                                   (NNP Rosane)))))))))))
+                        (VP (VBP tiraram))
+                        (NP (NN fotos))
+                        (.)))

@@ -1,26 +1,12 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN material)
-    )
-    (VP 
-      (VBP ser�)
-      (VBN transferido)
-    )
-    (PP 
-      (IN para)
-      (NP 
-        (DT a)
-        (NN mem�ria)
-        (PP 
-          (IN de)
-          (NP 
-            (NN computadores)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN material))
+                        (VP (VBP ser�)
+                              (VBN transferido))
+                        (PP (IN para)
+                                (NP (DT a)
+                                       (NN mem�ria)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN computadores)))))
+                        (.)))

@@ -1,59 +1,40 @@
-(S 
-  (NP 
-    (NNP Yoshiaki_Nakano)
-    (--)
-    (NP 
-      (NP 
-        (NN economista)
-      )
-      (,)
-      (NP 
-        (NP ex-secret�rio)
-        (ADJP 
-          (JJ especial)
-        )
-        (PP 
-          (IN de)
-          (NP 
-            (NN assuntos)
-            (ADJP 
-              (JJ econ�micos)
-            )
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NNP Minist�rio_da_Fazenda)
-              )
-            )
-          )
-        )
-      )
-      (CC e)
-      (NP 
-        (NP ex-secret�rio)
-        (ADJP 
-          (JJ nacional)
-        )
-        (PP 
-          (IN de)
-          (NP 
-            (NN pol�tica)
-            (ADJP 
-              (JJ econ�mica)
-            )
-            (-LCB-)
-            (NP 
-              (NN gest�o)
-              (NP 
-                (NNP Bresser_Pereira)
-              )
-            )
-            (-RCB-)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (NP (NNP Yoshiaki_Nakano)
+                       (--)
+                       (_CU_ (NP 
+                                    (NN economista))
+                                  (,)
+                                  (NP 
+                                    (_EC_ ex-)
+                                    (NN secret�rio)
+                                    (ADJP 
+                                      (JJ especial))
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (NN assuntos)
+                                        (ADJP 
+                                          (JJ econ�micos))
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NNP Minist�rio_da_Fazenda))))))
+                                  (CC e)
+                                  (NP 
+                                    (_EC_ ex-)
+                                    (NN secret�rio)
+                                    (ADJP 
+                                      (JJ nacional))
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (NN pol�tica)
+                                        (ADJP 
+                                          (JJ econ�mica))
+                                        (-LCB-)
+                                        (NP 
+                                          (NN gest�o)
+                                          (NP 
+                                            (NNP Bresser_Pereira)))
+                                        (-RCB-)))))
+                       (.)))

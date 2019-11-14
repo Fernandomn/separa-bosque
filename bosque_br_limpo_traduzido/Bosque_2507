@@ -1,72 +1,40 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NNP Chacal)
-    )
-    (VP 
-      (VBP chegou)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT as)
-        (NN 10h30)
-        (-LCB-)
-        (NP 
-          (NN 5h30)
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT o)
-            (NNP Brasil)
-          )
-        )
-        (-RCB-)
-      )
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT o)
-        (NNP Pal�cio_da_Justi�a)
-      )
-    )
-    (,)
-    (VP 
-      (VP 
-        (VP 
-          (VBG usando)
-        )
-        (NP 
-          (NN algemas)
-        )
-      )
-      (CC e)
-      (VP 
-        (VP 
-          (VBN cercado)
-        )
-        (PP 
-          (IN por)
-          (NP 
-            (DT um)
-            (JJ forte)
-            (NN esquema)
-            (PP 
-              (IN de)
-              (NP 
-                (NN seguran�a)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NNP Chacal))
+                        (VP (VBP chegou))
+                        (ADVP (RB ontem))
+                        (PP (IN a+)
+                                 (NP (DT as)
+                                        (NN 10h30)
+                                        (-LCB-)
+                                        (NP 
+                                          (NN 5h30))
+                                        (PP 
+                                          (IN em+)
+                                          (NP 
+                                            (DT o)
+                                            (NNP Brasil)))
+                                        (-RCB-)))
+                        (PP (IN a+)
+                                (NP (DT o)
+                                       (NNP Pal�cio_da_Justi�a)))
+                        (,)
+                        (_CU_ (VP 
+                                   (VP 
+                                     (VBG usando))
+                                   (NP 
+                                     (NN algemas)))
+                                 (CC e)
+                                 (VP 
+                                   (VP 
+                                     (VBN cercado))
+                                   (PP 
+                                     (IN por)
+                                     (NP 
+                                       (DT um)
+                                       (JJ forte)
+                                       (NN esquema)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN seguran�a)))))))
+                        (.)))

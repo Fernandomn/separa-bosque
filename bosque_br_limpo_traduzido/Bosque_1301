@@ -1,42 +1,20 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Parecia)
-    )
-    (NP 
-      (NN concurso)
-      (PP 
-        (IN de)
-        (NP 
-          (NN perguntas)
-          (ADJP 
-            (JJ idiotas)
-          )
-        )
-      )
-    )
-    (NP 
-      (DT a)
-      (NN cobertura)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN carnaval)
-        )
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT os)
-        (NN sal�es)
-        (,)
-        (NP 
-          (NN ter�a)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Parecia))
+                        (NP (NN concurso)
+                               (PP (IN de)
+                                      (NP 
+                                        (NN perguntas)
+                                        (ADJP 
+                                          (JJ idiotas)))))
+                        (NP (DT a)
+                                 (NN cobertura)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN carnaval))))
+                        (PP (IN em+)
+                                 (NP (DT os)
+                                        (NN sal�es)
+                                        (,)
+                                        (NP 
+                                          (NN ter�a))))
+                        (.)))

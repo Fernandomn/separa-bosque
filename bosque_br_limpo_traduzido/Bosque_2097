@@ -1,62 +1,36 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Isto)
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP impede)
-    )
-    (VP 
-      (IN que)
-      (,)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT o)
-          (NN �ntimo)
-        )
-      )
-      (,)
-      (NP 
-        (PRP eu)
-      )
-      (VP 
-        (VBP deseje)
-      )
-      (NP 
-        (PRP alguma)
-        (NN esp�cie)
-        (PP 
-          (IN de)
-          (NP 
-            (DT uma)
-            (ADJP 
-              (ADJP 
-                (JJ complexa)
-              )
-              (,)
-              (ADJP 
-                (JJ delicada)
-              )
-              (CC e)
-              (ADJP 
-                (JJ dif�cil)
-              )
-            )
-            (NN soberania)
-          )
-        )
-      )
-      (PP 
-        (IN para)
-        (NP 
-          (PRP n�s)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Isto))
+                        (ADVP (RB n�o))
+                        (VP (VBP impede))
+                        (VP (IN que)
+                                 (,)
+                                 (PP 
+                                   (IN em+)
+                                   (NP 
+                                     (DT o)
+                                     (NN �ntimo)))
+                                 (,)
+                                 (NP 
+                                   (PRP eu))
+                                 (VP (VBP deseje))
+                                 (NP 
+                                   (PRP alguma)
+                                   (NN esp�cie)
+                                   (PP 
+                                     (IN de)
+                                     (NP 
+                                       (DT uma)
+                                       (_CU_ 
+                                         (ADJP 
+                                           (JJ complexa))
+                                         (,)
+                                         (ADJP 
+                                           (JJ delicada))
+                                         (CC e)
+                                         (ADJP 
+                                           (JJ dif�cil)))
+                                       (NN soberania))))
+                                 (PP 
+                                   (IN para)
+                                   (NP 
+                                     (PRP n�s))))
+                        (.)))

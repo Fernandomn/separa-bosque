@@ -1,56 +1,30 @@
-(S 
-  (VP 
-    (PP 
-      (IN Segundo)
-      (NP 
-        (PRP ele)
-      )
-    )
-    (,)
-    (NP 
-      (NN Carvalho)
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP est�)
-      (VBG avaliando)
-    )
-    (VP 
-      (IN que)
-      (VP 
-        (VBP pode)
-        (VB ampliar)
-      )
-      (NP 
-        (PRP seu)
-        (NN espectro)
-        (PP 
-          (IN de)
-          (NP 
-            (NN op��es)
-          )
-        )
-      )
-      (PP 
-        (IN sem)
-        (NP 
-          (DT a)
-          (NN necessidade)
-          (PP 
-            (IN de)
-            (NP 
-              (DT uma)
-              (NN mudan�a)
-              (ADJP 
-                (JJ radical)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Segundo)
+                                 (NP (PRP ele)))
+                        (,)
+                        (NP (NN Carvalho))
+                        (ADVP (RB n�o))
+                        (VP (VBP est�)
+                              (VBG avaliando))
+                        (VP (IN que)
+                                 (VP (VBP pode)
+                                       (VB ampliar))
+                                 (NP 
+                                   (PRP seu)
+                                   (NN espectro)
+                                   (PP 
+                                     (IN de)
+                                     (NP 
+                                       (NN op��es))))
+                                 (PP 
+                                   (IN sem)
+                                   (NP 
+                                     (DT a)
+                                     (NN necessidade)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (DT uma)
+                                         (NN mudan�a)
+                                         (ADJP 
+                                           (JJ radical)))))))
+                        (.)))

@@ -1,50 +1,29 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Isoladamente)
-    )
-    (,)
-    (NP 
-      (NP 
-        (DT os)
-        (NNP EUA)
-      )
-      (CC e)
-      (NP 
-        (DT o)
-        (NNP Jap�o)
-      )
-    )
-    (,)
-    (ADVP 
-      (RB por_exemplo)
-    )
-    (,)
-    (VP 
-      (VBP praticaram)
-    )
-    (NP 
-      (NN al�quotas)
-      (ADJP 
-        (RB ainda)
-        (JJ menores)
-      )
-      (UCP 
-        (NP 
-          (CD 5,46)
-          (NN %)
-        )
-        (CC e)
-        (NP 
-          (CD 4,79)
-          (NN %)
-        )
-        (,)
-        (ADVP 
-          (RB respectivamente)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Isoladamente))
+                        (,)
+                        (_CU_ (NP 
+                                   (DT os)
+                                   (NNP EUA))
+                                 (CC e)
+                                 (NP 
+                                   (DT o)
+                                   (NNP Jap�o)))
+                        (,)
+                        (ADVP (RB por_exemplo))
+                        (,)
+                        (VP (VBP praticaram))
+                        (NP (NN al�quotas)
+                                (ADJP 
+                                  (RB ainda)
+                                  (JJ menores))
+                                (_CU_ 
+                                  (NP 
+                                    (CD 5,46)
+                                    (NN %))
+                                  (CC e)
+                                  (NP 
+                                    (CD 4,79)
+                                    (NN %))
+                                  (,)
+                                  (ADVP 
+                                    (RB respectivamente))))
+                        (.)))

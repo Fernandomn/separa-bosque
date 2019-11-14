@@ -1,116 +1,71 @@
-(S 
-  (VP 
-    (NP 
-      (DT Um)
-      (NN cabo)
-      (,)
-      (VP 
-        (VP 
-          (VBP ensinam)
-        )
-        (NP 
-          (DT os)
-          (NN dicion�rios)
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (DT uma)
-      (NN faixa)
-      (PP 
-        (IN de)
-        (NP 
-          (NN terra)
-        )
-      )
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (VP 
-          (VBP entra)
-        )
-        (PP 
-          (IN por+)
-          (NP 
-            (DT o)
-            (NN mar)
-          )
-        )
-      )
-      (NP 
-        (DT o)
-        (NN oposto)
-        (PP 
-          (IN de)
-          (NP 
-            (NN fiorde)
-            (,)
-            (VP 
-              (NP 
-                (PRP que)
-              )
-              (VP 
-                (VBP �)
-              )
-              (NP 
-                (DT uma)
-                (NN por��o)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NN mar)
-                  )
-                )
-                (VP 
-                  (NP 
-                    (PRP que)
-                  )
-                  (VP 
-                    (VBP avan�a)
-                  )
-                  (PP 
-                    (IN por+)
-                    (NP 
-                      (DT o)
-                      (NN continente)
-                    )
-                  )
-                  (,)
-                )
-              )
-              (VP 
-                (ADVP 
-                  (RB como)
-                )
-                (VP 
-                  (VBP acontece)
-                )
-                (PP 
-                  (IN em+)
-                  (NP 
-                    (DT a)
-                    (NP 
-                      (NP 
-                        (NNP Noruega)
-                      )
-                      (CC e)
-                      (NP 
-                        (NNP Su�cia)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Um)
+                                 (NN cabo)
+                                 (,)
+                                 (VP 
+                                   (VP 
+                                     (VBP ensinam))
+                                   (NP 
+                                     (DT os)
+                                     (NN dicion�rios)))
+                                 (,))
+                        (VP (VBP �))
+                        (NP (DT uma)
+                               (NN faixa)
+                               (PP (IN de)
+                                      (NP 
+                                        (NN terra)))
+                               (VP (NP 
+                                         (PRP que))
+                                       (VP 
+                                         (VBP entra))
+                                       (PP 
+                                         (IN por+)
+                                         (NP 
+                                           (DT o)
+                                           (NN mar))))
+                               (NP 
+                                 (DT o)
+                                 (NN oposto)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NN fiorde)
+                                          (,)
+                                          (VP 
+                                            (NP 
+                                              (PRP que))
+                                            (VP 
+                                              (VBP �))
+                                            (NP 
+                                              (DT uma)
+                                              (NN por��o)
+                                              (PP 
+                                                (IN de)
+                                                (NP 
+                                                  (NN mar)))
+                                              (VP 
+                                                (NP 
+                                                  (PRP que))
+                                                (VP 
+                                                  (VBP avan�a))
+                                                (PP 
+                                                  (IN por+)
+                                                  (NP 
+                                                    (DT o)
+                                                    (NN continente)))
+                                                (,)))
+                                            (VP 
+                                              (ADVP 
+                                                (RB como))
+                                              (VP 
+                                                (VBP acontece))
+                                              (PP 
+                                                (IN em+)
+                                                (NP 
+                                                  (DT a)
+                                                  (_CU_ 
+                                                    (NP 
+                                                      (NNP Noruega))
+                                                    (CC e)
+                                                    (NP 
+                                                      (NNP Su�cia)))))))))))
+                        (.)))

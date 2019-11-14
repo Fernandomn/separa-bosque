@@ -1,80 +1,51 @@
-(S 
-  (NP 
-    (NP 
-      (NNP Folha)
-    )
-    (--)
-    (VP 
-      (CC Mas)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT o)
-          (NN momento)
-          (VP 
-            (PP 
-              (IN em)
-              (NP 
-                (PRP que)
-              )
-            )
-            (NP 
-              (DT a)
-              (JJ nova)
-              (NN moeda)
-            )
-            (VP 
-              (VBP for)
-              (VBN criada)
-            )
-          )
-        )
-      )
-      (,)
-      (VP 
-        (IN se)
-        (NP 
-          (DT os)
-          (NN pre�os)
-        )
-        (VP 
-          (VBP forem)
-          (VBN convertidos)
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT o)
-            (NN pico)
-          )
-        )
-      )
-      (,)
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP ser�)
-      )
-      (ADJP 
-        (JJ necess�rio)
-      )
-      (NP 
-        (DT um)
-        (NN aperto)
-        (ADJP 
-          (JJ monet�rio)
-        )
-        (,)
-        (NP 
-          (DT uma)
-          (NN recess�o)
-          (ADJP 
-            (JJ tempor�ria)
-          )
-        )
-      )
-      (?)
-    )
-  )
-)
+(S (NP (NP (NNP Folha))
+                       (--)
+                       (VP (CC Mas)
+                                (PP 
+                                  (IN em+)
+                                  (NP 
+                                    (DT o)
+                                    (NN momento)
+                                    (VP 
+                                      (PP 
+                                        (IN em)
+                                        (NP 
+                                          (PRP que)))
+                                      (NP 
+                                        (DT a)
+                                        (JJ nova)
+                                        (NN moeda))
+                                      (VP 
+                                        (VBP for)
+                                        (VBN criada)))))
+                                (,)
+                                (VP 
+                                  (IN se)
+                                  (NP 
+                                    (DT os)
+                                    (NN pre�os))
+                                  (VP (VBP forem)
+                                        (VBN convertidos))
+                                  (PP 
+                                    (IN em+)
+                                    (NP 
+                                      (DT o)
+                                      (NN pico))))
+                                (,)
+                                (ADVP 
+                                  (RB n�o))
+                                (VP (VBP ser�))
+                                (ADJP 
+                                  (JJ necess�rio))
+                                (NP 
+                                  (DT um)
+                                  (NN aperto)
+                                  (ADJP 
+                                    (JJ monet�rio))
+                                  (,)
+                                  (NP 
+                                    (DT uma)
+                                    (NN recess�o)
+                                    (ADJP 
+                                      (JJ tempor�ria))))
+                                (?))))

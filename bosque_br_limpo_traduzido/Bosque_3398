@@ -1,86 +1,47 @@
-(S 
-  (VP 
-    (NP 
-      (DT Um)
-      (NN cr�tico)
-      (PP 
-        (IN de)
-        (NP 
-          (NN jornal)
-          (ADJP 
-            (JJ cotidiano)
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP deve)
-    )
-    (NP 
-      (PRP se)
-    )
-    (VP 
-      (VB conformar)
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (NP 
-          (DT o)
-          (NN papel)
-          (PP 
-            (IN de)
-            (NP 
-              (NN narrador)
-            )
-          )
-        )
-        (CC e)
-        (NP 
-          (PRP seu)
-          (NN destaque)
-          (ADJP 
-            (JJ secund�rio)
-          )
-        )
-      )
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT o)
-        (JJ simples)
-        (NN gesto)
-        (PP 
-          (IN de)
-          (VP 
-            (NP 
-              (DT uma)
-              (NN p�gina)
-              (VP 
-                (VP 
-                  (VP 
-                    (VB ser)
-                    (VBN virada)
-                  )
-                )
-                (CC e)
-                (VP 
-                  (VP 
-                    (VB 
-                      (PP 
-                        (IN para)
-                        (RB tr�s)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Um)
+                                 (NN cr�tico)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NN jornal)
+                                          (ADJP 
+                                            (JJ cotidiano)))))
+                        (VP (VBP deve))
+                        (NP (PRP se))
+                        (VP (VB conformar))
+                        (PP (IN com)
+                                (_CU_ (NP 
+                                         (DT o)
+                                         (NN papel)
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NN narrador))))
+                                       (CC e)
+                                       (NP 
+                                         (PRP seu)
+                                         (NN destaque)
+                                         (ADJP 
+                                           (JJ secund�rio)))))
+                        (PP (IN a+)
+                                 (NP (DT o)
+                                        (JJ simples)
+                                        (NN gesto)
+                                        (PP 
+                                          (IN de)
+                                          (VP 
+                                            (NP 
+                                              (DT uma)
+                                              (NN p�gina)
+                                              (_CU_ 
+                                                (VP 
+                                                  (VP 
+                                                    (VB ser)
+                                                    (VBN virada)))
+                                                (CC e)
+                                                (VP 
+                                                  (VP 
+                                                    (VB ficar 
+                                                      (PP 
+                                                        (IN para)
+                                                        (RB tr�s)))))))))))
+                        (.)))

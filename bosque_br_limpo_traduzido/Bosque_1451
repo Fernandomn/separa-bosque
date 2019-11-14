@@ -1,100 +1,60 @@
-(S 
-  (VP 
-    (PP 
-      (IN Ao_contr�rio_de+)
-      (NP 
-        (PRP o)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP tem)
-            (VBN acontecido)
-          )
-          (PP 
-            (IN em)
-            (NP 
-              (PRP suas)
-              (JJ �ltimas)
-              (NN declara��es)
-              (ADJP 
-                (JJ p�blicas)
-              )
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (NNP FHC)
-    )
-    (VP 
-      (VBP evitou)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (VP 
-      (VP 
-        (VB fazer)
-      )
-      (NP 
-        (NN ataques)
-        (PP 
-          (IN a+)
-          (NP 
-            (DT os)
-            (VBN chamados)
-            (�)
-            (NN aumentos)
-            (ADJP 
-              (JJ abusivos)
-            )
-            (PP 
-              (IN de)
-              (NP 
-                (NN pre�os)
-              )
-            )
-            (�)
-          )
-        )
-      )
-      (PP 
-        (IN por_parte_de+)
-        (NP 
-          (DT os)
-          (NN oligop�lios)
-          (NP 
-            (JJ grandes)
-            (NP 
-              (NN empresas)
-              (VP 
-                (NP 
-                  (PRP que)
-                )
-                (VP 
-                  (VBP dominam)
-                )
-                (NP 
-                  (VBN determinados)
-                  (NN segmentos)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NN economia)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Ao_contr�rio_de+)
+                                 (NP (PRP o)
+                                        (VP 
+                                          (NP 
+                                            (PRP que))
+                                          (VP 
+                                            (VBP tem)
+                                            (VBN acontecido))
+                                          (PP 
+                                            (IN em)
+                                            (NP 
+                                              (PRP suas)
+                                              (JJ �ltimas)
+                                              (NN declara��es)
+                                              (ADJP 
+                                                (JJ p�blicas)))))))
+                        (,)
+                        (NP (NNP FHC))
+                        (VP (VBP evitou))
+                        (ADVP (RB ontem))
+                        (VP (VP (VB fazer))
+                                 (NP 
+                                   (NN ataques)
+                                   (PP 
+                                     (IN a+)
+                                     (NP 
+                                       (DT os)
+                                       (VBN chamados)
+                                       (�)
+                                       (NN aumentos)
+                                       (ADJP 
+                                         (JJ abusivos))
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN pre�os)))
+                                       (�))))
+                                 (PP 
+                                   (IN por_parte_de+)
+                                   (NP 
+                                     (DT os)
+                                     (NN oligop�lios)
+                                     (NP 
+                                       (JJ grandes)
+                                       (NP 
+                                         (NN empresas)
+                                         (VP 
+                                           (NP 
+                                             (PRP que))
+                                           (VP 
+                                             (VBP dominam))
+                                           (NP 
+                                             (VBN determinados)
+                                             (NN segmentos)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT a)
+                                                 (NN economia))))))))))
+                        (.)))

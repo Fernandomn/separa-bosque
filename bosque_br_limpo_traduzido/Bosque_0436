@@ -1,52 +1,29 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (DT O)
-        (NN acordo)
-      )
-      (ADVP 
-        (RB n�o)
-      )
-      (NP 
-        (PRP se)
-      )
-      (VP 
-        (VBP tornou)
-      )
-      (ADJP 
-        (JJ p�blico)
-      )
-    )
-    (,)
-    (CC mas)
-    (VP 
-      (,)
-      (ADVP 
-        (RB agora)
-      )
-      (,)
-      (NP 
-        (PRP se)
-      )
-      (VP 
-        (VBP sabe)
-      )
-      (VP 
-        (IN que)
-        (VP 
-          (VBP foram)
-          (VBN feitas)
-        )
-        (NP 
-          (PRP muitas)
-          (NN concess�es)
-          (ADJP 
-            (JJ pol�ticas)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (DT O)
+                                  (NN acordo))
+                                (ADVP 
+                                  (RB n�o))
+                                (NP 
+                                  (PRP se))
+                                (VP (VBP tornou))
+                                (ADJP 
+                                  (JJ p�blico)))
+                       (,)
+                       (CC mas)
+                       (VP (,)
+                                (ADVP 
+                                  (RB agora))
+                                (,)
+                                (NP 
+                                  (PRP se))
+                                (VP (VBP sabe))
+                                (VP 
+                                  (IN que)
+                                  (VP (VBP foram)
+                                        (VBN feitas))
+                                  (NP 
+                                    (PRP muitas)
+                                    (NN concess�es)
+                                    (ADJP 
+                                      (JJ pol�ticas)))))
+                       (.)))

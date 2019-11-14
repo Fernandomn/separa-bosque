@@ -1,56 +1,31 @@
-(S 
-  (VP 
-    (PP 
-      (IN Segundo)
-      (NP 
-        (DT a)
-        (NN previs�o)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NNP Conab)
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN produ��o)
-      (ADJP 
-        (JJ nacional)
-      )
-      (PP 
-        (IN de)
-        (NP 
-          (NN arroz)
-        )
-      )
-    )
-    (VP 
-      (VBP deve)
-      (VB chegar)
-    )
-    (PP 
-      (IN a)
-      (NP 
-        (CD 10,6)
-        (NN milh�es)
-        (PP 
-          (IN de)
-          (NP 
-            (NN toneladas)
-            (PP 
-              (IN de)
-              (NP 
-                (NN gr�os)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Segundo)
+                                 (NP (DT a)
+                                        (NN previs�o)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NNP Conab)))))
+                        (,)
+                        (NP (DT a)
+                                 (NN produ��o)
+                                 (ADJP 
+                                   (JJ nacional))
+                                 (PP 
+                                   (IN de)
+                                   (NP 
+                                     (NN arroz))))
+                        (VP (VBP deve)
+                              (VB chegar))
+                        (PP (IN a)
+                                (NP (CD 10,6)
+                                       (NN milh�es)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN toneladas)
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NN gr�os)))))))
+                        (.)))

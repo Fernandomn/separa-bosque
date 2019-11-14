@@ -1,82 +1,49 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (DT O)
-        (NN autor)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN ataque)
-          )
-        )
-      )
-      (VP 
-        (VBP seria)
-      )
-      (NP 
-        (NNP Nagi_Mohamed_Mustafa)
-      )
-    )
-    (CC e)
-    (VP 
-      (NP 
-        (DT o)
-        (NN l�der)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN grupo)
-          )
-        )
-      )
-      (VP 
-        (VBP seria)
-      )
-      (NP 
-        (NNP Basseem_Khalil)
-        (,)
-        (VP 
-          (VP 
-            (VBN morto)
-          )
-          (PP 
-            (IN em+)
-            (NP 
-              (DT um)
-              (NN caf�)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NNP Cairo)
-                  (-LCB-)
-                  (ADJP 
-                    (JJ capital)
-                  )
-                  (-RCB-)
-                )
-              )
-            )
-          )
-          (PP 
-            (IN ap�s)
-            (NP 
-              (NN tiroteio)
-              (PP 
-                (IN contra)
-                (NP 
-                  (DT a)
-                  (NN pol�cia)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (DT O)
+                                  (NN autor)
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT o)
+                                      (NN ataque))))
+                                (VP (VBP seria))
+                                (NP (NNP Nagi_Mohamed_Mustafa)))
+                       (CC e)
+                       (VP (NP 
+                                  (DT o)
+                                  (NN l�der)
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT o)
+                                      (NN grupo))))
+                                (VP (VBP seria))
+                                (NP (NNP Basseem_Khalil)
+                                       (,)
+                                       (VP 
+                                         (VP 
+                                           (VBN morto))
+                                         (PP 
+                                           (IN em+)
+                                           (NP 
+                                             (DT um)
+                                             (NN caf�)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT o)
+                                                 (NNP Cairo)
+                                                 (-LCB-)
+                                                 (ADJP 
+                                                   (JJ capital))
+                                                 (-RCB-)))))
+                                         (PP 
+                                           (IN ap�s)
+                                           (NP 
+                                             (NN tiroteio)
+                                             (PP 
+                                               (IN contra)
+                                               (NP 
+                                                 (DT a)
+                                                 (NN pol�cia))))))))
+                       (.)))

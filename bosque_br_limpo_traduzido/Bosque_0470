@@ -1,110 +1,64 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NNP Sindicato_dos_Metal�rgicos)
-      (PP 
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NNP Rio)
-          )
-        )
-        (CC e)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NNP Grande_Rio)
-            (-LCB-)
-            (NP 
-              (NN data-base)
-              (PP 
-                (IN em)
-                (NP 
-                  (NN outubro)
-                )
-              )
-            )
-            (-RCB-)
-          )
-        )
-      )
-    )
-    (NP 
-      (PRP se)
-    )
-    (VP 
-      (VBP re�ne)
-    )
-    (ADVP 
-      (RB hoje)
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (NN representantes)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NNP Firjan)
-            (-LCB-)
-            (NP 
-              (NN federa��o)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT as)
-                  (NN ind�strias)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT o)
-                      (NNP Rio)
-                    )
-                  )
-                )
-              )
-            )
-            (-RCB-)
-          )
-        )
-      )
-    )
-    (ADVP 
-      (RB pela_primeira_vez)
-    )
-    (PP 
-      (IN desde)
-      (NP 
-        (DT o)
-        (NN in�cio)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN greve)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (NN categoria)
-              )
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NN ter�a-feira)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NNP Sindicato_dos_Metal�rgicos)
+                                 (_CU_ (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NNP Rio)))
+                                        (CC e)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NNP Grande_Rio)
+                                            (-LCB-)
+                                            (NP 
+                                              (NN data-base)
+                                              (PP 
+                                                (IN em)
+                                                (NP 
+                                                  (NN outubro))))
+                                            (-RCB-)))))
+                        (NP (PRP se))
+                        (VP (VBP re�ne))
+                        (ADVP (RB hoje))
+                        (PP (IN com)
+                                (NP (NN representantes)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT a)
+                                           (NNP Firjan)
+                                           (-LCB-)
+                                           (NP 
+                                             (NN federa��o)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT as)
+                                                 (NN ind�strias)
+                                                 (PP 
+                                                   (IN de+)
+                                                   (NP 
+                                                     (DT o)
+                                                     (NNP Rio))))))
+                                           (-RCB-)))))
+                        (ADVP (RB pela_primeira_vez))
+                        (PP (IN desde)
+                                 (NP (DT o)
+                                        (NN in�cio)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NN greve)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT a)
+                                                (NN categoria)))))))
+                        (,)
+                        (PP (IN em+)
+                                 (NP (DT a)
+                                        (NN ter�a-feira)))
+                        (.)))

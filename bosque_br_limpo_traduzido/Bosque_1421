@@ -1,65 +1,36 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN cart�o)
-      (NP 
-        (NNP TVA)
-      )
-    )
-    (VP 
-      (VBP vai)
-      (VB permitir)
-    )
-    (PP 
-      (IN a)
-      (NP 
-        (PRP seus)
-        (NN portadores)
-      )
-    )
-    (,)
-    (PP 
-      (IN a_partir_de+)
-      (NP 
-        (PRP este)
-        (NN m�s)
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN participa��o)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT as)
-          (JJ primeiras)
-          (NN exibi��es)
-          (VP 
-            (VP 
-              (VBN realizadas)
-            )
-            (PP 
-              (IN em)
-              (NP 
-                (NN espa�os)
-                (ADJP 
-                  (JJ culturais)
-                )
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (NNP Banco_Nacional)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN cart�o)
+                                 (NP (NNP TVA)))
+                        (VP (VBP vai)
+                              (VB permitir))
+                        (PP (IN a)
+                                (NP (PRP seus)
+                                       (NN portadores)))
+                        (,)
+                        (PP (IN a_partir_de+)
+                                 (NP (PRP este)
+                                        (NN m�s)))
+                        (,)
+                        (NP (DT a)
+                                (NN participa��o)
+                                (PP 
+                                  (IN em+)
+                                  (NP 
+                                    (DT as)
+                                    (JJ primeiras)
+                                    (NN exibi��es)
+                                    (VP 
+                                      (VP 
+                                        (VBN realizadas))
+                                      (PP 
+                                        (IN em)
+                                        (NP 
+                                          (NN espa�os)
+                                          (ADJP 
+                                            (JJ culturais))
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (NNP Banco_Nacional)))))))))
+                        (.)))

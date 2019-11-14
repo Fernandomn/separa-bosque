@@ -1,34 +1,20 @@
-(S 
-  (NP 
-    (NN Hor�rio)
-    (;)
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (NN dia)
-        (ADJP 
-          (CD 12)
-        )
-      )
-    )
-    (,)
-    (PP 
-      (PP 
-        (IN de+)
-        (NP 
-          (DT as)
-          (NN 19h)
-        )
-      )
-      (PP 
-        (IN a+)
-        (NP 
-          (DT o)
-          (JJ �ltimo)
-          (NN cliente)
-        )
-      )
-    )
-  )
-)
+(S (NP (NN Hor�rio)
+                       (;)
+                       (PP (IN em+)
+                                  (NP 
+                                    (DT o)
+                                    (NN dia)
+                                    (ADJP 
+                                      (CD 12))))
+                       (,)
+                       (_CU_ (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT as)
+                                      (NN 19h)))
+                                  (PP 
+                                    (IN a+)
+                                    (NP 
+                                      (DT o)
+                                      (JJ �ltimo)
+                                      (NN cliente))))))

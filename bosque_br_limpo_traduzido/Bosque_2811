@@ -1,55 +1,30 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN imprensa)
-    )
-    (ADVP 
-      (RB j�)
-    )
-    (NP 
-      (PRP se)
-    )
-    (VP 
-      (VBP esqueceu)
-    )
-    (PP 
-      (IN de)
-      (VP 
-        (IN que)
-        (NP 
-          (DT os)
-          (NN oligop�lios)
-        )
-        (VP 
-          (VBP s�o)
-        )
-        (NP 
-          (DT o)
-          (NN vil�o)
-          (PP 
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (NN URV)
-              )
-            )
-            (CC e)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN plano)
-                (NP 
-                  (NNP FHC)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN imprensa))
+                        (ADVP (RB j�))
+                        (NP (PRP se))
+                        (VP (VBP esqueceu))
+                        (PP (IN de)
+                                (VP (IN que)
+                                        (NP 
+                                          (DT os)
+                                          (NN oligop�lios))
+                                        (VP 
+                                          (VBP s�o))
+                                        (NP 
+                                          (DT o)
+                                          (NN vil�o)
+                                          (_CU_ 
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT a)
+                                                (NN URV)))
+                                            (CC e)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT o)
+                                                (NN plano)
+                                                (NP 
+                                                  (NNP FHC))))))))
+                        (.)))

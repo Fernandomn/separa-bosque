@@ -1,24 +1,11 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NNP Bovespa)
-      (-LCB-)
-      (NP 
-        (NNP Bolsa_de_Valores_de_S�o_Paulo)
-      )
-      (-RCB-)
-    )
-    (VP 
-      (VBP movimentou)
-    )
-    (NP 
-      (NN R$)
-      (NP 
-        (CD 450,1)
-        (NN milh�es)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NNP Bovespa)
+                                 (-LCB-)
+                                 (NP 
+                                   (NNP Bolsa_de_Valores_de_S�o_Paulo))
+                                 (-RCB-))
+                        (VP (VBP movimentou))
+                        (NP (NN R$)
+                                (NP (CD 450,1)
+                                       (NN milh�es)))
+                        (.)))

@@ -1,35 +1,17 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Foi)
-    )
-    (NP 
-      (NN secret�rio)
-      (ADJP 
-        (JJ especial)
-      )
-      (PP 
-        (IN para)
-        (NP 
-          (NNP Assuntos_Internacionais)
-        )
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP Rio_Grande_do_Sul)
-          (-LCB-)
-          (NP 
-            (NN governo)
-            (NP 
-              (NNP Pedro_Simon)
-            )
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Foi))
+                        (NP (NN secret�rio)
+                               (ADJP (JJ especial))
+                               (PP (IN para)
+                                      (NP 
+                                        (NNP Assuntos_Internacionais)))
+                               (PP (IN de+)
+                                      (NP 
+                                        (DT o)
+                                        (NNP Rio_Grande_do_Sul)
+                                        (-LCB-)
+                                        (NP 
+                                          (NN governo)
+                                          (NP 
+                                            (NNP Pedro_Simon)))
+                                        (-RCB-))))
+                        (.)))

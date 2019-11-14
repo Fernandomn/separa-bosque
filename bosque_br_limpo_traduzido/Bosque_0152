@@ -1,137 +1,84 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (JJ primeira)
-      (NN miss�o)
-      (ADJP 
-        (JJ lunar)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NNP EUA)
-        )
-      )
-      (PP 
-        (IN em)
-        (NP 
-          (CD 21)
-          (NN anos)
-        )
-      )
-    )
-    (VP 
-      (VBP teve)
-    )
-    (NP 
-      (NN in�cio)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (,)
-    (VP 
-      (ADVP 
-        (RB quando)
-      )
-      (NP 
-        (DT um)
-        (NN foguete)
-        (NP 
-          (NNP Tit�_2)
-        )
-      )
-      (VP 
-        (VBP colocou)
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT o)
-          (NN espa�o)
-        )
-      )
-      (NP 
-        (DT a)
-        (NN astronave)
-        (VP 
-          (ADVP 
-            (RB n�o)
-          )
-          (VP 
-            (VBN tripulada)
-          )
-        )
-        (NP 
-          (NNP Clementine_1)
-        )
-        (,)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP vai)
-            (VB passar)
-          )
-          (NP 
-            (CD dois)
-            (NN meses)
-          )
-          (PP 
-            (IN em)
-            (NP 
-              (CD duas)
-              (NN �rbitas)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT a)
-                  (NN Lua)
-                )
-              )
-            )
-          )
-          (PP 
-            (IN para)
-            (VP 
-              (VP 
-                (VB realizar)
-              )
-              (NP 
-                (JJ completo)
-                (NN mapeamento)
-                (ADJP 
-                  (ADJP 
-                    (JJ mineral�gico)
-                  )
-                  (CC e)
-                  (ADJP 
-                    (JJ topogr�fico)
-                  )
-                )
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (NN sat�lite)
-                    (PP 
-                      (IN de+)
-                      (NP 
-                        (DT a)
-                        (NN Terra)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                (JJ primeira)
+                                (NN miss�o)
+                                (ADJP 
+                                  (JJ lunar))
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT os)
+                                         (NNP EUA)))
+                                (PP (IN em)
+                                       (NP 
+                                         (CD 21)
+                                         (NN anos))))
+                       (VP (VBP teve))
+                       (NP (NN in�cio))
+                       (ADVP (RB ontem))
+                       (,)
+                       (VP (ADVP 
+                                   (RB quando))
+                                 (NP 
+                                   (DT um)
+                                   (NN foguete)
+                                   (NP 
+                                     (NNP Tit�_2)))
+                                 (VP (VBP colocou))
+                                 (PP (IN em+)
+                                        (NP 
+                                          (DT o)
+                                          (NN espa�o)))
+                                 (NP 
+                                   (DT a)
+                                   (NN astronave)
+                                   (VP 
+                                     (ADVP 
+                                       (RB n�o))
+                                     (VP 
+                                       (VBN tripulada)))
+                                   (NP 
+                                     (NNP Clementine_1))
+                                   (,)
+                                   (VP 
+                                     (NP 
+                                       (PRP que))
+                                     (VP 
+                                       (VBP vai)
+                                       (VB passar))
+                                     (NP 
+                                       (CD dois)
+                                       (NN meses))
+                                     (PP 
+                                       (IN em)
+                                       (NP 
+                                         (CD duas)
+                                         (NN �rbitas)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT a)
+                                             (NN Lua)))))
+                                     (PP 
+                                       (IN para)
+                                       (VP 
+                                         (VP 
+                                           (VB realizar))
+                                         (NP 
+                                           (JJ completo)
+                                           (NN mapeamento)
+                                           (_CU_ 
+                                             (ADJP 
+                                               (JJ mineral�gico))
+                                             (CC e)
+                                             (ADJP 
+                                               (JJ topogr�fico)))
+                                           (PP 
+                                             (IN de+)
+                                             (NP 
+                                               (DT o)
+                                               (NN sat�lite)
+                                               (PP 
+                                                 (IN de+)
+                                                 (NP 
+                                                   (DT a)
+                                                   (NN Terra)))))))))))
+                       (.)))

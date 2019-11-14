@@ -1,51 +1,28 @@
-(S 
-  (UCP 
-    (VP 
-      (NP 
-        (DT O)
-        (�)
-        (NN kratos)
-        (�)
-      )
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP �)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN povo)
-        )
-      )
-    )
-    (;)
-    (VP 
-      (VP 
-        (VBP �)
-      )
-      (NP 
-        (PRP seu)
-      )
-      (,)
-      (ADVP 
-        (RB se_tanto)
-      )
-      (,)
-      (NP 
-        (NP 
-          (DT o)
-          (NN ouvido)
-        )
-        (,)
-        (NP 
-          (DT o)
-          (NN olhar)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (DT O)
+                                  (�)
+                                  (NN kratos)
+                                  (�))
+                                (ADVP 
+                                  (RB n�o))
+                                (VP (VBP �))
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN povo))))
+                       (;)
+                       (VP (VP (VBP �))
+                                (NP (PRP seu))
+                                (,)
+                                (ADVP 
+                                  (RB se_tanto))
+                                (,)
+                                (_CU_ 
+                                  (NP 
+                                    (DT o)
+                                    (NN ouvido))
+                                  (,)
+                                  (NP 
+                                    (DT o)
+                                    (NN olhar))))
+                       (.)))

@@ -1,44 +1,24 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (DT o)
-        (NN ranking)
-        (VP 
-          (VP 
-            (VBN dedicado)
-          )
-          (PP 
-            (IN a+)
-            (NP 
-              (DT os)
-              (NN homens)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP aparecem)
-    )
-    (NP 
-      (NP 
-        (DT o)
-        (NN ator)
-        (NP 
-          (NNP Sean_Connery)
-        )
-      )
-      (CC e)
-      (NP 
-        (DT o)
-        (NN cantor)
-        (NP 
-          (NNP Sting)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (DT o)
+                                        (NN ranking)
+                                        (VP 
+                                          (VP 
+                                            (VBN dedicado))
+                                          (PP 
+                                            (IN a+)
+                                            (NP 
+                                              (DT os)
+                                              (NN homens))))))
+                        (VP (VBP aparecem))
+                        (_CU_ (NP 
+                                   (DT o)
+                                   (NN ator)
+                                   (NP 
+                                     (NNP Sean_Connery)))
+                                 (CC e)
+                                 (NP 
+                                   (DT o)
+                                   (NN cantor)
+                                   (NP 
+                                     (NNP Sting))))
+                        (.)))

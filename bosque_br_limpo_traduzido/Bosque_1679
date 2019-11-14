@@ -1,134 +1,84 @@
-(S 
-  (VP 
-    (PP 
-      (IN h�)
-      (NP 
-        (RB mais_de)
-        (CD um)
-        (NN ano)
-      )
-    )
-    (,)
-    (NP 
-      (DT o)
-      (NNP M�xico)
-    )
-    (VP 
-      (VBP encontra-)
-    )
-    (NP 
-      (PRP se)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT uma)
-        (NN situa��o)
-        (PP 
-          (IN de)
-          (NP 
-            (NN desequil�brio)
-            (ADJP 
-              (JJ potencial)
-            )
-            (ADJP 
-              (JJ permanente)
-            )
-          )
-        )
-      )
-    )
-    (PP 
-      (PP 
-        (IN em+)
-        (NP 
-          (DT o)
-          (NN balan�o)
-          (PP 
-            (IN de)
-            (NP 
-              (NN transa��es)
-              (ADJP 
-                (JJ correntes)
-              )
-            )
-          )
-        )
-      )
-      (CC e)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT o)
-          (NN or�amento)
-          (ADJP 
-            (JJ fiscal)
-          )
-          (,)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (VP 
-              (VBP foi)
-              (VBN compensado)
-            )
-            (ADVP 
-              (RB mais)
-              (RB recentemente)
-            )
-            (PP 
-              (IN por)
-              (NP 
-                (DT um)
-                (NN endividamento)
-                (ADJP 
-                  (JJ crescente)
-                )
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (NN setor)
-                    (ADJP 
-                      (JJ p�blico)
-                    )
-                  )
-                )
-              )
-            )
-            (PP 
-              (IN em+)
-              (NP 
-                (DT as)
-                (NN pra�as)
-                (ADJP 
-                  (JJ financeiras)
-                )
-                (ADJP 
-                  (JJ internacionais)
-                )
-                (,)
-                (PP 
-                  (RB em_particular)
-                  (IN em+)
-                  (NP 
-                    (DT a)
-                    (NN Bolsa)
-                    (PP 
-                      (IN de)
-                      (NP 
-                        (NNP Nova_York)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN h�)
+                                 (NP (RB mais_de)
+                                        (CD um)
+                                        (NN ano)))
+                        (,)
+                        (NP (DT o)
+                                 (NNP M�xico))
+                        (VP (VBP encontra-))
+                        (NP (PRP se))
+                        (PP (IN em+)
+                                 (NP (DT uma)
+                                        (NN situa��o)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN desequil�brio)
+                                            (ADJP 
+                                              (JJ potencial))
+                                            (ADJP 
+                                              (JJ permanente))))))
+                        (_CU_ (PP 
+                                   (IN em+)
+                                   (NP 
+                                     (DT o)
+                                     (NN balan�o)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NN transa��es)
+                                         (ADJP 
+                                           (JJ correntes))))))
+                                 (CC e)
+                                 (PP 
+                                   (IN em+)
+                                   (NP 
+                                     (DT o)
+                                     (NN or�amento)
+                                     (ADJP 
+                                       (JJ fiscal))
+                                     (,)
+                                     (VP 
+                                       (NP 
+                                         (PRP que))
+                                       (VP 
+                                         (VBP foi)
+                                         (VBN compensado))
+                                       (ADVP 
+                                         (RB mais)
+                                         (RB recentemente))
+                                       (PP 
+                                         (IN por)
+                                         (NP 
+                                           (DT um)
+                                           (NN endividamento)
+                                           (ADJP 
+                                             (JJ crescente))
+                                           (PP 
+                                             (IN de+)
+                                             (NP 
+                                               (DT o)
+                                               (NN setor)
+                                               (ADJP 
+                                                 (JJ p�blico))))))
+                                       (PP 
+                                         (IN em+)
+                                         (NP 
+                                           (DT as)
+                                           (NN pra�as)
+                                           (ADJP 
+                                             (JJ financeiras))
+                                           (ADJP 
+                                             (JJ internacionais))
+                                           (,)
+                                           (PP 
+                                             (RB em_particular)
+                                             (IN em+)
+                                             (NP 
+                                               (DT a)
+                                               (NN Bolsa)
+                                               (PP 
+                                                 (IN de)
+                                                 (NP 
+                                                   (NNP Nova_York)))))))))))
+                        (.)))

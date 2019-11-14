@@ -1,60 +1,35 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (DT os)
-        (JJ �ltimos)
-        (NN dias)
-      )
-    )
-    (,)
-    (VP 
-      (VBP houve)
-    )
-    (NP 
-      (DT uma)
-      (NN sa�da)
-      (PP 
-        (IN de)
-        (NP 
-          (NN US$)
-          (NP 
-            (CD 100)
-            (NN milh�es)
-          )
-        )
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN cust�dia)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN institui��o)
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (PP 
-      (IN por_causa_de+)
-      (NP 
-        (DT a)
-        (NN crise)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NNP M�xico)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (DT os)
+                                        (JJ �ltimos)
+                                        (NN dias)))
+                        (,)
+                        (VP (VBP houve))
+                        (NP (DT uma)
+                                (NN sa�da)
+                                (PP 
+                                  (IN de)
+                                  (NP 
+                                    (NN US$)
+                                    (NP 
+                                      (CD 100)
+                                      (NN milh�es))))
+                                (PP 
+                                  (IN de+)
+                                  (NP 
+                                    (DT a)
+                                    (NN cust�dia)
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT a)
+                                        (NN institui��o))))))
+                        (,)
+                        (PP (IN por_causa_de+)
+                                 (NP (DT a)
+                                        (NN crise)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NNP M�xico)))))
+                        (.)))

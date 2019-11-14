@@ -1,59 +1,34 @@
-(S 
-  (VP 
-    (UCP 
-      (�)
-      (VP 
-        (ADVP 
-          (RB N�o)
-        )
-        (VP 
-          (VBP acho)
-        )
-        (VP 
-          (IN que)
-          (VP 
-            (VBP seja)
-          )
-          (NP 
-            (NN c�ncer)
-          )
-        )
-      )
-      (,)
-      (VP 
-        (VP 
-          (VBP pode)
-          (VB ser)
-        )
-        (NP 
-          (PRP algo)
-          (VP 
-            (VP 
-              (VBN relacionado)
-            )
-            (PP 
-              (IN a+)
-              (NP 
-                (NP 
-                  (DT os)
-                  (PRP meus)
-                  (NN medos)
-                )
-                (CC e)
-                (NP 
-                  (NN ang�stias)
-                )
-              )
-            )
-          )
-        )
-      )
-      (�)
-    )
-    (,)
-    (VP 
-      (VBP afirmou)
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (�)
+                                (VP 
+                                  (ADVP 
+                                    (RB N�o))
+                                  (VP (VBP acho))
+                                  (VP 
+                                    (IN que)
+                                    (VP 
+                                      (VBP seja))
+                                    (NP 
+                                      (NN c�ncer))))
+                                (,)
+                                (VP 
+                                  (VP (VBP pode)
+                                        (VB ser))
+                                  (NP 
+                                    (PRP algo)
+                                    (VP 
+                                      (VP 
+                                        (VBN relacionado))
+                                      (PP 
+                                        (IN a+)
+                                        (_CU_ 
+                                          (NP 
+                                            (DT os)
+                                            (PRP meus)
+                                            (NN medos))
+                                          (CC e)
+                                          (NP 
+                                            (NN ang�stias)))))))
+                                (�))
+                        (,)
+                        (VP (VBP afirmou))
+                        (.)))

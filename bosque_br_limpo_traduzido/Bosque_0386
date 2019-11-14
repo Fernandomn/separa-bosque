@@ -1,59 +1,32 @@
-(S 
-  (VP 
-    (ADJP 
-      (JJ F�cil)
-    )
-    (VP 
-      (VP 
-        (VB subir)
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT os)
-          (NN palanques)
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VP 
-        (VBG defendendo)
-      )
-      (VP 
-        (IN que)
-        (VP 
-          (VBP �)
-        )
-        (ADJP 
-          (JJ necess�rio)
-        )
-        (�)
-        (VP 
-          (VP 
-            (VB mudar)
-          )
-          (VP 
-            (NP 
-              (PRP tudo)
-              (PRP o)
-              (VP 
-                (NP 
-                  (PRP que)
-                )
-                (VP 
-                  (VBP est�)
-                )
-                (ADVP 
-                  (RB a�)
-                )
-              )
-            )
-          )
-        )
-        (�)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADJP (JJ F�cil))
+                        (VP (VP (VB subir))
+                                  (PP 
+                                    (IN em+)
+                                    (NP 
+                                      (DT os)
+                                      (NN palanques))))
+                        (,)
+                        (VP 
+                          (VP (VBG defendendo))
+                          (VP (IN que)
+                                   (VP 
+                                     (VBP �))
+                                   (ADJP 
+                                     (JJ necess�rio))
+                                   (�)
+                                   (VP 
+                                     (VP 
+                                       (VB mudar))
+                                     (VP 
+                                       (NP 
+                                         (PRP tudo)
+                                         (PRP o)
+                                         (VP 
+                                           (NP 
+                                             (PRP que))
+                                           (VP 
+                                             (VBP est�))
+                                           (ADVP 
+                                             (RB a�))))))
+                                   (�)))
+                        (.)))

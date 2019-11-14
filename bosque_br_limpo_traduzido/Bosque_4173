@@ -1,61 +1,37 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (PRP Eu)
-      )
-      (VP 
-        (VBP adoro)
-      )
-      (NP 
-        (NN pol�tica)
-      )
-      (�)
-    )
-    (,)
-    (VP 
-      (VBP confessa)
-    )
-    (NP 
-      (NNP Mercedes_Rossi_de_Almeida)
-      (,)
-      (ADJP 
-        (CD 73)
-      )
-      (,)
-      (NP 
-        (DT a)
-        (NN m�e)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN candidato)
-            (PP 
-              (IN a+)
-              (NP 
-                (DT o)
-                (NN governo)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NNP S�o_Paulo)
-                  )
-                )
-              )
-            )
-            (NP 
-              (NNP Francisco_Rossi)
-            )
-            (-LCB-)
-            (NP 
-              (NNP PDT)
-            )
-            (-RCB-)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (NP 
+                                   (PRP Eu))
+                                 (VP (VBP adoro))
+                                 (NP 
+                                   (NN pol�tica))
+                                 (�))
+                        (,)
+                        (VP (VBP confessa))
+                        (NP (NNP Mercedes_Rossi_de_Almeida)
+                                 (,)
+                                 (ADJP 
+                                   (CD 73))
+                                 (,)
+                                 (NP 
+                                   (DT a)
+                                   (NN m�e)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT o)
+                                       (NN candidato)
+                                       (PP 
+                                         (IN a+)
+                                         (NP 
+                                           (DT o)
+                                           (NN governo)
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NNP S�o_Paulo)))))
+                                       (NP 
+                                         (NNP Francisco_Rossi))
+                                       (-LCB-)
+                                       (NP 
+                                         (NNP PDT))
+                                       (-RCB-)))))
+                        (.)))

@@ -1,29 +1,13 @@
-(S 
-  (VP 
-    (VP 
-      (VBP �)
-    )
-    (ADVP 
-      (RB tamb�m)
-    )
-    (NP 
-      (NN primo)
-      (PP 
-        (PP 
-          (IN de)
-          (NP 
-            (NNP Curica)
-          )
-        )
-        (CC e)
-        (PP 
-          (IN de)
-          (NP 
-            (NNP Floriano_Gra�a)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP �))
+                        (ADVP (RB tamb�m))
+                        (NP (NN primo)
+                               (_CU_ (PP 
+                                        (IN de)
+                                        (NP 
+                                          (NNP Curica)))
+                                      (CC e)
+                                      (PP 
+                                        (IN de)
+                                        (NP 
+                                          (NNP Floriano_Gra�a)))))
+                        (.)))

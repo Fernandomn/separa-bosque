@@ -1,35 +1,18 @@
-(S 
-  (VP 
-    (NP 
-      (NN Declara��o)
-    )
-    (VP 
-      (VBP Desagradou)
-    )
-    (ADVP 
-      (RB At�)
-      (PP 
-        (IN A+)
-        (NP 
-          (DT o)
-          (NNP PSDB)
-        )
-      )
-    )
-    (-LCB-)
-    (PP 
-      (IN De+)
-      (NP 
-        (DT a)
-        (NN Sucursal)
-        (PP 
-          (IN de)
-          (NP 
-            (NNP Bras�lia)
-          )
-        )
-      )
-    )
-    (-RCB-)
-  )
-)
+(S (VP (NP (NN Declara��o))
+                        (VP (VBP Desagradou))
+                        (ADVP (RB At�)
+                                   (PP 
+                                     (IN A+)
+                                     (NP 
+                                       (DT o)
+                                       (NNP PSDB))))
+                        (-LCB-)
+                        (PP (IN De+)
+                                   (NP 
+                                     (DT a)
+                                     (NN Sucursal)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NNP Bras�lia)))))
+                        (-RCB-)))

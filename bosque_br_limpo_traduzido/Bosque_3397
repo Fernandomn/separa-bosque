@@ -1,74 +1,43 @@
-(S 
-  (VP 
-    (CC Mas)
-    (NP 
-      (DT o)
-      (NN leitor)
-    )
-    (ADVP 
-      (RB tamb�m)
-    )
-    (VP 
-      (VBP sabe)
-    )
-    (VP 
-      (NP 
-        (PRP se)
-      )
-      (VP 
-        (VB vingar)
-      )
-      (PP 
-        (IN com)
-        (NP 
-          (NP 
-            (NP 
-              (DT o)
-              (NN desd�m)
-            )
-            (CC e)
-            (NP 
-              (DT a)
-              (NN indiferen�a)
-            )
-          )
-          (VP 
-            (PP 
-              (IN com)
-              (NP 
-                (PRP que)
-              )
-            )
-            (VP 
-              (VBP �)
-            )
-            (ADJP 
-              (JJ capaz)
-              (PP 
-                (IN de)
-                (VP 
-                  (VP 
-                    (VB folhear)
-                  )
-                  (NP 
-                    (DT as)
-                    (NN p�ginas)
-                    (PP 
-                      (IN de+)
-                      (NP 
-                        (DT a)
-                        (PRP sua)
-                        (NN busca)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (CC Mas)
+                        (NP (DT o)
+                                 (NN leitor))
+                        (ADVP (RB tamb�m))
+                        (VP (VBP sabe))
+                        (VP (NP 
+                                   (PRP se))
+                                 (VP (VB vingar))
+                                 (PP 
+                                   (IN com)
+                                   (NP 
+                                     (_CU_ 
+                                       (NP 
+                                         (DT o)
+                                         (NN desd�m))
+                                       (CC e)
+                                       (NP 
+                                         (DT a)
+                                         (NN indiferen�a)))
+                                     (VP 
+                                       (PP 
+                                         (IN com)
+                                         (NP 
+                                           (PRP que)))
+                                       (VP 
+                                         (VBP �))
+                                       (ADJP 
+                                         (JJ capaz)
+                                         (PP 
+                                           (IN de)
+                                           (VP 
+                                             (VP 
+                                               (VB folhear))
+                                             (NP 
+                                               (DT as)
+                                               (NN p�ginas)
+                                               (PP 
+                                                 (IN de+)
+                                                 (NP 
+                                                   (DT a)
+                                                   (PRP sua)
+                                                   (NN busca)))))))))))
+                        (.)))

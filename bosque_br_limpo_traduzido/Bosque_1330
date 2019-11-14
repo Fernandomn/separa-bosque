@@ -1,52 +1,30 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Ele)
-    )
-    (VP 
-      (VBP garante)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT o)
-        (NN aumento)
-        (ADJP 
-          (JJ real)
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT as)
-            (NN mensalidades)
-          )
-        )
-      )
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP vai)
-        (VB superar)
-      )
-      (NP 
-        (DT os)
-        (CD 22)
-        (NN %)
-        (VP 
-          (VP 
-            (VBN propostos)
-          )
-          (PP 
-            (IN por+)
-            (NP 
-              (DT a)
-              (NNP Abramge)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Ele))
+                        (VP (VBP garante))
+                        (VP (IN que)
+                                 (NP 
+                                   (DT o)
+                                   (NN aumento)
+                                   (ADJP 
+                                     (JJ real))
+                                   (PP 
+                                     (IN em+)
+                                     (NP 
+                                       (DT as)
+                                       (NN mensalidades))))
+                                 (ADVP 
+                                   (RB n�o))
+                                 (VP (VBP vai)
+                                       (VB superar))
+                                 (NP 
+                                   (DT os)
+                                   (CD 22)
+                                   (NN %)
+                                   (VP 
+                                     (VP 
+                                       (VBN propostos))
+                                     (PP 
+                                       (IN por+)
+                                       (NP 
+                                         (DT a)
+                                         (NNP Abramge))))))
+                        (.)))

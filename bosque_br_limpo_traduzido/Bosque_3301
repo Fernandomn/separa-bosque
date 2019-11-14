@@ -1,38 +1,19 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (PRP Outros)
-        (NN institutos)
-      )
-      (VP 
-        (VBP mostram)
-      )
-      (NP 
-        (NN n�meros)
-        (ADJP 
-          (JJ diferentes)
-        )
-      )
-    )
-    (,)
-    (CC mas)
-    (VP 
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP s�o)
-        (VBN divulgados)
-      )
-      (PP 
-        (IN por+)
-        (NP 
-          (DT a)
-          (NN televis�o)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (PRP Outros)
+                                  (NN institutos))
+                                (VP (VBP mostram))
+                                (NP (NN n�meros)
+                                        (ADJP 
+                                          (JJ diferentes))))
+                       (,)
+                       (CC mas)
+                       (VP (ADVP 
+                                  (RB n�o))
+                                (VP (VBP s�o)
+                                      (VBN divulgados))
+                                (PP 
+                                  (IN por+)
+                                  (NP 
+                                    (DT a)
+                                    (NN televis�o))))
+                       (.)))

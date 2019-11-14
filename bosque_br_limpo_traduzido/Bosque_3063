@@ -1,46 +1,26 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Eles)
-    )
-    (VP 
-      (VBP v�o)
-      (VB ser)
-      (VBN indiciados)
-    )
-    (PP 
-      (IN por)
-      (NP 
-        (NP 
-          (VBN suposta)
-          (NN corrup��o)
-          (PP 
-            (IN de)
-            (ADJP 
-              (JJ menores)
-            )
-          )
-        )
-        (,)
-        (NP 
-          (NN favorecimento)
-          (PP 
-            (IN a+)
-            (NP 
-              (DT a)
-              (NN prostitui��o)
-            )
-          )
-        )
-        (CC e)
-        (NP 
-          (NN c�rcere)
-          (ADJP 
-            (JJ privado)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Eles))
+                        (VP (VBP v�o)
+                              (VB ser)
+                              (VBN indiciados))
+                        (PP (IN por)
+                                 (_CU_ (NP 
+                                          (VBN suposta)
+                                          (NN corrup��o)
+                                          (PP 
+                                            (IN de)
+                                            (ADJP 
+                                              (JJ menores))))
+                                        (,)
+                                        (NP 
+                                          (NN favorecimento)
+                                          (PP 
+                                            (IN a+)
+                                            (NP 
+                                              (DT a)
+                                              (NN prostitui��o))))
+                                        (CC e)
+                                        (NP 
+                                          (NN c�rcere)
+                                          (ADJP 
+                                            (JJ privado)))))
+                        (.)))

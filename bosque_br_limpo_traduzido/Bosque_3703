@@ -1,73 +1,44 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN acidente)
-    )
-    (VP 
-      (VBP causou)
-    )
-    (NP 
-      (DT a)
-      (NN morte)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN menino)
-          (NP 
-            (NNP Ren�_Scorsa)
-          )
-          (,)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (VP 
-              (VBP estava)
-            )
-            (PP 
-              (IN em+)
-              (NP 
-                (DT o)
-                (NNP Logus)
-                (VP 
-                  (VP 
-                    (VBN dirigido)
-                  )
-                  (PP 
-                    (IN por)
-                    (NP 
-                      (NNP S�rgio_Duran)
-                      (,)
-                      (ADJP 
-                        (CD 33)
-                      )
-                      (,)
-                    )
-                  )
-                )
-                (VP 
-                  (NP 
-                    (PRP que)
-                  )
-                  (VP 
-                    (VBP bateu)
-                  )
-                  (PP 
-                    (IN em+)
-                    (NP 
-                      (DT o)
-                      (NN caminh�o)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN acidente))
+                        (VP (VBP causou))
+                        (NP (DT a)
+                                (NN morte)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN menino)
+                                         (NP 
+                                           (NNP Ren�_Scorsa))
+                                         (,)
+                                         (VP 
+                                           (NP 
+                                             (PRP que))
+                                           (VP 
+                                             (VBP estava))
+                                           (PP 
+                                             (IN em+)
+                                             (NP 
+                                               (DT o)
+                                               (NNP Logus)
+                                               (VP 
+                                                 (VP 
+                                                   (VBN dirigido))
+                                                 (PP 
+                                                   (IN por)
+                                                   (NP 
+                                                     (NNP S�rgio_Duran)
+                                                     (,)
+                                                     (ADJP 
+                                                       (CD 33))
+                                                     (,))))
+                                               (VP 
+                                                 (NP 
+                                                   (PRP que))
+                                                 (VP 
+                                                   (VBP bateu))
+                                                 (PP 
+                                                   (IN em+)
+                                                   (NP 
+                                                     (DT o)
+                                                     (NN caminh�o))))))))))
+                        (.)))

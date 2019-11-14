@@ -1,83 +1,51 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Atrav�s)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (PRP sua)
-          (NN empresa)
-        )
-        (,)
-        (NP 
-          (DT a)
-          (NNP Hirano_Design_International_Inc.)
-          (,)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (VP 
-              (VBP tem)
-            )
-            (NP 
-              (NP 
-                (NN sede)
-                (PP 
-                  (IN em+)
-                  (NP 
-                    (DT o)
-                    (NNP Jap�o)
-                  )
-                )
-              )
-              (CC e)
-              (NP 
-                (NN filial)
-                (PP 
-                  (IN em)
-                  (NP 
-                    (NNP Chicago)
-                  )
-                )
-              )
-            )
-          )
-          (,)
-        )
-      )
-    )
-    (NP 
-      (PRP eles)
-    )
-    (VP 
-      (VBP promovem)
-    )
-    (NP 
-      (DT o)
-      (NN casamento)
-      (PP 
-        (IN entre)
-        (NP 
-          (NP 
-            (DT o)
-            (NN design)
-          )
-          (CC e)
-          (NP 
-            (DT a)
-            (NN administra��o)
-            (PP 
-              (IN de)
-              (NP 
-                (NN empresas)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Atrav�s)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT a)
+                                       (PRP sua)
+                                       (NN empresa))
+                                     (,)
+                                     (NP 
+                                       (DT a)
+                                       (NNP Hirano_Design_International_Inc.)
+                                       (,)
+                                       (VP 
+                                         (NP 
+                                           (PRP que))
+                                         (VP 
+                                           (VBP tem))
+                                         (_CU_ 
+                                           (NP 
+                                             (NN sede)
+                                             (PP 
+                                               (IN em+)
+                                               (NP 
+                                                 (DT o)
+                                                 (NNP Jap�o))))
+                                           (CC e)
+                                           (NP 
+                                             (NN filial)
+                                             (PP 
+                                               (IN em)
+                                               (NP 
+                                                 (NNP Chicago))))))
+                                       (,))))
+                        (NP (PRP eles))
+                        (VP (VBP promovem))
+                        (NP (DT o)
+                                (NN casamento)
+                                (PP (IN entre)
+                                       (_CU_ 
+                                         (NP 
+                                           (DT o)
+                                           (NN design))
+                                         (CC e)
+                                         (NP 
+                                           (DT a)
+                                           (NN administra��o)
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NN empresas)))))))
+                        (.)))

@@ -1,62 +1,35 @@
-(S 
-  (VP 
-    (VP 
-      (ADVP 
-        (RB Primeiro)
-      )
-      (VP 
-        (VBP aprova-)
-      )
-      (NP 
-        (PRP se)
-      )
-      (NP 
-        (DT o)
-        (NN texto)
-        (VBN enxuto)
-      )
-    )
-    (CC e)
-    (VP 
-      (ADVP 
-        (RB depois)
-      )
-      (VP 
-        (VBP negocia-)
-      )
-      (NP 
-        (PRP se)
-      )
-      (NP 
-        (DT a)
-        (NN aprova��o)
-        (,)
-        (PP 
-          (IN sem)
-          (NP 
-            (NN prazo)
-            (VBN definido)
-          )
-        )
-        (,)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT as)
-            (NN leis)
-            (ADJP 
-              (ADJP 
-                (JJ complementares)
-              )
-              (CC e)
-              (ADJP 
-                (JJ ordin�rias)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (ADVP 
+                                 (RB Primeiro))
+                               (VP (VBP aprova-))
+                               (NP 
+                                 (PRP se))
+                               (NP (DT o)
+                                        (NN texto)
+                                        (VBN enxuto)))
+                      (CC e)
+                      (VP (ADVP 
+                                 (RB depois))
+                               (VP (VBP negocia-))
+                               (NP 
+                                 (PRP se))
+                               (NP (DT a)
+                                        (NN aprova��o)
+                                        (,)
+                                        (PP 
+                                          (IN sem)
+                                          (NP 
+                                            (NN prazo)
+                                            (VBN definido)))
+                                        (,)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT as)
+                                            (NN leis)
+                                            (_CU_ 
+                                              (ADJP 
+                                                (JJ complementares))
+                                              (CC e)
+                                              (ADJP 
+                                                (JJ ordin�rias)))))))
+                      (.)))

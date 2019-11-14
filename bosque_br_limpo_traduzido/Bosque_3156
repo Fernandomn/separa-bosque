@@ -1,87 +1,54 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Esses)
-    )
-    (VP 
-      (VBP s�o)
-    )
-    (NP 
-      (DT os)
-      (NN anos)
-      (VP 
-        (PP 
-          (IN em)
-          (NP 
-            (PRP que)
-          )
-        )
-        (NP 
-          (NNP Elvis)
-        )
-        (VP 
-          (VBP deixou)
-          (IN de)
-          (VB ser)
-        )
-        (NP 
-          (DT o)
-          (NN rei)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN rock'n'roll)
-            )
-          )
-        )
-        (PP 
-          (IN para)
-          (VP 
-            (VP 
-              (VB tornar-)
-            )
-            (NP 
-              (PRP se)
-            )
-            (NP 
-              (DT o)
-              (NN s�mbolo)
-              (ADJP 
-                (NP pr�-fabricado)
-              )
-              (PP 
-                (IN de)
-                (NP 
-                  (DT uma)
-                  (NN gera��o)
-                  (VP 
-                    (NP 
-                      (PRP que)
-                    )
-                    (VP 
-                      (VBP sonhava)
-                    )
-                    (PP 
-                      (IN com)
-                      (NP 
-                        (NP 
-                          (NNP Honolulu)
-                        )
-                        (CC e)
-                        (NP 
-                          (NN pracinhas)
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Esses))
+                        (VP (VBP s�o))
+                        (NP (DT os)
+                               (NN anos)
+                               (VP (PP 
+                                         (IN em)
+                                         (NP 
+                                           (PRP que)))
+                                       (NP 
+                                         (NNP Elvis))
+                                       (VP 
+                                         (VBP deixou)
+                                         (IN de)
+                                         (VB ser))
+                                       (NP 
+                                         (DT o)
+                                         (NN rei)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT o)
+                                             (NN rock'n'roll))))
+                                       (PP 
+                                         (IN para)
+                                         (VP 
+                                           (VP 
+                                             (VB tornar-))
+                                           (NP 
+                                             (PRP se))
+                                           (NP 
+                                             (DT o)
+                                             (NN s�mbolo)
+                                             (ADJP 
+                                               (_EC_ pr�-)
+                                               (JJ fabricado))
+                                             (PP 
+                                               (IN de)
+                                               (NP 
+                                                 (DT uma 
+                                                   (NN gera��o)
+                                                   (VP 
+                                                     (NP 
+                                                       (PRP que))
+                                                     (VP 
+                                                       (VBP sonhava))
+                                                     (PP 
+                                                       (IN com)
+                                                       (_CU_ 
+                                                         (NP 
+                                                           (NNP Honolulu))
+                                                         (CC e)
+                                                         (NP 
+                                                           (NN pracinhas)))))))))))))
+                        (.)))

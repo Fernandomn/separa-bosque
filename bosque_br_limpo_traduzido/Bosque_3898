@@ -1,35 +1,16 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Ambas)
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP apresentavam)
-    )
-    (NP 
-      (NN pre�os)
-      (PP 
-        (IN de)
-        (NP 
-          (NN produtos)
-          (VP 
-            (VP 
-              (VBN expostos)
-            )
-            (PP 
-              (IN em+)
-              (NP 
-                (DT as)
-                (NN vitrines)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Ambas))
+                        (ADVP (RB n�o))
+                        (VP (VBP apresentavam))
+                        (NP (NN pre�os)
+                                (PP (IN de)
+                                       (NP 
+                                         (NN produtos)
+                                         (VP 
+                                           (VP 
+                                             (VBN expostos))
+                                           (PP 
+                                             (IN em+)
+                                             (NP 
+                                               (DT as)
+                                               (NN vitrines)))))))
+                        (.)))

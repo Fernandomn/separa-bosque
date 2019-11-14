@@ -1,101 +1,60 @@
-(S 
-  (VP 
-    (PP 
-      (IN Por+)
-      (NP 
-        (DT o)
-        (NN acordo)
-      )
-    )
-    (,)
-    (NP 
-      (DT os)
-      (CD tr�s)
-      (NN continentes)
-      (VP 
-        (ADVP 
-          (RB mais)
-        )
-        (VP 
-          (VBN obstinados)
-        )
-        (PP 
-          (IN em)
-          (VP 
-            (VP 
-              (VB cortar)
-            )
-            (NP 
-              (DT o)
-              (NN reinado)
-              (PP 
-                (IN de)
-                (NP 
-                  (NNP Havelange)
-                )
-              )
-            )
-          )
-        )
-      )
-      (,)
-      (NP 
-        (NP 
-          (DT a)
-          (NNP �frica)
-        )
-        (,)
-        (NP 
-          (DT a)
-          (NNP �sia)
-        )
-        (CC e)
-        (NP 
-          (DT a)
-          (NNP Europa)
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP aceitaram)
-    )
-    (VP 
-      (VP 
-        (VB cancelar)
-      )
-      (NP 
-        (DT os)
-        (PRP seus)
-        (NN movimentos)
-        (PP 
-          (IN de)
-          (NP 
-            (NN oposi��o)
-          )
-        )
-      )
-      (PP 
-        (IN em)
-        (NP 
-          (NN troca)
-        )
-        (,)
-      )
-      (ADVP 
-        (RB basicamente)
-        (,)
-        (NP 
-          (PP 
-            (IN de)
-            (NP 
-              (CD dois)
-              (NN compromissos)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Por+)
+                                (NP (DT o)
+                                       (NN acordo)))
+                       (,)
+                       (NP (DT os)
+                                (CD tr�s)
+                                (NN continentes)
+                                (VP (ADVP 
+                                          (RB mais))
+                                        (VP 
+                                          (VBN obstinados))
+                                        (PP 
+                                          (IN em)
+                                          (VP 
+                                            (VP 
+                                              (VB cortar))
+                                            (NP 
+                                              (DT o)
+                                              (NN reinado)
+                                              (PP 
+                                                (IN de)
+                                                (NP 
+                                                  (NNP Havelange)))))))
+                                (,)
+                                (_CU_ (NP 
+                                          (DT a)
+                                          (NNP �frica))
+                                        (,)
+                                        (NP 
+                                          (DT a)
+                                          (NNP �sia))
+                                        (CC e)
+                                        (NP 
+                                          (DT a)
+                                          (NNP Europa)))
+                                (,))
+                       (VP (VBP aceitaram))
+                       (VP (VP (VB cancelar))
+                                (NP (DT os)
+                                        (PRP seus)
+                                        (NN movimentos)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN oposi��o))))
+                                (PP 
+                                  (IN em)
+                                  (NP 
+                                    (NN troca))
+                                  (,))
+                                (ADVP 
+                                  (RB basicamente)
+                                  (,)
+                                  (NP 
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (CD dois)
+                                        (NN compromissos))))))
+                       (.)))

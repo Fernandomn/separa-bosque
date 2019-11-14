@@ -1,59 +1,34 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Trata-)
-    )
-    (NP 
-      (PRP se)
-    )
-    (PP 
-      (IN de+)
-      (NP 
-        (DT o)
-        (NNP Eagle)
-        (NP 
-          (DT uma)
-          (NN reedi��o)
-          (PP 
-            (IN com)
-            (NP 
-              (NP 
-                (NN motor)
-                (NP 
-                  (NNP Toyota)
-                )
-              )
-              (CC e)
-              (NP 
-                (NN chassis)
-                (NP 
-                  (NNP Lola)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT o)
-                      (JJ legend�rio)
-                      (NN carro)
-                      (VP 
-                        (VP 
-                          (VBN feito)
-                        )
-                        (PP 
-                          (IN por)
-                          (NP 
-                            (NNP Dan_Gurney)
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Trata-))
+                        (NP (PRP se))
+                        (PP (IN de+)
+                                (NP (DT o)
+                                       (NNP Eagle)
+                                       (NP 
+                                         (DT uma)
+                                         (NN reedi��o)
+                                         (PP 
+                                           (IN com)
+                                           (_CU_ 
+                                             (NP 
+                                               (NN motor)
+                                               (NP 
+                                                 (NNP Toyota)))
+                                             (CC e)
+                                             (NP 
+                                               (NN chassis)
+                                               (NP 
+                                                 (NNP Lola)
+                                                 (PP 
+                                                   (IN de+)
+                                                   (NP 
+                                                     (DT o)
+                                                     (JJ legend�rio)
+                                                     (NN carro)
+                                                     (VP 
+                                                       (VP 
+                                                         (VBN feito))
+                                                       (PP 
+                                                         (IN por)
+                                                         (NP 
+                                                           (NNP Dan_Gurney)))))))))))))
+                        (.)))

@@ -1,42 +1,21 @@
-(S 
-  (VP 
-    (PP 
-      (IN De+)
-      (NP 
-        (DT os)
-        (CD 55)
-        (NN vereadores)
-      )
-    )
-    (,)
-    (ADJP 
-      (CD 24)
-    )
-    (VP 
-      (VBP s�o)
-    )
-    (NP 
-      (NN candidatos)
-      (PP 
-        (IN a+)
-        (NP 
-          (DT a)
-          (NP 
-            (NP 
-              (NNP Assembl�ia_Legislativa)
-            )
-            (,)
-            (NP 
-              (NNP C�mara_dos_Deputados)
-            )
-            (CC ou)
-            (NP 
-              (NN Senado)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN De+)
+                                 (NP (DT os)
+                                        (CD 55)
+                                        (NN vereadores)))
+                        (,)
+                        (ADJP (CD 24))
+                        (VP (VBP s�o))
+                        (NP (NN candidatos)
+                               (PP (IN a+)
+                                      (NP 
+                                        (DT a)
+                                        (_CU_ 
+                                          (NP 
+                                            (NNP Assembl�ia_Legislativa))
+                                          (,)
+                                          (NP 
+                                            (NNP C�mara_dos_Deputados))
+                                          (CC ou)
+                                          (NP 
+                                            (NN Senado))))))
+                        (.)))

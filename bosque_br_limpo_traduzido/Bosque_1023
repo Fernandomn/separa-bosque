@@ -1,48 +1,25 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Muitas_vezes)
-    )
-    (NP 
-      (DT as)
-      (NN mudan�as)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT a)
-          (NN vida)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (VBN rec�m-aposentado)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP levam)
-    )
-    (PP 
-      (IN a)
-      (NP 
-        (DT uma)
-        (NN sensa��o)
-        (PP 
-          (IN de)
-          (NP 
-            (NN perda)
-            (PP 
-              (IN de)
-              (NP 
-                (NN capacidade)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Muitas_vezes))
+                        (NP (DT as)
+                                 (NN mudan�as)
+                                 (PP (IN em+)
+                                        (NP 
+                                          (DT a)
+                                          (NN vida)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (VBN rec�m-aposentado))))))
+                        (VP (VBP levam))
+                        (PP (IN a)
+                                (NP (DT uma)
+                                       (NN sensa��o)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN perda)
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NN capacidade)))))))
+                        (.)))

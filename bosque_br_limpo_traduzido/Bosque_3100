@@ -1,86 +1,54 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (DT O)
-        (NN texto)
-      )
-      (VP 
-        (VBP �)
-      )
-      (ADJP 
-        (ADJP 
-          (JJ curto)
-        )
-        (CC e)
-        (ADJP 
-          (JJ pr�tico)
-        )
-      )
-    )
-    (CC e)
-    (VP 
-      (NP 
-        (PRP todos)
-        (DT os)
-        (NN cap�tulos)
-      )
-      (VP 
-        (VBP s�o)
-        (VBN recheados)
-      )
-      (PP 
-        (IN de)
-        (NP 
-          (NP 
-            (NP 
-              (NN notas)
-            )
-            (,)
-            (NP 
-              (NN dicas)
-            )
-            (CC e)
-            (NP 
-              (NN alertas)
-            )
-          )
-          (,)
-          (VP 
-            (VP 
-              (VBN ilustradas)
-            )
-            (PP 
-              (IN com)
-              (NP 
-                (DT as)
-                (JJ respectivas)
-                (NN figuras)
-                (UCP 
-                  (�)
-                  (NP 
-                    (NN Note)
-                  )
-                  (�)
-                  (,)
-                  (�)
-                  (NP 
-                    (NN Tip)
-                  )
-                  (�)
-                  (CC e)
-                  (�)
-                  (NP 
-                    (NN Stop)
-                  )
-                  (�)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (DT O)
+                                  (NN texto))
+                                (VP (VBP �))
+                                (_CU_ (ADJP 
+                                         (JJ curto))
+                                       (CC e)
+                                       (ADJP 
+                                         (JJ pr�tico))))
+                       (CC e)
+                       (VP (NP 
+                                  (PRP todos)
+                                  (DT os)
+                                  (NN cap�tulos))
+                                (VP (VBP s�o)
+                                      (VBN recheados))
+                                (PP 
+                                  (IN de)
+                                  (NP 
+                                    (_CU_ 
+                                      (NP 
+                                        (NN notas))
+                                      (,)
+                                      (NP 
+                                        (NN dicas))
+                                      (CC e)
+                                      (NP 
+                                        (NN alertas)))
+                                    (,)
+                                    (VP 
+                                      (VP 
+                                        (VBN ilustradas))
+                                      (PP 
+                                        (IN com)
+                                        (NP 
+                                          (DT as)
+                                          (JJ respectivas)
+                                          (NN figuras)
+                                          (_CU_ 
+                                            (�)
+                                            (NP 
+                                              (NN Note))
+                                            (�)
+                                            (,)
+                                            (�)
+                                            (NP 
+                                              (NN Tip))
+                                            (�)
+                                            (CC e)
+                                            (�)
+                                            (NP 
+                                              (NN Stop))
+                                            (�))))))))
+                       (.)))

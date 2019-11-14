@@ -1,35 +1,16 @@
-(S 
-  (VP 
-    (PP 
-      (IN Sem)
-      (VP 
-        (VP 
-          (VB mencionar)
-        )
-        (NP 
-          (DT o)
-          (NN nome)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT o)
-      (PRP pr�prio)
-      (NNP FHC)
-    )
-    (VP 
-      (VBP deu)
-    )
-    (NP 
-      (NN cr�dito)
-    )
-    (PP 
-      (IN a)
-      (NP 
-        (NNP Collor)
-      )
-    )
-    (;)
-  )
-)
+(S (VP (PP (IN Sem)
+                                 (VP 
+                                   (VP 
+                                     (VB mencionar))
+                                   (NP 
+                                     (DT o)
+                                     (NN nome))))
+                        (,)
+                        (NP (DT o)
+                                 (PRP pr�prio)
+                                 (NNP FHC))
+                        (VP (VBP deu))
+                        (NP (NN cr�dito))
+                        (PP (IN a)
+                                (NP (NNP Collor)))
+                        (;)))

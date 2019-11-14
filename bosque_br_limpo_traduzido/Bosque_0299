@@ -1,42 +1,22 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN conta)
-      (,)
-      (VP 
-        (VP 
-          (VBN paga)
-        )
-        (PP 
-          (IN por+)
-          (NP 
-            (DT o)
-            (NN embaixador)
-          )
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP ultrapassou)
-    )
-    (NP 
-      (NN US$)
-      (NP 
-        (CD 1,4)
-        (NN mil)
-      )
-      (-LCB-)
-      (NP 
-        (NN CR$)
-        (NP 
-          (CD 1,8)
-          (NN milh�o)
-        )
-      )
-      (-RCB-)
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                (NN conta)
+                                (,)
+                                (VP 
+                                  (VP (VBN paga))
+                                  (PP 
+                                    (IN por+)
+                                    (NP 
+                                      (DT o)
+                                      (NN embaixador))))
+                                (,))
+                       (VP (VBP ultrapassou))
+                       (NP (NN US$)
+                               (NP (CD 1,4)
+                                      (NN mil))
+                               (-LCB-)
+                               (NP 
+                                 (NN CR$)
+                                 (NP (CD 1,8)
+                                        (NN milh�o)))
+                               (-RCB-))
+                       (.)))

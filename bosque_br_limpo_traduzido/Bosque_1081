@@ -1,69 +1,42 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN balan�o)
-    )
-    (VP 
-      (VBP aponta)
-    )
-    (PP 
-      (IN para)
-      (NP 
-        (DT uma)
-        (NN queda)
-        (PP 
-          (IN em+)
-          (NP 
-            (NP 
-              (DT os)
-              (NN investimentos)
-              (PP 
-                (IN em+)
-                (NP 
-                  (DT as)
-                  (NN �reas)
-                  (PP 
-                    (IN de)
-                    (NP 
-                      (NP 
-                        (NN sa�de)
-                      )
-                      (,)
-                      (NP 
-                        (NN educa��o)
-                      )
-                      (CC e)
-                      (NP 
-                        (NN habita��o)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-            (CC e)
-            (NP 
-              (NN redu��o)
-              (PP 
-                (IN em+)
-                (NP 
-                  (DT os)
-                  (NN sal�rios)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NN prefeitura)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN balan�o))
+                        (VP (VBP aponta))
+                        (PP (IN para)
+                                (NP (DT uma)
+                                       (NN queda)
+                                       (PP 
+                                         (IN em+)
+                                         (_CU_ 
+                                           (NP 
+                                             (DT os)
+                                             (NN investimentos)
+                                             (PP 
+                                               (IN em+)
+                                               (NP 
+                                                 (DT as)
+                                                 (NN �reas)
+                                                 (PP 
+                                                   (IN de)
+                                                   (_CU_ 
+                                                     (NP 
+                                                       (NN sa�de))
+                                                     (,)
+                                                     (NP 
+                                                       (NN educa��o))
+                                                     (CC e)
+                                                     (NP 
+                                                       (NN habita��o)))))))
+                                           (CC e)
+                                           (NP 
+                                             (NN redu��o)
+                                             (PP 
+                                               (IN em+)
+                                               (NP 
+                                                 (DT os)
+                                                 (NN sal�rios)
+                                                 (PP 
+                                                   (IN de+)
+                                                   (NP 
+                                                     (DT a)
+                                                     (NN prefeitura))))))))))
+                        (.)))

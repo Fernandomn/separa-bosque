@@ -1,31 +1,16 @@
-(S 
-  (VP 
-    (VP 
-      (VBP T�m)
-    )
-    (NP 
-      (NN fases)
-      (PP 
-        (PP 
-          (IN de)
-          (NP 
-            (NN depress�o)
-          )
-        )
-        (CC e)
-        (PP 
-          (IN de)
-          (NP 
-            (NN euforia)
-            (-LCB-)
-            (NP 
-              (NN mania)
-            )
-            (-RCB-)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP T�m))
+                        (NP (NN fases)
+                                (_CU_ (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN depress�o)))
+                                       (CC e)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN euforia)
+                                           (-LCB-)
+                                           (NP 
+                                             (NN mania))
+                                           (-RCB-)))))
+                        (.)))

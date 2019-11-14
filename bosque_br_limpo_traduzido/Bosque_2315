@@ -1,63 +1,38 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Ningu�m)
-    )
-    (VP 
-      (VBP ignora)
-    )
-    (NP 
-      (DT os)
-      (JJ terr�veis)
-      (NN problemas)
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (NP 
-          (DT o)
-          (NN pa�s)
-        )
-        (VP 
-          (VBP atravessa)
-        )
-      )
-      (,)
-      (PP 
-        (IN de+)
-        (VP 
-          (PRP os_quais)
-          (NP 
-            (NP 
-              (DT a)
-              (NN corrup��o)
-              (ADJP 
-                (JJ policial)
-              )
-            )
-            (CC e)
-            (NP 
-              (DT os)
-              (NN n�veis)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN viol�ncia)
-                )
-              )
-            )
-          )
-          (VP 
-            (VBP s�o)
-          )
-          (NP 
-            (RB apenas)
-            (CD uma)
-            (NN faceta)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Ningu�m))
+                        (VP (VBP ignora))
+                        (NP (DT os)
+                                (JJ terr�veis)
+                                (NN problemas)
+                                (VP (NP 
+                                          (PRP que))
+                                        (NP 
+                                          (DT o)
+                                          (NN pa�s))
+                                        (VP 
+                                          (VBP atravessa)))
+                                (,)
+                                (PP 
+                                  (IN de+)
+                                  (VP 
+                                    (PRP os_quais)
+                                    (_CU_ 
+                                      (NP 
+                                        (DT a)
+                                        (NN corrup��o)
+                                        (ADJP 
+                                          (JJ policial)))
+                                      (CC e)
+                                      (NP 
+                                        (DT os)
+                                        (NN n�veis)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN viol�ncia)))))
+                                    (VP 
+                                      (VBP s�o))
+                                    (NP 
+                                      (RB apenas)
+                                      (CD uma)
+                                      (NN faceta)))))
+                        (.)))

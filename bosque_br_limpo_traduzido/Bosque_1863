@@ -1,77 +1,47 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Cabe)
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT o)
-        (NN empres�rio)
-        (,)
-        (PP 
-          (IN a+)
-          (NP 
-            (DT o)
-            (NN empreendedor)
-          )
-        )
-        (,)
-        (VP 
-          (VP 
-            (VBP seja)
-          )
-          (ADJP 
-            (ADJP 
-              (JJ pequeno)
-            )
-            (,)
-            (ADJP 
-              (JJ m�dio)
-            )
-            (CC ou)
-            (ADJP 
-              (JJ grande)
-            )
-          )
-        )
-        (,)
-      )
-    )
-    (VP 
-      (VP 
-        (VB criar)
-      )
-      (NP 
-        (DT o)
-        (NN ambiente)
-        (VBN adequado)
-        (PP 
-          (IN para)
-          (NP 
-            (DT a)
-            (NN valoriza��o)
-            (PP 
-              (IN de)
-              (NP 
-                (DT um)
-                (NN recurso)
-                (ADJP 
-                  (JJ humano)
-                )
-                (PP 
-                  (IN com)
-                  (NP 
-                    (PRP essas)
-                    (NN qualifica��es)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Cabe))
+                        (PP (IN a+)
+                                (NP (DT o)
+                                       (NN empres�rio)
+                                       (,)
+                                       (PP 
+                                         (IN a+)
+                                         (NP 
+                                           (DT o)
+                                           (NN empreendedor)))
+                                       (,)
+                                       (VP 
+                                         (VP 
+                                           (VBP seja))
+                                         (_CU_ 
+                                           (ADJP 
+                                             (JJ pequeno))
+                                           (,)
+                                           (ADJP 
+                                             (JJ m�dio))
+                                           (CC ou)
+                                           (ADJP 
+                                             (JJ grande))))
+                                       (,)))
+                        (VP (VP (VB criar))
+                                  (NP 
+                                    (DT o)
+                                    (NN ambiente)
+                                    (VBN adequado)
+                                    (PP 
+                                      (IN para)
+                                      (NP 
+                                        (DT a)
+                                        (NN valoriza��o)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (DT um)
+                                            (NN recurso)
+                                            (ADJP 
+                                              (JJ humano))
+                                            (PP 
+                                              (IN com)
+                                              (NP 
+                                                (PRP essas)
+                                                (NN qualifica��es)))))))))
+                        (.)))

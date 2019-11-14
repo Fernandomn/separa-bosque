@@ -1,41 +1,23 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Outro)
-      (NN tributo)
-      (UCP 
-        (ADJP 
-          (JJ importante)
-        )
-        (,)
-        (CC e)
-        (PP 
-          (RB tamb�m)
-          (IN sob)
-          (NP 
-            (DT a)
-            (NN forma)
-            (PP 
-              (IN de)
-              (NP 
-                (NN contribui��o)
-                (ADJP 
-                  (JJ volunt�ria)
-                )
-              )
-            )
-          )
-        )
-        (,)
-      )
-    )
-    (VP 
-      (VBP foram)
-    )
-    (NP 
-      (DT as)
-      (NN trierarquias)
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Outro)
+                               (NN tributo)
+                               (_CU_ (ADJP 
+                                        (JJ importante))
+                                      (,)
+                                      (CC e)
+                                      (PP 
+                                        (RB tamb�m)
+                                        (IN sob)
+                                        (NP 
+                                          (DT a)
+                                          (NN forma)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN contribui��o)
+                                              (ADJP 
+                                                (JJ volunt�ria))))))
+                                      (,)))
+                        (VP (VBP foram))
+                        (NP (DT as)
+                                 (NN trierarquias))
+                        (.)))

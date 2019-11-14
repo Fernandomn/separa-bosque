@@ -1,36 +1,16 @@
-(S 
-  (VP 
-    (NP 
-      (NN Maioria)
-      (PP 
-        (IN De+)
-        (NP 
-          (PRP OS)
-          (NN Programas)
-        )
-      )
-    )
-    (VP 
-      (VBP Est�)
-    )
-    (VP 
-      (VP 
-        (VBN Ligada)
-      )
-      (PP 
-        (IN A+)
-        (NP 
-          (DT a)
-          (NN Rede)
-          (PP 
-            (IN De)
-            (NP 
-              (NN Esgotos)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN Maioria)
+                                 (PP (IN De+)
+                                        (NP 
+                                          (PRP OS)
+                                          (NN Programas))))
+                        (VP (VBP Est�))
+                        (VP (VP (VBN Ligada))
+                                (PP (IN A+)
+                                        (NP 
+                                          (DT a)
+                                          (NN Rede)
+                                          (PP 
+                                            (IN De)
+                                            (NP 
+                                              (NN Esgotos))))))
+                        (.)))

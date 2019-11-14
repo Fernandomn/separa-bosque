@@ -1,88 +1,51 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN objetivo)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN projeto)
-        )
-      )
-    )
-    (,)
-    (PP 
-      (IN segundo)
-      (NP 
-        (NNP Miro)
-      )
-    )
-    (,)
-    (VP 
-      (VBP �)
-    )
-    (VP 
-      (VP 
-        (VB facilitar)
-      )
-      (NP 
-        (NP 
-          (DT a)
-          (NN investiga��o)
-          (ADJP 
-            (JJ policial)
-          )
-        )
-        (CC e)
-        (NP 
-          (DT a)
-          (NN obten��o)
-          (PP 
-            (IN de)
-            (NP 
-              (NN provas)
-              (PP 
-                (IN contra)
-                (NP 
-                  (DT o)
-                  (NN crime)
-                  (VBN organizado)
-                )
-              )
-              (-LCB-)
-              (NP 
-                (NN delitos)
-                (VP 
-                  (VP 
-                    (VBN praticados)
-                  )
-                  (PP 
-                    (IN por)
-                    (NP 
-                      (NN atividades)
-                      (PP 
-                        (IN de)
-                        (NP 
-                          (NP 
-                            (NN quadrilha)
-                          )
-                          (CC ou)
-                          (NP 
-                            (NN bando)
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-              (-RCB-)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN objetivo)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN projeto))))
+                        (,)
+                        (PP (IN segundo)
+                                 (NP (NNP Miro)))
+                        (,)
+                        (VP (VBP �))
+                        (VP (VP (VB facilitar))
+                                (_CU_ (NP 
+                                          (DT a)
+                                          (NN investiga��o)
+                                          (ADJP 
+                                            (JJ policial)))
+                                        (CC e)
+                                        (NP 
+                                          (DT a)
+                                          (NN obten��o)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN provas)
+                                              (PP 
+                                                (IN contra)
+                                                (NP 
+                                                  (DT o)
+                                                  (NN crime)
+                                                  (VBN organizado)))
+                                              (-LCB-)
+                                              (NP 
+                                                (NN delitos)
+                                                (VP 
+                                                  (VP 
+                                                    (VBN praticados))
+                                                  (PP 
+                                                    (IN por)
+                                                    (NP 
+                                                      (NN atividades)
+                                                      (PP 
+                                                        (IN de)
+                                                        (_CU_ 
+                                                          (NP 
+                                                            (NN quadrilha))
+                                                          (CC ou)
+                                                          (NP 
+                                                            (NN bando))))))))
+                                              (-RCB-))))))
+                        (.)))

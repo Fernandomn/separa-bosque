@@ -1,127 +1,81 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Seria)
-    )
-    (ADJP 
-      (JJ invi�vel)
-    )
-    (VP 
-      (VP 
-        (VB estimar)
-      )
-      (,)
-      (ADVP 
-        (RB por_exemplo)
-      )
-      (,)
-      (PP 
-        (IN com)
-        (NP 
-          (DT a)
-          (NN acuidade)
-          (ADJP 
-            (JJ necess�ria)
-          )
-          (PP 
-            (IN para)
-            (NP 
-              (DT a)
-              (NN concess�o)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN cr�dito)
-                  (ADJP 
-                    (JJ fiscal)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-      (,)
-      (ADVP 
-        (NP 
-          (PRP qual)
-        )
-        (NP 
-          (DT a)
-          (NN incid�ncia)
-          (ADJP 
-            (JJ efetiva)
-          )
-          (PP 
-            (IN de)
-            (NP 
-              (NP 
-                (NNP PIS)
-              )
-              (CC e)
-              (NP 
-                (NNP Cofins)
-              )
-            )
-          )
-        )
-        (PP 
-          (IN em)
-          (NP 
-            (PRP cada)
-            (NN etapa)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN processo)
-                (ADJP 
-                  (JJ produtivo)
-                )
-                (ADJP 
-                  (JJ anterior)
-                  (PP 
-                    (IN a+)
-                    (NP 
-                      (DT a)
-                      (NN produ��o)
-                      (PP 
-                        (IN de+)
-                        (NP 
-                          (DT os)
-                          (NN insumos)
-                          (VP 
-                            (VP 
-                              (VBN usados)
-                            )
-                            (ADVP 
-                              (RB diretamente)
-                            )
-                            (PP 
-                              (IN em+)
-                              (NP 
-                                (DT a)
-                                (NN produ��o)
-                                (PP 
-                                  (IN para)
-                                  (NP 
-                                    (NN exporta��es)
-                                  )
-                                )
-                              )
-                            )
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Seria))
+                        (ADJP (JJ invi�vel))
+                        (VP (VP (VB estimar))
+                                  (,)
+                                  (ADVP 
+                                    (RB por_exemplo))
+                                  (,)
+                                  (PP 
+                                    (IN com)
+                                    (NP 
+                                      (DT a)
+                                      (NN acuidade)
+                                      (ADJP 
+                                        (JJ necess�ria))
+                                      (PP 
+                                        (IN para)
+                                        (NP 
+                                          (DT a)
+                                          (NN concess�o)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN cr�dito)
+                                              (ADJP 
+                                                (JJ fiscal))))))))
+                                  (,)
+                                  (ADVP 
+                                    (NP 
+                                      (PRP qual))
+                                    (NP 
+                                      (DT a)
+                                      (NN incid�ncia)
+                                      (ADJP 
+                                        (JJ efetiva))
+                                      (PP 
+                                        (IN de)
+                                        (_CU_ 
+                                          (NP 
+                                            (NNP PIS))
+                                          (CC e)
+                                          (NP 
+                                            (NNP Cofins)))))
+                                    (PP 
+                                      (IN em)
+                                      (NP 
+                                        (PRP cada)
+                                        (NN etapa)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN processo)
+                                            (ADJP 
+                                              (JJ produtivo))
+                                            (ADJP 
+                                              (JJ anterior)
+                                              (PP 
+                                                (IN a+)
+                                                (NP 
+                                                  (DT a)
+                                                  (NN produ��o)
+                                                  (PP 
+                                                    (IN de+)
+                                                    (NP 
+                                                      (DT os)
+                                                      (NN insumos)
+                                                      (VP 
+                                                        (VP 
+                                                          (VBN usados))
+                                                        (ADVP 
+                                                          (RB diretamente))
+                                                        (PP 
+                                                          (IN em+)
+                                                          (NP 
+                                                            (DT a)
+                                                            (NN produ��o)
+                                                            (PP 
+                                                              (IN para)
+                                                              (NP 
+                                                                (NN exporta��es)))))))))))))))))
+                        (.)))

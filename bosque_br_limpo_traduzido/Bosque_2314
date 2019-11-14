@@ -1,68 +1,35 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN sushiman)
-      (NP 
-        (NNP Oscar_Tadaioshi_Izumi)
-      )
-    )
-    (VP 
-      (VBP baixa)
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (NP 
-          (NN hashi)
-        )
-        (CC e)
-        (NP 
-          (NN raiz)
-          (ADJP 
-            (JJ forte)
-          )
-        )
-      )
-    )
-    (ADVP 
-      (RB hoje)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT os)
-        (NN dom�nios)
-        (PP 
-          (IN de)
-          (NP 
-            (NNP Wilma_Kovesi)
-          )
-        )
-      )
-    )
-    (PP 
-      (IN para)
-      (VP 
-        (VP 
-          (VB entregar)
-        )
-        (NP 
-          (DT os)
-          (NN segredos)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN cozinha)
-              (ADJP 
-                (JJ japonesa)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN sushiman)
+                                 (NP (NNP Oscar_Tadaioshi_Izumi)))
+                        (VP (VBP baixa))
+                        (PP (IN com)
+                                 (_CU_ (NP 
+                                          (NN hashi))
+                                        (CC e)
+                                        (NP 
+                                          (NN raiz)
+                                          (ADJP 
+                                            (JJ forte)))))
+                        (ADVP (RB hoje))
+                        (PP (IN em+)
+                                 (NP (DT os)
+                                        (NN dom�nios)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NNP Wilma_Kovesi)))))
+                        (PP (IN para)
+                                 (VP 
+                                   (VP 
+                                     (VB entregar))
+                                   (NP 
+                                     (DT os)
+                                     (NN segredos)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NN cozinha)
+                                         (ADJP 
+                                           (JJ japonesa)))))))
+                        (.)))

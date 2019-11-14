@@ -1,56 +1,31 @@
-(S 
-  (VP 
-    (PP 
-      (IN Com)
-      (NP 
-        (DT o)
-        (NN uso)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN m�todo)
-            (ADJP 
-              (JJ tridimencional)
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VBP foi)
-    )
-    (ADJP 
-      (JJ poss�vel)
-    )
-    (VP 
-      (VP 
-        (VP 
-          (VB localiz�-)
-        )
-        (NP 
-          (PRP lo)
-        )
-      )
-      (CC e)
-      (VP 
-        (VP 
-          (VB descobrir)
-        )
-        (NP 
-          (DT a)
-          (NN causa)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN morte)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Com)
+                                 (NP (DT o)
+                                        (NN uso)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN m�todo)
+                                            (ADJP 
+                                              (JJ tridimencional))))))
+                        (,)
+                        (VP (VBP foi))
+                        (ADJP (JJ poss�vel))
+                        (_CU_ (VP 
+                                   (VP 
+                                     (VB localiz�-))
+                                   (NP 
+                                     (PRP lo)))
+                                 (CC e)
+                                 (VP 
+                                   (VP 
+                                     (VB descobrir))
+                                   (NP 
+                                     (DT a)
+                                     (NN causa)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NN morte))))))
+                        (.)))

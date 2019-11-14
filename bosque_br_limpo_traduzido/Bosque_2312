@@ -1,28 +1,14 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (DT O)
-        (�)
-        (NNP Chinon_Les_Granges)
-        (�)
-      )
-      (CC e)
-      (NP 
-        (DT o)
-        (NNP Saumur-Champigny_�Domaine_de_la_Martini�re�)
-      )
-    )
-    (VP 
-      (VBP s�o)
-    )
-    (ADVP 
-      (RB pouco)
-      (RB mais)
-    )
-    (VP 
-      (VBN encorpados)
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (NP 
+                                   (DT O)
+                                   (�)
+                                   (NNP Chinon_Les_Granges)
+                                   (�))
+                                 (CC e)
+                                 (NP 
+                                   (DT o)
+                                   (NNP Saumur-Champigny_�Domaine_de_la_Martini�re�)))
+                        (VP (VBP s�o))
+                        (ADVP (RB pouco)
+                                 (RB mais))
+                        (VP (VBN encorpados))
+                        (.)))

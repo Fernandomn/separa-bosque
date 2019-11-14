@@ -1,62 +1,36 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em)
-      (NP 
-        (CD dois)
-        (NN pa�ses)
-      )
-    )
-    (NP 
-      (PRP esses)
-      (NN �ndios)
-    )
-    (ADVP 
-      (RB ainda)
-      (RB n�o)
-    )
-    (VP 
-      (VBP esqueceram)
-    )
-    (NP 
-      (DT o)
-      (NN trauma)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN conquista)
-          (;)
-          (NP 
-            (NP 
-              (NNP Cort�z)
-              (,)
-              (PP 
-                (IN em+)
-                (NP 
-                  (DT o)
-                  (PRP pr�prio)
-                  (NNP M�xico)
-                )
-              )
-            )
-            (,)
-            (CC e)
-            (NP 
-              (NNP Pizarro)
-              (,)
-              (PP 
-                (IN em+)
-                (NP 
-                  (DT o)
-                  (NNP Peru)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em)
+                                 (NP (CD dois)
+                                        (NN pa�ses)))
+                        (NP (PRP esses)
+                                 (NN �ndios))
+                        (ADVP (RB ainda)
+                                   (RB n�o))
+                        (VP (VBP esqueceram))
+                        (NP (DT o)
+                                (NN trauma)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NN conquista)
+                                         (;)
+                                         (_CU_ 
+                                           (NP 
+                                             (NNP Cort�z)
+                                             (,)
+                                             (PP 
+                                               (IN em+)
+                                               (NP 
+                                                 (DT o)
+                                                 (PRP pr�prio)
+                                                 (NNP M�xico))))
+                                           (,)
+                                           (CC e)
+                                           (NP 
+                                             (NNP Pizarro)
+                                             (,)
+                                             (PP 
+                                               (IN em+)
+                                               (NP 
+                                                 (DT o)
+                                                 (NNP Peru))))))))
+                        (.)))

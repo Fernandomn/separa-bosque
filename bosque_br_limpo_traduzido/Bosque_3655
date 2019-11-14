@@ -1,39 +1,19 @@
-(S 
-  (VP 
-    (PP 
-      (IN Al�m_de+)
-      (NP 
-        (PRP isso)
-      )
-    )
-    (,)
-    (VP 
-      (VBP avaliou)
-    )
-    (ADVP 
-      (RB como)
-      (ADJP 
-        (JJ fraca)
-      )
-    )
-    (NP 
-      (DT a)
-      (NN organiza��o)
-      (VP 
-        (VP existente)
-        (PP 
-          (IN at�)
-          (RB ontem)
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT a)
-            (NN campanha)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Al�m_de+)
+                                 (NP (PRP isso)))
+                        (,)
+                        (VP (VBP avaliou))
+                        (ADVP (RB como)
+                                (ADJP 
+                                  (JJ fraca)))
+                        (NP (DT a)
+                                (NN organiza��o)
+                                (VP (VP existente)
+                                        (PP 
+                                          (IN at�)
+                                          (RB ontem))
+                                        (PP 
+                                          (IN em+)
+                                          (NP 
+                                            (DT a)
+                                            (NN campanha)))))
+                        (.)))

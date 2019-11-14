@@ -1,51 +1,27 @@
-(S 
-  (VP 
-    (VP 
-      (IN Se)
-      (NP 
-        (PRP todos)
-      )
-      (VP 
-        (VBP conseguirem)
-      )
-      (VP 
-        (VP 
-          (VB ser)
-          (VBN eleitos)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (RB quase)
-      (NN metade)
-      (-LCB-)
-      (NP 
-        (CD 43)
-        (NN %)
-      )
-      (-RCB-)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NN vereadores)
-          (ADJP 
-            (JJ paulistanos)
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP v�o)
-      (VB trocar)
-    )
-    (PP 
-      (IN de)
-      (NP 
-        (NNP Casa_Legislativa)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (IN Se)
+                                  (NP 
+                                    (PRP todos))
+                                  (VP (VBP conseguirem))
+                                  (VP 
+                                    (VP 
+                                      (VB ser)
+                                      (VBN eleitos))))
+                        (,)
+                        (NP 
+                          (RB quase)
+                          (NN metade)
+                          (-LCB-)
+                          (NP (CD 43)
+                                     (NN %))
+                          (-RCB-)
+                          (PP (IN de+)
+                                    (NP 
+                                      (DT os)
+                                      (NN vereadores)
+                                      (ADJP 
+                                        (JJ paulistanos)))))
+                        (VP (VBP v�o)
+                              (VB trocar))
+                        (PP (IN de)
+                                (NP (NNP Casa_Legislativa)))
+                        (.)))

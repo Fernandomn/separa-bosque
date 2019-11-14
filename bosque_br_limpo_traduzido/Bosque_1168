@@ -1,44 +1,23 @@
-(S 
-  (NP 
-    (NNP Folha)
-    (NP 
-      (DT O)
-      (NNP Banco_Central)
-    )
-    (VP 
-      (VBP est�)
-    )
-    (NP 
-      (PRP se)
-    )
-    (VP 
-      (VBG espelhando)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NN experi�ncia)
-        (PP 
-          (IN de)
-          (NP 
-            (PRP algum)
-            (PRP outro)
-            (NN pa�s)
-            (,)
-            (PP 
-              (IN em)
-              (NP 
-                (NN opera��o)
-                (ADJP 
-                  (JJ semelhante)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (?)
-  )
-)
+(S (NP (NNP Folha)
+                       (NP (DT O)
+                                (NNP Banco_Central))
+                       (VP (VBP est�))
+                       (NP (PRP se))
+                       (VP (VBG espelhando))
+                       (PP (IN em+)
+                                (NP (DT a)
+                                       (NN experi�ncia)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (PRP algum)
+                                           (PRP outro)
+                                           (NN pa�s)
+                                           (,)
+                                           (PP 
+                                             (IN em)
+                                             (NP 
+                                               (NN opera��o)
+                                               (ADJP 
+                                                 (JJ semelhante))))))))
+                       (?)))

@@ -1,54 +1,29 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN presidente)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP PMDB)
-          (,)
-          (NP 
-            (NNP Djalma_Falc�o)
-          )
-          (,)
-        )
-      )
-    )
-    (VP 
-      (VBP v�)
-    )
-    (NP 
-      (DT a)
-      (NN possibilidade)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN alian�a)
-          (PP 
-            (IN de+)
-            (NP 
-              (NP 
-                (DT os)
-                (NN colloridos)
-              )
-              (CC e)
-              (NP 
-                (NNP Lessa)
-              )
-            )
-          )
-        )
-      )
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (NN pragmatismo)
-      )
-    )
-    (;)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN presidente)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NNP PMDB)
+                                          (,)
+                                          (NP 
+                                            (NNP Djalma_Falc�o))
+                                          (,))))
+                        (VP (VBP v�))
+                        (NP (DT a)
+                                (NN possibilidade)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NN alian�a)
+                                         (PP 
+                                           (IN de+)
+                                           (_CU_ 
+                                             (NP 
+                                               (DT os)
+                                               (NN colloridos))
+                                             (CC e)
+                                             (NP 
+                                               (NNP Lessa)))))))
+                        (PP (IN com)
+                                 (NP (NN pragmatismo)))
+                        (;)))

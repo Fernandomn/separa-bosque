@@ -1,98 +1,61 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Suas)
-      (NN atribui��es)
-    )
-    (VP 
-      (VBP s�o)
-    )
-    (VP 
-      (VP 
-        (VP 
-          (VB criticar)
-        )
-        (NP 
-          (DT o)
-          (NN jornal)
-        )
-        (PP 
-          (IN sob)
-          (NP 
-            (DT a)
-            (NN perspectiva)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN leitor)
-              )
-            )
-          )
-        )
-        (VBG recebendo)
-        (CC e)
-        (VP 
-          (VP 
-            (VBG checando)
-          )
-          (NP 
-            (DT as)
-            (NN reclama��es)
-            (VP 
-              (NP 
-                (PRP que)
-              )
-              (NP 
-                (PRP ele)
-              )
-              (VP 
-                (VBP encaminha)
-              )
-              (PP 
-                (IN a+)
-                (NP 
-                  (DT a)
-                  (NN Reda��o)
-                )
-              )
-            )
-          )
-        )
-      )
-      (CC e)
-      (VP 
-        (VP 
-          (VB comentar)
-        )
-        (,)
-        (PP 
-          (IN a+)
-          (NP 
-            (DT os)
-            (NN domingos)
-          )
-        )
-        (,)
-        (NP 
-          (DT o)
-          (NN notici�rio)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT os)
-              (NN meios)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN comunica��o)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Suas)
+                                  (NN atribui��es))
+                         (VP (VBP s�o))
+                         (_CU_ (VP 
+                                  (VP (VB criticar))
+                                  (NP 
+                                    (DT o)
+                                    (NN jornal))
+                                  (PP 
+                                    (IN sob)
+                                    (NP 
+                                      (DT a)
+                                      (NN perspectiva)
+                                      (PP 
+                                        (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN leitor)))))
+                                  (VBG recebendo)
+                                  (CC e)
+                                  (VP 
+                                    (VP 
+                                      (VBG checando))
+                                    (NP 
+                                      (DT as)
+                                      (NN reclama��es)
+                                      (VP 
+                                        (NP 
+                                          (PRP que))
+                                        (NP 
+                                          (PRP ele))
+                                        (VP 
+                                          (VBP encaminha))
+                                        (PP 
+                                          (IN a+)
+                                          (NP 
+                                            (DT a)
+                                            (NN Reda��o)))))))
+                                (CC e)
+                                (VP 
+                                  (VP (VB comentar))
+                                  (,)
+                                  (PP 
+                                    (IN a+)
+                                    (NP 
+                                      (DT os)
+                                      (NN domingos)))
+                                  (,)
+                                  (NP 
+                                    (DT o)
+                                    (NN notici�rio)
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT os)
+                                        (NN meios)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN comunica��o))))))))
+                         (.)))

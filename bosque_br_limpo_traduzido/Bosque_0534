@@ -1,66 +1,38 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN advogados)
-      (PP 
-        (IN de)
-        (NP 
-          (NNP Lucena)
-        )
-      )
-    )
-    (VP 
-      (VBP calculam)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (PRP isso)
-      )
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP deve)
-        (VB ocorrer)
-      )
-      (ADVP 
-        (RB antes)
-        (PP 
-          (IN de)
-          (NP 
-            (NP 
-              (NN ter�a)
-            )
-            (CC ou)
-            (NP 
-              (NN quarta)
-            )
-          )
-        )
-      )
-      (,)
-      (PP 
-        (IN com)
-        (NP 
-          (NNP Lucena)
-          (ADJP 
-            (RB j�)
-            (VBN eleito)
-          )
-        )
-      )
-      (,)
-      (VP 
-        (ADVP 
-          (RB segundo)
-        )
-        (VP 
-          (VBP acreditam)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN advogados)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NNP Lucena))))
+                        (VP (VBP calculam))
+                        (VP (IN que)
+                                 (NP 
+                                   (PRP isso))
+                                 (ADVP 
+                                   (RB n�o))
+                                 (VP (VBP deve)
+                                       (VB ocorrer))
+                                 (ADVP 
+                                   (RB antes)
+                                   (PP 
+                                     (IN de)
+                                     (_CU_ 
+                                       (NP 
+                                         (NN ter�a))
+                                       (CC ou)
+                                       (NP 
+                                         (NN quarta)))))
+                                 (,)
+                                 (PP 
+                                   (IN com)
+                                   (NP 
+                                     (NNP Lucena)
+                                     (ADJP 
+                                       (RB j�)
+                                       (VBN eleito))))
+                                 (,)
+                                 (VP 
+                                   (ADVP 
+                                     (RB segundo))
+                                   (VP 
+                                     (VBP acreditam))))
+                        (.)))

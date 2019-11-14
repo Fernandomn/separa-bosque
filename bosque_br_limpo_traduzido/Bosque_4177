@@ -1,44 +1,24 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN p�blico)
-      (ADJP 
-        (JJ alvo)
-      )
-    )
-    (VP 
-      (VBP s�o)
-    )
-    (NP 
-      (DT os)
-      (CD tr�s)
-      (NN milh�es)
-      (PP 
-        (IN de)
-        (NP 
-          (NN pedestres)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (VP 
-              (VBP circulam)
-            )
-            (ADVP 
-              (RB diariamente)
-            )
-            (PP 
-              (IN em+)
-              (NP 
-                (DT a)
-                (NN regi�o)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN p�blico)
+                                 (ADJP 
+                                   (JJ alvo)))
+                        (VP (VBP s�o))
+                        (NP (DT os)
+                               (CD tr�s)
+                               (NN milh�es)
+                               (PP 
+                                 (IN de)
+                                 (NP (NN pedestres)
+                                        (VP 
+                                          (NP 
+                                            (PRP que))
+                                          (VP 
+                                            (VBP circulam))
+                                          (ADVP 
+                                            (RB diariamente))
+                                          (PP 
+                                            (IN em+)
+                                            (NP 
+                                              (DT a)
+                                              (NN regi�o)))))))
+                        (.)))

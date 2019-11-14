@@ -1,32 +1,15 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (DT O)
-        (NNP Philadelphia)
-      )
-      (VP 
-        (VBP tem)
-      )
-      (NP 
-        (RB apenas)
-        (CD 12)
-        (NN vit�rias)
-      )
-    )
-    (CC e)
-    (VP 
-      (ADVP 
-        (RB j�)
-      )
-      (VP 
-        (VBP perdeu)
-      )
-      (NP 
-        (CD 19)
-        (NN vezes)
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (DT O)
+                                  (NNP Philadelphia))
+                                (VP (VBP tem))
+                                (NP (RB apenas)
+                                        (CD 12)
+                                        (NN vit�rias)))
+                       (CC e)
+                       (VP (ADVP 
+                                  (RB j�))
+                                (VP (VBP perdeu))
+                                (NP 
+                                  (CD 19)
+                                  (NN vezes)))
+                       (.)))

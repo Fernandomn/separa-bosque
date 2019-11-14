@@ -1,54 +1,31 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN Folha)
-    )
-    (VP 
-      (VBP confirmou)
-    )
-    (NP 
-      (DT os)
-      (NN entendimentos)
-    )
-    (ADVP 
-      (RB junto)
-      (PP 
-        (PP 
-          (IN a)
-          (NP 
-            (NN empres�rios)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN setor)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NN eletrodom�sticos)
-                  )
-                )
-              )
-            )
-          )
-        )
-        (CC e)
-        (PP 
-          (IN a)
-          (NP 
-            (NN funcion�rios)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN P�o-de-a��car)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN Folha))
+                        (VP (VBP confirmou))
+                        (NP (DT os)
+                                (NN entendimentos))
+                        (ADVP (RB junto)
+                                   (_CU_ 
+                                     (PP 
+                                       (IN a)
+                                       (NP 
+                                         (NN empres�rios)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT o)
+                                             (NN setor)
+                                             (PP 
+                                               (IN de)
+                                               (NP 
+                                                 (NN eletrodom�sticos)))))))
+                                     (CC e)
+                                     (PP 
+                                       (IN a)
+                                       (NP 
+                                         (NN funcion�rios)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT o)
+                                             (NN P�o-de-a��car)))))))
+                        (.)))

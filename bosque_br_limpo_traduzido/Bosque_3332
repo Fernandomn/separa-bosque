@@ -1,74 +1,43 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NNP Pol�cia_Federal)
-    )
-    (VP 
-      (VBP prendeu)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NNP Bras�lia)
-      )
-    )
-    (NP 
-      (NNP Vicente_Wilson_Rivera_Ramos)
-      (,)
-      (NP 
-        (DT o)
-        (�)
-        (NNP Vicentico)
-        (�)
-      )
-      (,)
-      (NP 
-        (NN filho)
-        (PP 
-          (IN de)
-          (ADJP 
-            (CD um)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT os)
-                (NN chefes)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (NNP Cartel_de_C�li)
-                    (-LCB-)
-                    (NP 
-                      (NN organiza��o)
-                      (ADJP 
-                        (JJ colombiana)
-                      )
-                      (VP 
-                        (NP 
-                          (PRP que)
-                        )
-                        (VP 
-                          (VBP trafica)
-                        )
-                        (NP 
-                          (NN drogas)
-                        )
-                      )
-                    )
-                    (-RCB-)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NNP Pol�cia_Federal))
+                        (VP (VBP prendeu))
+                        (ADVP (RB ontem))
+                        (PP (IN em)
+                                 (NP (NNP Bras�lia)))
+                        (NP (NNP Vicente_Wilson_Rivera_Ramos)
+                                (,)
+                                (NP (DT o)
+                                        (�)
+                                        (NNP Vicentico)
+                                        (�))
+                                (,)
+                                (NP 
+                                  (NN filho)
+                                  (PP 
+                                    (IN de)
+                                    (ADJP 
+                                      (CD um)
+                                      (PP 
+                                        (IN de+)
+                                        (NP 
+                                          (DT os)
+                                          (NN chefes)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (NNP Cartel_de_C�li)
+                                              (-LCB-)
+                                              (NP 
+                                                (NN organiza��o)
+                                                (ADJP 
+                                                  (JJ colombiana))
+                                                (VP 
+                                                  (NP 
+                                                    (PRP que))
+                                                  (VP 
+                                                    (VBP trafica))
+                                                  (NP 
+                                                    (NN drogas))))
+                                              (-RCB-)))))))))
+                        (.)))

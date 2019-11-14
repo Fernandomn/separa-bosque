@@ -1,51 +1,31 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN pacote)
-      (PP 
-        (IN de)
-        (NP 
-          (NN pescaria)
-        )
-      )
-      (,)
-      (PP 
-        (IN com)
-        (NP 
-          (NP 
-            (NN barco)
-          )
-          (,)
-          (NP 
-            (NN motor)
-          )
-          (,)
-          (NP 
-            (NN piloteiro)
-          )
-          (CC e)
-          (NP 
-            (NN pens�o)
-            (ADJP 
-              (JJ completa)
-            )
-          )
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (CD 20)
-      (NN %)
-      (ADJP 
-        (RB mais)
-        (JJ caro)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                  (NN pacote)
+                                  (PP 
+                                    (IN de)
+                                    (NP 
+                                      (NN pescaria)))
+                                  (,)
+                                  (PP 
+                                    (IN com)
+                                    (_CU_ 
+                                      (NP 
+                                        (NN barco))
+                                      (,)
+                                      (NP 
+                                        (NN motor))
+                                      (,)
+                                      (NP 
+                                        (NN piloteiro))
+                                      (CC e)
+                                      (NP 
+                                        (NN pens�o)
+                                        (ADJP 
+                                          (JJ completa)))))
+                                  (,))
+                         (VP (VBP �))
+                         (NP (CD 20)
+                                (NN %)
+                                (ADJP 
+                                  (RB mais)
+                                  (JJ caro)))
+                         (.)))

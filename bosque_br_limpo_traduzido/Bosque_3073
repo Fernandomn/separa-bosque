@@ -1,59 +1,34 @@
-(S 
-  (VP 
-    (ADJP 
-      (ADJP 
-        (JJ Negro)
-      )
-      (CC e)
-      (ADJP 
-        (JJ portador)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN v�rus)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (NNP Aids)
-              )
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (NNP Bill_T._Jones)
-    )
-    (VP 
-      (VBP �)
-    )
-    (ADJP 
-      (CD uma)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT as)
-          (NN express�es)
-          (ADJP 
-            (RB mais)
-            (JJ poderosas)
-          )
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN dan�a)
-              (ADJP 
-                (JJ contempor�nea)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (ADJP 
+                                   (JJ Negro))
+                                 (CC e)
+                                 (ADJP 
+                                   (JJ portador)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT o)
+                                       (NN v�rus)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT a)
+                                           (NNP Aids)))))))
+                        (,)
+                        (NP (NNP Bill_T._Jones))
+                        (VP (VBP �))
+                        (ADJP (CD uma)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT as)
+                                          (NN express�es)
+                                          (ADJP 
+                                            (RB mais)
+                                            (JJ poderosas))
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT a)
+                                              (NN dan�a)
+                                              (ADJP 
+                                                (JJ contempor�nea)))))))
+                        (.)))

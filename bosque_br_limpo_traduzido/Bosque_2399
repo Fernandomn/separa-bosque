@@ -1,57 +1,32 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB J�)
-    )
-    (NP 
-      (DT o)
-      (NN sistema)
-      (PP 
-        (IN de)
-        (NP 
-          (NN tratamento)
-          (PP 
-            (IN de)
-            (NP 
-              (NN esgotos)
-              (ADJP 
-                (JJ residenciais)
-              )
-            )
-          )
-        )
-      )
-      (,)
-      (PP 
-        (IN com)
-        (NP 
-          (DT a)
-          (NN esta��o)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NNP ABC)
-            )
-          )
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP dever�)
-      (VB atingir)
-    )
-    (NP 
-      (CD 150)
-      (NN toneladas)
-      (PP 
-        (IN $/)
-        (NP 
-          (NN dia)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB J�))
+                        (NP (DT o)
+                                 (NN sistema)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NN tratamento)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN esgotos)
+                                              (ADJP 
+                                                (JJ residenciais))))))
+                                 (,)
+                                 (PP 
+                                   (IN com)
+                                   (NP 
+                                     (DT a)
+                                     (NN esta��o)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NNP ABC)))))
+                                 (,))
+                        (VP (VBP dever�)
+                              (VB atingir))
+                        (NP (CD 150)
+                                (NN toneladas)
+                                (PP (IN $/)
+                                       (NP 
+                                         (NN dia))))
+                        (.)))

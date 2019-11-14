@@ -1,39 +1,20 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Scartezzini)
-    )
-    (VP 
-      (VBP elogiou)
-    )
-    (NP 
-      (NP 
-        (DT o)
-        (NN trabalho)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NNP TRE)
-            (ADJP 
-              (JJ fluminense)
-            )
-          )
-        )
-      )
-      (CC e)
-      (NP 
-        (DT a)
-        (NN popula��o)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN Estado)
-          )
-        )
-      )
-    )
-    (;)
-  )
-)
+(S (VP (NP (NNP Scartezzini))
+                        (VP (VBP elogiou))
+                        (_CU_ (NP (DT o)
+                                        (NN trabalho)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NNP TRE)
+                                            (ADJP 
+                                              (JJ fluminense)))))
+                                (CC e)
+                                (NP (DT a)
+                                        (NN popula��o)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN Estado)))))
+                        (;)))

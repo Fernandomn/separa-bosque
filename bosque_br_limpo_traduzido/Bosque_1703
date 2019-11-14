@@ -1,104 +1,66 @@
-(S 
-  (VP 
-    (UCP 
-      (ADJP 
-        (JJ Simp�tico)
-      )
-      (,)
-      (ADJP 
-        (JJ fluente)
-        (-LCB-)
-        (PP 
-          (IN com)
-          (NP 
-            (DT as)
-            (NN palavras)
-          )
-        )
-        (ADVP 
-          (RB tamb�m)
-        )
-        (-RCB-)
-      )
-      (,)
-      (PP 
-        (IN a+)
-        (NP 
-          (DT a)
-          (NN vontade)
-          (PP 
-            (IN em+)
-            (NP 
-              (DT o)
-              (NN papel)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN regente)
-                  (ADJP 
-                    (JJ jovem)
-                  )
-                )
-                (-LCB-)
-                (VP 
-                  (IN embora)
-                  (VP 
-                    (VP 
-                      (VBG beirando)
-                    )
-                    (NP 
-                      (DT os)
-                      (CD 50)
-                      (NN anos)
-                    )
-                  )
-                )
-                (-RCB-)
-              )
-            )
-          )
-        )
-      )
-      (,)
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP h�)
-    )
-    (NP 
-      (DT um)
-      (NN nome)
-      (ADJP 
-        (JJ melhor)
-      )
-    )
-    (PP 
-      (IN para)
-      (VP 
-        (VP 
-          (VB dirigir)
-        )
-        (PP 
-          (IN a)
-          (NP 
-            (NNP New_World_Symphony)
-            (,)
-            (NP 
-              (DT uma)
-              (NN orquestra)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN bolsistas)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (ADJP 
+                                   (JJ Simp�tico))
+                                 (,)
+                                 (ADJP 
+                                   (JJ fluente)
+                                   (-LCB-)
+                                   (PP 
+                                     (IN com)
+                                     (NP 
+                                       (DT as)
+                                       (NN palavras)))
+                                   (ADVP 
+                                     (RB tamb�m))
+                                   (-RCB-))
+                                 (,)
+                                 (PP 
+                                   (IN a+)
+                                   (NP 
+                                     (DT a)
+                                     (NN vontade)
+                                     (PP 
+                                       (IN em+)
+                                       (NP 
+                                         (DT o)
+                                         (NN papel)
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NN regente)
+                                             (ADJP 
+                                               (JJ jovem)))
+                                           (-LCB-)
+                                           (VP 
+                                             (IN embora)
+                                             (VP 
+                                               (VP 
+                                                 (VBG beirando))
+                                               (NP 
+                                                 (DT os)
+                                                 (CD 50)
+                                                 (NN anos))))
+                                           (-RCB-))))))
+                                 (,))
+                        (ADVP (RB n�o))
+                        (VP (VBP h�))
+                        (NP (DT um)
+                                (NN nome)
+                                (ADJP 
+                                  (JJ melhor)))
+                        (PP (IN para)
+                                 (VP 
+                                   (VP 
+                                     (VB dirigir))
+                                   (PP 
+                                     (IN a)
+                                     (NP 
+                                       (NNP New_World_Symphony)
+                                       (,)
+                                       (NP 
+                                         (DT uma)
+                                         (NN orquestra)
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NN bolsistas))))))))
+                        (.)))

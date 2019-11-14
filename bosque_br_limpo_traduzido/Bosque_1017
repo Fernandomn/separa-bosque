@@ -1,62 +1,33 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (DT o)
-        (NN domingo)
-      )
-    )
-    (,)
-    (PP 
-      (IN em)
-      (NP 
-        (NNP Campos)
-        (-LCB-)
-        (NP 
-          (CD 280)
-          (NN km)
-          (PP 
-            (IN a+)
-            (NP 
-              (DT o)
-              (NN norte)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NNP Rio)
-                )
-              )
-            )
-          )
-        )
-        (-RCB-)
-      )
-    )
-    (,)
-    (NP 
-      (NNP Brizola)
-    )
-    (VP 
-      (VBP concentrou)
-    )
-    (NP 
-      (DT as)
-      (NN cr�ticas)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NP 
-          (NNP Cardoso)
-        )
-        (CC e)
-        (NP 
-          (NNP Lula)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (DT o)
+                                        (NN domingo)))
+                        (,)
+                        (PP (IN em)
+                                 (NP (NNP Campos)
+                                        (-LCB-)
+                                        (NP 
+                                          (CD 280)
+                                          (NN km)
+                                          (PP 
+                                            (IN a+)
+                                            (NP 
+                                              (DT o)
+                                              (NN norte)
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT o)
+                                                  (NNP Rio))))))
+                                        (-RCB-)))
+                        (,)
+                        (NP (NNP Brizola))
+                        (VP (VBP concentrou))
+                        (NP (DT as)
+                                (NN cr�ticas))
+                        (PP (IN em)
+                                 (_CU_ (NP 
+                                          (NNP Cardoso))
+                                        (CC e)
+                                        (NP 
+                                          (NNP Lula))))
+                        (.)))

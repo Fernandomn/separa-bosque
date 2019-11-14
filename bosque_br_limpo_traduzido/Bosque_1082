@@ -1,59 +1,34 @@
-(S 
-  (VP 
-    (NP 
-      (DT Uma)
-      (NN pesquisa)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Associa��o_Nacional_de_Ag�ncias_de_Viagens)
-          (-LCB-)
-          (NP 
-            (NNP Abav)
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (VP 
-      (VBP revelou)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT o)
-        (NN setor)
-      )
-      (VP 
-        (VBP foi)
-        (VBN incrementado)
-      )
-      (NP 
-        (CD 29)
-        (NN %)
-      )
-      (PP 
-        (IN em)
-        (NP 
-          (NN m�dia)
-        )
-      )
-      (PP 
-        (IN desde)
-        (NP 
-          (DT a)
-          (NN implanta��o)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NNP Plano_Real)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Uma)
+                                 (NN pesquisa)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP Associa��o_Nacional_de_Ag�ncias_de_Viagens)
+                                          (-LCB-)
+                                          (NP 
+                                            (NNP Abav))
+                                          (-RCB-))))
+                        (VP (VBP revelou))
+                        (VP (IN que)
+                                 (NP 
+                                   (DT o)
+                                   (NN setor))
+                                 (VP (VBP foi)
+                                       (VBN incrementado))
+                                 (NP (CD 29)
+                                        (NN %))
+                                 (PP 
+                                   (IN em)
+                                   (NP 
+                                     (NN m�dia)))
+                                 (PP 
+                                   (IN desde)
+                                   (NP 
+                                     (DT a)
+                                     (NN implanta��o)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NNP Plano_Real))))))
+                        (.)))

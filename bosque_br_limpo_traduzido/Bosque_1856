@@ -1,55 +1,33 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (DT As)
-        (NN reformas)
-        (PP 
-          (IN em+)
-          (NP 
-            (DT o)
-            (NN mosteiro)
-          )
-        )
-      )
-      (CC e)
-      (NP 
-        (DT a)
-        (NN coloca��o)
-        (PP 
-          (IN de)
-          (NP 
-            (DT um)
-            (JJ novo)
-            (NN cal�amento)
-            (PP 
-              (IN em+)
-              (NP 
-                (DT o)
-                (NN largo)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NNP S�o_Bento)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP devem)
-      (VB consumir)
-    )
-    (NP 
-      (NN US$)
-      (NP 
-        (CD 200)
-        (NN mil)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (NP 
+                                   (DT As)
+                                   (NN reformas)
+                                   (PP 
+                                     (IN em+)
+                                     (NP 
+                                       (DT o)
+                                       (NN mosteiro))))
+                                 (CC e)
+                                 (NP 
+                                   (DT a)
+                                   (NN coloca��o)
+                                   (PP 
+                                     (IN de)
+                                     (NP 
+                                       (DT um)
+                                       (JJ novo)
+                                       (NN cal�amento)
+                                       (PP 
+                                         (IN em+)
+                                         (NP 
+                                           (DT o)
+                                           (NN largo)
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (NNP S�o_Bento)))))))))
+                        (VP (VBP devem)
+                              (VB consumir))
+                        (NP (NN US$)
+                                (NP (CD 200)
+                                       (NN mil)))
+                        (.)))

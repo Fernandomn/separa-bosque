@@ -1,55 +1,29 @@
-(S 
-  (VP 
-    (NP 
-      (DT As)
-      (NN listas)
-    )
-    (VP 
-      (VBP apontam)
-    )
-    (NP 
-      (RB quase)
-      (PRP todas)
-      (DT as)
-      (NP 
-        (NP 
-          (NN divis�es)
-        )
-        (CC e)
-        (NP 
-          (NN departamentos)
-        )
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Pol�cia_Civil)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NNP Rio)
-            )
-          )
-        )
-      )
-    )
-    (ADVP 
-      (RB como)
-      (NP 
-        (NN recebedoras)
-        (PP 
-          (IN de)
-          (NP 
-            (NN quantias)
-            (ADJP 
-              (JJ mensais)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT As)
+                                 (NN listas))
+                        (VP (VBP apontam))
+                        (NP (RB quase)
+                                (PRP todas)
+                                (DT as)
+                                (_CU_ (NP 
+                                        (NN divis�es))
+                                      (CC e)
+                                      (NP 
+                                        (NN departamentos)))
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NNP Pol�cia_Civil)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT o)
+                                             (NNP Rio))))))
+                        (ADVP (RB como)
+                                (NP (NN recebedoras)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN quantias)
+                                           (ADJP 
+                                             (JJ mensais))))))
+                        (.)))

@@ -1,40 +1,16 @@
-(S 
-  (VP 
-    (PP 
-      (IN Segundo)
-      (NP 
-        (PRP ele)
-      )
-    )
-    (,)
-    (ADVP 
-      (RB hoje)
-    )
-    (NP 
-      (DT as)
-      (NN concess�es)
-      (PP 
-        (IN de)
-        (NP 
-          (NN financiamento)
-          (ADJP 
-            (JJ banc�rio)
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP s�o)
-    )
-    (ADJP 
-      (ADJP 
-        (JJ restritas)
-      )
-      (CC e)
-      (ADJP 
-        (JJ elitistas)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Segundo)
+                                (NP (PRP ele)))
+                       (,)
+                       (ADVP (RB hoje))
+                       (NP (DT as)
+                                (NN concess�es)
+                                (PP (IN de)
+                                       (NP 
+                                         (NN financiamento)
+                                         (ADJP 
+                                           (JJ banc�rio)))))
+                       (VP (VBP s�o))
+                       (_CU_ (ADJP (JJ restritas))
+                              (CC e)
+                              (ADJP (JJ elitistas)))
+                       (.)))

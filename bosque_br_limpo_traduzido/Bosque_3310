@@ -1,39 +1,21 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NNP R�ssia)
-    )
-    (VP 
-      (VBP vetou)
-    )
-    (NP 
-      (NN documento)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Confer�ncia_sobre_Seguran�a_e_Coopera��o_na_Europa)
-        )
-      )
-      (PP 
-        (IN sobre)
-        (NP 
-          (DT a)
-          (NP ex-rep�blica)
-          (ADJP 
-            (JJ iugoslava)
-          )
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NNP B�snia)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NNP R�ssia))
+                        (VP (VBP vetou))
+                        (NP (NN documento)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NNP Confer�ncia_sobre_Seguran�a_e_Coopera��o_na_Europa)))
+                                (PP (IN sobre)
+                                       (NP 
+                                         (DT a)
+                                         (_EC_ ex-)
+                                         (NN rep�blica)
+                                         (ADJP 
+                                           (JJ iugoslava))
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT a)
+                                             (NNP B�snia))))))
+                        (.)))

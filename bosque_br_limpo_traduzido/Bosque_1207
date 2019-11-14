@@ -1,110 +1,70 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (JJ �nica)
-      (NN alternativa)
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (VP 
-          (VBP resta)
-        )
-        (PP 
-          (IN a)
-          (NP 
-            (NNP Sarney)
-          )
-        )
-        (ADVP 
-          (RB de_fato)
-        )
-      )
-    )
-    (VP 
-      (VBP �)
-    )
-    (VP 
-      (VP 
-        (IN que)
-        (NP 
-          (DT o)
-          (NNP Superior_Tribunal_de_Justi�a)
-        )
-        (VP 
-          (VBP acate)
-        )
-        (NP 
-          (DT a)
-          (NN den�ncia)
-          (PP 
-            (IN de)
-            (NP 
-              (NN estelionato)
-              (VP 
-                (VP 
-                  (VBN apresentada)
-                )
-                (PP 
-                  (IN por+)
-                  (NP 
-                    (DT o)
-                    (NNP Minist�rio_P�blico_Federal)
-                    (PP 
-                      (IN contra)
-                      (NP 
-                        (NNP Orestes_Qu�rcia)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-      (CC e)
-      (VP 
-        (IN que)
-        (,)
-        (PP 
-          (IN em+)
-          (NP 
-            (PRP este)
-            (NN caso)
-          )
-        )
-        (,)
-        (NP 
-          (DT o)
-          (NP ex-governador)
-          (PP 
-            (IN de)
-            (NP 
-              (NNP S�o_Paulo)
-            )
-          )
-        )
-        (VP 
-          (VBP renuncie)
-        )
-        (PP 
-          (IN a+)
-          (NP 
-            (DT a)
-            (NN candidatura)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NNP PMDB)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (JJ �nica)
+                                 (NN alternativa)
+                                 (VP 
+                                   (NP 
+                                     (PRP que))
+                                   (VP 
+                                     (VBP resta))
+                                   (PP 
+                                     (IN a)
+                                     (NP 
+                                       (NNP Sarney)))
+                                   (ADVP 
+                                     (RB de_fato))))
+                        (VP (VBP �))
+                        (_CU_ (VP (IN que)
+                                        (NP 
+                                          (DT o)
+                                          (NNP Superior_Tribunal_de_Justi�a))
+                                        (VP 
+                                          (VBP acate))
+                                        (NP 
+                                          (DT a)
+                                          (NN den�ncia)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN estelionato)
+                                              (VP 
+                                                (VP 
+                                                  (VBN apresentada))
+                                                (PP 
+                                                  (IN por+)
+                                                  (NP 
+                                                    (DT o)
+                                                    (NNP Minist�rio_P�blico_Federal)
+                                                    (PP 
+                                                      (IN contra)
+                                                      (NP 
+                                                        (NNP Orestes_Qu�rcia))))))))))
+                               (CC e)
+                               (VP (IN que)
+                                        (,)
+                                        (PP 
+                                          (IN em+)
+                                          (NP 
+                                            (PRP este)
+                                            (NN caso)))
+                                        (,)
+                                        (NP 
+                                          (DT o)
+                                          (_EC_ ex-)
+                                          (NN governador)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NNP S�o_Paulo))))
+                                        (VP 
+                                          (VBP renuncie))
+                                        (PP 
+                                          (IN a+)
+                                          (NP 
+                                            (DT a)
+                                            (NN candidatura)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT o)
+                                                (NNP PMDB)))))))
+                        (.)))

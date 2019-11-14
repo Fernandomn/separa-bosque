@@ -1,119 +1,77 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Montoro)
-    )
-    (VP 
-      (VBP disse)
-    )
-    (VP 
-      (IN que)
-      (PP 
-        (IN sobre)
-        (NP 
-          (PRP esses)
-          (NN US$)
-          (NP 
-            (CD 15)
-            (NN bilh�es)
-          )
-        )
-      )
-      (NP 
-        (DT o)
-        (NN governo)
-      )
-      (VP 
-        (VBP deixa)
-        (IN de)
-        (VB pagar)
-      )
-      (NP 
-        (NP 
-          (NN US$)
-          (NP 
-            (CD 1,5)
-            (NN bilh�o)
-          )
-          (PP 
-            (IN $/)
-            (NP 
-              (NN ano)
-            )
-          )
-          (PP 
-            (IN de)
-            (NP 
-              (NN juros)
-              (ADJP 
-                (JJ anuais)
-              )
-            )
-          )
-        )
-        (,)
-        (CC mais)
-        (NP 
-          (NN US$)
-          (NP 
-            (CD 1,5)
-            (NN bilh�o)
-          )
-          (PP 
-            (IN $/)
-            (NP 
-              (NN ano)
-            )
-          )
-          (PP 
-            (IN em)
-            (NP 
-              (NN amortiza��es)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN d�vidas)
-                )
-              )
-            )
-          )
-        )
-        (CC e)
-        (NP 
-          (PRP mais)
-          (NN US$)
-          (NP 
-            (CD 2)
-            (NN bilh�es)
-          )
-          (PP 
-            (IN $/)
-            (NP 
-              (NN ano)
-            )
-          )
-          (PP 
-            (IN em)
-            (NP 
-              (NN aportes)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN capitais)
-                  (PP 
-                    (IN a+)
-                    (NP 
-                      (DT as)
-                      (NN empresas)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Montoro))
+                        (VP (VBP disse))
+                        (VP (IN que)
+                                 (PP 
+                                   (IN sobre)
+                                   (NP 
+                                     (PRP esses)
+                                     (NN US$)
+                                     (NP 
+                                       (CD 15)
+                                       (NN bilh�es))))
+                                 (NP 
+                                   (DT o)
+                                   (NN governo))
+                                 (VP (VBP deixa)
+                                       (IN de)
+                                       (VB pagar))
+                                 (_CU_ 
+                                   (NP 
+                                     (NN US$)
+                                     (NP 
+                                       (CD 1,5)
+                                       (NN bilh�o))
+                                     (PP 
+                                       (IN $/)
+                                       (NP 
+                                         (NN ano)))
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NN juros)
+                                         (ADJP 
+                                           (JJ anuais)))))
+                                   (,)
+                                   (CC mais)
+                                   (NP 
+                                     (NN US$)
+                                     (NP 
+                                       (CD 1,5)
+                                       (NN bilh�o))
+                                     (PP 
+                                       (IN $/)
+                                       (NP 
+                                         (NN ano)))
+                                     (PP 
+                                       (IN em)
+                                       (NP 
+                                         (NN amortiza��es)
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NN d�vidas))))))
+                                   (CC e)
+                                   (NP 
+                                     (PRP mais)
+                                     (NN US$)
+                                     (NP 
+                                       (CD 2)
+                                       (NN bilh�es))
+                                     (PP 
+                                       (IN $/)
+                                       (NP 
+                                         (NN ano)))
+                                     (PP 
+                                       (IN em)
+                                       (NP 
+                                         (NN aportes)
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NN capitais)
+                                             (PP 
+                                               (IN a+)
+                                               (NP 
+                                                 (DT as)
+                                                 (NN empresas))))))))))
+                        (.)))

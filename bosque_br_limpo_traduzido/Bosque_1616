@@ -1,31 +1,14 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Maradona)
-    )
-    (VP 
-      (VBP negou)
-    )
-    (ADVP 
-      (RB veementemente)
-    )
-    (NP 
-      (DT as)
-      (NN cr�ticas)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN m�e)
-          (PP 
-            (IN de)
-            (NP 
-              (NNP Franco)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Maradona))
+                        (VP (VBP negou))
+                        (ADVP (RB veementemente))
+                        (NP (DT as)
+                                (NN cr�ticas)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NN m�e)
+                                         (PP 
+                                           (IN de)
+                                           (NP 
+                                             (NNP Franco))))))
+                        (.)))

@@ -1,56 +1,30 @@
-(S 
-  (VP 
-    (PP 
-      (IN Segundo)
-      (NP 
-        (DT a)
-        (NN empresa)
-      )
-    )
-    (,)
-    (VP 
-      (VBP ser�)
-    )
-    (NP 
-      (DT o)
-      (JJ primeiro)
-      (NN alimento)
-      (VP 
-        (VP 
-          (VBN produzido)
-        )
-        (ADVP 
-          (RB totalmente)
-        )
-        (ADVP 
-          (RB atrav�s)
-          (PP 
-            (IN de)
-            (NP 
-              (NN t�cnicas)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN engenharia)
-                  (ADJP 
-                    (JJ gen�tica)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-      (PP 
-        (IN a)
-        (VP 
-          (VP 
-            (VB ser)
-            (VBN vendido)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Segundo)
+                                (NP (DT a)
+                                       (NN empresa)))
+                       (,)
+                       (VP (VBP ser�))
+                       (NP (DT o)
+                              (JJ primeiro)
+                              (NN alimento)
+                              (VP (VP 
+                                        (VBN produzido))
+                                      (ADVP 
+                                        (RB totalmente))
+                                      (ADVP 
+                                        (RB atrav�s)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN t�cnicas)
+                                            (PP 
+                                              (IN de)
+                                              (NP 
+                                                (NN engenharia)
+                                                (ADJP 
+                                                  (JJ gen�tica))))))))
+                              (PP (IN a)
+                                     (VP 
+                                       (VP 
+                                         (VB ser)
+                                         (VBN vendido)))))
+                       (.)))

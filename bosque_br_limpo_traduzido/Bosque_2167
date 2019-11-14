@@ -1,105 +1,68 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN escolha)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NN t�cnicos)
-          (NP 
-            (NP 
-              (NNP Johan_Cruyff)
-              (,)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NNP Barcelona)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NNP Espanha)
-                    )
-                  )
-                )
-              )
-              (,)
-            )
-            (CC e)
-            (NP 
-              (NNP Tel�_Santana)
-              (,)
-              (NP 
-                (NN bicampe�o)
-                (ADJP 
-                  (JJ mundial)
-                )
-                (PP 
-                  (IN por+)
-                  (NP 
-                    (DT o)
-                    (NNP S�o_Paulo)
-                  )
-                )
-              )
-              (,)
-            )
-          )
-        )
-      )
-      (ADVP 
-        (RB como)
-        (NP 
-          (NN colunistas)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NNP Folha)
-            )
-          )
-          (PP 
-            (IN durante)
-            (NP 
-              (DT a)
-              (NN Copa)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT os)
-                  (NNP EUA)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP recebeu)
-    )
-    (NP 
-      (NN elogios)
-      (PP 
-        (IN de)
-        (NP 
-          (NP ex-jogadores)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN sele��o)
-              (ADJP 
-                (JJ brasileira)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN escolha)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT os)
+                                          (NN t�cnicos)
+                                          (_CU_ 
+                                            (NP 
+                                              (NNP Johan_Cruyff)
+                                              (,)
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT o)
+                                                  (NNP Barcelona)
+                                                  (PP 
+                                                    (IN de+)
+                                                    (NP 
+                                                      (DT a)
+                                                      (NNP Espanha)))))
+                                              (,))
+                                            (CC e)
+                                            (NP 
+                                              (NNP Tel�_Santana)
+                                              (,)
+                                              (NP 
+                                                (NN bicampe�o)
+                                                (ADJP 
+                                                  (JJ mundial))
+                                                (PP 
+                                                  (IN por+)
+                                                  (NP 
+                                                    (DT o)
+                                                    (NNP S�o_Paulo))))
+                                              (,)))))
+                                 (ADVP 
+                                   (RB como)
+                                   (NP 
+                                     (NN colunistas)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT a)
+                                         (NNP Folha)))
+                                     (PP 
+                                       (IN durante)
+                                       (NP 
+                                         (DT a)
+                                         (NN Copa)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT os)
+                                             (NNP EUA))))))))
+                        (VP (VBP recebeu))
+                        (NP (NN elogios)
+                                (PP (IN de)
+                                       (NP 
+                                         (_EC_ ex-)
+                                         (NN jogadores)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT a)
+                                             (NN sele��o)
+                                             (ADJP 
+                                               (JJ brasileira)))))))
+                        (.)))

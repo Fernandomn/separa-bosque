@@ -1,33 +1,16 @@
-(S 
-  (VP 
-    (NP 
-      (NNP William_Gibson)
-    )
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (DT um)
-      (NN escritor)
-      (VP 
-        (ADVP 
-          (RB normalmente)
-        )
-        (VP 
-          (VBN associado)
-        )
-        (PP 
-          (IN a+)
-          (NP 
-            (DT a)
-            (NN fic��o)
-            (ADJP 
-              (JJ cient�fica)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP William_Gibson))
+                        (VP (VBP �))
+                        (NP (DT um)
+                               (NN escritor)
+                               (VP (ADVP 
+                                         (RB normalmente))
+                                       (VP 
+                                         (VBN associado))
+                                       (PP 
+                                         (IN a+)
+                                         (NP 
+                                           (DT a)
+                                           (NN fic��o)
+                                           (ADJP 
+                                             (JJ cient�fica))))))
+                        (.)))

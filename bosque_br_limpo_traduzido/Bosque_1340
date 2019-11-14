@@ -1,112 +1,67 @@
-(S 
-  (VP 
-    (NP 
-      (NNP S�O_PAULO)
-    )
-    (--)
-    (VP 
-      (IN Se)
-      (NP 
-        (DT o)
-        (NN leitor)
-      )
-      (NP 
-        (PRP se)
-      )
-      (VP 
-        (VBP deu)
-      )
-      (PP 
-        (IN a+)
-        (NP 
-          (DT o)
-          (NN trabalho)
-          (PP 
-            (IN de)
-            (VP 
-              (VP 
-                (VB ler)
-              )
-              (NP 
-                (PRP todas)
-                (DT as)
-                (NN repercuss�es)
-                (PP 
-                  (IN sobre)
-                  (NP 
-                    (DT o)
-                    (NN real)
-                  )
-                )
-                (VP 
-                  (VP 
-                    (VBN publicadas)
-                  )
-                  (ADVP 
-                    (RB ontem)
-                  )
-                  (PP 
-                    (IN por+)
-                    (NP 
-                      (DT a)
-                      (NNP Folha)
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    ( 
-      (VP 
-        (VBP ter�)
-        (VBN verificado)
-      )
-      (VP 
-        (IN que)
-        (,)
-        (VP 
-          (ADVP 
-            (RB como)
-          )
-          (ADVP 
-            (RB sempre)
-          )
-          (VP 
-            (VBP ocorre)
-          )
-          (PP 
-            (IN em+)
-            (NP 
-              (PRP essas)
-              (NN ocasi�es)
-            )
-          )
-        )
-      )
-      (,)
-      (VP 
-        (VBP h�)
-      )
-      (NP 
-        (NN opini�es)
-        (ADJP 
-          (JJ contr�rias)
-        )
-        (,)
-        (ADVP 
-          (ADVP 
-            (RB a_favor)
-          )
-          (CC e)
-          (ADVP 
-            (RB mais_ou_menos)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP S�O_PAULO))
+                        (--)
+                        (VP (IN Se)
+                                  (NP 
+                                    (DT o)
+                                    (NN leitor))
+                                  (NP 
+                                    (PRP se))
+                                  (VP (VBP deu))
+                                  (PP 
+                                    (IN a+)
+                                    (NP 
+                                      (DT o)
+                                      (NN trabalho)
+                                      (PP 
+                                        (IN de)
+                                        (VP 
+                                          (VP 
+                                            (VB ler))
+                                          (NP 
+                                            (PRP todas)
+                                            (DT as)
+                                            (NN repercuss�es)
+                                            (PP 
+                                              (IN sobre)
+                                              (NP 
+                                                (DT o)
+                                                (NN real)))
+                                            (VP 
+                                              (VP 
+                                                (VBN publicadas))
+                                              (ADVP 
+                                                (RB ontem))
+                                              (PP 
+                                                (IN por+)
+                                                (NP 
+                                                  (DT a)
+                                                  (NNP Folha))))))))))
+                        (, (VP (VBP ter�)
+                                 (VBN verificado))
+                           (VP (IN que)
+                                    (,)
+                                    (VP 
+                                      (ADVP 
+                                        (RB como))
+                                      (ADVP 
+                                        (RB sempre))
+                                      (VP 
+                                        (VBP ocorre))
+                                      (PP 
+                                        (IN em+)
+                                        (NP 
+                                          (PRP essas)
+                                          (NN ocasi�es)))))
+                           (,)
+                           (VP (VBP h�))
+                           (NP (NN opini�es)
+                                   (ADJP 
+                                     (JJ contr�rias))
+                                   (,)
+                                   (_CU_ 
+                                     (ADVP 
+                                       (RB a_favor))
+                                     (CC e)
+                                     (ADVP 
+                                       (RB mais_ou_menos)))))
+                        (.)))

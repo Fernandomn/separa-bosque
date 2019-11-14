@@ -1,97 +1,63 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN folhetos)
-    )
-    (VP 
-      (VBP ter�o)
-    )
-    (NP 
-      (DT uma)
-      (NN rede)
-      (PP 
-        (IN de)
-        (NP 
-          (NN distribui��o)
-        )
-      )
-      (ADJP 
-        (JJ in�dita)
-        (PP 
-          (IN at�)
-          (RB agora)
-        )
-        (PP 
-          (IN em)
-          (NP 
-            (PRP qualquer)
-            (NN campanha)
-            (ADJP 
-              (JJ institucional)
-            )
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN governo)
-              )
-            )
-          )
-        )
-      )
-      (;)
-      (UCP 
-        (NP 
-          (NN carteiros)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NNP ECT)
-              (-LCB-)
-              (NP 
-                (NNP Empresa_de_Correios_e_Tel�grafos)
-              )
-              (-RCB-)
-            )
-          )
-        )
-        (,)
-        (NP 
-          (NN ag�ncias)
-        )
-        (CC e)
-        (NP 
-          (NN postos)
-          (PP 
-            (IN de)
-            (NP 
-              (NN atendimentos)
-            )
-          )
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NNP Banco_do_Brasil)
-            )
-          )
-        )
-        (,)
-        (NP 
-          (NNP Caixa_Econ�mica_Federal)
-        )
-        (,)
-        (IN al�m_de)
-        (NP 
-          (NN postos)
-          (ADJP 
-            (JJ lot�ricos)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN folhetos))
+                        (VP (VBP ter�o))
+                        (NP (DT uma)
+                                (NN rede)
+                                (PP (IN de)
+                                       (NP 
+                                         (NN distribui��o)))
+                                (ADJP 
+                                  (JJ in�dita)
+                                  (PP 
+                                    (IN at�)
+                                    (RB agora))
+                                  (PP 
+                                    (IN em)
+                                    (NP 
+                                      (PRP qualquer)
+                                      (NN campanha)
+                                      (ADJP 
+                                        (JJ institucional))
+                                      (PP 
+                                        (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN governo))))))
+                                (;)
+                                (_CU_ 
+                                  (NP 
+                                    (NN carteiros)
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT a)
+                                        (NNP ECT)
+                                        (-LCB-)
+                                        (NP 
+                                          (NNP Empresa_de_Correios_e_Tel�grafos))
+                                        (-RCB-))))
+                                  (,)
+                                  (NP 
+                                    (NN ag�ncias))
+                                  (CC e)
+                                  (NP 
+                                    (NN postos)
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (NN atendimentos)))
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT o)
+                                        (NNP Banco_do_Brasil))))
+                                  (,)
+                                  (NP 
+                                    (NNP Caixa_Econ�mica_Federal))
+                                  (,)
+                                  (IN al�m_de)
+                                  (NP 
+                                    (NN postos)
+                                    (ADJP 
+                                      (JJ lot�ricos)))))
+                        (.)))

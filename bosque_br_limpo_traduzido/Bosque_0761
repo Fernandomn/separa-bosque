@@ -1,53 +1,30 @@
-(S 
-  (VP 
-    (PP 
-      (IN Segundo)
-      (NP 
-        (PRP ele)
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN parte)
-      (ADJP 
-        (JJ econ�mica)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN programa)
-        )
-      )
-    )
-    (VP 
-      (VBP poder�)
-      (VB ser)
-      (VBN elaborada)
-    )
-    (PP 
-      (IN por+)
-      (NP 
-        (DT o)
-        (NP ex-ministro)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NNP Fazenda)
-            (NP 
-              (NNP Gustavo_Krause)
-            )
-            (-LCB-)
-            (NP 
-              (NNP PFL-PE)
-            )
-            (-RCB-)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Segundo)
+                                 (NP (PRP ele)))
+                        (,)
+                        (NP (DT a)
+                                 (NN parte)
+                                 (ADJP 
+                                   (JJ econ�mica))
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN programa))))
+                        (VP (VBP poder�)
+                              (VB ser)
+                              (VBN elaborada))
+                        (PP (IN por+)
+                                 (NP (DT o)
+                                        (_EC_ ex-)
+                                        (NN ministro)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NNP Fazenda)
+                                            (NP 
+                                              (NNP Gustavo_Krause))
+                                            (-LCB-)
+                                            (NP 
+                                              (NNP PFL-PE))
+                                            (-RCB-)))))
+                        (.)))

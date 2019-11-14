@@ -1,115 +1,70 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN li��o)
-    )
-    (VP 
-      (VBP parece)
-    )
-    (ADJP 
-      (JJ clara)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (PRP ambos)
-        (DT os)
-        (NN casos)
-      )
-    )
-    (;)
-    (VP 
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP ser�)
-      )
-      (NP 
-        (NP 
-          (DT um)
-          (NN artif�cio)
-          (ADJP 
-            (JJ legal)
-          )
-        )
-        (CC nem)
-        (NP 
-          (DT a)
-          (NN boa_vontade)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT os)
-              (NN governos)
-            )
-          )
-        )
-      )
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (VP 
-          (VBP proteger�o)
-        )
-        (NP 
-          (NP 
-            (DT a)
-            (NN riqueza)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT os)
-                (NN poupadores)
-              )
-            )
-          )
-          (CC ou)
-          (NP 
-            (DT o)
-            (NN poder)
-            (PP 
-              (IN de)
-              (NP 
-                (NN compra)
-              )
-            )
-            (PP 
-              (IN de+)
-              (NP 
-                (DT os)
-                (NN assalariados)
-              )
-            )
-          )
-        )
-        (,)
-        (CC mas)
-        (VP 
-          (ADVP 
-            (RB sim)
-          )
-          (NP 
-            (DT um)
-            (NN ambiente)
-            (PP 
-              (IN de)
-              (NP 
-                (NN estabilidade)
-                (ADJP 
-                  (JJ econ�mica)
-                )
-                (ADJP 
-                  (JJ consistente)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                (NN li��o))
+                       (VP (VBP parece))
+                       (ADJP (JJ clara))
+                       (PP (IN em)
+                                (NP (PRP ambos)
+                                       (DT os)
+                                       (NN casos)))
+                       (;)
+                       (VP (ADVP 
+                                   (RB n�o))
+                                 (VP (VBP ser�))
+                                 (_CU_ (NP 
+                                          (DT um)
+                                          (NN artif�cio)
+                                          (ADJP 
+                                            (JJ legal)))
+                                        (CC nem)
+                                        (NP 
+                                          (DT a)
+                                          (NN boa_vontade)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT os)
+                                              (NN governos)))))
+                                 (VP 
+                                   (NP 
+                                     (PRP que))
+                                   (VP 
+                                     (VBP proteger�o))
+                                   (_CU_ 
+                                     (NP 
+                                       (DT a)
+                                       (NN riqueza)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT os)
+                                           (NN poupadores))))
+                                     (CC ou)
+                                     (NP 
+                                       (DT o)
+                                       (NN poder)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN compra)))
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT os)
+                                           (NN assalariados)))))
+                                   (,)
+                                   (CC mas)
+                                   (VP 
+                                     (ADVP 
+                                       (RB sim))
+                                     (NP 
+                                       (DT um)
+                                       (NN ambiente)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN estabilidade)
+                                           (ADJP 
+                                             (JJ econ�mica))
+                                           (ADJP 
+                                             (JJ consistente))))))))
+                       (.)))

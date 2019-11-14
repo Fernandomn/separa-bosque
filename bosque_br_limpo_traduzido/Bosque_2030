@@ -1,47 +1,28 @@
-(S 
-  (VP 
-    (VP 
-      (VBP �)
-    )
-    (ADJP 
-      (RB mais)
-      (JJ alto)
-      (ADVP 
-        (IN do_que)
-        (NP 
-          (PRP os)
-          (VP 
-            (NP 
-              (PRP que)
-            )
-            (NP 
-              (PRP se)
-            )
-            (VP 
-              (VBP dizem)
-            )
-            (UCP 
-              (ADJP 
-                (JJ ateus)
-              )
-              (CC ou)
-              (PP 
-                (IN sem)
-                (NP 
-                  (NN religi�o)
-                  (-LCB-)
-                  (NP 
-                    (CD 93)
-                    (NN %)
-                  )
-                  (-RCB-)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP �))
+                        (ADJP (RB mais)
+                                 (JJ alto)
+                                 (ADVP 
+                                   (IN do_que)
+                                   (NP 
+                                     (PRP os)
+                                     (VP 
+                                       (NP 
+                                         (PRP que))
+                                       (NP 
+                                         (PRP se))
+                                       (VP 
+                                         (VBP dizem))
+                                       (_CU_ 
+                                         (ADJP 
+                                           (JJ ateus))
+                                         (CC ou)
+                                         (PP 
+                                           (IN sem)
+                                           (NP 
+                                             (NN religi�o)
+                                             (-LCB-)
+                                             (NP 
+                                               (CD 93)
+                                               (NN %))
+                                             (-RCB-))))))))
+                        (.)))

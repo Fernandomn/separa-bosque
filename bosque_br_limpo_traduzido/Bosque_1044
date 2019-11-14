@@ -1,58 +1,33 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN frequ�ncia)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT a)
-          (NN entrega)
-          (PP 
-            (IN de)
-            (NP 
-              (NN mercadorias)
-              (PP 
-                (IN para)
-                (NP 
-                  (DT os)
-                  (NN clientes)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (ADVP 
-      (RB tamb�m)
-    )
-    (VP 
-      (VBP revela)
-    )
-    (NP 
-      (JJ grandes)
-      (NN diferen�as)
-      (PP 
-        (IN entre)
-        (NP 
-          (NP 
-            (DT as)
-            (NN empresas)
-            (�)
-            (NP 
-              (NN world_class)
-            )
-            (�)
-          )
-          (CC e)
-          (NP 
-            (DT as)
-            (NN concorrentes)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN frequ�ncia)
+                                 (PP (IN em+)
+                                        (NP 
+                                          (DT a)
+                                          (NN entrega)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN mercadorias)
+                                              (PP 
+                                                (IN para)
+                                                (NP 
+                                                  (DT os)
+                                                  (NN clientes))))))))
+                        (ADVP (RB tamb�m))
+                        (VP (VBP revela))
+                        (NP (JJ grandes)
+                                (NN diferen�as)
+                                (PP (IN entre)
+                                       (_CU_ 
+                                         (NP 
+                                           (DT as)
+                                           (NN empresas)
+                                           (�)
+                                           (NP 
+                                             (NN world_class))
+                                           (�))
+                                         (CC e)
+                                         (NP 
+                                           (DT as)
+                                           (NN concorrentes)))))
+                        (.)))

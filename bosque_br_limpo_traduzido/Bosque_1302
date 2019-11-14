@@ -1,21 +1,10 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (NNP Manchete)
-      )
-      (,)
-      (NP 
-        (NNP Gazeta)
-      )
-      (CC e)
-      (NP 
-        (NNP Bandeirantes)
-      )
-    )
-    (VP 
-      (VBP empataram)
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (NP 
+                                   (NNP Manchete))
+                                 (,)
+                                 (NP 
+                                   (NNP Gazeta))
+                                 (CC e)
+                                 (NP 
+                                   (NNP Bandeirantes)))
+                        (VP (VBP empataram))
+                        (.)))

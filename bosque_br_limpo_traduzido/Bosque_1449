@@ -1,57 +1,33 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Ele)
-    )
-    (VP 
-      (VBP disse)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT a)
-        (NNP Justi�a_do_Trabalho)
-        (PP 
-          (IN em)
-          (NP 
-            (NNP S�o_Paulo)
-          )
-        )
-      )
-      (VP 
-        (VBP havia)
-        (VBN decidido)
-      )
-      (VP 
-        (IN que)
-        (ADVP 
-          (RB n�o)
-        )
-        (VP 
-          (VBP havia)
-        )
-        (NP 
-          (NN perdas)
-          (ADJP 
-            (JJ salariais)
-          )
-        )
-        (PP 
-          (IN para)
-          (NP 
-            (DT os)
-            (NN metal�rgicos)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN Estado)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Ele))
+                        (VP (VBP disse))
+                        (VP (IN que)
+                                 (NP 
+                                   (DT a)
+                                   (NNP Justi�a_do_Trabalho)
+                                   (PP 
+                                     (IN em)
+                                     (NP 
+                                       (NNP S�o_Paulo))))
+                                 (VP (VBP havia)
+                                       (VBN decidido))
+                                 (VP 
+                                   (IN que)
+                                   (ADVP 
+                                     (RB n�o))
+                                   (VP 
+                                     (VBP havia))
+                                   (NP 
+                                     (NN perdas)
+                                     (ADJP 
+                                       (JJ salariais)))
+                                   (PP 
+                                     (IN para)
+                                     (NP 
+                                       (DT os)
+                                       (NN metal�rgicos)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT o)
+                                           (NN Estado)))))))
+                        (.)))

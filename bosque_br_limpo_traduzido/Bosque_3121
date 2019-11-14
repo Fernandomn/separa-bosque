@@ -1,101 +1,64 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Com_efeito)
-    )
-    (,)
-    (NP 
-      (DT os)
-      (NN estudiosos)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN mat�ria)
-        )
-      )
-    )
-    (VP 
-      (VBP afirmam)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT a)
-        (NN negocia��o)
-        (ADJP 
-          (JJ coletiva)
-        )
-        (PP 
-          (IN de)
-          (NP 
-            (NN trabalho)
-          )
-        )
-      )
-      (VP 
-        (VBP est�)
-      )
-      (VP 
-        (ADVP 
-          (RB diretamente)
-        )
-        (VP 
-          (VBN relacionada)
-        )
-        (PP 
-          (IN com)
-          (NP 
-            (DT o)
-            (NN modelo)
-            (PP 
-              (IN de)
-              (NP 
-                (NN organiza��o)
-                (ADJP 
-                  (JJ sindical)
-                )
-              )
-            )
-            (-LCB-)
-            (NP 
-              (NN cf.)
-              (NP 
-                (NNP Amauri_Mascaro_Nascimento)
-              )
-            )
-            (,)
-            (PP 
-              (IN em)
-              (NP 
-                (�)
-                (NNP Direito_Sindical)
-                (�)
-              )
-            )
-            (,)
-          )
-        )
-        (NP 
-          (NN editora)
-          (NP 
-            (NNP Saraiva)
-          )
-          (,)
-          (ADJP 
-            (CD 1989)
-          )
-          (,)
-          (NP 
-            (NN p�g.)
-            (ADJP 
-              (CD 313)
-            )
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Com_efeito))
+                        (,)
+                        (NP (DT os)
+                                 (NN estudiosos)
+                                 (PP 
+                                   (IN de+)
+                                   (NP 
+                                     (DT a)
+                                     (NN mat�ria))))
+                        (VP (VBP afirmam))
+                        (VP (IN que)
+                                 (NP 
+                                   (DT a)
+                                   (NN negocia��o)
+                                   (ADJP 
+                                     (JJ coletiva))
+                                   (PP 
+                                     (IN de)
+                                     (NP 
+                                       (NN trabalho))))
+                                 (VP (VBP est�))
+                                 (VP 
+                                   (ADVP 
+                                     (RB diretamente))
+                                   (VP 
+                                     (VBN relacionada))
+                                   (PP 
+                                     (IN com)
+                                     (NP 
+                                       (DT o)
+                                       (NN modelo)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN organiza��o)
+                                           (ADJP 
+                                             (JJ sindical))))
+                                       (-LCB-)
+                                       (NP 
+                                         (NN cf.)
+                                         (NP 
+                                           (NNP Amauri_Mascaro_Nascimento)))
+                                       (,)
+                                       (PP 
+                                         (IN em)
+                                         (NP 
+                                           (�)
+                                           (NNP Direito_Sindical)
+                                           (�)))
+                                       (,)))
+                                   (NP 
+                                     (NN editora)
+                                     (NP 
+                                       (NNP Saraiva))
+                                     (,)
+                                     (ADJP 
+                                       (CD 1989))
+                                     (,)
+                                     (NP 
+                                       (NN p�g.)
+                                       (ADJP 
+                                         (CD 313)))
+                                     (-RCB-))))
+                        (.)))

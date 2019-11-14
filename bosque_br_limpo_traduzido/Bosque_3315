@@ -1,34 +1,16 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN F�rum)
-    )
-    (ADVP 
-      (RB j�)
-    )
-    (VP 
-      (VBP tem)
-    )
-    (NP 
-      (DT os)
-      (NN pre�os)
-      (ADJP 
-        (JJ m�ximos)
-      )
-      (VP 
-        (VP 
-          (VBN pagos)
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT o)
-            (NN mercado)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN F�rum))
+                        (ADVP (RB j�))
+                        (VP (VBP tem))
+                        (NP (DT os)
+                                (NN pre�os)
+                                (ADJP 
+                                  (JJ m�ximos))
+                                (VP (VP 
+                                          (VBN pagos))
+                                        (PP 
+                                          (IN em+)
+                                          (NP 
+                                            (DT o)
+                                            (NN mercado)))))
+                        (.)))

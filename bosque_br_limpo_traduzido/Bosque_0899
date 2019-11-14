@@ -1,63 +1,34 @@
-(S 
-  (VP 
-    (ADJP 
-      (JJ Avesso)
-      (PP 
-        (IN a)
-        (NP 
-          (DT um)
-          (NN tratamento)
-          (ADJP 
-            (RB mais)
-            (JJ t�cnico)
-          )
-          (PP 
-            (IN de)
-            (NP 
-              (NN candidatos)
-            )
-          )
-        )
-      )
-    )
-    (PP 
-      (IN durante)
-      (NP 
-        (DT as)
-        (NN campanhas)
-        (ADJP 
-          (JJ eleitorais)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (NNP Covas)
-    )
-    (VP 
-      (VBP protagonizou)
-    )
-    (NP 
-      (DT a)
-      (NN mudan�a)
-      (ADJP 
-        (RB mais)
-        (JJ significativa)
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (NN hor�rio)
-        (ADJP 
-          (JJ eleitoral)
-        )
-        (ADJP 
-          (JJ gratuito)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADJP (JJ Avesso)
+                                   (PP 
+                                     (IN a)
+                                     (NP 
+                                       (DT um)
+                                       (NN tratamento)
+                                       (ADJP 
+                                         (RB mais)
+                                         (JJ t�cnico))
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN candidatos))))))
+                        (PP (IN durante)
+                                 (NP (DT as)
+                                        (NN campanhas)
+                                        (ADJP 
+                                          (JJ eleitorais))))
+                        (,)
+                        (NP (NNP Covas))
+                        (VP (VBP protagonizou))
+                        (NP (DT a)
+                                (NN mudan�a)
+                                (ADJP 
+                                  (RB mais)
+                                  (JJ significativa)))
+                        (PP (IN em+)
+                                 (NP (DT o)
+                                        (NN hor�rio)
+                                        (ADJP 
+                                          (JJ eleitoral))
+                                        (ADJP 
+                                          (JJ gratuito))))
+                        (.)))

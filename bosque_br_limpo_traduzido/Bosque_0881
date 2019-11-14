@@ -1,51 +1,28 @@
-(S 
-  (VP 
-    (VP 
-      (IN Se)
-      (VP 
-        (VBP depender)
-      )
-      (PP 
-        (IN de)
-        (NP 
-          (NN assinatura)
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VBP ter�)
-    )
-    (NP 
-      (JJ longa)
-      (NN vida)
-    )
-    (NP 
-      (DT o)
-      (NN bar-caf�)
-      (ADJP 
-        (RB todo)
-        (VBN envidra�ado)
-      )
-      (VP 
-        (NP 
-          (PRP que)
-        )
-        (VP 
-          (VBP estr�ia)
-        )
-        (NP 
-          (PRP este)
-          (NN m�s)
-        )
-        (PP 
-          (IN dentro_de+)
-          (NP 
-            (DT a)
-            (NNP Livraria_da_Vila)
-          )
-        )
-      )
-    )
-  )
-)
+(S (VP (VP (IN Se)
+                                  (VP (VBP depender))
+                                  (PP 
+                                    (IN de)
+                                    (NP 
+                                      (NN assinatura))))
+                        (,)
+                        (VP (VBP ter�))
+                        (NP (JJ longa)
+                                (NN vida))
+                        (NP (DT o)
+                                 (NN bar-caf�)
+                                 (ADJP 
+                                   (RB todo)
+                                   (VBN envidra�ado))
+                                 (VP 
+                                   (NP 
+                                     (PRP que))
+                                   (VP 
+                                     (VBP estr�ia))
+                                   (NP 
+                                     (PRP este)
+                                     (NN m�s))
+                                   (PP 
+                                     (IN dentro_de+)
+                                     (NP 
+                                       (DT a)
+                                       (NNP Livraria_da_Vila)))))))

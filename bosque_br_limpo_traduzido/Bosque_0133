@@ -1,34 +1,18 @@
-(S 
-  (ADVP 
-    (PP 
-      (IN De)
-      (NP 
-        (NNP Mario_Bernardini)
-      )
-      (,)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Fiesp)
-        )
-      )
-      (,)
-    )
-    (PP 
-      (IN sobre)
-      (NP 
-        (NP 
-          (DT a)
-          (NN sele��o)
-        )
-        (CC e)
-        (NP 
-          (DT o)
-          (NN real)
-        )
-      )
-    )
-    (;)
-  )
-)
+(S (ADVP (PP (IN De)
+                                (NP (NNP Mario_Bernardini))
+                                (,)
+                                (PP 
+                                  (IN de+)
+                                  (NP 
+                                    (DT a)
+                                    (NNP Fiesp)))
+                                (,))
+                       (PP (IN sobre)
+                                (_CU_ (NP 
+                                         (DT a)
+                                         (NN sele��o))
+                                       (CC e)
+                                       (NP 
+                                         (DT o)
+                                         (NN real))))
+                       (;)))

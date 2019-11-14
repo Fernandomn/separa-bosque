@@ -1,58 +1,33 @@
-(S 
-  (VP 
-    (NP 
-      (�)
-      (NNP Disaster_Movie)
-      (�)
-      (,)
-      (PP 
-        (IN de)
-        (ADJP 
-          (CD 1979)
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VBP foi)
-    )
-    (NP 
-      (DT uma)
-      (NN revela��o)
-    )
-    (;)
-    (VP 
-      (PP 
-        (IN apesar_de+)
-        (NP 
-          (DT a)
-          (NN produ��o)
-          (VBN apertada)
-        )
-      )
-      (,)
-      (NP 
-        (PRP esse)
-        (NN curta-metragem)
-      )
-      (VP 
-        (VBP revelava)
-      )
-      (NP 
-        (DT um)
-        (NN talento)
-        (ADVP 
-          (RB 
-            (ADVP 
-              (IN que)
-              (ADJP 
-                (JJ incontest�vel)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (�)
+                                 (NNP Disaster_Movie)
+                                 (�)
+                                 (,)
+                                 (PP 
+                                   (IN de)
+                                   (ADJP 
+                                     (CD 1979))))
+                        (,)
+                        (VP (VBP foi))
+                        (NP (DT uma)
+                               (NN revela��o))
+                        (;)
+                        (VP (PP 
+                                  (IN apesar_de+)
+                                  (NP 
+                                    (DT a)
+                                    (NN produ��o)
+                                    (VBN apertada)))
+                                (,)
+                                (NP 
+                                  (PRP esse)
+                                  (NN curta-metragem))
+                                (VP (VBP revelava))
+                                (NP (DT um)
+                                        (NN talento)
+                                        (ADVP 
+                                          (RB mais 
+                                            (ADVP 
+                                              (IN que)
+                                              (ADJP 
+                                                (JJ incontest�vel)))))))
+                        (.)))

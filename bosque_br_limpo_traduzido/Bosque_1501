@@ -1,75 +1,44 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (PRP esse)
-        (NN caso)
-      )
-    )
-    (,)
-    (VP 
-      (IN embora)
-      (NP 
-        (DT o)
-        (NN valor)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN aluguel)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN im�vel)
-              )
-            )
-          )
-        )
-      )
-      (VP 
-        (VBP fique)
-      )
-      (VBN fixo)
-      (PP 
-        (IN por)
-        (NP 
-          (CD 12)
-          (NN meses)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (PRP os)
-      (PP 
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN garagem)
-          )
-        )
-        (CC e)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN telefone)
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP podem)
-      (VB ser)
-      (VBN reajustados)
-    )
-    (ADVP 
-      (RB at�_mesmo)
-      (RB mensalmente)
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (PRP esse)
+                                        (NN caso)))
+                        (,)
+                        (VP (IN embora)
+                                  (NP 
+                                    (DT o)
+                                    (NN valor)
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT o)
+                                        (NN aluguel)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN im�vel))))))
+                                  (VP (VBP fique))
+                                  (VBN fixo)
+                                  (PP 
+                                    (IN por)
+                                    (NP 
+                                      (CD 12)
+                                      (NN meses))))
+                        (,)
+                        (NP (PRP os)
+                                 (_CU_ (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NN garagem)))
+                                        (CC e)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN telefone)))))
+                        (VP (VBP podem)
+                              (VB ser)
+                              (VBN reajustados))
+                        (ADVP (RB at�_mesmo)
+                                   (RB mensalmente))
+                        (.)))

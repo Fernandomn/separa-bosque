@@ -1,70 +1,42 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (DT O)
-        (NN prefeito)
-        (PP 
-          (IN de)
-          (NP 
-            (NNP S�o_Paulo)
-          )
-        )
-        (,)
-        (NP 
-          (NNP Paulo_Maluf)
-          (-LCB-)
-          (NP 
-            (NNP PPR)
-          )
-          (-RCB-)
-        )
-        (,)
-      )
-      (CC e)
-      (NP 
-        (DT o)
-        (NN candidato)
-        (VBN derrotado)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NNP PMDB)
-          )
-        )
-        (PP 
-          (IN a+)
-          (NP 
-            (DT a)
-            (NN Presid�ncia)
-          )
-        )
-        (,)
-        (NP 
-          (NNP Orestes_Qu�rcia)
-        )
-        (,)
-      )
-    )
-    (ADVP 
-      (RB tamb�m)
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP quiseram)
-    )
-    (VP 
-      (VP 
-        (VB comentar)
-      )
-      (NP 
-        (DT o)
-        (NN resultado)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (NP 
+                                   (DT O)
+                                   (NN prefeito)
+                                   (PP 
+                                     (IN de)
+                                     (NP 
+                                       (NNP S�o_Paulo)))
+                                   (,)
+                                   (NP 
+                                     (NNP Paulo_Maluf)
+                                     (-LCB-)
+                                     (NP 
+                                       (NNP PPR))
+                                     (-RCB-))
+                                   (,))
+                                 (CC e)
+                                 (NP 
+                                   (DT o)
+                                   (NN candidato)
+                                   (VBN derrotado)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT o)
+                                       (NNP PMDB)))
+                                   (PP 
+                                     (IN a+)
+                                     (NP 
+                                       (DT a)
+                                       (NN Presid�ncia)))
+                                   (,)
+                                   (NP 
+                                     (NNP Orestes_Qu�rcia))
+                                   (,)))
+                        (ADVP (RB tamb�m))
+                        (ADVP (RB n�o))
+                        (VP (VBP quiseram))
+                        (VP (VP (VB comentar))
+                                 (NP 
+                                   (DT o)
+                                   (NN resultado)))
+                        (.)))

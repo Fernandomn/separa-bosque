@@ -1,62 +1,36 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN sindicatos)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NN metal�rgicos)
-          (PP 
-            (PP 
-              (IN de)
-              (NP 
-                (NNP Betim)
-                (-LCB-)
-                (NP 
-                  (NNP MG)
-                )
-                (-RCB-)
-              )
-            )
-            (,)
-            (PP 
-              (IN de)
-              (NP 
-                (NNP Ribeir�o_Preto)
-                (-LCB-)
-                (NP 
-                  (NNP SP)
-                )
-                (-RCB-)
-              )
-            )
-            (CC e)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (NNP Bahia)
-              )
-            )
-          )
-        )
-      )
-    )
-    (ADVP 
-      (RB tamb�m)
-    )
-    (VP 
-      (VBP s�o)
-    )
-    (PP 
-      (IN de+)
-      (NP 
-        (DT a)
-        (NN tend�ncia)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN sindicatos)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT os)
+                                          (NN metal�rgicos)
+                                          (_CU_ 
+                                            (PP 
+                                              (IN de)
+                                              (NP 
+                                                (NNP Betim)
+                                                (-LCB-)
+                                                (NP 
+                                                  (NNP MG))
+                                                (-RCB-)))
+                                            (,)
+                                            (PP 
+                                              (IN de)
+                                              (NP 
+                                                (NNP Ribeir�o_Preto)
+                                                (-LCB-)
+                                                (NP 
+                                                  (NNP SP))
+                                                (-RCB-)))
+                                            (CC e)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT a)
+                                                (NNP Bahia)))))))
+                        (ADVP (RB tamb�m))
+                        (VP (VBP s�o))
+                        (PP (IN de+)
+                               (NP (DT a)
+                                      (NN tend�ncia)))
+                        (.)))

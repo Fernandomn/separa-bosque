@@ -1,61 +1,32 @@
-(S 
-  (VP 
-    (NP 
-      (NN Pe�as)
-      (PP 
-        (IN de)
-        (NP 
-          (NN mobili�rio)
-          (VP 
-            (VP 
-              (VBN feito)
-            )
-            (PP 
-              (IN a+)
-              (NP 
-                (DT a)
-                (NN m�o)
-              )
-            )
-          )
-        )
-      )
-      (,)
-      (VP 
-        (VP 
-          (VBN usadas)
-        )
-        (PP 
-          (IN em)
-          (NP 
-            (NN decora��o)
-          )
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP podem)
-      (VB 
-        (VBN encontradas)
-      )
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NN leil�o)
-      )
-    )
-    (PP 
-      (IN por)
-      (NP 
-        (RB at�)
-        (NN US$)
-        (NP 
-          (CD 15)
-          (NN mil)
-        )
-      )
-    )
-  )
-)
+(S (VP (NP (NN Pe�as)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NN mobili�rio)
+                                          (VP 
+                                            (VP 
+                                              (VBN feito))
+                                            (PP 
+                                              (IN a+)
+                                              (NP 
+                                                (DT a)
+                                                (NN m�o))))))
+                                 (,)
+                                 (VP 
+                                   (VP 
+                                     (VBN usadas))
+                                   (PP 
+                                     (IN em)
+                                     (NP 
+                                       (NN decora��o))))
+                                 (,))
+                        (VP (VBP podem)
+                              (VB ser 
+                                (VBN encontradas)))
+                        (PP (IN em)
+                                 (NP (NN leil�o)))
+                        (PP (IN por)
+                                 (NP (RB at�)
+                                        (NN US$)
+                                        (NP 
+                                          (CD 15)
+                                          (NN mil))))))

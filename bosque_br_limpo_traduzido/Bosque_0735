@@ -1,39 +1,20 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NNP IRLF)
-    )
-    (VP 
-      (VBP condena)
-    )
-    (ADVP 
-      (RB ainda)
-    )
-    (NP 
-      (NP 
-        (DT a)
-        (NN eutan�sia)
-      )
-      (CC e)
-      (NP 
-        (DT os)
-        (NN m�todos)
-        (ADJP 
-          (JJ contraceptivos)
-        )
-        (ADJP 
-          (RB n�o)
-          (JJ naturais)
-          (,)
-          (NP 
-            (RB inclusive)
-            (DT a)
-            (NN p�lula)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NNP IRLF))
+                        (VP (VBP condena))
+                        (ADVP (RB ainda))
+                        (_CU_ (NP (DT a)
+                                        (NN eutan�sia))
+                                (CC e)
+                                (NP (DT os)
+                                        (NN m�todos)
+                                        (ADJP 
+                                          (JJ contraceptivos))
+                                        (ADJP 
+                                          (RB n�o)
+                                          (JJ naturais)
+                                          (,)
+                                          (NP 
+                                            (RB inclusive)
+                                            (DT a)
+                                            (NN p�lula)))))
+                        (.)))

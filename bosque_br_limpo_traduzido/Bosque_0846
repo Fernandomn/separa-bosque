@@ -1,58 +1,32 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Deve-)
-    )
-    (NP 
-      (PRP se)
-    )
-    (VP 
-      (VB usar)
-    )
-    (NP 
-      (NP 
-        (NN pedras)
-        (-LCB-)
-        (NP 
-          (NP 
-            (NN pedra)
-            (NP 
-              (NN goi�s)
-            )
-          )
-          (CC e)
-          (NP 
-            (NN ard�sias)
-          )
-        )
-        (-RCB-)
-      )
-      (,)
-      (NP 
-        (NN madeiras)
-        (ADJP 
-          (JJ n�o-brilhantes)
-        )
-        (-LCB-)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP riscam)
-          )
-          (ADVP 
-            (RB facilmente)
-          )
-        )
-        (-RCB-)
-        (CC e)
-        (NP 
-          (NN cer�micas)
-          (VBN n�o-esmaltadas)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Deve-))
+                        (NP (PRP se))
+                        (VP (VB usar))
+                        (_CU_ (NP (NN pedras)
+                                        (-LCB-)
+                                        (_CU_ 
+                                          (NP 
+                                            (NN pedra)
+                                            (NP 
+                                              (NN goi�s)))
+                                          (CC e)
+                                          (NP 
+                                            (NN ard�sias)))
+                                        (-RCB-))
+                                (,)
+                                (NP (NN madeiras)
+                                        (ADJP 
+                                          (JJ n�o-brilhantes))
+                                        (-LCB-)
+                                        (VP 
+                                          (NP 
+                                            (PRP que))
+                                          (VP 
+                                            (VBP riscam))
+                                          (ADVP 
+                                            (RB facilmente)))
+                                        (-RCB-)
+                                        (CC e)
+                                        (NP 
+                                          (NN cer�micas)
+                                          (VBN n�o-esmaltadas))))
+                        (.)))

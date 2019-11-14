@@ -1,52 +1,29 @@
-(S 
-  (VP 
-    (VP 
-      (�)
-      (NP 
-        (DT O)
-        (NN v�deo)
-      )
-      (VP 
-        (VBP �)
-      )
-      (NP 
-        (DT uma)
-        (NN experi�ncia)
-        (ADJP 
-          (JJ f�sica)
-        )
-      )
-    )
-    (,)
-    (VP 
-      (-LCB-)
-      (...)
-      (-RCB-)
-      (VP 
-        (VBP tem)
-      )
-      (NP 
-        (DT um)
-        (NN efeito)
-        (ADJP 
-          (JJ direto)
-        )
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT os)
-          (NN corpos)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT as)
-              (NN pessoas)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (�)
+                                (NP 
+                                  (DT O)
+                                  (NN v�deo))
+                                (VP (VBP �))
+                                (NP (DT uma)
+                                       (NN experi�ncia)
+                                       (ADJP 
+                                         (JJ f�sica))))
+                       (,)
+                       (VP (-LCB-)
+                                (...)
+                                (-RCB-)
+                                (VP (VBP tem))
+                                (NP (DT um)
+                                        (NN efeito)
+                                        (ADJP 
+                                          (JJ direto)))
+                                (PP 
+                                  (IN em+)
+                                  (NP 
+                                    (DT os)
+                                    (NN corpos)
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT as)
+                                        (NN pessoas))))))
+                       (.)))

@@ -1,50 +1,29 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Conquistou)
-    )
-    (NP 
-      (DT o)
-      (NN t�tulo)
-      (ADJP 
-        (JJ mundial)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (PRP este)
-          (NN ano)
-        )
-      )
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (DT a)
-        (NN sele��o)
-        (PP 
-          (IN de)
-          (NP 
-            (PRP seu)
-            (NN pa�s)
-          )
-        )
-        (,)
-        (NP 
-          (DT o)
-          (�)
-          (NNP Dream_Team)
-          (�)
-          (-LCB-)
-          (NP 
-            (NNP Time_dos_Sonhos)
-          )
-          (-RCB-)
-          (ADJP 
-            (CD 2)
-          )
-        )
-      )
-    )
-  )
-)
+(S (VP (VP (VBP Conquistou))
+                        (NP (DT o)
+                                (NN t�tulo)
+                                (ADJP 
+                                  (JJ mundial))
+                                (PP (IN de+)
+                                       (NP 
+                                         (PRP este)
+                                         (NN ano))))
+                        (PP (IN com)
+                                 (NP (DT a)
+                                        (NN sele��o)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (PRP seu)
+                                            (NN pa�s)))
+                                        (,)
+                                        (NP 
+                                          (DT o)
+                                          (�)
+                                          (NNP Dream_Team)
+                                          (�)
+                                          (-LCB-)
+                                          (NP 
+                                            (NNP Time_dos_Sonhos))
+                                          (-RCB-)
+                                          (ADJP 
+                                            (CD 2)))))))

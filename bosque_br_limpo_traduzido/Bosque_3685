@@ -1,53 +1,29 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN dados)
-      (VP 
-        (VP 
-          (VBN detalhados)
-        )
-        (PP 
-          (IN sobre)
-          (NP 
-            (DT o)
-            (NN desempenho)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NNP PIB)
-              )
-            )
-            (PP 
-              (IN entre)
-              (NP 
-                (NP 
-                  (NN outubro)
-                )
-                (CC e)
-                (NP 
-                  (NN dezembro)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (VP 
-      (VBP ser�o)
-      (VBN revelados)
-    )
-    (PP 
-      (IN at�)
-      (NP 
-        (NN mar�o)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN dados)
+                                 (VP 
+                                   (VP 
+                                     (VBN detalhados))
+                                   (PP 
+                                     (IN sobre)
+                                     (NP 
+                                       (DT o)
+                                       (NN desempenho)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT o)
+                                           (NNP PIB)))
+                                       (PP 
+                                         (IN entre)
+                                         (_CU_ 
+                                           (NP 
+                                             (NN outubro))
+                                           (CC e)
+                                           (NP 
+                                             (NN dezembro))))))))
+                        (ADVP (RB n�o))
+                        (VP (VBP ser�o)
+                              (VBN revelados))
+                        (PP (IN at�)
+                                 (NP (NN mar�o)))
+                        (.)))

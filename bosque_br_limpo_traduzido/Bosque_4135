@@ -1,36 +1,16 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (PRP Alguns)
-        (NN tenistas)
-      )
-      (VP 
-        (VBP s�o)
-      )
-      (ADVP 
-        (RB assim)
-      )
-    )
-    (,)
-    (VP 
-      (VP 
-        (VBP usam)
-      )
-      (NP 
-        (PRP sua)
-        (NN carga)
-        (ADJP 
-          (JJ emocional)
-        )
-      )
-      (ADVP 
-        (RB como)
-        (NP 
-          (NN combust�vel)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (PRP Alguns)
+                                  (NN tenistas))
+                                (VP (VBP s�o))
+                                (ADVP 
+                                  (RB assim)))
+                       (,)
+                       (VP (VP (VBP usam))
+                                (NP (PRP sua)
+                                        (NN carga)
+                                        (ADJP 
+                                          (JJ emocional)))
+                                (ADVP (RB como)
+                                        (NP 
+                                          (NN combust�vel))))
+                       (.)))

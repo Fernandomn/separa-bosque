@@ -1,53 +1,29 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN produtor)
-    )
-    (VP 
-      (VBP iniciou)
-    )
-    (NP 
-      (DT a)
-      (NN colheita)
-    )
-    (,)
-    (PP 
-      (IN em)
-      (NP 
-        (NN fevereiro)
-        (VBN passado)
-      )
-    )
-    (,)
-    (NP 
-      (PP 
-        (IN de)
-        (NP 
-          (NP 
-            (CD 170)
-            (NN hectares)
-            (PP 
-              (IN de)
-              (NP 
-                (NN amendoim)
-              )
-            )
-          )
-          (CC e)
-          (NP 
-            (CD 240)
-            (NN hectares)
-            (PP 
-              (IN de)
-              (NP 
-                (NN soja)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN produtor))
+                        (VP (VBP iniciou))
+                        (NP (DT a)
+                                 (NN colheita))
+                        (,)
+                        (PP (IN em)
+                                 (NP (NN fevereiro)
+                                        (VBN passado)))
+                        (,)
+                        (NP (PP 
+                                   (IN de)
+                                   (_CU_ 
+                                     (NP 
+                                       (CD 170)
+                                       (NN hectares)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN amendoim))))
+                                     (CC e)
+                                     (NP 
+                                       (CD 240)
+                                       (NN hectares)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN soja)))))))
+                        (.)))

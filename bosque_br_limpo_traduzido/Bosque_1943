@@ -1,80 +1,50 @@
-(S 
-  (VP 
-    (NP 
-      (DT Um)
-      (NN amigo)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN fam�lia)
-        )
-      )
-    )
-    (VP 
-      (VBP ligou)
-    )
-    (PP 
-      (IN para)
-      (VP 
-        (VP 
-          (VB informar)
-        )
-        (PP 
-          (IN sobre)
-          (NP 
-            (DT o)
-            (NN estado)
-            (PP 
-              (IN de)
-              (NP 
-                (NN sa�de)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (NN irm�o)
-                    (PP 
-                      (IN de+)
-                      (NP 
-                        (DT o)
-                        (NP ex-presidente)
-                      )
-                    )
-                    (,)
-                    (NP 
-                      (NNP Pedro_Collor)
-                    )
-                    (,)
-                    (VP 
-                      (NP 
-                        (PRP que)
-                      )
-                      (VP 
-                        (VBP est�)
-                      )
-                      (PP 
-                        (IN sob)
-                        (NP 
-                          (NN tratamento)
-                        )
-                      )
-                      (PP 
-                        (IN em+)
-                        (NP 
-                          (DT os)
-                          (NNP Estados_Unidos)
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Um)
+                                 (NN amigo)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN fam�lia))))
+                        (VP (VBP ligou))
+                        (PP (IN para)
+                                 (VP 
+                                   (VP 
+                                     (VB informar))
+                                   (PP 
+                                     (IN sobre)
+                                     (NP 
+                                       (DT o)
+                                       (NN estado)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN sa�de)
+                                           (PP 
+                                             (IN de+)
+                                             (NP 
+                                               (DT o)
+                                               (NN irm�o)
+                                               (PP 
+                                                 (IN de+)
+                                                 (NP 
+                                                   (DT o)
+                                                   (_EC_ ex-)
+                                                   (NN presidente)))
+                                               (,)
+                                               (NP 
+                                                 (NNP Pedro_Collor))
+                                               (,)
+                                               (VP 
+                                                 (NP 
+                                                   (PRP que))
+                                                 (VP 
+                                                   (VBP est�))
+                                                 (PP 
+                                                   (IN sob)
+                                                   (NP 
+                                                     (NN tratamento)))
+                                                 (PP 
+                                                   (IN em+)
+                                                   (NP 
+                                                     (DT os)
+                                                     (NNP Estados_Unidos))))))))))))
+                        (.)))

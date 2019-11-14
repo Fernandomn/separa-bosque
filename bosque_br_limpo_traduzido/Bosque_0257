@@ -1,58 +1,32 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN matem�tica)
-    )
-    (ADVP 
-      (RB ainda)
-    )
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (DT o)
-      (�)
-      (NN bicho)
-      (PP 
-        (IN de)
-        (NP 
-          (CD sete)
-          (NN cabe�as)
-        )
-      )
-      (�)
-    )
-    (PP 
-      (IN para)
-      (NP 
-        (JJ grande)
-        (NN parte)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT os)
-            (NN estudantes)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (ADJP 
-                  (ADJP 
-                    (JJ 1�.)
-                  )
-                  (CC e)
-                  (ADJP 
-                    (JJ 2�.)
-                  )
-                )
-                (NN graus)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                (NN matem�tica))
+                       (ADVP (RB ainda))
+                       (VP (VBP �))
+                       (NP (DT o)
+                              (�)
+                              (NN bicho)
+                              (PP (IN de)
+                                     (NP 
+                                       (CD sete)
+                                       (NN cabe�as)))
+                              (�))
+                       (PP (IN para)
+                                (NP (JJ grande)
+                                       (NN parte)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT os)
+                                           (NN estudantes)
+                                           (PP 
+                                             (IN de+)
+                                             (NP 
+                                               (DT o)
+                                               (_CU_ 
+                                                 (ADJP 
+                                                   (JJ 1�.))
+                                                 (CC e)
+                                                 (ADJP 
+                                                   (JJ 2�.)))
+                                               (NN graus)))))))
+                       (.)))

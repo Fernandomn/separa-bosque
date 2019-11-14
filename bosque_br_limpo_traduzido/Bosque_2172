@@ -1,25 +1,9 @@
-(S 
-  (VP 
-    (NP 
-      (NN Censura)
-      (PP 
-        (IN a)
-        (NP 
-          (NN filme)
-        )
-      )
-    )
-    (VP 
-      (VBP impede)
-    )
-    (NP 
-      (NN presen�a)
-      (PP 
-        (IN de)
-        (NP 
-          (NNP Yimou)
-        )
-      )
-    )
-  )
-)
+(S (VP (NP (NN Censura)
+                                 (PP (IN a)
+                                        (NP 
+                                          (NN filme))))
+                        (VP (VBP impede))
+                        (NP (NN presen�a)
+                                (PP (IN de)
+                                       (NP 
+                                         (NNP Yimou))))))

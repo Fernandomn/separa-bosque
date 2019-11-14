@@ -1,64 +1,34 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em)
-      (NP 
-        (NNP Cingapura)
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN pena)
-      (PP 
-        (IN de)
-        (VBN chibatadas)
-      )
-    )
-    (VP 
-      (VBP �)
-    )
-    (ADJP 
-      (JJ obrigat�ria)
-    )
-    (PP 
-      (IN para)
-      (NP 
-        (NN tentativa)
-        (PP 
-          (IN de)
-          (NP 
-            (NP 
-              (NN homic�dio)
-            )
-            (,)
-            (NP 
-              (NN roubo)
-            )
-            (,)
-            (NP 
-              (NN estupro)
-            )
-            (,)
-            (NP 
-              (NN tr�fico)
-              (PP 
-                (IN de)
-                (NP 
-                  (NP 
-                    (NN drogas)
-                  )
-                  (CC e)
-                  (NP 
-                    (NN vandalismo)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em)
+                                 (NP (NNP Cingapura)))
+                        (,)
+                        (NP (DT a)
+                                 (NN pena)
+                                 (PP (IN de)
+                                        (VBN chibatadas)))
+                        (VP (VBP �))
+                        (ADJP (JJ obrigat�ria))
+                        (PP (IN para)
+                                 (NP (NN tentativa)
+                                        (PP 
+                                          (IN de)
+                                          (_CU_ 
+                                            (NP 
+                                              (NN homic�dio))
+                                            (,)
+                                            (NP 
+                                              (NN roubo))
+                                            (,)
+                                            (NP 
+                                              (NN estupro))
+                                            (,)
+                                            (NP 
+                                              (NN tr�fico)
+                                              (PP 
+                                                (IN de)
+                                                (_CU_ 
+                                                  (NP 
+                                                    (NN drogas))
+                                                  (CC e)
+                                                  (NP 
+                                                    (NN vandalismo)))))))))
+                        (.)))

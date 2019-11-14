@@ -1,48 +1,25 @@
-(S 
-  (VP 
-    (NP 
-      (DT Um)
-      (NN s�nodo)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN Igreja)
-          (ADJP 
-            (JJ Cat�lica)
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP concluiu)
-    )
-    (ADVP 
-      (RB ontem)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT as)
-        (NN freiras)
-      )
-      (VP 
-        (VBP devem)
-        (VB ter)
-      )
-      (NP 
-        (JJ maior)
-        (NP 
-          (NP 
-            (NN poder)
-          )
-          (CC e)
-          (NP 
-            (NN responsabilidade)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Um)
+                                 (NN s�nodo)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN Igreja)
+                                          (ADJP 
+                                            (JJ Cat�lica)))))
+                        (VP (VBP concluiu))
+                        (ADVP (RB ontem))
+                        (VP (IN que)
+                                 (NP 
+                                   (DT as)
+                                   (NN freiras))
+                                 (VP (VBP devem)
+                                       (VB ter))
+                                 (NP 
+                                   (JJ maior)
+                                   (_CU_ 
+                                     (NP 
+                                       (NN poder))
+                                     (CC e)
+                                     (NP 
+                                       (NN responsabilidade)))))
+                        (.)))

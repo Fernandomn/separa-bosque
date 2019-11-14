@@ -1,35 +1,19 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN �ndice)
-    )
-    (VP 
-      (VBP deve)
-      (VB aumentar)
-    )
-    (,)
-    (PP 
-      (IN segundo)
-      (NP 
-        (CD 45)
-        (NN $%)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT os)
-            (VBN entrevistados)
-          )
-        )
-      )
-      (PP 
-        (IN por+)
-        (NP 
-          (DT o)
-          (NNP DataFolha)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN �ndice))
+                        (VP (VBP deve)
+                              (VB aumentar))
+                        (,)
+                        (PP (IN segundo)
+                                 (NP (CD 45)
+                                        (NN $%)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT os)
+                                            (VBN entrevistados))))
+                                 (PP 
+                                   (IN por+)
+                                   (NP 
+                                     (DT o)
+                                     (NNP DataFolha))))
+                        (.)))

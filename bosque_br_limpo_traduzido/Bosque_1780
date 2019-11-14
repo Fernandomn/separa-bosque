@@ -1,32 +1,17 @@
-(S 
-  (ADVP 
-    (ADVP 
-      (RB Parte)
-    )
-    (VP 
-      (IN porque)
-      (NP 
-        (DT o)
-        (NNP Palmeiras)
-      )
-      (VP 
-        (VBP jogou)
-      )
-      (PP 
-        (IN com)
-        (NP 
-          (NP 
-            (JJ extremo)
-            (NN empenho)
-          )
-          (CC e)
-          (NP 
-            (JJ raro)
-            (NN talento)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (ADVP (ADVP (RB Parte))
+                        (VP (IN porque)
+                                  (NP 
+                                    (DT o)
+                                    (NNP Palmeiras))
+                                  (VP (VBP jogou))
+                                  (PP 
+                                    (IN com)
+                                    (_CU_ 
+                                      (NP 
+                                        (JJ extremo)
+                                        (NN empenho))
+                                      (CC e)
+                                      (NP 
+                                        (JJ raro)
+                                        (NN talento)))))
+                        (.)))

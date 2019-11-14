@@ -1,62 +1,35 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN legisla��o)
-    )
-    (VP 
-      (VBP prev�)
-    )
-    (NP 
-      (NN multa)
-      (PP 
-        (IN de)
-        (NP 
-          (CD 300)
-          (NN %)
-          (PP 
-            (IN sobre)
-            (NP 
-              (DT o)
-              (NN valor)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT a)
-                  (NN venda)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (PP 
-      (IN para)
-      (VP 
-        (NP 
-          (PRP quem)
-        )
-        (NP 
-          (PRP se)
-        )
-        (VP 
-          (VBP recusar)
-        )
-        (PP 
-          (IN a)
-          (VP 
-            (VP 
-              (VB emitir)
-            )
-            (NP 
-              (DT a)
-              (NN nota)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN legisla��o))
+                        (VP (VBP prev�))
+                        (NP (NN multa)
+                                (PP (IN de)
+                                       (NP 
+                                         (CD 300)
+                                         (NN %)
+                                         (PP 
+                                           (IN sobre)
+                                           (NP 
+                                             (DT o)
+                                             (NN valor)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT a)
+                                                 (NN venda))))))))
+                        (PP (IN para)
+                                 (VP 
+                                   (NP 
+                                     (PRP quem))
+                                   (NP 
+                                     (PRP se))
+                                   (VP 
+                                     (VBP recusar))
+                                   (PP 
+                                     (IN a)
+                                     (VP 
+                                       (VP 
+                                         (VB emitir))
+                                       (NP 
+                                         (DT a)
+                                         (NN nota))))))
+                        (.)))

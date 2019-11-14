@@ -1,80 +1,48 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (VBG Vendendo)
-      )
-      (NP 
-        (PRP cada)
-        (NN sala)
-        (ADJP 
-          (JJ especial)
-        )
-      )
-      (PP 
-        (IN para)
-        (NP 
-          (DT um)
-          (NN patrocinador)
-          (ADJP 
-            (JJ exclusivo)
-          )
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VBP demos)
-    )
-    (PP 
-      (IN a)
-      (NP 
-        (PRP ele)
-      )
-    )
-    (NP 
-      (DT um)
-      (NN retorno)
-      (ADJP 
-        (ADVP 
-          (RB muito)
-          (RB mais)
-        )
-        (JJ palp�vel)
-      )
-      (,)
-      (PP 
-        (IN com)
-        (NP 
-          (NP 
-            (NN an�ncios)
-            (PP 
-              (IN em)
-              (NP 
-                (NN meios)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NN comunica��o)
-                  )
-                )
-              )
-            )
-          )
-          (CC e)
-          (NP 
-            (DT o)
-            (NN abatimento)
-            (PP 
-              (IN de)
-              (NP 
-                (NN impostos)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VP 
+                                          (VBG Vendendo))
+                                        (NP 
+                                          (PRP cada)
+                                          (NN sala)
+                                          (ADJP 
+                                            (JJ especial)))
+                                        (PP 
+                                          (IN para)
+                                          (NP 
+                                            (DT um)
+                                            (NN patrocinador)
+                                            (ADJP 
+                                              (JJ exclusivo)))))
+                        (,)
+                        (VP (VBP demos))
+                        (PP (IN a)
+                                (NP (PRP ele)))
+                        (NP (DT um)
+                                (NN retorno)
+                                (ADJP 
+                                  (ADVP 
+                                    (RB muito)
+                                    (RB mais))
+                                  (JJ palp�vel))
+                                (,)
+                                (PP 
+                                  (IN com)
+                                  (_CU_ 
+                                    (NP 
+                                      (NN an�ncios)
+                                      (PP 
+                                        (IN em)
+                                        (NP 
+                                          (NN meios)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN comunica��o))))))
+                                    (CC e)
+                                    (NP 
+                                      (DT o)
+                                      (NN abatimento)
+                                      (PP 
+                                        (IN de)
+                                        (NP 
+                                          (NN impostos)))))))
+                        (.)))

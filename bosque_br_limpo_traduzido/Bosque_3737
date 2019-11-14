@@ -1,47 +1,24 @@
-(S 
-  (UCP 
-    (�)
-    (VP 
-      (VP 
-        (VBP Sou)
-      )
-      (NP 
-        (DT uma)
-        (NN estrangeira)
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT a)
-          (NNP Fran�a)
-        )
-      )
-    )
-    (CC e)
-    (VP 
-      (NP 
-        (PRP voc�)
-      )
-      (VP 
-        (VBP sabe)
-      )
-      (VP 
-        (ADVP 
-          (RB como)
-        )
-        (VP 
-          (VBP s�o)
-        )
-        (NP 
-          (DT as)
-          (NN coisas)
-        )
-        (ADVP 
-          (RB aqui)
-        )
-      )
-    )
-    (.)
-    (�)
-  )
-)
+(S (_CU_ (�)
+                       (VP (VP (VBP Sou))
+                                (NP (DT uma)
+                                       (NN estrangeira))
+                                (PP 
+                                  (IN em+)
+                                  (NP 
+                                    (DT a)
+                                    (NNP Fran�a))))
+                       (CC e)
+                       (VP (NP 
+                                  (PRP voc�))
+                                (VP (VBP sabe))
+                                (VP 
+                                  (ADVP 
+                                    (RB como))
+                                  (VP (VBP s�o))
+                                  (NP 
+                                    (DT as)
+                                    (NN coisas))
+                                  (ADVP 
+                                    (RB aqui))))
+                       (.)
+                       (�)))

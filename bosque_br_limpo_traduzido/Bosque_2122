@@ -1,35 +1,19 @@
-(S 
-  (VP 
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (NP 
-        (NP 
-          (NN economista)
-        )
-        (CC e)
-        (NP 
-          (NP ex-vice-)
-          (NN presidente)
-        )
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP Banespa)
-          (-LCB-)
-          (NP 
-            (NN governo)
-            (NP 
-              (NNP Fleury)
-            )
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP �))
+                        (NP (_CU_ (NP 
+                                       (NN economista))
+                                     (CC e)
+                                     (NP 
+                                       (_EC_ ex-)
+                                       (_EC_ vice-)
+                                       (NN presidente)))
+                               (PP (IN de+)
+                                      (NP 
+                                        (DT o)
+                                        (NNP Banespa)
+                                        (-LCB-)
+                                        (NP 
+                                          (NN governo)
+                                          (NP 
+                                            (NNP Fleury)))
+                                        (-RCB-))))
+                        (.)))

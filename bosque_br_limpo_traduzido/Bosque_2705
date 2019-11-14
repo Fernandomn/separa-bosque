@@ -1,78 +1,45 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Depois)
-      (PP 
-        (IN de)
-        (VBN registrado)
-      )
-    )
-    (,)
-    (NP 
-      (NNP Queiroz)
-    )
-    (VP 
-      (VBP apresentou)
-    )
-    (NP 
-      (DT uma)
-      (JJ segunda)
-      (NN declara��o)
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT o)
-        (NNP TSE)
-        (-LCB-)
-        (NP 
-          (NNP Tribunal_Superior_Eleitoral)
-        )
-        (-RCB-)
-      )
-    )
-    (,)
-    (VP 
-      (VP 
-        (VBG acrescentando)
-      )
-      (NP 
-        (NN bens)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP alegou)
-          )
-          (VP 
-            (VP 
-              (VB ter)
-              (�)
-              (VBN esquecido)
-              (�)
-            )
-            (PP 
-              (IN em+)
-              (NP 
-                (DT os)
-                (JJ primeiros)
-                (NN pap�is)
-                (VP 
-                  (NP 
-                    (PRP que)
-                  )
-                  (VP 
-                    (VBP foram)
-                    (VBN apresentados)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Depois)
+                                   (PP 
+                                     (IN de)
+                                     (VBN registrado)))
+                        (,)
+                        (NP (NNP Queiroz))
+                        (VP (VBP apresentou))
+                        (NP (DT uma)
+                                (JJ segunda)
+                                (NN declara��o))
+                        (PP (IN a+)
+                                (NP (DT o)
+                                       (NNP TSE)
+                                       (-LCB-)
+                                       (NP 
+                                         (NNP Tribunal_Superior_Eleitoral))
+                                       (-RCB-)))
+                        (,)
+                        (VP 
+                          (VP (VBG acrescentando))
+                          (NP (NN bens)
+                                  (VP 
+                                    (NP 
+                                      (PRP que))
+                                    (VP 
+                                      (VBP alegou))
+                                    (VP 
+                                      (VP 
+                                        (VB ter)
+                                        (�)
+                                        (VBN esquecido)
+                                        (�))
+                                      (PP 
+                                        (IN em+)
+                                        (NP 
+                                          (DT os)
+                                          (JJ primeiros)
+                                          (NN pap�is)
+                                          (VP 
+                                            (NP 
+                                              (PRP que))
+                                            (VP 
+                                              (VBP foram)
+                                              (VBN apresentados)))))))))
+                        (.)))

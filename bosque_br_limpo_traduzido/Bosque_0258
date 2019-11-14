@@ -1,23 +1,11 @@
-(S 
-  (UCP 
-    (NP 
-      (NNP Uruguai)
-    )
-    (--)
-    (NP 
-      (NNP S�rgio_Abreu)
-      (-LCB-)
-      (NP 
-        (NN ministro)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT as)
-            (NNP Rela��es_Exteriores)
-          )
-        )
-      )
-      (-RCB-)
-    )
-  )
-)
+(S (_CU_ (NP (NNP Uruguai))
+                      (--)
+                      (NP (NNP S�rgio_Abreu)
+                              (-LCB-)
+                              (NP 
+                                (NN ministro)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT as)
+                                         (NNP Rela��es_Exteriores))))
+                              (-RCB-))))

@@ -1,41 +1,18 @@
-(S 
-  (UCP 
-    (VP 
-      (NP 
-        (NNP EUA)
-      )
-      (VP 
-        (VBP Lan�am)
-      )
-      (NP 
-        (NN Nave)
-      )
-      (PP 
-        (IN A+)
-        (NP 
-          (DT a)
-          (NN Lua)
-        )
-      )
-      (PP 
-        (IN Ap�s)
-        (NP 
-          (CD 21)
-          (NN Anos)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (NNP Carlos_EDUARDO_LINS_da_Silva)
-      (-LCB-)
-      (PP 
-        (IN De)
-        (NP 
-          (NNP Washington)
-        )
-      )
-      (-RCB-)
-    )
-  )
-)
+(S (_CU_ (VP (NP (NNP EUA))
+                               (VP (VBP Lan�am))
+                               (NP (NN Nave))
+                               (PP (IN A+)
+                                        (NP 
+                                          (DT a)
+                                          (NN Lua)))
+                               (PP (IN Ap�s)
+                                        (NP 
+                                          (CD 21)
+                                          (NN Anos))))
+                      (,)
+                      (NP (NNP Carlos_EDUARDO_LINS_da_Silva)
+                              (-LCB-)
+                              (PP 
+                                (IN De)
+                                (NP (NNP Washington)))
+                              (-RCB-))))

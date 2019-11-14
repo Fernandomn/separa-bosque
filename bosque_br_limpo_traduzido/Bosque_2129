@@ -1,85 +1,50 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (PRP Quem)
-      )
-      (VP 
-        (VBP prefere)
-      )
-      (NP 
-        (DT as)
-        (NN miss�es)
-        (ADJP 
-          (JJ espaciais)
-        )
-      )
-    )
-    (VP 
-      (VBP tem)
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT a)
-        (NN disposi��o)
-      )
-    )
-    (NP 
-      (RB cerca_de)
-      (CD oito)
-      (NN horas)
-      (PP 
-        (IN de)
-        (NP 
-          (NN informa��es)
-          (PP 
-            (IN sobre)
-            (NP 
-              (CD 1.600)
-              (NN miss�es)
-            )
-          )
-          (,)
-          (VP 
-            (VP 
-              (VBG incluindo)
-            )
-            (NP 
-              (NP 
-                (DT o)
-                (NN programa)
-                (NP 
-                  (NNP Apollo)
-                )
-              )
-              (CC e)
-              (NP 
-                (DT o)
-                (NN passeio)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (NN astronauta)
-                    (NP 
-                      (NNP Neil_Armstrong)
-                    )
-                  )
-                )
-                (PP 
-                  (IN em+)
-                  (NP 
-                    (DT a)
-                    (NN Lua)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (NP 
+                                    (PRP Quem))
+                                  (VP (VBP prefere))
+                                  (NP 
+                                    (DT as)
+                                    (NN miss�es)
+                                    (ADJP 
+                                      (JJ espaciais))))
+                        (VP (VBP tem))
+                        (PP (IN a+)
+                                (NP (DT a)
+                                       (NN disposi��o)))
+                        (NP (RB cerca_de)
+                                (CD oito)
+                                (NN horas)
+                                (PP (IN de)
+                                       (NP 
+                                         (NN informa��es)
+                                         (PP 
+                                           (IN sobre)
+                                           (NP 
+                                             (CD 1.600)
+                                             (NN miss�es)))
+                                         (,)
+                                         (VP 
+                                           (VP 
+                                             (VBG incluindo))
+                                           (_CU_ 
+                                             (NP 
+                                               (DT o)
+                                               (NN programa)
+                                               (NP 
+                                                 (NNP Apollo)))
+                                             (CC e)
+                                             (NP 
+                                               (DT o)
+                                               (NN passeio)
+                                               (PP 
+                                                 (IN de+)
+                                                 (NP 
+                                                   (DT o)
+                                                   (NN astronauta)
+                                                   (NP 
+                                                     (NNP Neil_Armstrong))))
+                                               (PP 
+                                                 (IN em+)
+                                                 (NP 
+                                                   (DT a)
+                                                   (NN Lua)))))))))
+                        (.)))

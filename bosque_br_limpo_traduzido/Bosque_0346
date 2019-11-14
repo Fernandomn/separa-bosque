@@ -1,78 +1,45 @@
-(S 
-  (VP 
-    (PP 
-      (IN Para)
-      (VP 
-        (VP 
-          (VB tentar)
-        )
-        (VP 
-          (VP 
-            (VB resolver)
-          )
-          (NP 
-            (DT o)
-            (NN problema)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN tr�fico)
-                (PP 
-                  (PP 
-                    (IN de)
-                    (NP 
-                      (NN drogas)
-                    )
-                  )
-                  (CC e)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NN viol�ncia)
-                    )
-                  )
-                )
-              )
-            )
-          )
-          (PP 
-            (IN em+)
-            (NP 
-              (DT o)
-              (NNP Rio_de_Janeiro)
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (NP 
-        (DT o)
-        (NN governador)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NNP Rio)
-          )
-        )
-      )
-      (CC e)
-      (NP 
-        (DT o)
-        (NNP Presidente_da_Rep�blica)
-      )
-    )
-    (VP 
-      (VBP chamaram)
-    )
-    (NP 
-      (DT o)
-      (NN Ex�rcito)
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Para)
+                                (VP (VP 
+                                          (VB tentar))
+                                        (VP 
+                                          (VP 
+                                            (VB resolver))
+                                          (NP 
+                                            (DT o)
+                                            (NN problema)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT o)
+                                                (NN tr�fico)
+                                                (_CU_ 
+                                                  (PP 
+                                                    (IN de)
+                                                    (NP 
+                                                      (NN drogas)))
+                                                  (CC e)
+                                                  (PP 
+                                                    (IN de+)
+                                                    (NP 
+                                                      (DT a)
+                                                      (NN viol�ncia)))))))
+                                          (PP 
+                                            (IN em+)
+                                            (NP 
+                                              (DT o)
+                                              (NNP Rio_de_Janeiro))))))
+                       (,)
+                       (_CU_ (NP (DT o)
+                                        (NN governador)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NNP Rio))))
+                                (CC e)
+                                (NP (DT o)
+                                        (NNP Presidente_da_Rep�blica)))
+                       (VP (VBP chamaram))
+                       (NP (DT o)
+                               (NN Ex�rcito))
+                       (.)))

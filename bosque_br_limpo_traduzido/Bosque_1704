@@ -1,35 +1,19 @@
-(S 
-  (VP 
-    (ADJP 
-      (CC Nem)
-      (ADJP 
-        (JJ simples)
-      )
-      (,)
-      (CC nem)
-      (ADJP 
-        (ADVP 
-          (RB muito)
-          (RB menos)
-        )
-        (JJ beethoveniano)
-      )
-    )
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (DT o)
-      (�)
-      (NNP Concerto_para_Violino)
-      (�)
-      (PP 
-        (IN de)
-        (NP 
-          (NNP Tchaikovski)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (CC Nem)
+                               (ADJP 
+                                 (JJ simples))
+                               (,)
+                               (CC nem)
+                               (ADJP 
+                                 (ADVP 
+                                   (RB muito)
+                                   (RB menos))
+                                 (JJ beethoveniano)))
+                        (VP (VBP �))
+                        (NP (DT o)
+                                 (�)
+                                 (NNP Concerto_para_Violino)
+                                 (�)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NNP Tchaikovski))))
+                        (.)))

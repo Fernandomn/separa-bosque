@@ -1,27 +1,12 @@
-(S 
-  (VP 
-    (NP 
-      (NN Audi�ncia)
-      (PP 
-        (IN em+)
-        (NP 
-          (DT a)
-          (NN Justi�a)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NNP Par�)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP discute)
-    )
-    (NP 
-      (NN diploma)
-    )
-  )
-)
+(S (VP (NP (NN Audi�ncia)
+                                 (PP (IN em+)
+                                        (NP 
+                                          (DT a)
+                                          (NN Justi�a)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (NNP Par�))))))
+                        (VP (VBP discute))
+                        (NP (NN diploma))))

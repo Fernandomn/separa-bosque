@@ -1,72 +1,41 @@
-(S 
-  (VP 
-    (PP 
-      (RB Ainda)
-      (IN em)
-      (NP 
-        (NN setembro)
-      )
-    )
-    (,)
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (NN final)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN m�s)
-          )
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VBP encerram-)
-    )
-    (NP 
-      (PRP se)
-    )
-    (NP 
-      (DT as)
-      (NN inscri��es)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT os)
-        (NN col�gios)
-        (NP 
-          (NP 
-            (NNP Santa_Cruz)
-            (-LCB-)
-            (PP 
-              (IN para)
-              (NP 
-                (DT a)
-                (JJ 1�)
-                (NN s�rie)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (JJ 1�)
-                    (NN grau)
-                  )
-                )
-              )
-            )
-            (-RCB-)
-          )
-          (CC e)
-          (NP 
-            (NNP Santo_Am�rico)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (RB Ainda)
+                                 (IN em)
+                                 (NP (NN setembro)))
+                        (,)
+                        (PP (IN em+)
+                                 (NP (DT o)
+                                        (NN final)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN m�s)))))
+                        (,)
+                        (VP (VBP encerram-))
+                        (NP (PRP se))
+                        (NP (DT as)
+                                 (NN inscri��es))
+                        (PP (IN em+)
+                                 (NP (DT os)
+                                        (NN col�gios)
+                                        (_CU_ 
+                                          (NP 
+                                            (NNP Santa_Cruz)
+                                            (-LCB-)
+                                            (PP 
+                                              (IN para)
+                                              (NP 
+                                                (DT a)
+                                                (JJ 1�)
+                                                (NN s�rie)
+                                                (PP 
+                                                  (IN de+)
+                                                  (NP 
+                                                    (DT o)
+                                                    (JJ 1�)
+                                                    (NN grau)))))
+                                            (-RCB-))
+                                          (CC e)
+                                          (NP 
+                                            (NNP Santo_Am�rico)))))
+                        (.)))

@@ -1,49 +1,26 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN munic�pios)
-      (PP 
-        (IN com)
-        (NP 
-          (JJ maiores)
-          (NN incid�ncias)
-        )
-      )
-    )
-    (VP 
-      (VBP s�o)
-    )
-    (NP 
-      (NP 
-        (NNP Nossa_Senhora_do_Socorro)
-        (,)
-        (PP 
-          (IN com)
-          (NP 
-            (CD 85)
-            (NN casos)
-          )
-        )
-      )
-      (,)
-      (NP 
-        (NNP Aracaju)
-        (,)
-        (NP 
-          (CD 66)
-        )
-        (,)
-      )
-      (CC e)
-      (NP 
-        (NNP Laranjeiras)
-        (,)
-        (ADJP 
-          (CD 46)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN munic�pios)
+                                 (PP (IN com)
+                                        (NP 
+                                          (JJ maiores)
+                                          (NN incid�ncias))))
+                        (VP (VBP s�o))
+                        (_CU_ (NP (NNP Nossa_Senhora_do_Socorro)
+                                       (,)
+                                       (PP 
+                                         (IN com)
+                                         (NP 
+                                           (CD 85)
+                                           (NN casos))))
+                               (,)
+                               (NP (NNP Aracaju)
+                                       (,)
+                                       (NP 
+                                         (CD 66))
+                                       (,))
+                               (CC e)
+                               (NP (NNP Laranjeiras)
+                                       (,)
+                                       (ADJP 
+                                         (CD 46))))
+                        (.)))

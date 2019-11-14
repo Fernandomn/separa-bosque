@@ -1,19 +1,5 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (NNP Palmeiras)
-      )
-      (CC e)
-      (NP 
-        (NNP Corinthians)
-      )
-    )
-    (VP 
-      (VBP treinam)
-    )
-    (ADVP 
-      (RB hoje)
-    )
-  )
-)
+(S (VP (_CU_ (NP (NNP Palmeiras))
+                                (CC e)
+                                (NP (NNP Corinthians)))
+                       (VP (VBP treinam))
+                       (ADVP (RB hoje))))

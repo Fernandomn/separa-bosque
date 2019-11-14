@@ -1,58 +1,32 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Disse)
-    )
-    (VP 
-      (IN que)
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP conseguia)
-      )
-      (VP 
-        (VP 
-          (VB vislumbrar)
-        )
-        (NP 
-          (NP 
-            (NN artif�cios)
-            (ADJP 
-              (JJ fraudulentos)
-            )
-          )
-          (CC ou)
-          (NP 
-            (NN pr�tica)
-            (PP 
-              (IN de)
-              (NP 
-                (NN peculato)
-              )
-            )
-          )
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT o)
-            (NN protocolo)
-            (VP 
-              (VP 
-                (VBN assinado)
-              )
-              (PP 
-                (IN por)
-                (NP 
-                  (NNP Qu�rcia)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Disse))
+                       (VP (IN que)
+                                (ADVP 
+                                  (RB n�o))
+                                (VP (VBP conseguia))
+                                (VP 
+                                  (VP (VB vislumbrar))
+                                  (_CU_ 
+                                    (NP 
+                                      (NN artif�cios)
+                                      (ADJP 
+                                        (JJ fraudulentos)))
+                                    (CC ou)
+                                    (NP 
+                                      (NN pr�tica)
+                                      (PP 
+                                        (IN de)
+                                        (NP 
+                                          (NN peculato)))))
+                                  (PP 
+                                    (IN em+)
+                                    (NP 
+                                      (DT o)
+                                      (NN protocolo)
+                                      (VP 
+                                        (VP 
+                                          (VBN assinado))
+                                        (PP 
+                                          (IN por)
+                                          (NP 
+                                            (NNP Qu�rcia))))))))
+                       (.)))

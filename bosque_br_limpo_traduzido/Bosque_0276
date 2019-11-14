@@ -1,17 +1,5 @@
-(S 
-  (NP 
-    (NP 
-      (NNP Folha)
-    )
-    (--)
-    (VP 
-      (NP 
-        (PRP Quem)
-      )
-      (VP 
-        (VBP vence)
-      )
-      (?)
-    )
-  )
-)
+(S (NP (NP (NNP Folha))
+                      (--)
+                      (VP (NP (PRP Quem))
+                               (VP (VBP vence))
+                               (?))))

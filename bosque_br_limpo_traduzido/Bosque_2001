@@ -1,44 +1,25 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Escrevia)
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT a)
-        (NN �poca)
-      )
-    )
-    (NP 
-      (�)
-      (NNP Um_Para�so_Perdido)
-      (�)
-      (,)
-      (NP 
-        (NN livro)
-        (PP 
-          (IN sobre)
-          (NP 
-            (DT a)
-            (NNP Amaz�nia)
-          )
-        )
-        (,)
-        (VP 
-          (VP 
-            (VBN interrompido)
-          )
-          (PP 
-            (IN com)
-            (NP 
-              (DT a)
-              (NN morte)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Escrevia))
+                        (PP (IN a+)
+                                 (NP (DT a)
+                                        (NN �poca)))
+                        (NP (�)
+                                (NNP Um_Para�so_Perdido)
+                                (�)
+                                (,)
+                                (NP 
+                                  (NN livro)
+                                  (PP 
+                                    (IN sobre)
+                                    (NP 
+                                      (DT a)
+                                      (NNP Amaz�nia)))
+                                  (,)
+                                  (VP 
+                                    (VP 
+                                      (VBN interrompido))
+                                    (PP 
+                                      (IN com)
+                                      (NP 
+                                        (DT a)
+                                        (NN morte))))))
+                        (.)))

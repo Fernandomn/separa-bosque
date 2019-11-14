@@ -1,117 +1,72 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NNP NEC)
-    )
-    (VP 
-      (VBP tem)
-    )
-    (NP 
-      (RB mais_de)
-      (CD 55)
-      (NN $%)
-      (-LCB-)
-      (NP 
-        (NN US$)
-        (NP 
-          (CD 455)
-          (NN milh�es)
-        )
-      )
-      (-RCB-)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NN contratos)
-          (VP 
-            (VP 
-              (VBN assinados)
-            )
-            (PP 
-              (IN por+)
-              (NP 
-                (DT as)
-                (NN concession�rias)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT a)
-                    (NNP Telebr�s)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VP 
-        (VBG incluindo)
-      )
-      (ADVP 
-        (RB a�)
-      )
-      (NP 
-        (NP 
-          (NP 
-            (DT a)
-            (JJ segunda)
-            (NN fase)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (NN implanta��o)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (NN sistema)
-                    (ADJP 
-                      (JJ m�vel)
-                    )
-                  )
-                )
-                (PP 
-                  (IN em)
-                  (NP 
-                    (NNP S�o_Paulo)
-                  )
-                )
-              )
-            )
-          )
-          (CC e)
-          (NP 
-            (DT a)
-            (NN terceira)
-            (PP 
-              (IN em+)
-              (NP 
-                (DT o)
-                (NNP Rio)
-              )
-            )
-          )
-        )
-        (,)
-        (VP 
-          (VP 
-            (VBN previstas)
-          )
-          (PP 
-            (IN para)
-            (ADJP 
-              (CD 94)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NNP NEC))
+                        (VP (VBP tem))
+                        (NP (RB mais_de)
+                                (CD 55)
+                                (NN $%)
+                                (-LCB-)
+                                (NP 
+                                  (NN US$)
+                                  (NP 
+                                    (CD 455)
+                                    (NN milh�es)))
+                                (-RCB-)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT os)
+                                         (NN contratos)
+                                         (VP 
+                                           (VP 
+                                             (VBN assinados))
+                                           (PP 
+                                             (IN por+)
+                                             (NP 
+                                               (DT as)
+                                               (NN concession�rias)
+                                               (PP 
+                                                 (IN de+)
+                                                 (NP 
+                                                   (DT a)
+                                                   (NNP Telebr�s)))))))))
+                        (,)
+                        (VP 
+                          (VP (VBG incluindo))
+                          (ADVP (RB a�))
+                          (NP (_CU_ (NP 
+                                          (DT a)
+                                          (JJ segunda)
+                                          (NN fase)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT a)
+                                              (NN implanta��o)
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT o)
+                                                  (NN sistema)
+                                                  (ADJP 
+                                                    (JJ m�vel))))
+                                              (PP 
+                                                (IN em)
+                                                (NP 
+                                                  (NNP S�o_Paulo))))))
+                                        (CC e)
+                                        (NP 
+                                          (DT a)
+                                          (NN terceira)
+                                          (PP 
+                                            (IN em+)
+                                            (NP 
+                                              (DT o)
+                                              (NNP Rio)))))
+                                  (,)
+                                  (VP 
+                                    (VP 
+                                      (VBN previstas))
+                                    (PP 
+                                      (IN para)
+                                      (ADJP 
+                                        (CD 94))))))
+                        (.)))

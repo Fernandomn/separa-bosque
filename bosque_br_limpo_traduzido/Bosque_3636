@@ -1,69 +1,37 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (DT o)
-        (NN mercado)
-        (ADJP 
-          (JJ futuro)
-        )
-        (PP 
-          (IN de)
-          (NP 
-            (NN d�lar)
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN expectativa)
-      (PP 
-        (IN de)
-        (NP 
-          (NN desvaloriza��o)
-          (ADJP 
-            (JJ cambial)
-          )
-          (PP 
-            (IN para)
-            (NP 
-              (NN abril)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP ficou)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (CD 42,40)
-        (NN $%)
-      )
-    )
-    (,)
-    (PP 
-      (IN contra)
-      (NP 
-        (CD 42,53)
-        (NN $%)
-        (PP 
-          (IN em+)
-          (NP 
-            (DT o)
-            (NN dia)
-            (ADJP 
-              (JJ anterior)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (DT o)
+                                        (NN mercado)
+                                        (ADJP 
+                                          (JJ futuro))
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN d�lar)))))
+                        (,)
+                        (NP (DT a)
+                                 (NN expectativa)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NN desvaloriza��o)
+                                          (ADJP 
+                                            (JJ cambial))
+                                          (PP 
+                                            (IN para)
+                                            (NP 
+                                              (NN abril))))))
+                        (VP (VBP ficou))
+                        (PP (IN em)
+                               (NP (CD 42,40)
+                                      (NN $%)))
+                        (,)
+                        (PP (IN contra)
+                                 (NP (CD 42,53)
+                                        (NN $%)
+                                        (PP 
+                                          (IN em+)
+                                          (NP 
+                                            (DT o)
+                                            (NN dia)
+                                            (ADJP 
+                                              (JJ anterior))))))
+                        (.)))

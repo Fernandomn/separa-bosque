@@ -1,34 +1,16 @@
-(S 
-  (VP 
-    (VP 
-      (VBP Promovem)
-    )
-    (NP 
-      (NP 
-        (NN saf�ris)
-        (ADJP 
-          (JJ fotogr�ficos)
-        )
-      )
-      (,)
-      (NP 
-        (NN focagem)
-        (ADJP 
-          (JJ noturna)
-        )
-        (PP 
-          (IN de)
-          (NP 
-            (NN jacar�s)
-          )
-        )
-      )
-      (CC e)
-      (NP 
-        (PRP outros)
-        (NN passeios)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP Promovem))
+                        (_CU_ (NP (NN saf�ris)
+                                        (ADJP 
+                                          (JJ fotogr�ficos)))
+                                (,)
+                                (NP (NN focagem)
+                                        (ADJP 
+                                          (JJ noturna))
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN jacar�s))))
+                                (CC e)
+                                (NP (PRP outros)
+                                        (NN passeios)))
+                        (.)))

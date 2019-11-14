@@ -1,31 +1,16 @@
-(S 
-  (VP 
-    (�)
-    (NP 
-      (NNP Olhos_de_Serpente)
-    )
-    (�)
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (DT o)
-      (NN filme)
-      (PP 
-        (IN dentro_de+)
-        (NP 
-          (DT o)
-          (NN filme)
-          (PP 
-            (IN dentro_de+)
-            (NP 
-              (DT o)
-              (NN filme)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (�)
+                        (NP (NNP Olhos_de_Serpente))
+                        (�)
+                        (VP (VBP �))
+                        (NP (DT o)
+                               (NN filme)
+                               (PP (IN dentro_de+)
+                                      (NP 
+                                        (DT o)
+                                        (NN filme)
+                                        (PP 
+                                          (IN dentro_de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN filme))))))
+                        (.)))

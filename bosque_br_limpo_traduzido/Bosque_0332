@@ -1,47 +1,23 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN governo)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN Estado)
-        )
-      )
-    )
-    (VP 
-      (VBP realizar�)
-    )
-    (NP 
-      (DT um)
-      (NN concurso)
-      (ADJP 
-        (JJ p�blico)
-      )
-    )
-    (PP 
-      (IN para)
-      (VP 
-        (VP 
-          (VB preencher)
-        )
-        (NP 
-          (CD 200)
-          (NN vagas)
-          (PP 
-            (IN de)
-            (NP 
-              (NN agente)
-              (ADJP 
-                (JJ fiscal)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                (NN governo)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN Estado))))
+                       (VP (VBP realizar�))
+                       (NP (DT um)
+                               (NN concurso)
+                               (ADJP (JJ p�blico)))
+                       (PP (IN para)
+                                (VP (VP 
+                                          (VB preencher))
+                                        (NP 
+                                          (CD 200)
+                                          (NN vagas)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN agente)
+                                              (ADJP 
+                                                (JJ fiscal)))))))
+                       (.)))

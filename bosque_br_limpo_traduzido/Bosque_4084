@@ -1,103 +1,61 @@
-(S 
-  (VP 
-    (PP 
-      (IN Segundo)
-      (NP 
-        (DT a)
-        (NN assessoria)
-        (PP 
-          (IN de)
-          (NP 
-            (NN imprensa)
-          )
-        )
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN governador)
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (NNP Fleury)
-    )
-    (ADVP 
-      (RB j�)
-    )
-    (VP 
-      (VBP pediu)
-    )
-    (NP 
-      (DT um)
-      (NN levantamento)
-      (PP 
-        (IN de)
-        (NP 
-          (NN pre�o)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT as)
-              (NN a��es)
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (ADVP 
-      (RB junto)
-      (PP 
-        (IN a)
-        (NP 
-          (NN consultores)
-          (VBN especializados)
-        )
-      )
-    )
-    (,)
-    (PP 
-      (IN para)
-      (VP 
-        (VP 
-          (VB estabelecer)
-        )
-        (NP 
-          (DT o)
-          (NN valor)
-          (NP 
-            (NN m�nimo)
-          )
-          (PP 
-            (IN de+)
-            (NP 
-              (DT as)
-              (NN a��es)
-              (,)
-              (VP 
-                (NP 
-                  (PRP que)
-                )
-                (VP 
-                  (VBP v�o)
-                  (VB ser)
-                  (VBN levadas)
-                )
-                (PP 
-                  (IN a)
-                  (NP 
-                    (NN leil�o)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Segundo)
+                                 (NP (DT a)
+                                        (NN assessoria)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN imprensa)))
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN governador)))))
+                        (,)
+                        (NP (NNP Fleury))
+                        (ADVP (RB j�))
+                        (VP (VBP pediu))
+                        (NP (DT um)
+                                (NN levantamento)
+                                (PP (IN de)
+                                       (NP 
+                                         (NN pre�o)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT as)
+                                             (NN a��es))))))
+                        (,)
+                        (ADVP (RB junto)
+                                   (PP 
+                                     (IN a)
+                                     (NP 
+                                       (NN consultores)
+                                       (VBN especializados))))
+                        (,)
+                        (PP (IN para)
+                                 (VP 
+                                   (VP 
+                                     (VB estabelecer))
+                                   (NP 
+                                     (DT o)
+                                     (NN valor)
+                                     (NP 
+                                       (NN m�nimo))
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT as)
+                                         (NN a��es)
+                                         (,)
+                                         (VP 
+                                           (NP 
+                                             (PRP que))
+                                           (VP 
+                                             (VBP v�o)
+                                             (VB ser)
+                                             (VBN levadas))
+                                           (PP 
+                                             (IN a)
+                                             (NP 
+                                               (NN leil�o)))))))))
+                        (.)))

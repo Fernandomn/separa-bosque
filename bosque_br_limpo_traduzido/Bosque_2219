@@ -1,50 +1,25 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN estrela)
-      (NP 
-        (NN s�mbolo)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP PT)
-        )
-      )
-    )
-    (VP 
-      (VBP vai)
-      (VB emoldurar)
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (NN destaque)
-      )
-    )
-    (NP 
-      (DT o)
-      (NN cen�rio)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (NN programas)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN candidato)
-              (NP 
-                (NNP Luiz_In�cio_Lula_da_Silva)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NN estrela)
+                                 (NP (NN s�mbolo))
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NNP PT))))
+                        (VP (VBP vai)
+                              (VB emoldurar))
+                        (PP (IN com)
+                                 (NP (NN destaque)))
+                        (NP (DT o)
+                                (NN cen�rio)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT os)
+                                         (NN programas)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT o)
+                                             (NN candidato)
+                                             (NP 
+                                               (NNP Luiz_In�cio_Lula_da_Silva)))))))
+                        (.)))

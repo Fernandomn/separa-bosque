@@ -1,43 +1,22 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN comportamento)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT as)
-          (NN pessoas)
-        )
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT o)
-          (NN trabalho)
-        )
-      )
-    )
-    (VP 
-      (VBP est�)
-      (VBG passando)
-    )
-    (PP 
-      (IN por)
-      (NP 
-        (DT uma)
-        (ADJP 
-          (ADJP 
-            (JJ nova)
-          )
-          (CC e)
-          (ADJP 
-            (JJ importante)
-          )
-        )
-        (NN altera��o)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN comportamento)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT as)
+                                          (NN pessoas)))
+                                 (PP (IN em+)
+                                        (NP 
+                                          (DT o)
+                                          (NN trabalho))))
+                        (VP (VBP est�)
+                              (VBG passando))
+                        (PP (IN por)
+                                (NP (DT uma)
+                                       (_CU_ 
+                                         (ADJP 
+                                           (JJ nova))
+                                         (CC e)
+                                         (ADJP 
+                                           (JJ importante)))
+                                       (NN altera��o)))
+                        (.)))

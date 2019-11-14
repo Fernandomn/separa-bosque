@@ -1,53 +1,30 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (VBP S�o)
-      )
-      (ADJP 
-        (RB mais)
-        (JJ cool)
-      )
-    )
-    (,)
-    (VP 
-      (VP 
-        (VBP falam)
-      )
-      (PP 
-        (IN de)
-        (NP 
-          (NP 
-            (NN amor)
-          )
-          (,)
-          (NP 
-            (NN crescimento)
-          )
-          (CC e)
-          (NP 
-            (NN amizade)
-          )
-        )
-      )
-      (ADVP 
-        (RB sempre)
-        (PP 
-          (IN com)
-          (NP 
-            (DT um)
-            (NN vi�s)
-            (�)
-            (VBN engajado)
-            (�)
-          )
-        )
-      )
-      (,)
-      (ADVP 
-        (RB por�m)
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (VP (VBP S�o))
+                                (ADJP 
+                                  (RB mais)
+                                  (JJ cool)))
+                       (,)
+                       (VP (VP (VBP falam))
+                                (PP (IN de)
+                                        (_CU_ 
+                                          (NP 
+                                            (NN amor))
+                                          (,)
+                                          (NP 
+                                            (NN crescimento))
+                                          (CC e)
+                                          (NP 
+                                            (NN amizade))))
+                                (ADVP 
+                                  (RB sempre)
+                                  (PP 
+                                    (IN com)
+                                    (NP 
+                                      (DT um)
+                                      (NN vi�s)
+                                      (�)
+                                      (VBN engajado)
+                                      (�))))
+                                (,)
+                                (ADVP 
+                                  (RB por�m)))
+                       (.)))

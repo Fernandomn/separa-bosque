@@ -1,87 +1,50 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NNP Nasa)
-      (-LCB-)
-      (NP 
-        (NN ag�ncia)
-        (ADJP 
-          (JJ espacial)
-        )
-        (PP 
-          (IN de+)
-          (NP 
-            (DT os)
-            (NNP EUA)
-          )
-        )
-      )
-      (-RCB-)
-    )
-    (VP 
-      (VBP encomendou)
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT a)
-        (NN empresa)
-        (NP 
-          (NNP Micro-Bac)
-        )
-      )
-    )
-    (NP 
-      (DT o)
-      (NN desenvolvimento)
-      (PP 
-        (IN de)
-        (NP 
-          (DT um)
-          (NN sistema)
-          (PP 
-            (IN de)
-            (NP 
-              (NN purifica��o)
-              (PP 
-                (IN de)
-                (NP 
-                  (NN esgoto)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VP 
-        (VBG utilizando)
-      )
-      (NP 
-        (NN bact�rias)
-        (VP 
-          (VP 
-            (VBN conhecidas)
-          )
-          (PP 
-            (IN por)
-            (VP 
-              (VP 
-                (VB devorarem)
-              )
-              (NP 
-                (NN material)
-                (ADJP 
-                  (JJ org�nico)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (NNP Nasa)
+                                 (-LCB-)
+                                 (NP 
+                                   (NN ag�ncia)
+                                   (ADJP 
+                                     (JJ espacial))
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT os)
+                                       (NNP EUA))))
+                                 (-RCB-))
+                        (VP (VBP encomendou))
+                        (PP (IN a+)
+                                (NP (DT a)
+                                       (NN empresa)
+                                       (NP 
+                                         (NNP Micro-Bac))))
+                        (NP (DT o)
+                                (NN desenvolvimento)
+                                (PP 
+                                  (IN de)
+                                  (NP 
+                                    (DT um)
+                                    (NN sistema)
+                                    (PP 
+                                      (IN de)
+                                      (NP 
+                                        (NN purifica��o)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN esgoto))))))))
+                        (VP 
+                          (VP (VBG utilizando))
+                          (NP (NN bact�rias)
+                                  (VP 
+                                    (VP 
+                                      (VBN conhecidas))
+                                    (PP 
+                                      (IN por)
+                                      (VP 
+                                        (VP 
+                                          (VB devorarem))
+                                        (NP 
+                                          (NN material)
+                                          (ADJP 
+                                            (JJ org�nico))))))))
+                        (.)))

@@ -1,63 +1,33 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (DT a)
-        (NN campanha)
-        (ADJP 
-          (JJ eleitoral)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (NP 
-        (NNP Alencar)
-      )
-      (CC e)
-      (NP 
-        (NNP Nilo)
-      )
-    )
-    (VP 
-      (VBP estiveram)
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NN lados)
-        (VBN opostos)
-      )
-    )
-    (PP 
-      (IN quanto_a+)
-      (NP 
-        (DT a)
-        (NN a��o)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT as)
-            (NNP For�as_Armadas)
-          )
-        )
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (NN combate)
-        (PP 
-          (IN a+)
-          (NP 
-            (DT o)
-            (NN crime)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (DT a)
+                                        (NN campanha)
+                                        (ADJP 
+                                          (JJ eleitoral))))
+                        (,)
+                        (_CU_ (NP 
+                                   (NNP Alencar))
+                                 (CC e)
+                                 (NP 
+                                   (NNP Nilo)))
+                        (VP (VBP estiveram))
+                        (PP (IN em)
+                               (NP (NN lados)
+                                      (VBN opostos)))
+                        (PP (IN quanto_a+)
+                                 (NP (DT a)
+                                        (NN a��o)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT as)
+                                            (NNP For�as_Armadas)))))
+                        (PP (IN em+)
+                                        (NP 
+                                          (DT o)
+                                          (NN combate)
+                                          (PP 
+                                            (IN a+)
+                                            (NP 
+                                              (DT o)
+                                              (NN crime)))))
+                        (.)))

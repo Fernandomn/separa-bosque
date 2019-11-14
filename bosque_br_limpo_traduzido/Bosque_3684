@@ -1,112 +1,72 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (VBN Divulgado)
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT a)
-          (NN semana)
-          (VBN passada)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT o)
-      (JJ fraco)
-      (NN resultado)
-      (PP 
-        (IN em)
-        (NP 
-          (NN novembro)
-        )
-      )
-      (PP 
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN produ��o)
-            (ADJP 
-              (JJ industrial)
-            )
-          )
-        )
-        (CC e)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT as)
-            (JJ novas)
-            (NN encomendas)
-            (PP 
-              (IN a+)
-              (NP 
-                (DT as)
-                (NN ind�strias)
-              )
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP acabou)
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (DT as)
-        (NN esperan�as)
-        (PP 
-          (IN de)
-          (VP 
-            (IN que)
-            (NP 
-              (DT a)
-              (NNP Alemanha)
-            )
-            (VP 
-              (VBP tivesse)
-              (VBN sa�do)
-            )
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (JJ pior)
-                (NN recess�o)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (NP p�s-guerra)
-                  )
-                )
-              )
-            )
-            (PP 
-              (IN em+)
-              (NP 
-                (DT o)
-                (JJ �ltimo)
-                (NN trimestre)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (NN ano)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VP (VBN Divulgado))
+                                  (PP 
+                                    (IN em+)
+                                    (NP 
+                                      (DT a)
+                                      (NN semana)
+                                      (VBN passada))))
+                        (,)
+                        (NP (DT o)
+                                 (JJ fraco)
+                                 (NN resultado)
+                                 (PP 
+                                   (IN em)
+                                   (NP 
+                                     (NN novembro)))
+                                 (_CU_ (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NN produ��o)
+                                            (ADJP 
+                                              (JJ industrial))))
+                                        (CC e)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT as)
+                                            (JJ novas)
+                                            (NN encomendas)
+                                            (PP 
+                                              (IN a+)
+                                              (NP 
+                                                (DT as)
+                                                (NN ind�strias)))))))
+                        (VP (VBP acabou))
+                        (PP (IN com)
+                                (NP (DT as)
+                                       (NN esperan�as)
+                                       (PP 
+                                         (IN de)
+                                         (VP 
+                                           (IN que)
+                                           (NP 
+                                             (DT a)
+                                             (NNP Alemanha))
+                                           (VP 
+                                             (VBP tivesse)
+                                             (VBN sa�do))
+                                           (PP 
+                                             (IN de+)
+                                             (NP 
+                                               (DT a)
+                                               (JJ pior)
+                                               (NN recess�o)
+                                               (PP 
+                                                 (IN de+)
+                                                 (NP 
+                                                   (DT o)
+                                                   (_EC_ p�s-)
+                                                   (NN guerra)))))
+                                           (PP 
+                                             (IN em+)
+                                             (NP 
+                                               (DT o)
+                                               (JJ �ltimo)
+                                               (NN trimestre)
+                                               (PP 
+                                                 (IN de+)
+                                                 (NP 
+                                                   (DT o)
+                                                   (NN ano)))))))))
+                        (.)))

@@ -1,118 +1,70 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (DT os)
-        (NN discursos)
-        (PP 
-          (IN de)
-          (NP 
-            (NN agradecimento)
-          )
-        )
-      )
-    )
-    (PP 
-      (IN em)
-      (NP 
-        (NP 
-          (NNP Wimbledon)
-        )
-        (CC e)
-        (NP 
-          (NNP Us_Open)
-        )
-      )
-    )
-    (,)
-    (ADVP 
-      (NN meses)
-      (RB antes)
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN alem�)
-    )
-    (VP 
-      (VBP lembrara)
-    )
-    (NP 
-      (DT o)
-      (NN p�blico)
-    )
-    (PP 
-      (IN de)
-      (VP 
-        (IN que)
-        (ADVP 
-          (RB n�o)
-        )
-        (VP 
-          (VBP ficava)
-        )
-        (ADJP 
-          (JJ feliz)
-        )
-        (PP 
-          (IN em)
-          (VP 
-            (VP 
-              (VB vencer)
-            )
-            (NP 
-              (NN torneios)
-            )
-            (PP 
-              (IN em+)
-              (NP 
-                (DT a)
-                (NN aus�ncia)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NNP Monica_Seles)
-                    (,)
-                    (VP 
-                      (VP 
-                        (VBN afastada)
-                      )
-                      (PP 
-                        (IN de+)
-                        (NP 
-                          (DT as)
-                          (NN quadras)
-                        )
-                      )
-                      (ADVP 
-                        (RB depois)
-                        (PP 
-                          (IN de)
-                          (VP 
-                            (VP 
-                              (VB ser)
-                              (VBN esfaqueada)
-                            )
-                            (PP 
-                              (IN em+)
-                              (NP 
-                                (DT a)
-                                (NN quadra)
-                              )
-                            )
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (DT os)
+                                        (NN discursos)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN agradecimento)))))
+                        (PP (IN em)
+                                        (_CU_ 
+                                          (NP 
+                                            (NNP Wimbledon))
+                                          (CC e)
+                                          (NP 
+                                            (NNP Us_Open))))
+                        (,)
+                        (ADVP (NN meses)
+                                   (RB antes))
+                        (,)
+                        (NP (DT a)
+                                 (NN alem�))
+                        (VP (VBP lembrara))
+                        (NP (DT o)
+                                (NN p�blico))
+                        (PP (IN de)
+                                (VP (IN que)
+                                        (ADVP 
+                                          (RB n�o))
+                                        (VP 
+                                          (VBP ficava))
+                                        (ADJP 
+                                          (JJ feliz))
+                                        (PP 
+                                          (IN em)
+                                          (VP 
+                                            (VP 
+                                              (VB vencer))
+                                            (NP 
+                                              (NN torneios))
+                                            (PP 
+                                              (IN em+)
+                                              (NP 
+                                                (DT a)
+                                                (NN aus�ncia)
+                                                (PP 
+                                                  (IN de)
+                                                  (NP 
+                                                    (NNP Monica_Seles)
+                                                    (,)
+                                                    (VP 
+                                                      (VP 
+                                                        (VBN afastada))
+                                                      (PP 
+                                                        (IN de+)
+                                                        (NP 
+                                                          (DT as)
+                                                          (NN quadras)))
+                                                      (ADVP 
+                                                        (RB depois)
+                                                        (PP 
+                                                          (IN de)
+                                                          (VP 
+                                                            (VP 
+                                                              (VB ser)
+                                                              (VBN esfaqueada))
+                                                            (PP 
+                                                              (IN em+)
+                                                              (NP 
+                                                                (DT a)
+                                                                (NN quadra)))))))))))))))
+                        (.)))

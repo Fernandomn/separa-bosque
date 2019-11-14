@@ -1,62 +1,36 @@
-(S 
-  (UCP 
-    (VP 
-      (NP 
-        (NN 10h45)
-      )
-      (--)
-      (NP 
-        (DT a)
-        (NN visita��o)
-        (ADJP 
-          (JJ p�blica)
-        )
-      )
-      (VP 
-        (VBP �)
-        (VBN aberta)
-      )
-    )
-    (;)
-    (VP 
-      (ADVP 
-        (RB ao_mesmo_tempo)
-      )
-      (,)
-      (NP 
-        (PRP algumas)
-        (NN ambul�ncias)
-      )
-      (VP 
-        (VBP entram)
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT o)
-          (NN p�tio)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NN assembl�ia)
-            )
-          )
-        )
-      )
-      (PP 
-        (IN para)
-        (VP 
-          (VP 
-            (VB socorrer)
-          )
-          (NP 
-            (JJ eventuais)
-            (NN emerg�ncias)
-          )
-        )
-      )
-    )
-    (;)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (NN 10h45))
+                                (--)
+                                (NP 
+                                  (DT a)
+                                  (NN visita��o)
+                                  (ADJP 
+                                    (JJ p�blica)))
+                                (VP (VBP �)
+                                      (VBN aberta)))
+                       (;)
+                       (VP (ADVP 
+                                  (RB ao_mesmo_tempo))
+                                (,)
+                                (NP 
+                                  (PRP algumas)
+                                  (NN ambul�ncias))
+                                (VP (VBP entram))
+                                (PP (IN em+)
+                                       (NP 
+                                         (DT o)
+                                         (NN p�tio)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT a)
+                                             (NN assembl�ia)))))
+                                (PP 
+                                  (IN para)
+                                  (VP 
+                                    (VP 
+                                      (VB socorrer))
+                                    (NP 
+                                      (JJ eventuais)
+                                      (NN emerg�ncias)))))
+                       (;)))

@@ -1,32 +1,15 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Hoje)
-    )
-    (NP 
-      (DT a)
-      (NN m�dia)
-      (ADJP 
-        (JJ brasileira)
-      )
-    )
-    (VP 
-      (VBP �)
-    )
-    (PP 
-      (IN de)
-      (NP 
-        (RB cerca_de)
-        (CD 1.800)
-        (NN quilos)
-        (PP 
-          (IN por)
-          (NP 
-            (NN hectare)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Hoje))
+                        (NP (DT a)
+                                 (NN m�dia)
+                                 (ADJP 
+                                   (JJ brasileira)))
+                        (VP (VBP �))
+                        (PP (IN de)
+                               (NP (RB cerca_de)
+                                      (CD 1.800)
+                                      (NN quilos)
+                                      (PP 
+                                        (IN por)
+                                        (NP 
+                                          (NN hectare)))))
+                        (.)))

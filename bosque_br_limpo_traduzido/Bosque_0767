@@ -1,35 +1,16 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (VBP Ligue)
-      )
-      (ADVP 
-        (RB imediatamente)
-      )
-      (PP 
-        (IN para)
-        (NP 
-          (DT o)
-          (NNP Procon)
-          (-LCB-)
-          (NP 
-            (NN tel._829-3055)
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (CC e)
-    (VP 
-      (VP 
-        (VBP solte)
-      )
-      (NP 
-        (DT os)
-        (NN cachorros)
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (VP (VBP Ligue))
+                                (ADVP 
+                                  (RB imediatamente))
+                                (PP (IN para)
+                                        (NP 
+                                          (DT o)
+                                          (NNP Procon)
+                                          (-LCB-)
+                                          (NP 
+                                            (NN tel._829-3055))
+                                          (-RCB-))))
+                       (CC e)
+                       (VP (VP (VBP solte))
+                                (NP (DT os)
+                                        (NN cachorros)))
+                       (.)))

@@ -1,57 +1,33 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (NNP Manoel_Carlos_Marques_Beato)
-        (,)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN restaurante)
-            (NP 
-              (NNP Fasano)
-            )
-          )
-        )
-      )
-      (CC e)
-      (NP 
-        (NNP Jos�_Sebasti�o_Figueiredo)
-        (,)
-        (NP 
-          (NP 
-            (NN sommelier)
-          )
-          (CC e)
-          (NP 
-            (NN propriet�rio)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NNP La_Bicocca)
-              )
-            )
-          )
-        )
-        (,)
-      )
-    )
-    (VP 
-      (VBP garantiram)
-    )
-    (NP 
-      (PRP suas)
-      (NN vagas)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (NNP Concurso_Brasileiro_de_Sommeliers)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (NP 
+                                   (NNP Manoel_Carlos_Marques_Beato)
+                                   (,)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT o)
+                                       (NN restaurante)
+                                       (NP 
+                                         (NNP Fasano)))))
+                                 (CC e)
+                                 (NP 
+                                   (NNP Jos�_Sebasti�o_Figueiredo)
+                                   (,)
+                                   (_CU_ 
+                                     (NP 
+                                       (NN sommelier))
+                                     (CC e)
+                                     (NP 
+                                       (NN propriet�rio)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT o)
+                                           (NNP La_Bicocca)))))
+                                   (,)))
+                        (VP (VBP garantiram))
+                        (NP (PRP suas)
+                                (NN vagas))
+                        (PP (IN em+)
+                                 (NP (DT o)
+                                        (NNP Concurso_Brasileiro_de_Sommeliers)))
+                        (.)))

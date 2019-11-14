@@ -1,89 +1,55 @@
-(S 
-  (VP 
-    (PP 
-      (IN A+)
-      (NP 
-        (DT os)
-        (NN horticultores)
-      )
-      (VP 
-        (VBP �)
-      )
-      (ADJP 
-        (JJ preciso)
-      )
-      (VP 
-        (VP 
-          (VP 
-            (VB oferecer)
-          )
-          (NP 
-            (NN informa��es)
-            (PP 
-              (IN de)
-              (NP 
-                (NN mercado)
-              )
-            )
-            (ADJP 
-              (ADJP 
-                (JJ seguras)
-              )
-              (CC e)
-              (ADJP 
-                (JJ atuais)
-              )
-            )
-          )
-          (PP 
-            (IN para)
-            (NP 
-              (DT a)
-              (NN programa��o)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT a)
-                  (NN produ��o)
-                )
-              )
-            )
-          )
-        )
-        (CC e)
-        (VP 
-          (VP 
-            (VB desenvolver)
-          )
-          (NP 
-            (JJ novas)
-            (NN alternativas)
-            (PP 
-              (IN para)
-              (NP 
-                (DT o)
-                (NP 
-                  (NP 
-                    (NN acondicionamento)
-                  )
-                  (CC e)
-                  (NP 
-                    (NN embalagem)
-                  )
-                )
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT os)
-                    (NN produtos)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN A+)
+                                (NP (DT os)
+                                       (NN horticultores))
+                                (VP (VBP �))
+                                (ADJP 
+                                  (JJ preciso))
+                                (_CU_ 
+                                  (VP 
+                                    (VP 
+                                      (VB oferecer))
+                                    (NP 
+                                      (NN informa��es)
+                                      (PP 
+                                        (IN de)
+                                        (NP 
+                                          (NN mercado)))
+                                      (_CU_ 
+                                        (ADJP 
+                                          (JJ seguras))
+                                        (CC e)
+                                        (ADJP 
+                                          (JJ atuais))))
+                                    (PP 
+                                      (IN para)
+                                      (NP 
+                                        (DT a)
+                                        (NN programa��o)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NN produ��o))))))
+                                  (CC e)
+                                  (VP 
+                                    (VP 
+                                      (VB desenvolver))
+                                    (NP 
+                                      (JJ novas)
+                                      (NN alternativas)
+                                      (PP 
+                                        (IN para)
+                                        (NP 
+                                          (DT o)
+                                          (_CU_ 
+                                            (NP 
+                                              (NN acondicionamento))
+                                            (CC e)
+                                            (NP 
+                                              (NN embalagem)))
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT os)
+                                              (NN produtos)))))))))
+                       (.)))

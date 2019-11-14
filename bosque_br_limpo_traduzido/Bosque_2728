@@ -1,66 +1,36 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (DT o)
-        (JJ �ltimo)
-        (NN dia)
-        (ADJP 
-          (CD 11)
-        )
-      )
-    )
-    (,)
-    (NP 
-      (NNP Frank_Kerr)
-      (,)
-      (ADJP 
-        (CD 53)
-      )
-      (,)
-    )
-    (VP 
-      (VBP foi)
-      (VBN morto)
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (DT um)
-        (NN tiro)
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NN cabe�a)
-      )
-    )
-    (VP 
-      (ADVP 
-        (RB quando)
-      )
-      (NP 
-        (CD tr�s)
-        (NN homens)
-      )
-      (VP 
-        (VBP assaltaram)
-      )
-      (NP 
-        (DT um)
-        (VBN posto)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN correio)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (DT o)
+                                        (JJ �ltimo)
+                                        (NN dia)
+                                        (ADJP 
+                                          (CD 11))))
+                        (,)
+                        (NP (NNP Frank_Kerr)
+                                 (,)
+                                 (ADJP 
+                                   (CD 53))
+                                 (,))
+                        (VP (VBP foi)
+                              (VBN morto))
+                        (PP (IN com)
+                                 (NP (DT um)
+                                        (NN tiro)))
+                        (PP (IN em+)
+                                        (NP 
+                                          (DT a)
+                                          (NN cabe�a)))
+                        (VP (ADVP 
+                                    (RB quando))
+                                  (NP 
+                                    (CD tr�s)
+                                    (NN homens))
+                                  (VP (VBP assaltaram))
+                                  (NP 
+                                    (DT um)
+                                    (VBN posto)
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT o)
+                                        (NN correio)))))
+                        (.)))

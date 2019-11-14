@@ -1,109 +1,69 @@
-(S 
-  (VP 
-    (VP 
-      (ADVP 
-        (RB De_fato)
-      )
-      (,)
-      (NP 
-        (DT a)
-        (NN maioria)
-        (PP 
-          (IN de)
-          (NP 
-            (PRP suas)
-            (NN hist�rias)
-          )
-        )
-      )
-      (VP 
-        (VBP acontece)
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT um)
-          (NN tempo)
-          (NP 
-            (PRP algo)
-            (PP 
-              (IN a+)
-              (NP 
-                (DT a)
-                (NN frente)
-                (PP 
-                  (IN de+)
-                  (NP 
-                    (DT o)
-                    (NN presente)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (,)
-    (CC mas)
-    (VP 
-      (NP 
-        (NNP Gibson)
-      )
-      (VP 
-        (VBP rompe)
-      )
-      (ADVP 
-        (RB completamente)
-      )
-      (PP 
-        (IN com)
-        (NP 
-          (DT a)
-          (NN id�ia)
-          (ADJP 
-            (JJ fundadora)
-          )
-          (PP 
-            (IN de+)
-            (NP 
-              (DT a)
-              (NNP FC)
-            )
-          )
-          (PP 
-            (PP 
-              (IN em+)
-              (NP 
-                (DT o)
-                (NN cinema)
-              )
-            )
-            (CC ou)
-            (PP 
-              (IN em+)
-              (NP 
-                (DT a)
-                (NN literatura)
-              )
-            )
-          )
-          (PP 
-            (IN de)
-            (NP 
-              (�)
-              (NN futuro)
-              (�)
-              (RB 
-                (NP 
-                  (NN evolu��o)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (ADVP 
+                                  (RB De_fato))
+                                (,)
+                                (NP 
+                                  (DT a)
+                                  (NN maioria)
+                                  (PP 
+                                    (IN de)
+                                    (NP 
+                                      (PRP suas)
+                                      (NN hist�rias))))
+                                (VP (VBP acontece))
+                                (PP 
+                                  (IN em+)
+                                  (NP 
+                                    (DT um)
+                                    (NN tempo)
+                                    (NP 
+                                      (PRP algo)
+                                      (PP 
+                                        (IN a+)
+                                        (NP 
+                                          (DT a)
+                                          (NN frente)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (NN presente)))))))))
+                       (,)
+                       (CC mas)
+                       (VP (NP 
+                                  (NNP Gibson))
+                                (VP (VBP rompe))
+                                (ADVP 
+                                  (RB completamente))
+                                (PP (IN com)
+                                        (NP 
+                                          (DT a)
+                                          (NN id�ia)
+                                          (ADJP 
+                                            (JJ fundadora))
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT a)
+                                              (NNP FC)))
+                                          (_CU_ 
+                                            (PP 
+                                              (IN em+)
+                                              (NP 
+                                                (DT o)
+                                                (NN cinema)))
+                                            (CC ou)
+                                            (PP 
+                                              (IN em+)
+                                              (NP 
+                                                (DT a)
+                                                (NN literatura))))
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (�)
+                                              (NN futuro)
+                                              (�)
+                                              (RB como 
+                                                (NP 
+                                                  (NN evolu��o))))))))
+                       (.)))

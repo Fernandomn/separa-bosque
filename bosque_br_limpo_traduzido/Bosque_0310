@@ -1,61 +1,35 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN tancredismo)
-    )
-    (VP 
-      (VBP concedeu)
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT o)
-        (PRP seu)
-        (JJ principal)
-        (NN te�rico)
-        (,)
-        (NP 
-          (NP 
-            (NN professor)
-          )
-          (CC e)
-          (NP 
-            (NN senador)
-            (NP 
-              (NNP Fernando_Henrique_Cardoso)
-            )
-          )
-        )
-        (,)
-      )
-    )
-    (NP 
-      (DT a)
-      (NN oportunidade)
-      (PP 
-        (IN de)
-        (VP 
-          (VP 
-            (VB esbo�ar)
-          )
-          (NP 
-            (DT a)
-            (NN filosofia)
-            (ADJP 
-              (JJ pol�tica)
-            )
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NN mudancismo)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                (NN tancredismo))
+                       (VP (VBP concedeu))
+                       (PP (IN a+)
+                               (NP (DT o)
+                                      (PRP seu)
+                                      (JJ principal)
+                                      (NN te�rico)
+                                      (,)
+                                      (_CU_ 
+                                        (NP 
+                                          (NN professor))
+                                        (CC e)
+                                        (NP 
+                                          (NN senador)
+                                          (NP 
+                                            (NNP Fernando_Henrique_Cardoso))))
+                                      (,)))
+                       (NP (DT a)
+                               (NN oportunidade)
+                               (PP (IN de)
+                                      (VP 
+                                        (VP 
+                                          (VB esbo�ar))
+                                        (NP 
+                                          (DT a)
+                                          (NN filosofia)
+                                          (ADJP 
+                                            (JJ pol�tica))
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (NN mudancismo)))))))
+                       (.)))

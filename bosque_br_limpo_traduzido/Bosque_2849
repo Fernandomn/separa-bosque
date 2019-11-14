@@ -1,73 +1,43 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (DT O)
-        (NN resultado)
-        (ADJP 
-          (JJ positivo)
-        )
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN estrat�gia)
-          )
-        )
-      )
-      (VP 
-        (VBP pode)
-        (VB ser)
-        (VBN comprovado)
-      )
-      (ADVP 
-        (RB agora)
-      )
-    )
-    (,)
-    (VP 
-      (VBP dizem)
-    )
-    (NP 
-      (DT os)
-      (NN criadores)
-    )
-    (,)
-    (VP 
-      (IN uma_vez_que)
-      (ADVP 
-        (RB hoje)
-      )
-      (VP 
-        (VBP s�o)
-      )
-      (NP 
-        (DT os)
-        (NNP EUA)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP est�o)
-            (VBG buscando)
-          )
-          (NP 
-            (NN cavalo)
-            (ADJP 
-              (JJ �rabe)
-            )
-          )
-          (PP 
-            (IN em+)
-            (NP 
-              (DT o)
-              (NNP Brasil)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (NP 
+                                   (DT O)
+                                   (NN resultado)
+                                   (ADJP 
+                                     (JJ positivo))
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT a)
+                                       (NN estrat�gia))))
+                                 (VP (VBP pode)
+                                       (VB ser)
+                                       (VBN comprovado))
+                                 (ADVP 
+                                   (RB agora)))
+                        (,)
+                        (VP (VBP dizem))
+                        (NP (DT os)
+                                 (NN criadores))
+                        (,)
+                        (VP (IN uma_vez_que)
+                                  (ADVP 
+                                    (RB hoje))
+                                  (VP (VBP s�o))
+                                  (NP 
+                                    (DT os)
+                                    (NNP EUA)
+                                    (VP 
+                                      (NP 
+                                        (PRP que))
+                                      (VP 
+                                        (VBP est�o)
+                                        (VBG buscando))
+                                      (NP 
+                                        (NN cavalo)
+                                        (ADJP 
+                                          (JJ �rabe)))
+                                      (PP 
+                                        (IN em+)
+                                        (NP 
+                                          (DT o)
+                                          (NNP Brasil))))))
+                        (.)))

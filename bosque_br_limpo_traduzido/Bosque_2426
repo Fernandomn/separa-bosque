@@ -1,38 +1,17 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (VBP Conhecia)
-      )
-      (ADVP 
-        (RB bem)
-      )
-      (NP 
-        (JJ grandes)
-        (NN embarca��es)
-      )
-    )
-    (CC e)
-    (VP 
-      (VP 
-        (VBP saberia)
-      )
-      (VP 
-        (ADVP 
-          (RB como)
-        )
-        (VP 
-          (VB agir)
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT uma)
-            (NN emerg�ncia)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (VP (VBP Conhecia))
+                                (ADVP 
+                                  (RB bem))
+                                (NP (JJ grandes)
+                                        (NN embarca��es)))
+                       (CC e)
+                       (VP (VP (VBP saberia))
+                                (VP 
+                                  (ADVP 
+                                    (RB como))
+                                  (VP (VB agir))
+                                  (PP 
+                                    (IN em+)
+                                    (NP 
+                                      (DT uma)
+                                      (NN emerg�ncia)))))
+                       (.)))

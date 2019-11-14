@@ -1,21 +1,12 @@
-(S 
-  (NP 
-    (-LCB-)
-    (NNP Lee_Iacocca)
-    (,)
-    (NP 
-      (NN executivo)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN ind�stria)
-          (ADJP 
-            (JJ automobil�stica)
-          )
-        )
-      )
-    )
-    (-RCB-)
-  )
-)
+(S (NP (-LCB-)
+                       (NNP Lee_Iacocca)
+                       (,)
+                       (NP (NN executivo)
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT a)
+                                      (NN ind�stria)
+                                      (ADJP 
+                                        (JJ automobil�stica)))))
+                       (-RCB-)))

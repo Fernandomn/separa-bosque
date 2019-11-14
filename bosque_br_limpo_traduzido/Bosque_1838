@@ -1,66 +1,38 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NNP IBGE)
-    )
-    (VP 
-      (VBP divulgou)
-    )
-    (ADVP 
-      (RB tamb�m)
-      (RB ontem)
-    )
-    (NP 
-      (DT a)
-      (NN infla��o)
-      (VP 
-        (VP 
-          (VBN registrada)
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (NP 
-              (DT o)
-              (NNP Rio)
-            )
-            (CC e)
-            (NP 
-              (NNP S�o_Paulo)
-            )
-          )
-        )
-        (PP 
-          (IN entre)
-          (NP 
-            (DT os)
-            (NN dias)
-            (ADJP 
-              (ADJP 
-                (CD 9)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NN mar�o)
-                  )
-                )
-              )
-              (CC e)
-              (ADJP 
-                (CD 7)
-                (PP 
-                  (IN de)
-                  (NP 
-                    (NN abril)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NNP IBGE))
+                        (VP (VBP divulgou))
+                        (ADVP (RB tamb�m)
+                                   (RB ontem))
+                        (NP (DT a)
+                                (NN infla��o)
+                                (VP (VP 
+                                          (VBN registrada))
+                                        (PP 
+                                          (IN em+)
+                                          (_CU_ 
+                                            (NP 
+                                              (DT o)
+                                              (NNP Rio))
+                                            (CC e)
+                                            (NP 
+                                              (NNP S�o_Paulo))))
+                                        (PP 
+                                          (IN entre)
+                                          (NP 
+                                            (DT os)
+                                            (NN dias)
+                                            (_CU_ 
+                                              (ADJP 
+                                                (CD 9)
+                                                (PP 
+                                                  (IN de)
+                                                  (NP 
+                                                    (NN mar�o))))
+                                              (CC e)
+                                              (ADJP 
+                                                (CD 7)
+                                                (PP 
+                                                  (IN de)
+                                                  (NP 
+                                                    (NN abril)))))))))
+                        (.)))

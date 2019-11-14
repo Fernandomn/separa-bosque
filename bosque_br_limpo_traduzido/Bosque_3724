@@ -1,48 +1,28 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (DT A)
-        (NN corretora)
-        (NP 
-          (NNP Antonio_Delapieve)
-        )
-      )
-      (CC e)
-      (NP 
-        (PRP seus)
-        (NN dirigentes)
-      )
-    )
-    (VP 
-      (VBP foram)
-      (VBN multados)
-    )
-    (PP 
-      (IN por)
-      (VP 
-        (VP 
-          (VB negociar)
-        )
-        (NP 
-          (NN t�tulos)
-          (PP 
-            (IN de)
-            (NP 
-              (NN renda)
-              (VBN fixa)
-            )
-          )
-          (PP 
-            (IN a)
-            (NP 
-              (NN pre�os)
-              (VBN superavaliados)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (NP 
+                                   (DT A)
+                                   (NN corretora)
+                                   (NP 
+                                     (NNP Antonio_Delapieve)))
+                                 (CC e)
+                                 (NP 
+                                   (PRP seus)
+                                   (NN dirigentes)))
+                        (VP (VBP foram)
+                              (VBN multados))
+                        (PP (IN por)
+                                 (VP 
+                                   (VP 
+                                     (VB negociar))
+                                   (NP 
+                                     (NN t�tulos)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NN renda)
+                                         (VBN fixa)))
+                                     (PP 
+                                       (IN a)
+                                       (NP 
+                                         (NN pre�os)
+                                         (VBN superavaliados))))))
+                        (.)))

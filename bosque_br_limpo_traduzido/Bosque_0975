@@ -1,67 +1,36 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Muitos)
-    )
-    (,)
-    (ADVP 
-      (RB no_entanto)
-    )
-    (,)
-    (VP 
-      (VBP preferem)
-    )
-    (VP 
-      (VP 
-        (VB descrever)
-      )
-      (PP 
-        (IN em)
-        (NP 
-          (NN detalhes)
-        )
-      )
-      (NP 
-        (PRP toda)
-        (PRP sua)
-        (NN trajet�ria)
-        (ADJP 
-          (ADJP 
-            (JJ educacional)
-          )
-          (CC e)
-          (ADJP 
-            (JJ profissional)
-          )
-        )
-      )
-    )
-    (VP 
-      (NP 
-        (PRP o_que)
-      )
-      (VP 
-        (VBP acaba)
-        (VBG deixando)
-      )
-      (NP 
-        (DT o)
-        (NN curr�culo)
-        (UCP 
-          (ADJP 
-            (JJ extenso)
-          )
-          (CC e)
-          (PP 
-            (IN de)
-            (NP 
-              (JJ dif�cil)
-              (NN leitura)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Muitos))
+                        (,)
+                        (ADVP (RB no_entanto))
+                        (,)
+                        (VP (VBP preferem))
+                        (VP (VP (VB descrever))
+                                 (PP 
+                                   (IN em)
+                                   (NP 
+                                     (NN detalhes)))
+                                 (NP 
+                                   (PRP toda)
+                                   (PRP sua)
+                                   (NN trajet�ria)
+                                   (_CU_ 
+                                     (ADJP 
+                                       (JJ educacional))
+                                     (CC e)
+                                     (ADJP 
+                                       (JJ profissional)))))
+                        (VP (NP 
+                                  (PRP o_que))
+                                (VP (VBP acaba)
+                                      (VBG deixando))
+                                (NP (DT o)
+                                        (NN curr�culo)
+                                        (_CU_ 
+                                          (ADJP 
+                                            (JJ extenso))
+                                          (CC e)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (JJ dif�cil)
+                                              (NN leitura))))))
+                        (.)))

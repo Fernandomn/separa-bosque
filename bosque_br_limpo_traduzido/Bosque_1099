@@ -1,70 +1,39 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Tamb�m)
-    )
-    (ADVP 
-      (RB n�o)
-    )
-    (NP 
-      (PRP lhe)
-    )
-    (VP 
-      (VBP pede)
-    )
-    (VP 
-      (IN que)
-      (VP 
-        (VBP cometa)
-      )
-      (NP 
-        (DT o)
-        (JJ maior)
-        (NN pecado)
-        (PP 
-          (IN de)
-          (NP 
-            (DT um)
-            (NN governante)
-          )
-        )
-        (,)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP �)
-          )
-          (VP 
-            (VP 
-              (ADVP 
-                (RB n�o)
-              )
-              (VP 
-                (VB governar)
-              )
-            )
-            (CC e)
-            (VP 
-              (ADVP 
-                (RB n�o)
-              )
-              (VP 
-                (VB servir)
-              )
-              (PP 
-                (IN a+)
-                (NP 
-                  (DT o)
-                  (NN p�blico)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (RB Tamb�m))
+                        (ADVP (RB n�o))
+                        (NP (PRP lhe))
+                        (VP (VBP pede))
+                        (VP (IN que)
+                                 (VP (VBP cometa))
+                                 (NP 
+                                   (DT o)
+                                   (JJ maior)
+                                   (NN pecado)
+                                   (PP 
+                                     (IN de)
+                                     (NP 
+                                       (DT um)
+                                       (NN governante)))
+                                   (,)
+                                   (VP 
+                                     (NP 
+                                       (PRP que))
+                                     (VP 
+                                       (VBP �))
+                                     (_CU_ 
+                                       (VP 
+                                         (ADVP 
+                                           (RB n�o))
+                                         (VP 
+                                           (VB governar)))
+                                       (CC e)
+                                       (VP 
+                                         (ADVP 
+                                           (RB n�o))
+                                         (VP 
+                                           (VB servir))
+                                         (PP 
+                                           (IN a+)
+                                           (NP 
+                                             (DT o)
+                                             (NN p�blico))))))))
+                        (.)))

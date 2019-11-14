@@ -1,67 +1,39 @@
-(S 
-  (VP 
-    (PP 
-      (IN Apesar_de)
-      (NP 
-        (PRP todas)
-        (DT as)
-        (NN restri��es)
-      )
-    )
-    (,)
-    (NP 
-      (DT a)
-      (JJ esmagadora)
-      (NN maioria)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT os)
-          (VBN consultados)
-          (-LCB-)
-          (NP 
-            (CD 86)
-            (NN %)
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (VP 
-      (VBP acredita)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (NNP Lula)
-      )
-      (VP 
-        (VBP tomar�)
-      )
-      (NP 
-        (NN posse)
-      )
-      (PP 
-        (IN sem)
-        (NP 
-          (NN resist�ncia)
-          (PP 
-            (IN de)
-            (NP 
-              (PRP qualquer)
-              (NN setor)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT a)
-                  (NN sociedade)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Apesar_de)
+                                 (NP (PRP todas)
+                                        (DT as)
+                                        (NN restri��es)))
+                        (,)
+                        (NP (DT a)
+                                 (JJ esmagadora)
+                                 (NN maioria)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT os)
+                                          (VBN consultados)
+                                          (-LCB-)
+                                          (NP 
+                                            (CD 86)
+                                            (NN %))
+                                          (-RCB-))))
+                        (VP (VBP acredita))
+                        (VP (IN que)
+                                 (NP 
+                                   (NNP Lula))
+                                 (VP (VBP tomar�))
+                                 (NP 
+                                   (NN posse))
+                                 (PP 
+                                   (IN sem)
+                                   (NP 
+                                     (NN resist�ncia)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (PRP qualquer)
+                                         (NN setor)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT a)
+                                             (NN sociedade))))))))
+                        (.)))

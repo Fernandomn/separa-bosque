@@ -1,47 +1,25 @@
-(S 
-  (NP 
-    (NP 
-      (NNP Folha)
-    )
-    (--)
-    (VP 
-      (NP 
-        (PRP Quais)
-      )
-      (VP 
-        (VBP s�o)
-      )
-      (NP 
-        (DT as)
-        (NN implica��es)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (NP 
-            (DT o)
-            (NN encerramento)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (NN revis�o)
-              )
-            )
-          )
-          (VP 
-            (VBP traz)
-          )
-          (PP 
-            (IN para)
-            (NP 
-              (DT a)
-              (NN economia)
-            )
-          )
-        )
-      )
-      (?)
-    )
-  )
-)
+(S (NP (NP (NNP Folha))
+                      (--)
+                      (VP (NP (PRP Quais))
+                               (VP (VBP s�o))
+                               (NP (DT as)
+                                        (NN implica��es)
+                                        (VP 
+                                          (NP 
+                                            (PRP que))
+                                          (NP 
+                                            (DT o)
+                                            (NN encerramento)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT a)
+                                                (NN revis�o))))
+                                          (VP 
+                                            (VBP traz))
+                                          (PP 
+                                            (IN para)
+                                            (NP 
+                                              (DT a)
+                                              (NN economia)))))
+                               (?))))

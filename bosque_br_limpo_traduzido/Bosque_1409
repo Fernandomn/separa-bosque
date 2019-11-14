@@ -1,37 +1,19 @@
-(S 
-  (VP 
-    (NP 
-      (RB Cerca_de)
-      (CD 80)
-      (NN %)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN �rea)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN munic�pio)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP �)
-      (VBN considerada)
-    )
-    (PP 
-      (IN de)
-      (NP 
-        (NN preserva��o)
-        (ADJP 
-          (JJ ambiental)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (RB Cerca_de)
+                                 (CD 80)
+                                 (NN %)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NN �rea)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT o)
+                                              (NN munic�pio))))))
+                        (VP (VBP �)
+                              (VBN considerada))
+                        (PP (IN de)
+                               (NP (NN preserva��o)
+                                      (ADJP 
+                                        (JJ ambiental))))
+                        (.)))

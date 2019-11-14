@@ -1,35 +1,16 @@
-(S 
-  (VP 
-    (ADVP 
-      (UH Pois_�)
-    )
-    (,)
-    (NP 
-      (NP 
-        (NNP Palmeiras)
-      )
-      (CC e)
-      (NP 
-        (NNP Corinthians)
-      )
-    )
-    (VP 
-      (VBP fazem)
-    )
-    (ADVP 
-      (RB hoje)
-    )
-    (NP 
-      (DT a)
-      (NN final�ssima)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN Brasileiro)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (UH Pois_�))
+                        (,)
+                        (_CU_ (NP 
+                                   (NNP Palmeiras))
+                                 (CC e)
+                                 (NP 
+                                   (NNP Corinthians)))
+                        (VP (VBP fazem))
+                        (ADVP (RB hoje))
+                        (NP (DT a)
+                                (NN final�ssima)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN Brasileiro))))
+                        (.)))

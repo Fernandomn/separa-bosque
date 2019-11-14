@@ -1,30 +1,12 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (DT A)
-        (NN Folha)
-      )
-      (VP 
-        (VBP procurou)
-      )
-      (NP 
-        (DT a)
-        (NNP Petrobr�s)
-      )
-    )
-    (CC mas)
-    (VP 
-      (ADVP 
-        (RB n�o)
-      )
-      (VP 
-        (VBP obteve)
-      )
-      (NP 
-        (NN retorno)
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (DT A)
+                                  (NN Folha))
+                                (VP (VBP procurou))
+                                (NP (DT a)
+                                        (NNP Petrobr�s)))
+                       (CC mas)
+                       (VP (ADVP 
+                                  (RB n�o))
+                                (VP (VBP obteve))
+                                (NP (NN retorno)))
+                       (.)))

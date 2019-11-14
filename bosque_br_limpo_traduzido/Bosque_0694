@@ -1,69 +1,36 @@
-(S 
-  (VP 
-    (ADVP 
-      (ADVP 
-        (RB Como)
-      )
-      (PP 
-        (IN em+)
-        (NP 
-          (DT as)
-          (PRP outras)
-          (NN escolas)
-        )
-      )
-    )
-    (,)
-    (ADVP 
-      (RB ali)
-    )
-    (NP 
-      (DT os)
-      (NN alunos)
-    )
-    (VP 
-      (VBP recebem)
-    )
-    (ADVP 
-      (RB gratuitamente)
-    )
-    (NP 
-      (NP 
-        (DT o)
-        (NN ensino)
-      )
-      (,)
-      (NP 
-        (DT o)
-        (NN material)
-        (ADJP 
-          (JJ did�tico)
-        )
-      )
-      (,)
-      (NP 
-        (DT o)
-        (NN uniforme)
-      )
-      (,)
-      (NP 
-        (DT a)
-        (NN alimenta��o)
-      )
-      (CC e)
-      (NP 
-        (NN tratamento)
-        (ADJP 
-          (ADJP 
-            (JJ m�dico)
-          )
-          (CC e)
-          (ADJP 
-            (JJ odontol�gico)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (ADVP 
+                                    (RB Como))
+                                  (PP 
+                                    (IN em+)
+                                    (NP 
+                                      (DT as)
+                                      (PRP outras)
+                                      (NN escolas))))
+                        (,)
+                        (ADVP (RB ali))
+                        (NP (DT os)
+                                 (NN alunos))
+                        (VP (VBP recebem))
+                        (ADVP (RB gratuitamente))
+                        (_CU_ (NP (DT o)
+                                        (NN ensino))
+                                (,)
+                                (NP (DT o)
+                                        (NN material)
+                                        (ADJP 
+                                          (JJ did�tico)))
+                                (,)
+                                (NP (DT o)
+                                        (NN uniforme))
+                                (,)
+                                (NP (DT a)
+                                        (NN alimenta��o))
+                                (CC e)
+                                (NP (NN tratamento)
+                                        (_CU_ 
+                                          (ADJP 
+                                            (JJ m�dico))
+                                          (CC e)
+                                          (ADJP 
+                                            (JJ odontol�gico)))))
+                        (.)))

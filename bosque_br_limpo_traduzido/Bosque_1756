@@ -1,70 +1,43 @@
-(S 
-  (VP 
-    (PP 
-      (IN Em+)
-      (NP 
-        (DT o)
-        (VBN acumulado)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN m�s)
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP atinge)
-    )
-    (NP 
-      (CD 43,85)
-      (NN %)
-    )
-    (,)
-    (VP 
-      (VP 
-        (VBG superando)
-      )
-      (NP 
-        (DT as)
-        (NN varia��es)
-        (PP 
-          (IN de)
-          (NP 
-            (NP 
-              (NN mar�o)
-              (-LCB-)
-              (NP 
-                (CD 40,91)
-                (NN %)
-              )
-              (-RCB-)
-            )
-            (,)
-            (NP 
-              (NN abril)
-              (-LCB-)
-              (NP 
-                (CD 40,23)
-                (NN %)
-              )
-              (-RCB-)
-            )
-            (CC e)
-            (NP 
-              (NN maio)
-              (-LCB-)
-              (NP 
-                (CD 40,23)
-                (NN %)
-              )
-              (-RCB-)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN Em+)
+                                 (NP (DT o)
+                                        (VBN acumulado)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT o)
+                                            (NN m�s)))))
+                        (VP (VBP atinge))
+                        (NP (CD 43,85)
+                                (NN %))
+                        (,)
+                        (VP 
+                          (VP (VBG superando))
+                          (NP (DT as)
+                                  (NN varia��es)
+                                  (PP 
+                                    (IN de)
+                                    (_CU_ 
+                                      (NP 
+                                        (NN mar�o)
+                                        (-LCB-)
+                                        (NP 
+                                          (CD 40,91)
+                                          (NN %))
+                                        (-RCB-))
+                                      (,)
+                                      (NP 
+                                        (NN abril)
+                                        (-LCB-)
+                                        (NP 
+                                          (CD 40,23)
+                                          (NN %))
+                                        (-RCB-))
+                                      (CC e)
+                                      (NP 
+                                        (NN maio)
+                                        (-LCB-)
+                                        (NP 
+                                          (CD 40,23)
+                                          (NN %))
+                                        (-RCB-))))))
+                        (.)))

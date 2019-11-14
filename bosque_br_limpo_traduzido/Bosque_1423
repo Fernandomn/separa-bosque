@@ -1,66 +1,38 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN cart�es)
-      (NP 
-        (NNP Sollo)
-      )
-    )
-    (ADVP 
-      (RB j�)
-    )
-    (VP 
-      (VBP realizaram)
-    )
-    (NP 
-      (NN contratos)
-      (,)
-      (PP 
-        (IN entre)
-        (NP 
-          (PRP outros)
-        )
-      )
-      (,)
-    )
-    (NP 
-      (PP 
-        (IN com)
-        (NP 
-          (NP 
-            (DT o)
-            (NNP Jockey_Club)
-            (PP 
-              (IN de)
-              (NP 
-                (NNP S�o_Paulo)
-              )
-            )
-          )
-          (,)
-          (NP 
-            (DT a)
-            (NNP Funda��o_Get�lio_Vargas)
-          )
-          (,)
-          (NP 
-            (DT a)
-            (NNP Associa��o_Paulista_de_Propaganda)
-          )
-          (,)
-          (NP 
-            (DT a)
-            (NNP Birello)
-          )
-          (CC e)
-          (NP 
-            (DT a)
-            (NNP Jog�)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN cart�es)
+                                 (NP (NNP Sollo)))
+                        (ADVP (RB j�))
+                        (VP (VBP realizaram))
+                        (NP (NN contratos)
+                                 (,)
+                                 (PP 
+                                   (IN entre)
+                                   (NP 
+                                     (PRP outros)))
+                                 (,))
+                        (NP (PP (IN com)
+                                        (_CU_ 
+                                          (NP 
+                                            (DT o)
+                                            (NNP Jockey_Club)
+                                            (PP 
+                                              (IN de)
+                                              (NP 
+                                                (NNP S�o_Paulo))))
+                                          (,)
+                                          (NP 
+                                            (DT a)
+                                            (NNP Funda��o_Get�lio_Vargas))
+                                          (,)
+                                          (NP 
+                                            (DT a)
+                                            (NNP Associa��o_Paulista_de_Propaganda))
+                                          (,)
+                                          (NP 
+                                            (DT a)
+                                            (NNP Birello))
+                                          (CC e)
+                                          (NP 
+                                            (DT a)
+                                            (NNP Jog�)))))
+                        (.)))

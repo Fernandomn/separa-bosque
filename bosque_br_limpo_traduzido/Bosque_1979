@@ -1,45 +1,23 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (VBP Aprendi)
-      )
-      (PP 
-        (IN a)
-        (VP 
-          (VP 
-            (VB falar)
-          )
-          (ADVP 
-            (RB direito)
-          )
-        )
-      )
-    )
-    (CC e)
-    (VP 
-      (VP 
-        (VBP tentei)
-      )
-      (VP 
-        (VP 
-          (VB fazer)
-        )
-        (NP 
-          (PRP minha)
-          (NN vida)
-          (ADJP 
-            (JJ melhor)
-          )
-        )
-        (PP 
-          (IN para)
-          (NP 
-            (PRP mim)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (VP (VBP Aprendi))
+                                 (PP 
+                                   (IN a)
+                                   (VP 
+                                     (VP 
+                                       (VB falar))
+                                     (ADVP 
+                                       (RB direito)))))
+                        (CC e)
+                        (VP (VP (VBP tentei))
+                                 (VP 
+                                   (VP 
+                                     (VB fazer))
+                                   (NP 
+                                     (PRP minha)
+                                     (NN vida)
+                                     (ADJP 
+                                       (JJ melhor)))
+                                   (PP 
+                                     (IN para)
+                                     (NP 
+                                       (PRP mim)))))
+                        (.)))

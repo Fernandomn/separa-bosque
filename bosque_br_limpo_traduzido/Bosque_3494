@@ -1,63 +1,38 @@
-(S 
-  (VP 
-    (NP 
-      (NN Cientistas)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP Universidade_da_Calif�rnia)
-          (PP 
-            (IN em)
-            (NP 
-              (NNP Irvine)
-              (-LCB-)
-              (NP 
-                (NNP EUA)
-              )
-              (-RCB-)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP publicaram)
-    )
-    (NP 
-      (DT a)
-      (NN pesquisa)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (JJ �ltima)
-        (NN edi��o)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NN revista)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT a)
-                (NNP Associa��o_M�dica_Norte-americana)
-                (,)
-                (-LCB-)
-                (�)
-                (NP 
-                  (NNP Jama)
-                )
-                (�)
-                (-RCB-)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NN Cientistas)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP Universidade_da_Calif�rnia)
+                                          (PP 
+                                            (IN em)
+                                            (NP 
+                                              (NNP Irvine)
+                                              (-LCB-)
+                                              (NP 
+                                                (NNP EUA))
+                                              (-RCB-))))))
+                        (VP (VBP publicaram))
+                        (NP (DT a)
+                                (NN pesquisa))
+                        (PP (IN em+)
+                                 (NP (DT a)
+                                        (JJ �ltima)
+                                        (NN edi��o)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NN revista)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT a)
+                                                (NNP Associa��o_M�dica_Norte-americana)
+                                                (,)
+                                                (-LCB-)
+                                                (�)
+                                                (NP 
+                                                  (NNP Jama))
+                                                (�)
+                                                (-RCB-)))))))
+                        (.)))

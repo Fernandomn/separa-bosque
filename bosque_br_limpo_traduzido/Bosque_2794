@@ -1,16 +1,4 @@
-(S 
-  (NP 
-    (NP 
-      (NP 
-        (NN Pai)
-      )
-      (CC E)
-      (NP 
-        (NNP Filho)
-      )
-    )
-    (ADJP 
-      (CD 1)
-    )
-  )
-)
+(S (NP (_CU_ (NP (NN Pai))
+                             (CC E)
+                             (NP (NNP Filho)))
+                       (ADJP (CD 1))))

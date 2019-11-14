@@ -1,35 +1,19 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Todos)
-    )
-    (VP 
-      (VBP trabalham)
-    )
-    (PP 
-      (IN com)
-      (NP 
-        (CD tr�s)
-        (NN cen�rios)
-        (;)
-        (NP 
-          (NP 
-            (DT o)
-            (JJ prov�vel)
-          )
-          (,)
-          (NP 
-            (DT o)
-            (JJ otimista)
-          )
-          (CC e)
-          (NP 
-            (DT o)
-            (JJ pessimista)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Todos))
+                        (VP (VBP trabalham))
+                        (PP (IN com)
+                                 (NP (CD tr�s)
+                                        (NN cen�rios)
+                                        (;)
+                                        (_CU_ 
+                                          (NP 
+                                            (DT o)
+                                            (JJ prov�vel))
+                                          (,)
+                                          (NP 
+                                            (DT o)
+                                            (JJ otimista))
+                                          (CC e)
+                                          (NP 
+                                            (DT o)
+                                            (JJ pessimista)))))
+                        (.)))

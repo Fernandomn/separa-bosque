@@ -1,59 +1,33 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (IN Caso)
-        (NP 
-          (DT a)
-          (NN op��o)
-        )
-        (VP 
-          (VBP seja)
-        )
-        (PP 
-          (IN por+)
-          (NP 
-            (DT o)
-            (NN aparelho)
-            (ADJP 
-              (JJ multiuso)
-            )
-          )
-        )
-      )
-      (,)
-      (NP 
-        (DT o)
-        (NN comprador)
-      )
-      (VP 
-        (VBP deve)
-        (VB checar)
-      )
-      (VP 
-        (IN se)
-        (NP 
-          (DT o)
-          (NN produto)
-        )
-        (VP 
-          (VBP tem)
-        )
-        (NP 
-          (NN assist�ncia)
-          (ADJP 
-            (JJ t�cnica)
-          )
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VBP diz)
-    )
-    (NP 
-      (PRP ela)
-    )
-    (.)
-  )
-)
+(S (VP (VP (VP 
+                                  (IN Caso)
+                                  (NP 
+                                    (DT a)
+                                    (NN op��o))
+                                  (VP (VBP seja))
+                                  (PP 
+                                    (IN por+)
+                                    (NP 
+                                      (DT o)
+                                      (NN aparelho)
+                                      (ADJP 
+                                        (JJ multiuso)))))
+                                (,)
+                                (NP 
+                                  (DT o)
+                                  (NN comprador))
+                                (VP (VBP deve)
+                                      (VB checar))
+                                (VP 
+                                  (IN se)
+                                  (NP 
+                                    (DT o)
+                                    (NN produto))
+                                  (VP (VBP tem))
+                                  (NP 
+                                    (NN assist�ncia)
+                                    (ADJP 
+                                      (JJ t�cnica)))))
+                       (,)
+                       (VP (VBP diz))
+                       (NP (PRP ela))
+                       (.)))

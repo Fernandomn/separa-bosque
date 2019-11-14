@@ -1,111 +1,71 @@
-(S 
-  (VP 
-    (VP 
-      (�)
-      (VP 
-        (VBP Vivemos)
-      )
-      (ADVP 
-        (RB ainda)
-      )
-      (NP 
-        (NN dias)
-        (ADJP 
-          (JJ dif�ceis)
-        )
-      )
-      (,)
-      (PP 
-        (IN em)
-        (NP 
-          (DT um)
-          (NN contexto)
-          (ADJP 
-            (ADJP 
-              (JJ econ�mico)
-            )
-            (,)
-            (ADJP 
-              (JJ social)
-            )
-            (CC e)
-            (ADJP 
-              (JJ pol�tico)
-            )
-          )
-          (PP 
-            (IN em)
-            (VP 
-              (PRP que)
-              (NP 
-                (DT as)
-                (NN necessidades)
-                (ADJP 
-                  (JJ b�sicas)
-                )
-                (PP 
-                  (IN de)
-                  (NP 
-                    (PRP nossas)
-                    (NN for�as)
-                  )
-                )
-              )
-              (-LCB-)
-              (...)
-              (-RCB-)
-              (VP 
-                (VBP t�m)
-                (VBN sofrido)
-              )
-              (ADVP 
-                (RB severamente)
-              )
-              (NP 
-                (DT as)
-                (NN agruras)
-                (VP 
-                  (NP 
-                    (PRP que)
-                  )
-                  (NP 
-                    (PRP toda)
-                    (NN na��o)
-                  )
-                  (VP 
-                    (VBP atravessa)
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-      (�)
-    )
-    (,)
-    (VP 
-      (VBP disse)
-    )
-    (,)
-    (PP 
-      (IN em)
-      (NP 
-        (NN sauda��o)
-        (VP 
-          (VP 
-            (VBN enviada)
-          )
-          (PP 
-            (IN a+)
-            (NP 
-              (DT o)
-              (NN Ex�rcito)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (�)
+                                 (VP (VBP Vivemos))
+                                 (ADVP 
+                                   (RB ainda))
+                                 (NP 
+                                   (NN dias)
+                                   (ADJP 
+                                     (JJ dif�ceis)))
+                                 (,)
+                                 (PP 
+                                   (IN em)
+                                   (NP 
+                                     (DT um)
+                                     (NN contexto)
+                                     (_CU_ 
+                                       (ADJP 
+                                         (JJ econ�mico))
+                                       (,)
+                                       (ADJP 
+                                         (JJ social))
+                                       (CC e)
+                                       (ADJP 
+                                         (JJ pol�tico)))
+                                     (PP 
+                                       (IN em)
+                                       (VP 
+                                         (PRP que)
+                                         (NP 
+                                           (DT as)
+                                           (NN necessidades)
+                                           (ADJP 
+                                             (JJ b�sicas))
+                                           (PP 
+                                             (IN de)
+                                             (NP 
+                                               (PRP nossas)
+                                               (NN for�as))))
+                                         (-LCB-)
+                                         (...)
+                                         (-RCB-)
+                                         (VP 
+                                           (VBP t�m)
+                                           (VBN sofrido))
+                                         (ADVP 
+                                           (RB severamente))
+                                         (NP 
+                                           (DT as)
+                                           (NN agruras)
+                                           (VP 
+                                             (NP 
+                                               (PRP que))
+                                             (NP 
+                                               (PRP toda)
+                                               (NN na��o))
+                                             (VP 
+                                               (VBP atravessa))))))))
+                                 (�))
+                        (,)
+                        (VP (VBP disse))
+                        (,)
+                        (PP (IN em)
+                                 (NP (NN sauda��o)
+                                        (VP 
+                                          (VP 
+                                            (VBN enviada))
+                                          (PP 
+                                            (IN a+)
+                                            (NP 
+                                              (DT o)
+                                              (NN Ex�rcito))))))
+                        (.)))

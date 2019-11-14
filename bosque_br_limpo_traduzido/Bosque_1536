@@ -1,83 +1,51 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (NNP Dallari)
-      )
-      (,)
-      (PP 
-        (IN ap�s)
-        (NP 
-          (NN negocia��es)
-          (PP 
-            (IN com)
-            (NP 
-              (DT os)
-              (NN laborat�rios)
-            )
-          )
-        )
-      )
-      (,)
-      (ADVP 
-        (RB candidamente)
-      )
-      (VP 
-        (VBP anunciou)
-      )
-      (VP 
-        (IN que)
-        (PP 
-          (�)
-          (IN para)
-          (NP 
-            (NN janeiro)
-          )
-        )
-        (,)
-        (ADVP 
-          (RB n�o)
-        )
-        (NP 
-          (PRP se)
-        )
-        (VP 
-          (VBP pode)
-          (VB fazer)
-        )
-        (ADVP 
-          (RB mais_nada)
-        )
-      )
-    )
-    (,)
-    (CC mas)
-    (VP 
-      (PP 
-        (IN em)
-        (NP 
-          (NN fevereiro)
-        )
-      )
-      (NP 
-        (DT os)
-        (NN reajustes)
-      )
-      (VP 
-        (VBP ser�o)
-      )
-      (ADJP 
-        (JJ iguais)
-        (PP 
-          (IN a+)
-          (NP 
-            (DT a)
-            (NN infla��o)
-          )
-          (�)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (NNP Dallari))
+                                (,)
+                                (PP 
+                                  (IN ap�s)
+                                  (NP 
+                                    (NN negocia��es)
+                                    (PP 
+                                      (IN com)
+                                      (NP 
+                                        (DT os)
+                                        (NN laborat�rios)))))
+                                (,)
+                                (ADVP 
+                                  (RB candidamente))
+                                (VP (VBP anunciou))
+                                (VP 
+                                  (IN que)
+                                  (PP 
+                                    (�)
+                                    (IN para)
+                                    (NP 
+                                      (NN janeiro)))
+                                  (,)
+                                  (ADVP 
+                                    (RB n�o))
+                                  (NP 
+                                    (PRP se))
+                                  (VP (VBP pode)
+                                        (VB fazer))
+                                  (ADVP 
+                                    (RB mais_nada))))
+                       (,)
+                       (CC mas)
+                       (VP (PP 
+                                  (IN em)
+                                  (NP 
+                                    (NN fevereiro)))
+                                (NP 
+                                  (DT os)
+                                  (NN reajustes))
+                                (VP (VBP ser�o))
+                                (ADJP 
+                                  (JJ iguais)
+                                  (PP 
+                                    (IN a+)
+                                    (NP 
+                                      (DT a)
+                                      (NN infla��o))
+                                    (�))))
+                       (.)))

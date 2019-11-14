@@ -1,44 +1,24 @@
-(S 
-  (VP 
-    (NP 
-      (DT Um)
-      (NN exemplo)
-    )
-    (VP 
-      (VBP �)
-    )
-    (NP 
-      (DT a)
-      (NN bacia)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP Vale_do_Piracicaba)
-        )
-      )
-      (-LCB-)
-      (PP 
-        (IN a)
-        (NP 
-          (CD 170)
-          (NN quil�metros)
-          (PP 
-            (IN a)
-            (NP 
-              (NN noroeste)
-              (PP 
-                (IN de)
-                (NP 
-                  (NNP S�o_Paulo)
-                )
-              )
-            )
-          )
-        )
-      )
-      (-RCB-)
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Um)
+                                 (NN exemplo))
+                        (VP (VBP �))
+                        (NP (DT a)
+                               (NN bacia)
+                               (PP (IN de+)
+                                      (NP 
+                                        (DT o)
+                                        (NNP Vale_do_Piracicaba)))
+                               (-LCB-)
+                               (PP 
+                                 (IN a)
+                                 (NP (CD 170)
+                                        (NN quil�metros)
+                                        (PP 
+                                          (IN a)
+                                          (NP 
+                                            (NN noroeste)
+                                            (PP 
+                                              (IN de)
+                                              (NP 
+                                                (NNP S�o_Paulo)))))))
+                               (-RCB-))
+                        (.)))

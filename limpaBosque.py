@@ -1,7 +1,7 @@
 import os
 
 endereco = "~/stanford-parser/BOSQUE/"
-nomeArquivo = "Bosque_CP_8.0.PennTreebank.txt"
+nomeArquivo = "Bosque_CF_8.0.PennTreebank.txt"
 
 
 def tratarNumero(numero):

@@ -1,71 +1,46 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN diretor)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NNP DRFVAT)
-          (,)
-          (NP 
-            (NNP Leonilson_Ribeiro)
-          )
-          (,)
-        )
-      )
-    )
-    (VP 
-      (VBP disse)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT a)
-        (NN presen�a)
-        (PP 
-          (IN de)
-          (NP 
-            (NP 
-              (NN militares)
-            )
-            (CC e)
-            (NP 
-              (NN policiais)
-            )
-          )
-        )
-        (PP 
-          (IN em+)
-          (NP 
-            (DT as)
-            (NN ruas)
-          )
-        )
-      )
-      (VP 
-        (VBP causou)
-      )
-      (NP 
-        (DT a)
-        (NN diminui��o)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN n�mero)
-            (PP 
-              (IN de)
-              (NP 
-                (NN carros)
-                (VP roubados e furtados)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN diretor)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT a)
+                                          (NNP DRFVAT)
+                                          (,)
+                                          (NP 
+                                            (NNP Leonilson_Ribeiro))
+                                          (,))))
+                        (VP (VBP disse))
+                        (VP (IN que)
+                                 (NP 
+                                   (DT a)
+                                   (NN presen�a)
+                                   (PP 
+                                     (IN de)
+                                     (_CU_ 
+                                       (NP 
+                                         (NN militares))
+                                       (CC e)
+                                       (NP 
+                                         (NN policiais))))
+                                   (PP 
+                                     (IN em+)
+                                     (NP 
+                                       (DT as)
+                                       (NN ruas))))
+                                 (VP (VBP causou))
+                                 (NP 
+                                   (DT a)
+                                   (NN diminui��o)
+                                   (PP 
+                                     (IN de+)
+                                     (NP 
+                                       (DT o)
+                                       (NN n�mero)
+                                       (PP 
+                                         (IN de)
+                                         (NP 
+                                           (NN carros)
+                                           (_CU_ 
+                                             (VBN roubados)
+                                             (CC e)
+                                             (VBN furtados))))))))
+                        (.)))

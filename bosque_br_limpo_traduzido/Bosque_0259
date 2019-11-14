@@ -1,23 +1,11 @@
-(S 
-  (UCP 
-    (NP 
-      (NNP Venezuela)
-    )
-    (--)
-    (NP 
-      (NNP Miguel_Angel_Burelli_Rivas)
-      (-LCB-)
-      (NP 
-        (NN ministro)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT as)
-            (NNP Rela��es_Exteriores)
-          )
-        )
-      )
-      (-RCB-)
-    )
-  )
-)
+(S (_CU_ (NP (NNP Venezuela))
+                      (--)
+                      (NP (NNP Miguel_Angel_Burelli_Rivas)
+                              (-LCB-)
+                              (NP 
+                                (NN ministro)
+                                (PP (IN de+)
+                                       (NP 
+                                         (DT as)
+                                         (NNP Rela��es_Exteriores))))
+                              (-RCB-))))

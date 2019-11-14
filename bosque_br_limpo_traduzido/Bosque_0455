@@ -1,76 +1,47 @@
-(S 
-  (VP 
-    (NP 
-      (NNP Luiz_Henrique)
-    )
-    (VP 
-      (VBP disse)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT o)
-        (NNP PMDB)
-      )
-      (VP 
-        (VBP vai)
-        (VB procurar)
-      )
-      (NP 
-        (NP 
-          (DT os)
-          (NN presidentes)
-        )
-        (CC e)
-        (NP 
-          (NN l�deres)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT os)
-              (PRP outros)
-              (NN partidos)
-            )
-          )
-        )
-      )
-      (PP 
-        (IN em)
-        (NP 
-          (NN busca)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN consenso)
-              (PP 
-                (IN sobre)
-                (NP 
-                  (DT a)
-                  (NN vota��o)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NN reforma)
-                      (ADJP 
-                        (ADJP 
-                          (JJ fiscal)
-                        )
-                        (CC e)
-                        (ADJP 
-                          (JJ tribut�ria)
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (NNP Luiz_Henrique))
+                        (VP (VBP disse))
+                        (VP (IN que)
+                                 (NP 
+                                   (DT o)
+                                   (NNP PMDB))
+                                 (VP (VBP vai)
+                                       (VB procurar))
+                                 (_CU_ 
+                                   (NP 
+                                     (DT os)
+                                     (NN presidentes))
+                                   (CC e)
+                                   (NP 
+                                     (NN l�deres)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT os)
+                                         (PRP outros)
+                                         (NN partidos)))))
+                                 (PP 
+                                   (IN em)
+                                   (NP 
+                                     (NN busca)
+                                     (PP 
+                                       (IN de+)
+                                       (NP 
+                                         (DT o)
+                                         (NN consenso)
+                                         (PP 
+                                           (IN sobre)
+                                           (NP 
+                                             (DT a)
+                                             (NN vota��o)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT a)
+                                                 (NN reforma)
+                                                 (_CU_ 
+                                                   (ADJP 
+                                                     (JJ fiscal))
+                                                   (CC e)
+                                                   (ADJP 
+                                                     (JJ tribut�ria))))))))))))
+                        (.)))

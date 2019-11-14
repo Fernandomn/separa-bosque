@@ -1,33 +1,13 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (NNP Francis_Bacon)
-      )
-      (VP 
-        (VBP vira)
-      )
-      (NP 
-        (NN nome)
-        (PP 
-          (IN de)
-          (NP 
-            (NN bar)
-          )
-        )
-      )
-    )
-    (CC e)
-    (VP 
-      (NP 
-        (NNP Lanterna)
-      )
-      (VP 
-        (VBP estr�ia)
-      )
-      (NP 
-        (NN pista)
-      )
-    )
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (NNP Francis_Bacon))
+                                (VP (VBP vira))
+                                (NP (NN nome)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN bar)))))
+                       (CC e)
+                       (VP (NP 
+                                  (NNP Lanterna))
+                                (VP (VBP estr�ia))
+                                (NP (NN pista)))))

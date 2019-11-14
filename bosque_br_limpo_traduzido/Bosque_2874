@@ -1,44 +1,23 @@
-(S 
-  (VP 
-    (PP 
-      (PP 
-        (IN Al�m_de+)
-        (NP 
-          (DT o)
-          (NNP PSDB)
-        )
-      )
-      (CC e)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP PFL)
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VBP coligou-)
-    )
-    (NP 
-      (PRP se)
-    )
-    (PP 
-      (IN em_torno_de+)
-      (NP 
-        (DT a)
-        (NN candidatura)
-        (NP 
-          (NNP Covas)
-        )
-      )
-    )
-    (NP 
-      (DT o)
-      (JJ pequeno)
-      (NNP PV)
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (PP 
+                                   (IN Al�m_de+)
+                                   (NP 
+                                     (DT o)
+                                     (NNP PSDB)))
+                                 (CC e)
+                                 (PP 
+                                   (IN de+)
+                                   (NP 
+                                     (DT o)
+                                     (NNP PFL))))
+                        (,)
+                        (VP (VBP coligou-))
+                        (NP (PRP se))
+                        (PP (IN em_torno_de+)
+                                 (NP (DT a)
+                                        (NN candidatura)
+                                        (NP 
+                                          (NNP Covas))))
+                        (NP (DT o)
+                                 (JJ pequeno)
+                                 (NNP PV))
+                        (.)))

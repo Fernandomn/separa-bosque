@@ -1,88 +1,55 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN autor)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN projeto)
-          (,)
-          (NP 
-            (NN vereador)
-            (NP 
-              (NNP Isaac_Ainhorn)
-              (-LCB-)
-              (NP 
-                (NNP PDT)
-              )
-              (-RCB-)
-            )
-          )
-          (,)
-        )
-      )
-    )
-    (VP 
-      (VBP disse)
-    )
-    (VP 
-      (IN que)
-      (NP 
-        (DT o)
-        (NN objetivo)
-      )
-      (VP 
-        (VBP �)
-      )
-      (VP 
-        (VP 
-          (VB orientar)
-        )
-        (NP 
-          (DT os)
-          (NN estudantes)
-        )
-        (PP 
-          (IN sobre)
-          (NP 
-            (NN seguran�a)
-            (ADJP 
-              (JJ pessoal)
-            )
-          )
-        )
-        (,)
-        (PP 
-          (IN em+)
-          (NP 
-            (NP 
-              (DT o)
-              (NN seguran�a)
-              (PP 
-                (IN em+)
-                (NP 
-                  (DT o)
-                  (NN tr�nsito)
-                )
-              )
-            )
-            (CC e)
-            (NP 
-              (NN preven��o)
-              (PP 
-                (IN contra)
-                (NP 
-                  (DT as)
-                  (NN drogas)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN autor)
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN projeto)
+                                          (,)
+                                          (NP 
+                                            (NN vereador)
+                                            (NP 
+                                              (NNP Isaac_Ainhorn)
+                                              (-LCB-)
+                                              (NP 
+                                                (NNP PDT))
+                                              (-RCB-)))
+                                          (,))))
+                        (VP (VBP disse))
+                        (VP (IN que)
+                                 (NP 
+                                   (DT o)
+                                   (NN objetivo))
+                                 (VP (VBP �))
+                                 (VP 
+                                   (VP 
+                                     (VB orientar))
+                                   (NP 
+                                     (DT os)
+                                     (NN estudantes))
+                                   (PP 
+                                     (IN sobre)
+                                     (NP 
+                                       (NN seguran�a)
+                                       (ADJP 
+                                         (JJ pessoal))))
+                                   (,)
+                                   (PP 
+                                     (IN em+)
+                                     (_CU_ 
+                                       (NP 
+                                         (DT o)
+                                         (NN seguran�a)
+                                         (PP 
+                                           (IN em+)
+                                           (NP 
+                                             (DT o)
+                                             (NN tr�nsito))))
+                                       (CC e)
+                                       (NP 
+                                         (NN preven��o)
+                                         (PP 
+                                           (IN contra)
+                                           (NP 
+                                             (DT as)
+                                             (NN drogas))))))))
+                        (.)))

@@ -1,28 +1,14 @@
-(S 
-  (VP 
-    (VP 
-      (VBP S�o)
-      (VBN analisados)
-    )
-    (NP 
-      (DT os)
-      (NN pre�os)
-      (PP 
-        (IN de)
-        (NP 
-          (CD 155)
-          (NP 
-            (NP 
-              (NN produtos)
-            )
-            (CC e)
-            (NP 
-              (NN servi�os)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (VP (VBP S�o)
+                              (VBN analisados))
+                        (NP (DT os)
+                                 (NN pre�os)
+                                 (PP (IN de)
+                                        (NP 
+                                          (CD 155)
+                                          (_CU_ 
+                                            (NP 
+                                              (NN produtos))
+                                            (CC e)
+                                            (NP 
+                                              (NN servi�os))))))
+                        (.)))

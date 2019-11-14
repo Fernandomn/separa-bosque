@@ -1,56 +1,31 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN pico)
-      (PP 
-        (IN de)
-        (NP 
-          (NN audi�ncia)
-        )
-      )
-    )
-    (VP 
-      (VBP aconteceu)
-    )
-    (PP 
-      (IN entre)
-      (NP 
-        (DT as)
-        (NP 
-          (NP 
-            (NN 20h)
-          )
-          (CC e)
-          (NP 
-            (NN 21h)
-          )
-        )
-        (PP 
-          (IN de)
-          (NP 
-            (NN s�bado)
-            (,)
-            (VP 
-              (ADVP 
-                (RB quando)
-              )
-              (NP 
-                (DT o)
-                (NN sistema)
-              )
-              (VP 
-                (VBP atendeu)
-              )
-              (NP 
-                (CD 309)
-                (NN liga��es)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN pico)
+                                 (PP (IN de)
+                                        (NP 
+                                          (NN audi�ncia))))
+                        (VP (VBP aconteceu))
+                        (PP (IN entre)
+                                 (NP (DT as)
+                                        (_CU_ 
+                                          (NP 
+                                            (NN 20h))
+                                          (CC e)
+                                          (NP 
+                                            (NN 21h)))
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN s�bado)
+                                            (,)
+                                            (VP 
+                                              (ADVP 
+                                                (RB quando))
+                                              (NP 
+                                                (DT o)
+                                                (NN sistema))
+                                              (VP 
+                                                (VBP atendeu))
+                                              (NP 
+                                                (CD 309)
+                                                (NN liga��es)))))))
+                        (.)))

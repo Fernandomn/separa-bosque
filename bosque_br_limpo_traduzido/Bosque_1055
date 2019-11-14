@@ -1,38 +1,19 @@
-(S 
-  (VP 
-    (VP 
-      (NP 
-        (DT A)
-        (NN lanchonete)
-      )
-      (VP 
-        (VBP �)
-      )
-      (ADJP 
-        (JJ simples)
-      )
-    )
-    (,)
-    (CC mas)
-    (VP 
-      (VP 
-        (VBP faz)
-      )
-      (NP 
-        (DT um)
-        (JJ saboroso)
-        (NN cachorro-quente)
-      )
-      (PP 
-        (IN por)
-        (NP 
-          (NN US$)
-          (ADJP 
-            (CD 3)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (NP 
+                                  (DT A)
+                                  (NN lanchonete))
+                                (VP (VBP �))
+                                (ADJP 
+                                  (JJ simples)))
+                       (,)
+                       (CC mas)
+                       (VP (VP (VBP faz))
+                                (NP (DT um)
+                                        (JJ saboroso)
+                                        (NN cachorro-quente))
+                                (PP 
+                                  (IN por)
+                                  (NP 
+                                    (NN US$)
+                                    (ADJP 
+                                      (CD 3)))))
+                       (.)))

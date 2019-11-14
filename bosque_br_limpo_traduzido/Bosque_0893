@@ -1,24 +1,14 @@
-(S 
-  (VP 
-    (VP 
-      (VP 
-        (VBP Saem)
-      )
-      (NP 
-        (DT os)
-        (NN megas)
-      )
-    )
-    (CC e)
-    (VP 
-      (VP 
-        (VBP entram)
-      )
-      (NP 
-        (DT os)
-        (NP micros , minis e m�dis)
-      )
-    )
-    (.)
-  )
-)
+(S (_CU_ (VP (VP (VBP Saem))
+                                (NP 
+                                  (DT os)
+                                  (NN megas)))
+                       (CC e)
+                       (VP (VP (VBP entram))
+                                (NP 
+                                  (DT os)
+                                  (_CU_ (NN micros)
+                                        (,)
+                                        (NN minis)
+                                        (CC e)
+                                        (NN m�dis))))
+                       (.)))

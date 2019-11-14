@@ -1,53 +1,28 @@
-(S 
-  (UCP 
-    (�)
-    (VP 
-      (ADVP 
-        (RB N�o)
-      )
-      (VP 
-        (VBP sei)
-      )
-      (VP 
-        (IN se)
-        (NP 
-          (PRP ele)
-        )
-        (VP 
-          (VBP vai)
-          (VB querer)
-        )
-        (NP 
-          (PRP meu)
-          (NN apoio)
-        )
-      )
-    )
-    (,)
-    (CC mas)
-    (VP 
-      (VP 
-        (VBP farei)
-      )
-      (NP 
-        (PRP tudo)
-        (VP 
-          (NP 
-            (PRP que)
-          )
-          (VP 
-            (VBP puder)
-          )
-        )
-      )
-      (PP 
-        (IN por)
-        (NP 
-          (PRP ele)
-        )
-      )
-    )
-    (.)
-    (�)
-  )
-)
+(S (_CU_ (�)
+                       (VP (ADVP 
+                                  (RB N�o))
+                                (VP (VBP sei))
+                                (VP 
+                                  (IN se)
+                                  (NP 
+                                    (PRP ele))
+                                  (VP (VBP vai)
+                                        (VB querer))
+                                  (NP 
+                                    (PRP meu)
+                                    (NN apoio))))
+                       (,)
+                       (CC mas)
+                       (VP (VP (VBP farei))
+                                (NP (PRP tudo)
+                                        (VP 
+                                          (NP 
+                                            (PRP que))
+                                          (VP 
+                                            (VBP puder))))
+                                (PP 
+                                  (IN por)
+                                  (NP 
+                                    (PRP ele))))
+                       (.)
+                       (�)))

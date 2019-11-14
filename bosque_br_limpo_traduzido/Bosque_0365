@@ -1,53 +1,27 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (NN distribui��o)
-    )
-    (VP 
-      (VBP acontecer�)
-    )
-    (PP 
-      (IN at�)
-      (NP 
-        (DT o)
-        (NN final)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT o)
-            (NN m�s)
-          )
-        )
-      )
-    )
-    (,)
-    (VP 
-      (VP 
-        (VBG partindo)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT as)
-          (NN capitais)
-        )
-      )
-      (PP 
-        (IN para)
-        (NP 
-          (DT o)
-          (NN interior)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NN pa�s)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                (NN distribui��o))
+                       (VP (VBP acontecer�))
+                       (PP (IN at�)
+                                (NP (DT o)
+                                       (NN final)
+                                       (PP 
+                                         (IN de+)
+                                         (NP 
+                                           (DT o)
+                                           (NN m�s)))))
+                       (,)
+                       (VP 
+                         (VP (VBG partindo))
+                         (PP (IN de+)
+                                 (NP (DT as)
+                                        (NN capitais)))
+                         (PP (IN para)
+                                  (NP 
+                                    (DT o)
+                                    (NN interior)
+                                    (PP 
+                                      (IN de+)
+                                      (NP 
+                                        (DT o)
+                                        (NN pa�s))))))
+                       (.)))

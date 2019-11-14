@@ -1,51 +1,30 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN card�pio)
-    )
-    (VP 
-      (VBP varia)
-    )
-    (PP 
-      (IN entre)
-      (NP 
-        (NP 
-          (NN pratos)
-          (PP 
-            (IN de)
-            (NP 
-              (NN massa)
-              (RB al_dente)
-            )
-          )
-          (-LCB-)
-          (ADVP 
-            (RB cerca_de)
-            (NP 
-              (NN US$)
-              (ADJP 
-                (CD 15)
-              )
-            )
-          )
-          (-RCB-)
-        )
-        (CC e)
-        (NP 
-          (NN peixes)
-          (VBN grelhados)
-          (-LCB-)
-          (NP 
-            (NN US$)
-            (ADJP 
-              (CD 20)
-            )
-          )
-          (-RCB-)
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN card�pio))
+                        (VP (VBP varia))
+                        (PP (IN entre)
+                                 (_CU_ (NP 
+                                          (NN pratos)
+                                          (PP 
+                                            (IN de)
+                                            (NP 
+                                              (NN massa)
+                                              (RB al_dente)))
+                                          (-LCB-)
+                                          (ADVP 
+                                            (RB cerca_de)
+                                            (NP 
+                                              (NN US$)
+                                              (ADJP 
+                                                (CD 15))))
+                                          (-RCB-))
+                                        (CC e)
+                                        (NP 
+                                          (NN peixes)
+                                          (VBN grelhados)
+                                          (-LCB-)
+                                          (NP 
+                                            (NN US$)
+                                            (ADJP 
+                                              (CD 20)))
+                                          (-RCB-))))
+                        (.)))

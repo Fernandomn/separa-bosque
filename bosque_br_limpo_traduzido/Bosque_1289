@@ -1,41 +1,24 @@
-(S 
-  (NP 
-    (NN Pergunta)
-    (NP 
-      (PRP Quais)
-    )
-    (NP 
-      (PRP suas)
-      (NN opini�es)
-      (PP 
-        (IN sobre)
-        (NP 
-          (DT a)
-          (NN atua��o)
-          (PP 
-            (IN de+)
-            (NP 
-              (DT o)
-              (NNP Minist�rio_P�blico)
-            )
-          )
-          (PP 
-            (IN em+)
-            (NP 
-              (DT a)
-              (NN investiga��o)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT a)
-                  (NN contraven��o)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (?)
-  )
-)
+(S (NP (NN Pergunta)
+                       (NP (PRP Quais))
+                       (NP (PRP suas)
+                                (NN opini�es)
+                                (PP (IN sobre)
+                                       (NP 
+                                         (DT a)
+                                         (NN atua��o)
+                                         (PP 
+                                           (IN de+)
+                                           (NP 
+                                             (DT o)
+                                             (NNP Minist�rio_P�blico)))
+                                         (PP 
+                                           (IN em+)
+                                           (NP 
+                                             (DT a)
+                                             (NN investiga��o)
+                                             (PP 
+                                               (IN de+)
+                                               (NP 
+                                                 (DT a)
+                                                 (NN contraven��o))))))))
+                       (?)))

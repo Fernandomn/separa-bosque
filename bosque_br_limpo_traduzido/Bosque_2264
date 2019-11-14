@@ -1,46 +1,26 @@
-(S 
-  (VP 
-    (NP 
-      (PRP Esse)
-      (NN torneio)
-    )
-    (VP 
-      (VBP reunir�)
-    )
-    (NP 
-      (NP 
-        (DT os)
-        (CD seis)
-        (NN primeiros)
-        (VBN colocados)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NNP S�rie_A-1)
-          )
-        )
-      )
-      (CC e)
-      (NP 
-        (DT o)
-        (NN campe�o)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NNP A-2)
-            (PP 
-              (IN de+)
-              (NP 
-                (DT o)
-                (NNP Campeonato_Paulista)
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP Esse)
+                                 (NN torneio))
+                        (VP (VBP reunir�))
+                        (_CU_ (NP (DT os)
+                                        (CD seis)
+                                        (NN primeiros)
+                                        (VBN colocados)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NNP S�rie_A-1))))
+                                (CC e)
+                                (NP (DT o)
+                                        (NN campe�o)
+                                        (PP 
+                                          (IN de+)
+                                          (NP 
+                                            (DT a)
+                                            (NNP A-2)
+                                            (PP 
+                                              (IN de+)
+                                              (NP 
+                                                (DT o)
+                                                (NNP Campeonato_Paulista)))))))
+                        (.)))

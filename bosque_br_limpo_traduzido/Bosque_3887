@@ -1,87 +1,54 @@
-(S 
-  (VP 
-    (NP 
-      (DT O)
-      (NN t�cnico)
-      (NP 
-        (NNP Pepe)
-        (,)
-        (VP 
-          (VP 
-            (VBN irritado)
-          )
-          (PP 
-            (IN com)
-            (NP 
-              (DT a)
-              (NN atua��o)
-              (PP 
-                (IN de+)
-                (NP 
-                  (DT o)
-                  (NN time)
-                )
-              )
-              (PP 
-                (IN em+)
-                (NP 
-                  (DT o)
-                  (NN empate)
-                  (PP 
-                    (IN em)
-                    (NP 
-                      (CD 1)
-                      (PP 
-                        (IN a)
-                        (ADJP 
-                          (CD 1)
-                        )
-                      )
-                    )
-                  )
-                  (PP 
-                    (IN com)
-                    (NP 
-                      (NNP Ituano)
-                    )
-                  )
-                )
-              )
-              (RB anteontem)
-            )
-          )
-        )
-        (,)
-      )
-    )
-    (VP 
-      (VBP disse)
-    )
-    (�)
-    (VP 
-      (IN que)
-      (VP 
-        (VBP est�)
-        (VBG faltando)
-      )
-      (NP 
-        (NP 
-          (NN tranquilidade)
-        )
-        (CC e)
-        (NP 
-          (NN talento)
-        )
-      )
-      (PP 
-        (IN a+)
-        (NP 
-          (DT os)
-          (NN jogadores)
-        )
-      )
-    )
-    (�)
-    (.)
-  )
-)
+(S (VP (NP (DT O)
+                                 (NN t�cnico)
+                                 (NP (NNP Pepe)
+                                        (,)
+                                        (VP 
+                                          (VP 
+                                            (VBN irritado))
+                                          (PP 
+                                            (IN com)
+                                            (NP 
+                                              (DT a)
+                                              (NN atua��o)
+                                              (PP 
+                                                (IN de+)
+                                                (NP 
+                                                  (DT o)
+                                                  (NN time)))
+                                              (PP 
+                                                (IN em+)
+                                                (NP 
+                                                  (DT o)
+                                                  (NN empate)
+                                                  (PP 
+                                                    (IN em)
+                                                    (NP 
+                                                      (CD 1)
+                                                      (PP 
+                                                        (IN a)
+                                                        (ADJP 
+                                                          (CD 1)))))
+                                                  (PP 
+                                                    (IN com)
+                                                    (NP 
+                                                      (NNP Ituano)))))
+                                              (RB anteontem))))
+                                        (,)))
+                        (VP (VBP disse))
+                        (�)
+                        (VP (IN que)
+                                 (VP (VBP est�)
+                                       (VBG faltando))
+                                 (_CU_ 
+                                   (NP 
+                                     (NN tranquilidade))
+                                   (CC e)
+                                   (NP 
+                                     (NN talento)))
+                                 (PP 
+                                   (IN a+)
+                                   (NP 
+                                     (DT os)
+                                     (NN jogadores))))
+                        (�)
+                        (.)))

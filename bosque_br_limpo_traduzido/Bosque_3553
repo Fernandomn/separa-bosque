@@ -1,55 +1,31 @@
-(S 
-  (VP 
-    (PP 
-      (IN De+)
-      (NP 
-        (PRP esse)
-        (NN modo)
-      )
-    )
-    (,)
-    (NP 
-      (RB apenas)
-      (NN parte)
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN fundo)
-          (PP 
-            (IN de)
-            (NP 
-              (NN viagem)
-            )
-          )
-        )
-      )
-    )
-    (VP 
-      (VBP seria)
-      (VBN empregada)
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT a)
-        (NN compra)
-        (PP 
-          (IN de)
-          (UCP 
-            (�)
-            (NP 
-              (NN traveler_cheques)
-            )
-            (�)
-            (CC ou)
-            (NP 
-              (NN c�dulas)
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (PP (IN De+)
+                                 (NP (PRP esse)
+                                        (NN modo)))
+                        (,)
+                        (NP (RB apenas)
+                                 (NN parte)
+                                 (PP 
+                                   (IN de+)
+                                   (NP 
+                                     (DT o)
+                                     (NN fundo)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (NN viagem))))))
+                        (VP (VBP seria)
+                              (VBN empregada))
+                        (PP (IN em+)
+                                (NP (DT a)
+                                       (NN compra)
+                                       (PP 
+                                         (IN de)
+                                         (_CU_ 
+                                           (�)
+                                           (NP 
+                                             (NN traveler_cheques))
+                                           (�)
+                                           (CC ou)
+                                           (NP 
+                                             (NN c�dulas))))))
+                        (.)))

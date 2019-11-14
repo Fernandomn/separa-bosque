@@ -1,46 +1,24 @@
-(S 
-  (VP 
-    (NP 
-      (NP 
-        (ADJP 
-          (ADJP 
-            (JJ Pequenas)
-          )
-          (CC e)
-          (ADJP 
-            (JJ m�dias)
-          )
-        )
-        (NN empresas)
-      )
-      (,)
-      (NP 
-        (NNP For�as_Armadas)
-      )
-      (,)
-      (NP 
-        (NN deficientes)
-        (ADJP 
-          (JJ f�sicos)
-        )
-      )
-      (CC e)
-      (NP 
-        (NN artistas)
-      )
-    )
-    (VP 
-      (VBP ter�o)
-    )
-    (NP 
-      (NP 
-        (NN apoio)
-      )
-      (CC e)
-      (NP 
-        (NN recursos)
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (NP 
+                                   (_CU_ 
+                                     (ADJP 
+                                       (JJ Pequenas))
+                                     (CC e)
+                                     (ADJP 
+                                       (JJ m�dias)))
+                                   (NN empresas))
+                                 (,)
+                                 (NP 
+                                   (NNP For�as_Armadas))
+                                 (,)
+                                 (NP 
+                                   (NN deficientes)
+                                   (ADJP 
+                                     (JJ f�sicos)))
+                                 (CC e)
+                                 (NP 
+                                   (NN artistas)))
+                        (VP (VBP ter�o))
+                        (_CU_ (NP (NN apoio))
+                                (CC e)
+                                (NP (NN recursos)))
+                        (.)))

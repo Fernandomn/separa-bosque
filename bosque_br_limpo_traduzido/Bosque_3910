@@ -1,28 +1,11 @@
-(S 
-  (VP 
-    (PP 
-      (IN Apesar_de+)
-      (NP 
-        (DT as)
-        (NN cr�ticas)
-      )
-    )
-    (,)
-    (NP 
-      (NNP Vogts)
-    )
-    (VP 
-      (VBP prefere)
-    )
-    (VP 
-      (VP 
-        (VB manter)
-      )
-      (NP 
-        (DT a)
-        (NN discri��o)
-      )
-    )
-    (;)
-  )
-)
+(S (VP (PP (IN Apesar_de+)
+                                 (NP (DT as)
+                                        (NN cr�ticas)))
+                        (,)
+                        (NP (NNP Vogts))
+                        (VP (VBP prefere))
+                        (VP (VP (VB manter))
+                                 (NP 
+                                   (DT a)
+                                   (NN discri��o)))
+                        (;)))

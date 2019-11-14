@@ -1,74 +1,47 @@
-(S 
-  (VP 
-    (NP 
-      (DT A)
-      (�)
-      (NNP R�scal_Pizza_&_Cozinha)
-      (�)
-    )
-    (VP 
-      (VBP criou)
-    )
-    (NP 
-      (DT um)
-      (NN card�pio)
-      (ADJP 
-        (JJ especial)
-      )
-    )
-    (PP 
-      (IN para)
-      (NP 
-        (DT o)
-        (NN almo�o)
-        (PP 
-          (IN de+)
-          (NP 
-            (DT a)
-            (NNP P�scoa)
-            (PP 
-              (IN de)
-              (RB amanh�)
-            )
-          )
-        )
-        (,)
-        (PP 
-          (IN com)
-          (NP 
-            (DT uma)
-            (NN massa)
-            (UCP 
-              (PP 
-                (IN com)
-                (NP 
-                  (DT um)
-                  (NN recheio)
-                )
-              )
-              (CC e)
-              (NP 
-                (DT um)
-                (NN molho)
-                (PP 
-                  (IN a+)
-                  (NP 
-                    (DT a)
-                    (NN base)
-                    (PP 
-                      (IN de)
-                      (NP 
-                        (NN peixes)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT A)
+                                 (�)
+                                 (NNP R�scal_Pizza_&_Cozinha)
+                                 (�))
+                        (VP (VBP criou))
+                        (NP (DT um)
+                                (NN card�pio)
+                                (ADJP 
+                                  (JJ especial)))
+                        (PP (IN para)
+                                        (NP 
+                                          (DT o)
+                                          (NN almo�o)
+                                          (PP 
+                                            (IN de+)
+                                            (NP 
+                                              (DT a)
+                                              (NNP P�scoa)
+                                              (PP 
+                                                (IN de)
+                                                (RB amanh�))))
+                                          (,)
+                                          (PP 
+                                            (IN com)
+                                            (NP 
+                                              (DT uma)
+                                              (NN massa)
+                                              (_CU_ 
+                                                (PP 
+                                                  (IN com)
+                                                  (NP 
+                                                    (DT um)
+                                                    (NN recheio)))
+                                                (CC e)
+                                                (NP 
+                                                  (DT um)
+                                                  (NN molho)
+                                                  (PP 
+                                                    (IN a+)
+                                                    (NP 
+                                                      (DT a)
+                                                      (NN base)
+                                                      (PP 
+                                                        (IN de)
+                                                        (NP 
+                                                          (NN peixes)))))))))))
+                        (.)))

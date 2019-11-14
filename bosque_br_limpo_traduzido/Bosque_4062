@@ -1,54 +1,26 @@
-(S 
-  (VP 
-    (ADVP 
-      (RB Apesar_disso)
-    )
-    (,)
-    (NP 
-      (DT a)
-      (NN entrevista)
-    )
-    (VP 
-      (VBP propiciou)
-    )
-    (PP 
-      (IN a+)
-      (NP 
-        (DT o)
-        (NN eleitor)
-        (ADJP 
-          (JJ comum)
-        )
-      )
-    )
-    (VP 
-      (VP 
-        (VB participar)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT a)
-          (NN vida)
-          (ADJP 
-            (JJ pol�tica)
-          )
-        )
-      )
-    )
-    (,)
-    (VP 
-      (NP 
-        (PRP o_que)
-      )
-      (VP 
-        (VBP �)
-      )
-      (ADJP 
-        (JJ �timo)
-      )
-    )
-    (.)
-    (�)
-  )
-)
+(S (VP (ADVP (RB Apesar_disso))
+                         (,)
+                         (NP (DT a)
+                                  (NN entrevista))
+                         (VP (VBP propiciou))
+                         (PP (IN a+)
+                                 (NP (DT o)
+                                        (NN eleitor)
+                                        (ADJP 
+                                          (JJ comum))))
+                         (VP (VP (VB participar))
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT a)
+                                      (NN vida)
+                                      (ADJP 
+                                        (JJ pol�tica)))))
+                         (,)
+                         (VP (NP 
+                                   (PRP o_que))
+                                 (VP (VBP �))
+                                 (ADJP 
+                                   (JJ �timo)))
+                         (.)
+                         (�)))

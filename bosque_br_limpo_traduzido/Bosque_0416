@@ -1,41 +1,23 @@
-(S 
-  (VP 
-    (NP 
-      (PRP N�s)
-      (,)
-      (NP 
-        (NP 
-          (NN motoristas)
-        )
-        (,)
-        (NP 
-          (NN pais)
-        )
-        (CC e)
-        (NP 
-          (JJ jovens)
-          (NN brasileiros)
-        )
-      )
-      (,)
-    )
-    (VP 
-      (VBP somos)
-    )
-    (NP 
-      (DT os)
-      (JJ piores)
-      (NN inimigos)
-      (PP 
-        (IN de)
-        (NP 
-          (PRP n�s)
-          (NP 
-            (PRP mesmos)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (PRP N�s)
+                                 (,)
+                                 (_CU_ 
+                                   (NP 
+                                     (NN motoristas))
+                                   (,)
+                                   (NP 
+                                     (NN pais))
+                                   (CC e)
+                                   (NP 
+                                     (JJ jovens)
+                                     (NN brasileiros)))
+                                 (,))
+                        (VP (VBP somos))
+                        (NP (DT os)
+                               (JJ piores)
+                               (NN inimigos)
+                               (PP (IN de)
+                                      (NP 
+                                        (PRP n�s)
+                                        (NP 
+                                          (PRP mesmos)))))
+                        (.)))

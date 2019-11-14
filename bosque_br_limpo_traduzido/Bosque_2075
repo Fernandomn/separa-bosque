@@ -1,54 +1,31 @@
-(S 
-  (VP 
-    (ADVP 
-      (IN A_partir_de)
-      (RB hoje)
-    )
-    (NP 
-      (DT a)
-      (NN �rea)
-      (PP 
-        (IN de)
-        (NP 
-          (NN conviv�ncia)
-        )
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NNP Sesc_Pomp�ia)
-        )
-      )
-    )
-    (VP 
-      (VBP abriga)
-    )
-    (NP 
-      (NN instala��o)
-      (ADJP 
-        (JJ in�dita)
-      )
-      (PP 
-        (IN de+)
-        (NP 
-          (DT o)
-          (NN artista)
-          (ADJP 
-            (JJ pl�stico)
-          )
-          (NP 
-            (NNP Nuno_Ramos)
-          )
-        )
-      )
-      (,)
-      (�)
-      (NP 
-        (NN Montes)
-      )
-      (�)
-    )
-    (.)
-  )
-)
+(S (VP (ADVP (IN A_partir_de)
+                                    (RB hoje))
+                         (NP (DT a)
+                                  (NN �rea)
+                                  (PP 
+                                    (IN de)
+                                    (NP 
+                                      (NN conviv�ncia)))
+                                  (PP 
+                                    (IN de+)
+                                    (NP 
+                                      (DT o)
+                                      (NNP Sesc_Pomp�ia))))
+                         (VP (VBP abriga))
+                         (NP (NN instala��o)
+                                 (ADJP 
+                                   (JJ in�dita))
+                                 (PP (IN de+)
+                                        (NP 
+                                          (DT o)
+                                          (NN artista)
+                                          (ADJP 
+                                            (JJ pl�stico))
+                                          (NP 
+                                            (NNP Nuno_Ramos))))
+                                 (,)
+                                 (�)
+                                 (NP 
+                                   (NN Montes))
+                                 (�))
+                         (.)))

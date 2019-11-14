@@ -1,74 +1,43 @@
-(S 
-  (VP 
-    (NP 
-      (DT Os)
-      (NN alem�es)
-    )
-    (,)
-    (ADVP 
-      (RB por_outro_lado)
-    )
-    (,)
-    (VP 
-      (VBP fazem)
-    )
-    (NP 
-      (DT um)
-      (NN tecnopop)
-      (ADJP 
-        (ADJP 
-          (JJ assobi�vel)
-        )
-        (CC e)
-        (ADJP 
-          (JJ nost�lgico)
-        )
-      )
-    )
-    (PP 
-      (IN em+)
-      (NP 
-        (DT o)
-        (PRP seu)
-        (NN uso)
-        (PP 
-          (IN de)
-          (NP 
-            (NN sintetizadores)
-            (ADJP 
-              (JJ anal�gicos)
-            )
-            (ADJP 
-              (JJ anteriores)
-              (PP 
-                (IN a+)
-                (NP 
-                  (DT o)
-                  (NN surgimento)
-                  (PP 
-                    (IN de+)
-                    (NP 
-                      (DT a)
-                      (NN tecnologia)
-                      (PP 
-                        (IN de+)
-                        (NP 
-                          (DT os)
-                          (NN samplers)
-                          (ADJP 
-                            (JJ digitais)
-                          )
-                        )
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (NP (DT Os)
+                                 (NN alem�es))
+                        (,)
+                        (ADVP (RB por_outro_lado))
+                        (,)
+                        (VP (VBP fazem))
+                        (NP (DT um)
+                                (NN tecnopop)
+                                (_CU_ (ADJP 
+                                         (JJ assobi�vel))
+                                       (CC e)
+                                       (ADJP 
+                                         (JJ nost�lgico))))
+                        (PP (IN em+)
+                                 (NP (DT o)
+                                        (PRP seu)
+                                        (NN uso)
+                                        (PP 
+                                          (IN de)
+                                          (NP 
+                                            (NN sintetizadores)
+                                            (ADJP 
+                                              (JJ anal�gicos))
+                                            (ADJP 
+                                              (JJ anteriores)
+                                              (PP 
+                                                (IN a+)
+                                                (NP 
+                                                  (DT o)
+                                                  (NN surgimento)
+                                                  (PP 
+                                                    (IN de+)
+                                                    (NP 
+                                                      (DT a)
+                                                      (NN tecnologia)
+                                                      (PP 
+                                                        (IN de+)
+                                                        (NP 
+                                                          (DT os)
+                                                          (NN samplers)
+                                                          (ADJP 
+                                                            (JJ digitais)))))))))))))
+                        (.)))

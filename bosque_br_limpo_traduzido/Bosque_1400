@@ -1,82 +1,48 @@
-(S 
-  (VP 
-    (UCP 
-      (PP 
-        (IN Com)
-        (NP 
-          (CD cinco)
-          (NN livros)
-          (VBN publicados)
-        )
-      )
-      (,)
-      (CC e)
-      (NP 
-        (DT um)
-        (JJ sexto)
-        (PP 
-          (IN em)
-          (NP 
-            (NN prepara��o)
-          )
-        )
-      )
-    )
-    (,)
-    (NP 
-      (DT o)
-      (NN escritor)
-    )
-    (VP 
-      (VBP aguarda)
-    )
-    (ADVP 
-      (RB apenas)
-    )
-    (,)
-    (PP 
-      (IN para)
-      (NP 
-        (DT a)
-        (JJ definitiva)
-        (NN consagra��o)
-      )
-    )
-    (,)
-    (VP 
-      (IN que)
-      (NP 
-        (NNP Hollywood)
-      )
-      (VP 
-        (VBP consiga)
-      )
-      (VP 
-        (VP 
-          (VB adaptar)
-        )
-        (NP 
-          (PRP alguma)
-          (PP 
-            (IN de)
-            (NP 
-              (PRP suas)
-              (NN hist�rias)
-              (ADJP 
-                (JJ malucas)
-              )
-            )
-          )
-        )
-        (PP 
-          (IN para)
-          (NP 
-            (DT as)
-            (NN telas)
-          )
-        )
-      )
-    )
-    (.)
-  )
-)
+(S (VP (_CU_ (PP 
+                                   (IN Com)
+                                   (NP 
+                                     (CD cinco)
+                                     (NN livros)
+                                     (VBN publicados)))
+                                 (,)
+                                 (CC e)
+                                 (NP 
+                                   (DT um)
+                                   (JJ sexto)
+                                   (PP 
+                                     (IN em)
+                                     (NP 
+                                       (NN prepara��o)))))
+                        (,)
+                        (NP (DT o)
+                                 (NN escritor))
+                        (VP (VBP aguarda))
+                        (ADVP (RB apenas))
+                        (,)
+                        (PP (IN para)
+                                 (NP (DT a)
+                                        (JJ definitiva)
+                                        (NN consagra��o)))
+                        (,)
+                        (VP (IN que)
+                                 (NP 
+                                   (NNP Hollywood))
+                                 (VP (VBP consiga))
+                                 (VP 
+                                   (VP 
+                                     (VB adaptar))
+                                   (NP 
+                                     (PRP alguma)
+                                     (PP 
+                                       (IN de)
+                                       (NP 
+                                         (PRP suas)
+                                         (NN hist�rias)
+                                         (ADJP 
+                                           (JJ malucas)))))
+                                   (PP 
+                                     (IN para)
+                                     (NP 
+                                       (DT as)
+                                       (NN telas)))))
+                        (.)))
