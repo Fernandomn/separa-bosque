@@ -4,8 +4,8 @@ import sys
 #  arquivos problemáticos
 # brasil: 102
 #
-# tagCoord = '_CU_'
-# tagConjCoord = 'CC'
+tagCoord = '_CU_'
+tagConjCoord = 'CC'
 
 # dicionario com unico objetivo de devolver o sintagma equivalente À cordenação de partes de mesma POS
 dicSintagma = {

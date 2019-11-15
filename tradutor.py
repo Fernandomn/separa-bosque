@@ -73,6 +73,7 @@ def tradutor(tag):
 
 
 def tradutorFuncao(func_tag, form_tag):
+    # form_tag = tradutor(form_tag)
     if not settings.tabelaFuncoes:
         settings.tabelaFuncoes = {
             # Enunciados - Todos Enunciados são considerados inicios de Sentenças -> S
@@ -83,9 +84,10 @@ def tradutorFuncao(func_tag, form_tag):
             'EXC': 'S',  # exclamativo -
 
             # Orações
-            'SUBJ': form_tag,  # sujeito - marcador de sentenças. A tag de forma costuma dizer o tipo de sintagma.
+            'SUBJ': tradutor(form_tag),
+            # sujeito - marcador de sentenças. A tag de forma costuma dizer o tipo de sintagma.
             # obj. directo - similar a sujeito, a tag forma informa o tipo de sintagma.
-            'ACC': form_tag if form_tag != 'cu' else 'NP',
+            'ACC': tradutor(form_tag) if form_tag != 'cu' else 'NP',
             'ACC-PASS': 'NP',
             # part. apassivante - ok, inglês não tem nenhuma particula de voz passiva. é obj+to be + verbo participio + compl. seguindo o proprio BOSQUE, é um NP
             'DAT': 'NP',  # obj. ind. pronominal - sempre NP.
@@ -94,15 +96,15 @@ def tradutorFuncao(func_tag, form_tag):
             # agente passiva - por def (https://www.normaculta.com.br/agente-da-passiva/), "é um termo preposicionado). Logo, PP
             # adj. adverbiais do sujeito - poderia ser cu, pp, advp e np (referente ao BOSQUE), mas pp ocorre muito mais vezes
             'SA': 'IN',
-            'OA': form_tag,  # adj. adverbiais do objecto - formTag informa o sintagma
+            'OA': tradutor(form_tag),  # adj. adverbiais do objecto - formTag informa o sintagma
             # adj. adverbiais  - a form_tag informa o sintagma. em caso de ACL, é advp.
-            'ADVL': 'ADVP' if form_tag == 'acl' else form_tag,
+            'ADVL': 'ADVP' if form_tag == 'acl' else tradutor(form_tag),
             # predicativos do sujeito - O Predicativo do Sujeito, representado pela etiqueta SC estabelece uma relação de
             # predicação com o sujeito por meio de verbos copulativos ou verbos que, não sendo copulativos, exibem um
             # comportamento semelhante em termos semânticos (Biblia). Logo, VP
             'SC': 'VP',
             # predicativos do objecto - a tag form costuma dizer o sintagma.
-            'OC': 'NP' if form_tag == 'acl' else form_tag,
+            'OC': 'NP' if form_tag == 'acl' else tradutor(form_tag),
             # predicativos verbo-nominais - podem ser icl, np, pp, adjp, cu, adj, pron-det. icl maioria.
             'PRED': 'VP',
             'VOC': 'NP',  # vocativo - todo vocativo do bosque é um NP
@@ -121,7 +123,7 @@ def tradutorFuncao(func_tag, form_tag):
             'X': settings.tagX,
 
             # Palavra
-            'H': form_tag,  # núcleo
+            'H': tradutor(form_tag),  # núcleo
             # 'MV': 'VBP',  # verbo principal - maioria v-fin
             # 'PMV': 'VBP',  # verbo principal - maioria são verbos finitos. Inflexões verbais do portugues muito diferentes da do inglês
             # verbo auxiliar (pra que por duas tags pramsm função? tnc). Maioria v-fin
@@ -304,8 +306,52 @@ def reconstroiArvore(frase_split, indice, arvore):
 
 
 # revisa e corrige tags que precisem de tratamentos especiais
+def tagFilhosCoord(filhos):
+    # classe_base = filhos[0].classe
+    filhos_iguais = True
+    tag_comp = ''
+    for filho in filhos:
+        if filho.classe == settings.tagFlat:
+            continue
+        if tag_comp == '':
+            tag_comp = filho.classe
+        if filho.classe != tag_comp:
+            filhos_iguais = False
+            break
+    return tag_comp if filhos_iguais else 'UCP'
+
+
 def revisaTags(arvore):
-    pass
+    classe = arvore.classe
+
+    if classe == settings.tagCoord:
+        # pro futuro: colocar function tags no UCP.
+        arvore.classe = tagFilhosCoord(arvore.filhos)
+        arvore.atualizaClasseFilhos()
+
+    # if classe == settings.pointTag:
+    #     return
+    # if classe in settings.tagsProblematicas:
+    #     arvore = consertaTagProbObj(arvore)
+
+    if len(arvore.filhos) > 0:
+        for i in range(len(arvore.filhos)):
+            # como vários nós serão removidos, restrição para não travar o loop
+            if i >= len(arvore.filhos):
+                break
+            filho = arvore.filhos[i]
+            revisaTags(filho)
+            if filho.classe == settings.tagHifem:
+                irmao_direita = arvore.filhos[i + 1]
+                novo_filho = Sintagma('NP', [], arvore.classe, '{0}{1}'.format(filho.valor, irmao_direita.valor))
+                arvore.filhos.insert(i, novo_filho)
+                arvore.removeFilho(filho)
+                arvore.removeFilho(irmao_direita)
+            # if settings.removeTag == filho.classe:
+            #     arvore.removeFilho(filho)
+        # setRemoveTagsObj(arvore)
+    else:
+        return
 
 
 # imprime a árvore no padrão PTB

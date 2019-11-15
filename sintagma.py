@@ -13,3 +13,7 @@ class Sintagma:
             self.filhos.insert(posicao, neto)
         # self.filhos += filho.filhos
         self.filhos.remove(filho)
+
+    def atualizaClasseFilhos(self):
+        for filho in self.filhos:
+            filho.classe_pai = self.classe
