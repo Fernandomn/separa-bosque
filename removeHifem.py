@@ -6,7 +6,7 @@ tagHifem = '_EC_'
 portugues = 'br'
 # portugues = 'pt'
 try:
-    portugues = sys.argv[sys.argv.index('-l')+1]
+    portugues = sys.argv[sys.argv.index('-l') + 1]
 except:
     portugues = 'br'
 
@@ -30,10 +30,10 @@ for nomeArquivo in os.listdir(diretorio):
 
         indice = linha.find(tagHifem)
 
-        if(indice < 0):
+        if (indice < 0):
             continue
 
-        indAbreParenteses = indice-1
+        indAbreParenteses = indice - 1
         indFechaParenteses = 0
 
         for indCaracter in range(len(linha[indAbreParenteses:])):
@@ -42,9 +42,9 @@ for nomeArquivo in os.listdir(diretorio):
                 indFechaParenteses = indCaracter + indAbreParenteses
                 break
 
-        folhaEc = linha[indAbreParenteses:indFechaParenteses+1]
-        proximaLinha = linhas[indiceLinha+1]
-        indFechaParProxLinha = proximaLinha.find(')')+1
+        folhaEc = linha[indAbreParenteses:indFechaParenteses + 1]
+        proximaLinha = linhas[indiceLinha + 1]
+        indFechaParProxLinha = proximaLinha.find(')') + 1
 
         for index in range(indFechaParProxLinha, 0, -1):
             if proximaLinha[index] == '(':
@@ -52,12 +52,10 @@ for nomeArquivo in os.listdir(diretorio):
                 break
 
         folhaNucleo = proximaLinha[indAbreProxLinha:indFechaParProxLinha]
-        primeiraPalavra = folhaEc.replace(
-            '(', '').replace(')', '').split(' ')[-1]
-        segundaPalavra = folhaNucleo.replace(
-            '(', '').replace(')', '').split(' ')[-1]
-        novaTag = '%s(NP %s%s)%s' % (
-            linha[:indAbreParenteses], primeiraPalavra, segundaPalavra, proximaLinha[indFechaParProxLinha:])
+        primeiraPalavra = folhaEc.replace('(', '').replace(')', '').split(' ')[-1]
+        segundaPalavra = folhaNucleo.replace('(', '').replace(')', '').split(' ')[-1]
+        novaTag = '{0}(NP {1}{2}){3}'.format(linha[:indAbreParenteses], primeiraPalavra, segundaPalavra,
+                                             proximaLinha[indFechaParProxLinha:])
 
         linhas.insert(indiceLinha, novaTag)
         linhas.remove(proximaLinha)

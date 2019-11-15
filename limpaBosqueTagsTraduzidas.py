@@ -61,14 +61,14 @@ def print_occ_list(rel, rel_name):
     occ_file = open(filepath, 'w', encoding='utf-8')
     list_keys = rel.keys()
     for key in sorted(list_keys):
-        occ_file.write("{0}, {1}\n".format(key, rel[key] if key in rel else 0))
+        occ_file.write("{0}, {1}\n".format(key, rel[key]))
 
     occ_file.close()
 
 
 def imprimeRelatorios():
-    rel_list = [settings.rel_point, settings.rel_form_tag, settings.rel_func_tag]
-    rel_names = ["rel_point", "rel_form_tag", "rel_func_tag"]
+    rel_list = [settings.rel_point, settings.rel_form_tag, settings.rel_func_tag, settings.rel_func_form_tag]
+    rel_names = ["rel_point", "rel_form_tag", "rel_func_tag", "rel_func_form_tag"]
     for i in range(len(rel_list)):
         print_occ_list(rel_list[i], rel_names[i])
 
@@ -112,7 +112,7 @@ def main():
         os.mkdir(diretorio)
     os.chdir(diretorio)
 
-    tradutor.createTransFile(originalLines)
+    tradutor.createTransFile(originalLines, diretorio)
 
     if imprime_rel:
         imprimeRelatorios()

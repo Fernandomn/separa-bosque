@@ -5,13 +5,6 @@ from sintagma import Sintagma
 
 listaBrackets = ['(', ')', '[', ']', '{', '}']
 
-dictBrackets = {'(': '-LRB-',
-                ')': '-RRB-',
-                '[': '-LSB-',
-                ']': '-RSB-',
-                '{': '-LCB-',
-                '}': '-RCB-'}
-
 
 # def tradutor(tag, i, originalLines):
 def tradutor(tag):
@@ -75,11 +68,7 @@ def tradutor(tag):
         return tag
 
     # remove o travessão da tag
-    if tag[0] == '-':
-        tag = tag[1:]
-    if tag[-1] == '-':
-        tag = tag[:-1]
-
+    # tag.replace('-', '')
     return settings.tabela[tag]
 
 
@@ -135,13 +124,20 @@ def tradutorFuncao(func_tag, form_tag):
             # 'MV': 'VBP',  # verbo principal - maioria v-fin
             # 'PMV': 'VBP',  # verbo principal - maioria são verbos finitos. Inflexões verbais do portugues muito diferentes da do inglês
             # verbo auxiliar (pra que por duas tags pramsm função? tnc). Maioria v-fin
-            # 'AUX': 'VBP',
+            'AUX': 'VBP',
+            # Por 11.1.1. Particípios com argumentos coordenados, com partilha de auxiliar, considerado VP
+            'AUX<': 'VP',
             # 'PAUX': 'VBP',  # verbo auxiliar
             # 'PRT-AUX': 'IN',  # part. lig. verbal - MAIOR PARTE DISPARADA PRP
             # 'SUB': 'IN',  # subordinador - sempre conj-s
             # 'CO': 'CC',  # coordenador - CONJ-C maioria
             # elemento conjunto - P/ cjt, maioria np (maioria nao absoluta)
             'CJT': settings.tagCJT,
+            # 11.2. Coordenação de constituintes com funções diferentes
+            'CJT&ACC': 'NP',
+            'CJT&PRED': 'ADJP',
+            'CJT&ADVL': 'PP',
+            'CJT&PASS': 'PP',
             # 'PCJT': 'IN',  # elemento conjunto - p/ pcjt, maioria pp
             # # 'x': 'VB',  # Tomar no cu essa tag. TODO
             # 'COM': 'RB',  # compl. comparação - maioria adv
@@ -149,30 +145,29 @@ def tradutorFuncao(func_tag, form_tag):
             # Adjuntos
             '>N': 'NP',  # Adjuntos adnominais - pela teoria X', ocorre uma dobra do XP origem. (Mioto, p 68)
             'N<': 'NP',  # Adjuntos adnominais - pela teoria X', ocorre uma dobra do XP origem. (Mioto, p 68)
-            # '>A': 'ADVP',  # Adjuntos adverbiais/adjectivais - PRECISA VERIFICAR O NUCLEO (irmão) TODO
-            # 'A<': 'ADVP',  # Adjuntos adverbiais/adjectivais - PRECISA VERIFICAR O NUCLEO (irmão) TODO
+            '>A': '>A',  # Adjuntos adverbiais/adjectivais - PRECISA VERIFICAR O NUCLEO (irmão) TODO
+            'A<': 'A<',  # Adjuntos adverbiais/adjectivais - PRECISA VERIFICAR O NUCLEO (irmão) TODO
             '>P': 'PP',  # Adjuntos preposicionais - Adjunto de PP, pela X'
             'P<': 'PP',  # Adjuntos preposicionais - Adjunto de PP, pela X'
             'KOMP<': settings.kompTag,  # Comparativos - Comp. é o cap. 22 inteiro do bracketing guidelines. TODO
         }
-    # remove o travessão da tag
-    if func_tag[0] == '-':
-        func_tag = func_tag[1:]
-    if func_tag[-1] == '-':
-        func_tag = func_tag[:-1]
+
+    # func_tag.replace('-', '')
     return settings.tabelaFuncoes[func_tag]
 
 
 def fatia_arvore(frase):
-    frase_split = re.findall('[\(\)]|[\wÀ-ú\,\.\'\"\!\*\,-\/\:\;\?\`\<\>\{\}\%\+\[\]]*', frase)
+    frase_split = re.findall('[\(\)]|[\wÀ-ú\,\.\'\"\!\*\,-\/\:\;\?\`\<\>\{\}\%\+\[\]\&]*', frase)
     frase_split = [c.strip() for c in frase_split]
     frase_split = [i for i in frase_split if i != '']
     return frase_split
 
 
-def createTransFile(originalLines):
+def createTransFile(originalLines, dir):
     # tamTagRemover = len(settings.tagRemover)
     tree_text = ''
+    here = os.path.dirname(os.path.realpath(__file__))
+
     with open('Bosque_0001', 'w') as finalFile:
         # eu quero declarar a variavel de arquivo aqui
         for i in range(len(originalLines)):
@@ -182,9 +177,13 @@ def createTransFile(originalLines):
                 numero = line[1:].split(' ')[0]
                 if numero.isdigit():
                     # frase = line[line.index(' ') + 1:]
-                    numeroTratado = settings.tratarNumero(numero)
-                    nomeArquivoAbertoAtual = 'Bosque_' + numeroTratado
-                    finalFile = open(nomeArquivoAbertoAtual, 'w')
+                    numero_tratado = settings.tratarNumero(numero)
+                    print(numero_tratado)
+                    file_name = 'Bosque_' + numero_tratado
+
+                    filepath = os.path.join(here, dir, file_name)
+
+                    finalFile = open(filepath, 'w')
 
             elif line.strip() == '':
                 if not finalFile.closed:
@@ -209,6 +208,11 @@ def gera_tag_rels(func, form):
         settings.rel_form_tag[form] = 1
     else:
         settings.rel_form_tag[form] += 1
+    par = '{0}:{1}'.format(form, func)
+    if par not in settings.rel_func_form_tag:
+        settings.rel_func_form_tag[par] = 1
+    else:
+        settings.rel_func_form_tag[par] += 1
 
 
 def gera_point_rel(point):
@@ -232,16 +236,26 @@ def reconstroiArvore(frase_split, indice, arvore):
                 frase_split.insert(i + 1, 'S')
 
                 classe = frase_split[i + 1]
+
             # caso padrão. cabeçalho do bosque tem muitos valores
             elif ':' in frase_split[i + 1]:
                 split_temp = frase_split[i + 1].split(':')
-                gera_tag_rels(split_temp[0], split_temp[1])
+                func = split_temp[0]
+                form = split_temp[1]
+                if form[0] == '-':
+                    form = form[1:]
+                if form[-1] == '-':
+                    form = form[:-1]
+                # form = split_temp[1].replace('-', '')
 
-                if split_temp[1] not in settings.posTagsProb:
-                    frase_split[i + 1] = tradutor(split_temp[1])
+                gera_tag_rels(func, form)
+
+                if form not in settings.posTagsProb:
+                    frase_split[i + 1] = tradutor(form)
                 else:
-                    frase_split[i + 1] = tradutorFuncao(split_temp[0], split_temp[1])
+                    frase_split[i + 1] = tradutorFuncao(func, form)
                 classe = frase_split[i + 1]
+
             # pontuações. são SEMPRE um problema.
             elif re.match('\W', frase_split[i + 1]):
                 classe = settings.tagPoint
@@ -267,8 +281,8 @@ def reconstroiArvore(frase_split, indice, arvore):
             #     palavra == classe quando é um sinal
             if re.match('\W', palavra) and palavra == classe:
                 gera_point_rel(palavra)
-                if palavra in dictBrackets:
-                    palavra = dictBrackets[palavra]
+                if palavra in settings.dictBrackets:
+                    palavra = settings.dictBrackets[palavra]
                 classe = settings.tagPoint
 
             if len(arvore.filhos):
@@ -311,7 +325,7 @@ def imprimeArvore(arvore, nivel):
             string_retorno = '{0}({1} \n{2}{0})\n'.format(espaco_esquerda, arvore.classe, string_filhos)
     # terminal
     else:
-        if arvore.classe == settings.pointTag:
+        if arvore.classe == settings.tagPoint:
             string_retorno = '{0}{1}\n'.format(espaco_esquerda, arvore.valor)
             # string_retorno = ''
         else:
@@ -323,8 +337,9 @@ def imprimeArvore(arvore, nivel):
 def translateTags(tree_split):
     raiz = Sintagma('', [], '', '')
     i, arvore = reconstroiArvore(tree_split, 0, raiz)
-    print(arvore)
+    # print(arvore)
     if settings.tagProblematica:
         revisaTags(arvore)
+        settings.tagProblematica = False
     tree_text = imprimeArvore(arvore, 0)
     return tree_text

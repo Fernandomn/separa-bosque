@@ -15,6 +15,7 @@ def init():
     global tagX
     global tag_acl
     global posTagsProb
+    global wordLevelTags
     global tagProblematica
     global tagCu
     global tagCJT
@@ -22,8 +23,10 @@ def init():
     global rel_point
     global rel_func_tag
     global rel_form_tag
+    global rel_func_form_tag
     global portugues
     global kompTag
+    global dictBrackets
 
     tagProblematica = False
     tagRemover = '_TOREMOVE_'
@@ -40,11 +43,21 @@ def init():
     tagPoint = 'PNT'
     kompTag = '_KOMP_'
     posTagsProb = [tag_x, tag_acl]
+    wordLevelTags = []
     tabela = {}
     tabelaFuncoes = {}
     rel_point = {}
     rel_form_tag = {}
     rel_func_tag = {}
+    rel_func_form_tag = {}
+    dictBrackets = {
+        '(': '-LRB-',
+        ')': '-RRB-',
+        '[': '-LSB-',
+        ']': '-RSB-',
+        '{': '-LCB-',
+        '}': '-RCB-'
+    }
 
 
 # Verifica se o o nó aliado é uma folha ou não
