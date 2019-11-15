@@ -42,7 +42,7 @@ def init():
     tagFlat = '_FLAT_'
     tagPoint = 'PNT'
     kompTag = '_KOMP_'
-    posTagsProb = [tag_x, tag_acl]
+    posTagsProb = [tag_x, tag_acl, tagCu]
     wordLevelTags = []
     tabela = {}
     tabelaFuncoes = {}

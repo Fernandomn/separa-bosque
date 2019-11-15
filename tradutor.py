@@ -84,7 +84,8 @@ def tradutorFuncao(func_tag, form_tag):
 
             # Orações
             'SUBJ': form_tag,  # sujeito - marcador de sentenças. A tag de forma costuma dizer o tipo de sintagma.
-            'ACC': form_tag,  # obj. directo - similar a sujeito, a tag forma informa o tipo de sintagma.
+            # obj. directo - similar a sujeito, a tag forma informa o tipo de sintagma.
+            'ACC': form_tag if form_tag != 'cu' else 'NP',
             'ACC-PASS': 'NP',
             # part. apassivante - ok, inglês não tem nenhuma particula de voz passiva. é obj+to be + verbo participio + compl. seguindo o proprio BOSQUE, é um NP
             'DAT': 'NP',  # obj. ind. pronominal - sempre NP.
@@ -208,7 +209,7 @@ def gera_tag_rels(func, form):
         settings.rel_form_tag[form] = 1
     else:
         settings.rel_form_tag[form] += 1
-    par = '{0}:{1}'.format(form, func)
+    par = '{0}:{1}'.format(func, form)
     if par not in settings.rel_func_form_tag:
         settings.rel_func_form_tag[par] = 1
     else:
@@ -220,6 +221,14 @@ def gera_point_rel(point):
         settings.rel_point[point] = 1
     else:
         settings.rel_point[point] += 1
+
+
+def removeHifens(tag):
+    if tag[0] == '-':
+        tag = tag[1:]
+    if tag[-1] == '-':
+        tag = tag[:-1]
+    return tag
 
 
 # reconstroi a estrutura da sentença classificada em árvores lógicas
@@ -240,12 +249,11 @@ def reconstroiArvore(frase_split, indice, arvore):
             # caso padrão. cabeçalho do bosque tem muitos valores
             elif ':' in frase_split[i + 1]:
                 split_temp = frase_split[i + 1].split(':')
-                func = split_temp[0]
-                form = split_temp[1]
-                if form[0] == '-':
-                    form = form[1:]
-                if form[-1] == '-':
-                    form = form[:-1]
+                # func = split_temp[0]
+                # form = split_temp[1]
+                func = removeHifens(split_temp[0])
+                form = removeHifens(split_temp[1])
+
                 # form = split_temp[1].replace('-', '')
 
                 gera_tag_rels(func, form)
