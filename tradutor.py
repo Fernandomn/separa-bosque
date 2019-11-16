@@ -347,6 +347,24 @@ def revisaTags(arvore):
                 arvore.filhos.insert(i, novo_filho)
                 arvore.removeFilho(filho)
                 arvore.removeFilho(irmao_direita)
+            if filho.classe == settings.percentTag:
+                irmao_esquerda = arvore.filhos[i - 1]
+                novo_filho = Sintagma('NP', arvore.classe, '{0} {1}'.format(irmao_esquerda.valor, filho.valor))
+                arvore.filhos.insert(i, novo_filho)
+                arvore.removeFilho(filho)
+                arvore.removeFilho(irmao_esquerda)
+            if filho.classe == '>A':
+                irmao_direita = arvore.filhos[i + 1]
+                if irmao_direita.classe == 'ADVP' or irmao_direita.classe == 'RB':
+                    filho.classe = 'ADVP'
+                if irmao_direita.classe == 'ADJP' or irmao_direita.classe == 'JJ':
+                    filho.classe = 'ADJP'
+            if filho.classe == 'A<':
+                irmao_esquerda = arvore.filhos[i - 1]
+                if irmao_esquerda.classe == 'ADVP' or irmao_esquerda.classe == 'RB':
+                    filho.classe = 'ADVP'
+                if irmao_esquerda.classe == 'ADJP' or irmao_esquerda.classe == 'JJ':
+                    filho.classe = 'ADJP'
             # if settings.removeTag == filho.classe:
             #     arvore.removeFilho(filho)
         # setRemoveTagsObj(arvore)
