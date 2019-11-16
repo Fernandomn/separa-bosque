@@ -3,7 +3,8 @@ import os
 import re
 from sintagma import Sintagma
 
-listaBrackets = ['(', ')', '[', ']', '{', '}']
+
+# listaBrackets = ['(', ')', '[', ']', '{', '}']
 
 
 # def tradutor(tag, i, originalLines):
@@ -12,16 +13,18 @@ def tradutor(tag):
         settings.tabela = {
             'S': 'S',  # Marcador de Sentença
 
-            # bracketing
-            '(': '-LRB-',
-            ')': '-RRB-',
-            '[': '-LSB-',
-            ']': '-RSB-',
-            '{': '-LCB-',
-            '}': '-RCB-',
+            # # bracketing
+            # '(': '-LRB-',
+            # ')': '-RRB-',
+            # '[': '-LSB-',
+            # ']': '-RSB-',
+            # '{': '-LCB-',
+            # '}': '-RCB-',
 
             # Formas Oracionais
+            # 3.1: A oração finita (fcl) contém um verbo de forma finita. A oração não finita (icl) contém um verbo de forma não finita, como particípio passado, infinitivo e gerúndio. Finalmente, na oração averbal, o verbo não está presente, mas normalmente estas orações são encabeçadas por uma conjunção subordinativa que indica a natureza oracional do período.
             'fcl': 'VP',  # Forma Oracional Finita -> usa verbos não no infinitivo -> sintagma verbal
+            # Relativamente às orações não finitas e em particular àquelas que têm por predicador um verbo de forma participial, nem sempre a presença desta forma verbal implica a formação de oração.
             'icl': 'VP',  # Forma Oracional não finita
             'acl': 'ADVP',  # Forma Oracional averbal TODO
 
@@ -87,7 +90,7 @@ def tradutorFuncao(func_tag, form_tag):
             'SUBJ': tradutor(form_tag),
             # sujeito - marcador de sentenças. A tag de forma costuma dizer o tipo de sintagma.
             # obj. directo - similar a sujeito, a tag forma informa o tipo de sintagma.
-            'ACC': tradutor(form_tag) if form_tag != 'cu' else 'NP',
+            'ACC': tradutor(form_tag) if form_tag != 'cu' or form_tag != 'acl' else 'NP',
             'ACC-PASS': 'NP',
             # part. apassivante - ok, inglês não tem nenhuma particula de voz passiva. é obj+to be + verbo participio + compl. seguindo o proprio BOSQUE, é um NP
             'DAT': 'NP',  # obj. ind. pronominal - sempre NP.
@@ -134,7 +137,7 @@ def tradutorFuncao(func_tag, form_tag):
             # 'PRT-AUX': 'IN',  # part. lig. verbal - MAIOR PARTE DISPARADA PRP
             # 'SUB': 'IN',  # subordinador - sempre conj-s
             # 'CO': 'CC',  # coordenador - CONJ-C maioria
-            # elemento conjunto - P/ cjt, maioria np (maioria nao absoluta)
+            # elemento conjunto
             'CJT': settings.tagCJT,
             # 11.2. Coordenação de constituintes com funções diferentes
             'CJT&ACC': 'NP',
@@ -152,7 +155,7 @@ def tradutorFuncao(func_tag, form_tag):
             'A<': 'A<',  # Adjuntos adverbiais/adjectivais - PRECISA VERIFICAR O NUCLEO (irmão) TODO
             '>P': 'PP',  # Adjuntos preposicionais - Adjunto de PP, pela X'
             'P<': 'PP',  # Adjuntos preposicionais - Adjunto de PP, pela X'
-            'KOMP<': settings.kompTag,  # Comparativos - Comp. é o cap. 22 inteiro do bracketing guidelines. TODO
+            'KOMP<': settings.tagKomp,  # Comparativos - Comp. é o cap. 22 inteiro do bracketing guidelines. TODO
         }
 
     # func_tag.replace('-', '')
@@ -170,36 +173,36 @@ def createTransFile(originalLines, dir):
     # tamTagRemover = len(settings.tagRemover)
     tree_text = ''
     here = os.path.dirname(os.path.realpath(__file__))
+    #
+    # with open('Bosque_0001', 'w') as finalFile:
+    #     # eu quero declarar a variavel de arquivo aqui
+    for i in range(len(originalLines)):
+        line = originalLines[i]
 
-    with open('Bosque_0001', 'w') as finalFile:
-        # eu quero declarar a variavel de arquivo aqui
-        for i in range(len(originalLines)):
-            line = originalLines[i]
+        if line[0] == '#':
+            numero = line[1:].split(' ')[0]
+            if numero.isdigit():
+                # frase = line[line.index(' ') + 1:]
+                numero_tratado = settings.tratarNumero(numero)
+                print(numero_tratado)
+                file_name = 'Bosque_' + numero_tratado
 
-            if line[0] == '#':
-                numero = line[1:].split(' ')[0]
-                if numero.isdigit():
-                    # frase = line[line.index(' ') + 1:]
-                    numero_tratado = settings.tratarNumero(numero)
-                    print(numero_tratado)
-                    file_name = 'Bosque_' + numero_tratado
+                filepath = os.path.join(here, dir, file_name)
 
-                    filepath = os.path.join(here, dir, file_name)
+                finalFile = open(filepath, 'w', encoding='utf-8')
 
-                    finalFile = open(filepath, 'w')
+        elif line.strip() == '':
+            if not finalFile.closed:
+                tree_split = fatia_arvore(tree_text)
+                tree_translate = translateTags(tree_split)
+                finalFile.write(tree_translate)
+                finalFile.close()
+                tree_text = ''
 
-            elif line.strip() == '':
-                if not finalFile.closed:
-                    tree_split = fatia_arvore(tree_text)
-                    tree_translate = translateTags(tree_split)
-                    finalFile.write(tree_translate)
-                    finalFile.close()
-                    tree_text = ''
-
-            else:
-                if finalFile.closed:
-                    continue
-                tree_text += '' + line.strip()
+        else:
+            if finalFile.closed:
+                continue
+            tree_text += '' + line.strip()
 
 
 def gera_tag_rels(func, form):
@@ -216,6 +219,11 @@ def gera_tag_rels(func, form):
         settings.rel_func_form_tag[par] = 1
     else:
         settings.rel_func_form_tag[par] += 1
+    par = '{0}:{1}'.format(form, func)
+    if par not in settings.rel_form_func_tag:
+        settings.rel_form_func_tag[par] = 1
+    else:
+        settings.rel_form_func_tag[par] += 1
 
 
 def gera_point_rel(point):
@@ -263,16 +271,22 @@ def reconstroiArvore(frase_split, indice, arvore):
                 if form not in settings.posTagsProb:
                     frase_split[i + 1] = tradutor(form)
                 else:
-                    frase_split[i + 1] = tradutorFuncao(func, form)
+                    # TODO
+                    if func == 'CJT' and form == 'x':
+                        frase_split[i + 1] = tradutor('vp')
+                    elif func == 'CJT' and form == 'acl':
+                        frase_split[i + 1] = tradutor('S')
+                    else:
+                        frase_split[i + 1] = tradutorFuncao(func, form)
                 classe = frase_split[i + 1]
 
             # pontuações. são SEMPRE um problema.
             elif re.match('\W', frase_split[i + 1]):
                 classe = settings.tagPoint
-
-            # se a árvore precisar ser corrigida no futuro.
-            if '_' in classe and not settings.tagProblematica:
-                settings.tagProblematica = True
+            #
+            # # se a árvore precisar ser corrigida no futuro.
+            # if '_' in classe and not settings.tagProblematica:
+            #     settings.tagProblematica = True
 
             nova_arvore = Sintagma(classe, [], arvore.classe, '')
             novo_indice, subarvore = reconstroiArvore(frase_split[i + 1:], i + 1, nova_arvore)
@@ -294,6 +308,10 @@ def reconstroiArvore(frase_split, indice, arvore):
                 if palavra in settings.dictBrackets:
                     palavra = settings.dictBrackets[palavra]
                 classe = settings.tagPoint
+
+            # se a árvore precisar ser corrigida no futuro.
+            if '_' in classe and not settings.tagProblematica:
+                settings.tagProblematica = True
 
             if len(arvore.filhos):
                 subarvore = Sintagma(classe, arvore.filhos, arvore.classe_pai, '')
@@ -324,23 +342,39 @@ def tagFilhosCoord(filhos):
 def revisaTags(arvore):
     classe = arvore.classe
 
+    # aqui em cima, ficam as verificações referentes ao nó individualmente, ou do nó com seus filhos
+
+    # em caso de coordenação, pelo PTB o que importa é saber o tipo de sintagmas sendo
+    # coordenados. se forem iguais, o sintagma pai tem o mesmo tipo que seus filhos.
+    # C.C., recebe a tag UCP
     if classe == settings.tagCoord:
         # pro futuro: colocar function tags no UCP.
         arvore.classe = tagFilhosCoord(arvore.filhos)
         arvore.atualizaClasseFilhos()
-
-    # if classe == settings.pointTag:
-    #     return
-    # if classe in settings.tagsProblematicas:
-    #     arvore = consertaTagProbObj(arvore)
+    # A comparação pro PTB, recebe a tag dependendo do tipo dos filhos. se o filho é folha,
+    # ela será um PP. C.C., SBAR.
+    if classe == settings.tagKomp:
+        comparativo = arvore.filhos[0].valor
+        if len(arvore.filhos) > 1 and len(arvore.filhos[1].filhos) > 0:
+            tag = 'SBAR'
+        else:
+            tag = 'PP'
+        arvore.valor = comparativo
+        arvore.classe = tag
+        arvore.removeFilho(arvore.filhos[0])
+        arvore.atualizaClasseFilhos()
 
     if len(arvore.filhos) > 0:
         for i in range(len(arvore.filhos)):
+            # aqui ficam as verificações dos nós com relação aos seus irmãos
+
             # como vários nós serão removidos, restrição para não travar o loop
             if i >= len(arvore.filhos):
                 break
+            # recursão
             filho = arvore.filhos[i]
             revisaTags(filho)
+
             if filho.classe == settings.tagHifem:
                 irmao_direita = arvore.filhos[i + 1]
                 novo_filho = Sintagma('NP', [], arvore.classe, '{0}{1}'.format(filho.valor, irmao_direita.valor))
@@ -349,7 +383,7 @@ def revisaTags(arvore):
                 arvore.removeFilho(irmao_direita)
             if filho.classe == settings.percentTag:
                 irmao_esquerda = arvore.filhos[i - 1]
-                novo_filho = Sintagma('NP', arvore.classe, '{0} {1}'.format(irmao_esquerda.valor, filho.valor))
+                novo_filho = Sintagma('NP', [], arvore.classe, '{0} {1}'.format(irmao_esquerda.valor, filho.valor))
                 arvore.filhos.insert(i, novo_filho)
                 arvore.removeFilho(filho)
                 arvore.removeFilho(irmao_esquerda)
@@ -394,10 +428,16 @@ def imprimeArvore(arvore, nivel):
             for filho in arvore.filhos:
                 string_filhos += imprimeArvore(filho, nivel + 1)
 
-            string_retorno = '{0}({1} \n{2}{0})\n'.format(espaco_esquerda, arvore.classe, string_filhos)
+            if arvore.valor != '':
+                string_retorno = '{0}({1} {2}\n{3}{0})\n'.format(espaco_esquerda, arvore.classe, arvore.valor,
+                                                                 string_filhos)
+            else:
+                string_retorno = '{0}({1} \n{2}{0})\n'.format(espaco_esquerda, arvore.classe, string_filhos)
     # terminal
     else:
-        if arvore.classe == settings.tagPoint:
+        # tratamento para pontuações e nós sem marcação é o mesmo: remove tag, remove
+        # parenteses, imprime so o conteudo
+        if arvore.classe == settings.tagPoint or arvore.classe == settings.tagFlat:
             string_retorno = '{0}{1}\n'.format(espaco_esquerda, arvore.valor)
             # string_retorno = ''
         else:

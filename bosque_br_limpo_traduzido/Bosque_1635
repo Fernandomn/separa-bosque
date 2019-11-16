@@ -7,11 +7,11 @@
      (NNP Rosa)
      ,
      (NP 
-      (ADVP 
+      (NP 
        (NP 
         (NN nutricionista)
        )
-       (_FLAT_ e)
+       e
        (NP 
         (NN professora)
        )
@@ -41,8 +41,8 @@
     )
    )
    -RRB-
-   (_X_ 
-    (_CJT_ 
+   (VP 
+    (VP 
      (NP 
       (PRP se)
      )
@@ -50,8 +50,8 @@
       (VBP ingerem)
      )
     )
-    (_FLAT_ e)
-    (_CJT_ 
+    e
+    (VP 
      (VP 
       (VBP digerem)
      )

@@ -67,8 +67,9 @@ def print_occ_list(rel, rel_name):
 
 
 def imprimeRelatorios():
-    rel_list = [settings.rel_point, settings.rel_form_tag, settings.rel_func_tag, settings.rel_func_form_tag]
-    rel_names = ["rel_point", "rel_form_tag", "rel_func_tag", "rel_func_form_tag"]
+    rel_list = [settings.rel_point, settings.rel_form_tag, settings.rel_func_tag, settings.rel_func_form_tag,
+                settings.rel_form_func_tag]
+    rel_names = ["rel_point", "rel_form_tag", "rel_func_tag", "rel_func_form_tag", "rel_form_func_tag"]
     for i in range(len(rel_list)):
         print_occ_list(rel_list[i], rel_names[i])
 

@@ -24,8 +24,9 @@ def init():
     global rel_func_tag
     global rel_form_tag
     global rel_func_form_tag
+    global rel_form_func_tag
     global portugues
-    global kompTag
+    global tagKomp
     global dictBrackets
 
     tagProblematica = False
@@ -41,15 +42,16 @@ def init():
     tagX = '_X_'
     tagFlat = '_FLAT_'
     tagPoint = 'PNT'
-    kompTag = '_KOMP_'
+    tagKomp = '_KOMP_'
     posTagsProb = [tag_x, tag_acl]
-    wordLevelTags = []
+    wordLevelTags = [tagFlat]
     tabela = {}
     tabelaFuncoes = {}
     rel_point = {}
     rel_form_tag = {}
     rel_func_tag = {}
     rel_func_form_tag = {}
+    rel_form_func_tag = {}
     dictBrackets = {
         '(': '-LRB-',
         ')': '-RRB-',

@@ -9,11 +9,11 @@
     (DT a)
     (NN equipe)
     (ADJP 
-     (JJ econÙmica)
+     (JJ econ√¥mica)
     )
    )
-   (_X_ 
-    (_CJT_ 
+   (UCP 
+    (VP 
      (VP 
       (VBP chegou)
       (IN a)
@@ -21,7 +21,7 @@
      )
      (NP 
       (DT a)
-      (NN privatizaÁ„o)
+      (NN privatiza√ß√£o)
       (PP 
        (IN de+)
        (NP 
@@ -29,23 +29,23 @@
         (NN empresas)
         (PP 
          (IN de+)
-         (PP 
+         (UCP 
           (NP 
            (DT o)
            (NN grupo)
            (NP 
-            (NNP Nuclebr·s)
+            (NNP Nuclebr√°s)
            )
           )
           ,
-          (IN alÈm_de)
+          (IN al√©m_de)
           (NP 
            (NNP Angra)
-           (NP 
+           (ADJP 
             (ADJP 
              (CD 1)
             )
-            (_FLAT_ e)
+            e
             (ADJP 
              (CD 2)
             )
@@ -58,10 +58,10 @@
      )
     )
     ,
-    (_FLAT_ mas)
-    (_CJT_ 
+    mas
+    (VP 
      (ADVP 
-      (RB n„o)
+      (RB n√£o)
      )
      (VP 
       (VBP chegou)
