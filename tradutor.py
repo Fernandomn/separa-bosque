@@ -1,10 +1,9 @@
-import settings
 import os
 import re
+
+import corretor as cor
+import settings
 from sintagma import Sintagma
-
-
-# listaBrackets = ['(', ')', '[', ']', '{', '}']
 
 
 # def tradutor(tag, i, originalLines):
@@ -36,7 +35,7 @@ def tradutor(tag):
             'pp': 'PP',  # Sintagma preposicionais
             # Sintagma evidenciador coordenação
             'cu': settings.tagCoord,
-            # Sintagma sequências discursivas - (pnc dessa tag). Substituir por NP, por ser a tag filha imediata desta
+            # Sintagma sequências discursivas - começo de sentença
             'sq': 'S',
 
             # Classes de palavras
@@ -46,24 +45,22 @@ def tradutor(tag):
             'prop': 'NNP',  # nomes próprios
             'adv': 'RB',  # advérbios
             'num': 'CD',  # numeral
-            'v-fin': 'VBP',  # verbos finitos - Verbo "normal". conferir inflexão da 3ª pessoa do inglês
+            'v-fin': 'VBP',  # verbos finitos
             'v-ger': 'VBG',  # verbos gerúndios
             'v-pcp': 'VBN',  # verbos particípios
             'v-inf': 'VB',  # verbos infinitivos
             'art': 'DT',  # artigos
-            # pronomes determinativos - essa distinção não parece se aplicar propriamente àos pronomes em inglês. pesquisar mais. Notar que DEterminante não é Determiner (Artigo)
-            'pron-det': 'PRP',
-            # pronomes independentes - não achei essa classificação, independentes.
-            'pron-rel': 'PRP',
-            # pronomes independentes (tag nao está no dicionario oficial da linguateca)
+            # pronomes determinativos - por PTB (POS guide), pronomes determinantes são DT
+            'pron-det': 'DT',
+            # pronomes independentes - pronomes relativos
             'pron-indp': 'PRP',
-            'pron-pess': 'PRP',  # pronomes pessoais
-            # pronomes pessoais (tag nao está no dicionario oficial da linguateca)
+            # pronomes pessoais
             'pron-pers': 'PRP',
             'prp': 'IN',  # preposições
             'intj': 'UH',  # interjeições
             'conj-s': 'IN',  # conjunções subordinativa
-            'conj-c': settings.tagFlat,  # conjunções coordenativa
+            'conj-c': settings.tagConjCoord,  # conjunções coordenativa
+            # 'conj-c': settings.tagFlat,  # conjunções coordenativa
             'ec': settings.tagHifem,  # prefixos - ativei o modo Elza e let it go
         }
 
@@ -90,15 +87,18 @@ def tradutorFuncao(func_tag, form_tag):
             'SUBJ': tradutor(form_tag),
             # sujeito - marcador de sentenças. A tag de forma costuma dizer o tipo de sintagma.
             # obj. directo - similar a sujeito, a tag forma informa o tipo de sintagma.
-            'ACC': tradutor(form_tag) if form_tag != 'cu' or form_tag != 'acl' else 'NP',
+            'ACC': tradutor(form_tag) if form_tag != settings.tagCu or form_tag != 'acl' else 'NP',
             'ACC-PASS': 'NP',
-            # part. apassivante - ok, inglês não tem nenhuma particula de voz passiva. é obj+to be + verbo participio + compl. seguindo o proprio BOSQUE, é um NP
+            # part. apassivante - ok, inglês não tem nenhuma particula de voz passiva. é obj+to be + verbo participio +
+            # compl. seguindo o proprio BOSQUE, é um NP
             'DAT': 'NP',  # obj. ind. pronominal - sempre NP.
             'PIV': 'PP',  # obj. ind. preposicional
+            # agente passiva - por def (https://www.normaculta.com.br/agente-da-passiva/), "é um termo preposicionado).
+            # Logo, PP
             'PASS': 'PP',
-            # agente passiva - por def (https://www.normaculta.com.br/agente-da-passiva/), "é um termo preposicionado). Logo, PP
-            # adj. adverbiais do sujeito - poderia ser cu, pp, advp e np (referente ao BOSQUE), mas pp ocorre muito mais vezes
-            'SA': 'IN',
+            # adj. adverbiais do sujeito - adjunto adverbial sem ser PIV ou ADVL. Por definição de projeto (esse valor
+            # só é requerido quando form é x, e na unica ocorrência, ele equivale a 'pp'
+            'SA': 'PP',
             'OA': tradutor(form_tag),  # adj. adverbiais do objecto - formTag informa o sintagma
             # adj. adverbiais  - a form_tag informa o sintagma. em caso de ACL, é advp.
             'ADVL': 'ADVP' if form_tag == 'acl' else tradutor(form_tag),
@@ -116,9 +116,9 @@ def tradutorFuncao(func_tag, form_tag):
             # apostos epit. predicativo - pode ser fcl, np, pp, cu. É bem distribuido, mas a priori, a maior parte é NP
             '>S': 'JJ',  # apostos da oração - se for >S, é sempre adj.
             'S<': 'NP',  # apostos da oração - se for S<, pode ser fcl ou np. Mais seguro ir no np
-            'N<ARGS': 'IN',  # compl. nominais do sujeito - só tem pp, ufa
-            'N<ARGO': 'IN',  # compl. nominais do objecto - só tem pp
-            'N<ARG': 'IN',  # compl. nominais outros - só pp
+            'N<ARGS': 'PP',  # compl. nominais do sujeito
+            'N<ARGO': 'PP',  # compl. nominais do objecto
+            'N<ARG': 'PP',  # compl. nominais outros
             'P': 'VB',  # predicador - maior parte disparado é vp
             'FOC': 'RB',  # foco - maioria é advp
             # tópico - poucos casos. todos envolvem ou np, ou pronome.
@@ -163,7 +163,7 @@ def tradutorFuncao(func_tag, form_tag):
 
 
 def fatia_arvore(frase):
-    frase_split = re.findall('[\(\)]|[\wÀ-ú\,\.\'\"\!\*\,-\/\:\;\?\`\<\>\{\}\%\+\[\]\&]*', frase)
+    frase_split = re.findall('[\(\)]|[\wÀ-ú\,\.\'\"\!\*\,-\/\:\;\?\`\<\>\{\}\%\+\[\]\&\$\«\»]*', frase)
     frase_split = [c.strip() for c in frase_split]
     frase_split = [i for i in frase_split if i != '']
     return frase_split
@@ -171,6 +171,7 @@ def fatia_arvore(frase):
 
 def createTransFile(originalLines, dir):
     # tamTagRemover = len(settings.tagRemover)
+    numero_tratado = ''
     tree_text = ''
     here = os.path.dirname(os.path.realpath(__file__))
     #
@@ -184,7 +185,7 @@ def createTransFile(originalLines, dir):
             if numero.isdigit():
                 # frase = line[line.index(' ') + 1:]
                 numero_tratado = settings.tratarNumero(numero)
-                print(numero_tratado)
+                settings.sentenca_atual = numero_tratado
                 file_name = 'Bosque_' + numero_tratado
 
                 filepath = os.path.join(here, dir, file_name)
@@ -194,7 +195,9 @@ def createTransFile(originalLines, dir):
         elif line.strip() == '':
             if not finalFile.closed:
                 tree_split = fatia_arvore(tree_text)
-                tree_translate = translateTags(tree_split)
+                tree_translate = translateTags(tree_split) if numero_tratado not in settings.filesToIgnore else ''
+                # tree_translate = translateTags(tree_split)
+
                 finalFile.write(tree_translate)
                 finalFile.close()
                 tree_text = ''
@@ -268,7 +271,10 @@ def reconstroiArvore(frase_split, indice, arvore):
 
                 gera_tag_rels(func, form)
 
-                if form not in settings.posTagsProb:
+                if (form == settings.tagCu or form == settings.tag_acl) and func in settings.sentenceList:
+                    # if form == settings.tag_acl and func in settings.sentenceList:
+                    frase_split[i + 1] = 'S'
+                elif form not in settings.posTagsProb:
                     frase_split[i + 1] = tradutor(form)
                 else:
                     # TODO
@@ -297,10 +303,14 @@ def reconstroiArvore(frase_split, indice, arvore):
             palavra = frase_split[i - 1]
             classe = frase_split[0]
 
+            if classe == 'CD' and ',' in palavra:
+                palavra = palavra.replace(',', '.')
+
             # porcentagem é considerada uma palavra, logo, um nó. será necessário marcá-lo, para transformar o símbolo,
             # e o numero anterior, numa \textit{flat structure}
             if palavra == '%':
                 classe = settings.percentTag
+                # palavra = ''
 
             #     palavra == classe quando é um sinal
             if re.match('\W', palavra) and palavra == classe:
@@ -323,135 +333,11 @@ def reconstroiArvore(frase_split, indice, arvore):
     return i, arvore
 
 
-# revisa e corrige tags que precisem de tratamentos especiais
-def tagFilhosCoord(filhos):
-    # classe_base = filhos[0].classe
-    filhos_iguais = True
-    tag_comp = ''
-    for filho in filhos:
-        if filho.classe == settings.tagFlat:
-            continue
-        if tag_comp == '':
-            tag_comp = filho.classe
-        if filho.classe != tag_comp:
-            filhos_iguais = False
-            break
-    return tag_comp if filhos_iguais else 'UCP'
-
-
-def revisaTags(arvore):
-    classe = arvore.classe
-
-    # aqui em cima, ficam as verificações referentes ao nó individualmente, ou do nó com seus filhos
-
-    # em caso de coordenação, pelo PTB o que importa é saber o tipo de sintagmas sendo
-    # coordenados. se forem iguais, o sintagma pai tem o mesmo tipo que seus filhos.
-    # C.C., recebe a tag UCP
-    if classe == settings.tagCoord:
-        # pro futuro: colocar function tags no UCP.
-        arvore.classe = tagFilhosCoord(arvore.filhos)
-        arvore.atualizaClasseFilhos()
-    # A comparação pro PTB, recebe a tag dependendo do tipo dos filhos. se o filho é folha,
-    # ela será um PP. C.C., SBAR.
-    if classe == settings.tagKomp:
-        comparativo = arvore.filhos[0].valor
-        if len(arvore.filhos) > 1 and len(arvore.filhos[1].filhos) > 0:
-            tag = 'SBAR'
-        else:
-            tag = 'PP'
-        arvore.valor = comparativo
-        arvore.classe = tag
-        arvore.removeFilho(arvore.filhos[0])
-        arvore.atualizaClasseFilhos()
-
-    if len(arvore.filhos) > 0:
-        for i in range(len(arvore.filhos)):
-            # aqui ficam as verificações dos nós com relação aos seus irmãos
-
-            # como vários nós serão removidos, restrição para não travar o loop
-            if i >= len(arvore.filhos):
-                break
-            # recursão
-            filho = arvore.filhos[i]
-            revisaTags(filho)
-
-            if filho.classe == settings.tagHifem:
-                irmao_direita = arvore.filhos[i + 1]
-                novo_filho = Sintagma('NP', [], arvore.classe, '{0}{1}'.format(filho.valor, irmao_direita.valor))
-                arvore.filhos.insert(i, novo_filho)
-                arvore.removeFilho(filho)
-                arvore.removeFilho(irmao_direita)
-            if filho.classe == settings.percentTag:
-                irmao_esquerda = arvore.filhos[i - 1]
-                novo_filho = Sintagma('NP', [], arvore.classe, '{0} {1}'.format(irmao_esquerda.valor, filho.valor))
-                arvore.filhos.insert(i, novo_filho)
-                arvore.removeFilho(filho)
-                arvore.removeFilho(irmao_esquerda)
-            if filho.classe == '>A':
-                irmao_direita = arvore.filhos[i + 1]
-                if irmao_direita.classe == 'ADVP' or irmao_direita.classe == 'RB':
-                    filho.classe = 'ADVP'
-                if irmao_direita.classe == 'ADJP' or irmao_direita.classe == 'JJ':
-                    filho.classe = 'ADJP'
-            if filho.classe == 'A<':
-                irmao_esquerda = arvore.filhos[i - 1]
-                if irmao_esquerda.classe == 'ADVP' or irmao_esquerda.classe == 'RB':
-                    filho.classe = 'ADVP'
-                if irmao_esquerda.classe == 'ADJP' or irmao_esquerda.classe == 'JJ':
-                    filho.classe = 'ADJP'
-            # if settings.removeTag == filho.classe:
-            #     arvore.removeFilho(filho)
-        # setRemoveTagsObj(arvore)
-    else:
-        return
-
-
-# imprime a árvore no padrão PTB
-def imprimeArvore(arvore, nivel):
-    espaco_esquerda = ''.join(' ' for n in range(nivel))
-
-    # raiz
-    if arvore.classe == '':
-        return '(\n{0})'.format(imprimeArvore(arvore.filhos[0], nivel + 1))
-
-    # nao-terminal
-    if len(arvore.filhos) > 0:
-
-        string_filhos = ''
-        if arvore.classe in settings.wordLevelTags and arvore.valor != '':
-            for filho in arvore.filhos:
-                string_filhos += filho.valor + ' '
-
-            string_retorno = '{0}{1}\n'.format(espaco_esquerda, string_filhos.strip())
-            # string_retorno = '{0}({1} {2})\n'.format(espaco_esquerda, arvore.classe, string_filhos.strip())
-        else:
-            for filho in arvore.filhos:
-                string_filhos += imprimeArvore(filho, nivel + 1)
-
-            if arvore.valor != '':
-                string_retorno = '{0}({1} {2}\n{3}{0})\n'.format(espaco_esquerda, arvore.classe, arvore.valor,
-                                                                 string_filhos)
-            else:
-                string_retorno = '{0}({1} \n{2}{0})\n'.format(espaco_esquerda, arvore.classe, string_filhos)
-    # terminal
-    else:
-        # tratamento para pontuações e nós sem marcação é o mesmo: remove tag, remove
-        # parenteses, imprime so o conteudo
-        if arvore.classe == settings.tagPoint or arvore.classe == settings.tagFlat:
-            string_retorno = '{0}{1}\n'.format(espaco_esquerda, arvore.valor)
-            # string_retorno = ''
-        else:
-            string_retorno = '{0}({1} {2})\n'.format(espaco_esquerda, arvore.classe, arvore.valor)
-
-    return string_retorno
-
-
 def translateTags(tree_split):
     raiz = Sintagma('', [], '', '')
     i, arvore = reconstroiArvore(tree_split, 0, raiz)
-    # print(arvore)
     if settings.tagProblematica:
-        revisaTags(arvore)
+        cor.revisaTags(arvore)
         settings.tagProblematica = False
-    tree_text = imprimeArvore(arvore, 0)
+    tree_text = cor.imprimeArvore(arvore, 0)
     return tree_text

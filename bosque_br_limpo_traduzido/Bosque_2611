@@ -4,7 +4,6 @@
    (ADVP 
     (RB Assim)
    )
-   ,
    (VP 
     (IN se)
     (NP 
@@ -18,11 +17,9 @@
      (DT uma)
      (NN planilha)
     )
-    ,
     (ADVP 
      (RB por_exemplo)
     )
-    ,
    )
    (VP 
     (VP 
@@ -30,16 +27,14 @@
       (VBP pode)
       (VB selecionar)
      )
-     (UCP 
+     (NP 
       (NP 
        (NN parte)
       )
-      -LCB-
       ou
       (NP 
-       (PRP todo)
+       (DT todo)
       )
-      -RCB-
      )
     )
     e
@@ -59,12 +54,12 @@
        (IN para)
        (NP 
         (NP 
-         (PRP outra)
+         (DT outra)
          (NN planilha)
         )
         ou
         (NP 
-         (PRP qualquer)
+         (DT qualquer)
          (NN programa)
          (VP 
           (NP 
@@ -82,7 +77,6 @@
      )
     )
    )
-   .
   )
  )
 )

@@ -1,15 +1,14 @@
 (
  (S 
-  (UCP 
+  (S 
    (VP 
     (VP 
      (VBP Pedem)
     )
-    (UCP 
+    (NP 
      (NP 
       (NN cerveja)
      )
-     ,
      (NP 
       (NN tequila)
      )
@@ -18,7 +17,6 @@
       (NN batidas)
      )
     )
-    ,
     (PP 
      (IN em+)
      (NP 
@@ -30,7 +28,7 @@
       (PP 
        (IN de)
        (NP 
-        (NN US)
+        (NN US$)
         (ADJP 
          (CD 30)
         )
@@ -45,8 +43,7 @@
      )
     )
    )
-   ,
-   e
+   (CC e)
    (VP 
     (VP 
      (VBP falam)
@@ -63,7 +60,6 @@
        (NP 
         (PRP que)
        )
-       ,
        (VP 
         (IN como)
         (VP 
@@ -73,12 +69,10 @@
          (NNP Rubinho_Gimenes)
         )
        )
-       ,
        (VP 
         (VBP são)
        )
        (ADJP 
-        -RRB-
         (JJ cheios)
         (PP 
          (IN de)
@@ -93,13 +87,11 @@
           )
          )
         )
-        -RRB-
        )
       )
      )
     )
    )
-   .
   )
  )
 )

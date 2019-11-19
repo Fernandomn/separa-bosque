@@ -1,43 +1,74 @@
-['(', 'S',
-    '(', 'STA:fcl',
-        '(', 'ADVL:np',
-            '(', 'H:prop:Brasília:F_S:', 'Brasília', ')',
-         ')',
-         '(', 'SUBJ:np',
-            '(', 'H:n:Pesquisa_Datafolha:F_S::np-idf:', 'Pesquisa_Datafolha', ')',
-            '(', 'N<:icl',
-                '(', 'P:vp',
-                    '(', 'MV:v-pcp:publicar:F_S:::', 'publicada', ')',
-                 ')',
-                 '(', 'ADVL:advp',
-                    '(', 'H:adv:hoje::::', 'hoje', ')',
-                 ')',
-             ')',
-         ')',
-         '(', 'P:vp',
-            '(', 'MV:v-fin:revelar:PR_3S_IND:::', 'revela', ')',
-          ')',
-          '(', 'ACC:np',
-            '(', '>N:art:um:M_S::arti:', 'um', ')',
-            '(', 'H:n:dado:M_S::np-idf:', 'dado', ')',
-            '(', 'N<:adjp',
-                '(', 'H:adj:surpreendente:M_S::ALT:', 'supreendente', ')',
-             ')',
-             '(', ';', ')',
-             '(', 'N<PRED:fcl',
-                '(', 'ADVL:icl::::ger:',
-                    '(', 'P:vp',
-                        '(', 'MV:v-ger:recusar::::', 'recusando', ')',
-                     ')',
-                 '(', 'ACC:np',
-                    '(', '>N:art:um:F_S::arti:', 'uma', ')',
-                    '(', 'H:n:postura:F_S::np-idf:', 'postura', ')',
-                    '(', 'N<:adjp',
-                        '(', 'H:adj:radical:F_S:::', 'radical', ')',
-                    ')',
-                ')',
-            ')',
-            '(', ',', ')',
-            '(', 'SUBJ:np',
-                '(', '>N:art:o:F_S::artd:', 'a'...
+# Enunciados - Todos Enunciados são considerados inicios de Sentenças -> S
+'UTT': 'S',  # enunciados
+'STA': 'S',  # declarativo
+'QUE': 'S',  # interrogativo
+'CMD': 'S',  # imperativo
+'EXC': 'S',  # exclamativo
 
+# Orações
+'SUBJ': tradutor(form_tag), sujeito - marcador de sentenças. A tag de forma costuma dizer o tipo de sintagma.
+obj. directo - similar a sujeito, a tag forma informa o tipo de sintagma.
+'ACC': tradutor(form_tag) if form_tag != 'cu' or form_tag != 'acl' else 'NP',
+'ACC-PASS': 'NP',
+# part. apassivante - ok, inglês não tem nenhuma particula de voz passiva. é obj+to be + verbo participio +
+# compl. seguindo o proprio BOSQUE, é um NP
+'DAT': 'NP',  # obj. ind. pronominal - sempre NP.
+'PIV': 'PP',  # obj. ind. preposicional
+# agente passiva - por def (https://www.normaculta.com.br/agente-da-passiva/), "é um termo preposicionado).
+# Logo, PP
+'PASS': 'PP',
+# adj. adverbiais do sujeito - adjunto adverbial sem ser PIV ou ADVL. Por definição de projeto (esse valor
+# só é requerido quando form é x, e na unica ocorrência, ele equivale a 'pp'
+'SA': 'PP',
+'OA': tradutor(form_tag),  # adj. adverbiais do objecto - formTag informa o sintagma
+# adj. adverbiais  - a form_tag informa o sintagma. em caso de ACL, é advp.
+'ADVL': 'ADVP' if form_tag == 'acl' else tradutor(form_tag),
+# predicativos do sujeito - O Predicativo do Sujeito, representado pela etiqueta SC estabelece uma relação de
+# predicação com o sujeito por meio de verbos copulativos ou verbos que, não sendo copulativos, exibem um
+# comportamento semelhante em termos semânticos (Biblia). Logo, VP
+'SC': 'VP',
+# predicativos do objecto - a tag form costuma dizer o sintagma.
+'OC': 'NP' if form_tag == 'acl' else tradutor(form_tag),
+# predicativos verbo-nominais - podem ser icl, np, pp, adjp, cu, adj, pron-det. icl maioria.
+'PRED': 'VP',
+'VOC': 'NP',  # vocativo - todo vocativo do bosque é um NP
+'APP': 'NP',  # apostos normal - pode ser fcl, np, adjp, cu, advp. np maioria
+'N<PRED': 'NP',
+# apostos epit. predicativo - pode ser fcl, np, pp, cu. É bem distribuido, mas a priori, a maior parte é NP
+'>S': 'JJ',  # apostos da oração - se for >S, é sempre adj.
+'S<': 'NP',  # apostos da oração - se for S<, pode ser fcl ou np. Mais seguro ir no np
+'N<ARGS': 'PP',  # compl. nominais do sujeito
+'N<ARGO': 'PP',  # compl. nominais do objecto
+'N<ARG': 'PP',  # compl. nominais outros
+'P': 'VB',  # predicador - maior parte disparado é vp
+'FOC': 'RB',  # foco - maioria é advp
+# tópico - poucos casos. todos envolvem ou np, ou pronome.
+'TOP': 'NP',
+'X': settings.tagX,
+
+# Palavra
+'H': tradutor(form_tag),  # núcleo
+# verbo auxiliar (pra que por duas tags pramsm função? tnc). Maioria v-fin
+'AUX': 'VBP',
+# Por 11.1.1. Particípios com argumentos coordenados, com partilha de auxiliar, considerado VP
+'AUX<': 'VP',
+# 'PAUX': 'VBP',  # verbo auxiliar
+# 'PRT-AUX': 'IN',  # part. lig. verbal - MAIOR PARTE DISPARADA PRP
+# 'SUB': 'IN',  # subordinador - sempre conj-s
+# 'CO': 'CC',  # coordenador - CONJ-C maioria
+# elemento conjunto
+'CJT': settings.tagCJT,
+# 11.2. Coordenação de constituintes com funções diferentes
+'CJT&ACC': 'NP',
+'CJT&PRED': 'ADJP',
+'CJT&ADVL': 'PP',
+'CJT&PASS': 'PP',
+
+# Adjuntos
+'>N': 'NP',  # Adjuntos adnominais - pela teoria X', ocorre uma dobra do XP origem. (Mioto, p 68)
+'N<': 'NP',  # Adjuntos adnominais - pela teoria X', ocorre uma dobra do XP origem. (Mioto, p 68)
+'>A': '>A',  # Adjuntos adverbiais/adjectivais - PRECISA VERIFICAR O NUCLEO (irmão) TODO
+'A<': 'A<',  # Adjuntos adverbiais/adjectivais - PRECISA VERIFICAR O NUCLEO (irmão) TODO
+'>P': 'PP',  # Adjuntos preposicionais - Adjunto de PP, pela X'
+'P<': 'PP',  # Adjuntos preposicionais - Adjunto de PP, pela X'
+'KOMP<': settings.tagKomp,

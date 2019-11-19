@@ -1,6 +1,6 @@
 (
  (S 
-  (UCP 
+  (S 
    (VP 
     (NP 
      (DT O)
@@ -19,10 +19,10 @@
      )
     )
    )
-   e
+   (CC e)
    (VP 
     (NP 
-     (PRP todos)
+     (DT todos)
      (DT os)
      (NN capítulos)
     )
@@ -33,11 +33,10 @@
     (PP 
      (IN de)
      (NP 
-      (UCP 
+      (NP 
        (NP 
         (NN notas)
        )
-       ,
        (NP 
         (NN dicas)
        )
@@ -46,7 +45,6 @@
         (NN alertas)
        )
       )
-      ,
       (VP 
        (VP 
         (VBN ilustradas)
@@ -57,24 +55,17 @@
          (DT as)
          (JJ respectivas)
          (NN figuras)
-         (UCP 
-          -RRB-
+         (NP 
           (NP 
            (NN Note)
           )
-          -RRB-
-          ,
-          -RRB-
           (NP 
            (NN Tip)
           )
-          -RRB-
           e
-          -RRB-
           (NP 
            (NN Stop)
           )
-          -RRB-
          )
         )
        )
@@ -82,7 +73,6 @@
      )
     )
    )
-   .
   )
  )
 )

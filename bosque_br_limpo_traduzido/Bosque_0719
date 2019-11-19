@@ -31,7 +31,6 @@
      (NN nomes)
     )
    )
-   ,
    (VP 
     (IN se)
     (NP 
@@ -77,14 +76,13 @@
          )
         )
        )
-       ,
        (ADVP 
         (RB certamente)
        )
        (ADVP 
         (RB mais)
         (SBAR do_que
-         (NP 
+         (S 
           (DT a)
           (NN tiragem)
           (ADJP 
@@ -93,7 +91,7 @@
           (PP 
            (IN de)
            (NP 
-            (PRP todos)
+            (DT todos)
             (DT os)
             (NN jornais)
             (ADJP 
@@ -108,7 +106,6 @@
      )
     )
    )
-   ?
   )
  )
 )

@@ -4,7 +4,6 @@
    (ADVP 
     (RB Por_exemplo)
    )
-   ;
    (NP 
     (DT o)
     (NN master-franqueado)
@@ -28,12 +27,12 @@
    )
    (NP 
     (NP 
-     (PRP menos)
+     (DT menos)
      (NN problemas)
     )
     e
     (NP 
-     (PRP menos)
+     (DT menos)
      (NN burocracia)
     )
    )
@@ -47,16 +46,14 @@
       (NP 
        (DT o)
        (NN rosbife)
-       -LCB-
        (VP 
         (NP 
          (PRP que)
         )
-        ,
         (PP 
          (IN ao_contrário_de+)
          (NP 
-          (PRP o)
+          (DT o)
           (VP 
            (NP 
             (PRP que)
@@ -77,7 +74,6 @@
           )
          )
         )
-        ,
         (VP 
          (VBP vem)
         )
@@ -89,17 +85,14 @@
          )
         )
        )
-       -RCB-
       )
       e
       (NP 
        (DT as)
        (NN batatinhas)
-       -LCB-
        (ADJP 
         (JJ canadenses)
        )
-       -RCB-
        (VP 
         (NP 
          (PRP que)
@@ -110,7 +103,7 @@
         (PP 
          (IN em)
          (NP 
-          (PRP seus)
+          (DT seus)
           (NN restaurantes)
           (UCP 
            (ADJP 
@@ -126,7 +119,6 @@
      )
     )
    )
-   .
   )
  )
 )

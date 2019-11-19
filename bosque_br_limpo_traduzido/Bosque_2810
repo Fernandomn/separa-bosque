@@ -4,7 +4,7 @@
    (NP 
     (DT O)
     (NN compromisso)
-    (UCP 
+    (PP 
      (PP 
       (IN com)
       (NP 
@@ -12,16 +12,13 @@
        (NN precisão)
       )
      )
-     -LCB-
      e
-     ,
      (PP 
       (IN por)
       (NP 
        (NN extensão)
       )
      )
-     ,
      (PP 
       (IN com)
       (NP 
@@ -29,7 +26,6 @@
        (NN leitor)
       )
      )
-     -RCB-
     )
    )
    (VP 
@@ -38,7 +34,7 @@
    (ADVP 
     (RB menos)
     (SBAR do_que
-     (NP 
+     (S 
       (DT a)
       (NN torcida)
       (PP 
@@ -54,11 +50,10 @@
    (PP 
     (IN em+)
     (NP 
-     (PRP essas)
+     (DT essas)
      (NN horas)
     )
    )
-   .
   )
  )
 )

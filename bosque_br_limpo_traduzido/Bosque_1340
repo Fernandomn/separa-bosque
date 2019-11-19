@@ -4,7 +4,6 @@
    (NP 
     (NNP SÃO_PAULO)
    )
-   --
    (VP 
     (IN Se)
     (NP 
@@ -29,7 +28,7 @@
          (VB ler)
         )
         (NP 
-         (PRP todas)
+         (DT todas)
          (DT as)
          (NN repercussões)
          (PP 
@@ -60,55 +59,49 @@
      )
     )
    )
-   (, 
+   (VP 
+    (VBP terá)
+    (VBN verificado)
+   )
+   (VP 
+    (IN que)
     (VP 
-     (VBP terá)
-     (VBN verificado)
-    )
-    (VP 
-     (IN que)
-     ,
-     (VP 
-      (ADVP 
-       (RB como)
-      )
-      (ADVP 
-       (RB sempre)
-      )
-      (VP 
-       (VBP ocorre)
-      )
-      (PP 
-       (IN em+)
-       (NP 
-        (PRP essas)
-        (NN ocasiões)
-       )
-      )
-     )
-    )
-    ,
-    (VP 
-     (VBP há)
-    )
-    (NP 
-     (NN opiniões)
-     (ADJP 
-      (JJ contrárias)
-     )
-     ,
      (ADVP 
-      (ADVP 
-       (RB a_favor)
-      )
-      e
-      (ADVP 
-       (RB mais_ou_menos)
+      (RB como)
+     )
+     (ADVP 
+      (RB sempre)
+     )
+     (VP 
+      (VBP ocorre)
+     )
+     (PP 
+      (IN em+)
+      (NP 
+       (DT essas)
+       (NN ocasiões)
       )
      )
     )
    )
-   .
+   (VP 
+    (VBP há)
+   )
+   (NP 
+    (NN opiniões)
+    (ADJP 
+     (JJ contrárias)
+    )
+    (ADVP 
+     (ADVP 
+      (RB a_favor)
+     )
+     e
+     (ADVP 
+      (RB mais_ou_menos)
+     )
+    )
+   )
   )
  )
 )

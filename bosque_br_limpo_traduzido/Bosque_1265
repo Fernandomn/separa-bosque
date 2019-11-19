@@ -2,7 +2,7 @@
  (S 
   (VP 
    (NP 
-    (PRP Esse)
+    (DT Esse)
     (NN colégio)
    )
    (VP 
@@ -24,12 +24,11 @@
        (NNP Ufir)
        (NP 
         (RB quase)
-        (NN R)
+        (NN R$)
         (NP 
          (CD 1)
          (NN milhão)
         )
-        ,
         (NP 
          (NN valor)
          (VP 
@@ -45,21 +44,17 @@
             (NP 
              (DT o)
              (NNP II)
-             -LCB-
              (NP 
               (NNP Imposto_de_Importação)
              )
-             -RCB-
             )
            )
-           e
+           (CC e)
            (NP 
             (NNP IPI)
-            -LCB-
             (NP 
              (NNP Imposto_sobre_Produtos_Industrializados)
             )
-            -RCB-
             (VP 
              (VP 
               (VBN sonegados)
@@ -81,7 +76,6 @@
      )
     )
    )
-   .
   )
  )
 )

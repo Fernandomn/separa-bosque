@@ -1,8 +1,8 @@
-import settings
 import os
 import sys
+
+import settings
 import tradutor
-import csv
 
 # Referencias:
 # https://www.linguateca.pt/floresta/BibliaFlorestal/anexo1.html
@@ -68,10 +68,15 @@ def print_occ_list(rel, rel_name):
 
 def imprimeRelatorios():
     rel_list = [settings.rel_point, settings.rel_form_tag, settings.rel_func_tag, settings.rel_func_form_tag,
-                settings.rel_form_func_tag]
-    rel_names = ["rel_point", "rel_form_tag", "rel_func_tag", "rel_func_form_tag", "rel_form_func_tag"]
+                settings.rel_form_func_tag, settings.rel_inner_pos_conj_tag]
+    rel_names = ["rel_point", "rel_form_tag", "rel_func_tag", "rel_func_form_tag", "rel_form_func_tag",
+                 "rel_inner_pos_conj_tag"]
     for i in range(len(rel_list)):
         print_occ_list(rel_list[i], rel_names[i])
+
+
+def setFilesToIgnore():
+    settings.filesToIgnore = settings.filesToIgnoreBR if settings.portugues == 'br' else settings.filesToIgnorePT
 
 
 def main():
@@ -83,6 +88,7 @@ def main():
         lingua = sys.argv[sys.argv.index('-l') + 1]
         if lingua == 'pt' or lingua == 'br':
             settings.portugues = lingua
+            print('Língua definida:' + lingua)
         else:
             print('Erro: lingua não esperada')
             return 1
@@ -90,6 +96,7 @@ def main():
         settings.portugues = 'br'
 
     imprime_rel = True
+    setFilesToIgnore()
 
     endereco = "~/stanford-parser/BOSQUE/"
     # CENTEMPublico (portugues de portugual)

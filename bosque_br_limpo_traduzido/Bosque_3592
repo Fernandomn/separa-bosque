@@ -1,8 +1,7 @@
 (
  (S 
   (VP 
-   E
-   ,
+   (CC E)
    (NP 
     (NN horror)
     (PP 
@@ -13,7 +12,6 @@
      )
     )
    )
-   ,
    (ADVP 
     (RB são)
    )
@@ -34,14 +32,13 @@
      (RB mais)
      (VBN apurado)
      (SBAR do_que
-      (NP 
+      (S 
        (DT os)
        (NN homens)
       )
      )
     )
    )
-   -LCB-
    (VP 
     (VP 
      (VBP pare)
@@ -49,10 +46,9 @@
      (VB dar)
     )
     (NP 
-     (PRP essas)
+     (DT essas)
      (NN risadinhas)
     )
-    ,
     (NP 
      (PRP você)
     )
@@ -74,8 +70,6 @@
      )
     )
    )
-   -RCB-
-   .
   )
  )
 )

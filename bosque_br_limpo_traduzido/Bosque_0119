@@ -1,6 +1,6 @@
 (
  (S 
-  (UCP 
+  (S 
    (VP 
     (NP 
      (DT O)
@@ -12,7 +12,7 @@
     (ADVP 
      (RB mais)
      (SBAR que
-      (NP 
+      (S 
        (DT o)
        (NN dobro)
        (PP 
@@ -37,21 +37,19 @@
      )
     )
    )
-   ,
-   mas
+   (CC mas)
    (VP 
     (ADJP 
      (JJ menor)
      (SBAR que
-      (NP 
+      (S 
        (DT o)
        (JJ original)
        (VBN pedido)
-       ,
        (PP 
         (IN de)
         (NP 
-         (NN US)
+         (NN US$)
          (NP 
           (CD 895)
           (NN milhões)
@@ -62,7 +60,6 @@
      )
     )
    )
-   .
   )
  )
 )
