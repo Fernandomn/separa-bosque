@@ -21,7 +21,7 @@ getTrainingBlockPt() {
 # shellcheck disable=SC2164
 cd "$HOME"/projeto-final-parsers/stanford-parser-full-2017-06-09
 
-qntFolds=5
+qntFolds=10
 
 dirBr="$HOME/projeto-final-parsers/BOSQUE/bosque_br_limpo_traduzido"
 dirPt="$HOME/projeto-final-parsers/BOSQUE/bosque_pt_limpo_traduzido"
@@ -45,11 +45,17 @@ outputFilesDirectory="$HOME/projeto-final-parsers/outputs/treinoBOSQUE/treino"
 
 while (("$count" < "$qntFolds")); do
 
-  testBlockBr="$(getTrainingBlockBr $count)"
-  testBlockPt="$(getTrainingBlockPt $count)"
+  testBlockBr=$((($count * $blockSizeBr) + 1))-$(($(($count + 1)) * $blockSizeBr))
+  testBlockPt=$((($count * $blockSizePt) + 1))-$(($(($count + 1)) * $blockSizePt))
   #  # shellcheck disable=SC2004
-  trainingBlockBr=$((($count * $blockSizeBr) + 1))-$(($(($count + 1)) * $blockSizeBr))
-  trainingBlockPt=$((($count * $blockSizePt) + 1))-$(($(($count + 1)) * $blockSizePt))
+  trainingBlockBr="$(getTrainingBlockBr $count)"
+  trainingBlockPt="$(getTrainingBlockPt $count)"
+
+  # testBlockBr="$(getTrainingBlockBr $count)"
+  #  testBlockPt="$(getTrainingBlockPt $count)"
+  #  #  # shellcheck disable=SC2004
+  #  trainingBlockBr=$((($count * $blockSizeBr) + 1))-$(($(($count + 1)) * $blockSizeBr))
+  #  trainingBlockPt=$((($count * $blockSizePt) + 1))-$(($(($count + 1)) * $blockSizePt))
 
   textGrammarFilename="$HOME/projeto-final-parsers/serialized-files/textGrammarBOSQUE$(($count + 1))"
   serializedGrammarFilename="$HOME/projeto-final-parsers/serialized-files/serialGrammarBOSQUE$(($count + 1))"
